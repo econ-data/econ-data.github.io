@@ -41,7 +41,7 @@ function referenceHtml(r) {
   return `<li>${authors?esc(authors)+' ':''}(${esc(year)}). ${title}.${publication?' <em>'+publication+'</em>.':''}${r.note?'<small class="reference-note">'+esc(r.note)+'</small>':''}</li>`;
 }
 function detailSection(title,content) { return `<section class="detail-section"><h3>${title}</h3>${content}</section>`; }
-function prose(text) { return text?`<div class="fulltext">${esc(text)}</div>`:'<p class="placeholder">待补充</p>'; }
+function prose(text) { return text?`<div class="fulltext">${text.split(/\n\s*\n/).filter(Boolean).map(p=>`<p>${esc(p)}</p>`).join('')}</div>`:'<p class="placeholder">待补充</p>'; }
 function openDetail() {
   if(!location.hash.startsWith('#dataset/')){if($('#detail').open)$('#detail').close();return}
   const d=data.find(x=>x.id===decodeURIComponent(location.hash.slice(9))); if(!d)return;
@@ -57,4 +57,4 @@ window.addEventListener('hashchange',openDetail);
 ['search','sort','withlinks'].forEach(id=>$('#'+id).addEventListener(id==='search'?'input':'change',()=>{page=1;render()}));
 $('#reset').onclick=()=>{region=category='全部';page=1;$('#search').value='';$('#sort').value='original';$('#withlinks').checked=false;tabs();categories();render()};
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)&&!$('#detail').open){e.preventDefault();$('#search').focus()}});
-fetch('data.json?v=2').then(r=>{if(!r.ok)throw Error('data');return r.json()}).then(rows=>{data=rows;$('#total').textContent=data.length;$('#groups').textContent=REGIONS.length;$('#links').textContent=TOPICS.length;tabs();categories();render();openDetail()}).catch(()=>{$('#results').innerHTML='<div class="empty">目录加载失败，请刷新页面重试。</div>'});
+fetch('data.json?v=3').then(r=>{if(!r.ok)throw Error('data');return r.json()}).then(rows=>{data=rows;$('#total').textContent=data.length;$('#groups').textContent=REGIONS.length;$('#links').textContent=TOPICS.length;tabs();categories();render();openDetail()}).catch(()=>{$('#results').innerHTML='<div class="empty">目录加载失败，请刷新页面重试。</div>'});

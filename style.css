@@ -2,3 +2,5 @@
 #categories{max-height:640px;overflow:auto}#categories button{flex-shrink:0}#categories button span{max-width:155px;overflow-wrap:anywhere}.directory{min-width:0}@media(max-width:800px){#categories{max-height:none}#categories button span{max-width:none}}
 aside{min-width:0}
 .detail-section{margin:30px 0}.detail-section h3{font:600 18px var(--serif);margin:0 0 12px;color:var(--text)}.detail-section+.detail-section{padding-top:12px}.placeholder{min-height:25px;color:var(--muted);font-size:13px}.references{padding-left:24px;margin:0}.references li{padding-left:3px;margin:0 0 18px;line-height:1.9;overflow-wrap:anywhere}.references a{font-family:var(--serif)}.reference-note{display:block;color:var(--muted);font-size:11px}.data-links{padding-left:20px}.data-links li{margin:8px 0}.entry-meta .tag{margin-right:3px}#categories{max-height:none}#tabs{flex-wrap:wrap;gap:0 23px}#tabs button{padding-bottom:12px}@media(max-width:800px){#tabs{flex-wrap:nowrap;gap:20px}.detail-section{margin:26px 0}}
+
+.fulltext{white-space:normal;letter-spacing:normal;word-spacing:normal;text-align:left}.fulltext p{margin:0 0 1em}.fulltext p:last-child{margin-bottom:0}
