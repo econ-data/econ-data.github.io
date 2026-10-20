@@ -152,7 +152,8 @@
       "中国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "金融数据"
     ],
     "introduction": "中国家庭金融调查（ChinaHouseholdFinanceSurvey，CHFS）是西南财经大学中国家庭金融调查与研究中心在全国范围内开展的抽样调查项目，旨在收集有关家庭金融微观层次的相关信息，主要内容包括：住房资产与金融财富、负债与信贷约束、收入与消费、社会保障与保险、代际转移支付、人口特征与就业以及支付习惯等相关信息，以便为学术研究和政府决策提供高质量的微观家庭金融数据，对家庭经济、金融行为进行了全面细致的刻画。自\n2011年起，调查已成功实施七轮，样本分布于29个省、355个县（区、县级市）、1428个社区；\n覆盖40011户家庭及12.7万个体；具有全国、省级和副省级城市代表性。",
     "source": "公开数据。2011 年-2019 年五个年度的家庭金融调查数据库可通过数据提供方进行申请。",
@@ -201,7 +202,8 @@
       "中国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "健康数据"
     ],
     "introduction": "中国健康与养老追踪调查（China Health and Retirement Longitudinal Study,\nCHARLS）是由武汉大学和北京大学共同执行的大型跨学科调查项目，是国家自然科学基金委资助的重大项目，旨在收集一套代表中国45岁及以上中老年人家庭和个人的高质量微观数据，\n用以分析我国人口老龄化问题，推动老龄化问题的跨学科研究，为制定和完善我国相关政策提供更加科学的基础。CHARLS曾于2008年在分别代表我国东西部典型国情的浙江、甘肃两省开展预调查；全国基线调查于2011年开展，样本覆盖全国随机抽取的150个县区、450个村居的万余户家庭。此后，于2013、2015、2018、2020、2021-23年继续开展全国追踪调查。CHARLS\n问卷内容包括：个人基本信息，家庭结构和经济支持，健康状况，体格测量，医疗服务利用和医疗保险，工作、退休和养老金、收入、消费、资产，以及社区基本情况等。",
     "source": "公开数据。可通过数据提供方进行下载使用。",
@@ -388,7 +390,8 @@
       "中国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "农业数据"
     ],
     "introduction": "中国农村固定观察点追踪调查（NFP，NationalFixedPointSurvey）是由中国农业农村部组织开展的长期、系统性的农村监测项目，自20世纪80年代末开始运行，覆盖全国具有代表性的固定村级观察点。该调查以年度连续追踪的方式收集农户的生产经营、劳动力流动、收入结构、土地流转、农村社会保障及农资价格等详细信息，同时记录村级经济状况与政策实施情况。NFP数据具有时间跨度长、指标体系完整、追踪一致性强等特点，能够反映中国农村经济、农业生产与农户行为的动态变化，被广泛用于研究农村发展、农业政策评估、贫困治理、土地制度与劳动力迁移等重要问题，是国内外研究中国“三农”问题最权威、最常用的微观数据来源之一。",
     "source": "非公开数据。需要向相关单位申请使用，无公开申请渠道。",
@@ -423,7 +426,8 @@
       "中国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "健康数据"
     ],
     "introduction": "该数据集是一个由中国和美国合作进行的研究项目，旨在了解中国人口的健康、\n营养、饮食习惯和生活方式，并跟踪这些因素随着时间和社会变化而发展。该项目旨在为研究者、政策制定者和公众提供中国人口健康和营养的深入了解，以便改善健康状况和制定相关政策。调查始于1989年，即1991、1993、1997、2000、2004、2006、2009、2011、2015、2018，未来可能会继续更新。",
     "source": "数据分为个体（individual）、家户（household）、社区（commuinty）三个层级，其中个体和家户的数据可以在数据主页Dataverse公开获取，社区数据不可公开获取，需要提交申请，详情参见数据提供方说明。\n\n数据清单：数据基本情况和使用介绍",
@@ -1019,7 +1023,8 @@
       "美国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "健康数据"
     ],
     "introduction": "",
     "source": "",
@@ -1034,7 +1039,8 @@
       "美国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "健康数据"
     ],
     "introduction": "",
     "source": "",
@@ -1049,7 +1055,8 @@
       "美国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "健康数据"
     ],
     "introduction": "",
     "source": "",
@@ -1064,7 +1071,8 @@
       "美国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "健康数据"
     ],
     "introduction": "",
     "source": "",
@@ -1094,7 +1102,8 @@
       "美国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "金融数据"
     ],
     "introduction": "",
     "source": "",
@@ -1142,7 +1151,8 @@
       "美国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "健康数据"
     ],
     "introduction": "To investigate whether outside weather conditions alter the propensity to en-\ngageinphysicalactivity,weconstructedadatasetofindividuals’reportedmonthlyparticipa-\ntioninrecreationalphysicalactivitylinkedwithhistoricalmeteorologicaldata. Ourindividual\nresponse data come from the Center for Disease Control and Prevention’s Behavioral Risk\nFactor Surveillance Survey (BRFSS) pooled over the period 2002–2012. Randomly selected re-\nspondentsansweredthefollowingquestion:“Duringthepastmonth,otherthanyourregular\njob,didyouparticipateinanyphysicalactivitiesorexercisessuchasrunning,calisthenics,golf,\ngardening,orwalkingforexercise?”\nThis question includes the most common leisure-time physical activities engaged in by\nadult residents of the United States13. Questions from the BRFSS have been assessed for va-\nlidity14andreliability15andarelargelyconsistentwithotherhealth-relatedactivitymeasures,\nincluding on dimensions of physical activity16. Furthermore, this specific question is used in\nwidelycitedpublichealthstudiesrelatingtophysicalactivity17,18.",
     "source": "",
@@ -1175,7 +1185,8 @@
       "美国数据"
     ],
     "topics": [
-      "微观调查数据"
+      "微观调查数据",
+      "健康数据"
     ],
     "introduction": "• 由南加州大学CenterforEconomicandSocialResearch（USCCESR）负责运营\n• UAS 是一个具有全美代表性的、基于概率抽样的互联网追踪调查。目前样本大约包括\n15,000名美国居民，其中包含约3,500人的加州加抽样本。核心成年样本主要通过基于住址的抽样方法招募；对于没有网络或设备的家庭，项目会提供平板电脑和互联网服务，从而减少数字鸿沟造成的样本选择问题。调查同时提供英文和西班牙文版本\n• 受访者通常每月完成一到两次网络问卷。不同问卷可以通过匿名的个人识别码进行合并，\n因此它既包含横截面调查，也具有很强的纵向追踪性质。受访者加入后需要完成并定期更新MyHousehold问卷，其中包括年龄、教育、婚姻、就业、居住州、家庭结构等基础人口学变量\n• 调查内容：\n– 健康、医疗服务和心理健康；\n– 就业、收入、劳动市场与退休；\n– 教育与儿童发展；\n– 金融素养、家庭财务和社会保障知识；\n– 认知能力、人格和主观幸福感；\n– 住房、社会态度和政治行为；\n– COVID-19、药物使用、可穿戴设备和实时活动数据等\n– 除普通问卷外，UAS还包含实验性调查、可穿戴设备数据、行政记录链接以及环境和地理背景数据",
     "source": "免费注册后、签署数据使用协议即可申请使用的公共研究数据",
