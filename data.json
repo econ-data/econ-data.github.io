@@ -666,6 +666,44 @@
         "url": "https://doi.org/10.1257/aer.20191234",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "title": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Zhao Chen",
+          "Zhikuo Liu",
+          "Juan Carlos Suárez Serrato",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "2",
+        "pages": "408–447",
+        "doi": "10.1257/aer.20211455",
+        "url": "https://doi.org/10.1257/aer.20211455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism in China",
+        "title": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Nicholas Ryan",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w33636",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -723,6 +761,44 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2020.102610",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "title": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Zhao Chen",
+          "Zhikuo Liu",
+          "Juan Carlos Suárez Serrato",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "2",
+        "pages": "408–447",
+        "doi": "10.1257/aer.20211455",
+        "url": "https://doi.org/10.1257/aer.20211455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism in China",
+        "title": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Nicholas Ryan",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w33636",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -739,7 +815,28 @@
     ],
     "introduction": "企业税收调查数据库通常指国家税务总局与财政部联合组织的全国税收调查所形成的企业级数据，每年对抽样企业收集纳税申报、财务报表和经营信息，样本覆盖多个行业，包含企业所得税、增值税等税种的申报数额，以及资产负债、收入成本等会计信息。\n\n研究中常用于评估税收政策改革的企业效应，如增值税转型、所得税优惠对投资、就业与创新的影响，也常与工业企业数据库合并使用。\n\n该数据为非公开的行政类调查数据，一般只在特定合作条件下取得；各年度样本、行业与税种口径存在差异，样本进出频繁，使用前应说明数据来源、样本选择和匹配方法。",
     "source": "企业级税收记录通常涉及非公开信息。目标数据是否可供研究、申请资格和安全要求，应向主管部门或获授权的持有机构核实；本目录不承诺存在公开申请或下载渠道。",
-    "references": []
+    "references": [
+      {
+        "raw": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "title": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Zhao Chen",
+          "Zhikuo Liu",
+          "Juan Carlos Suárez Serrato",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "2",
+        "pages": "408–447",
+        "doi": "10.1257/aer.20211455",
+        "url": "https://doi.org/10.1257/aer.20211455",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.2.4",
@@ -780,6 +877,126 @@
     "introduction": "专利数据记录专利申请、公开、授权、申请人（发明人）、国际专利分类（IPC）、摘要权利要求和引文等信息，是衡量创新活动的常用指标。中国的专利官方数据由国家知识产权局（CNIPA）管理，类型包括发明、实用新型和外观设计，其中发明专利要经过实质审查，实用新型和外观设计不需要，质量差异较大。\n\n官方网站提供专利检索入口并发布年度统计。其他常用来源包括世界知识产权组织（WIPO）、欧洲专利局（EPO）及美国专利商标局（USPTO）的数据，可用于跨国研究。研究中常用于测量企业或地区的创新产出、知识扩散和技术结构。\n\n使用时应区分申请量与授权量、申请日与授权日，注意专利权人名称的标准化与匹配、专利类型间的质量差异，以及不同司法辖区的法律状态口径。",
     "source": "优先使用国家知识产权局、其他官方专利机构或具有明确授权的数据服务。公开检索、批量数据和商业加工产品可能采用不同条款，应分别核对下载、自动访问及再分发权限。",
     "references": []
+  },
+  {
+    "id": "1.2.6",
+    "title": "千家/万家企业节能行动名单",
+    "links": [],
+    "summary": "国家发展改革委等部门发布的“千家企业节能行动”与“万家企业节能低碳行动”重点用能企业名单及节能目标。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "能源数据"
+    ],
+    "introduction": "“千家企业节能行动”于 2006 年启动，将年综合能耗较高的约一千家重点用能企业纳入节能目标责任考核；“万家企业节能低碳行动”于 2011 年扩展到一万六千多家企业。名单由国家发展改革委等部门以通知形式公布，列明企业名称、所在省份以及“十一五”“十二五”期间的节能量目标，部分地区还公布了年度考核结果。\n\n名单常与工业企业数据库、环境统计数据或税收调查按企业名称匹配，用于评估节能目标责任制、能源规制和企业集团内部的生产转移。名单和考核结果分散在不同年份的通知中，企业更名、拆分和集团关系需要手工核对。",
+    "source": "名单与考核结果以国家发展改革委及相关部门公开通知的形式发布，可在政府网站或公报中检索；研究者整理的匹配版本应注明所用通知文号和匹配方法。",
+    "references": [
+      {
+        "raw": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "title": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Zhao Chen",
+          "Zhikuo Liu",
+          "Juan Carlos Suárez Serrato",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "2",
+        "pages": "408–447",
+        "doi": "10.1257/aer.20211455",
+        "url": "https://doi.org/10.1257/aer.20211455",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.2.7",
+    "title": "工商企业注册登记数据",
+    "links": [
+      {
+        "label": "国家企业信用信息公示系统",
+        "url": "https://www.gsxt.gov.cn/"
+      }
+    ],
+    "summary": "市场监管（原工商行政管理）部门的企业登记记录，包括企业名称、成立日期、注册资本、经营范围、股东与变更信息。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "企业注册登记数据来自市场监管部门（原工商行政管理部门）的企业登记档案，记录企业名称、统一社会信用代码、成立与注销日期、注册资本、行业与经营范围、注册地址、法定代表人、股东及出资、历次变更等信息，覆盖各类登记注册的市场主体。研究中常用于构建企业进入与退出、所有制与股权结构、企业集团关系，以及与其他企业数据库的匹配桥梁。\n\n学术研究使用的完整历史登记库通常来自政府部门合作或商业数据公司整理，不同来源在覆盖年份、字段完整性和更新时间上差异较大。",
+    "source": "国家企业信用信息公示系统提供单个企业的公开信息查询；批量历史数据一般需通过与主管部门合作或商业数据服务商获取，应核对授权范围与再使用条件。",
+    "references": [
+      {
+        "raw": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "title": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Zhao Chen",
+          "Zhikuo Liu",
+          "Juan Carlos Suárez Serrato",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "2",
+        "pages": "408–447",
+        "doi": "10.1257/aer.20211455",
+        "url": "https://doi.org/10.1257/aer.20211455",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.2.8",
+    "title": "全国经济普查",
+    "links": [
+      {
+        "label": "国家统计局普查数据",
+        "url": "https://www.stats.gov.cn/sj/pcsj/"
+      }
+    ],
+    "summary": "国家统计局组织的全国经济普查，覆盖第二、三产业全部法人单位和个体经营户，2004 年起每五年一次。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "普查数据",
+      "微观企业数据"
+    ],
+    "introduction": "全国经济普查由国务院统一领导、国家统计局组织实施，首次普查于 2004 年开展，此后在 2008、2013、2018 和 2023 年进行。普查对象为在中国境内从事第二产业和第三产业的全部法人单位、产业活动单位和个体经营户，内容包括单位基本属性、从业人员、财务状况、生产经营、能源消费和科技活动等。\n\n与只覆盖规模以上工业企业的年度统计不同，经济普查提供了包括中小企业和服务业在内的全口径企业信息，常用于校准企业规模分布、评估规模以上统计的覆盖偏差，以及构建区域产业结构。公开发布的主要是普查公报和汇总资料，企业层面微观数据不公开。",
+    "source": "国家统计局发布普查公报和普查年鉴；企业层面记录属于保密统计资料，研究使用需通过官方授权渠道，不能以流传文件替代。",
+    "references": [
+      {
+        "raw": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "title": "Regulating Conglomerates: Evidence from an Energy Conservation Program in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Zhao Chen",
+          "Zhikuo Liu",
+          "Juan Carlos Suárez Serrato",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "2",
+        "pages": "408–447",
+        "doi": "10.1257/aer.20211455",
+        "url": "https://doi.org/10.1257/aer.20211455",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.3.1",
@@ -1346,6 +1563,23 @@
         "url": "https://doi.org/10.1093/qje/qjv001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "authors": [
+          "Daniel Aronoff",
+          "Will Rafey"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "5",
+        "pages": "1723–1764",
+        "doi": "10.1257/aer.20231016",
+        "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1756,6 +1990,22 @@
         "url": "https://doi.org/10.1257/aer.20230761",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1796,6 +2046,22 @@
         "pages": "3058–3080",
         "doi": "10.1257/aer.20230761",
         "url": "https://doi.org/10.1257/aer.20230761",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
       }
@@ -2280,6 +2546,75 @@
         "url": "https://doi.org/10.1093/qje/qjac039",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "title": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "authors": [
+          "Adrien Bilal",
+          "Diego R. Känzig"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "889–944",
+        "doi": "10.1093/qje/qjag011",
+        "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Transitions in Regulated Markets",
+        "title": "Energy Transitions in Regulated Markets",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Mar Reguant"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2928–2961",
+        "doi": "10.1257/aer.20240094",
+        "url": "https://doi.org/10.1257/aer.20240094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2599,6 +2934,23 @@
         "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5433735",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "authors": [
+          "Daniel Aronoff",
+          "Will Rafey"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "5",
+        "pages": "1723–1764",
+        "doi": "10.1257/aer.20231016",
+        "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2880,6 +3232,25 @@
         "url": "https://doi.org/10.1257/aer.20230761",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Welfare Analysis of Policies Impacting Climate Change",
+        "title": "A Welfare Analysis of Policies Impacting Climate Change",
+        "authors": [
+          "Robert W. Hahn",
+          "Nathaniel Hendren",
+          "Robert D. Metcalfe",
+          "Ben Sprung-Keyser"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2368–2421",
+        "doi": "10.1257/aer.20250166",
+        "url": "https://doi.org/10.1257/aer.20250166",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2963,6 +3334,42 @@
         "pages": "2508–2537",
         "doi": "10.1093/restud/rdad090",
         "url": "https://doi.org/10.1093/restud/rdad090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Transitions in Regulated Markets",
+        "title": "Energy Transitions in Regulated Markets",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Mar Reguant"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2928–2961",
+        "doi": "10.1257/aer.20240094",
+        "url": "https://doi.org/10.1257/aer.20240094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
         "verified": true,
         "note": ""
       }
@@ -3381,6 +3788,158 @@
         "pages": "637–701",
         "doi": "10.1093/qje/qjac039",
         "url": "https://doi.org/10.1093/qje/qjac039",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.29",
+    "title": "NOAA 海岸变化分析计划土地覆盖（C-CAP）",
+    "links": [
+      {
+        "label": "NOAA C-CAP 区域土地覆盖",
+        "url": "https://coast.noaa.gov/digitalcoast/data/ccapregional.html"
+      }
+    ],
+    "summary": "NOAA 基于 Landsat 等影像制作的美国沿海地区土地覆盖与变化数据，细分多类湿地。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "NOAA 海岸变化分析计划（Coastal Change Analysis Program，C-CAP）利用卫星影像对美国沿海地区进行土地覆盖分类，区域产品分辨率约 30 米，自 1990 年代中期起每隔约五年更新一期，可比较不同时期的变化；部分地区另有约 1 米分辨率的高精度产品。分类体系对湿地划分较细，包括淡水和咸水沼泽、森林湿地、灌丛湿地等，适合研究湿地损失、开发占用与海岸防护。\n\n分类结果存在误差，不同期次的方法和影像来源可能调整，变化检测应使用官方发布的变化图层，而不是简单比较不同期的分类结果。",
+    "source": "NOAA Digital Coast 平台公开提供下载和元数据，使用时应注明产品年份、分辨率和版本。",
+    "references": [
+      {
+        "raw": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "authors": [
+          "Daniel Aronoff",
+          "Will Rafey"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "5",
+        "pages": "1723–1764",
+        "doi": "10.1257/aer.20231016",
+        "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.30",
+    "title": "USGS 流域边界数据集（WBD）",
+    "links": [
+      {
+        "label": "USGS WBD",
+        "url": "https://www.usgs.gov/national-hydrography/watershed-boundary-dataset"
+      }
+    ],
+    "summary": "USGS 与合作机构维护的全美水文单元边界，按 HUC2 至 HUC12 等层级划分流域。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "流域边界数据集（Watershed Boundary Dataset，WBD）以水文单元代码（Hydrologic Unit Code，HUC）划分美国流域，层级从 2 位的大区到 12 位的子流域。数据与国家水文数据集（NHD）配套，常用于界定水质、湿地补偿和防洪政策的空间范围，或作为水污染外溢分析的空间单元。\n\n边界会随修订而调整，跨年份研究应固定版本；流域边界与行政边界不重合，与县级数据合并时需要面积或人口加权。",
+    "source": "USGS 国家水文数据项目公开提供下载和网络服务，使用时应注明下载版本。",
+    "references": [
+      {
+        "raw": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "authors": [
+          "Daniel Aronoff",
+          "Will Rafey"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "5",
+        "pages": "1723–1764",
+        "doi": "10.1257/aer.20231016",
+        "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.31",
+    "title": "佛罗里达湿地缓解银行与补偿交易数据",
+    "links": [],
+    "summary": "依据《清洁水法》第 404 条等，开发占用湿地需购买缓解银行的补偿额度；相关许可、额度台账和交易价格构成湿地补偿市场数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "商业数据"
+    ],
+    "introduction": "美国《清洁水法》第 404 条及州法规要求占用湿地的开发项目进行补偿，常见方式是向湿地缓解银行（mitigation bank）购买补偿额度（credits）。佛罗里达州环保部（FDEP）、各水管理区和美国陆军工程兵团保存许可、缓解银行设立和额度划拨台账，经纪商另记录额度成交价格。已有研究将这些记录整理为银行、许可和交易层面的数据，用于分析环境补偿市场的设计、价格和生态后果。\n\n台账分散在多个机构，交易价格通常不在监管记录中公开，需要通过信息公开申请或与经纪商协议获得。",
+    "source": "美国陆军工程兵团的 RIBITS 系统公开部分缓解银行和额度信息；州级许可与台账需向 FDEP 或水管理区查询或申请，经纪商价格数据受保密协议约束。",
+    "references": [
+      {
+        "raw": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "authors": [
+          "Daniel Aronoff",
+          "Will Rafey"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "5",
+        "pages": "1723–1764",
+        "doi": "10.1257/aer.20231016",
+        "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.32",
+    "title": "加州 CDEC 水文数据（含水供应指数）",
+    "links": [
+      {
+        "label": "CDEC 水供应指数历史报表",
+        "url": "https://cdec.water.ca.gov/reportapp/javareports?name=WSIHIST"
+      }
+    ],
+    "summary": "加州水资源部数据交换中心（CDEC）发布的河流流量、水库、降水和积雪数据，以及各流域水供应指数。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "能源数据"
+    ],
+    "introduction": "加州数据交换中心（California Data Exchange Center，CDEC）由加州水资源部运营，汇集全州站点的河流流量、水库蓄水、降水、积雪等水文观测，并发布萨克拉门托河谷和圣华金河谷的水供应指数（Water Supply Index，WSI）等年度指标，用于划分丰水年和枯水年。经济学研究常用这些指标衡量水电供给条件、农业用水约束或干旱冲击。\n\nWSI 等指标是基于预测和观测计算的综合指数，年内会更新；站点数据的质量标记和缺测情况需逐站检查。",
+    "source": "CDEC 网站公开提供查询和报表下载，使用时应注明报表名称和查询日期。",
+    "references": [
+      {
+        "raw": "Soaking Up the Sun: Battery Investment, Renewable Energy, and Market Equilibrium",
+        "title": "Soaking Up the Sun: Battery Investment, Renewable Energy, and Market Equilibrium",
+        "authors": [
+          "R. Andrew Butters",
+          "Jackson Dorsey",
+          "Gautam Gowrisankaran"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "3",
+        "pages": "891–927",
+        "doi": "10.3982/ECTA20411",
+        "url": "https://doi.org/10.3982/ECTA20411",
         "verified": true,
         "note": ""
       }
@@ -4135,6 +4694,44 @@
     ]
   },
   {
+    "id": "2.10.5",
+    "title": "Zillow 房屋价值指数（ZHVI）",
+    "links": [
+      {
+        "label": "Zillow Research 数据",
+        "url": "https://www.zillow.com/research/data/"
+      }
+    ],
+    "summary": "Zillow Research 发布的房屋价值指数，按月提供全国、州、都市区、县、城市和邮编等层级的典型房价。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "Zillow 房屋价值指数（Zillow Home Value Index，ZHVI）基于 Zillow 的房屋估值模型，衡量某地区典型住房的价值，按月发布，地理层级包括全国、州、都市区、县、城市、邮编和街区，并区分全部住房、独栋住房、公寓和不同价位分段。数据常用于研究环境品质、灾害风险和政策对房价的影响。\n\nZHVI 是模型估值的平滑指数而非成交价格，方法曾多次修订，历史序列会随修订回溯更新；小地区样本较少时波动和误差更大。",
+    "source": "Zillow Research 数据页面公开提供 CSV 下载，使用时应注明下载日期和所用序列，并遵守 Zillow 的使用条款。",
+    "references": [
+      {
+        "raw": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "authors": [
+          "Daniel Aronoff",
+          "Will Rafey"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "5",
+        "pages": "1723–1764",
+        "doi": "10.1257/aer.20231016",
+        "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.11.1",
     "title": "WRDS 数据库",
     "links": [
@@ -4258,6 +4855,24 @@
         "pages": "",
         "doi": "",
         "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4674279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Transitions in Regulated Markets",
+        "title": "Energy Transitions in Regulated Markets",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Mar Reguant"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2928–2961",
+        "doi": "10.1257/aer.20240094",
+        "url": "https://doi.org/10.1257/aer.20240094",
         "verified": true,
         "note": ""
       }
@@ -4663,6 +5278,195 @@
     ]
   },
   {
+    "id": "2.13.3",
+    "title": "保护储备计划（CRP）合同与投标数据",
+    "links": [
+      {
+        "label": "FSA 保护储备计划",
+        "url": "https://www.fsa.usda.gov/resources/programs/conservation-reserve-program"
+      }
+    ],
+    "summary": "USDA 农场服务局（FSA）保护储备计划的地块合同、竞争性招标投标和环境效益指数记录。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "农业数据",
+      "环境数据"
+    ],
+    "introduction": "保护储备计划（Conservation Reserve Program，CRP）由 USDA 农场服务局（FSA）管理，向农户支付年租金，使其在 10–15 年合同期内将环境敏感耕地退出生产并种植保护性植被。竞争性招标中，农户提交租金报价，FSA 按环境效益指数（Environmental Benefits Index，EBI）和成本择优录取。行政记录包括投标与合同、地块位置、面积、租金、EBI 各分项和土壤生产力等，常用于研究环境补贴的额外性、逆向选择和拍卖设计。\n\nFSA 公开发布州县汇总统计；地块和投标层面的微观记录涉及农户隐私，属保密行政数据。",
+    "source": "FSA 网站提供项目介绍和汇总统计；微观记录需与 USDA 签订数据协议或通过信息公开申请获取，可得字段以授权范围为准。",
+    "references": [
+      {
+        "raw": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "authors": [
+          "Karl M. Aspelund",
+          "Anna Russo"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2765–2805",
+        "doi": "10.1257/aer.20250295",
+        "url": "https://doi.org/10.1257/aer.20250295",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.4",
+    "title": "FSA 共同土地单元（CLU）",
+    "links": [],
+    "summary": "USDA 农场服务局维护的农田地块边界 GIS 数据，是农业项目管理的基本空间单元。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "农业数据",
+      "地理数据"
+    ],
+    "introduction": "共同土地单元（Common Land Unit，CLU）是 FSA 划定的最小农田地块单元，边界依据土地覆盖、所有权和农场管理划分，记录面积和农场、地块编号，可与作物面积申报、保护项目合同等行政记录相连，实现地块层面的空间分析。\n\n由于包含农户信息，2008 年起 CLU 数据不再公开发布，研究使用需经 USDA 授权。",
+    "source": "需通过与 USDA/FSA 的数据协议获取，公开渠道不提供当前版本；早期流传版本的年份和完整性无法保证。",
+    "references": [
+      {
+        "raw": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "authors": [
+          "Karl M. Aspelund",
+          "Anna Russo"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2765–2805",
+        "doi": "10.1257/aer.20250295",
+        "url": "https://doi.org/10.1257/aer.20250295",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.5",
+    "title": "农田数据层（Cropland Data Layer，CDL）",
+    "links": [
+      {
+        "label": "NASS CDL 官方页面",
+        "url": "https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php"
+      }
+    ],
+    "summary": "USDA NASS 基于卫星影像制作的全美逐年作物类型栅格图，分辨率 30 米。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "农业数据",
+      "地理数据"
+    ],
+    "introduction": "农田数据层（Cropland Data Layer，CDL）由 USDA 国家农业统计局（NASS）利用 Landsat、Sentinel 等卫星影像和农场服务局的地面申报数据训练分类模型，按年识别玉米、大豆、小麦等上百种作物和非农地类。全国覆盖始于 2008 年，部分州可追溯到更早年份，分辨率约 30 米，常用于研究种植结构、轮作、土地利用变化和农业政策的空间影响。\n\n各州各年份的分类精度不同，官方随数据发布精度评估；小面积作物和边缘地块的误差较大。",
+    "source": "NASS 通过 CropScape 平台和官网公开提供下载与在线查询，使用时应参考对应年份的精度报告和元数据。",
+    "references": [
+      {
+        "raw": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "authors": [
+          "Karl M. Aspelund",
+          "Anna Russo"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2765–2805",
+        "doi": "10.1257/aer.20250295",
+        "url": "https://doi.org/10.1257/aer.20250295",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.6",
+    "title": "FSA 作物面积申报数据（FSA-578）",
+    "links": [
+      {
+        "label": "FSA 作物面积数据",
+        "url": "https://www.fsa.usda.gov/tools/informational/freedom-information-act-foia/electronic-reading-room/frequently-requested/crop-acreage-data"
+      }
+    ],
+    "summary": "参加 USDA 农业项目的农户通过 FSA-578 表申报各地块的作物种类与种植面积。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "农业数据"
+    ],
+    "introduction": "参加 USDA 农业项目的农户需向农场服务局提交 FSA-578 表，申报各地块（CLU）种植的作物、面积、用途和灌溉情况。FSA 汇总后公开发布按州、县和作物分列的作物面积数据（Crop Acreage Data），地块层面的记录则保存在内部系统中。数据常用于核对种植结构、构建作物面积面板，并与 CDL 卫星数据相互验证。\n\n数据只覆盖参加 FSA 项目的农户，非参与者的种植面积不在其中。",
+    "source": "FSA 在信息公开电子阅览室公开发布汇总的作物面积数据；地块和农户层面的记录需经 USDA 授权使用。",
+    "references": [
+      {
+        "raw": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "authors": [
+          "Karl M. Aspelund",
+          "Anna Russo"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2765–2805",
+        "doi": "10.1257/aer.20250295",
+        "url": "https://doi.org/10.1257/aer.20250295",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.7",
+    "title": "国家农业影像计划（NAIP）航空影像",
+    "links": [
+      {
+        "label": "NAIP 官方门户",
+        "url": "https://naip-usdaonline.hub.arcgis.com"
+      }
+    ],
+    "summary": "USDA 在农作物生长季拍摄的全美高分辨率航空正射影像，分辨率约 1 米或更高。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "农业数据"
+    ],
+    "introduction": "国家农业影像计划（National Agriculture Imagery Program，NAIP）由 USDA 农场服务局在农作物生长季采集美国本土航空正射影像，分辨率约 0.6–1 米，含近红外波段，各州大约每两到三年更新一次。影像可用于核实地块边界、识别土地用途和植被状况，也常作为机器学习识别建筑、太阳能设施等对象的底图。\n\n不同州和年份的拍摄时间、分辨率和波段配置不同，跨期比较需注意季节差异。",
+    "source": "USDA 通过 NAIP 官方门户和地理空间数据网关公开提供影像，部分云平台也提供镜像，使用时应注明州和年份。",
+    "references": [
+      {
+        "raw": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+        "authors": [
+          "Karl M. Aspelund",
+          "Anna Russo"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2765–2805",
+        "doi": "10.1257/aer.20250295",
+        "url": "https://doi.org/10.1257/aer.20250295",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.14",
     "title": "贸易数据",
     "links": [
@@ -4727,6 +5531,42 @@
         "pages": "2508–2537",
         "doi": "10.1093/restud/rdad090",
         "url": "https://doi.org/10.1093/restud/rdad090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Transitions in Regulated Markets",
+        "title": "Energy Transitions in Regulated Markets",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Mar Reguant"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2928–2961",
+        "doi": "10.1257/aer.20240094",
+        "url": "https://doi.org/10.1257/aer.20240094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
         "verified": true,
         "note": ""
       }
@@ -4813,6 +5653,43 @@
         "pages": "2508–2537",
         "doi": "10.1093/restud/rdad090",
         "url": "https://doi.org/10.1093/restud/rdad090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Transitions in Regulated Markets",
+        "title": "Energy Transitions in Regulated Markets",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Mar Reguant"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2928–2961",
+        "doi": "10.1257/aer.20240094",
+        "url": "https://doi.org/10.1257/aer.20240094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Welfare Analysis of Policies Impacting Climate Change",
+        "title": "A Welfare Analysis of Policies Impacting Climate Change",
+        "authors": [
+          "Robert W. Hahn",
+          "Nathaniel Hendren",
+          "Robert D. Metcalfe",
+          "Ben Sprung-Keyser"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2368–2421",
+        "doi": "10.1257/aer.20250166",
+        "url": "https://doi.org/10.1257/aer.20250166",
         "verified": true,
         "note": ""
       }
@@ -4932,6 +5809,42 @@
         "url": "https://doi.org/10.1093/restud/rdad090",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Energy Transitions in Regulated Markets",
+        "title": "Energy Transitions in Regulated Markets",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Mar Reguant"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2928–2961",
+        "doi": "10.1257/aer.20240094",
+        "url": "https://doi.org/10.1257/aer.20240094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5009,6 +5922,208 @@
         "pages": "29–60",
         "doi": "10.3982/ECTA18436",
         "url": "https://doi.org/10.3982/ECTA18436",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.9",
+    "title": "EIA-861 电力公司年报",
+    "links": [
+      {
+        "label": "EIA-861 数据页",
+        "url": "https://www.eia.gov/electricity/data/eia861/"
+      }
+    ],
+    "summary": "EIA-861 表记录美国各电力公司的售电量、收入、用户数、需求侧管理和分布式发电等信息。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "EIA-861（Annual Electric Power Industry Report）每年调查美国电力公司，内容包括按用户类别（居民、商业、工业）的售电量、销售收入和用户数，服务区域所在州和县，需求响应、能效项目、净计量和分布式光伏等。数据可计算各公司的平均电价，并与 EIA-860/923 的电厂数据结合，研究受管制电力公司的定价、投资和能源转型。\n\n部分小型公司采用简表填报，字段较少；不同年份调查项目有增减，公司合并和更名需通过 EIA 公司编码追踪。",
+    "source": "EIA 官方网站公开发布各年度数据文件和表单说明。",
+    "references": [
+      {
+        "raw": "Energy Transitions in Regulated Markets",
+        "title": "Energy Transitions in Regulated Markets",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Mar Reguant"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2928–2961",
+        "doi": "10.1257/aer.20240094",
+        "url": "https://doi.org/10.1257/aer.20240094",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.10",
+    "title": "美国区域电力市场（ISO/RTO）电价与负荷数据",
+    "links": [
+      {
+        "label": "CAISO OASIS",
+        "url": "http://oasis.caiso.com/mrioasis/logon.do"
+      },
+      {
+        "label": "CAISO 供需与可再生能源数据",
+        "url": "https://www.caiso.com/todays-outlook"
+      },
+      {
+        "label": "ISO-NE ISO Express",
+        "url": "https://www.iso-ne.com/isoexpress/"
+      }
+    ],
+    "summary": "CAISO、PJM、MISO、NYISO、ISO-NE 等区域输电组织发布的节点边际电价、负荷和分电源发电数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "美国大部分地区的电力批发市场由区域输电组织或独立系统运营商（ISO/RTO）运营，包括加州 CAISO、PJM、MISO、纽约 NYISO、新英格兰 ISO-NE、德州 ERCOT 和 SPP。各运营商公开发布日前和实时市场的节点边际电价（LMP）、系统负荷、分燃料或可再生能源发电量、输电约束等，时间分辨率通常为 5 分钟至 1 小时。数据常用于研究电力市场竞争、可再生能源并网、储能套利和环境政策的电价效应。\n\n各市场的数据格式、节点命名和历史数据保存期限不同，部分接口需要注册；跨市场比较时需统一时区和价格口径。",
+    "source": "各 ISO/RTO 通过官网数据门户（如 CAISO OASIS、ISO-NE ISO Express）公开发布，批量下载方式和使用条款以各运营商说明为准。",
+    "references": [
+      {
+        "raw": "Energy Transitions in Regulated Markets",
+        "title": "Energy Transitions in Regulated Markets",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Mar Reguant"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "8",
+        "pages": "2928–2961",
+        "doi": "10.1257/aer.20240094",
+        "url": "https://doi.org/10.1257/aer.20240094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Soaking Up the Sun: Battery Investment, Renewable Energy, and Market Equilibrium",
+        "title": "Soaking Up the Sun: Battery Investment, Renewable Energy, and Market Equilibrium",
+        "authors": [
+          "R. Andrew Butters",
+          "Jackson Dorsey",
+          "Gautam Gowrisankaran"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "3",
+        "pages": "891–927",
+        "doi": "10.3982/ECTA20411",
+        "url": "https://doi.org/10.3982/ECTA20411",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.11",
+    "title": "PUDL 公用事业开放数据库",
+    "links": [
+      {
+        "label": "PUDL 项目主页",
+        "url": "https://catalyst.coop/pudl/"
+      }
+    ],
+    "summary": "Catalyst Cooperative 将 EIA、FERC、EPA 等公开能源数据清洗整合而成的开源数据库。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "PUDL（Public Utility Data Liberation）项目由非营利组织 Catalyst Cooperative 维护，将 EIA-860/861/923、FERC Form 1 和 Form 714、EPA CEMS 等分散发布的电力行业数据统一清洗、编码和关联，提供电厂、机组、公司和平衡区之间的对照表，以及 FERC 714 小时负荷等便于使用的表格。它降低了合并多种行政数据的成本，常被用作电力行业研究的数据底座。\n\nPUDL 是对原始公开数据的再加工，处理规则和版本会更新，研究中应注明版本，必要时与原始数据核对。",
+    "source": "Catalyst Cooperative 通过项目网站、数据仓库和云端下载公开提供，代码和数据采用开源许可。",
+    "references": [
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.12",
+    "title": "EPA 避免排放与发电工具（AVERT）",
+    "links": [
+      {
+        "label": "EPA AVERT",
+        "url": "https://www.epa.gov/avert"
+      }
+    ],
+    "summary": "EPA 基于电厂小时运行数据构建的工具，估算能效和可再生能源项目在各电网区域避免的排放量。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "环境数据"
+    ],
+    "introduction": "AVERT（AVoided Emissions and geneRation Tool）由 EPA 开发，利用 CEMS 等电厂逐小时运行数据，统计模拟当某一电网区域的负荷减少或可再生能源发电增加时，哪些化石燃料机组会减少出力，从而估算避免的 CO2、SO2、NOx 和 PM2.5 排放。工具按美国十多个电网区域提供逐年参数，常用于评估能效、风电光伏、电动车等政策的边际排放效益。\n\nAVERT 基于历史运行模式，适合短期边际变化的估算，不反映电厂新建和退役等长期结构变化。",
+    "source": "EPA 官网公开提供工具、区域数据文件和说明文档，使用时应注明数据年份与版本。",
+    "references": [
+      {
+        "raw": "A Welfare Analysis of Policies Impacting Climate Change",
+        "title": "A Welfare Analysis of Policies Impacting Climate Change",
+        "authors": [
+          "Robert W. Hahn",
+          "Nathaniel Hendren",
+          "Robert D. Metcalfe",
+          "Ben Sprung-Keyser"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2368–2421",
+        "doi": "10.1257/aer.20250166",
+        "url": "https://doi.org/10.1257/aer.20250166",
         "verified": true,
         "note": ""
       }
@@ -5344,6 +6459,115 @@
     ]
   },
   {
+    "id": "3.1.9",
+    "title": "Bridge to India 光伏项目与拍卖数据",
+    "links": [
+      {
+        "label": "Bridge to India（现 Crisil i360）",
+        "url": "https://bridgetoindia.com/"
+      }
+    ],
+    "summary": "印度能源咨询机构 Bridge to India 整理的光伏项目和招标拍卖数据库，现并入 Crisil 旗下平台。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "能源数据",
+      "商业数据"
+    ],
+    "introduction": "Bridge to India 是印度的可再生能源咨询公司，长期跟踪印度光伏市场，整理了中央和各邦招标拍卖的批次、容量、中标电价、中标企业和购电方，以及光伏项目的开发商、位置、容量和投运进度等信息，被用于研究印度可再生能源拍卖、购电方信用风险和项目延误。\n\n数据为商业产品，覆盖范围和字段以购买版本为准；该公司现已并入 Crisil 的 i360 平台。",
+    "source": "以商业订阅或购买方式获取，不得公开再分发。",
+    "references": [
+      {
+        "raw": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "title": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "authors": [
+          "Nicholas Ryan"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "3",
+        "pages": "767–810",
+        "doi": "10.3982/ecta21084",
+        "url": "https://doi.org/10.3982/ecta21084",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.1.10",
+    "title": "印度配电公司综合评级",
+    "links": [],
+    "summary": "印度电力部组织的邦级配电公司年度综合评级，衡量财务状况、运营效率和监管环境。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "能源数据",
+      "金融数据"
+    ],
+    "introduction": "印度电力部自 2012 年前后起组织对各邦配电公司（discoms）进行年度综合评级（Integrated Rating），由印度电力金融公司（PFC）牵头，评级机构参与，从财务可持续性、运营绩效、外部环境等方面打分并给出 A+ 至 C- 等级。评级被用作配电公司信用状况的代理变量，研究购电方违约风险对发电投资的影响。\n\n评级方法在不同年份有所修订，等级不能直接跨年份比较。",
+    "source": "评级结果以年度报告形式公开发布，具体发布渠道以印度电力部和 PFC 的说明为准。",
+    "references": [
+      {
+        "raw": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "title": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "authors": [
+          "Nicholas Ryan"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "3",
+        "pages": "767–810",
+        "doi": "10.3982/ecta21084",
+        "url": "https://doi.org/10.3982/ecta21084",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.1.11",
+    "title": "PRAAPTI 电力采购付款门户",
+    "links": [
+      {
+        "label": "PRAAPTI 门户",
+        "url": "https://praapti.in/"
+      }
+    ],
+    "summary": "印度电力部建立的门户网站，公开配电公司向发电企业付款的拖欠金额和账期。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "能源数据",
+      "金融数据"
+    ],
+    "introduction": "PRAAPTI（Payment Ratification And Analysis in Power procurement for bringing Transparency in Invoicing of generators）由印度电力部于 2018 年上线，按配电公司和发电企业公开逾期未付款项、账期和变化趋势，旨在提高电费结算透明度。数据可用于衡量各邦配电公司的付款拖欠，作为交易对手风险的指标。\n\n门户以在线查询为主，历史数据的批量获取方式需要自行整理；发电企业自愿报送，覆盖范围不完整。",
+    "source": "通过 PRAAPTI 门户公开查询。",
+    "references": [
+      {
+        "raw": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "title": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "authors": [
+          "Nicholas Ryan"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "3",
+        "pages": "767–810",
+        "doi": "10.3982/ecta21084",
+        "url": "https://doi.org/10.3982/ecta21084",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.2.1",
     "title": "巴西农业普查（Censo Agropecuário）",
     "links": [
@@ -5381,6 +6605,422 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w33500",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.2",
+    "title": "MapBiomas 巴西土地覆盖与利用",
+    "links": [
+      {
+        "label": "MapBiomas 巴西平台",
+        "url": "https://plataforma.brasil.mapbiomas.org/"
+      }
+    ],
+    "summary": "MapBiomas 项目基于 Landsat 影像制作的 1985 年以来巴西逐年 30 米土地覆盖与土地利用图。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "MapBiomas 由巴西的大学、非政府组织和科技公司合作建设，利用 Landsat 影像和谷歌地球引擎，按年绘制 1985 年以来巴西全境的土地覆盖和土地利用图，分辨率 30 米，分类包括森林、草原、牧场、农田、种植林、城市和水体等，并提供毁林、再生植被、火烧等专题产品。数据按“集合”（Collection）版本发布，常用于研究亚马孙毁林、农业扩张和保护政策。\n\n不同集合版本的分类方法和类别定义有调整，跨版本数据不能直接混用；应注明所用集合编号。",
+    "source": "MapBiomas 平台公开提供下载、统计表和谷歌地球引擎资产，采用开放许可，使用时按要求引用。",
+    "references": [
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.3",
+    "title": "SEEG 巴西温室气体排放估算系统",
+    "links": [
+      {
+        "label": "SEEG 官网",
+        "url": "https://seeg.eco.br/"
+      }
+    ],
+    "summary": "SEEG 按年度估算巴西各部门、各州和市镇的温室气体排放与清除量。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "环境数据",
+      "能源数据"
+    ],
+    "introduction": "温室气体排放与清除估算系统（Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa，SEEG）由巴西气候观察站（Observatório do Clima）发起，依据 IPCC 方法和巴西国家清单，按年估算 1970 年以来能源、工业过程、农业、土地利用变化和废弃物等部门的温室气体排放与清除，并细分到州和市镇。数据常用于分析巴西排放结构，特别是土地利用变化排放。\n\nSEEG 为非官方估算，方法随版本更新会回溯修订历史数据；与巴西官方国家清单的数值可能不同。",
+    "source": "SEEG 网站公开提供数据查询和下载，使用时应注明版本。",
+    "references": [
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.4",
+    "title": "巴西国家水资源计划流域分区（ANA）",
+    "links": [
+      {
+        "label": "SNIRH 元数据记录",
+        "url": "https://metadados.snirh.gov.br/geonetwork/srv/api/records/6141f37f-f15d-42e7-8495-ae9ddad0846f"
+      }
+    ],
+    "summary": "巴西国家水务与卫生局（ANA）发布的国家水资源计划二级子流域边界 GIS 数据。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "巴西国家水务与卫生局（Agência Nacional de Águas e Saneamento Básico，ANA）在国家水资源信息系统（SNIRH）中发布国家水资源计划（PNRH）的水文分区，包括 12 个水文大区及其下的二级子流域边界。数据可作为环境与土地利用研究中的空间单元，例如按流域汇总森林覆盖和碳储量。\n\n分区为规划用途的划分，与行政边界不重合。",
+    "source": "ANA 通过 SNIRH 元数据目录公开提供下载。",
+    "references": [
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.5",
+    "title": "IPEADATA 巴西经济数据库",
+    "links": [
+      {
+        "label": "IPEADATA",
+        "url": "http://www.ipeadata.gov.br/"
+      }
+    ],
+    "summary": "巴西应用经济研究所（IPEA）维护的宏观、区域和社会经济时间序列数据库。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "IPEADATA 由巴西应用经济研究所（Instituto de Pesquisa Econômica Aplicada，IPEA）维护，汇集来自巴西地理与统计局（IBGE）、央行、各部委和地方机构的宏观、区域和社会序列，包括价格、产出、财政、人口和农产品价格，地理层级可到州和市镇，并提供市镇到州府距离等地理变量。例如巴拉那州农业部门（SEAB-PR/DERAL）的农户出售价格等序列也通过该平台发布。\n\n各序列的原始来源和口径不同，使用时应查看每条序列的来源说明。",
+    "source": "IPEADATA 网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.6",
+    "title": "FGV IBRE 价格指数",
+    "links": [
+      {
+        "label": "FGV IBRE 门户",
+        "url": "https://portalibre.fgv.br/"
+      }
+    ],
+    "summary": "瓦加斯基金会巴西经济研究所（FGV IBRE）编制的 IGP、IPA 等价格指数。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "金融数据"
+    ],
+    "introduction": "瓦加斯基金会巴西经济研究所（Fundação Getulio Vargas，Instituto Brasileiro de Economia，FGV IBRE）编制巴西的一般价格指数（IGP）及其分项生产者价格指数（IPA）、消费者价格指数（IPC）和建筑成本指数（INCC），历史较长，常用于平减名义价格和合同价格调整。\n\n各指数的权重和覆盖不同，IGP 系列受大宗商品价格影响较大，与 IBGE 的 IPCA 不能互换。",
+    "source": "FGV IBRE 通过其门户和数据服务发布指数，部分历史序列需订阅获取，具体以 FGV 说明为准。",
+    "references": [
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.1",
+    "title": "乌干达全国面板调查（UNPS）",
+    "links": [
+      {
+        "label": "世界银行微观数据图书馆：UNPS",
+        "url": "https://microdata.worldbank.org/catalog/1001"
+      }
+    ],
+    "summary": "乌干达统计局与世界银行 LSMS-ISA 合作开展的全国代表性家庭面板调查，覆盖农业、消费和收入。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "农业数据"
+    ],
+    "introduction": "乌干达全国面板调查（Uganda National Panel Survey，UNPS）由乌干达统计局（UBOS）实施，属于世界银行生活水平测量研究—农业综合调查（LSMS-ISA）项目，2009/10 年起追踪全国代表性家庭，内容包括家庭人口、消费支出、收入、农业生产（地块、作物、投入和销售）、畜牧和社区信息，并附有 GPS 坐标处理后的地理变量。数据常用于研究非洲农业生产率、市场接入和贫困。\n\n各轮样本有更新和轮换，追踪存在流失；地理坐标经过偏移处理以保护隐私。",
+    "source": "世界银行微观数据图书馆提供下载，需免费注册并同意使用条款。",
+    "references": [
+      {
+        "raw": "Scaling Agricultural Policy Interventions",
+        "title": "Scaling Agricultural Policy Interventions",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Benjamin Faber",
+          "Thibault Fally",
+          "Matthias Hoelzlein",
+          "Edward Miguel",
+          "Andres Rodriguez-Clare"
+        ],
+        "year": 2026,
+        "journal": "Econometrica (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.2",
+    "title": "乌干达人口与住房普查",
+    "links": [
+      {
+        "label": "乌干达统计局",
+        "url": "https://www.ubos.org/"
+      }
+    ],
+    "summary": "乌干达统计局组织的全国人口与住房普查，最近几轮为 2002、2014 和 2024 年。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "乌干达人口与住房普查由乌干达统计局（UBOS）组织，记录人口、年龄、教育、就业、住房条件和家庭资产等信息，可汇总到区、县和教区等行政层级。已有研究利用 2002 年普查的全样本微观数据，构建精细的人口分布和市场潜力指标。\n\n公开发布的主要是普查报告和汇总表；微观数据的获取需经 UBOS 授权，IPUMS International 也收录了部分轮次的样本。",
+    "source": "UBOS 网站发布普查报告；微观数据需向 UBOS 申请，具体条件以其说明为准。",
+    "references": [
+      {
+        "raw": "Scaling Agricultural Policy Interventions",
+        "title": "Scaling Agricultural Policy Interventions",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Benjamin Faber",
+          "Thibault Fally",
+          "Matthias Hoelzlein",
+          "Edward Miguel",
+          "Andres Rodriguez-Clare"
+        ],
+        "year": 2026,
+        "journal": "Econometrica (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.1",
+    "title": "西班牙国家气象局（AEMET）气候数据",
+    "links": [
+      {
+        "label": "AEMET 气候数据",
+        "url": "https://www.aemet.es/en/serviciosclimaticos/datosclimatologicos"
+      }
+    ],
+    "summary": "西班牙国家气象局发布的站点逐日气温、降水等观测数据和气候序列。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "西班牙国家气象局（Agencia Estatal de Meteorología，AEMET）运营全国气象站网，提供站点逐日和逐月的气温、降水、风、日照等观测，以及长期气候序列和格网产品。其开放数据平台（AEMET OpenData）提供部分数据的 API 访问；更长的历史站点记录可向 AEMET 申请。\n\n站点迁移和仪器变化会影响长期序列的均一性，历史数据需检查质量标记。",
+    "source": "AEMET 官网和 OpenData 平台提供数据，API 需免费申请密钥；历史数据申请条件以 AEMET 说明为准。",
+    "references": [
+      {
+        "raw": "The Illiquidity of Water Markets: Efficient Institutions for Water Allocation in Southeastern Spain",
+        "title": "The Illiquidity of Water Markets: Efficient Institutions for Water Allocation in Southeastern Spain",
+        "authors": [
+          "Javier D. Donna",
+          "José-Antonio Espín-Sánchez"
+        ],
+        "year": 2026,
+        "journal": "The Review of Economic Studies",
+        "volume": "93",
+        "issue": "5",
+        "pages": "3054–3085",
+        "doi": "10.1093/restud/rdag004",
+        "url": "https://doi.org/10.1093/restud/rdag004",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.5.1",
+    "title": "印尼与马来西亚棕榈油生产统计",
+    "links": [],
+    "summary": "印尼种植园总局《种植园统计》与马来西亚棕榈油局（MPOB）发布的分省棕榈油种植面积、产量和单产。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "农业数据"
+    ],
+    "introduction": "印度尼西亚农业部种植园总局（Direktorat Jenderal Perkebunan）每年出版《种植园统计》（Statistik Perkebunan），按省份提供油棕种植面积、鲜果串和毛棕榈油产量及单产，区分小农、国有和私营种植园；马来西亚棕榈油局（Malaysian Palm Oil Board，MPOB）发布分州的种植面积、产量、出口和价格统计。两者常用于计算实际单产、校验遥感估算的种植面积。\n\n统计口径以行政报告为主，小农种植园的面积可能低估；两国分类和年份口径需分别核对。",
+    "source": "两国主管机构以年报和网站统计形式发布，具体获取渠道以印尼农业部和 MPOB 的说明为准。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.5.2",
+    "title": "印尼与马来西亚油棕种植园年度分布图",
+    "links": [
+      {
+        "label": "ESSD 数据论文",
+        "url": "https://essd.copernicus.org/articles/12/847/2020/"
+      }
+    ],
+    "summary": "Xu 等（2020）基于 PALSAR 雷达与 MODIS 影像绘制的 2001–2016 年印尼和马来西亚油棕种植园逐年分布图。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "农业数据",
+      "地理数据"
+    ],
+    "introduction": "该数据由 Xu 等发表于 Earth System Science Data（2020），结合 ALOS PALSAR 雷达和 MODIS 光学影像，按年识别苏门答腊、加里曼丹和马来西亚的油棕种植园，空间分辨率约 1 公里，时间跨度 2001–2016 年。数据被用于研究种植园扩张、毁林和国际气候合作。\n\n1 公里分辨率难以区分小块小农种植，分类误差在种植园边缘较大。",
+    "source": "数据随期刊数据论文公开发布，下载地址见论文页面所列的数据存储库，使用时应引用原论文。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
         "verified": true,
         "note": ""
       }
@@ -5619,6 +7259,419 @@
     ]
   },
   {
+    "id": "4.1.6",
+    "title": "NOAA 全球地表温度（NOAAGlobalTemp）",
+    "links": [
+      {
+        "label": "NOAA Climate at a Glance：全球时间序列",
+        "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series"
+      }
+    ],
+    "summary": "NOAA 国家环境信息中心发布的全球陆地与海洋地表温度距平数据集，月度序列始于 1850 年。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "NOAAGlobalTemp 由 NOAA 国家环境信息中心（NCEI）编制，结合陆地站点（GHCN-Monthly）和海表温度（ERSST）观测，提供 1850 年以来全球格网和全球、半球平均的月度温度距平，是 NOAA 发布全球气候状况的基础数据。经济学研究中常用全球平均温度构造全球气候冲击，估计气候变化的宏观影响。\n\n早期年份观测稀少，不确定性较大；数据集版本更新会调整历史数值。",
+    "source": "NOAA NCEI 网站（Climate at a Glance 等）公开提供下载，使用时应注明版本。",
+    "references": [
+      {
+        "raw": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "title": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "authors": [
+          "Adrien Bilal",
+          "Diego R. Känzig"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "889–944",
+        "doi": "10.1093/qje/qjag011",
+        "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.7",
+    "title": "ISIMIP 气候与影响模型数据",
+    "links": [
+      {
+        "label": "ISIMIP 数据仓库",
+        "url": "https://data.isimip.org/"
+      }
+    ],
+    "summary": "跨部门影响模型比较计划（ISIMIP）提供的观测气候强迫数据和气候变化情景数据，分辨率 0.5°。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "跨部门影响模型比较计划（Inter-Sectoral Impact Model Intercomparison Project，ISIMIP）为气候影响研究提供统一的气候输入数据，包括基于观测与再分析的历史气候数据（obsclim，逐日、0.5° 格网，1901 年起）和偏差校正的气候模型情景数据，以及农业、水文、健康等部门影响模型的输出。经济学研究常用其历史逐日数据构建极端温度、降水和风暴暴露指标。\n\n不同模拟轮次（如 ISIMIP2、ISIMIP3）的输入数据和处理方法不同，需注明轮次与数据集名称。",
+    "source": "ISIMIP 数据仓库公开提供下载，使用时按其条款引用相应数据集。",
+    "references": [
+      {
+        "raw": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "title": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "authors": [
+          "Adrien Bilal",
+          "Diego R. Känzig"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "889–944",
+        "doi": "10.1093/qje/qjag011",
+        "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.8",
+    "title": "ESA 气候变化倡议生物量数据（Biomass CCI）",
+    "links": [
+      {
+        "label": "CEDA 数据记录：Biomass CCI",
+        "url": "https://catalogue.ceda.ac.uk/uuid/5f331c418e9f4935b8eb1b836f8a91b8/"
+      }
+    ],
+    "summary": "欧空局气候变化倡议发布的全球森林地上生物量格网数据，分辨率约 100 米。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "欧洲航天局气候变化倡议（ESA Climate Change Initiative）的生物量项目（Biomass_cci）利用雷达和激光雷达等卫星观测，估算全球森林地上生物量，提供若干年份约 100 米分辨率的格网产品，并附有标准差估计。数据常用于计算森林碳储量，评估毁林排放和森林保护的碳收益。\n\n生物量为模型估计，高生物量热带森林和地形复杂地区误差较大；不同版本数值有调整。",
+    "source": "数据通过英国 CEDA 数据目录公开提供，使用时应注明版本号。",
+    "references": [
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.9",
+    "title": "WorldClim 全球气候数据",
+    "links": [
+      {
+        "label": "WorldClim 2.1",
+        "url": "https://www.worldclim.org/data/worldclim21.html"
+      }
+    ],
+    "summary": "WorldClim 提供全球陆地的月均气温、降水、太阳辐射等气候格网数据，分辨率最高约 1 公里。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "WorldClim 2.1 基于全球站点观测插值，提供 1970–2000 年气候平均的月度最低、最高和平均气温、降水、太阳辐射、风速、水汽压，以及 19 个生物气候变量，分辨率从约 1 公里到 10 弧分不等；另提供历史逐月数据和 CMIP6 未来情景降尺度数据。数据广泛用于作物适宜性、物种分布和农业产量模型。\n\n气候平均值适合刻画长期气候条件，不适合识别逐年天气冲击；站点稀少地区的插值误差较大。",
+    "source": "WorldClim 网站公开提供下载，用于研究需按要求引用。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.10",
+    "title": "CRU TS 全球气候格网数据",
+    "links": [
+      {
+        "label": "CRU TS 数据页",
+        "url": "https://crudata.uea.ac.uk/cru/data/hrg/"
+      }
+    ],
+    "summary": "英国东英吉利大学气候研究中心（CRU）基于站点观测插值的全球陆地逐月气候格网，分辨率 0.5°，始于 1901 年。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "CRU TS（Climatic Research Unit gridded Time Series）由东英吉利大学气候研究中心编制，将全球气象站逐月观测插值到 0.5° 格网，覆盖 1901 年以来全球陆地（南极除外），变量包括平均、最高和最低气温、降水、湿度、云量、潜在蒸散等。数据长期序列完整，常用于跨国和长时段的气候影响研究。\n\n格网值的可靠性取决于附近站点数量，数据集提供各格点站点数信息；站点稀少时格网值会趋近气候平均。",
+    "source": "CRU 网站和英国 CEDA 存档公开提供下载，使用时应注明版本号。",
+    "references": [
+      {
+        "raw": "Search Costs, Intermediation, and Trade: Experimental Evidence from Ugandan Agricultural Markets",
+        "title": "Search Costs, Intermediation, and Trade: Experimental Evidence from Ugandan Agricultural Markets",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Craig McIntosh",
+          "Meredith Startz"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/ht9i266jci9wxdn7qmyr2/Kudu_paper.pdf?rlkey=7rel5bz3u2easvqcxnmnimh6b&st=vn71xscb&dl=0",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.11",
+    "title": "CHIRPS 降水数据",
+    "links": [
+      {
+        "label": "CHIRPS 官方页面",
+        "url": "https://www.chc.ucsb.edu/data/chirps"
+      }
+    ],
+    "summary": "CHIRPS 结合卫星红外观测与地面雨量站，提供 1981 年以来准全球的逐日至逐月降水格网，分辨率约 5 公里。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "农业数据"
+    ],
+    "introduction": "CHIRPS（Climate Hazards Group InfraRed Precipitation with Station data）由加州大学圣巴巴拉分校气候灾害中心与美国地质调查局合作开发，覆盖南北纬 50° 之间的陆地，时间从 1981 年开始，分辨率 0.05°，提供逐日、五日、逐月等产品。由于在站点稀少的非洲、南亚等地区表现较好，常用于发展经济学中的降雨冲击、干旱和农业产出研究。\n\n卫星估算对强降水和山区降水的误差较大，近期数据会随站点补充而更新。",
+    "source": "CHC 网站公开提供下载，使用时应注明版本。",
+    "references": [
+      {
+        "raw": "Search Costs, Intermediation, and Trade: Experimental Evidence from Ugandan Agricultural Markets",
+        "title": "Search Costs, Intermediation, and Trade: Experimental Evidence from Ugandan Agricultural Markets",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Craig McIntosh",
+          "Meredith Startz"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/ht9i266jci9wxdn7qmyr2/Kudu_paper.pdf?rlkey=7rel5bz3u2easvqcxnmnimh6b&st=vn71xscb&dl=0",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.12",
+    "title": "普林斯顿全球气象强迫数据（GMFD）",
+    "links": [],
+    "summary": "Sheffield 等（2006）构建的全球逐日气象强迫数据集，结合再分析与观测，分辨率 0.25°–1°。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "全球气象强迫数据集（Global Meteorological Forcing Dataset，GMFD）由普林斯顿大学 Sheffield、Goteti 和 Wood（2006）构建，将再分析数据与观测型气候数据集融合并进行偏差校正，提供 1948 年以来全球陆地逐日（部分为三小时）气温、降水、辐射、湿度和风速，分辨率 0.25° 至 1°。数据常用于构建作物生长季的天气冲击和极端温度暴露。\n\n不同版本覆盖年份和分辨率不同，需注明版本。",
+    "source": "数据由普林斯顿大学陆地水文研究组和相关数据中心发布，具体下载渠道以官方说明为准。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.13",
+    "title": "Climate Watch 温室气体排放数据",
+    "links": [
+      {
+        "label": "Climate Watch",
+        "url": "https://www.climatewatchdata.org/"
+      }
+    ],
+    "summary": "世界资源研究所（WRI）Climate Watch 平台提供的各国历史温室气体排放数据和国家自主贡献信息。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "Climate Watch 由世界资源研究所（WRI）建设，整合 CAIT、PIK、UNFCCC 等来源的各国历史温室气体排放数据，按部门和气体分列，并收录各国国家自主贡献（NDC）、长期战略和政策承诺的文本与指标。数据常用于比较各国排放规模、减排承诺和国际气候合作。\n\n平台中不同来源的排放数值口径不同（例如是否包含土地利用变化），比较时需统一数据源。",
+    "source": "Climate Watch 网站公开提供查询和下载，使用时按要求引用数据源。",
+    "references": [
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.14",
+    "title": "全球土地变化 1982–2016（Song 等）",
+    "links": [],
+    "summary": "Song 等（2018，Nature）基于 AVHRR、MODIS 和 Landsat 影像估算的 1982–2016 年全球树木覆盖、短植被和裸地变化。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "该数据由马里兰大学 Song、Hansen 等发表于 Nature（2018），利用长时间序列卫星影像估算 1982–2016 年全球每年的树木冠层覆盖、短植被覆盖和裸地比例，可识别森林损失与增加。研究中常用于将森林变化序列延伸到 2000 年之前，弥补高分辨率 Global Forest Change 数据的起始年份限制。\n\n空间分辨率较粗（约 0.05°），不适合识别小尺度的土地利用变化。",
+    "source": "数据随论文公开发布，下载渠道见论文的数据可得性说明及马里兰大学 GLAD 实验室页面。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.15",
+    "title": "全球棕榈油厂位置数据（Universal Mill List）",
+    "links": [
+      {
+        "label": "Global Forest Watch 开放数据门户",
+        "url": "https://data.globalforestwatch.org/"
+      }
+    ],
+    "summary": "世界资源研究所等整合的全球棕榈油压榨厂位置与属性数据。",
+    "regions": [
+      "全球数据",
+      "亚洲数据"
+    ],
+    "topics": [
+      "农业数据",
+      "地理数据"
+    ],
+    "introduction": "Universal Mill List 由世界资源研究所（WRI）、Rainforest Alliance 等机构合作建立，为全球棕榈油厂分配统一编号，记录名称、所属公司、坐标和认证状态，与 CIFOR 的油棕厂数据库等相互补充。数据可用于刻画棕榈油供应链、测算种植园到压榨厂的距离，以及追踪毁林风险。\n\n厂址数据为某一时点的快照，历史开工时间需要借助遥感影像等另行核实。",
+    "source": "WRI Global Forest Watch 开放数据门户公开提供下载。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.2.1",
     "title": "世界价值观调查（WVS）",
     "links": [
@@ -5641,6 +7694,49 @@
     "introduction": "世界价值观调查（World Values Survey，WVS）是由各国学者组成的跨国研究网络开展的调查项目，通过全国代表性样本访谈，考察价值观、信念、态度和社会行为。调查自 1981 年起按“轮次”（wave）进行，每轮覆盖数十个国家和地区。\n\n问卷涉及家庭、宗教、政治、经济、信任、性别角色和环境等主题，观测单位为个人。官方提供国家文件、跨轮合并（Time-Series）版本及问卷、编码手册和权重。由于各国抽样设计、翻译和访问年份不同，跨国或跨轮次比较需核对问卷、抽样、权重等。\n\n研究中常用于文化、信任与制度、环境态度等主题。数据通过 WVS 官网下载，需注册并按要求引用，未发布轮次和识别信息的可用性应向项目方确认。",
     "source": "通过 WVS 官方数据与文档服务获取已发布的国家文件或合并版本，按要求注册、引用并遵守对应条件。未发布轮次和识别信息的可用性应向项目方确认。",
     "references": []
+  },
+  {
+    "id": "4.2.2",
+    "title": "人口与健康调查（DHS）",
+    "links": [
+      {
+        "label": "DHS 数据",
+        "url": "https://dhsprogram.com/data/"
+      }
+    ],
+    "summary": "USAID 资助的人口与健康调查，在九十多个中低收入国家开展具有全国代表性的家庭调查。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "人口与健康调查（Demographic and Health Surveys，DHS）项目自 1984 年起在九十多个中低收入国家开展，每国大约每五年一轮，采用统一问卷收集生育、计划生育、孕产妇与儿童健康、营养、疫苗接种、艾滋病、家庭资产和教育等信息，并对样本群（cluster）提供经偏移处理的 GPS 坐标。DHS 是发展经济学和健康经济学最常用的跨国微观数据之一。\n\n各国各轮问卷模块有差异，GPS 坐标随机偏移最多数公里，精细空间分析需考虑这一误差。",
+    "source": "DHS 项目网站提供数据下载，需免费注册并提交研究说明申请；GPS 数据需单独申请。",
+    "references": [
+      {
+        "raw": "Scaling Agricultural Policy Interventions",
+        "title": "Scaling Agricultural Policy Interventions",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Benjamin Faber",
+          "Thibault Fally",
+          "Matthias Hoelzlein",
+          "Edward Miguel",
+          "Andres Rodriguez-Clare"
+        ],
+        "year": 2026,
+        "journal": "Econometrica (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "4.3.1",
@@ -5681,6 +7777,22 @@
         "url": "https://doi.org/10.1257/aer.20230016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5716,6 +7828,110 @@
         "pages": "2508–2537",
         "doi": "10.1093/restud/rdad090",
         "url": "https://doi.org/10.1093/restud/rdad090",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.3",
+    "title": "世界网格化人口（GPW）",
+    "links": [],
+    "summary": "哥伦比亚大学 CIESIN 基于各国人口普查构建的全球人口格网数据，分辨率约 1 公里。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据",
+      "区域经济数据"
+    ],
+    "introduction": "世界网格化人口（Gridded Population of the World，GPW）由哥伦比亚大学国际地球科学信息网络中心（CIESIN）制作，将各国人口普查的行政单元人口按面积均匀分配到约 30 弧秒（约 1 公里）格网，第四版提供 2000、2005、2010、2015 和 2020 年的人口数和人口密度。由于分配方法简单透明，常用作人口加权或计算市场潜力的基础数据。\n\n各国普查行政单元的精细程度不同，单元内部的人口分布被假设为均匀。",
+    "source": "原由 NASA SEDAC 发布，现通过 NASA Earthdata 等渠道提供，下载需注册免费账号，具体入口以官方说明为准。",
+    "references": [
+      {
+        "raw": "Scaling Agricultural Policy Interventions",
+        "title": "Scaling Agricultural Policy Interventions",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Benjamin Faber",
+          "Thibault Fally",
+          "Matthias Hoelzlein",
+          "Edward Miguel",
+          "Andres Rodriguez-Clare"
+        ],
+        "year": 2026,
+        "journal": "Econometrica (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.4",
+    "title": "全球道路数据（GRIP）",
+    "links": [],
+    "summary": "Meijer 等（2018）整合各国道路数据构建的全球道路网络矢量与密度数据集。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据",
+      "地理数据"
+    ],
+    "introduction": "全球道路清单项目（Global Roads Inventory Project，GRIP）由 Meijer 等（2018）整合约六十个地理数据来源，形成覆盖两百多个国家的道路矢量数据，按道路等级分类，并提供约 8 公里格网的道路密度。数据常用于计算到主要道路的距离、衡量交通基础设施和市场接入。\n\n各国原始数据的年份和完整性不一，偏远地区的小路可能缺失。",
+    "source": "数据由荷兰环境评估署（PBL）等随论文公开发布，具体下载渠道以原论文和官方页面为准。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.5",
+    "title": "世界港口索引（World Port Index）",
+    "links": [],
+    "summary": "美国国家地理空间情报局（NGA）发布的全球港口位置、设施和服务信息。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据",
+      "地理数据"
+    ],
+    "introduction": "世界港口索引（World Port Index，Pub. 150）由美国国家地理空间情报局（NGA）编制，收录全球约三千七百个港口的位置、港口类型、规模、航道水深、码头设施和可提供的服务，定期更新。数据常用于计算到最近港口的距离，衡量出口和运输成本。\n\n港口规模和设施信息为定性分类，不反映吞吐量。",
+    "source": "NGA 海事安全信息网站公开发布下载，具体入口以 NGA 说明为准。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
         "verified": true,
         "note": ""
       }
@@ -5777,6 +7993,196 @@
     ]
   },
   {
+    "id": "4.5.1",
+    "title": "联合国商品贸易统计数据库（UN Comtrade）",
+    "links": [
+      {
+        "label": "UN Comtrade",
+        "url": "https://comtradeplus.un.org/"
+      }
+    ],
+    "summary": "联合国统计司汇集各国海关报告的双边商品贸易数据，按 HS 等商品分类提供年度和月度贸易额与数量。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "UN Comtrade 由联合国统计司维护，收录两百多个国家和地区向联合国报告的官方商品贸易统计，按报告国、伙伴国、商品（HS、SITC、BEC 分类）和年份或月份提供进出口金额与数量，年度数据可追溯到 1960 年代。它是国际贸易研究中最常用的双边贸易数据来源。\n\n各国报告的进口与出口常不一致（镜像差异），转口贸易和保密商品会影响数据质量；研究中常使用 CEPII BACI 等协调版本。",
+    "source": "UN Comtrade 网站提供查询，基础访问免费，批量下载和 API 需注册，部分功能需订阅。",
+    "references": [
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.2",
+    "title": "GTAP 全球贸易分析数据库",
+    "links": [
+      {
+        "label": "GTAP 10 数据库",
+        "url": "https://www.gtap.agecon.purdue.edu/databases/v10/index.aspx"
+      }
+    ],
+    "summary": "普渡大学全球贸易分析项目（GTAP）编制的全球多区域投入产出与贸易数据库，含能源和排放账户。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "环境数据"
+    ],
+    "introduction": "GTAP 数据库由普渡大学全球贸易分析中心维护，整合各国投入产出表、双边贸易、关税保护和宏观数据，形成全球一致的多区域社会核算矩阵；GTAP 10 覆盖 141 个国家和地区、65 个部门，基准年包括 2004、2007、2011 和 2014 年，并附有能源使用和 CO2 等温室气体排放卫星账户。数据广泛用于可计算一般均衡（CGE）模型和贸易与气候政策的量化研究。\n\n数据经过大量平衡和调整，并非原始统计；版本间部门和区域划分会变化。",
+    "source": "需向 GTAP 中心购买许可，学术机构有折扣，旧版本有时免费提供，具体条件以 GTAP 说明为准。",
+    "references": [
+      {
+        "raw": "Can Trade Policy Mitigate Climate Change?",
+        "title": "Can Trade Policy Mitigate Climate Change?",
+        "authors": [
+          "Farid Farrokhi",
+          "Ahmad Lashkaripour"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1561–1599",
+        "doi": "10.3982/ECTA20153",
+        "url": "https://doi.org/10.3982/ECTA20153",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.3",
+    "title": "ITC 市场准入地图（Market Access Map）",
+    "links": [
+      {
+        "label": "ITC Market Access Map",
+        "url": "https://www.macmap.org"
+      }
+    ],
+    "summary": "国际贸易中心（ITC）的关税与市场准入数据库，提供 HS 细分层级的适用关税和优惠关税。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "市场准入地图（Market Access Map，MAcMap）由国际贸易中心（ITC）维护，收录各国对各贸易伙伴实施的最惠国和优惠关税、关税配额、贸易救济措施和非关税措施，商品细分到 HS 6 位及国家税目层级，并提供从量税的从价等值。数据是 GTAP 等数据库关税信息的重要来源。\n\n优惠关税的实际利用率不一定为百分之百，适用税率与实际征收税率可能不同。",
+    "source": "ITC 网站提供查询，需注册账户，对部分国家和用户免费，具体条件以 ITC 说明为准。",
+    "references": [
+      {
+        "raw": "Can Trade Policy Mitigate Climate Change?",
+        "title": "Can Trade Policy Mitigate Climate Change?",
+        "authors": [
+          "Farid Farrokhi",
+          "Ahmad Lashkaripour"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1561–1599",
+        "doi": "10.3982/ECTA20153",
+        "url": "https://doi.org/10.3982/ECTA20153",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.4",
+    "title": "CEPII 引力数据库",
+    "links": [
+      {
+        "label": "CEPII Gravity 数据库",
+        "url": "https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=8"
+      }
+    ],
+    "summary": "法国国际经济研究中心（CEPII）发布的国家对层面引力模型变量，包括距离、共同语言、殖民关系和贸易协定。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "地理数据"
+    ],
+    "introduction": "CEPII 引力数据库（Gravity）为全球国家对提供逐年的引力模型常用变量，包括地理距离（含人口加权距离）、是否接壤、共同官方语言、殖民关系、共同法律起源、区域贸易协定、WTO 成员身份以及 GDP 和人口等，时间从 1948 年起。数据常与贸易流量数据合并，用于估计贸易成本和贸易弹性。\n\n国家边界和名称随时间变化，CEPII 提供了处理方法和国家编码说明，合并时需要匹配。",
+    "source": "CEPII 网站公开提供下载，使用时按要求引用。",
+    "references": [
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.5",
+    "title": "USDA 生产、供给与分配数据库（PSD）",
+    "links": [
+      {
+        "label": "USDA PSD Online",
+        "url": "https://apps.fas.usda.gov/psdonline/app/index.html"
+      }
+    ],
+    "summary": "USDA 对外农业局发布的各国主要农产品产量、消费、贸易和库存的平衡表数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "农业数据",
+      "贸易数据"
+    ],
+    "introduction": "生产、供给与分配数据库（Production, Supply and Distribution，PSD）由美国农业部对外农业局（FAS）维护，按国家和年份提供谷物、油籽、植物油、棉花、糖、肉类等主要农产品的种植面积、产量、进出口、国内消费和期末库存，历史可追溯到 1960 年代，并每月随《世界农产品供需预测》（WASDE）更新。数据常用于分析全球农产品市场和需求。\n\n数值部分为 USDA 估计，年度以作物市场年度计，与日历年和其他机构的口径不同。",
+    "source": "FAS 的 PSD Online 平台公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.6.1",
     "title": "世界发展指标（WDI）",
     "links": [
@@ -5813,6 +8219,520 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w33500",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "title": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "authors": [
+          "Adrien Bilal",
+          "Diego R. Känzig"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "889–944",
+        "doi": "10.1093/qje/qjag011",
+        "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.2",
+    "title": "佩恩表（Penn World Table）",
+    "links": [
+      {
+        "label": "Penn World Table",
+        "url": "https://www.rug.nl/ggdc/productivity/pwt/"
+      }
+    ],
+    "summary": "格罗宁根增长与发展中心维护的跨国购买力平价国民账户数据库，覆盖 180 多个国家、1950 年以来的产出、投入和生产率。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "佩恩表（Penn World Table，PWT）由格罗宁根大学增长与发展中心维护，基于国际比较项目（ICP）的价格数据，提供按购买力平价调整的实际 GDP、消费、投资、资本存量、就业、人力资本和全要素生产率等变量，覆盖 180 多个国家和地区，时间始于 1950 年。它是跨国增长、发展核算和宏观气候影响研究的基础数据。\n\n不同版本随 ICP 基准更新会显著修订各国的相对收入水平，研究中应注明版本号；早期年份和小国数据质量较低。",
+    "source": "格罗宁根大学 GGDC 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "title": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "authors": [
+          "Adrien Bilal",
+          "Diego R. Känzig"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "889–944",
+        "doi": "10.1093/qje/qjag011",
+        "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.3",
+    "title": "国际劳工组织统计数据库（ILOSTAT）",
+    "links": [
+      {
+        "label": "ILOSTAT 数据",
+        "url": "https://ilostat.ilo.org/data/"
+      }
+    ],
+    "summary": "国际劳工组织发布的各国就业、失业、工资、工时和分行业劳动力等统计。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "ILOSTAT 由国际劳工组织（ILO）维护，收集各国劳动力调查和行政来源的统计，提供就业、失业、劳动参与、分行业和职业的就业结构、工资、工时、非正规就业和劳动生产率等指标，并发布 ILO 模型估计值以填补缺失。数据常用于计算农业就业占比、结构转型等跨国比较。\n\n官方报告值与 ILO 模型估计值应区分使用；各国调查口径和年份覆盖不同。",
+    "source": "ILOSTAT 网站和批量下载服务公开提供数据。",
+    "references": [
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.4",
+    "title": "国际比较项目（ICP）",
+    "links": [
+      {
+        "label": "世界银行 ICP",
+        "url": "https://icp.worldbank.org/"
+      }
+    ],
+    "summary": "世界银行协调的国际比较项目，定期采集各国价格，计算购买力平价（PPP）和实际支出。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "国际比较项目（International Comparison Program，ICP）由世界银行协调、各国统计机构参与，在基准年采集各国大量商品和服务的价格，计算购买力平价（PPP）以及按 PPP 计的 GDP 和各支出分项，最近的基准年包括 2011、2017 和 2021 年。ICP 是 WDI 和佩恩表中 PPP 数据的来源，也提供分类别的价格水平，可用于比较食品等商品的相对价格。\n\n不同基准年之间方法有改进，各国 PPP 会大幅修订。",
+    "source": "世界银行 ICP 网站和数据平台公开提供结果。",
+    "references": [
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.5",
+    "title": "Barro–Ursúa 长期宏观数据",
+    "links": [],
+    "summary": "Barro 与 Ursúa 整理的四十多个国家 19 世纪以来的人均 GDP、消费和人口长期序列。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "Barro 与 Ursúa（2008、2010）整理了四十多个国家的长期宏观序列，包括人均实际 GDP、人均实际消费和人口，许多国家始于 19 世纪，部分可追溯到更早，用于研究宏观经济灾难、长期增长和极端事件。气候经济学研究中，该数据被用于估计全球温度冲击对产出的长期影响。\n\n早期数据来自不同历史学者的重建，质量参差；战争和边界变动期间的数值需谨慎使用。",
+    "source": "数据由 Robert Barro 在其主页公开发布，具体版本和下载地址以作者页面为准。",
+    "references": [
+      {
+        "raw": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "title": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "authors": [
+          "Adrien Bilal",
+          "Diego R. Känzig"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "889–944",
+        "doi": "10.1093/qje/qjag011",
+        "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.6",
+    "title": "IMF 初级商品价格",
+    "links": [
+      {
+        "label": "IMF 初级商品价格",
+        "url": "https://www.imf.org/en/research/commodity-prices"
+      }
+    ],
+    "summary": "国际货币基金组织发布的能源、金属、农产品等初级商品月度国际价格和价格指数。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "农业数据"
+    ],
+    "introduction": "IMF 初级商品价格（Primary Commodity Prices）每月发布约七十种初级商品的国际基准价格，包括原油、天然气、煤炭、金属，以及棕榈油、豆油、小麦、玉米等农产品，并编制分类价格指数，月度序列始于 1980 年。数据常用于构造商品价格冲击、平减农产品价格和研究国际市场联动。\n\n每种商品采用特定交易所或市场的代表性报价，与具体国家的国内价格可能存在差异。",
+    "source": "IMF 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.7.1",
+    "title": "全球太阳能图集（Global Solar Atlas）",
+    "links": [
+      {
+        "label": "Global Solar Atlas",
+        "url": "https://globalsolaratlas.info/"
+      }
+    ],
+    "summary": "世界银行与 Solargis 合作发布的全球太阳辐射和光伏发电潜力格网数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "能源数据",
+      "环境数据"
+    ],
+    "introduction": "全球太阳能图集（Global Solar Atlas）由世界银行集团（ESMAP）资助、Solargis 制作，基于卫星和气象模型提供全球水平面总辐射（GHI）、法向直接辐射（DNI）、光伏发电潜力（PVOUT）等长期平均指标，分辨率约 250 米，并可下载国家或区域图层。数据常用于评估光伏资源禀赋和项目选址。\n\n指标为长期平均值，不反映逐年变化；模型估计在高纬度和山区误差较大。",
+    "source": "网站公开提供在线查询和 GIS 数据下载，按 CC BY 4.0 许可使用。",
+    "references": [
+      {
+        "raw": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "title": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "authors": [
+          "Nicholas Ryan"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "3",
+        "pages": "767–810",
+        "doi": "10.3982/ecta21084",
+        "url": "https://doi.org/10.3982/ecta21084",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.7.2",
+    "title": "IRENA 可再生能源发电成本",
+    "links": [],
+    "summary": "国际可再生能源机构（IRENA）发布的光伏、风电等技术的装机成本、平准化度电成本（LCOE）和拍卖价格数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "国际可再生能源机构（International Renewable Energy Agency，IRENA）每年发布《可再生能源发电成本》报告，基于其项目和拍卖数据库，提供各国和全球的光伏、陆上和海上风电、水电、生物质等技术的装机成本、容量因子和平准化度电成本（LCOE）的时间序列，以及拍卖和购电协议价格。数据常用于描述可再生能源成本下降和跨国比较。\n\n报告中的平均值掩盖了项目间的差异，部分国家样本较少；各年报告会修订历史数值。",
+    "source": "IRENA 网站公开发布报告和配套数据，具体下载入口以 IRENA 说明为准。",
+    "references": [
+      {
+        "raw": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "title": "Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market",
+        "authors": [
+          "Nicholas Ryan"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "3",
+        "pages": "767–810",
+        "doi": "10.3982/ecta21084",
+        "url": "https://doi.org/10.3982/ecta21084",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.7.3",
+    "title": "世界银行碳定价数据",
+    "links": [
+      {
+        "label": "世界银行碳定价看板",
+        "url": "https://carbonpricingdashboard.worldbank.org/"
+      }
+    ],
+    "summary": "世界银行碳定价看板汇总全球碳税和碳排放交易体系的覆盖范围、价格和收入。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "能源数据"
+    ],
+    "introduction": "世界银行碳定价看板（Carbon Pricing Dashboard）收录全球已实施和计划中的碳税与碳排放交易体系，提供各机制的启动时间、覆盖的排放量和部门、碳价水平和收入，并配合年度《碳定价现状与趋势》报告更新。数据常用于描述碳定价政策的分布和强度，或作为量化气候政策模型的输入。\n\n碳价按名义值报告，各机制的覆盖、豁免和免费配额差异很大，直接比较价格水平需谨慎。",
+    "source": "看板网站公开提供查询和数据下载。",
+    "references": [
+      {
+        "raw": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Lars Peter Hansen",
+          "Todd Munson",
+          "José A. Scheinkman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744117",
+        "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Trade Policy Mitigate Climate Change?",
+        "title": "Can Trade Policy Mitigate Climate Change?",
+        "authors": [
+          "Farid Farrokhi",
+          "Ahmad Lashkaripour"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1561–1599",
+        "doi": "10.3982/ECTA20153",
+        "url": "https://doi.org/10.3982/ECTA20153",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.7.4",
+    "title": "OECD 环境政策工具数据库（PINE）",
+    "links": [
+      {
+        "label": "OECD PINE 数据库",
+        "url": "https://pinedatabase.oecd.org"
+      }
+    ],
+    "summary": "OECD 维护的环境相关税费、可交易许可、补贴和押金返还制度数据库。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "能源数据"
+    ],
+    "introduction": "环境政策工具数据库（Policy Instruments for the Environment，PINE）由 OECD 维护，收录一百多个国家的环境相关税收、费用、可交易许可、押金返还和环境补贴等经济工具，记录税基、税率、覆盖范围、收入和实施时间，涉及能源、交通、污染和资源等领域。数据常用于比较各国环境税和能源税强度。\n\n各国报送的完整程度不一，部分工具信息缺少税率或收入数据。",
+    "source": "OECD PINE 网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Can Trade Policy Mitigate Climate Change?",
+        "title": "Can Trade Policy Mitigate Climate Change?",
+        "authors": [
+          "Farid Farrokhi",
+          "Ahmad Lashkaripour"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1561–1599",
+        "doi": "10.3982/ECTA20153",
+        "url": "https://doi.org/10.3982/ECTA20153",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.7.5",
+    "title": "清洁发展机制（CDM）项目数据库",
+    "links": [
+      {
+        "label": "UNFCCC CDM 项目检索",
+        "url": "https://cdm.unfccc.int/Projects/index.html"
+      }
+    ],
+    "summary": "UNFCCC 公布的清洁发展机制项目注册、减排量签发和项目设计文件，IGES 另整理了便于分析的项目数据库。",
+    "regions": [
+      "全球数据",
+      "中国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "能源数据"
+    ],
+    "introduction": "清洁发展机制（Clean Development Mechanism，CDM）是《京都议定书》下的碳抵消机制，发展中国家的减排项目经审定和注册后可获得核证减排量（CERs）。UNFCCC 网站公开每个项目的项目设计文件（PDD）、审定和监测报告、注册与签发记录；日本全球环境战略研究所（IGES）将其整理为项目层面的数据库，记录东道国、项目类型、规模、预计和实际减排量。中国是 CDM 项目最多的国家，数据常用于研究碳抵消的额外性和企业选择。\n\n项目文件中的减排量为预估或监测值，额外性无法从文件本身判断；2012 年后新注册项目大幅减少。",
+    "source": "UNFCCC CDM 网站公开项目文件和登记信息；IGES 数据库在其网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism in China",
+        "title": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism in China",
+        "authors": [
+          "Qiaoyi Chen",
+          "Nicholas Ryan",
+          "Daniel Yi Xu"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w33636",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.8.1",
+    "title": "Orbis / Amadeus 企业数据库",
+    "links": [
+      {
+        "label": "Moody’s Orbis / Amadeus",
+        "url": "https://www.bvdinfo.com/en-gb/our-products/data/international/amadeus"
+      }
+    ],
+    "summary": "Bureau van Dijk（现属穆迪）提供的全球企业财务与所有权数据库，Amadeus 为其欧洲子库。",
+    "regions": [
+      "欧洲数据",
+      "全球数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "商业数据"
+    ],
+    "introduction": "Orbis 由 Bureau van Dijk（现属穆迪 Moody’s）整合各国企业登记和财务报表来源，提供全球数亿家企业的资产负债表、损益表、就业、行业、所有权和子公司关系等信息；Amadeus 是其覆盖欧洲企业的子数据库，包含大量非上市中小企业。数据常用于跨国企业生产率、资源错配和气候冲击影响等研究。\n\n各国的覆盖率和财务字段完整性差异很大，历史数据存在“幸存者”偏差，研究中常需按 Kalemli-Özcan 等提出的方法构建面板。",
+    "source": "以商业订阅方式通过穆迪/BvD 或 WRDS 获取，不得公开再分发。",
+    "references": [
+      {
+        "raw": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "title": "Climate Change, the Food Problem, and the Challenge of Adaptation through Sectoral Reallocation",
+        "authors": [
+          "Ishan Nath"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1705–1756",
+        "doi": "10.1086/734725",
+        "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
       }
@@ -5881,6 +8801,23 @@
         "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4674279",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "title": "Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands",
+        "authors": [
+          "Daniel Aronoff",
+          "Will Rafey"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "5",
+        "pages": "1723–1764",
+        "doi": "10.1257/aer.20231016",
+        "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5941,6 +8878,45 @@
         "url": "https://www.nber.org/papers/w33500",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Scaling Agricultural Policy Interventions",
+        "title": "Scaling Agricultural Policy Interventions",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Benjamin Faber",
+          "Thibault Fally",
+          "Matthias Hoelzlein",
+          "Edward Miguel",
+          "Andres Rodriguez-Clare"
+        ],
+        "year": 2026,
+        "journal": "Econometrica (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Search Costs, Intermediation, and Trade: Experimental Evidence from Ugandan Agricultural Markets",
+        "title": "Search Costs, Intermediation, and Trade: Experimental Evidence from Ugandan Agricultural Markets",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Craig McIntosh",
+          "Meredith Startz"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/ht9i266jci9wxdn7qmyr2/Kudu_paper.pdf?rlkey=7rel5bz3u2easvqcxnmnimh6b&st=vn71xscb&dl=0",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5983,6 +8959,27 @@
         "url": "https://www.nber.org/papers/w33500",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Scaling Agricultural Policy Interventions",
+        "title": "Scaling Agricultural Policy Interventions",
+        "authors": [
+          "Lauren Falcao Bergquist",
+          "Benjamin Faber",
+          "Thibault Fally",
+          "Matthias Hoelzlein",
+          "Edward Miguel",
+          "Andres Rodriguez-Clare"
+        ],
+        "year": 2026,
+        "journal": "Econometrica (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6020,6 +9017,22 @@
         "pages": "637–701",
         "doi": "10.1093/qje/qjac039",
         "url": "https://doi.org/10.1093/qje/qjac039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "title": "Coordination and Commitment in International Climate Action: Evidence from Palm Oil",
+        "authors": [
+          "Allan Hsiao"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "1–33",
+        "doi": "10.3982/ECTA20608",
+        "url": "https://doi.org/10.3982/ECTA20608",
         "verified": true,
         "note": ""
       }
@@ -6269,6 +9282,24 @@
         "url": "https://doi.org/10.3982/ECTA18436",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6479,6 +9510,23 @@
         "url": "https://doi.org/10.1257/aer.20230761",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "title": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "authors": [
+          "Adrien Bilal",
+          "Diego R. Känzig"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "889–944",
+        "doi": "10.1093/qje/qjag011",
+        "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6505,6 +9553,44 @@
     "introduction": "宏观数据库在此泛指提供市场指数、利率、汇率、价格、产出、就业等经济时间序列的资料来源，而非一个具体的数据集。主要类别包括：政府统计机构的官方发布（如美国经济分析局 BEA 的国民账户、劳工统计局 BLS 的就业与物价）、中央银行数据（如美联储经济数据 FRED）、国际组织数据，以及商业金融数据平台汇编的指数和宏观序列。\n\n不同来源在频率、季节调整、基期、修订政策和历史长度上差别明显，商业平台上的序列常是对官方发布的再加工。研究中应明确实际序列代码及原始生产者，并记录取数日期与版本；通过 FRED、WRDS 等平台获取时，还需遵守底层序列的许可条款。",
     "source": "优先核对统计机构、中央银行、交易所或原始数据供应商的发布记录。通过 FRED、WRDS 或其他平台访问时，还需遵守底层序列的许可，不将平台可查询视为普遍开放授权。",
     "references": []
+  },
+  {
+    "id": "7.7",
+    "title": "Global Financial Data 历史金融数据",
+    "links": [
+      {
+        "label": "Global Financial Data",
+        "url": "https://globalfinancialdata.com/"
+      }
+    ],
+    "summary": "Global Financial Data 提供数百年跨度的股票、债券、利率、汇率和商品价格历史序列。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Global Financial Data（GFD）是商业历史金融数据库，整理了全球两百多个国家的股票指数、债券收益率、利率、汇率、通胀和商品价格等时间序列，许多序列可追溯到 19 世纪甚至更早，常用于长期宏观金融和资产定价研究，例如构建 19 世纪以来的能源价格指数和国债收益率控制变量。\n\n早期序列由多种历史资料拼接而成，口径不完全一致，使用时应查看序列说明。",
+    "source": "以商业订阅方式获取，部分高校通过图书馆或 WRDS 提供访问。",
+    "references": [
+      {
+        "raw": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "title": "The Macroeconomic Impact of Climate Change: Global versus Local Temperature",
+        "authors": [
+          "Adrien Bilal",
+          "Diego R. Känzig"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "889–944",
+        "doi": "10.1093/qje/qjag011",
+        "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "8",
@@ -6783,6 +9869,46 @@
         "pages": "255",
         "doi": "10.1057/s41599-024-02678-2",
         "url": "https://doi.org/10.1057/s41599-024-02678-2",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "10.4",
+    "title": "FHWA 公路统计（Highway Statistics）",
+    "links": [
+      {
+        "label": "FHWA 公路统计系列",
+        "url": "https://www.fhwa.dot.gov/policyinformation/statistics.cfm"
+      }
+    ],
+    "summary": "美国联邦公路管理局每年发布的公路统计年报，涵盖燃油消费与税率、车辆登记、驾照、行驶里程和公路财政。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "《公路统计》（Highway Statistics）由美国联邦公路管理局（FHWA）每年编制，按州提供机动车燃油销售量、联邦和州燃油税率、车辆登记数、驾照持有人数、车辆行驶里程（VMT）、公路里程和公路财政收支等表格，历史序列可追溯较早年份。数据常用于研究燃油税、交通需求和公路投资。\n\n各表依赖各州报送，口径和估算方法会调整，部分年份为估计值；跨年份使用时应查对表格附注。",
+    "source": "FHWA 官网公开发布各年度表格和历史汇编。",
+    "references": [
+      {
+        "raw": "A Welfare Analysis of Policies Impacting Climate Change",
+        "title": "A Welfare Analysis of Policies Impacting Climate Change",
+        "authors": [
+          "Robert W. Hahn",
+          "Nathaniel Hendren",
+          "Robert D. Metcalfe",
+          "Ben Sprung-Keyser"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2368–2421",
+        "doi": "10.1257/aer.20250166",
+        "url": "https://doi.org/10.1257/aer.20250166",
         "verified": true,
         "note": ""
       }
