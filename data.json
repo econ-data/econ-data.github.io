@@ -799,6 +799,27 @@
         "url": "https://www.nber.org/papers/w33636",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China",
+        "title": "Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China",
+        "authors": [
+          "Mark T. Buntaine",
+          "Michael Greenstone",
+          "Guojun He",
+          "Mengdi Liu",
+          "Shaoda Wang",
+          "Bing Zhang"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "3",
+        "pages": "815–850",
+        "doi": "10.1257/aer.20221215",
+        "url": "https://doi.org/10.1257/aer.20221215",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -953,6 +974,27 @@
         "url": "https://doi.org/10.1257/aer.20211455",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China",
+        "title": "Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China",
+        "authors": [
+          "Mark T. Buntaine",
+          "Michael Greenstone",
+          "Guojun He",
+          "Mengdi Liu",
+          "Shaoda Wang",
+          "Bing Zhang"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "3",
+        "pages": "815–850",
+        "doi": "10.1257/aer.20221215",
+        "url": "https://doi.org/10.1257/aer.20221215",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1040,7 +1082,29 @@
     ],
     "introduction": "空气污染数据在中国主要包括三类：一是生态环境部门和中国环境监测总站（CNEMC）运行的国控城市空气质量监测站点观测，通常提供 PM2.5、PM10、SO2、NO2、CO、O3 等污染物的小时浓度及空气质量指数（AQI）；二是卫星遥感反演的气溶胶光学厚度、NO2 柱浓度等产品；三是结合站点、遥感与化学传输模型得到的格网浓度估算或再分析产品。\n\n全国范围的实时站点发布始于 2013 年前后，并随监测网络扩展而增加站点数量，更早年份的数据主要来自环境统计公报、城市日均空气质量指数或 API 记录。站点数据代表点位而非区域，遥感和模型产品则有各自的空间分辨率与反演误差。\n\n研究中常用于估计污染的健康、生产率、迁移和房价影响。使用时应明确污染物定义、监测点位变动、API 与 AQI 的口径差异、缺失值及数据质量审核方式，并区分原始观测与加工后的格网产品，避免把不同来源的数据直接拼接。",
     "source": "优先从生态环境部门的公开监测服务或具有清晰许可的科研数据仓库获取。站点记录、历史批量文件和模型产品的获取条件需分别核对；没有明确发布记录时，具体来源保持待确认。",
-    "references": []
+    "references": [
+      {
+        "raw": "Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China",
+        "title": "Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China",
+        "authors": [
+          "Mark T. Buntaine",
+          "Michael Greenstone",
+          "Guojun He",
+          "Mengdi Liu",
+          "Shaoda Wang",
+          "Bing Zhang"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "3",
+        "pages": "815–850",
+        "doi": "10.1257/aer.20221215",
+        "url": "https://doi.org/10.1257/aer.20221215",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.3.3",
@@ -1107,6 +1171,44 @@
     ]
   },
   {
+    "id": "1.3.5",
+    "title": "生态环境部 12369 环保举报数据",
+    "links": [],
+    "summary": "公众通过 12369 电话、网站和微信等渠道向生态环境部门提交的环境污染举报记录及办理情况。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "政治数据"
+    ],
+    "introduction": "12369 是全国统一的环保举报渠道，公众可以通过电话、网络平台和微信公众号举报企业排污、噪声、扬尘等环境问题。举报经全国环保举报管理平台分派到地方生态环境部门处理，记录举报时间、被举报对象、污染类型、所在地区和办理结果。生态环境部定期公布举报受理和办结情况的汇总通报。\n\n举报记录可用于衡量公众环境诉求、地方环境监管的回应性，以及公众监督对企业排放的影响。举报层面的明细数据不公开，学术研究通常需要与主管部门合作获取；举报量同时受污染程度、公众意识和渠道便利性影响，不宜直接当作污染指标。",
+    "source": "生态环境部网站发布举报办理情况汇总；举报层面的明细记录需通过与主管部门合作等官方渠道获取。",
+    "references": [
+      {
+        "raw": "Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China",
+        "title": "Does the Squeaky Wheel Get More Grease? The Direct and Indirect Effects of Citizen Participation on Environmental Governance in China",
+        "authors": [
+          "Mark T. Buntaine",
+          "Michael Greenstone",
+          "Guojun He",
+          "Mengdi Liu",
+          "Shaoda Wang",
+          "Bing Zhang"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "3",
+        "pages": "815–850",
+        "doi": "10.1257/aer.20221215",
+        "url": "https://doi.org/10.1257/aer.20221215",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "1.4.1",
     "title": "房价数据",
     "links": [
@@ -1128,7 +1230,28 @@
     ],
     "introduction": "房价数据按来源大致分为四类：国家统计局发布的 70 个大中城市商品住宅销售价格指数，为环比和同比指数，不是价格水平；房屋交易登记或网签备案记录，反映实际成交，但通常由地方住建部门持有，公开程度有限；房地产平台和中介机构的挂牌价、成交价信息；以及商业机构的估价和指数产品。\n\n官方价格指数时间序列较长，适合宏观和城市层面分析，但不提供具体房屋属性；平台数据可覆盖小区或楼栋，包含面积、户型、楼层和挂牌时间等，但反映的是报价而非成交，且存在平台覆盖和样本选择问题。\n\n不同来源对应价格指数、成交价、挂牌价与模型估值，口径不同，不应直接混用。使用平台或商业数据时，还需单独核实批量采集、再分发和商业使用的授权条件。",
     "source": "根据研究所需的统计层次选择官方公开统计或有明确许可的交易、平台和商业数据。住宅级记录、批量采集及转发权限须单独核实，网站可查询不代表获得完整数据使用授权。",
-    "references": []
+    "references": [
+      {
+        "raw": "Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting",
+        "title": "Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting",
+        "authors": [
+          "Panle Jia Barwick",
+          "Shanjun Li",
+          "Andrew Waxman",
+          "Jing Wu",
+          "Tianli Xia"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "10",
+        "pages": "3161–3205",
+        "doi": "10.1257/aer.20220212",
+        "url": "https://doi.org/10.1257/aer.20220212",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.5.1",
@@ -1310,6 +1433,37 @@
         "url": "https://doi.org/10.1257/aer.20200956",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1430,6 +1584,43 @@
     ]
   },
   {
+    "id": "1.10.1",
+    "title": "北京市居民出行调查",
+    "links": [],
+    "summary": "北京交通发展研究院组织的居民出行大样本调查，记录家庭特征、车辆拥有和 24 小时出行日志。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "交通数据"
+    ],
+    "introduction": "北京市居民出行调查是北京市综合交通调查的组成部分，由北京交通发展研究院等机构组织，按交通小区抽样入户，2010 年、2014 年等轮次各覆盖数万户家庭。问卷包括家庭人口、收入、车辆拥有、成员职业和工作地点，以及调查日 24 小时的出行日志：每次出行的起讫交通小区、出发和到达时间、出行目的和交通方式。\n\n数据常用于估计通勤方式选择、出行时间价值和交通政策（限行、拥堵收费、地铁建设）对出行与居住选择的影响。调查数据由政府研究机构保存，不公开发布，研究使用需与主管单位合作；地点只精确到交通小区。",
+    "source": "数据由北京市交通主管部门及北京交通发展研究院保存，需通过合作或官方授权获取，具体条件待核实。",
+    "references": [
+      {
+        "raw": "Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting",
+        "title": "Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting",
+        "authors": [
+          "Panle Jia Barwick",
+          "Shanjun Li",
+          "Andrew Waxman",
+          "Jing Wu",
+          "Tianli Xia"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "10",
+        "pages": "3161–3205",
+        "doi": "10.1257/aer.20220212",
+        "url": "https://doi.org/10.1257/aer.20220212",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2",
     "title": "美国数据",
     "links": [
@@ -1516,6 +1707,41 @@
         "url": "https://www.nber.org/papers/w35288",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "title": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "authors": [
+          "Janet Currie",
+          "John Voorheis",
+          "Reed Walker"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "71–97",
+        "doi": "10.1257/aer.20191957",
+        "url": "https://doi.org/10.1257/aer.20191957",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1578,6 +1804,41 @@
         "pages": "1723–1764",
         "doi": "10.1257/aer.20231016",
         "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "title": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "authors": [
+          "Janet Currie",
+          "John Voorheis",
+          "Reed Walker"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "71–97",
+        "doi": "10.1257/aer.20191957",
+        "url": "https://doi.org/10.1257/aer.20191957",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
         "verified": true,
         "note": ""
       }
@@ -1686,7 +1947,25 @@
     ],
     "introduction": "消费者支出调查（CE）由美国劳工统计局（BLS）组织、人口普查局实地执行，由两部分组成：访谈调查（Interview Survey）每季度跟踪家庭较大和经常性支出，日记调查（Diary Survey）则记录两周内的小额日常购买。两者共同提供家庭的支出、收入、住房和人口特征，也是消费者物价指数（CPI）权重的重要依据。\n\n公开使用微观数据（PUMD）按年发布，以消费单位为观测单位，提供支出明细类别，可用于分析消费结构、不同收入群体的支出行为及能源、住房和医疗支出。BLS 同时发布按年汇总的支出表。\n\n需注意此处的 CE 与 BLS 的机构就业统计（Current Employment Statistics）同缩写但属不同项目。使用时应了解两部分调查的抽样与报告差异，并留意拒答和低报问题；地理信息较粗，更详细信息须按 BLS 规定申请。",
     "source": "通过 BLS 的 CE 数据页面获取公开使用微观文件与文档。更详细的非公开记录或地理信息须核实适用的受限数据申请条件，不将公开版权限扩展至这些字段。",
-    "references": []
+    "references": [
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.2.6",
@@ -2006,6 +2285,58 @@
         "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Anticipating Climate Change Across the United States",
+        "title": "Anticipating Climate Change Across the United States",
+        "authors": [
+          "Adrien Bilal",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2023,
+        "journal": "Econometrica (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2293,6 +2624,23 @@
         "url": "https://www.nber.org/papers/w35288",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Anticipating Climate Change Across the United States",
+        "title": "Anticipating Climate Change Across the United States",
+        "authors": [
+          "Adrien Bilal",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2023,
+        "journal": "Econometrica (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31323",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2330,6 +2678,62 @@
     "introduction": "基建投资数据在美国没有单一的统一数据库，相关信息分散在不同层级和机构：联邦层面的项目拨款、合同和援助记录可以在 USAspending 等财政公开平台上查询；各主管部门（如交通部、能源部等）也会公布项目清单和拨款进展；私人投资和公私合作项目的信息则多来自企业公告或商业数据库。\n\n原清单中提到的 Invest.gov 是特定时期用于展示基础设施投资信息的入口，本次核查中该域名无法访问，不应将其视为持续可用且口径统一的底层数据库。使用此类信息时，应说明数据取得的时点，并区分项目公告金额、合同承诺金额（义务金额）与实际支出，因为三者含义不同。\n\n历史网页和归档资料需注明时点和来源；多数公开记录只能提供项目层面信息，不一定可批量下载，也不一定包含完整的承包商或受益人层面微观数据。",
     "source": "优先核对项目主管机构及正式支出或项目记录；历史网页与归档资料需注明时点和来源。Invest.gov 的当前可用性及批量下载条件尚需针对具体文件确认，不承诺可直接获取完整项目微观数据。",
     "references": []
+  },
+  {
+    "id": "2.4.4",
+    "title": "BEA 投入产出表",
+    "links": [
+      {
+        "label": "BEA 投入产出账户数据",
+        "url": "https://www.bea.gov/industry/input-output-accounts-data"
+      }
+    ],
+    "summary": "美国经济分析局编制的投入产出账户，包括供给表、使用表和完全需求系数表，基准表细分约 400 个行业。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "美国经济分析局（Bureau of Economic Analysis，BEA）的投入产出账户（Input-Output Accounts）描述各行业之间的中间投入流量以及最终需求构成。基准表大约每五年编制一次，以经济普查为基础，细分约 400 个行业和商品；年度表在基准年之间编制，行业划分较粗。账户包括制造表（Make）、使用表（Use）、供给表、进口矩阵，以及直接和完全需求系数（列昂惕夫逆矩阵），并有“重新定义前”和“重新定义后”两种口径。\n\n研究中常用于计算行业的中间投入结构、上下游关联和隐含排放，例如把各行业排放强度沿供应链分摊，或衡量行业对特定投入的依赖程度。不同基准年的行业代码会随 NAICS 修订调整，跨年比较需要使用 BEA 提供的对照表。",
+    "source": "BEA 网站公开提供各年份投入产出表下载。",
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.5.1",
@@ -2420,6 +2824,23 @@
         "url": "https://www.nber.org/papers/w35288",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Anticipating Climate Change Across the United States",
+        "title": "Anticipating Climate Change Across the United States",
+        "authors": [
+          "Adrien Bilal",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2023,
+        "journal": "Econometrica (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31323",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2445,7 +2866,43 @@
     ],
     "introduction": "美国基础地理资料主要由人口普查局的地理部门提供，核心产品是 TIGER/Line 系列矢量文件，包括州、县、县级区划、普查区、街区组、街区、都市统计区（CBSA）、国会选区以及邮政编码统计近似区域（ZCTA）等边界和编码，还包括道路、水系等要素，按年度发布。Cartographic Boundary 文件则是针对制图简化的边界，不适用于精确面积计算。\n\n这些边界会随人口普查和行政调整而变化，县的合并、拆分与编码改变，以及普查区在每十年重新划分，都会影响跨年份匹配，因此应明确使用的边界年份。ZCTA 是人口普查局为统计汇总而构造的邮政编码近似区域，不同于美国邮政署（USPS）的邮政编码，后者面向投递路线，没有固定的面状边界，也不应当作住址级定位数据使用。\n\n行政区划、统计区划和邮政编码并不等同，进行空间匹配时需说明地理单位和边界年份。",
     "source": "美国人口普查局发布 TIGER/Line、Cartographic Boundary 边界文件及地理对照资料。应核对产品用途和元数据；ZCTA 是邮政编码统计近似区域，不应直接当作实时邮递边界或住址级定位数据。",
-    "references": []
+    "references": [
+      {
+        "raw": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "title": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "authors": [
+          "Janet Currie",
+          "John Voorheis",
+          "Reed Walker"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "71–97",
+        "doi": "10.1257/aer.20191957",
+        "url": "https://doi.org/10.1257/aer.20191957",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.6.2",
@@ -2615,6 +3072,23 @@
         "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2657,6 +3131,24 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w35288",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "title": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "authors": [
+          "Janet Currie",
+          "John Voorheis",
+          "Reed Walker"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "71–97",
+        "doi": "10.1257/aer.20191957",
+        "url": "https://doi.org/10.1257/aer.20191957",
         "verified": true,
         "note": ""
       }
@@ -2848,7 +3340,24 @@
     ],
     "introduction": "执法与合规历史在线系统（Enforcement and Compliance History Online，ECHO）由美国环境保护署（EPA）维护，整合《清洁空气法》《清洁水法》《资源保护与回收法》《安全饮用水法》等项目下设施的许可、检查、违规、执法行动和罚款记录，并链接 TRI 排放等信息。系统覆盖大量受监管设施，既可按设施在线查询，也提供数据下载文件和 Web 服务。\n\n观测单位通常为设施或执法案件，时间上既有近期的合规状态，也有较长期的执法历史。常见研究用途包括评估环境监管强度、企业违规与执法的决定因素，以及监管执行的空间分布。\n\n这些行政记录来自各项目数据库的上报，报告与更新机制在州和年份间并不一致，会影响地区和时间可比性。未公开的执法材料和敏感字段不在公开系统内。",
     "source": "通过 EPA 的 ECHO 官方查询、下载或 Web 服务获取公开数据，遵循相应技术规范。对未公开的执法材料、敏感字段或底层系统访问权限，应另向主管机构确认。",
-    "references": []
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.6.8",
@@ -2876,7 +3385,25 @@
     ],
     "introduction": "灾害数据按生产机构和用途分为几类。美国联邦应急管理署（FEMA）通过 OpenFEMA 发布灾害声明摘要（Disaster Declarations Summaries）、公共援助和个人援助等记录，反映总统灾害声明及联邦援助。美国国家海洋和大气管理局（NOAA）国家环境信息中心的风暴事件数据库（Storm Events Database）记录天气事件，包括类型、日期、位置、伤亡和财产损失估计；其“十亿美元灾害”产品则汇总造成大额损失的事件。\n\n灾害声明是行政决定，物理事件是气象或地质过程，经济损失是估算，三者含义不同，不能相互替代；事件定义、报告标准和地区覆盖随产品和年份变化，如风暴事件数据库的事件类型在不同时期记录范围不同。\n\n研究中这类数据用于识别灾害冲击对地方经济、迁移、财政和健康的影响。使用时需明确冲击的定义，并留意损失估计的误差和报告偏差。",
     "source": "从 FEMA、NOAA 或其他明确的数据生产机构获取正式发布的产品。商业灾害损失库及研究者整理版本可能采用独立许可，不应因其描述同类事件而视为可自由转发的数据。",
-    "references": []
+    "references": [
+      {
+        "raw": "Anticipating Climate Change Across the United States",
+        "title": "Anticipating Climate Change Across the United States",
+        "authors": [
+          "Adrien Bilal",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2023,
+        "journal": "Econometrica (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31323",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.6.9",
@@ -3190,6 +3717,24 @@
         "url": "https://doi.org/10.1257/aer.20230761",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "title": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "authors": [
+          "Janet Currie",
+          "John Voorheis",
+          "Reed Walker"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "71–97",
+        "doi": "10.1257/aer.20191957",
+        "url": "https://doi.org/10.1257/aer.20191957",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3249,6 +3794,41 @@
         "pages": "2368–2421",
         "doi": "10.1257/aer.20250166",
         "url": "https://doi.org/10.1257/aer.20250166",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
         "verified": true,
         "note": ""
       }
@@ -3868,6 +4448,23 @@
         "url": "https://doi.org/10.1257/aer.20231016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3940,6 +4537,145 @@
         "pages": "891–927",
         "doi": "10.3982/ECTA20411",
         "url": "https://doi.org/10.3982/ECTA20411",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.33",
+    "title": "美国 1 公里格网 PM2.5 日浓度（Di 等）",
+    "links": [
+      {
+        "label": "NASA SEDAC 数据页",
+        "url": "https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-aqdh-dapm25-us-1km-1.0"
+      }
+    ],
+    "summary": "Di 等基于卫星、化学传输模型和土地利用变量估算的美国本土 1 公里格网逐日 PM2.5 浓度，由 NASA SEDAC 发布。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "该数据由哈佛大学 Di、Schwartz 等人构建，利用卫星气溶胶光学厚度、化学传输模型模拟、气象和土地利用变量，通过机器学习集成模型估计美国本土约 1 公里格网的逐日 PM2.5 浓度，并以 EPA 监测站观测进行训练和验证。NASA 社会经济数据与应用中心（SEDAC）发布的版本覆盖 2000–2016 年，同时提供日值和年均值。\n\n与只依赖监测站的数据相比，格网估计可以覆盖没有监测站的农村和郊区，适合与人口普查街区、邮编或个人住址匹配，研究污染暴露的空间差异和环境公平。估计值在监测稀疏地区和极端污染事件中误差较大，模型版本更新后数值可能变化。",
+    "source": "通过 NASA Earthdata/SEDAC 公开下载，需免费注册 Earthdata 账户。",
+    "references": [
+      {
+        "raw": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "title": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "authors": [
+          "Janet Currie",
+          "John Voorheis",
+          "Reed Walker"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "71–97",
+        "doi": "10.1257/aer.20191957",
+        "url": "https://doi.org/10.1257/aer.20191957",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.34",
+    "title": "美国国家土地覆盖数据库（NLCD）",
+    "links": [
+      {
+        "label": "MRLC NLCD 数据下载",
+        "url": "https://www.mrlc.gov/data"
+      },
+      {
+        "label": "USGS NLCD 介绍",
+        "url": "https://www.usgs.gov/centers/eros/science/national-land-cover-database"
+      }
+    ],
+    "summary": "USGS 与 MRLC 联盟基于 Landsat 影像制作的美国 30 米分辨率土地覆盖数据，含湿地、城市建成区和农田等类别。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "美国国家土地覆盖数据库（National Land Cover Database，NLCD）由美国地质调查局（USGS）牵头、多机构组成的多分辨率土地特征联盟（MRLC）制作，基于 Landsat 影像对美国本土进行 30 米分辨率分类，类别包括开放水域、不同强度的城市建成区、森林、灌丛、草地、耕地以及木本湿地和草本湿地等。2001 年以来的各期产品经过统一处理，可比较 2001、2006、2011、2016、2019、2021 等年份的变化，另有不透水面和树冠覆盖度等配套产品；近年还发布了逐年土地覆盖产品。\n\n数据常用于测量湿地损失、城市扩张、土地开发和地块地表特征，并可汇总到邮编、县或流域。分类存在误差，湿地等细类的精度相对较低；不同发布版本会回溯修订历史年份，研究中应固定版本。",
+    "source": "MRLC 网站公开提供下载，也可通过 Google Earth Engine 等平台使用。",
+    "references": [
+      {
+        "raw": "Relinquishing Riches: Auctions versus Informal Negotiations in Texas Oil and Gas Leasing",
+        "title": "Relinquishing Riches: Auctions versus Informal Negotiations in Texas Oil and Gas Leasing",
+        "authors": [
+          "Thomas R. Covert",
+          "Richard L. Sweeney"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "3",
+        "pages": "628–663",
+        "doi": "10.1257/aer.20191594",
+        "url": "https://doi.org/10.1257/aer.20191594",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.35",
+    "title": "EPA 生态分区（Ecoregions）",
+    "links": [
+      {
+        "label": "EPA 生态分区",
+        "url": "https://www.epa.gov/eco-research/ecoregions"
+      }
+    ],
+    "summary": "EPA 按气候、地质、土壤、植被和水文等特征划分的美国生态分区，分 I 至 IV 级。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "EPA 生态分区（Ecoregions）以 Omernik（1987）的方法为基础，综合气候、地形、地质、土壤、植被、野生动物和水文特征，把美国划分为生态系统类型相近的区域。分区分为 I 至 IV 四个层级，I 级最粗，IV 级最细；I、II 级与北美环境合作委员会（CEC）的北美分区一致。\n\n生态分区常用于环境研究中的异质性分析和分区控制，例如比较不同生态区内湿地、森林或水体的生态与经济价值，或在评估环境政策时控制自然条件的差异。分区边界是渐变带的近似，不同层级和版本的边界有所不同。",
+    "source": "EPA 网站公开提供 GIS 文件和地图下载。",
+    "references": [
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
         "verified": true,
         "note": ""
       }
@@ -4035,6 +4771,37 @@
         "pages": "3058–3080",
         "doi": "10.1257/aer.20230761",
         "url": "https://doi.org/10.1257/aer.20230761",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
       }
@@ -4197,6 +4964,88 @@
         "pages": "313–338",
         "doi": "10.3368/le.102.3.013026-0018",
         "url": "https://doi.org/10.3368/le.102.3.013026-0018",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.2",
+    "title": "EPA 新车排放认证数据",
+    "links": [
+      {
+        "label": "EPA 年度认证数据",
+        "url": "https://www.epa.gov/compliance-and-fuel-economy-data/annual-certification-data-vehicles-engines-and-equipment"
+      }
+    ],
+    "summary": "EPA 公布的新车与发动机排放认证测试结果，按车型族或测试组记录 CO、HC、NOx 等污染物的认证排放水平。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "交通数据"
+    ],
+    "introduction": "依据《清洁空气法》，汽车制造商在新车上市前须向 EPA 提交排放认证测试结果。EPA 的年度认证数据（Annual Certification Data）按车型年份公布轻型车、重型发动机及非道路设备的认证记录，观测单位为发动机族或测试组，记录制造商、车型、排量、燃料类型、适用排放标准，以及按联邦测试程序（FTP）测得的 CO、HC、NOx、颗粒物等排放值和标准限值。电子记录可追溯到 1970 年代末，更早年份可从《联邦公报》刊载的测试结果中整理。\n\n数据常用于衡量排放标准收紧对新车排放的影响、制造商合规余量和车队排放的变化。认证值是标准化实验室测试结果，与车辆实际道路排放和老化后的排放可能有较大差距。",
+    "source": "EPA 网站公开提供各车型年份的认证数据下载。",
+    "references": [
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.3",
+    "title": "机动车在用排放检测与路边遥感数据",
+    "links": [
+      {
+        "label": "丹佛大学 FEAT 数据存储库",
+        "url": "https://digitalcommons.du.edu/feat/"
+      }
+    ],
+    "summary": "州排放检测（I/M）项目的车辆年检记录，以及丹佛大学 FEAT 等路边遥感测量数据，反映在用车辆的实际排放。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "交通数据"
+    ],
+    "introduction": "美国多个州实施机动车检测与维护（Inspection and Maintenance，I/M）项目，例如科罗拉多州在丹佛都市区对车龄较长的汽油车进行 IM240 底盘测功机测试，记录 VIN、车型年份、里程数和 CO、HC、NOx 排放率；科罗拉多还运行路边遥感筛查项目，用红外和紫外设备测量过往车辆的尾气浓度，并通过车牌照片关联到车辆。丹佛大学的燃油效率汽车测试（Fuel Efficiency Automobile Test，FEAT）项目在美国多个城市和其他国家开展路边遥感测量，并公开了测量报告和数据；加州空气资源委员会（CARB）等机构也开展在用车抽样测试。\n\n这类数据可以观察车辆在使用多年后的实际排放、排放随车龄和里程的劣化，以及排放标准在车辆整个寿命期内的效果。州检测记录一般需向主管部门申请；遥感测量只捕捉瞬时尾气，受驾驶工况影响较大。",
+    "source": "丹佛大学 FEAT 数据在其 Digital Commons 存储库公开；州 I/M 检测和遥感记录需向州环保或交通主管部门申请，条件待核实。",
+    "references": [
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
         "verified": true,
         "note": ""
       }
@@ -4749,7 +5598,24 @@
     ],
     "introduction": "Wharton Research Data Services（WRDS）由宾夕法尼亚大学沃顿商学院运营，是面向学术机构的数据访问平台，在统一界面和 SAS、Python、R 等环境下提供来自多家供应商的金融、会计、市场和企业数据库。常见的有 Compustat（企业财务报表）、CRSP（证券价格与收益）、I/B/E/S（分析师预测）、Orbis（全球企业信息）、OptionMetrics（期权）等。\n\nWRDS 本身是分发平台，各数据库由不同供应商生产，样本范围、起始年份、更新频率和变量定义各不相同，因此变量、覆盖和许可不可相互替代。研究者通常通过 SQL 查询或网页表单提取，并可在平台上做初步处理。\n\n使用需所在机构订阅并开通个人账户，具体数据库还需相应产品权限。使用与共享须符合机构订阅和供应商条款，数据一般不得公开再分发。",
     "source": "WRDS 主要依机构订阅和用户授权提供服务，具体数据库通常还需相应产品权限，不能统一称为公开数据。使用与共享须符合机构订阅及供应商条款；部分免费资源应按其独立说明确认。",
-    "references": []
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.11.2",
@@ -5151,6 +6017,114 @@
     "introduction": "Nielsen/NielsenIQ 的零售与消费数据在学术界主要通过芝加哥大学布斯商学院 Kilts 营销中心提供。主要产品包括 NielsenIQ Retail Scanner（2006 年起，来自 90 多家零售连锁的每周商品价格、销量及门店信息）和 NielsenIQ Consumer Panel（2004 年起，约 4 万至 6 万户家庭的日用消费品购买记录），另有 Nielsen Ad Intel 广告数据等。\n\n扫描数据、家庭面板和门店数据属于不同产品，观测单位分别为商品×门店×周和家庭×购买，覆盖范围与权重需分别说明。研究中常用于需求估计、价格设定、市场结构及政策（如税收、补贴）对消费和价格的影响。\n\n获取需机构与布斯商学院签订订阅合同，之后个人研究者注册，且仅限终身或长聘轨教员、博士生和博士后等。数据使用须符合提供方的引用与披露条款，不得公开原始门店、商品和家庭记录。",
     "source": "学术访问可核对芝加哥大学 Kilts Center 与供应方的正式订阅及资格安排，其他访问依相应商业合同。不得把机构订阅等同于团队外共享或公开原始门店、商品和家庭记录的许可。",
     "references": []
+  },
+  {
+    "id": "2.12.2",
+    "title": "二手车估值数据（NADA 指南、Kelley Blue Book）",
+    "links": [],
+    "summary": "NADA 二手车指南（现属 J.D. Power）和 Kelley Blue Book 按品牌、车型、年份和配置给出的二手车估值。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "交通数据"
+    ],
+    "introduction": "NADA 二手车指南（NADA Used Car Guide）原由美国全国汽车经销商协会编制，现由 J.D. Power 估值服务发布，按品牌、车型、车型年份和配置提供批发价、零售价和以旧换新估值，广泛用于汽车金融和保险定价。Kelley Blue Book（KBB）同样提供二手车估值，并在网站上公开个人交易和经销商交易的参考价格。\n\n研究中常用这些估值衡量车辆残值、车龄与价格的关系，以及燃油价格或环境政策对二手车价格的影响，或用于校准车队更新模型。估值是基于交易数据和模型的参考价，不是实际成交价；历史版本通常需要购买或通过图书馆获取。",
+    "source": "以商业订阅或购买方式获取；KBB 网站可查询当期估值，历史数据需另行购买。",
+    "references": [
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.3",
+    "title": "Wards 汽车数据（Wards Automotive Yearbook）",
+    "links": [],
+    "summary": "Wards Intelligence 发布的美国汽车产销与车队统计，包括按车型、级别和制造商划分的新车销量。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "交通数据"
+    ],
+    "introduction": "Wards（原 Ward’s Automotive，现属 Informa 旗下 Wards Intelligence）长期发布美国及全球汽车行业统计，《Wards Automotive Yearbook》等出版物记录按制造商、品牌、车型、车身级别和尺寸划分的新车生产与销售，车辆保有量和注册量，以及车辆规格等信息。\n\n数据常用于构建新车销售结构、计算销量加权的燃油经济性或排放，以及校准汽车市场模型。数据为商业产品，需订阅或通过图书馆获取；车型分类口径由 Wards 定义，与 EPA 等官方分类不完全一致。",
+    "source": "以商业订阅方式获取，部分高校图书馆收藏年鉴。",
+    "references": [
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.4",
+    "title": "Polk 车辆登记数据（S&P Global Mobility）",
+    "links": [],
+    "summary": "原 R.L. Polk 公司整理的美国车辆登记数据，记录按车型、年份和地区划分的新车登记与在用车辆保有量。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "交通数据"
+    ],
+    "introduction": "R.L. Polk 公司长期汇集美国各州机动车登记记录，提供新车登记和在用车辆（vehicles in operation）数据，可细分到品牌、车型、车型年份、燃料类型和地区（州、县、邮编）。Polk 于 2013 年被 IHS 收购，现属 S&P Global Mobility。\n\n数据常用于测量车队规模和车龄结构、估计车辆报废率、研究新能源汽车扩散和地区间车辆流动。数据为商业产品，价格较高，学术使用通常需要购买特定字段或通过合作获取；登记数据基于各州记录，个别州的口径和更新时间不同。",
+    "source": "以商业授权方式向 S&P Global Mobility 购买。",
+    "references": [
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.13",
@@ -5692,6 +6666,23 @@
         "url": "https://doi.org/10.1257/aer.20250166",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Relinquishing Riches: Auctions versus Informal Negotiations in Texas Oil and Gas Leasing",
+        "title": "Relinquishing Riches: Auctions versus Informal Negotiations in Texas Oil and Gas Leasing",
+        "authors": [
+          "Thomas R. Covert",
+          "Richard L. Sweeney"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "3",
+        "pages": "628–663",
+        "doi": "10.1257/aer.20191594",
+        "url": "https://doi.org/10.1257/aer.20191594",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6124,6 +7115,126 @@
         "pages": "2368–2421",
         "doi": "10.1257/aer.20250166",
         "url": "https://doi.org/10.1257/aer.20250166",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.13",
+    "title": "美国燃油经济性数据（fueleconomy.gov）",
+    "links": [
+      {
+        "label": "fueleconomy.gov 数据下载",
+        "url": "https://www.fueleconomy.gov/feg/download.shtml"
+      }
+    ],
+    "summary": "美国能源部与 EPA 发布的新车燃油经济性评级数据，以及 EPA 汽车趋势报告中的车队平均油耗与排放。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "交通数据"
+    ],
+    "introduction": "fueleconomy.gov 由美国能源部与 EPA 共同维护，按车型年份公布轻型新车的燃油经济性评级（城市、公路和综合油耗）、CO2 排放、年度燃料成本和车辆属性，可下载 1984 年以来的车型级数据。EPA 的《汽车趋势报告》（Automotive Trends Report）另提供 1975 年以来按制造商和车辆类型汇总的实际燃油经济性、CO2 排放和技术采用情况；美国国家公路交通安全管理局（NHTSA）负责企业平均燃油经济性（CAFE）标准并公布合规数据。\n\n数据常用于研究燃油经济性标准、燃油价格对购车选择的影响以及汽车技术进步。评级值来自标准化测试并经调整，与驾驶者的实际油耗存在差异；不同年份的评级方法有过调整，跨期比较应使用官方调整后的数值。",
+    "source": "fueleconomy.gov 网站公开提供数据下载；EPA 趋势报告数据可在 EPA 网站获取。",
+    "references": [
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.14",
+    "title": "EIA 州能源数据系统（SEDS）",
+    "links": [
+      {
+        "label": "EIA SEDS",
+        "url": "https://www.eia.gov/state/seds/"
+      }
+    ],
+    "summary": "EIA 编制的州级年度能源生产、消费、价格和支出数据，按能源品种和部门划分。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "州能源数据系统（State Energy Data System，SEDS）由美国能源信息署（EIA）编制，按州和年份提供各类能源（煤炭、天然气、石油产品、电力、可再生能源等）在居民、商业、工业、交通和电力部门的消费量，以及能源价格、支出和生产数据。消费数据始于 1960 年，价格和支出数据始于 1970 年。\n\n数据常用于构建州级汽油价格、能源消费结构和能源强度等控制变量，或研究州能源政策的影响。SEDS 数据由多种调查和估算整合而成，部分序列为模型估计；每年发布时可能修订历史数值。",
+    "source": "EIA 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.15",
+    "title": "德州土地总局（GLO）油气租约与特许权使用费数据",
+    "links": [
+      {
+        "label": "德州土地总局能源业务",
+        "url": "https://www.glo.texas.gov/energy"
+      }
+    ],
+    "summary": "德州土地总局管理的州有及永久学校基金土地的油气租约、拍卖结果和月度特许权使用费记录。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "区域经济数据"
+    ],
+    "introduction": "德州土地总局（Texas General Land Office，GLO）代表州政府管理公共土地和矿产权，其中包括为永久学校基金（Permanent School Fund）筹资的大量土地。这些土地上的油气开采权一部分由 GLO 通过定期密封竞标拍卖出租，另一部分按《放弃法》（Relinquishment Act）由地表所有者代州政府与油气公司协商出租。GLO 保存租约层面的行政记录，包括租约位置、面积、签订日期、签约奖金、特许权使用费率和期限，以及租约投产后的月度特许权使用费支付记录。\n\n这些数据适合比较拍卖与协商两种出租方式的结果、估计矿产租约的价值和开采决策。GLO 网站公开部分租约信息、拍卖结果和地图，完整的租约和特许权使用费明细需向 GLO 申请；地块的矿产权类别需借助 GLO 的地块图层确定。",
+    "source": "GLO 网站公开部分租约、拍卖和 GIS 信息；完整行政记录需向 GLO 申请，条件待核实。",
+    "references": [
+      {
+        "raw": "Relinquishing Riches: Auctions versus Informal Negotiations in Texas Oil and Gas Leasing",
+        "title": "Relinquishing Riches: Auctions versus Informal Negotiations in Texas Oil and Gas Leasing",
+        "authors": [
+          "Thomas R. Covert",
+          "Richard L. Sweeney"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "3",
+        "pages": "628–663",
+        "doi": "10.1257/aer.20191594",
+        "url": "https://doi.org/10.1257/aer.20191594",
         "verified": true,
         "note": ""
       }
@@ -6568,6 +7679,126 @@
     ]
   },
   {
+    "id": "3.1.12",
+    "title": "印度年度工业调查（ASI）",
+    "links": [
+      {
+        "label": "MoSPI ASI 介绍",
+        "url": "https://www.mospi.gov.in/annual-survey-industries"
+      },
+      {
+        "label": "MoSPI 微观数据目录（ASI）",
+        "url": "https://microdata.gov.in/NADA/index.php/catalog/ASI"
+      }
+    ],
+    "summary": "印度统计与计划执行部组织的工厂层面年度调查，覆盖按《工厂法》登记的制造业工厂，含产出、投入、就业和资本。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "印度年度工业调查（Annual Survey of Industries，ASI）由印度统计与计划执行部（MoSPI）下属国家统计局组织，是印度制造业统计的主要来源。调查对象为按 1948 年《工厂法》等登记的工厂，较大工厂逐一调查（普查部分），其余工厂抽样调查，记录产出和产品、原材料与燃料投入、能源消耗、就业和工资、固定资本和存货等。工厂层面的微观数据可以构建跨年面板。\n\n数据常用于研究印度制造业生产率、资源错配、贸易与产业政策以及能源和环境规制。ASI 不覆盖未登记的非正规部门；普查与抽样部分的界定标准随时间调整，抽样工厂需要使用权重。",
+    "source": "MoSPI 微观数据门户提供 ASI 单元数据，需注册申请，具体条件以官方说明为准。",
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.1.13",
+    "title": "印度城市空气污染知识评估（APnA）",
+    "links": [
+      {
+        "label": "APnA 城市项目",
+        "url": "https://urbanemissions.info/india-apna/"
+      }
+    ],
+    "summary": "UrbanEmissions.Info 为印度多个城市编制的排放清单、模拟 PM2.5 浓度分布和污染来源解析结果。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "城市空气污染知识评估（Air Pollution Knowledge Assessments，APnA）由研究机构 UrbanEmissions.Info 开展，为印度多个城市编制分部门排放清单（交通、工业、居民燃料、道路扬尘、垃圾焚烧等），并用大气扩散模型模拟城市范围内的 PM2.5 浓度格网和各来源的贡献比例。每个城市的结果以报告、地图和数据文件的形式公布。\n\n数据常用于描述印度城市空气污染的空间分布和来源结构，例如评估工业排放在环境 PM2.5 中的份额。结果来自排放清单和模型模拟，不是监测观测，不确定性较大，应与监测数据对照使用。",
+    "source": "UrbanEmissions.Info 网站公开提供各城市报告和数据。",
+    "references": [
+      {
+        "raw": "Can Pollution Markets Work in Developing Countries? Experimental Evidence from India",
+        "title": "Can Pollution Markets Work in Developing Countries? Experimental Evidence from India",
+        "authors": [
+          "Michael Greenstone",
+          "Rohini Pande",
+          "Nicholas Ryan",
+          "Anant Sudarshan"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1003–1060",
+        "doi": "10.1093/qje/qjaf009",
+        "url": "https://doi.org/10.1093/qje/qjaf009",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.1.14",
+    "title": "ICRISAT 村庄层面研究（VLS）面板调查",
+    "links": [
+      {
+        "label": "VDSA 数据门户",
+        "url": "https://vdsa.icrisat.org/"
+      }
+    ],
+    "summary": "ICRISAT 在印度半干旱热带地区村庄开展的长期家户面板调查，记录农业生产、劳动、收入和消费。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "农业数据"
+    ],
+    "introduction": "村庄层面研究（Village Level Studies，VLS）由国际半干旱热带作物研究所（ICRISAT）于 1975 年在印度半干旱热带地区的少数村庄启动，按土地规模分层抽取农户，长期追踪记录逐块地的种植、投入、雇工和家庭劳动、收入、消费、资产和借贷等信息，第一阶段持续到 1980 年代中期。2000 年代后，调查在“南亚农村动态数据”（VDSA）项目下恢复并扩展到更多村庄，并覆盖印度东部和孟加拉国的村庄。\n\n这是发展经济学中历史最长、记录最细的农户面板之一，常用于研究风险分担、劳动力市场、农场规模与生产率以及农业技术采用。样本村庄数量有限，不代表全国；各阶段问卷和样本有所调整。",
+    "source": "VDSA 门户提供数据访问，需注册申请，具体条件以 ICRISAT 说明为准。",
+    "references": [
+      {
+        "raw": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+        "title": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+        "authors": [
+          "Andrew D. Foster",
+          "Mark R. Rosenzweig"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "3",
+        "pages": "636–680",
+        "doi": "10.1086/717890",
+        "url": "https://doi.org/10.1086/717890",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.2.1",
     "title": "巴西农业普查（Censo Agropecuário）",
     "links": [
@@ -6834,6 +8065,53 @@
     ]
   },
   {
+    "id": "3.2.7",
+    "title": "巴西死亡率信息系统（SIM）",
+    "links": [],
+    "summary": "巴西卫生部 DATASUS 维护的全国死亡登记系统，基于死亡证明记录死者特征、死因和居住市镇。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "死亡率信息系统（Sistema de Informação sobre Mortalidade，SIM）由巴西卫生部建立，通过 DATASUS 发布，以死亡证明为基础记录全国死亡事件，变量包括死亡日期、性别、年龄、种族、受教育程度、居住和发生地市镇以及根本死因（1996 年起采用 ICD-10 编码）。数据可汇总到市镇和月份。\n\n数据常用于研究气温、污染、卫生政策和社会经济冲击对死亡率的影响，可与巴西人口普查和人口估计匹配计算死亡率。早期年份和北部、东北部地区存在漏报和死因不明比例较高的问题，覆盖率随时间改善。",
+    "source": "通过 DATASUS 的 TabNet 和公开微观数据文件获取，具体入口以巴西卫生部网站为准。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.3.1",
     "title": "乌干达全国面板调查（UNPS）",
     "links": [
@@ -6871,6 +8149,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heterogeneity, Measurement Error, and Misallocation: Evidence from African Agriculture",
+        "title": "Heterogeneity, Measurement Error, and Misallocation: Evidence from African Agriculture",
+        "authors": [
+          "Douglas Gollin",
+          "Christopher Udry"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "1",
+        "pages": "1–80",
+        "doi": "10.1086/711369",
+        "url": "https://doi.org/10.1086/711369",
         "verified": true,
         "note": ""
       }
@@ -7021,6 +8316,300 @@
         "pages": "1–33",
         "doi": "10.3982/ECTA20608",
         "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.6.1",
+    "title": "智利国家电力协调中心（Coordinador Eléctrico Nacional）电力市场数据",
+    "links": [
+      {
+        "label": "智利国家电力协调中心",
+        "url": "https://www.coordinador.cl/"
+      }
+    ],
+    "summary": "智利电力系统运营机构发布的节点边际成本（现货价格）、机组发电量、需求和机组可变成本申报数据。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "智利国家电力协调中心（Coordinador Eléctrico Nacional，CEN）于 2017 年由原中部互联电网（SIC）和北部大电网（SING）的经济调度中心（CDEC-SIC、CDEC-SING）合并而成，同年两大电网实现互联。协调中心负责电力系统的调度和批发市场运行，公开发布各节点的小时边际成本、机组级发电量、节点需求、机组申报的可变成本、输电约束和装机信息。\n\n智利以成本为基础调度，电价数据与机组成本申报可以直接用于模拟调度、研究输电约束和市场一体化对电价及可再生能源投资的影响。网站以西班牙语为主，2017 年前的数据分属两个调度中心，口径需要统一。",
+    "source": "协调中心网站公开发布运行和市场数据，部分历史数据需在其数据门户中检索。",
+    "references": [
+      {
+        "raw": "The Investment Effects of Market Integration: Evidence from Renewable Energy Expansion in Chile",
+        "title": "The Investment Effects of Market Integration: Evidence from Renewable Energy Expansion in Chile",
+        "authors": [
+          "Luis E. Gonzales",
+          "Koichiro Ito",
+          "Mar Reguant"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "5",
+        "pages": "1659–1693",
+        "doi": "10.3982/ECTA20769",
+        "url": "https://doi.org/10.3982/ECTA20769",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.6.2",
+    "title": "智利卫生统计与信息部（DEIS）生命统计数据",
+    "links": [
+      {
+        "label": "智利 DEIS",
+        "url": "https://deis.minsal.cl/"
+      }
+    ],
+    "summary": "智利卫生部 DEIS 发布的出生和死亡登记数据，包括个体死亡记录的日期、年龄、死因和居住市镇。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "智利卫生部卫生统计与信息部（Departamento de Estadísticas e Información de Salud，DEIS）与国家统计局（INE）、民事登记机构合作编制生命统计，公开发布出生、死亡和死因数据。死亡记录包括死亡日期、性别、年龄、居住市镇（comuna）和 ICD-10 根本死因，可汇总到市镇和年份。\n\n智利的死亡登记覆盖率较高，数据常用于研究气温、空气污染和医疗服务对死亡率的影响。计算死亡率需要配合 INE 的分年龄人口估计；市镇行政区划有过调整，跨年分析需要统一边界。",
+    "source": "DEIS 网站公开提供数据和统计报表下载。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.1",
+    "title": "ABARES 墨累-达令流域灌溉农场调查",
+    "links": [],
+    "summary": "澳大利亚农业与资源经济科学局对墨累-达令流域灌溉农场的年度调查，记录用水、种植、投入和财务状况。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "农业数据"
+    ],
+    "introduction": "澳大利亚农业与资源经济科学局（ABARES）每年对墨累-达令流域的灌溉农场开展调查，2006–07 年度起持续进行，由调查员实地访问农场，收集灌溉用水量与水权、水交易、种植面积和产量、劳动与物料投入、收入、成本和资产负债等信息，样本以轮换面板方式追踪部分农场。ABARES 根据调查发布按地区和行业汇总的农场经营与用水报告。\n\n调查数据可用于估计灌溉农业的生产函数、用水效率以及干旱和水市场对农场经营的影响。农场层面的单元记录受保密规定保护，研究者需与 ABARES 签订协议才能使用；公开资料只有汇总结果。",
+    "source": "ABARES 网站发布汇总报告；单元记录需与 ABARES 签订保密协议，具体条件待核实。",
+    "references": [
+      {
+        "raw": "Droughts, Deluges, and (River) Diversions: Valuing Market-Based Water Reallocation",
+        "title": "Droughts, Deluges, and (River) Diversions: Valuing Market-Based Water Reallocation",
+        "authors": [
+          "Will Rafey"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "2",
+        "pages": "430–471",
+        "doi": "10.1257/aer.20201434",
+        "url": "https://doi.org/10.1257/aer.20201434",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.2",
+    "title": "澳大利亚气象局（BoM）格网气候与水平衡数据",
+    "links": [
+      {
+        "label": "BoM 澳大利亚水资源评估（AWRA）",
+        "url": "https://www.bom.gov.au/water/awra/"
+      }
+    ],
+    "summary": "澳大利亚气象局发布的全国格网逐日降水、气温，以及 AWRA 模型估算的蒸散发、土壤水分和径流。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "澳大利亚气象局（Bureau of Meteorology，BoM）基于站点观测制作全国格网逐日降水和气温数据（澳大利亚格网气候数据，AGCD），并运行澳大利亚水资源评估（Australian Water Resources Assessment，AWRA）模型，生成全国格网的逐日蒸散发、土壤水分、深层渗漏和径流等水平衡变量，通过“澳大利亚景观水平衡”网站发布。\n\n这些数据常用于测量农场或地区的降水冲击、作物需水量和干旱程度，与农业调查和水市场数据结合研究水资源配置。格网值由站点插值或模型估算得到，站点稀疏的内陆地区误差较大。",
+    "source": "BoM 网站公开提供查询和下载，部分产品需通过数据服务申请。",
+    "references": [
+      {
+        "raw": "Droughts, Deluges, and (River) Diversions: Valuing Market-Based Water Reallocation",
+        "title": "Droughts, Deluges, and (River) Diversions: Valuing Market-Based Water Reallocation",
+        "authors": [
+          "Will Rafey"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "2",
+        "pages": "430–471",
+        "doi": "10.1257/aer.20201434",
+        "url": "https://doi.org/10.1257/aer.20201434",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.3",
+    "title": "墨累-达令流域水权配额、分配与交易数据",
+    "links": [
+      {
+        "label": "墨累-达令流域管理局",
+        "url": "https://www.mdba.gov.au/"
+      },
+      {
+        "label": "BoM 水信息仪表板（含水市场）",
+        "url": "https://www.bom.gov.au/water/dashboards/"
+      }
+    ],
+    "summary": "澳大利亚各州水登记处和联邦机构记录的水权配额、年度分配比例和水权交易的价格与数量。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "环境数据",
+      "农业数据"
+    ],
+    "introduction": "在澳大利亚墨累-达令流域，灌溉者持有长期水权配额（entitlements），各州主管部门每个灌溉年度根据蓄水情况公布分配比例（allocations），决定可用水量；水权和年度分配水可以在州内和州际交易。新南威尔士、维多利亚、南澳等州的水登记处记录水权和每笔交易的日期、数量、价格以及转出和转入地区；墨累-达令流域管理局（MDBA）和澳大利亚气象局汇总发布水市场信息，原国家水委员会曾发布年度水市场报告。\n\n数据常用于研究水市场的效率、干旱期间的水价和水的跨区流动，以及取水上限等政策的效果。交易价格记录存在零价格或非市场转让，需要清洗；各州登记系统和数据格式不同。",
+    "source": "MDBA 和 BoM 水信息平台公开部分汇总与交易数据；明细记录以各州水登记处为准。",
+    "references": [
+      {
+        "raw": "Droughts, Deluges, and (River) Diversions: Valuing Market-Based Water Reallocation",
+        "title": "Droughts, Deluges, and (River) Diversions: Valuing Market-Based Water Reallocation",
+        "authors": [
+          "Will Rafey"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "2",
+        "pages": "430–471",
+        "doi": "10.1257/aer.20201434",
+        "url": "https://doi.org/10.1257/aer.20201434",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.8.1",
+    "title": "墨西哥死亡登记统计（INEGI EDR）",
+    "links": [
+      {
+        "label": "INEGI 死亡登记统计",
+        "url": "https://www.inegi.org.mx/programas/edr/"
+      }
+    ],
+    "summary": "墨西哥国家统计和地理研究所基于死亡证明编制的年度死亡登记微观数据，含死因、年龄和居住市镇。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "墨西哥国家统计和地理研究所（INEGI）的死亡登记统计（Estadísticas de Defunciones Registradas，EDR）根据民事登记处和检察机关登记的死亡证明编制，记录死亡日期、性别、年龄、居住市镇、死亡地点、受教育程度、医疗保障情况和根本死因（ICD 编码）。INEGI 公开发布逐年的个体层面微观数据和汇总表，长序列可追溯到 1990 年前后。\n\n数据常用于研究气温、暴力、公共卫生政策和经济冲击对死亡率的影响，可汇总到市镇和月份。登记年份与死亡发生年份可能不同，应按发生日期整理；部分地区存在登记延迟。",
+    "source": "INEGI 网站公开提供微观数据和汇总表下载。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.8.2",
+    "title": "墨西哥家庭生活调查（MxFLS）",
+    "links": [
+      {
+        "label": "MxFLS/ENNVIH 项目网站",
+        "url": "https://ennvih-mxfls.org/"
+      }
+    ],
+    "summary": "墨西哥全国代表性的家庭追踪调查，2002 年基线后多次回访，覆盖收入、消费、健康、迁移和农业生产。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "墨西哥家庭生活调查（Mexican Family Life Survey，MxFLS；西语简称 ENNVIH）由伊比利亚美洲大学（Universidad Iberoamericana）和经济研究与教学中心（CIDE）主持，与国际研究者合作开展。2002 年基线调查覆盖全国代表性的约八千多户家庭，之后于 2005–2006 年和 2009–2012 年进行回访，并追踪迁往美国的成员。问卷涵盖家庭人口、收入和消费、资产、农业生产、健康与体测、教育、迁移以及社区信息。\n\n数据常用于研究迁移、健康、风险应对和农场规模与生产率。追踪调查存在样本流失，迁移成员的追踪难度较大；各轮问卷模块有所调整。",
+    "source": "项目网站公开提供数据下载，需注册。",
+    "references": [
+      {
+        "raw": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+        "title": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+        "authors": [
+          "Andrew D. Foster",
+          "Mark R. Rosenzweig"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "3",
+        "pages": "636–680",
+        "doi": "10.1086/717890",
+        "url": "https://doi.org/10.1086/717890",
         "verified": true,
         "note": ""
       }
@@ -7331,6 +8920,23 @@
         "url": "https://doi.org/10.1093/qje/qjag011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Anticipating Climate Change Across the United States",
+        "title": "Anticipating Climate Change Across the United States",
+        "authors": [
+          "Adrien Bilal",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2023,
+        "journal": "Econometrica (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31323",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7556,6 +9162,37 @@
         "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7672,6 +9309,337 @@
     ]
   },
   {
+    "id": "4.1.16",
+    "title": "GEMStat 全球淡水水质数据库",
+    "links": [
+      {
+        "label": "GEMStat 官网",
+        "url": "https://gemstat.org/"
+      }
+    ],
+    "summary": "联合国环境规划署 GEMS/Water 项目汇集的全球河流、湖泊和地下水水质监测数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "GEMStat 是联合国环境规划署（UNEP）全球环境监测系统淡水项目（GEMS/Water）的全球水质数据库，由设在德国科布伦茨的国际水资源与全球变化中心（ICWRGC）维护。数据库汇集各国报送的河流、湖泊、水库和地下水监测站观测，指标包括生化需氧量（BOD）、溶解氧、营养盐、重金属、大肠菌群等，部分站点的记录可以追溯到 20 世纪 70 年代。\n\n数据常用于跨国比较水污染水平和评估可持续发展目标中的水质指标。各国报送的站点数量、指标和频率差异很大，部分国家数据稀少或中断，跨国比较需注意代表性。",
+    "source": "GEMStat 网站提供在线查询，下载数据需注册并申请，具体条件以官网说明为准。",
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.17",
+    "title": "NASA 海洋水色与海表温度遥感数据（MODIS、VIIRS）",
+    "links": [
+      {
+        "label": "NASA 海洋生物 DAAC",
+        "url": "https://www.earthdata.nasa.gov/centers/ob-daac"
+      },
+      {
+        "label": "NASA 海洋水色三级产品",
+        "url": "https://oceandata.sci.gsfc.nasa.gov/l3/"
+      }
+    ],
+    "summary": "NASA 海洋生物处理组发布的 MODIS-Aqua、VIIRS 等卫星的叶绿素、海表温度等海洋产品，有逐日约 4 公里格网。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "NASA 海洋生物处理组（OBPG）及其海洋生物分布式数据中心（OB.DAAC）处理和分发多颗卫星的海洋水色与海表温度数据，包括 Aqua 卫星上的 MODIS（2002 年起）和 Suomi NPP 等卫星上的 VIIRS（2012 年起）。三级（Level-3）产品提供全球格网的叶绿素 a 浓度、昼间和夜间海表温度、颗粒有机碳等变量，分辨率约 4 公里，时间尺度有逐日、8 日和月度。\n\n数据常用于渔业和海洋经济研究，例如刻画渔场环境条件、渔民的信息集，以及厄尔尼诺等气候事件的影响。逐日产品受云层遮挡，缺失较多；不同卫星和处理版本之间存在系统差异，长序列应使用统一的再处理版本。",
+    "source": "通过 NASA OB.DAAC 公开下载，需免费注册 Earthdata 账户。",
+    "references": [
+      {
+        "raw": "The Value of Information in a Congested Fishery",
+        "title": "The Value of Information in a Congested Fishery",
+        "authors": [
+          "Gabriel Englander",
+          "Larry S. Karp",
+          "Leo Simon"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "93",
+        "issue": "3",
+        "pages": "1789–1814",
+        "doi": "10.1093/restud/rdaf069",
+        "url": "https://doi.org/10.1093/restud/rdaf069",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.18",
+    "title": "SMAP 卫星海表盐度数据",
+    "links": [
+      {
+        "label": "NASA SMAP 任务网站",
+        "url": "https://smap.jpl.nasa.gov/"
+      }
+    ],
+    "summary": "NASA 土壤水分主被动（SMAP）卫星的 L 波段辐射计观测反演的全球海表盐度产品。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "土壤水分主被动卫星（Soil Moisture Active Passive，SMAP）由 NASA 于 2015 年发射，主要任务是观测全球土壤水分，其 L 波段辐射计也可用于反演海表盐度。NASA 喷气推进实验室（JPL）和遥感系统公司（RSS）分别制作海表盐度产品，提供逐日、8 日和月度的全球格网，空间分辨率约数十公里，通过 NASA 物理海洋学分布式数据中心（PO.DAAC）分发。\n\n海表盐度可反映降水、河流入海和洋流变化，常与海表温度、叶绿素一起用于刻画海洋环境和渔业资源条件。近岸和高纬度海域的反演误差较大；不同机构的产品算法不同，使用时应注明版本。",
+    "source": "通过 NASA PO.DAAC 公开下载，需免费注册 Earthdata 账户。",
+    "references": [
+      {
+        "raw": "The Value of Information in a Congested Fishery",
+        "title": "The Value of Information in a Congested Fishery",
+        "authors": [
+          "Gabriel Englander",
+          "Larry S. Karp",
+          "Leo Simon"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "93",
+        "issue": "3",
+        "pages": "1789–1814",
+        "doi": "10.1093/restud/rdaf069",
+        "url": "https://doi.org/10.1093/restud/rdaf069",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.19",
+    "title": "Berkeley Earth 全球地表温度数据",
+    "links": [
+      {
+        "label": "Berkeley Earth 数据",
+        "url": "https://berkeleyearth.org/data/"
+      }
+    ],
+    "summary": "Berkeley Earth 整合全球气象站观测构建的陆地和海陆月度温度格网，最早可追溯到 18 世纪中叶。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "Berkeley Earth 是美国的独立非营利研究机构，汇集全球数万个气象站的历史观测，用统计方法处理站点断点和空间插值，构建全球温度序列和格网数据。主要产品包括 1750 年起的陆地月均温度和 1850 年起的海陆合并温度，提供 1°×1° 等分辨率的月度格网，以及部分地区的逐日格网。\n\n数据常用于研究长期气温变化对经济产出、人口迁移和死亡率的影响，或作为其他气候数据的稳健性检验。早期年份站点稀少，非洲、南美等地区的不确定性较大；数据为插值结果，不等同于原始站点观测。",
+    "source": "官网公开提供下载，使用条款以官网说明为准。",
+    "references": [
+      {
+        "raw": "The Economic Geography of Global Warming",
+        "title": "The Economic Geography of Global Warming",
+        "authors": [
+          "José-Luis Cruz",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "2",
+        "pages": "899–939",
+        "doi": "10.1093/restud/rdad042",
+        "url": "https://doi.org/10.1093/restud/rdad042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.20",
+    "title": "EDGAR 全球大气排放数据库",
+    "links": [
+      {
+        "label": "EDGAR 官网",
+        "url": "https://edgar.jrc.ec.europa.eu/"
+      }
+    ],
+    "summary": "欧盟委员会联合研究中心编制的全球温室气体和大气污染物排放清单，提供分国家、分部门数据及 0.1° 格网。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "能源数据"
+    ],
+    "introduction": "全球大气研究排放数据库（Emissions Database for Global Atmospheric Research，EDGAR）由欧盟委员会联合研究中心（JRC）维护，基于各国能源、工业、农业等活动统计和排放因子，估算 1970 年以来各国分部门的 CO2、CH4、N2O 等温室气体以及 SO2、NOx、PM2.5 等大气污染物排放，并按点源、人口和道路网络等代理变量分配到 0.1°×0.1° 的全球格网。\n\n数据常用于跨国比较排放、分析排放的空间分布，或把国家层面的能源和排放分配到格网单元。EDGAR 是估算数据而非观测，部分国家的活动数据质量较差；不同版本之间数值会修订，应注明版本号。",
+    "source": "JRC EDGAR 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "The Economic Geography of Global Warming",
+        "title": "The Economic Geography of Global Warming",
+        "authors": [
+          "José-Luis Cruz",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "2",
+        "pages": "899–939",
+        "doi": "10.1093/restud/rdad042",
+        "url": "https://doi.org/10.1093/restud/rdad042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.21",
+    "title": "特拉华大学全球气温与降水格网（UDEL）",
+    "links": [
+      {
+        "label": "NOAA PSL：UDel 气温与降水",
+        "url": "https://psl.noaa.gov/data/gridded/data.UDel_AirT_Precip.html"
+      }
+    ],
+    "summary": "Willmott 与 Matsuura 基于站点观测插值的全球陆地 0.5° 月度气温和降水数据，自 1900 年起。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "特拉华大学气温与降水数据（University of Delaware Air Temperature and Precipitation，UDEL）由 Willmott 和 Matsuura 编制，汇集全球气象站的月度观测，插值得到全球陆地 0.5°×0.5° 格网的月均气温和月降水量，序列始于 1900 年，并定期更新版本。美国 NOAA 物理科学实验室（PSL）提供 netCDF 格式的分发。\n\n该数据与 CRU、GMFD、Berkeley Earth 等一同常用于气候经济学研究，作为气温和降水的另一来源进行稳健性检验。插值精度取决于站点密度，早期年份和观测稀少地区误差较大；没有逐日数据。",
+    "source": "NOAA PSL 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.22",
+    "title": "NASA NEX-GDDP 全球逐日降尺度气候预估",
+    "links": [
+      {
+        "label": "NASA NEX-GDDP",
+        "url": "https://www.nccs.nasa.gov/nex-gddp/"
+      }
+    ],
+    "summary": "NASA 对 CMIP 气候模式进行偏差校正和空间降尺度后得到的全球 0.25° 逐日气温和降水预估。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "NASA 地球交换全球逐日降尺度预估（NASA Earth Exchange Global Daily Downscaled Projections，NEX-GDDP）利用偏差校正空间分解（BCSD）方法，把耦合模式比较计划（CMIP）多个全球气候模式的输出降尺度到 0.25°×0.25° 的全球格网，提供逐日最高、最低气温和降水。第一版基于 CMIP5 的 21 个模式，覆盖 1950–2100 年和 RCP4.5、RCP8.5 两种排放情景；后续的 NEX-GDDP-CMIP6 基于 CMIP6 模式和共享社会经济路径（SSP）情景。\n\n数据常用于把历史气候与经济关系外推到未来，估计气候变化对死亡率、农业和劳动生产率的影响。降尺度只校正统计偏差，不能消除模式本身的不确定性；应使用多个模式的集合结果。",
+    "source": "NASA NCCS 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.2.1",
     "title": "世界价值观调查（WVS）",
     "links": [
@@ -7739,6 +9707,70 @@
     ]
   },
   {
+    "id": "4.2.3",
+    "title": "世界银行生活水平测量研究（LSMS）",
+    "links": [
+      {
+        "label": "世界银行 LSMS 项目",
+        "url": "https://www.worldbank.org/en/programs/lsms"
+      },
+      {
+        "label": "尼日利亚 GHS-Panel 2015–2016",
+        "url": "https://microdata.worldbank.org/index.php/catalog/2734"
+      },
+      {
+        "label": "坦桑尼亚全国面板调查 2008–2009",
+        "url": "https://microdata.worldbank.org/index.php/catalog/76"
+      }
+    ],
+    "summary": "世界银行支持各国统计机构开展的多主题家庭调查，LSMS-ISA 在撒哈拉以南非洲多国开展农业面板调查。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "农业数据"
+    ],
+    "introduction": "生活水平测量研究（Living Standards Measurement Study，LSMS）由世界银行于 1980 年设立，支持各国统计机构开展涵盖消费、收入、就业、健康、教育、住房和农业等多主题的家庭调查，形成了跨国可比较的调查设计。2008 年起的 LSMS-ISA（农业综合调查）项目在尼日利亚、坦桑尼亚、乌干达、埃塞俄比亚、马拉维等撒哈拉以南非洲国家开展全国代表性的家户面板调查，记录逐块地的作物、投入、劳动和产出，用 GPS 测量地块面积，并附有地理变量。\n\n数据常用于研究非洲农业生产率、要素错配、农场规模与生产率的关系以及贫困动态。各国调查的轮次、样本设计和问卷不尽相同；面板存在样本流失，地理坐标经过偏移处理。",
+    "source": "世界银行微观数据图书馆提供各国调查数据下载，需免费注册并同意使用条款。",
+    "references": [
+      {
+        "raw": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+        "title": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+        "authors": [
+          "Andrew D. Foster",
+          "Mark R. Rosenzweig"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "3",
+        "pages": "636–680",
+        "doi": "10.1086/717890",
+        "url": "https://doi.org/10.1086/717890",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heterogeneity, Measurement Error, and Misallocation: Evidence from African Agriculture",
+        "title": "Heterogeneity, Measurement Error, and Misallocation: Evidence from African Agriculture",
+        "authors": [
+          "Douglas Gollin",
+          "Christopher Udry"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "1",
+        "pages": "1–80",
+        "doi": "10.1086/711369",
+        "url": "https://doi.org/10.1086/711369",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.3.1",
     "title": "GADM 全球行政区划",
     "links": [
@@ -7791,6 +9823,37 @@
         "pages": "1–33",
         "doi": "10.3982/ECTA20608",
         "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
       }
@@ -7932,6 +9995,137 @@
         "pages": "1–33",
         "doi": "10.3982/ECTA20608",
         "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.6",
+    "title": "G-Econ 全球格网经济数据",
+    "links": [
+      {
+        "label": "G-Econ 数据与文档",
+        "url": "https://gecon.yale.edu/data-and-documentation-g-econ-project"
+      }
+    ],
+    "summary": "耶鲁大学 Nordhaus 主持构建的全球 1°×1° 格网经济产出数据，第 4 版覆盖 1990、1995、2000 和 2005 年。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "地理数据"
+    ],
+    "introduction": "G-Econ（Geographically based Economic data）项目由耶鲁大学 William Nordhaus 主持，基于各国次国家级统计，把经济产出分配到全球陆地 1°×1° 的格网单元，得到“格网总产值”（gross cell product），并配有人口、气候和地理变量。第 4 版提供 1990、1995、2000 和 2005 年的数据，按市场汇率和购买力平价两种口径计算。\n\n数据常用于研究地理、气候与经济活动的关系，以及空间均衡模型中各格网生产率和宜居性的估计。许多发展中国家缺少细致的次国家级统计，格网值依赖较粗的数据和人口分配，精度有限。",
+    "source": "耶鲁大学 G-Econ 项目网站公开提供数据和文档下载。",
+    "references": [
+      {
+        "raw": "The Economic Geography of Global Warming",
+        "title": "The Economic Geography of Global Warming",
+        "authors": [
+          "José-Luis Cruz",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "2",
+        "pages": "899–939",
+        "doi": "10.1093/restud/rdad042",
+        "url": "https://doi.org/10.1093/restud/rdad042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.7",
+    "title": "全球格网 GDP 与人类发展指数（Kummu 等）",
+    "links": [
+      {
+        "label": "Dryad 数据记录",
+        "url": "https://datadryad.org/dataset/doi:10.5061/dryad.dk1j0"
+      }
+    ],
+    "summary": "Kummu 等（2018）构建的 1990–2015 年全球格网人均 GDP、GDP 和人类发展指数（HDI）数据，发布在 Dryad。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "地理数据"
+    ],
+    "introduction": "Kummu、Taka 和 Guillaume（2018，Scientific Data）整合国家和次国家级统计，构建了 1990–2015 年全球人均 GDP（购买力平价）、GDP 总量和人类发展指数（HDI）的逐年数据，提供 5 弧分格网和行政区两种形式，2015 年另有 30 弧秒分辨率的 GDP 格网。数据通过 Dryad 存储库公开发布。\n\n数据常用于估计气温等气候变量对地区产出和福利的影响，或在缺乏次国家统计的地区构建空间经济变量。格网值由行政区统计按人口分配得到，行政区内部的差异主要反映人口分布；缺少次国家统计的国家精度较低。",
+    "source": "Dryad 存储库公开提供下载。",
+    "references": [
+      {
+        "raw": "The Economic Geography of Global Warming",
+        "title": "The Economic Geography of Global Warming",
+        "authors": [
+          "José-Luis Cruz",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "2",
+        "pages": "899–939",
+        "doi": "10.1093/restud/rdad042",
+        "url": "https://doi.org/10.1093/restud/rdad042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.8",
+    "title": "DMSP-OLS 夜间灯光数据",
+    "links": [
+      {
+        "label": "EOG DMSP 夜间灯光",
+        "url": "https://eogdata.mines.edu/products/dmsp/"
+      }
+    ],
+    "summary": "美国国防气象卫星计划（DMSP）OLS 传感器的全球年度稳定夜间灯光合成数据，覆盖 1992–2013 年。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据",
+      "区域经济数据"
+    ],
+    "introduction": "美国国防气象卫星计划（Defense Meteorological Satellite Program，DMSP）卫星搭载的线性扫描业务系统（OLS）可以探测夜间灯光。NOAA 国家地球物理数据中心（现由科罗拉多矿业学院地球观测组 EOG 维护）把观测合成为 1992–2013 年的全球年度“稳定灯光”数据，分辨率约 30 弧秒，灯光强度为 0–63 的数值。\n\n夜间灯光常被用作经济活动的代理变量，用于在统计数据不足的地区估计次国家级 GDP、城市扩张和电气化。DMSP 数据在城市中心存在亮度饱和，不同卫星之间需要相互校准，且没有星上辐射定标；2012 年后的研究多改用 VIIRS 夜间灯光。",
+    "source": "科罗拉多矿业学院 EOG 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
       }
@@ -8103,6 +10297,22 @@
         "url": "https://doi.org/10.3982/ECTA20153",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8141,6 +10351,23 @@
         "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8177,6 +10404,174 @@
         "pages": "1–33",
         "doi": "10.3982/ECTA20608",
         "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.6",
+    "title": "CEPII BACI 国际贸易数据库",
+    "links": [
+      {
+        "label": "CEPII BACI",
+        "url": "https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=37"
+      }
+    ],
+    "summary": "CEPII 基于 UN Comtrade 调和进出口双方申报构建的 HS 6 位产品双边贸易数据，1995 年起逐年更新。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "BACI 由法国国际经济研究中心（CEPII）编制，以联合国商品贸易统计数据库（UN Comtrade）为基础，调和出口国和进口国对同一贸易流的申报差异，去除运费和保险（CIF 与 FOB 差异），得到两百多个国家和地区之间 HS 6 位产品的年度双边贸易额和数量。按 HS 1992 版本的数据始于 1995 年，并按其他 HS 版本另行发布。\n\n与原始 Comtrade 相比，BACI 的双边数据更完整、内部一致，是国际贸易实证研究最常用的产品层面数据之一，可用于估计引力模型、计算贸易份额和比较优势。数量单位统一为吨，部分产品的数量缺失或估算；转口贸易和保密申报会影响个别国家的数据。",
+    "source": "CEPII 网站公开提供下载，需接受使用条款。",
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.7",
+    "title": "EXIOBASE 多区域投入产出数据库",
+    "links": [
+      {
+        "label": "EXIOBASE 官网",
+        "url": "https://www.exiobase.eu/"
+      },
+      {
+        "label": "EXIOBASE 3 Zenodo 记录",
+        "url": "https://zenodo.org/records/5589597"
+      }
+    ],
+    "summary": "含环境扩展账户的全球多区域投入产出表，覆盖 44 个国家和 5 个其余地区、163 个行业，含排放和资源使用。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "环境数据"
+    ],
+    "introduction": "EXIOBASE 是由欧洲多家研究机构合作开发的全球环境扩展多区域投入产出（EE-MRIO）数据库。第 3 版覆盖 44 个国家（欧盟成员国和主要经济体）和 5 个“世界其余地区”，细分 163 个行业或 200 种产品，提供 1995 年以来的逐年表，并附带温室气体和大气污染物排放、能源、土地、水和原材料使用等环境扩展账户。\n\n数据常用于计算贸易隐含排放、消费端碳足迹，以及分解国际贸易对各国污染的规模、结构和技术效应。近年份部分为外推估算；各国统计的整合需要大量假设，行业细分高于原始统计的部分不确定性较大。",
+    "source": "EXIOBASE 网站及 Zenodo 存储库公开提供下载。",
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.8",
+    "title": "NBER-联合国世界贸易数据（1962–2000）",
+    "links": [],
+    "summary": "Feenstra 等整理的 1962–2000 年 SITC 4 位产品层面全球双边贸易数据，常用于延伸 1995 年以前的贸易序列。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "NBER-联合国世界贸易数据由 Robert Feenstra、Robert Lipsey 等人基于联合国贸易统计整理（Feenstra 等，2005，NBER 工作论文 11040），提供 1962–2000 年按 SITC 第 2 版 4 位分类的全球双边贸易额，优先使用进口国申报，并对缺失或不一致的记录进行了调整。\n\n由于 BACI 等调和数据库从 1995 年开始，研究长期贸易变化时常用这份数据延伸早期序列，例如构建 1960 年代以来的农产品和制成品贸易份额。数据不再更新，与 BACI 拼接时需要进行分类对照和水平调整。",
+    "source": "数据通过 NBER 和加州大学戴维斯分校国际数据中心等渠道发布，具体下载入口待核实。",
+    "references": [
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.9",
+    "title": "世界投入产出数据库（WIOD）",
+    "links": [
+      {
+        "label": "WIOD 官网",
+        "url": "https://www.rug.nl/ggdc/valuechain/wiod/"
+      }
+    ],
+    "summary": "格罗宁根大学发布的世界投入产出表，2016 版覆盖 43 个国家和其余地区、56 个行业，2000–2014 年。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "区域经济数据"
+    ],
+    "introduction": "世界投入产出数据库（World Input-Output Database，WIOD）由格罗宁根大学增长与发展中心（GGDC）等机构开发，把各国供给使用表与双边贸易数据整合成世界投入产出表。2013 版覆盖 40 个国家、35 个行业、1995–2011 年；2016 版覆盖 43 个国家和“世界其余地区”、56 个行业、2000–2014 年，并配有社会经济账户（就业、工资、资本）和环境账户。\n\n数据常用于测量全球价值链、贸易增加值、行业间的国内与国际投入份额，以及校准多国多部门贸易模型。国家覆盖以发达经济体和主要新兴经济体为主，多数发展中国家并入其余地区；数据没有在 2014 年之后持续更新。",
+    "source": "GGDC 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
         "verified": true,
         "note": ""
       }
@@ -8289,6 +10684,54 @@
         "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+        "title": "Are There Too Many Farms in the World? Labor Market Transaction Costs, Machine Capacities, and Optimal Farm Size",
+        "authors": [
+          "Andrew D. Foster",
+          "Mark R. Rosenzweig"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "3",
+        "pages": "636–680",
+        "doi": "10.1086/717890",
+        "url": "https://doi.org/10.1086/717890",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8343,6 +10786,70 @@
         "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8378,6 +10885,23 @@
         "pages": "1705–1756",
         "doi": "10.1086/734725",
         "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
         "verified": true,
         "note": ""
       }
@@ -8486,6 +11010,350 @@
         "pages": "1–33",
         "doi": "10.3982/ECTA20608",
         "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.7",
+    "title": "世界银行金融结构数据库",
+    "links": [
+      {
+        "label": "世界银行金融结构数据库",
+        "url": "https://www.worldbank.org/en/publication/gfdr/data/financial-structure-database"
+      }
+    ],
+    "summary": "Beck、Demirgüç-Kunt 和 Levine 构建、世界银行维护的跨国金融发展指标，包括私人信贷、股票和债券市场规模等。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "区域经济数据"
+    ],
+    "introduction": "金融结构数据库（Financial Structure Database）最初由 Beck、Demirgüç-Kunt 和 Levine（2000）构建，现由世界银行维护并与《全球金融发展报告》数据库衔接，按国家和年份提供银行、非银行金融机构、股票市场和债券市场的规模、活跃度、效率和稳定性指标，例如私人部门信贷占 GDP 比重、股票市值和交易额、净息差和银行集中度，序列始于 1960 年代。\n\n数据常用于衡量各国金融发展水平，研究金融发展与增长、产业结构和贸易比较优势的关系。部分国家和早期年份缺失较多，不同指标的来源（IMF 国际金融统计等）口径不完全一致。",
+    "source": "世界银行网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.8",
+    "title": "联合国世界人口展望（WPP）",
+    "links": [
+      {
+        "label": "联合国世界人口展望",
+        "url": "https://population.un.org/wpp/"
+      }
+    ],
+    "summary": "联合国人口司定期修订的各国人口估计与预测，提供 1950 年以来的人口、生育、死亡和迁移指标及至 2100 年的预测。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "世界人口展望（World Population Prospects，WPP）由联合国经济和社会事务部人口司编制，大约每两年修订一次（如 2019、2022、2024 年版），为两百多个国家和地区提供 1950 年以来的分年龄、分性别人口估计，以及出生率、总和生育率、死亡率、预期寿命和净迁移等指标，并给出到 2100 年的多种情景预测。\n\n数据常用于跨国人口分析、构建出生率和死亡率序列，以及气候和增长模型中的人口路径。各版本会根据新普查和调查修订历史估计，同一指标在不同版本之间可能差别较大，使用时应注明版本；部分国家缺乏可靠的登记数据，估计主要依赖模型。",
+    "source": "联合国人口司网站公开提供下载。",
+    "references": [
+      {
+        "raw": "The Economic Geography of Global Warming",
+        "title": "The Economic Geography of Global Warming",
+        "authors": [
+          "José-Luis Cruz",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "2",
+        "pages": "899–939",
+        "doi": "10.1093/restud/rdad042",
+        "url": "https://doi.org/10.1093/restud/rdad042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.9",
+    "title": "共享社会经济路径（SSP）数据库",
+    "links": [
+      {
+        "label": "IIASA SSP 情景浏览器",
+        "url": "https://ssp.apps.ece.iiasa.ac.at/"
+      }
+    ],
+    "summary": "IIASA 维护的五种共享社会经济路径下各国人口、GDP 和城市化的情景预测，以 5 年为步长至 2100 年。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "环境数据"
+    ],
+    "introduction": "共享社会经济路径（Shared Socioeconomic Pathways，SSP）是气候变化研究中描述未来社会经济发展的情景框架，包括可持续发展（SSP1）、中间路径（SSP2）、区域竞争（SSP3）、不平等（SSP4）和化石燃料驱动发展（SSP5）五种叙事。国际应用系统分析研究所（IIASA）维护的 SSP 数据库提供各国在不同路径下的人口（按年龄、性别和教育程度，来自 IIASA 和维特根斯坦中心）、GDP（来自 OECD、IIASA 和 PIK 等模型）和城市化预测，以 5 年为步长至 2100 年，并有综合评估模型的排放和能源情景。\n\n数据常用于把气候损失函数与未来人口和收入结合，计算气候变化的社会成本。各模型的 GDP 预测差别较大，数据库在 2023 年前后发布了更新版本，引用时应注明版本和模型来源。",
+    "source": "IIASA SSP 情景浏览器公开提供查询和下载，需免费注册。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.10",
+    "title": "UNIDO 工业统计数据库（INDSTAT、IDSB）",
+    "links": [
+      {
+        "label": "UNIDO 统计门户",
+        "url": "https://stat.unido.org/"
+      }
+    ],
+    "summary": "联合国工业发展组织汇集的各国制造业分行业产出、增加值、就业和工资统计，以及工业供需平衡数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "商业数据"
+    ],
+    "introduction": "联合国工业发展组织（UNIDO）汇集各国统计机构报送的工业统计，主要数据库包括按 ISIC 2 位和 4 位行业划分的 INDSTAT（产值、增加值、就业、工资、企业数等），以及工业供需平衡数据库（IDSB），后者在 ISIC 4 位层面提供产出、进口、出口和表观消费。数据覆盖一百多个国家，部分序列始于 1960 年代。\n\n数据常用于跨国比较制造业结构、构建行业层面的产出和消费份额，以及校准多部门贸易模型。各国报送的完整程度差异很大，发展中国家缺失较多；部分细分数据库需要订阅。",
+    "source": "UNIDO 统计门户提供在线查询，部分详细数据需订阅，具体条件以官网说明为准。",
+    "references": [
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.11",
+    "title": "联合国国民账户主要总量数据库（AMA）",
+    "links": [
+      {
+        "label": "联合国 AMA 数据库",
+        "url": "https://unstats.un.org/unsd/snaama/"
+      }
+    ],
+    "summary": "联合国统计司发布的各国国民账户主要总量，包括按支出法和按行业划分的 GDP 与增加值，1970 年起。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "国民账户主要总量数据库（National Accounts Main Aggregates Database，AMA）由联合国统计司编制，基于各国官方国民账户和联合国估算，提供 1970 年以来所有成员国和地区的 GDP 及其支出构成（消费、投资、政府支出、进出口），以及按农业、工业、制造业、建筑业、服务业等部门划分的增加值，以本币和美元的现价与不变价表示。\n\n数据常用于跨国比较产业结构和计算农业等部门的增加值份额，覆盖面比 OECD 等区域数据库更广。部分国家的数据由联合国估算补齐，部门划分较粗；各年发布会修订历史数值。",
+    "source": "联合国统计司网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.12",
+    "title": "世界银行全球消费数据库",
+    "links": [
+      {
+        "label": "世界银行全球消费数据库",
+        "url": "https://datatopics.worldbank.org/consumption/"
+      }
+    ],
+    "summary": "世界银行基于住户调查整理的发展中国家家庭消费结构数据，按消费类别和收入群体划分。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "区域经济数据"
+    ],
+    "introduction": "全球消费数据库（Global Consumption Database）由世界银行基于各国住户调查编制，提供九十多个发展中国家按产品和服务类别（食品、住房、能源、交通、教育、健康等）划分的家庭消费支出，并按城乡和收入群体分组，基准年为 2010 年。\n\n数据常用于测量发展中国家在食品和农产品上的支出份额、不同收入群体的消费结构，以及校准包含非位似偏好的贸易和结构转型模型。数据为单一基准年的横截面，各国调查年份和口径经过统一调整，不适合研究时间变化。",
+    "source": "世界银行网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.13",
+    "title": "次国家级人均 GDP 数据库（Gennaioli 等）",
+    "links": [],
+    "summary": "Gennaioli、La Porta、López-de-Silanes 和 Shleifer 整理的多国一级行政区人均 GDP、教育等长期数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "Gennaioli、La Porta、López-de-Silanes 和 Shleifer 在研究地区发展的系列论文（2013 年 QJE、2014 年 Journal of Economic Growth）中整理了跨国的次国家级数据，覆盖八十多个国家的一千五百多个一级行政区（省、州），包括人均 GDP、受教育年限、人口和地理特征，部分国家可追溯到 20 世纪 50–60 年代，年份间隔不规则。\n\n数据常用于研究地区收敛、人力资本与地区发展，以及把国家层面的收入分配到次国家单元。各国的统计口径、价格平减和年份覆盖差异较大，部分年份需要插值。",
+    "source": "数据随论文由作者公开发布，具体下载入口待核实。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.14",
+    "title": "世界不平等数据库（WID）",
+    "links": [
+      {
+        "label": "WID 数据",
+        "url": "https://wid.world/data/"
+      }
+    ],
+    "summary": "世界不平等实验室整合国民账户、税收和调查数据构建的各国收入与财富分配长期序列。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "世界不平等数据库（World Inequality Database，WID）由巴黎经济学院世界不平等实验室维护，结合国民账户、个人所得税记录和住户调查，按“分配国民账户”（DINA）方法估计各国税前和税后收入、财富在不同人群中的分布，提供前 1%、前 10%、后 50% 份额和平均收入等指标，部分国家的序列可追溯到 20 世纪初甚至更早。\n\n数据常用于研究收入和财富集中度的长期变化，以及在跨国分析中控制收入不平等。许多国家缺少税收数据，估计依赖调查和模型插补，各国数据质量在网站上有分级说明。",
+    "source": "WID 网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
       }
@@ -8700,6 +11568,82 @@
     ]
   },
   {
+    "id": "4.7.6",
+    "title": "世界能源统计年鉴（Statistical Review of World Energy）",
+    "links": [
+      {
+        "label": "Statistical Review of World Energy",
+        "url": "https://www.energyinst.org/statistical-review"
+      }
+    ],
+    "summary": "原由 BP 发布、2023 年起由能源研究院（EI）接手的各国能源生产、消费、价格和碳排放年度统计。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "《世界能源统计年鉴》（Statistical Review of World Energy）自 1952 年起由 BP 发布，2023 年起由英国能源研究院（Energy Institute）与合作机构接手编制。年鉴按国家和年份提供石油、天然气、煤炭、核电、水电和其他可再生能源的产量、消费量、储量和贸易，能源相关 CO2 排放，以及原油（布伦特等）、天然气（亨利中心等）和煤炭的长期价格序列，多数序列始于 1965 年。\n\n数据免费公开、格式统一，常用于跨国能源消费结构、能源价格和排放的研究，以及校准包含能源部门的宏观或气候模型。年鉴的数据来自官方统计和行业估算的整合，与 IEA 等数据在口径上存在差异，尤其是可再生能源的折算方法。",
+    "source": "能源研究院网站公开提供年鉴和数据下载。",
+    "references": [
+      {
+        "raw": "The Economic Geography of Global Warming",
+        "title": "The Economic Geography of Global Warming",
+        "authors": [
+          "José-Luis Cruz",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "2",
+        "pages": "899–939",
+        "doi": "10.1093/restud/rdad042",
+        "url": "https://doi.org/10.1093/restud/rdad042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.7.7",
+    "title": "国际能源署（IEA）世界能源统计与能源平衡",
+    "links": [
+      {
+        "label": "IEA 数据与统计",
+        "url": "https://www.iea.org/data-and-statistics"
+      }
+    ],
+    "summary": "IEA 编制的各国能源生产、转换和分部门消费的能源平衡表与统计，覆盖一百五十多个国家和地区。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "国际能源署（International Energy Agency，IEA）编制的世界能源统计和世界能源平衡（World Energy Statistics、World Energy Balances）按国家和年份记录各类能源的生产、进出口、库存变化、发电和炼化等转换过程，以及工业、交通、居民、商业等部门的终端消费，OECD 国家的数据始于 1960 年，非 OECD 国家始于 1971 年。IEA 还发布燃料燃烧 CO2 排放、能源价格和能效指标等数据产品。\n\n数据常用于跨国能源结构、能源强度和排放研究，是许多综合评估模型的基础数据。详细数据库多为付费产品，部分高校通过订阅或 OECD iLibrary 提供访问；IEA 网站可免费浏览部分汇总指标。",
+    "source": "详细数据以订阅或购买方式获取，部分汇总数据可在 IEA 网站免费查询；网站对自动访问有拦截，链接经搜索确认。",
+    "references": [
+      {
+        "raw": "The Economic Geography of Global Warming",
+        "title": "The Economic Geography of Global Warming",
+        "authors": [
+          "José-Luis Cruz",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "2",
+        "pages": "899–939",
+        "doi": "10.1093/restud/rdad042",
+        "url": "https://doi.org/10.1093/restud/rdad042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.8.1",
     "title": "Orbis / Amadeus 企业数据库",
     "links": [
@@ -8733,6 +11677,207 @@
         "pages": "1705–1756",
         "doi": "10.1086/734725",
         "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.9.1",
+    "title": "全球治理指标（WGI）",
+    "links": [
+      {
+        "label": "WGI 官网",
+        "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators"
+      }
+    ],
+    "summary": "世界银行发布的两百多个经济体的六项治理指标，包括法治、政府效能、监管质量和腐败控制等，1996 年起。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "全球治理指标（Worldwide Governance Indicators，WGI）最初由 Kaufmann、Kraay 和 Mastruzzi 开发，现由世界银行发布，涵盖话语权与问责、政治稳定与无暴力、政府效能、监管质量、法治和腐败控制六个维度，覆盖两百多个经济体，1996 年起，2002 年前每两年一次，之后每年更新。指标综合了数十个来源（专家评估、企业和住户调查、非政府组织报告）的感知数据，以统一尺度报告估计值、百分位排名和标准误。\n\n数据常用于衡量国家制度质量，例如用法治指标代表合同执行能力，研究制度对比较优势、投资和环境结果的影响。指标基于主观感知，跨年比较受来源变化影响，标准误较大时排名差异不显著。",
+    "source": "世界银行 WGI 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.9.2",
+    "title": "传统基金会经济自由度指数",
+    "links": [
+      {
+        "label": "经济自由度指数官网",
+        "url": "https://www.heritage.org/index/"
+      }
+    ],
+    "summary": "美国传统基金会自 1995 年起每年发布的各国经济自由度指数，包括产权、监管效率、劳动自由度等分项。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据",
+      "区域经济数据"
+    ],
+    "introduction": "经济自由度指数（Index of Economic Freedom）由美国传统基金会（The Heritage Foundation）自 1995 年起每年发布，覆盖约一百八十个经济体。指数由法治（产权、司法效能、政府廉洁）、政府规模（税负、政府支出、财政健康）、监管效率（营商自由、劳动自由、货币自由）和市场开放（贸易、投资、金融自由）四类共十二项分指标构成，各项以 0–100 分表示。\n\n其中劳动自由度等分项常被用作劳动力市场制度的跨国度量。指数由该机构基于多种来源评分，带有一定的价值取向，评分方法也有过调整，跨年比较需要注意。",
+    "source": "传统基金会网站公开提供下载；网站对自动访问有拦截，链接经搜索确认。",
+    "references": [
+      {
+        "raw": "Institutions, Comparative Advantage, and the Environment",
+        "title": "Institutions, Comparative Advantage, and the Environment",
+        "authors": [
+          "Joseph S. Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "6",
+        "pages": "4152–4193",
+        "doi": "10.1093/restud/rdaf012",
+        "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.9.3",
+    "title": "Polity 政体数据",
+    "links": [
+      {
+        "label": "系统和平中心 INSCR 数据页",
+        "url": "https://www.systemicpeace.org/inscrdata.html"
+      }
+    ],
+    "summary": "系统和平中心维护的各国政体特征年度数据，以 -10 至 +10 的 Polity 分数衡量专制与民主程度。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "Polity 项目由 Ted Gurr 发起，现由系统和平中心（Center for Systemic Peace）维护，最新版本为 Polity5。数据按国家和年份编码各国政治权威的特征，包括行政首长产生方式的竞争性和开放性、对行政权力的约束以及政治参与的竞争性，合成为 -10（完全专制）到 +10（完全民主）的 Polity 分数，覆盖 1800 年以来人口较多的独立国家。系统和平中心还发布政治暴力、国家脆弱性等相关数据。\n\n数据常用于跨国研究中度量制度和民主程度，作为异质性分析或控制变量。编码依赖专家判断，对政体过渡期和中间类型的区分较粗；Polity5 的更新截至 2018 年。",
+    "source": "系统和平中心网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.10.1",
+    "title": "欧盟统计局数据库（Eurostat）",
+    "links": [
+      {
+        "label": "Eurostat 数据库",
+        "url": "https://ec.europa.eu/eurostat/data/database"
+      },
+      {
+        "label": "Eurostat 区域数据库",
+        "url": "https://ec.europa.eu/eurostat/web/regions/database"
+      }
+    ],
+    "summary": "欧盟统计局发布的欧洲各国及 NUTS 地区的经济、人口、健康、家庭支出等统计数据。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "健康数据"
+    ],
+    "introduction": "欧盟统计局（Eurostat）汇集欧盟成员国及部分欧洲国家统计机构的数据，按统一口径发布国民账户、劳动力、价格、贸易、能源、环境、人口和健康等统计。区域数据库按欧盟统计地域单元（NUTS 1–3 级）提供地区 GDP、人口、出生和死亡（含按周统计的死亡人数）、就业和教育等指标；家庭预算调查（HBS）提供各国家庭按类别划分的消费支出结构。\n\n数据常用于欧洲地区的跨国和区域比较，例如构建地区收入、死亡率和家庭食品支出份额。NUTS 分区每隔数年修订，跨期分析需要统一分区版本；部分地区和早期年份数据缺失。",
+    "source": "Eurostat 网站公开提供查询和批量下载。",
+    "references": [
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "title": "Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits",
+        "authors": [
+          "Tamma A. Carleton",
+          "Amir Jina",
+          "Michael T. Delgado",
+          "Michael Greenstone",
+          "Trevor Houser",
+          "Solomon Hsiang",
+          "Andrew Hultgren",
+          "Robert E. Kopp",
+          "Kelly E. McCusker",
+          "Ishan Nath",
+          "James Rising",
+          "Ashwin Rode",
+          "Hee Kwon Seo",
+          "Arvid Viaene",
+          "Jiacan Yuan",
+          "Alice Tianbo Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2037–2105",
+        "doi": "10.1093/qje/qjac020",
+        "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
       }
@@ -8816,6 +11961,23 @@
         "pages": "1723–1764",
         "doi": "10.1257/aer.20231016",
         "url": "https://doi.org/10.1257/aer.20231016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
         "verified": true,
         "note": ""
       }
@@ -8917,6 +12079,23 @@
         "url": "https://www.dropbox.com/scl/fi/ht9i266jci9wxdn7qmyr2/Kudu_paper.pdf?rlkey=7rel5bz3u2easvqcxnmnimh6b&st=vn71xscb&dl=0",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8978,6 +12157,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
         "verified": true,
         "note": ""
       }
@@ -9089,6 +12285,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w33500",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade, Technology, and Agricultural Productivity",
+        "title": "Trade, Technology, and Agricultural Productivity",
+        "authors": [
+          "Farid Farrokhi",
+          "Heitor S. Pellegrina"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "9",
+        "pages": "2509–2555",
+        "doi": "10.1086/724319",
+        "url": "https://doi.org/10.1086/724319",
         "verified": true,
         "note": ""
       }
@@ -9298,6 +12511,25 @@
         "pages": "1757–1795",
         "doi": "10.1086/734779",
         "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
         "verified": true,
         "note": ""
       }
@@ -9525,6 +12757,23 @@
         "pages": "889–944",
         "doi": "10.1093/qje/qjag011",
         "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wetlands, Flooding, and the Clean Water Act",
+        "title": "Wetlands, Flooding, and the Clean Water Act",
+        "authors": [
+          "Charles A. Taylor",
+          "Hannah Druckenmiller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1334–1363",
+        "doi": "10.1257/aer.20210497",
+        "url": "https://doi.org/10.1257/aer.20210497",
         "verified": true,
         "note": ""
       }
@@ -9871,6 +13120,26 @@
         "url": "https://doi.org/10.1057/s41599-024-02678-2",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting",
+        "title": "Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting",
+        "authors": [
+          "Panle Jia Barwick",
+          "Shanjun Li",
+          "Andrew Waxman",
+          "Jing Wu",
+          "Tianli Xia"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "10",
+        "pages": "3161–3205",
+        "doi": "10.1257/aer.20220212",
+        "url": "https://doi.org/10.1257/aer.20220212",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9911,6 +13180,25 @@
         "url": "https://doi.org/10.1257/aer.20250166",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "title": "Regulating Untaxable Externalities: Are Vehicle Air Pollution Standards Effective and Efficient?",
+        "authors": [
+          "Mark R. Jacobsen",
+          "James M. Sallee",
+          "Joseph S. Shapiro",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "3",
+        "pages": "1907–1976",
+        "doi": "10.1093/qje/qjad016",
+        "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9937,7 +13225,26 @@
     ],
     "introduction": "联邦统计研究数据中心（Federal Statistical Research Data Centers，FSRDC）由美国人口普查局与合作高校及研究机构共同运营，为获批的研究者提供访问受限统计微观数据的安全环境。可用数据包括普查局的企业和工厂（establishment）层面数据（如经济普查、长期企业数据库 LBD）、人口与住户调查的未公开文件，以及其他联邦机构的受限数据。\n\n研究者须提交项目方案，经数据所属机构审批，并通过背景审查和保密培训，之后在指定的安全设施内分析数据；结果须经披露审查后才能带出。它是一套研究访问机制，不是可下载的单一数据库，不同机构的数据审批周期与要求不同，等待时间可能较长。",
     "source": "按目标数据集的官方程序提交研究方案，并完成适用的资格、安全与保密要求后访问。研究批准不等于拥有原始数据的转发权，成果导出应遵守对应披露审查安排。",
-    "references": []
+    "references": [
+      {
+        "raw": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "title": "What Caused Racial Disparities in Particulate Exposure to Fall? New Evidence from the Clean Air Act and Satellite-Based Measures of Air Quality",
+        "authors": [
+          "Janet Currie",
+          "John Voorheis",
+          "Reed Walker"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "71–97",
+        "doi": "10.1257/aer.20191957",
+        "url": "https://doi.org/10.1257/aer.20191957",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "11.2",
