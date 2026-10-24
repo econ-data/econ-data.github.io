@@ -4292,6 +4292,85 @@
     ]
   },
   {
+    "id": "2.4.10",
+    "title": "BEA 国民收入与产品账户（NIPA）",
+    "links": [
+      {
+        "label": "BEA GDP",
+        "url": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      {
+        "label": "BEA 交互式数据（iTable）",
+        "url": "https://apps.bea.gov/iTable/"
+      }
+    ],
+    "summary": "美国经济分析局编制的国民账户，提供 GDP、个人收入与消费、投资、政府支出和价格指数的季度与年度数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "国民收入与产品账户（National Income and Product Accounts，NIPA）由美国经济分析局（BEA）编制，年度数据回溯到 1929 年，季度数据回溯到 1947 年，包括名义和实际 GDP 及其支出构成（个人消费、私人投资、政府支出、净出口）、国民收入与个人收入、企业利润、储蓄以及 GDP 平减指数和个人消费支出（PCE）价格指数。数据通过 BEA 交互式表格（iTable）和 API 发布，FRED（见 7.5）也提供镜像。\n\n数据是宏观经济研究的基础序列，常用于研究油价冲击、货币政策和经济周期，例如检验石油价格上涨是否先于美国战后历次衰退。NIPA 每年和每五年进行综合修订，研究中应注明使用的数据版本（vintage）。",
+    "source": "BEA 网站、iTable 和 API 公开提供下载。",
+    "references": [
+      {
+        "raw": "Oil and the Macroeconomy since World War II",
+        "title": "Oil and the Macroeconomy since World War II",
+        "authors": [
+          "James D. Hamilton"
+        ],
+        "year": 1983,
+        "journal": "Journal of Political Economy",
+        "volume": "91",
+        "issue": "2",
+        "pages": "228–248",
+        "doi": "10.1086/261140",
+        "url": "https://doi.org/10.1086/261140",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.11",
+    "title": "BEA 固定资产账户（Fixed Assets Accounts）",
+    "links": [
+      {
+        "label": "BEA 固定资产投资",
+        "url": "https://www.bea.gov/data/investment-fixed-assets"
+      }
+    ],
+    "summary": "美国经济分析局编制的固定资产存量、投资和折旧数据，按资产类型和行业划分，年度序列回溯到 1925 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "BEA 固定资产账户（前身为\"固定可再生有形财富\"统计）提供美国私人和政府部门的固定资产存量、投资流量和折旧，按设备、建筑和知识产权产品等资产类型以及 NAICS 行业划分，给出现价成本、实物量指数和平均服役年限，年度数据从 1925 年开始，与 NIPA（见 2.4.10）的投资数据衔接。\n\n数据常用于测算行业资本存量和投资，例如研究农业部门设备投资与农场净值的关系，检验融资约束对投资的影响。折旧率基于假设的资产寿命和折旧模式，行业分类随 SIC 向 NAICS 转换有断点。",
+    "source": "BEA 网站和 iTable 公开提供下载。",
+    "references": [
+      {
+        "raw": "Internal Net Worth and the Investment Process: An Application to U.S. Agriculture",
+        "title": "Internal Net Worth and the Investment Process: An Application to U.S. Agriculture",
+        "authors": [
+          "R. Glenn Hubbard",
+          "Anil K. Kashyap"
+        ],
+        "year": 1992,
+        "journal": "Journal of Political Economy",
+        "volume": "100",
+        "issue": "3",
+        "pages": "506–534",
+        "doi": "10.1086/261827",
+        "url": "https://doi.org/10.1086/261827",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.5.1",
     "title": "联邦财政支出数据",
     "links": [
@@ -6294,6 +6373,23 @@
         "url": "https://doi.org/10.1086/686733",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+        "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+        "authors": [
+          "Thomas R. Covert",
+          "Ryan Kellogg"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "10",
+        "pages": "3306–3347",
+        "doi": "10.1086/742713",
+        "url": "https://doi.org/10.1086/742713",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7307,6 +7403,88 @@
         "pages": "951–1003",
         "doi": "10.1162/qjec.2008.123.3.951",
         "url": "https://doi.org/10.1162/qjec.2008.123.3.951",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.42",
+    "title": "NOAA 渔业资源评估数据（Stock SMART 与渔业资源状况报告）",
+    "links": [
+      {
+        "label": "NOAA Stock SMART",
+        "url": "https://www.st.nmfs.noaa.gov/stocksmart"
+      },
+      {
+        "label": "NOAA 渔业资源状况 2020",
+        "url": "https://www.fisheries.noaa.gov/national/sustainable-fisheries/status-stocks-2020"
+      }
+    ],
+    "summary": "NOAA 渔业局发布的美国联邦管理鱼类种群评估结果，包括生物量、捕捞死亡率及是否过度捕捞的判定。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "农业数据"
+    ],
+    "introduction": "NOAA 渔业局（NMFS）的 Stock SMART（Status, Management, Assessments, and Resource Trends）数据库汇集美国联邦管理鱼类种群的历次资源评估结果，提供各种群的产卵生物量、捕捞死亡率、渔获量和对应的参考点时间序列；NOAA 每年向国会提交的《美国渔业资源状况》（Status of Stocks）报告则逐种群列出是否处于\"过度捕捞\"或\"已被过度捕捞\"状态，报告从 1997 年开始。\n\n数据常用于评估渔业管理制度的效果，例如比较美国在《马格努森—史蒂文斯法》下的种群恢复与欧盟共同渔业政策的效果。不同种群的评估频率和方法差异较大，部分种群缺乏正式评估。",
+    "source": "NOAA 网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "title": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "authors": [
+          "Eyal G. Frank",
+          "Kimberly Oremus"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w34237",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.43",
+    "title": "NOAA 渔业一站式数据（FOSS）商业捕捞量与产值",
+    "links": [
+      {
+        "label": "NOAA FOSS",
+        "url": "https://www.fisheries.noaa.gov/foss"
+      }
+    ],
+    "summary": "NOAA 渔业局发布的美国商业捕捞上岸量和产值数据，按物种、州和年份划分，回溯到 1950 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "农业数据",
+      "商业数据"
+    ],
+    "introduction": "NOAA 渔业局的渔业一站式数据平台（Fisheries One Stop Shop，FOSS）汇集各州和联邦渔业部门收集的商业渔获上岸记录，提供按物种、州、港口和年份汇总的上岸量（磅）和首次销售产值（美元），年度数据从 1950 年起，也包括渔产品进出口贸易数据。休闲渔业数据另由海洋休闲信息计划（MRIP）发布。\n\n数据常用于研究渔业管理政策对捕捞量和渔民收入的影响，例如检验种群恢复计划实施前后的渔获和产值变化。出于保密规定，少数经营者的物种-地区组合会被隐去。",
+    "source": "NOAA 网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "title": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "authors": [
+          "Eyal G. Frank",
+          "Kimberly Oremus"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w34237",
         "verified": true,
         "note": ""
       }
@@ -9424,6 +9602,23 @@
         "url": "https://doi.org/10.3982/ECTA18436",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+        "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+        "authors": [
+          "Thomas R. Covert",
+          "Ryan Kellogg"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "10",
+        "pages": "3306–3347",
+        "doi": "10.1086/742713",
+        "url": "https://doi.org/10.1086/742713",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9670,6 +9865,43 @@
         "pages": "1375–1409",
         "doi": "10.1257/aer.101.4.1375",
         "url": "https://doi.org/10.1257/aer.101.4.1375",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.11.12",
+    "title": "美联储工业生产与产能利用率（G.17）",
+    "links": [
+      {
+        "label": "美联储 G.17",
+        "url": "https://www.federalreserve.gov/releases/g17/"
+      }
+    ],
+    "summary": "美联储每月发布的美国工业生产指数和制造业、采矿业、公用事业产能利用率，序列回溯到 1919 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "美联储理事会的 G.17 统计发布每月公布美国工业生产指数（IP，1919 年起）和产能与产能利用率（1948 年起制造业，1967 年起分行业），按市场用途（消费品、设备、原材料）和 NAICS 行业细分，覆盖制造业、采矿业和电力与燃气公用事业，并提供各行业的产能估计和电力使用量。\n\n数据常用于测量实体经济活动和经济周期，例如在油价冲击与宏观经济的向量自回归中作为产出或产能利用率变量；也被用于研究能源价格对制造业生产的影响。指数每年修订，基期和权重会更新。",
+    "source": "美联储网站和 FRED 公开提供下载。",
+    "references": [
+      {
+        "raw": "Oil and the Macroeconomy since World War II",
+        "title": "Oil and the Macroeconomy since World War II",
+        "authors": [
+          "James D. Hamilton"
+        ],
+        "year": 1983,
+        "journal": "Journal of Political Economy",
+        "volume": "91",
+        "issue": "2",
+        "pages": "228–248",
+        "doi": "10.1086/261140",
+        "url": "https://doi.org/10.1086/261140",
         "verified": true,
         "note": ""
       }
@@ -10462,6 +10694,45 @@
         "pages": "354–385",
         "doi": "10.1257/aer.97.1.354",
         "url": "https://doi.org/10.1257/aer.97.1.354",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.10",
+    "title": "USDA ERS 农场收入与财富统计（Farm Income and Wealth Statistics）",
+    "links": [
+      {
+        "label": "ERS 农场收入与财富统计",
+        "url": "https://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics"
+      }
+    ],
+    "summary": "USDA 经济研究局发布的美国农业部门收入、支出、资产负债表和政府补贴数据，全国序列回溯到 1910 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "农业数据",
+      "区域经济数据"
+    ],
+    "introduction": "USDA 经济研究局（ERS）的农场收入与财富统计（前身为《农业部门经济指标：全国财务摘要》）提供美国农业部门的现金收入、生产费用、净农场收入、政府直接补贴，以及农场资产负债表（土地和建筑、机械设备、存货、负债和净值），全国数据从 1910 年起，州级数据从 1949 年起，每年发布预测并定期修订。\n\n数据常用于研究农业部门的收入波动、融资和投资，例如用农场部门净值的变化检验内部资金对农业设备投资的影响；也用于评估农业补贴和贸易冲击。资产估值方法有过多次调整，长序列需注意口径变化。",
+    "source": "ERS 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Internal Net Worth and the Investment Process: An Application to U.S. Agriculture",
+        "title": "Internal Net Worth and the Investment Process: An Application to U.S. Agriculture",
+        "authors": [
+          "R. Glenn Hubbard",
+          "Anil K. Kashyap"
+        ],
+        "year": 1992,
+        "journal": "Journal of Political Economy",
+        "volume": "100",
+        "issue": "3",
+        "pages": "506–534",
+        "doi": "10.1086/261827",
+        "url": "https://doi.org/10.1086/261827",
         "verified": true,
         "note": ""
       }
@@ -11929,6 +12200,39 @@
         "url": "https://doi.org/10.1257/000282802762024557",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+        "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+        "authors": [
+          "Thomas R. Covert",
+          "Ryan Kellogg"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "10",
+        "pages": "3306–3347",
+        "doi": "10.1086/742713",
+        "url": "https://doi.org/10.1086/742713",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The End of Oil",
+        "title": "The End of Oil",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/restud/rdag106",
+        "url": "https://doi.org/10.1093/restud/rdag106",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12880,6 +13184,46 @@
     ]
   },
   {
+    "id": "2.15.35",
+    "title": "BOEM 外大陆架油气租约与拍卖数据",
+    "links": [
+      {
+        "label": "BOEM 数据中心",
+        "url": "https://www.data.boem.gov/"
+      }
+    ],
+    "summary": "美国海洋能源管理局发布的联邦外大陆架（OCS）油气租约拍卖投标、租约、钻井和产量数据，回溯到 1954 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "商业数据"
+    ],
+    "introduction": "美国联邦政府自 1954 年起通过密封投标拍卖出让外大陆架（Outer Continental Shelf，OCS）油气租约，相关数据现由内政部海洋能源管理局（BOEM）发布，BOEM 数据中心提供每次租约拍卖的区块、投标人、投标金额、中标情况，以及租约状态、钻井、油气产量和特许权使用费等记录，主要覆盖墨西哥湾和太平洋海域。\n\n数据是拍卖实证研究的经典来源，常用于检验共同价值拍卖理论，例如研究拥有相邻区块信息的\"知情投标人\"对邻接区块（drainage tract）拍卖的影响，以及政府保留价的作用。早期拍卖的数字化记录需与历史档案核对。",
+    "source": "BOEM 数据中心公开提供下载。",
+    "references": [
+      {
+        "raw": "Auctions for Oil and Gas Leases with an Informed Bidder and a Random Reservation Price",
+        "title": "Auctions for Oil and Gas Leases with an Informed Bidder and a Random Reservation Price",
+        "authors": [
+          "Kenneth Hendricks",
+          "Robert H. Porter",
+          "Charles A. Wilson"
+        ],
+        "year": 1994,
+        "journal": "Econometrica",
+        "volume": "62",
+        "issue": "6",
+        "pages": "1415–1444",
+        "doi": "10.2307/2951754",
+        "url": "https://doi.org/10.2307/2951754",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3",
     "title": "其它国家数据",
     "links": [],
@@ -13189,6 +13533,23 @@
         "pages": "601–637",
         "doi": "10.1162/003355303321675464",
         "url": "https://doi.org/10.1162/003355303321675464",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution",
+        "title": "Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution",
+        "authors": [
+          "Andrew D. Foster",
+          "Mark R. Rosenzweig"
+        ],
+        "year": 1996,
+        "journal": "American Economic Review",
+        "volume": "86",
+        "issue": "4",
+        "pages": "931–953",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/2118311",
         "verified": true,
         "note": ""
       }
@@ -13539,6 +13900,23 @@
         "url": "https://doi.org/10.1086/717890",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Comparative Advantage, Information and the Allocation of Workers to Tasks: Evidence from an Agricultural Labour Market",
+        "title": "Comparative Advantage, Information and the Allocation of Workers to Tasks: Evidence from an Agricultural Labour Market",
+        "authors": [
+          "Andrew D. Foster",
+          "Mark R. Rosenzweig"
+        ],
+        "year": 1996,
+        "journal": "The Review of Economic Studies",
+        "volume": "63",
+        "issue": "3",
+        "pages": "347–374",
+        "doi": "10.2307/2297887",
+        "url": "https://doi.org/10.2307/2297887",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13804,6 +14182,40 @@
         "pages": "601–637",
         "doi": "10.1162/003355303321675464",
         "url": "https://doi.org/10.1162/003355303321675464",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution",
+        "title": "Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution",
+        "authors": [
+          "Andrew D. Foster",
+          "Mark R. Rosenzweig"
+        ],
+        "year": 1996,
+        "journal": "American Economic Review",
+        "volume": "86",
+        "issue": "4",
+        "pages": "931–953",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/2118311",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Learning by Doing and Learning from Others: Human Capital and Technical Change in Agriculture",
+        "title": "Learning by Doing and Learning from Others: Human Capital and Technical Change in Agriculture",
+        "authors": [
+          "Andrew D. Foster",
+          "Mark R. Rosenzweig"
+        ],
+        "year": 1995,
+        "journal": "Journal of Political Economy",
+        "volume": "103",
+        "issue": "6",
+        "pages": "1176–1209",
+        "doi": "10.1086/601447",
+        "url": "https://doi.org/10.1086/601447",
         "verified": true,
         "note": ""
       }
@@ -14515,6 +14927,43 @@
         "pages": "1921–1957",
         "doi": "10.1257/aer.20141529",
         "url": "https://doi.org/10.1257/aer.20141529",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.4",
+    "title": "西班牙家庭预算调查（Encuesta de Presupuestos Familiares）",
+    "links": [
+      {
+        "label": "INE 家庭预算调查",
+        "url": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176806&menu=ultiDatos&idp=1254735976608"
+      }
+    ],
+    "summary": "西班牙国家统计局开展的年度住户支出调查，记录约 2 万户家庭的消费支出结构和家庭特征。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "西班牙家庭预算调查（Encuesta de Presupuestos Familiares，EPF）由西班牙国家统计局（INE）开展，现行基期 2006 年版每年调查约 2.4 万户家庭，按 COICOP 分类记录食品、住房、能源、交通等各项消费支出，以及家庭成员的人口、就业和收入特征，是西班牙消费价格指数权重的来源。INE 网站发布汇总表和匿名化微观数据文件。\n\n数据常用于研究家庭消费结构和政策的分配效应，例如计算不同收入家庭的能源支出份额，评估碳价格冲击对低收入家庭的不平等影响。2006 年前的调查方法和样本设计不同，跨期比较需注意衔接。",
+    "source": "INE 网站公开提供汇总表和微观数据下载。",
+    "references": [
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
         "verified": true,
         "note": ""
       }
@@ -15500,6 +15949,160 @@
     ]
   },
   {
+    "id": "3.11.1",
+    "title": "英国生活成本与食品调查（Living Costs and Food Survey，LCFS）",
+    "links": [
+      {
+        "label": "ONS 生活成本与食品调查",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/methodologies/livingcostsandfoodsurvey"
+      },
+      {
+        "label": "UK Data Service",
+        "url": "https://ukdataservice.ac.uk/"
+      }
+    ],
+    "summary": "英国国家统计局开展的年度住户支出调查，前身为家庭支出调查（FES，1957 年起），记录详细消费日记。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "英国生活成本与食品调查（LCFS）由英国国家统计局（ONS）开展，每年调查约 5,000 户家庭，通过访谈和两周支出日记记录各类商品和服务支出、收入来源以及家庭特征。其前身为 1957 年开始的家庭支出调查（Family Expenditure Survey，FES）和 2001–2007 年的支出与食品调查（EFS），长期序列可用于跨期比较。微观数据通过英国数据服务中心（UK Data Service）发布。\n\n数据常用于研究家庭消费、能源支出和政策的分配效应，例如按收入分组计算能源支出份额，估计碳价格冲击对不同家庭消费的异质性影响。部分包含详细地理信息的版本需特殊许可。",
+    "source": "通过 UK Data Service 注册获取，学术使用免费，部分版本需特殊许可。",
+    "references": [
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.11.2",
+    "title": "英国劳动力调查（Labour Force Survey，LFS）",
+    "links": [
+      {
+        "label": "ONS 劳动力调查说明",
+        "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyuserguidance"
+      }
+    ],
+    "summary": "英国国家统计局开展的季度住户劳动力调查，提供就业、失业、收入、职业和行业等个人层面信息。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "英国劳动力调查（LFS）由英国国家统计局（ONS）开展，1973 年起两年一次、1984 年起年度、1992 年起改为季度滚动面板，每季度调查约 3.5 万户家庭，每户连续访问五个季度，记录就业状态、职业、行业、工时、收入、教育和人口特征，是英国官方失业率的来源。微观数据通过 UK Data Service 发布，包括季度横截面和纵向追踪数据集。\n\n数据常用于研究英国劳动市场和收入分布，例如估计碳价格冲击后不同收入群体的就业和收入变化。近年来回应率下降，ONS 正在推进改革后的调查（TLFS），使用时需关注数据质量说明。",
+    "source": "通过 UK Data Service 注册获取，学术使用免费。",
+    "references": [
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.11.3",
+    "title": "英国社会态度调查（British Social Attitudes，BSA）",
+    "links": [
+      {
+        "label": "NatCen 英国社会态度调查",
+        "url": "https://natcen.ac.uk/british-social-attitudes"
+      }
+    ],
+    "summary": "英国国家社会研究中心自 1983 年起每年开展的社会态度调查，记录公众对政治、经济、环境等议题的看法。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "政治数据"
+    ],
+    "introduction": "英国社会态度调查（BSA）由英国国家社会研究中心（NatCen）自 1983 年起每年开展，每轮访问约 3,000 名成年人，询问对政府支出、福利、经济、政治信任、环境与气候变化、移民等议题的态度，并记录受访者的人口和社会经济特征，许多问题长期重复，可用于追踪态度变化。微观数据通过 UK Data Service 发布。\n\n数据常用于研究公众态度和政策支持，例如检验碳价格冲击后公众对气候政策支持度的变化及其在收入群体间的差异。问卷模块每年轮换，并非每个问题每年都有。",
+    "source": "通过 UK Data Service 注册获取，学术使用免费。",
+    "references": [
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.12.1",
+    "title": "丹麦统计局统计数据库（StatBank Denmark）",
+    "links": [
+      {
+        "label": "StatBank Denmark",
+        "url": "https://www.statbank.dk/"
+      }
+    ],
+    "summary": "丹麦统计局的在线统计数据库，提供人口、收入、家庭消费（家庭预算调查）、能源、就业等官方统计表。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "微观调查数据"
+    ],
+    "introduction": "丹麦统计局（Danmarks Statistik）的 StatBank 是其官方在线数据库，免费提供数千张统计表，涵盖人口、劳动、收入、家庭预算调查（Forbrugsundersøgelsen）的消费支出、价格、能源、企业和环境账户等，可按地区和时间筛选并通过 API 下载。基于登记数据的个人和企业微观数据需通过丹麦统计局研究服务申请远程访问。\n\n数据常用于研究丹麦家庭消费和收入分布，例如用家庭预算调查计算不同收入家庭的能源支出份额，比较碳价格对欧洲各国家庭的分配影响。登记微观数据仅对获得授权的研究机构开放。",
+    "source": "StatBank 在线免费查询下载；登记微观数据需经研究服务申请。",
+    "references": [
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.1.1",
     "title": "红树林分布数据",
     "links": [
@@ -15973,6 +16576,24 @@
         "pages": "2265–2295",
         "doi": "10.1257/aer.103.6.2265",
         "url": "https://doi.org/10.1257/aer.103.6.2265",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Origins and Control of Forest Fires in the Tropics",
+        "title": "The Origins and Control of Forest Fires in the Tropics",
+        "authors": [
+          "Clare Balboni",
+          "Robin Burgess",
+          "Benjamin A. Olken"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "4",
+        "pages": "2348–2389",
+        "doi": "10.1093/restud/rdaf088",
+        "url": "https://doi.org/10.1093/restud/rdaf088",
         "verified": true,
         "note": ""
       }
@@ -16640,6 +17261,24 @@
         "url": "https://doi.org/10.1093/qje/qjs034",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Origins and Control of Forest Fires in the Tropics",
+        "title": "The Origins and Control of Forest Fires in the Tropics",
+        "authors": [
+          "Clare Balboni",
+          "Robin Burgess",
+          "Benjamin A. Olken"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "4",
+        "pages": "2348–2389",
+        "doi": "10.1093/restud/rdaf088",
+        "url": "https://doi.org/10.1093/restud/rdaf088",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16719,6 +17358,209 @@
         "pages": "601–637",
         "doi": "10.1162/003355303321675464",
         "url": "https://doi.org/10.1162/003355303321675464",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.27",
+    "title": "Global Forest Watch 开放数据（林地分类与特许经营区边界）",
+    "links": [
+      {
+        "label": "GFW 开放数据门户",
+        "url": "https://data.globalforestwatch.org/"
+      }
+    ],
+    "summary": "世界资源研究所 Global Forest Watch 发布的森林覆盖、保护区、林地功能分类和伐木、油棕、纸浆林特许经营区边界等空间数据。",
+    "regions": [
+      "全球数据",
+      "亚洲数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "Global Forest Watch（GFW）由世界资源研究所（WRI）及其合作伙伴运营，开放数据门户提供全球和国家层面的森林相关空间数据，包括树木覆盖与损失（基于 Hansen 等数据，见 4.1.28）、原始森林、泥炭地、火点预警，以及印尼、马来西亚、刚果盆地等国家的林地功能分类（保护林、生产林）和伐木、油棕种植园、纸浆林（木纤维）特许经营区边界，后者多来自各国林业部门。\n\n数据常用于研究森林砍伐和森林火灾的驱动因素，例如区分印尼火灾发生在特许经营区内还是国有林地，评估执法和企业承诺的效果。特许经营区边界更新不定期，与官方最新数据可能有出入。",
+    "source": "GFW 开放数据门户免费下载，部分数据需注册。",
+    "references": [
+      {
+        "raw": "The Origins and Control of Forest Fires in the Tropics",
+        "title": "The Origins and Control of Forest Fires in the Tropics",
+        "authors": [
+          "Clare Balboni",
+          "Robin Burgess",
+          "Benjamin A. Olken"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "4",
+        "pages": "2348–2389",
+        "doi": "10.1093/restud/rdaf088",
+        "url": "https://doi.org/10.1093/restud/rdaf088",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.28",
+    "title": "全球森林变化数据（Hansen Global Forest Change）",
+    "links": [
+      {
+        "label": "Global Forest Change 浏览器",
+        "url": "https://glad.earthengine.app/view/global-forest-change"
+      },
+      {
+        "label": "GFC 数据下载",
+        "url": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2023-v1.11/download.html"
+      }
+    ],
+    "summary": "Hansen 等（2013，Science）基于 Landsat 影像制作的全球 30 米分辨率年度树木覆盖损失与增加数据，2000 年起逐年更新。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "全球森林变化数据（Global Forest Change）由马里兰大学 Hansen 等（2013，Science）利用 Landsat 影像（见 4.1.25）制作，提供 2000 年基准树木覆盖率、此后逐年的树木覆盖损失年份以及 2000–2012 年树木覆盖增加，分辨率约 30 米，覆盖全球陆地，并每年更新到最新年份。数据可在 Google Earth Engine 中调用，也可分块下载，是 Global Forest Watch（见 4.1.27）的核心数据。\n\n数据常用于研究森林砍伐、火灾、农业扩张和保护政策的效果，例如测量印尼火灾后的森林损失。\"树木覆盖损失\"包括人工林采伐和自然干扰，不完全等同于毁林；方法在 2013 年后有所更新，不同年份之间的可比性需注意。",
+    "source": "免费公开下载，也可在 Google Earth Engine 中使用。",
+    "references": [
+      {
+        "raw": "The Origins and Control of Forest Fires in the Tropics",
+        "title": "The Origins and Control of Forest Fires in the Tropics",
+        "authors": [
+          "Clare Balboni",
+          "Robin Burgess",
+          "Benjamin A. Olken"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "4",
+        "pages": "2348–2389",
+        "doi": "10.1093/restud/rdaf088",
+        "url": "https://doi.org/10.1093/restud/rdaf088",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.29",
+    "title": "NCEP-DOE 再分析 2（NCEP-DOE Reanalysis 2）",
+    "links": [
+      {
+        "label": "NOAA PSL 再分析 2",
+        "url": "https://psl.noaa.gov/data/gridded/data.ncep.reanalysis2.gaussian.html"
+      }
+    ],
+    "summary": "美国国家环境预报中心与能源部联合制作的全球大气再分析数据，1979 年起提供逐日和 6 小时的风、温度、湿度等变量。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "NCEP-DOE 再分析 2（Reanalysis 2，R2）由美国国家环境预报中心（NCEP）和能源部（DOE）大气模式比较计划合作制作，是对 NCEP/NCAR 再分析 1 的改进版，覆盖 1979 年至今，提供约 2.5 度格网和高斯格网（约 1.9 度）的 6 小时、日度和月度气温、风场、气压、湿度、降水和地表通量等变量，由 NOAA 物理科学实验室（PSL）发布。\n\n数据常用于构造风向、风速等气象变量，例如用逐日风向判断火灾烟雾的扩散方向，或作为污染和天气研究的控制变量。分辨率较 ERA5（见 4.1.3）粗，降水等变量的精度有限。",
+    "source": "NOAA PSL 网站免费公开下载。",
+    "references": [
+      {
+        "raw": "The Origins and Control of Forest Fires in the Tropics",
+        "title": "The Origins and Control of Forest Fires in the Tropics",
+        "authors": [
+          "Clare Balboni",
+          "Robin Burgess",
+          "Benjamin A. Olken"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "4",
+        "pages": "2348–2389",
+        "doi": "10.1093/restud/rdaf088",
+        "url": "https://doi.org/10.1093/restud/rdaf088",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.30",
+    "title": "MSWEP 多源加权集合降水数据",
+    "links": [
+      {
+        "label": "GloH2O MSWEP",
+        "url": "https://www.gloh2o.org/mswep/"
+      }
+    ],
+    "summary": "Beck 等开发的全球 0.1 度、3 小时降水数据集，融合站点、卫星和再分析数据，1979 年起。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "MSWEP（Multi-Source Weighted-Ensemble Precipitation）由 Beck 等（2017、2019，Bulletin of the AMS 等）开发，融合雨量站观测、多种卫星降水产品（如 CMORPH、GSMaP、IMERG）和再分析数据（如 ERA5），按各来源在不同地区的表现加权，提供 1979 年至今全球 0.1 度、3 小时分辨率的降水估计，由 GloH2O 发布，现行版本为 V2.8。\n\n数据常用于测量降水冲击，尤其是在站点稀疏的热带和发展中国家地区，例如研究降水对印尼森林火灾发生的影响。学术用途免费但需申请访问，版本更新会改变历史值。",
+    "source": "通过 GloH2O 申请访问，学术用途免费。",
+    "references": [
+      {
+        "raw": "The Origins and Control of Forest Fires in the Tropics",
+        "title": "The Origins and Control of Forest Fires in the Tropics",
+        "authors": [
+          "Clare Balboni",
+          "Robin Burgess",
+          "Benjamin A. Olken"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "4",
+        "pages": "2348–2389",
+        "doi": "10.1093/restud/rdaf088",
+        "url": "https://doi.org/10.1093/restud/rdaf088",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.31",
+    "title": "ICES 鱼类种群评估数据库",
+    "links": [
+      {
+        "label": "ICES 种群评估图表",
+        "url": "https://standardgraphs.ices.dk/"
+      }
+    ],
+    "summary": "国际海洋考察理事会（ICES）发布的东北大西洋鱼类种群评估结果，包括产卵生物量、捕捞死亡率和渔获量。",
+    "regions": [
+      "欧洲数据",
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "农业数据"
+    ],
+    "introduction": "国际海洋考察理事会（ICES）是成立于 1902 年的政府间海洋科学组织，负责为欧盟、英国、挪威等东北大西洋国家提供渔业管理科学建议。其种群评估数据库（Stock Assessment Database，前身为 Standard Graphs）汇集各鱼类种群历次评估的产卵生物量、补充量、捕捞死亡率、渔获和参考点时间序列，可在线查询和下载。欧盟科学技术和经济渔业委员会（STECF）的报告进一步汇总了欧盟共同渔业政策的监测指标。\n\n数据常用于评估欧洲渔业管理，例如比较欧盟与美国鱼类种群的恢复情况。评估方法因种群而异，部分种群只有定性评估。",
+    "source": "ICES 网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "title": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "authors": [
+          "Eyal G. Frank",
+          "Kimberly Oremus"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w34237",
         "verified": true,
         "note": ""
       }
@@ -17403,6 +18245,43 @@
     ]
   },
   {
+    "id": "4.4.2",
+    "title": "EPO 全球专利统计数据库（PATSTAT）",
+    "links": [
+      {
+        "label": "EPO PATSTAT",
+        "url": "https://www.epo.org/en/searching-for-patents/business/patstat"
+      }
+    ],
+    "summary": "欧洲专利局编制的全球专利统计数据库，收录 100 多个专利局的约 1 亿条专利申请、引用和同族信息。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "PATSTAT（Worldwide Patent Statistical Database）由欧洲专利局（EPO）每年春秋两季发布，收录 100 多个国家和地区专利局的专利申请与授权书目信息，包括申请日、优先权、申请人和发明人（含国家）、IPC/CPC 技术分类、引用关系和专利同族（DOCDB/INPADOC），另有法律状态版本（PATSTAT Legal）。数据以关系型数据库形式提供，需购买许可，许多高校通过订阅获取。\n\n数据常用于测量创新活动和技术扩散，例如用低碳技术分类（Y02）专利统计研究碳价格对绿色创新的影响。申请人名称需要清洗和统一，不同专利局的覆盖年份和字段完整性不一。",
+    "source": "需向 EPO 购买许可，许多高校有机构订阅。",
+    "references": [
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.5.1",
     "title": "联合国商品贸易统计数据库（UN Comtrade）",
     "links": [
@@ -17452,6 +18331,23 @@
         "pages": "205–248",
         "doi": "10.1086/684719",
         "url": "https://doi.org/10.1086/684719",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "title": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "authors": [
+          "Eyal G. Frank",
+          "Kimberly Oremus"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w34237",
         "verified": true,
         "note": ""
       }
@@ -18305,6 +19201,22 @@
         "pages": "601–637",
         "doi": "10.1162/003355303321675464",
         "url": "https://doi.org/10.1162/003355303321675464",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
         "verified": true,
         "note": ""
       }
@@ -19315,6 +20227,22 @@
         "url": "https://doi.org/10.1093/restud/rdad042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The End of Oil",
+        "title": "The End of Oil",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/restud/rdag106",
+        "url": "https://doi.org/10.1093/restud/rdag106",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19384,6 +20312,22 @@
         "pages": "",
         "doi": "",
         "url": "https://kortum.elisites.yale.edu/files/2026/01/Regional-Carbon-Policy.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The End of Oil",
+        "title": "The End of Oil",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/restud/rdag106",
+        "url": "https://doi.org/10.1093/restud/rdag106",
         "verified": true,
         "note": ""
       }
@@ -19461,6 +20405,61 @@
         "pages": "1568–1615",
         "doi": "10.1257/aer.20171438",
         "url": "https://doi.org/10.1257/aer.20171438",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The End of Oil",
+        "title": "The End of Oil",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/restud/rdag106",
+        "url": "https://doi.org/10.1093/restud/rdag106",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.7.10",
+    "title": "欧盟碳排放配额（EUA）期货价格",
+    "links": [
+      {
+        "label": "ICE EUA 期货",
+        "url": "https://www.ice.com/products/197/EUA-Futures"
+      }
+    ],
+    "summary": "洲际交易所（ICE Endex）交易的欧盟排放交易体系（EU ETS）碳配额期货合约价格，是欧洲碳价的基准。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "金融数据",
+      "能源数据",
+      "环境数据"
+    ],
+    "introduction": "欧盟排放交易体系（EU ETS）于 2005 年启动，覆盖电力、工业和航空排放，排放配额（EUA）的期货合约主要在洲际交易所（ICE Endex，原 ICE Futures Europe）交易，12 月到期合约的价格是欧洲碳价的基准；EEX 也提供现货拍卖和期货。逐日结算价、成交量和持仓量可通过 ICE 数据服务、Refinitiv Datastream、Bloomberg 等商业渠道获取。\n\n数据常用于研究碳价格对经济和金融市场的影响，例如用欧盟监管公告前后的 EUA 期货价格变化识别碳价冲击，估计其对能源价格、产出和家庭不平等的影响。第一阶段（2005–2007）配额不能跨期储存，价格与后续阶段不可直接比较。",
+    "source": "商业数据，需通过 ICE、Datastream、Bloomberg 等订阅获取。",
+    "references": [
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
         "verified": true,
         "note": ""
       }
@@ -19797,6 +20796,60 @@
         "pages": "2037–2105",
         "doi": "10.1093/qje/qjac020",
         "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.10.2",
+    "title": "欧洲环境署温室气体排放数据（EEA GHG Data Viewer）",
+    "links": [
+      {
+        "label": "EEA 温室气体数据查看器",
+        "url": "https://www.eea.europa.eu/en/analysis/maps-and-charts/greenhouse-gases-viewer-data-viewers"
+      }
+    ],
+    "summary": "欧洲环境署发布的欧盟及成员国温室气体排放清单，按部门和气体划分，1990 年起，含 EU ETS 排放数据。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据",
+      "能源数据"
+    ],
+    "introduction": "欧洲环境署（EEA）汇编欧盟成员国依据《联合国气候变化框架公约》（UNFCCC）提交的温室气体排放清单，提供 1990 年起按国家、部门（能源、工业过程、农业、废物、土地利用等）和气体划分的年度排放，以及国际航空和航运排放；EEA 还发布 EU ETS 设施排放与配额数据查看器和排放预测。数据可通过温室气体数据查看器（data viewer）在线查询和下载，Eurostat（见 4.10.1）也有对应数据集。\n\n数据常用于研究欧洲气候政策的效果，例如检验碳价格冲击后欧盟温室气体排放的变化。清单每年回溯修订，引用时应注明提交年份。",
+    "source": "EEA 网站免费公开下载。",
+    "references": [
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
         "verified": true,
         "note": ""
       }
@@ -20518,6 +21571,45 @@
     ]
   },
   {
+    "id": "5.11",
+    "title": "FAO 渔业与水产养殖统计（FishStat）",
+    "links": [
+      {
+        "label": "FAO FishStatJ",
+        "url": "https://www.fao.org/fishery/en/statistics/software/fishstatj"
+      }
+    ],
+    "summary": "联合国粮农组织发布的全球渔业捕捞、水产养殖产量和渔产品贸易统计，按国家和物种划分，1950 年起。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "农业数据",
+      "贸易数据"
+    ],
+    "introduction": "FAO 渔业与水产养殖统计由联合国粮农组织渔业司汇编，提供 1950 年起各国按物种和海区划分的捕捞产量、水产养殖产量和产值、渔产品生产与进出口贸易，以及渔民和渔船数据，可通过 FishStatJ 桌面软件和 FAO 在线查询平台下载，是《世界渔业和水产养殖状况》（SOFIA）报告的数据基础。\n\n数据常用于研究全球渔业资源利用、渔产品贸易和渔业管理政策，例如分析美国渔业管理收紧后海产品进口的变化。数据来自各国申报，部分国家存在漏报或估算值。",
+    "source": "FAO 网站免费公开下载。",
+    "references": [
+      {
+        "raw": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "title": "Regulating Biological Resources: Lessons from Marine Fisheries in the United States",
+        "authors": [
+          "Eyal G. Frank",
+          "Kimberly Oremus"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies (conditionally accepted)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w34237",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.1",
     "title": "美国劳工统计局 (BLS)",
     "links": [
@@ -20749,6 +21841,57 @@
         "pages": "1121–1167",
         "doi": "10.1162/00335530360698513",
         "url": "https://doi.org/10.1162/00335530360698513",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Induced Innovation Hypothesis and Energy-Saving Technological Change",
+        "title": "The Induced Innovation Hypothesis and Energy-Saving Technological Change",
+        "authors": [
+          "Richard G. Newell",
+          "Adam B. Jaffe",
+          "Robert N. Stavins"
+        ],
+        "year": 1999,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "114",
+        "issue": "3",
+        "pages": "941–975",
+        "doi": "10.1162/003355399556188",
+        "url": "https://doi.org/10.1162/003355399556188",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Oil and the Macroeconomy since World War II",
+        "title": "Oil and the Macroeconomy since World War II",
+        "authors": [
+          "James D. Hamilton"
+        ],
+        "year": 1983,
+        "journal": "Journal of Political Economy",
+        "volume": "91",
+        "issue": "2",
+        "pages": "228–248",
+        "doi": "10.1086/261140",
+        "url": "https://doi.org/10.1086/261140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+        "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+        "authors": [
+          "Thomas R. Covert",
+          "Ryan Kellogg"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "10",
+        "pages": "3306–3347",
+        "doi": "10.1086/742713",
+        "url": "https://doi.org/10.1086/742713",
         "verified": true,
         "note": ""
       }
@@ -21096,6 +22239,55 @@
         "pages": "1698–1734",
         "doi": "10.1257/aer.104.6.1698",
         "url": "https://doi.org/10.1257/aer.104.6.1698",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Oil and the Macroeconomy since World War II",
+        "title": "Oil and the Macroeconomy since World War II",
+        "authors": [
+          "James D. Hamilton"
+        ],
+        "year": 1983,
+        "journal": "Journal of Political Economy",
+        "volume": "91",
+        "issue": "2",
+        "pages": "228–248",
+        "doi": "10.1086/261140",
+        "url": "https://doi.org/10.1086/261140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Factor Demands and the Effects of Energy Price Shocks",
+        "title": "Dynamic Factor Demands and the Effects of Energy Price Shocks",
+        "authors": [
+          "Robert S. Pindyck",
+          "Julio J. Rotemberg"
+        ],
+        "year": 1983,
+        "journal": "American Economic Review",
+        "volume": "73",
+        "issue": "5",
+        "pages": "1066–1079",
+        "doi": "",
+        "url": "http://web.mit.edu/rpindyck/www/Papers/DynamicFactorDemands-AER-1983.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Unequal Economic Consequences of Carbon Pricing",
+        "title": "The Unequal Economic Consequences of Carbon Pricing",
+        "authors": [
+          "Diego R. Känzig"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w31221",
         "verified": true,
         "note": ""
       }
