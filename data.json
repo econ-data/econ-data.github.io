@@ -94,6 +94,23 @@
         "url": "https://doi.org/10.1086/705554",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Urban Accounting and Welfare",
+        "title": "Urban Accounting and Welfare",
+        "authors": [
+          "Klaus Desmet",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2296–2327",
+        "doi": "10.1257/aer.103.6.2296",
+        "url": "https://doi.org/10.1257/aer.103.6.2296",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1808,6 +1825,23 @@
         "url": "https://doi.org/10.1093/restud/rdx067",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Urban Accounting and Welfare",
+        "title": "Urban Accounting and Welfare",
+        "authors": [
+          "Klaus Desmet",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2296–2327",
+        "doi": "10.1257/aer.103.6.2296",
+        "url": "https://doi.org/10.1257/aer.103.6.2296",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1983,6 +2017,77 @@
         "pages": "695–731",
         "doi": "10.1093/restud/rdx042",
         "url": "https://doi.org/10.1093/restud/rdx042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "title": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "authors": [
+          "Alan Barreca",
+          "Karen Clay",
+          "Olivier Deschenes",
+          "Michael Greenstone",
+          "Joseph S. Shapiro"
+        ],
+        "year": 2016,
+        "journal": "Journal of Political Economy",
+        "volume": "124",
+        "issue": "1",
+        "pages": "105–159",
+        "doi": "10.1086/684582",
+        "url": "https://doi.org/10.1086/684582",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Airports, Air Pollution, and Contemporaneous Health",
+        "title": "Airports, Air Pollution, and Contemporaneous Health",
+        "authors": [
+          "Wolfram Schlenker",
+          "W. Reed Walker"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "2",
+        "pages": "768–809",
+        "doi": "10.1093/restud/rdv043",
+        "url": "https://doi.org/10.1093/restud/rdv043",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Consumers Respond to Marginal or Average Price? Evidence from Nonlinear Electricity Pricing",
+        "title": "Do Consumers Respond to Marginal or Average Price? Evidence from Nonlinear Electricity Pricing",
+        "authors": [
+          "Koichiro Ito"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "537–563",
+        "doi": "10.1257/aer.104.2.537",
+        "url": "https://doi.org/10.1257/aer.104.2.537",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Land Use Regulation and Welfare",
+        "title": "Land Use Regulation and Welfare",
+        "authors": [
+          "Matthew A. Turner",
+          "Andrew Haughwout",
+          "Wilbert van der Klaauw"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1341–1403",
+        "doi": "10.3982/ECTA9823",
+        "url": "https://doi.org/10.3982/ECTA9823",
         "verified": true,
         "note": ""
       }
@@ -2217,6 +2322,23 @@
         "url": "https://doi.org/10.1093/restud/rdx042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "title": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "authors": [
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "948–980",
+        "doi": "10.1257/aer.103.2.948",
+        "url": "https://doi.org/10.1257/aer.103.2.948",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2343,7 +2465,25 @@
     ],
     "introduction": "全国健康访谈调查（NHIS）由美国国家卫生统计中心（NCHS，隶属 CDC）开展，是美国最主要的住户健康调查之一，自 1957 年起持续进行，通过入户访谈收集全国非机构化居民的健康状况、慢性病、功能受限、医疗服务使用、保险覆盖和健康行为等信息。\n\n每年抽取家庭样本，随后在每户中选取一名成人和一名儿童进行详细问卷，并可与国家死亡指数、医疗保险等行政记录关联。问卷在 1997 年和 2019 年均有大幅重新设计，影响跨年比较，使用时应参考官方的衔接说明。\n\n公开使用文件由 NCHS 发布，地理标识（州、县等）和关联数据为受限文件，须通过 NCHS 研究数据中心申请。使用时需考虑复杂抽样设计、权重及调查制度变化。",
     "source": "公开使用文件由 NCHS 正式发布。未公开的地理标识和关联信息等受限变量，需按 NCHS 研究数据中心对目标产品的要求申请和使用。",
-    "references": []
+    "references": [
+      {
+        "raw": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "title": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "authors": [
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "948–980",
+        "doi": "10.1257/aer.103.2.948",
+        "url": "https://doi.org/10.1257/aer.103.2.948",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.2.9",
@@ -2790,6 +2930,25 @@
         "url": "https://doi.org/10.1257/aer.20151272",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "title": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "authors": [
+          "Janet Currie",
+          "Lucas Davis",
+          "Michael Greenstone",
+          "Reed Walker"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "2",
+        "pages": "678–709",
+        "doi": "10.1257/aer.20121656",
+        "url": "https://doi.org/10.1257/aer.20121656",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2865,6 +3024,25 @@
         "pages": "3814–3854",
         "doi": "10.1257/aer.20151272",
         "url": "https://doi.org/10.1257/aer.20151272",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "title": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "authors": [
+          "Janet Currie",
+          "Lucas Davis",
+          "Michael Greenstone",
+          "Reed Walker"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "2",
+        "pages": "678–709",
+        "doi": "10.1257/aer.20121656",
+        "url": "https://doi.org/10.1257/aer.20121656",
         "verified": true,
         "note": ""
       }
@@ -3057,6 +3235,24 @@
         "pages": "831–886",
         "doi": "10.1093/qje/qjaa042",
         "url": "https://doi.org/10.1093/qje/qjaa042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Land Use Regulation and Welfare",
+        "title": "Land Use Regulation and Welfare",
+        "authors": [
+          "Matthew A. Turner",
+          "Andrew Haughwout",
+          "Wilbert van der Klaauw"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1341–1403",
+        "doi": "10.3982/ECTA9823",
+        "url": "https://doi.org/10.3982/ECTA9823",
         "verified": true,
         "note": ""
       }
@@ -3343,6 +3539,43 @@
         "url": "https://doi.org/10.1093/restud/rdx042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "title": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "authors": [
+          "Alan Barreca",
+          "Karen Clay",
+          "Olivier Deschenes",
+          "Michael Greenstone",
+          "Joseph S. Shapiro"
+        ],
+        "year": 2016,
+        "journal": "Journal of Political Economy",
+        "volume": "124",
+        "issue": "1",
+        "pages": "105–159",
+        "doi": "10.1086/684582",
+        "url": "https://doi.org/10.1086/684582",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Urban Accounting and Welfare",
+        "title": "Urban Accounting and Welfare",
+        "authors": [
+          "Klaus Desmet",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2296–2327",
+        "doi": "10.1257/aer.103.6.2296",
+        "url": "https://doi.org/10.1257/aer.103.6.2296",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3548,6 +3781,45 @@
     ]
   },
   {
+    "id": "2.4.6",
+    "title": "NCES 共同核心数据（Common Core of Data，CCD）",
+    "links": [
+      {
+        "label": "NCES CCD",
+        "url": "https://nces.ed.gov/ccd/"
+      }
+    ],
+    "summary": "美国国家教育统计中心收集的全美公立中小学和学区年度行政数据，含学生人数、教师、财政和学校特征。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "共同核心数据（Common Core of Data，CCD）由美国教育部国家教育统计中心（NCES）每年从各州教育部门收集，覆盖全美所有公立中小学和学区，记录学校位置、类型、年级、学生人数（按年级、种族和性别）、免费午餐资格学生数、教师人数，以及学区层面的收入和支出等财政数据，序列始于 1980 年代中期。\n\n数据常用于研究学校质量与住房价格、学区财政、地方公共品和人口分选。数据由各州报送，个别州的变量定义和完整程度不同；学生成绩不在 CCD 中，需另行匹配。",
+    "source": "NCES 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Land Use Regulation and Welfare",
+        "title": "Land Use Regulation and Welfare",
+        "authors": [
+          "Matthew A. Turner",
+          "Andrew Haughwout",
+          "Wilbert van der Klaauw"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1341–1403",
+        "doi": "10.3982/ECTA9823",
+        "url": "https://doi.org/10.3982/ECTA9823",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.5.1",
     "title": "联邦财政支出数据",
     "links": [
@@ -3668,6 +3940,24 @@
         "pages": "349–396",
         "doi": "10.1093/qje/qjy019",
         "url": "https://doi.org/10.1093/qje/qjy019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Land Use Regulation and Welfare",
+        "title": "Land Use Regulation and Welfare",
+        "authors": [
+          "Matthew A. Turner",
+          "Andrew Haughwout",
+          "Wilbert van der Klaauw"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1341–1403",
+        "doi": "10.3982/ECTA9823",
+        "url": "https://doi.org/10.3982/ECTA9823",
         "verified": true,
         "note": ""
       }
@@ -4008,6 +4298,23 @@
         "url": "https://doi.org/10.1086/686733",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Airports, Air Pollution, and Contemporaneous Health",
+        "title": "Airports, Air Pollution, and Contemporaneous Health",
+        "authors": [
+          "Wolfram Schlenker",
+          "W. Reed Walker"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "2",
+        "pages": "768–809",
+        "doi": "10.1093/restud/rdv043",
+        "url": "https://doi.org/10.1093/restud/rdv043",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4086,6 +4393,25 @@
         "pages": "2958–2989",
         "doi": "10.1257/aer.20131002",
         "url": "https://doi.org/10.1257/aer.20131002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "title": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "authors": [
+          "Janet Currie",
+          "Lucas Davis",
+          "Michael Greenstone",
+          "Reed Walker"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "2",
+        "pages": "678–709",
+        "doi": "10.1257/aer.20121656",
+        "url": "https://doi.org/10.1257/aer.20121656",
         "verified": true,
         "note": ""
       }
@@ -4226,6 +4552,25 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w35288",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "title": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "authors": [
+          "Janet Currie",
+          "Lucas Davis",
+          "Michael Greenstone",
+          "Reed Walker"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "2",
+        "pages": "678–709",
+        "doi": "10.1257/aer.20121656",
+        "url": "https://doi.org/10.1257/aer.20121656",
         "verified": true,
         "note": ""
       }
@@ -4906,6 +5251,25 @@
         "url": "https://doi.org/10.1257/aer.20151272",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5116,6 +5480,25 @@
         "pages": "1187–1234",
         "doi": "10.1086/686733",
         "url": "https://doi.org/10.1086/686733",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
         "verified": true,
         "note": ""
       }
@@ -5859,6 +6242,24 @@
         "url": "https://doi.org/10.1257/aer.20210497",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Land Use Regulation and Welfare",
+        "title": "Land Use Regulation and Welfare",
+        "authors": [
+          "Matthew A. Turner",
+          "Andrew Haughwout",
+          "Wilbert van der Klaauw"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1341–1403",
+        "doi": "10.3982/ECTA9823",
+        "url": "https://doi.org/10.3982/ECTA9823",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5979,6 +6380,44 @@
         "pages": "3953–3977",
         "doi": "10.1257/aer.20161218",
         "url": "https://doi.org/10.1257/aer.20161218",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.38",
+    "title": "加州空气资源委员会空气质量监测数据（AQMIS）",
+    "links": [
+      {
+        "label": "CARB AQMIS 数据查询",
+        "url": "https://www.arb.ca.gov/aqmis2/aqdselect.php"
+      }
+    ],
+    "summary": "CARB 发布的加州空气质量监测站逐时和逐日污染物浓度数据，覆盖州和地方空气区的监测网络。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "加州空气资源委员会（California Air Resources Board，CARB）汇集州和地方空气质量管理区的监测网络数据，通过空气质量与气象信息系统（AQMIS）等渠道发布各监测站的 CO、NO2、O3、PM2.5、PM10、SO2 等污染物的逐时和逐日浓度，以及部分气象变量。CARB 的监测数据与 EPA 的 AQS 有重叠，但包含一些只在州层面发布的站点和变量。\n\n数据常用于研究加州的空气污染对健康、劳动生产率和房价的影响，例如利用机场拥堵或风向造成的污染短期波动。站点覆盖随时间变化，研究中需要考虑站点进入和退出。",
+    "source": "CARB 网站公开提供在线查询和下载；网站对自动访问有拦截。",
+    "references": [
+      {
+        "raw": "Airports, Air Pollution, and Contemporaneous Health",
+        "title": "Airports, Air Pollution, and Contemporaneous Health",
+        "authors": [
+          "Wolfram Schlenker",
+          "W. Reed Walker"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "2",
+        "pages": "768–809",
+        "doi": "10.1093/restud/rdv043",
+        "url": "https://doi.org/10.1093/restud/rdv043",
         "verified": true,
         "note": ""
       }
@@ -6125,6 +6564,45 @@
         "url": "https://doi.org/10.1257/aer.20131002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "title": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "authors": [
+          "Alan Barreca",
+          "Karen Clay",
+          "Olivier Deschenes",
+          "Michael Greenstone",
+          "Joseph S. Shapiro"
+        ],
+        "year": 2016,
+        "journal": "Journal of Political Economy",
+        "volume": "124",
+        "issue": "1",
+        "pages": "105–159",
+        "doi": "10.1086/684582",
+        "url": "https://doi.org/10.1086/684582",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "title": "Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings",
+        "authors": [
+          "Janet Currie",
+          "Lucas Davis",
+          "Michael Greenstone",
+          "Reed Walker"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "2",
+        "pages": "678–709",
+        "doi": "10.1257/aer.20121656",
+        "url": "https://doi.org/10.1257/aer.20121656",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6251,6 +6729,26 @@
         "url": "https://www.nber.org/papers/w35288",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "title": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "authors": [
+          "Alan Barreca",
+          "Karen Clay",
+          "Olivier Deschenes",
+          "Michael Greenstone",
+          "Joseph S. Shapiro"
+        ],
+        "year": 2016,
+        "journal": "Journal of Political Economy",
+        "volume": "124",
+        "issue": "1",
+        "pages": "105–159",
+        "doi": "10.1086/684582",
+        "url": "https://doi.org/10.1086/684582",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6328,6 +6826,48 @@
         "pages": "2958–2989",
         "doi": "10.1257/aer.20131002",
         "url": "https://doi.org/10.1257/aer.20131002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.7",
+    "title": "加州医院与急诊就诊数据（HCAI，原 OSHPD）",
+    "links": [
+      {
+        "label": "HCAI 数据",
+        "url": "https://hcai.ca.gov/data/"
+      },
+      {
+        "label": "HCAI 研究数据申请",
+        "url": "https://hcai.ca.gov/data/request-data/research-data-request-information/"
+      }
+    ],
+    "summary": "加州卫生保健可及与信息部收集的全州住院、急诊和门诊手术的就诊层面记录，含诊断、操作和患者邮编。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "加州卫生保健可及与信息部（Department of Health Care Access and Information，HCAI，原州卫生规划与发展办公室 OSHPD）要求州内持照医院和门诊手术中心报送每次住院、急诊就诊和门诊手术的记录，包括入院与出院日期、诊断和操作编码、费用、付费方以及患者年龄、性别、种族和居住邮编。公开文件为汇总数据，就诊层面的非公开数据（含更多识别变量）需通过研究数据申请获得。\n\n数据常用于研究空气污染、高温等环境冲击对呼吸系统和心血管疾病就诊的短期影响，以及医院行为和医疗利用。申请受限数据需要经过审批并签署数据使用协议，处理周期较长。",
+    "source": "HCAI 网站公开汇总数据；就诊层面数据需提交研究数据申请。",
+    "references": [
+      {
+        "raw": "Airports, Air Pollution, and Contemporaneous Health",
+        "title": "Airports, Air Pollution, and Contemporaneous Health",
+        "authors": [
+          "Wolfram Schlenker",
+          "W. Reed Walker"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "2",
+        "pages": "768–809",
+        "doi": "10.1093/restud/rdv043",
+        "url": "https://doi.org/10.1093/restud/rdv043",
         "verified": true,
         "note": ""
       }
@@ -6485,6 +7025,179 @@
         "pages": "349–396",
         "doi": "10.1093/qje/qjy019",
         "url": "https://doi.org/10.1093/qje/qjy019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Vehicle Scrappage and Gasoline Policy",
+        "title": "Vehicle Scrappage and Gasoline Policy",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "3",
+        "pages": "1312–1338",
+        "doi": "10.1257/aer.20130935",
+        "url": "https://doi.org/10.1257/aer.20130935",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.5",
+    "title": "BTS 航班准点数据（Airline On-Time Performance）",
+    "links": [
+      {
+        "label": "BTS 航班准点数据",
+        "url": "https://www.transtats.bts.gov/ontime/"
+      },
+      {
+        "label": "BTS TranStats 数据表",
+        "url": "https://www.transtats.bts.gov/Tables.asp?QO_VQ=EFD"
+      }
+    ],
+    "summary": "美国交通统计局发布的国内航班逐班次计划与实际起降时间、延误、取消及原因，1987 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "航班准点数据（Airline On-Time Performance）由美国交通部交通统计局（BTS）依据大型航空公司的强制报告发布，自 1987 年起逐班次记录航空公司、航班号、起降机场、计划与实际起飞和到达时间、滑行时间、延误分钟数、取消和备降，2003 年起还按航空公司、天气、空管系统、安全和晚到航班分类记录延误原因。\n\n数据常用于研究航空市场竞争和服务质量，也被用作机场地面拥堵和飞机排放的外生变化来源，研究空气污染对周边居民健康的影响。数据只覆盖达到报告门槛的大型航空公司，地区航空公司以代码共享名义执飞的航班处理方式需注意。",
+    "source": "BTS TranStats 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Airports, Air Pollution, and Contemporaneous Health",
+        "title": "Airports, Air Pollution, and Contemporaneous Health",
+        "authors": [
+          "Wolfram Schlenker",
+          "W. Reed Walker"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "2",
+        "pages": "768–809",
+        "doi": "10.1093/restud/rdv043",
+        "url": "https://doi.org/10.1093/restud/rdv043",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.6",
+    "title": "致命交通事故报告系统（FARS）",
+    "links": [
+      {
+        "label": "NHTSA FARS",
+        "url": "https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars"
+      }
+    ],
+    "summary": "NHTSA 维护的美国公共道路致命交通事故普查数据，记录事故、车辆和人员层面信息，1975 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据",
+      "健康数据"
+    ],
+    "introduction": "致命交通事故报告系统（Fatality Analysis Reporting System，FARS）由美国国家公路交通安全管理局（NHTSA）维护，收录 1975 年以来美国公共道路上造成人员在事故发生 30 天内死亡的全部机动车事故，分为事故、车辆和人员三个层面，记录时间、地点、天气和道路条件、车辆类型、车型年份和 VIN、驾驶员特征、酒驾和安全带使用以及伤亡情况。\n\n数据常用于研究交通安全政策、车辆重量与安全的外部性、酒驾法律、燃油价格对驾驶的影响等。FARS 只包括致命事故，非致命事故需使用 NHTSA 的抽样数据（如 CRSS）或州事故记录；网站对自动访问有拦截。",
+    "source": "NHTSA 网站公开提供下载；网站对自动访问有拦截，链接经搜索确认。",
+    "references": [
+      {
+        "raw": "Vehicle Scrappage and Gasoline Policy",
+        "title": "Vehicle Scrappage and Gasoline Policy",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "3",
+        "pages": "1312–1338",
+        "doi": "10.1257/aer.20130935",
+        "url": "https://doi.org/10.1257/aer.20130935",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.8",
+    "title": "加州高速公路性能监测系统（Caltrans PeMS）",
+    "links": [
+      {
+        "label": "Caltrans PeMS",
+        "url": "https://pems.dot.ca.gov/"
+      }
+    ],
+    "summary": "加州交通厅基于高速公路环形线圈检测器的交通流量、车速和占有率数据，提供 5 分钟到小时等频率。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "高速公路性能监测系统（Performance Measurement System，PeMS）由加州交通厅（Caltrans）运营，实时汇集州内高速公路上数万个环形线圈等检测器的数据，记录车流量、车速和车道占有率，并计算延误、通行时间和拥堵指标，原始数据为 30 秒频率，常用版本按 5 分钟和小时汇总，历史数据可追溯到 2000 年前后。\n\n数据常用于研究公共交通罢工、道路收费、高占用车道和交通政策对拥堵的影响，以及交通与空气污染的关系。检测器存在故障和缺失，PeMS 提供的插补值需要谨慎使用；下载需注册账户。",
+    "source": "PeMS 网站公开提供，需免费注册账户。",
+    "references": [
+      {
+        "raw": "Subways, Strikes, and Slowdowns: The Impacts of Public Transit on Traffic Congestion",
+        "title": "Subways, Strikes, and Slowdowns: The Impacts of Public Transit on Traffic Congestion",
+        "authors": [
+          "Michael L. Anderson"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "9",
+        "pages": "2763–2796",
+        "doi": "10.1257/aer.104.9.2763",
+        "url": "https://doi.org/10.1257/aer.104.9.2763",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.9",
+    "title": "城市交通拥堵报告（Urban Mobility Report）",
+    "links": [
+      {
+        "label": "TTI Urban Mobility Report",
+        "url": "https://mobility.tamu.edu/umr/"
+      }
+    ],
+    "summary": "德州农工交通研究所发布的美国各城市拥堵指标，包括出行时间指数、年均延误小时数和拥堵成本。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据",
+      "区域经济数据"
+    ],
+    "introduction": "城市交通拥堵报告（Urban Mobility Report）由德州农工交通研究所（Texas A&M Transportation Institute，TTI）定期发布，基于道路流量统计和车速数据，估算美国约一百个城市地区的年均延误小时数、出行时间指数、额外燃油消耗和拥堵成本，并提供 1982 年以来的历史序列。\n\n数据常用于跨城市比较交通拥堵，以及作为公共交通和道路投资研究中的城市层面结果变量。指标依赖模型估算，方法在不同年份的报告中有调整，历史数值会随新方法回溯修订。",
+    "source": "TTI 网站公开提供报告和数据下载。",
+    "references": [
+      {
+        "raw": "Subways, Strikes, and Slowdowns: The Impacts of Public Transit on Traffic Congestion",
+        "title": "Subways, Strikes, and Slowdowns: The Impacts of Public Transit on Traffic Congestion",
+        "authors": [
+          "Michael L. Anderson"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "9",
+        "pages": "2763–2796",
+        "doi": "10.1257/aer.104.9.2763",
+        "url": "https://doi.org/10.1257/aer.104.9.2763",
         "verified": true,
         "note": ""
       }
@@ -7189,6 +7902,81 @@
     ]
   },
   {
+    "id": "2.10.6",
+    "title": "CoStar 商业地产与土地交易数据",
+    "links": [
+      {
+        "label": "CoStar 官网",
+        "url": "https://www.costar.com/"
+      }
+    ],
+    "summary": "CoStar 集团的商业地产数据库，记录办公、零售、工业物业和土地的交易、租赁、空置与物业特征。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "房地产数据",
+      "商业数据"
+    ],
+    "introduction": "CoStar 是美国主要的商业地产信息提供商，通过研究人员调查和公开记录收集办公、零售、工业、多户住宅等商业物业和土地的交易价格、买卖双方、面积和区划、租金与空置率、物业特征等信息，覆盖美国大部分都市区，并扩展到英国、加拿大等市场。\n\n数据常用于研究商业地产价格、土地价值、土地利用管制的影响以及集聚经济。CoStar 为商业订阅产品，价格较高，学术使用一般需要单独协议；交易覆盖以都市区为主，早期年份和小城市的记录较少。",
+    "source": "以商业订阅方式向 CoStar 获取。",
+    "references": [
+      {
+        "raw": "Land Use Regulation and Welfare",
+        "title": "Land Use Regulation and Welfare",
+        "authors": [
+          "Matthew A. Turner",
+          "Andrew Haughwout",
+          "Wilbert van der Klaauw"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1341–1403",
+        "doi": "10.3982/ECTA9823",
+        "url": "https://doi.org/10.3982/ECTA9823",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.7",
+    "title": "沃顿住宅土地利用管制指数（WRLURI）",
+    "links": [],
+    "summary": "沃顿商学院基于对美国地方政府调查构建的住宅土地利用管制严格程度指数，2006 年和 2018 年两轮。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "房地产数据",
+      "区域经济数据"
+    ],
+    "introduction": "沃顿住宅土地利用管制指数（Wharton Residential Land Use Regulatory Index，WRLURI）由 Gyourko、Saiz 和 Summers（2008）基于 2006 年对美国约两千六百个地方政府的问卷调查构建，涵盖审批程序和参与主体、分区与密度限制、开放空间要求、开发费用、审批时长等维度，合成为市镇和都市区层面的管制严格程度指数。2018 年进行了第二轮调查（Gyourko、Hartley 和 Krimmel，2021）。\n\n数据常用于研究土地利用管制对住房供给、房价和城市增长的影响。指数基于地方官员的自报，回答率和代表性存在差异；两轮调查的问卷有调整。",
+    "source": "数据由研究者公开发布，具体下载入口待核实。",
+    "references": [
+      {
+        "raw": "Land Use Regulation and Welfare",
+        "title": "Land Use Regulation and Welfare",
+        "authors": [
+          "Matthew A. Turner",
+          "Andrew Haughwout",
+          "Wilbert van der Klaauw"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1341–1403",
+        "doi": "10.3982/ECTA9823",
+        "url": "https://doi.org/10.3982/ECTA9823",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.11.1",
     "title": "WRDS 数据库",
     "links": [
@@ -7714,6 +8502,23 @@
         "url": "https://doi.org/10.1093/qje/qjad016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Vehicle Scrappage and Gasoline Policy",
+        "title": "Vehicle Scrappage and Gasoline Policy",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "3",
+        "pages": "1312–1338",
+        "doi": "10.1257/aer.20130935",
+        "url": "https://doi.org/10.1257/aer.20130935",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7750,6 +8555,23 @@
         "url": "https://doi.org/10.1093/qje/qjad016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pounds That Kill: The External Costs of Vehicle Weight",
+        "title": "Pounds That Kill: The External Costs of Vehicle Weight",
+        "authors": [
+          "Michael L. Anderson",
+          "Maximilian Auffhammer"
+        ],
+        "year": 2014,
+        "journal": "The Review of Economic Studies",
+        "volume": "81",
+        "issue": "2",
+        "pages": "535–571",
+        "doi": "10.1093/restud/rdt035",
+        "url": "https://doi.org/10.1093/restud/rdt035",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7784,6 +8606,23 @@
         "pages": "1907–1976",
         "doi": "10.1093/qje/qjad016",
         "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Vehicle Scrappage and Gasoline Policy",
+        "title": "Vehicle Scrappage and Gasoline Policy",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "3",
+        "pages": "1312–1338",
+        "doi": "10.1257/aer.20130935",
+        "url": "https://doi.org/10.1257/aer.20130935",
         "verified": true,
         "note": ""
       }
@@ -8354,6 +9193,25 @@
         "url": "https://doi.org/10.1086/686733",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8549,6 +9407,25 @@
         "url": "https://doi.org/10.1086/684484",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8718,6 +9595,25 @@
         "pages": "1187–1234",
         "doi": "10.1086/686733",
         "url": "https://doi.org/10.1086/686733",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
         "verified": true,
         "note": ""
       }
@@ -9094,6 +9990,42 @@
         "pages": "1907–1976",
         "doi": "10.1093/qje/qjad016",
         "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Vehicle Scrappage and Gasoline Policy",
+        "title": "Vehicle Scrappage and Gasoline Policy",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "3",
+        "pages": "1312–1338",
+        "doi": "10.1257/aer.20130935",
+        "url": "https://doi.org/10.1257/aer.20130935",
         "verified": true,
         "note": ""
       }
@@ -9524,6 +10456,22 @@
         "url": "https://doi.org/10.1086/697203",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Uncertainty on Investment: Evidence from Texas Oil Drilling",
+        "title": "The Effect of Uncertainty on Investment: Evidence from Texas Oil Drilling",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1698–1734",
+        "doi": "10.1257/aer.104.6.1698",
+        "url": "https://doi.org/10.1257/aer.104.6.1698",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9688,6 +10636,22 @@
         "url": "https://doi.org/10.1086/686733",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Uncertainty on Investment: Evidence from Texas Oil Drilling",
+        "title": "The Effect of Uncertainty on Investment: Evidence from Texas Oil Drilling",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1698–1734",
+        "doi": "10.1257/aer.104.6.1698",
+        "url": "https://doi.org/10.1257/aer.104.6.1698",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9725,6 +10689,47 @@
         "pages": "1187–1234",
         "doi": "10.1086/686733",
         "url": "https://doi.org/10.1086/686733",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.27",
+    "title": "美国替代燃料数据中心（AFDC）法律与激励数据库",
+    "links": [
+      {
+        "label": "AFDC 法律与激励",
+        "url": "https://afdc.energy.gov/laws"
+      }
+    ],
+    "summary": "美国能源部替代燃料数据中心整理的联邦和各州关于电动汽车、替代燃料的法律、法规和激励政策。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "政治数据"
+    ],
+    "introduction": "替代燃料数据中心（Alternative Fuels Data Center，AFDC）由美国能源部车辆技术办公室运营，其法律与激励数据库收录联邦和各州关于电动汽车、混合动力车、天然气、生物燃料、氢能等替代燃料车辆和基础设施的法律法规与激励措施，包括购车补贴和税收抵免、高占用车道使用权、充电设施补助和公用事业项目，并记录生效时间和适用对象。AFDC 还发布充电站和加气站位置数据。\n\n数据常用于构建各州电动车和替代燃料政策的面板，研究补贴对电动车采用的影响。数据库主要反映当前有效的政策，历史政策需借助存档版本整理。",
+    "source": "AFDC 网站公开提供查询和下载。",
+    "references": [
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
         "verified": true,
         "note": ""
       }
@@ -9776,6 +10781,23 @@
         "pages": "3007–3040",
         "doi": "10.1257/aer.20230016",
         "url": "https://doi.org/10.1257/aer.20230016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "title": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "authors": [
+          "Michael Greenstone",
+          "Rema Hanna"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3038–3072",
+        "doi": "10.1257/aer.104.10.3038",
+        "url": "https://doi.org/10.1257/aer.104.10.3038",
         "verified": true,
         "note": ""
       }
@@ -9893,6 +10915,23 @@
         "url": "https://doi.org/10.1257/aer.20230016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "title": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "authors": [
+          "Michael Greenstone",
+          "Rema Hanna"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3038–3072",
+        "doi": "10.1257/aer.104.10.3038",
+        "url": "https://doi.org/10.1257/aer.104.10.3038",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9972,6 +11011,23 @@
         "pages": "3007–3040",
         "doi": "10.1257/aer.20230016",
         "url": "https://doi.org/10.1257/aer.20230016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "title": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "authors": [
+          "Michael Greenstone",
+          "Rema Hanna"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3038–3072",
+        "doi": "10.1257/aer.104.10.3038",
+        "url": "https://doi.org/10.1257/aer.104.10.3038",
         "verified": true,
         "note": ""
       }
@@ -10224,6 +11280,25 @@
         "url": "https://doi.org/10.1257/aer.20140389",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Truth-telling by Third-party Auditors and the Response of Polluting Firms: Experimental Evidence from India",
+        "title": "Truth-telling by Third-party Auditors and the Response of Polluting Firms: Experimental Evidence from India",
+        "authors": [
+          "Esther Duflo",
+          "Michael Greenstone",
+          "Rohini Pande",
+          "Nicholas Ryan"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1499–1545",
+        "doi": "10.1093/qje/qjt024",
+        "url": "https://doi.org/10.1093/qje/qjt024",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10337,6 +11412,25 @@
         "pages": "2123–2160",
         "doi": "10.3982/ECTA12876",
         "url": "https://doi.org/10.3982/ECTA12876",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Truth-telling by Third-party Auditors and the Response of Polluting Firms: Experimental Evidence from India",
+        "title": "Truth-telling by Third-party Auditors and the Response of Polluting Firms: Experimental Evidence from India",
+        "authors": [
+          "Esther Duflo",
+          "Michael Greenstone",
+          "Rohini Pande",
+          "Nicholas Ryan"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1499–1545",
+        "doi": "10.1093/qje/qjt024",
+        "url": "https://doi.org/10.1093/qje/qjt024",
         "verified": true,
         "note": ""
       }
@@ -10460,6 +11554,61 @@
         "pages": "1366–1401",
         "doi": "10.1257/aer.20131455",
         "url": "https://doi.org/10.1257/aer.20131455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "title": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "authors": [
+          "Michael Greenstone",
+          "Rema Hanna"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3038–3072",
+        "doi": "10.1257/aer.104.10.3038",
+        "url": "https://doi.org/10.1257/aer.104.10.3038",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.1.19",
+    "title": "印度中央污染控制委员会空气质量监测数据（NAMP）",
+    "links": [
+      {
+        "label": "印度中央污染控制委员会",
+        "url": "https://cpcb.nic.in/"
+      }
+    ],
+    "summary": "印度中央污染控制委员会国家空气质量监测计划（NAMP）的城市监测站 SO2、NO2、颗粒物浓度数据。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "国家空气质量监测计划（National Air Quality Monitoring Programme，NAMP）由印度中央污染控制委员会（CPCB）与各邦污染控制委员会合作运行，自 1980 年代起在全国数百个城市布设人工监测站，按周两次左右采样测量 SO2、NO2、总悬浮颗粒物（SPM）和可吸入颗粒物（PM10）等，近年增加 PM2.5 和连续自动监测站。CPCB 以年报和数据门户发布站点和城市层面的浓度。\n\n数据常用于研究印度的空气污染趋势、环境规制（如催化转换器要求、燃料标准）的效果及其健康影响。早期站点和城市数量有限，采样频率较低，部分年份缺失；历史数据多需从年报中整理。",
+    "source": "CPCB 网站发布年报和监测数据。",
+    "references": [
+      {
+        "raw": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "title": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+        "authors": [
+          "Michael Greenstone",
+          "Rema Hanna"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3038–3072",
+        "doi": "10.1257/aer.104.10.3038",
+        "url": "https://doi.org/10.1257/aer.104.10.3038",
         "verified": true,
         "note": ""
       }
@@ -10977,6 +12126,47 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w30704",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.3",
+    "title": "加纳生活水平调查（GLSS）",
+    "links": [
+      {
+        "label": "加纳统计局",
+        "url": "https://statsghana.gov.gh/"
+      }
+    ],
+    "summary": "加纳统计局开展的全国住户调查，记录消费、收入、就业、农业生产和社区信息，1987 年起多轮开展。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "农业数据"
+    ],
+    "introduction": "加纳生活水平调查（Ghana Living Standards Survey，GLSS）由加纳统计局（Ghana Statistical Service）开展，最初在世界银行生活水平测量研究（LSMS）框架下设计，1987–88 年首轮以来已进行七轮左右，内容包括家庭人口、教育、健康、就业、消费支出、非农企业、农业生产（作物、投入、畜牧）和社区特征，是加纳测量贫困的主要来源。GLSS5+ 是第五轮的扩展样本，增加了农业模块。\n\n数据常用于研究加纳的贫困、农业生产率和家庭风险应对，也常被用作非洲农户研究的参照样本。各轮样本设计和问卷有变化，部分轮次的微观数据需向加纳统计局申请。",
+    "source": "加纳统计局提供微观数据，需注册申请，具体条件以官网说明为准。",
+    "references": [
+      {
+        "raw": "Agricultural Decisions after Relaxing Credit and Risk Constraints",
+        "title": "Agricultural Decisions after Relaxing Credit and Risk Constraints",
+        "authors": [
+          "Dean Karlan",
+          "Robert Osei",
+          "Isaac Osei-Akoto",
+          "Christopher Udry"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "597–652",
+        "doi": "10.1093/qje/qju002",
+        "url": "https://doi.org/10.1093/qje/qju002",
         "verified": true,
         "note": ""
       }
@@ -12841,6 +14031,63 @@
         "url": "https://doi.org/10.1086/711369",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.2.4",
+    "title": "跨国等效档案（Cross-National Equivalent File，CNEF）",
+    "links": [
+      {
+        "label": "CNEF 官网",
+        "url": "https://www.cnefdata.org/"
+      }
+    ],
+    "summary": "把美国 PSID、德国 SOEP、英国 BHPS 等多国家庭面板调查协调为可比变量的跨国数据档案。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "跨国等效档案（Cross-National Equivalent File，CNEF）最初由康奈尔大学建立，现由俄亥俄州立大学维护，把多个国家的家庭面板调查的收入、就业、工时、人口和健康等核心变量协调为统一定义，成员调查包括美国收入动态面板调查（PSID）、德国社会经济面板（SOEP）、英国家庭面板调查（BHPS/UKHLS）、澳大利亚 HILDA、加拿大 SLID、瑞士、韩国、俄罗斯等。\n\n数据常用于跨国比较收入分配、劳动供给和收入流动性，也被用于比较不同国家农业与非农业劳动者的收入和工时。各成员调查的原始数据需分别向原机构申请许可；协调变量不能完全消除各国调查设计的差异。",
+    "source": "需先获得各成员调查的使用许可，再通过 CNEF 网站申请。",
+    "references": [
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13217,6 +14464,45 @@
         "pages": "464–502",
         "doi": "10.1093/restud/rdw023",
         "url": "https://doi.org/10.1093/restud/rdw023",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.10",
+    "title": "地形崎岖度与国家地理特征数据（Nunn 和 Puga）",
+    "links": [
+      {
+        "label": "Nunn-Puga 崎岖度数据",
+        "url": "https://diegopuga.org/data/rugged/"
+      }
+    ],
+    "summary": "Nunn 与 Puga（2012）构建的各国地形崎岖度指数及其他地理特征变量，由作者公开发布。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "Nunn 与 Puga（2012，Review of Economics and Statistics）基于 30 弧秒高程数据计算了各国的地形崎岖度指数（terrain ruggedness index），并整理了与海岸距离、热带面积比例、土壤肥力、沙漠比例、钻石矿藏等国家层面的地理变量，数据在 Diego Puga 的网站公开发布。\n\n这些变量常在跨国增长、制度和发展研究中作为地理控制变量或工具变量使用。数据为国家层面截面，不随时间变化；崎岖度指数对高程数据分辨率和计算方法敏感。",
+    "source": "作者网站公开提供下载。",
+    "references": [
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
         "verified": true,
         "note": ""
       }
@@ -14148,6 +15434,23 @@
         "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "title": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "authors": [
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "948–980",
+        "doi": "10.1257/aer.103.2.948",
+        "url": "https://doi.org/10.1257/aer.103.2.948",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14202,6 +15505,41 @@
         "url": "https://doi.org/10.1086/724319",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "title": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "authors": [
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "948–980",
+        "doi": "10.1257/aer.103.2.948",
+        "url": "https://doi.org/10.1257/aer.103.2.948",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14237,6 +15575,23 @@
         "pages": "1705–1756",
         "doi": "10.1086/734725",
         "url": "https://doi.org/10.1086/734725",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "title": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "authors": [
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "948–980",
+        "doi": "10.1257/aer.103.2.948",
+        "url": "https://doi.org/10.1257/aer.103.2.948",
         "verified": true,
         "note": ""
       }
@@ -14531,6 +15886,24 @@
         "pages": "",
         "doi": "",
         "url": "https://kortum.elisites.yale.edu/files/2026/01/Regional-Carbon-Policy.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
         "verified": true,
         "note": ""
       }
@@ -15350,6 +16723,24 @@
         "url": "https://doi.org/10.1093/restud/rdaf012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15884,6 +17275,41 @@
         "url": "https://doi.org/10.1086/684719",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "title": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "authors": [
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "948–980",
+        "doi": "10.1257/aer.103.2.948",
+        "url": "https://doi.org/10.1257/aer.103.2.948",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16311,6 +17737,22 @@
         "url": "https://doi.org/10.1086/697203",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Uncertainty on Investment: Evidence from Texas Oil Drilling",
+        "title": "The Effect of Uncertainty on Investment: Evidence from Texas Oil Drilling",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1698–1734",
+        "doi": "10.1257/aer.104.6.1698",
+        "url": "https://doi.org/10.1257/aer.104.6.1698",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16640,6 +18082,22 @@
         "pages": "427–472",
         "doi": "10.1257/aer.20170237",
         "url": "https://doi.org/10.1257/aer.20170237",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Uncertainty on Investment: Evidence from Texas Oil Drilling",
+        "title": "The Effect of Uncertainty on Investment: Evidence from Texas Oil Drilling",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1698–1734",
+        "doi": "10.1257/aer.104.6.1698",
+        "url": "https://doi.org/10.1257/aer.104.6.1698",
         "verified": true,
         "note": ""
       }
@@ -17232,7 +18690,63 @@
     ],
     "introduction": "IPUMS（Integrated Public Use Microdata Series）由明尼苏达大学运营，对人口普查和调查的微观数据进行变量协调、编码统一并提供完整文档。主要项目包括 IPUMS USA（美国人口普查和美国社区调查）、IPUMS CPS（当前人口调查）、IPUMS International（多国人口普查）、IPUMS NHGIS（地理汇总与边界）、IPUMS Health Surveys 与 IPUMS Time Use 等。\n\n用户在网站上免费注册后，可通过在线数据抽取系统选择样本和变量，下载定制数据。协调后的变量便于跨年份和跨国家比较，但并不消除原调查在抽样、问卷、口径和地理披露方面的限制。各项目的使用条款和再分发规则不同，部分国家的数据须经该国统计机构授权。",
     "source": "通过 IPUMS 官网及相应项目（USA、CPS、International 等）免费注册并申请数据，按该项目条款使用。不同项目的再分发规则并不相同；尤其不能将团队成员获得数据视为其他成员自动获准，或将平台可访问性等同于可任意公开原始文件。",
-    "references": []
+    "references": [
+      {
+        "raw": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "title": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century",
+        "authors": [
+          "Alan Barreca",
+          "Karen Clay",
+          "Olivier Deschenes",
+          "Michael Greenstone",
+          "Joseph S. Shapiro"
+        ],
+        "year": 2016,
+        "journal": "Journal of Political Economy",
+        "volume": "124",
+        "issue": "1",
+        "pages": "105–159",
+        "doi": "10.1086/684582",
+        "url": "https://doi.org/10.1086/684582",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "title": "Selection, Agriculture, and Cross-Country Productivity Differences",
+        "authors": [
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "948–980",
+        "doi": "10.1257/aer.103.2.948",
+        "url": "https://doi.org/10.1257/aer.103.2.948",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "11.3",
