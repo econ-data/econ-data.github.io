@@ -2090,6 +2090,76 @@
         "url": "https://doi.org/10.3982/ECTA9823",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Do Emissions Markets Deliver and to Whom? Evidence from Southern California's NOx Trading Program",
+        "title": "What Do Emissions Markets Deliver and to Whom? Evidence from Southern California's NOx Trading Program",
+        "authors": [
+          "Meredith Fowlie",
+          "Stephen P. Holland",
+          "Erin T. Mansur"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "2",
+        "pages": "965–993",
+        "doi": "10.1257/aer.102.2.965",
+        "url": "https://doi.org/10.1257/aer.102.2.965",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Allocative Cost of Price Ceilings in the U.S. Residential Market for Natural Gas",
+        "title": "The Allocative Cost of Price Ceilings in the U.S. Residential Market for Natural Gas",
+        "authors": [
+          "Lucas W. Davis",
+          "Lutz Kilian"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "2",
+        "pages": "212–241",
+        "doi": "10.1086/660124",
+        "url": "https://doi.org/10.1086/660124",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "title": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "authors": [
+          "Gilles Duranton",
+          "Matthew A. Turner"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2616–2652",
+        "doi": "10.1257/aer.101.6.2616",
+        "url": "https://doi.org/10.1257/aer.101.6.2616",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Accounting for Pollution in the United States Economy",
+        "title": "Environmental Accounting for Pollution in the United States Economy",
+        "authors": [
+          "Nicholas Z. Muller",
+          "Robert Mendelsohn",
+          "William Nordhaus"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1649–1675",
+        "doi": "10.1257/aer.101.5.1649",
+        "url": "https://doi.org/10.1257/aer.101.5.1649",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2122,6 +2192,45 @@
         "pages": "349–396",
         "doi": "10.1093/qje/qjy019",
         "url": "https://doi.org/10.1093/qje/qjy019",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.1.3",
+    "title": "美国统计摘要（Statistical Abstract of the United States）",
+    "links": [
+      {
+        "label": "普查局统计摘要系列",
+        "url": "https://www.census.gov/library/publications/time-series/statistical_abstracts.html"
+      }
+    ],
+    "summary": "美国普查局 1878–2012 年编制的年度统计汇编，汇集人口、经济、农业、能源等各领域官方统计表。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "普查数据",
+      "区域经济数据"
+    ],
+    "introduction": "《美国统计摘要》（Statistical Abstract of the United States）由美国普查局自 1878 年起逐年编制，汇集联邦机构和部分私人机构发布的约 1,400 张统计表，覆盖人口、生命统计、教育、劳动、收入、价格、农业、能源、交通、对外贸易等领域，并注明每张表的原始来源。普查局因预算原因在 2012 年版后停止编制，此后由 ProQuest 以商业方式续编。\n\n研究者常用它查找全国或州层面的历史汇总数据，或用来追溯原始数据来源；例如用其中的农场库存变动和现金收入表核对农业利润口径。表格多为汇总值，口径随年份调整，使用时应回到原始来源核对定义。",
+    "source": "普查局网站公开提供历年 PDF 和表格下载；2013 年后版本为 ProQuest 商业产品。",
+    "references": [
+      {
+        "raw": "The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather: Reply",
+        "title": "The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather: Reply",
+        "authors": [
+          "Olivier Deschênes",
+          "Michael Greenstone"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "7",
+        "pages": "3761–3773",
+        "doi": "10.1257/aer.102.7.3761",
+        "url": "https://doi.org/10.1257/aer.102.7.3761",
         "verified": true,
         "note": ""
       }
@@ -3255,6 +3364,23 @@
         "url": "https://doi.org/10.3982/ECTA9823",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "title": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "authors": [
+          "Gilles Duranton",
+          "Matthew A. Turner"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2616–2652",
+        "doi": "10.1257/aer.101.6.2616",
+        "url": "https://doi.org/10.1257/aer.101.6.2616",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3377,6 +3503,46 @@
         "pages": "1597–1644",
         "doi": "10.1093/qje/qjy005",
         "url": "https://doi.org/10.1093/qje/qjy005",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.3.13",
+    "title": "美国经济普查（Economic Census）",
+    "links": [
+      {
+        "label": "普查局经济普查",
+        "url": "https://www.census.gov/programs-surveys/economic-census.html"
+      }
+    ],
+    "summary": "美国普查局每五年开展的企业普查，覆盖除农业和政府外的大部分行业，提供行业和地区层面的产出、就业等统计。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "普查数据",
+      "微观企业数据"
+    ],
+    "introduction": "美国经济普查（Economic Census）由普查局在逢 2 和 7 结尾的年份开展，调查对象为美国境内有雇员的企业场所，覆盖制造业、批发零售、建筑、采矿、交通、公用事业、金融和服务业等行业（农业由农业普查覆盖，政府由政府普查覆盖），收集营业收入、产值、增加值、雇员、工资、资本支出和产品构成等信息，按 NAICS 行业和州、县、都市区等地理层级公布。\n\n公开表格常用于测算行业产出和地区产业结构，也被用于为污染损害核算等研究匹配行业增加值；企业和场所层面的微观数据需通过联邦统计研究数据中心（FSRDC）申请使用。制造业部分即制造业普查（见 2.3.1）。",
+    "source": "汇总表通过 data.census.gov 公开下载；微观数据需经 FSRDC 申请。",
+    "references": [
+      {
+        "raw": "Environmental Accounting for Pollution in the United States Economy",
+        "title": "Environmental Accounting for Pollution in the United States Economy",
+        "authors": [
+          "Nicholas Z. Muller",
+          "Robert Mendelsohn",
+          "William Nordhaus"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1649–1675",
+        "doi": "10.1257/aer.101.5.1649",
+        "url": "https://doi.org/10.1257/aer.101.5.1649",
         "verified": true,
         "note": ""
       }
@@ -3574,6 +3740,23 @@
         "pages": "2296–2327",
         "doi": "10.1257/aer.103.6.2296",
         "url": "https://doi.org/10.1257/aer.103.6.2296",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "title": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "authors": [
+          "Maximilian Auffhammer",
+          "Ryan Kellogg"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2687–2722",
+        "doi": "10.1257/aer.101.6.2687",
+        "url": "https://doi.org/10.1257/aer.101.6.2687",
         "verified": true,
         "note": ""
       }
@@ -3814,6 +3997,45 @@
         "pages": "1341–1403",
         "doi": "10.3982/ECTA9823",
         "url": "https://doi.org/10.3982/ECTA9823",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.7",
+    "title": "BEA 分行业 GDP 与增加值（GDP by Industry）",
+    "links": [
+      {
+        "label": "BEA GDP by Industry",
+        "url": "https://www.bea.gov/data/gdp/gdp-industry"
+      }
+    ],
+    "summary": "美国经济分析局发布的分行业增加值、总产出和中间投入年度及季度数据，按 NAICS 行业分类。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "美国经济分析局（BEA）的 GDP by Industry 账户提供按 NAICS 行业划分的增加值、总产出、中间投入、价格指数和实际量指数，年度数据回溯到 1947 年，季度数据从 2005 年起，与投入产出表（见 2.4.4）和国民收入与产品账户（NIPA）相衔接；BEA 区域账户还提供州层面的分行业 GDP。\n\n这些数据常用于计算行业规模和生产率，也被用作环境核算的分母，例如把各行业的空气污染损害与其增加值相比，计算\"总环境损害\"占行业增加值的比例。行业分类和基准年会定期修订，比较不同年份时应使用同一版本。",
+    "source": "BEA 网站和 iTable 交互工具公开提供下载，也可通过 BEA API 获取。",
+    "references": [
+      {
+        "raw": "Environmental Accounting for Pollution in the United States Economy",
+        "title": "Environmental Accounting for Pollution in the United States Economy",
+        "authors": [
+          "Nicholas Z. Muller",
+          "Robert Mendelsohn",
+          "William Nordhaus"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1649–1675",
+        "doi": "10.1257/aer.101.5.1649",
+        "url": "https://doi.org/10.1257/aer.101.5.1649",
         "verified": true,
         "note": ""
       }
@@ -4315,6 +4537,40 @@
         "url": "https://doi.org/10.1093/restud/rdv043",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather: Reply",
+        "title": "The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather: Reply",
+        "authors": [
+          "Olivier Deschênes",
+          "Michael Greenstone"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "7",
+        "pages": "3761–3773",
+        "doi": "10.1257/aer.102.7.3761",
+        "url": "https://doi.org/10.1257/aer.102.7.3761",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "title": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "authors": [
+          "Maximilian Auffhammer",
+          "Ryan Kellogg"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2687–2722",
+        "doi": "10.1257/aer.101.6.2687",
+        "url": "https://doi.org/10.1257/aer.101.6.2687",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4412,6 +4668,23 @@
         "pages": "678–709",
         "doi": "10.1257/aer.20121656",
         "url": "https://doi.org/10.1257/aer.20121656",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "title": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "authors": [
+          "Maximilian Auffhammer",
+          "Ryan Kellogg"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2687–2722",
+        "doi": "10.1257/aer.101.6.2687",
+        "url": "https://doi.org/10.1257/aer.101.6.2687",
         "verified": true,
         "note": ""
       }
@@ -5268,6 +5541,24 @@
         "pages": "3700–3729",
         "doi": "10.1257/aer.20150897",
         "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Accounting for Pollution in the United States Economy",
+        "title": "Environmental Accounting for Pollution in the United States Economy",
+        "authors": [
+          "Nicholas Z. Muller",
+          "Robert Mendelsohn",
+          "William Nordhaus"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1649–1675",
+        "doi": "10.1257/aer.101.5.1649",
+        "url": "https://doi.org/10.1257/aer.101.5.1649",
         "verified": true,
         "note": ""
       }
@@ -6420,6 +6711,103 @@
         "url": "https://doi.org/10.1093/restud/rdv043",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Pollution on Worker Productivity",
+        "title": "The Impact of Pollution on Worker Productivity",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Matthew Neidell"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "7",
+        "pages": "3652–3673",
+        "doi": "10.1257/aer.102.7.3652",
+        "url": "https://doi.org/10.1257/aer.102.7.3652",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.39",
+    "title": "加州设施级常规污染物排放清单（CARB CEIDARS）",
+    "links": [
+      {
+        "label": "CARB 设施搜索工具",
+        "url": "https://ww2.arb.ca.gov/applications/facility-search-engine"
+      }
+    ],
+    "summary": "加州空气资源委员会汇总各空气区上报的固定源设施年度 NOx、SOx、PM 等常规污染物排放数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "微观企业数据"
+    ],
+    "introduction": "加州空气资源委员会（CARB）通过加州排放清单开发与报告系统（CEIDARS）汇总全州 35 个空气质量管理区上报的固定源排放，记录每个设施的地址、行业代码和 NOx、SOx、ROG、CO、PM10、PM2.5 等常规污染物的年度排放量，也包括有毒空气污染物排放；CARB 的设施搜索工具（Facility Search Tool）可按设施查询历年排放。\n\n数据常用于研究排放交易和区域监管对排放的影响，例如把南海岸 RECLAIM 计划参与设施与加州其他地区的类似设施相比较，并结合普查人口特征分析排放变化的分配效应。各空气区的上报方法和门槛不同，早期年份的设施覆盖范围不完全一致。",
+    "source": "CARB 网站提供设施排放的在线查询与下载；历史面板可能需向 CARB 索取。",
+    "references": [
+      {
+        "raw": "What Do Emissions Markets Deliver and to Whom? Evidence from Southern California's NOx Trading Program",
+        "title": "What Do Emissions Markets Deliver and to Whom? Evidence from Southern California's NOx Trading Program",
+        "authors": [
+          "Meredith Fowlie",
+          "Stephen P. Holland",
+          "Erin T. Mansur"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "2",
+        "pages": "965–993",
+        "doi": "10.1257/aer.102.2.965",
+        "url": "https://doi.org/10.1257/aer.102.2.965",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.40",
+    "title": "南海岸 RECLAIM 排放交易计划设施数据",
+    "links": [
+      {
+        "label": "SCAQMD RECLAIM",
+        "url": "https://www.aqmd.gov/home/programs/business/about-reclaim"
+      }
+    ],
+    "summary": "南海岸空气质量管理区 1994 年起实施的 NOx/SOx 排放交易计划，记录参与设施的配额（RTC）分配与排放。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "政治数据"
+    ],
+    "introduction": "RECLAIM（REgional CLean Air Incentives Market）是南海岸空气质量管理区（SCAQMD）于 1994 年启动的区域排放交易计划，覆盖洛杉矶地区年排放 NOx 或 SOx 超过 4 吨的固定源设施（启动时约 392 家），为每个设施发放逐年递减的 RECLAIM 交易信用（RTC），设施须按季度报告排放并持有足够配额，未用配额可以交易。SCAQMD 发布参与设施清单、配额持有、年度排放和交易价格等年度报告；该计划已在逐步向传统命令控制式监管过渡。\n\n数据常用于评估排放交易的减排效果，以及排放下降在不同收入和种族社区之间的分布。设施层面的季度排放和配额数据部分需通过公共记录申请获取。",
+    "source": "SCAQMD 网站发布计划说明和年度报告；设施级明细可通过公共记录申请获取。",
+    "references": [
+      {
+        "raw": "What Do Emissions Markets Deliver and to Whom? Evidence from Southern California's NOx Trading Program",
+        "title": "What Do Emissions Markets Deliver and to Whom? Evidence from Southern California's NOx Trading Program",
+        "authors": [
+          "Meredith Fowlie",
+          "Stephen P. Holland",
+          "Erin T. Mansur"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "2",
+        "pages": "965–993",
+        "doi": "10.1257/aer.102.2.965",
+        "url": "https://doi.org/10.1257/aer.102.2.965",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7044,6 +7432,42 @@
         "url": "https://doi.org/10.1257/aer.20130935",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "title": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "authors": [
+          "Gilles Duranton",
+          "Matthew A. Turner"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2616–2652",
+        "doi": "10.1257/aer.101.6.2616",
+        "url": "https://doi.org/10.1257/aer.101.6.2616",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distributional and Efficiency Impacts of Increased US Gasoline Taxes",
+        "title": "Distributional and Efficiency Impacts of Increased US Gasoline Taxes",
+        "authors": [
+          "Antonio M. Bento",
+          "Lawrence H. Goulder",
+          "Mark R. Jacobsen",
+          "Roger H. von Haefen"
+        ],
+        "year": 2009,
+        "journal": "American Economic Review",
+        "volume": "99",
+        "issue": "3",
+        "pages": "667–699",
+        "doi": "10.1257/aer.99.3.667",
+        "url": "https://doi.org/10.1257/aer.99.3.667",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7198,6 +7622,82 @@
         "pages": "2763–2796",
         "doi": "10.1257/aer.104.9.2763",
         "url": "https://doi.org/10.1257/aer.104.9.2763",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.10",
+    "title": "公路性能监测系统（HPMS）",
+    "links": [
+      {
+        "label": "FHWA HPMS",
+        "url": "https://www.fhwa.dot.gov/policyinformation/hpms.cfm"
+      }
+    ],
+    "summary": "联邦公路管理局要求各州上报的公路路段数据，包括道路等级、车道数、年均日交通量（AADT）等。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "公路性能监测系统（Highway Performance Monitoring System，HPMS）由美国联邦公路管理局（FHWA）自 1978 年起运行，各州每年上报公共道路的路段信息：全体（Universe）数据覆盖所有联邦资助道路的长度、功能等级、车道数和所在县与城区，抽样（Sample）数据对部分路段额外记录年均日交通量（AADT）、路面状况和通行能力等。FHWA 据此发布《公路统计》（Highway Statistics）。\n\n数据常用于测量城市道路存量和车辆行驶里程（VMT），是\"道路拥堵基本定律\"一类研究中计算州际公路车道公里数和交通量的核心来源。各年份的上报要求和抽样设计有调整，早期年份文件的可得性需向 FHWA 确认。",
+    "source": "FHWA 政策信息办公室网站提供数据、字段手册和地理空间文件下载。",
+    "references": [
+      {
+        "raw": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "title": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "authors": [
+          "Gilles Duranton",
+          "Matthew A. Turner"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2616–2652",
+        "doi": "10.1257/aer.101.6.2616",
+        "url": "https://doi.org/10.1257/aer.101.6.2616",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.11",
+    "title": "国家公交数据库（National Transit Database，NTD）",
+    "links": [
+      {
+        "label": "FTA 国家公交数据库",
+        "url": "https://www.transit.dot.gov/ntd"
+      }
+    ],
+    "summary": "联邦公交管理局收集的全美公交机构运营、服务、车队、财务和安全数据，前身为 Section 15 报告。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "国家公交数据库（NTD）由美国联邦公交管理局（FTA）维护，接受联邦公交资助的机构每年须上报服务区域、车辆营运里程和小时、客运量、车队规模、运营与资本支出和安全事件等信息，部分指标按月公布。其前身是 1970 年代起依据《城市公共交通法》第 15 条建立的 Section 15 报告系统，电子化数据从 1980 年代中期开始。\n\n数据常用于测量各城市公交服务供给，研究公交扩张对道路拥堵和出行行为的影响，以及公交补贴与运营效率。机构层面的服务区域与都市区并不完全对应，合并到城市层面时需要自行匹配。",
+    "source": "FTA 网站公开提供年度和月度数据下载。",
+    "references": [
+      {
+        "raw": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "title": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "authors": [
+          "Gilles Duranton",
+          "Matthew A. Turner"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2616–2652",
+        "doi": "10.1257/aer.101.6.2616",
+        "url": "https://doi.org/10.1257/aer.101.6.2616",
         "verified": true,
         "note": ""
       }
@@ -7682,6 +8182,44 @@
     ]
   },
   {
+    "id": "2.9.11",
+    "title": "美国大选数据 1950–1990（ICPSR 13）",
+    "links": [
+      {
+        "label": "ICPSR 研究 13",
+        "url": "https://www.icpsr.umich.edu/web/ICPSR/studies/13"
+      }
+    ],
+    "summary": "ICPSR 整理的 1950–1990 年美国县级总统、参议院、众议院和州长选举得票数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "美国大选数据 1950–1990（General Election Data for the United States, 1950–1990，ICPSR 研究编号 13）由校际政治与社会研究联盟（ICPSR）整理，记录各县在总统、联邦参议员、联邦众议员和州长选举中各党候选人的得票数，是 ICPSR 历史选举数据系列的一部分。\n\n数据常用于构造县级或都市区的历史政治倾向变量，例如以 1972 年总统选举共和党得票率作为地方政治偏好的控制变量。县界和选区边界随时间变化，早期年份存在缺失和口径问题。",
+    "source": "通过 ICPSR 下载，部分文件需机构会员或注册。",
+    "references": [
+      {
+        "raw": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "title": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "authors": [
+          "Gilles Duranton",
+          "Matthew A. Turner"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2616–2652",
+        "doi": "10.1257/aer.101.6.2616",
+        "url": "https://doi.org/10.1257/aer.101.6.2616",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.10.1",
     "title": "ZTRAX 房产交易数据",
     "links": [
@@ -7977,6 +8515,45 @@
     ]
   },
   {
+    "id": "2.10.8",
+    "title": "美国城市蔓延数据（Burchfield 等）",
+    "links": [
+      {
+        "label": "Urban Sprawl Data",
+        "url": "https://diegopuga.org/data/sprawl/"
+      }
+    ],
+    "summary": "Burchfield、Overman、Puga 与 Turner（2006）构建的美国城市蔓延指数及都市区地形、气候和含水层等地理变量。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "美国城市蔓延数据由 Burchfield、Overman、Puga 和 Turner（2006，QJE）基于 1976 年和 1992 年 30 米分辨率土地覆盖数据构建，计算每个城市开发区周围未开发土地的比例作为蔓延指数，并为都市区整理了地形崎岖度、海拔范围、含水层覆盖、采暖和制冷度日、降水、早期公路与铁路等地理和气候变量，在 Diego Puga 的网站公开发布。\n\n这些变量常被用作城市经济研究中的地理控制变量或工具变量，例如在道路与拥堵研究中控制都市区的气候和地形条件。数据为截面，土地覆盖基于 1992 年前后的影像。",
+    "source": "作者网站公开提供下载。",
+    "references": [
+      {
+        "raw": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "title": "The Fundamental Law of Road Congestion: Evidence from US Cities",
+        "authors": [
+          "Gilles Duranton",
+          "Matthew A. Turner"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2616–2652",
+        "doi": "10.1257/aer.101.6.2616",
+        "url": "https://doi.org/10.1257/aer.101.6.2616",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.11.1",
     "title": "WRDS 数据库",
     "links": [
@@ -8068,6 +8645,22 @@
         "pages": "1356–1372",
         "doi": "10.1257/aer.20200679",
         "url": "https://doi.org/10.1257/aer.20200679",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement",
+        "title": "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement",
+        "authors": [
+          "Meredith Fowlie"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "3",
+        "pages": "837–869",
+        "doi": "10.1257/aer.100.3.837",
+        "url": "https://doi.org/10.1257/aer.100.3.837",
         "verified": true,
         "note": ""
       }
@@ -8446,6 +9039,44 @@
     ]
   },
   {
+    "id": "2.11.11",
+    "title": "美联储消费信贷统计（G.19 Consumer Credit）",
+    "links": [
+      {
+        "label": "美联储 G.19",
+        "url": "https://www.federalreserve.gov/releases/g19/"
+      }
+    ],
+    "summary": "美联储每月发布的消费信贷余额与条款数据，包括商业银行新车贷款利率、汽车贷款期限等。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "美联储理事会的 G.19 消费信贷统计每月发布美国家庭消费信贷余额，分为循环信贷（主要是信用卡）和非循环信贷（汽车贷款、学生贷款等），并按持有机构划分；\"信贷条款\"部分报告商业银行 48 个月和 60 个月新车贷款利率、个人贷款利率、信用卡利率，以及汽车金融公司新车贷款的平均期限、首付比例和贷款金额。\n\n数据常用于研究汽车需求和耐用品消费对融资成本的反应，例如在估计汽车需求时以新车贷款利率作为融资成本变量。部分信贷条款系列已停止更新或口径调整，长序列需注意断点。",
+    "source": "美联储网站和 FRED 公开提供下载。",
+    "references": [
+      {
+        "raw": "Using Loopholes to Reveal the Marginal Cost of Regulation: The Case of Fuel-Economy Standards",
+        "title": "Using Loopholes to Reveal the Marginal Cost of Regulation: The Case of Fuel-Economy Standards",
+        "authors": [
+          "Soren T. Anderson",
+          "James M. Sallee"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "4",
+        "pages": "1375–1409",
+        "doi": "10.1257/aer.101.4.1375",
+        "url": "https://doi.org/10.1257/aer.101.4.1375",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.12.1",
     "title": "Nielsen 零售扫描数据",
     "links": [
@@ -8519,6 +9150,25 @@
         "url": "https://doi.org/10.1257/aer.20130935",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Distributional and Efficiency Impacts of Increased US Gasoline Taxes",
+        "title": "Distributional and Efficiency Impacts of Increased US Gasoline Taxes",
+        "authors": [
+          "Antonio M. Bento",
+          "Lawrence H. Goulder",
+          "Mark R. Jacobsen",
+          "Roger H. von Haefen"
+        ],
+        "year": 2009,
+        "journal": "American Economic Review",
+        "volume": "99",
+        "issue": "3",
+        "pages": "667–699",
+        "doi": "10.1257/aer.99.3.667",
+        "url": "https://doi.org/10.1257/aer.99.3.667",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8570,6 +9220,25 @@
         "pages": "535–571",
         "doi": "10.1093/restud/rdt035",
         "url": "https://doi.org/10.1093/restud/rdt035",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distributional and Efficiency Impacts of Increased US Gasoline Taxes",
+        "title": "Distributional and Efficiency Impacts of Increased US Gasoline Taxes",
+        "authors": [
+          "Antonio M. Bento",
+          "Lawrence H. Goulder",
+          "Mark R. Jacobsen",
+          "Roger H. von Haefen"
+        ],
+        "year": 2009,
+        "journal": "American Economic Review",
+        "volume": "99",
+        "issue": "3",
+        "pages": "667–699",
+        "doi": "10.1257/aer.99.3.667",
+        "url": "https://doi.org/10.1257/aer.99.3.667",
         "verified": true,
         "note": ""
       }
@@ -8667,6 +9336,46 @@
     ]
   },
   {
+    "id": "2.12.6",
+    "title": "comScore 网络行为面板（Web-Behavior Panel）",
+    "links": [
+      {
+        "label": "comScore",
+        "url": "https://www.comscore.com"
+      }
+    ],
+    "summary": "comScore 对数万名美国网民的全部浏览和在线交易进行被动记录的商业面板，可用于研究在线搜索和购物。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "微观调查数据"
+    ],
+    "introduction": "comScore 网络行为面板通过安装在受访者电脑上的监测软件，被动记录面板成员（每年约 5–10 万户美国家庭）访问的每个网站、访问时长和在线交易明细（商品、价格、零售商），并附带家庭人口特征。学术界常通过 WRDS 获取其中的消费者购买与浏览子样本，覆盖 2002 年起的多个年份。\n\n数据常用于研究消费者在线搜索行为、比价与零售商选择，例如检验消费者是按固定样本搜索还是按顺序搜索；也用于研究在线零售竞争和广告。面板成员通过激励招募，样本代表性需要加权；不同年份的抽样和记录口径有变化。",
+    "source": "商业数据，需购买 comScore 许可，部分学术子样本可通过 WRDS 订阅获取。",
+    "references": [
+      {
+        "raw": "Testing Models of Consumer Search Using Data on Web Browsing and Purchasing Behavior",
+        "title": "Testing Models of Consumer Search Using Data on Web Browsing and Purchasing Behavior",
+        "authors": [
+          "Babur De los Santos",
+          "Ali Hortaçsu",
+          "Matthijs R. Wildenbeest"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "6",
+        "pages": "2955–2980",
+        "doi": "10.1257/aer.102.6.2955",
+        "url": "https://doi.org/10.1257/aer.102.6.2955",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.13",
     "title": "农业数据",
     "links": [
@@ -8707,6 +9416,40 @@
         "pages": "637–701",
         "doi": "10.1093/qje/qjac039",
         "url": "https://doi.org/10.1093/qje/qjac039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "title": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "authors": [
+          "Michael J. Roberts",
+          "Wolfram Schlenker"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2265–2295",
+        "doi": "10.1257/aer.103.6.2265",
+        "url": "https://doi.org/10.1257/aer.103.6.2265",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather: Reply",
+        "title": "The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather: Reply",
+        "authors": [
+          "Olivier Deschênes",
+          "Michael Greenstone"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "7",
+        "pages": "3761–3773",
+        "doi": "10.1257/aer.102.7.3761",
+        "url": "https://doi.org/10.1257/aer.102.7.3761",
         "verified": true,
         "note": ""
       }
@@ -8981,6 +9724,46 @@
     ]
   },
   {
+    "id": "2.13.8",
+    "title": "芝加哥期货交易所（CBOT）农产品期货价格",
+    "links": [
+      {
+        "label": "CME DataMine",
+        "url": "https://www.cmegroup.com/market-data/datamine-historical-data.html"
+      }
+    ],
+    "summary": "CBOT（现属 CME 集团）玉米、大豆、小麦等农产品期货合约的逐日价格和成交量，是全球农产品定价基准。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "农业数据",
+      "金融数据"
+    ],
+    "introduction": "芝加哥期货交易所（Chicago Board of Trade，CBOT）成立于 1848 年，2007 年并入 CME 集团，其玉米、大豆、小麦、豆粕、豆油和燕麦等期货合约是全球谷物和油籽的主要定价基准。CME 集团通过 DataMine 提供历史逐笔、日度结算价、成交量和持仓量数据，Bloomberg（见 2.11.5）等数据商也提供长期序列。\n\n期货价格常用于研究农产品供需弹性、价格预期和气候冲击的市场反应，例如用收获前的期货价格作为农民种植决策时的预期价格。不同交割月合约需要换月拼接，长期序列的构造方式会影响结果。",
+    "source": "CME DataMine 等商业渠道付费获取。",
+    "references": [
+      {
+        "raw": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "title": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "authors": [
+          "Michael J. Roberts",
+          "Wolfram Schlenker"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2265–2295",
+        "doi": "10.1257/aer.103.6.2265",
+        "url": "https://doi.org/10.1257/aer.103.6.2265",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.14",
     "title": "贸易数据",
     "links": [
@@ -9212,6 +9995,40 @@
         "url": "https://doi.org/10.1257/aer.20150897",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Accounting for Pollution in the United States Economy",
+        "title": "Environmental Accounting for Pollution in the United States Economy",
+        "authors": [
+          "Nicholas Z. Muller",
+          "Robert Mendelsohn",
+          "William Nordhaus"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1649–1675",
+        "doi": "10.1257/aer.101.5.1649",
+        "url": "https://doi.org/10.1257/aer.101.5.1649",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement",
+        "title": "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement",
+        "authors": [
+          "Meredith Fowlie"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "3",
+        "pages": "837–869",
+        "doi": "10.1257/aer.100.3.837",
+        "url": "https://doi.org/10.1257/aer.100.3.837",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9424,6 +10241,22 @@
         "pages": "3700–3729",
         "doi": "10.1257/aer.20150897",
         "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement",
+        "title": "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement",
+        "authors": [
+          "Meredith Fowlie"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "3",
+        "pages": "837–869",
+        "doi": "10.1257/aer.100.3.837",
+        "url": "https://doi.org/10.1257/aer.100.3.837",
         "verified": true,
         "note": ""
       }
@@ -10028,6 +10861,25 @@
         "url": "https://doi.org/10.1257/aer.20130935",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Distributional and Efficiency Impacts of Increased US Gasoline Taxes",
+        "title": "Distributional and Efficiency Impacts of Increased US Gasoline Taxes",
+        "authors": [
+          "Antonio M. Bento",
+          "Lawrence H. Goulder",
+          "Mark R. Jacobsen",
+          "Roger H. von Haefen"
+        ],
+        "year": 2009,
+        "journal": "American Economic Review",
+        "volume": "99",
+        "issue": "3",
+        "pages": "667–699",
+        "doi": "10.1257/aer.99.3.667",
+        "url": "https://doi.org/10.1257/aer.99.3.667",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10066,6 +10918,23 @@
         "pages": "1907–1976",
         "doi": "10.1093/qje/qjad016",
         "url": "https://doi.org/10.1093/qje/qjad016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Allocative Cost of Price Ceilings in the U.S. Residential Market for Natural Gas",
+        "title": "The Allocative Cost of Price Ceilings in the U.S. Residential Market for Natural Gas",
+        "authors": [
+          "Lucas W. Davis",
+          "Lutz Kilian"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "2",
+        "pages": "212–241",
+        "doi": "10.1086/660124",
+        "url": "https://doi.org/10.1086/660124",
         "verified": true,
         "note": ""
       }
@@ -10202,6 +11071,23 @@
         "pages": "984–1026",
         "doi": "10.1086/697203",
         "url": "https://doi.org/10.1086/697203",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "title": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "authors": [
+          "Maximilian Auffhammer",
+          "Ryan Kellogg"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2687–2722",
+        "doi": "10.1257/aer.101.6.2687",
+        "url": "https://doi.org/10.1257/aer.101.6.2687",
         "verified": true,
         "note": ""
       }
@@ -10472,6 +11358,22 @@
         "url": "https://doi.org/10.1257/aer.104.6.1698",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Learning by Drilling: Interfirm Learning and Relationship Persistence in the Texas Oilpatch",
+        "title": "Learning by Drilling: Interfirm Learning and Relationship Persistence in the Texas Oilpatch",
+        "authors": [
+          "Ryan Kellogg"
+        ],
+        "year": 2011,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "126",
+        "issue": "4",
+        "pages": "1961–2004",
+        "doi": "10.1093/qje/qjr039",
+        "url": "https://doi.org/10.1093/qje/qjr039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10730,6 +11632,220 @@
         "pages": "3700–3729",
         "doi": "10.1257/aer.20150897",
         "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.28",
+    "title": "美国可再生燃料协会（RFA）乙醇产业统计",
+    "links": [
+      {
+        "label": "RFA 年度乙醇产量",
+        "url": "https://ethanolrfa.org/markets-and-statistics/annual-ethanol-production"
+      }
+    ],
+    "summary": "美国可再生燃料协会发布的燃料乙醇年度产量、产能、工厂名录和贸易统计，回溯到 1980 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "农业数据"
+    ],
+    "introduction": "美国可再生燃料协会（Renewable Fuels Association，RFA）是燃料乙醇行业协会，在网站发布美国燃料乙醇年度产量（1980 年起）、在建和运营工厂名录与产能、乙醇进出口、玉米用于乙醇的数量和副产品（干酒糟）等统计，并发布年度《行业展望》（Ethanol Industry Outlook）报告。产量数据与 EIA 的统计基本一致。\n\n数据常用于研究生物燃料政策对玉米需求和农产品价格的影响，例如把乙醇用玉米量作为需求冲击来识别农产品供需弹性。工厂名录和产能来自协会调查，各年口径可能不同。",
+    "source": "RFA 网站公开提供统计表和报告。",
+    "references": [
+      {
+        "raw": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "title": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "authors": [
+          "Michael J. Roberts",
+          "Wolfram Schlenker"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2265–2295",
+        "doi": "10.1257/aer.103.6.2265",
+        "url": "https://doi.org/10.1257/aer.103.6.2265",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.29",
+    "title": "NHTSA 企业平均燃油经济性（CAFE）合规数据",
+    "links": [
+      {
+        "label": "NHTSA CAFE",
+        "url": "https://www.nhtsa.gov/laws-regulations/corporate-average-fuel-economy"
+      }
+    ],
+    "summary": "美国国家公路交通安全管理局公布的各车企分车型燃油经济性、产量和 CAFE 合规情况，1978 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "交通数据"
+    ],
+    "introduction": "企业平均燃油经济性（Corporate Average Fuel Economy，CAFE）标准自 1978 车型年起实施，由美国国家公路交通安全管理局（NHTSA）执行。NHTSA 的 CAFE 公共信息中心发布各车企按车型年的平均燃油经济性、标准值、超额或不足以及罚款与积分，车企提交的分车型燃油经济性与产量数据也用于合规计算；双燃料（如 E85 灵活燃料）车辆在合规计算中享有额外积分。\n\n数据常用于研究燃油经济性标准的约束程度和合规成本，例如利用灵活燃料车辆积分这一漏洞推算 CAFE 的边际合规成本。分车型的历史合规文件并非全部公开，可能需要向 NHTSA 索取。",
+    "source": "NHTSA 网站和 CAFE 公共信息中心提供汇总数据；分车型明细可能需向机构申请。",
+    "references": [
+      {
+        "raw": "Using Loopholes to Reveal the Marginal Cost of Regulation: The Case of Fuel-Economy Standards",
+        "title": "Using Loopholes to Reveal the Marginal Cost of Regulation: The Case of Fuel-Economy Standards",
+        "authors": [
+          "Soren T. Anderson",
+          "James M. Sallee"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "4",
+        "pages": "1375–1409",
+        "doi": "10.1257/aer.101.4.1375",
+        "url": "https://doi.org/10.1257/aer.101.4.1375",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.30",
+    "title": "AFDC 替代燃料加注站数据库",
+    "links": [
+      {
+        "label": "AFDC 加注站定位器",
+        "url": "https://afdc.energy.gov/stations/"
+      },
+      {
+        "label": "AFDC 数据下载",
+        "url": "https://afdc.energy.gov/data_download"
+      }
+    ],
+    "summary": "美国能源部替代燃料数据中心维护的全美 E85、充电、氢、天然气等替代燃料加注站位置与开通日期数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "交通数据"
+    ],
+    "introduction": "美国能源部替代燃料数据中心（AFDC）的加注站定位器（Station Locator）收录全美公共和私人替代燃料加注站，包括 E85 乙醇、电动汽车充电、生物柴油、压缩和液化天然气、氢和丙烷站点，记录地址、经纬度、燃料类型、开放时间、充电接口和开通日期，由美国国家可再生能源实验室（NREL）定期更新，并通过 AFDC 数据下载页面和 NREL API 提供批量数据。\n\n数据常用于研究替代燃料基础设施对车辆购买的影响，例如用 E85 加注站数量衡量灵活燃料车实际使用 E85 的可能性。历史站点数量需按开通日期重构，已关闭站点可能未完整保留。",
+    "source": "AFDC 网站公开提供在线查询、批量下载和 API。",
+    "references": [
+      {
+        "raw": "Using Loopholes to Reveal the Marginal Cost of Regulation: The Case of Fuel-Economy Standards",
+        "title": "Using Loopholes to Reveal the Marginal Cost of Regulation: The Case of Fuel-Economy Standards",
+        "authors": [
+          "Soren T. Anderson",
+          "James M. Sallee"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "4",
+        "pages": "1375–1409",
+        "doi": "10.1257/aer.101.4.1375",
+        "url": "https://doi.org/10.1257/aer.101.4.1375",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.31",
+    "title": "EIA 月度/年度能源评论（Total Energy）",
+    "links": [
+      {
+        "label": "EIA 月度能源评论",
+        "url": "https://www.eia.gov/totalenergy/data/monthly/"
+      },
+      {
+        "label": "EIA Total Energy 年度数据",
+        "url": "https://www.eia.gov/totalenergy/data/annual/"
+      }
+    ],
+    "summary": "EIA 发布的美国能源生产、消费、价格和排放综合统计，月度能源评论回溯到 1973 年，年度序列回溯到 1949 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "美国能源信息署（EIA）的《月度能源评论》（Monthly Energy Review，MER）汇总美国各类能源的生产、消费（按部门）、进出口、库存、价格和能源相关二氧化碳排放，月度数据从 1973 年起，年度数据从 1949 年起；《年度能源评论》（Annual Energy Review，AER）在 2012 年版后停止，其长期年度序列并入 MER 和 Total Energy 数据浏览器。\n\n数据常用于构建全国层面的长期能源消费和价格序列，例如研究居民天然气消费在价格管制时期的变化。各能源的热值换算和部门划分有统一口径，但部分早期年份为估算值。",
+    "source": "EIA 网站公开提供表格、数据浏览器和 API。",
+    "references": [
+      {
+        "raw": "The Allocative Cost of Price Ceilings in the U.S. Residential Market for Natural Gas",
+        "title": "The Allocative Cost of Price Ceilings in the U.S. Residential Market for Natural Gas",
+        "authors": [
+          "Lucas W. Davis",
+          "Lutz Kilian"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "2",
+        "pages": "212–241",
+        "doi": "10.1086/660124",
+        "url": "https://doi.org/10.1086/660124",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.32",
+    "title": "Platts 电厂与机组数据库（UDI、BaseCase）",
+    "links": [],
+    "summary": "S&P Global Platts 的电厂机组商业数据库，记录机组特征、所有权、燃料和污染控制设备，含 CEMS 汇总数据。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "能源数据",
+      "环境数据"
+    ],
+    "introduction": "Platts（现属 S&P Global Commodity Insights）提供多个电力行业商业数据库：UDI 世界电厂数据库（World Electric Power Plants Database）记录全球电厂机组的容量、燃料、技术、所有者和投运年份；BaseCase 等产品整合了 EPA 连续排放监测系统（CEMS，见 2.6.18）和 EIA 申报数据，提供机组层面的排放、热耗率和污染控制设备（如 SCR、SNCR、低氮燃烧器）安装信息。\n\n数据常用于研究电厂对排放法规的技术响应，例如 NOx 预算计划下燃煤机组的减排设备选择，以及电力市场重组对环保投资的影响。数据需付费订阅，产品名称和版本随公司并购多次变更。",
+    "source": "商业数据，需向 S&P Global 购买订阅。",
+    "references": [
+      {
+        "raw": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "title": "Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality",
+        "authors": [
+          "Maximilian Auffhammer",
+          "Ryan Kellogg"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "6",
+        "pages": "2687–2722",
+        "doi": "10.1257/aer.101.6.2687",
+        "url": "https://doi.org/10.1257/aer.101.6.2687",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement",
+        "title": "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement",
+        "authors": [
+          "Meredith Fowlie"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "3",
+        "pages": "837–869",
+        "doi": "10.1257/aer.100.3.837",
+        "url": "https://doi.org/10.1257/aer.100.3.837",
         "verified": true,
         "note": ""
       }
@@ -12173,6 +13289,45 @@
     ]
   },
   {
+    "id": "3.3.4",
+    "title": "塞拉利昂人口与住房普查",
+    "links": [
+      {
+        "label": "塞拉利昂统计局",
+        "url": "https://www.statistics.sl"
+      }
+    ],
+    "summary": "塞拉利昂统计局组织的全国人口与住房普查，2004 年和 2015 年各开展一次，提供村庄和家户层面人口信息。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "塞拉利昂人口与住房普查由塞拉利昂统计局（Statistics Sierra Leone）组织，内战结束后于 2004 年开展，2015 年进行了下一轮普查（2021 年另有中期普查）。普查记录家户成员的年龄、性别、教育、就业、住房条件和设施，并按省、区、酋长领地（chiefdom）和村庄汇总。\n\n普查常被用作抽样框和基准人口数据，例如在社区主导发展项目的随机实验中，按普查的村庄名单和人口规模抽取样本村。普查微观数据通常需向统计局申请，公开发布的多为汇总报告。",
+    "source": "统计局网站发布普查报告；微观数据需向统计局申请。",
+    "references": [
+      {
+        "raw": "Reshaping Institutions: Evidence on Aid Impacts Using a Preanalysis Plan",
+        "title": "Reshaping Institutions: Evidence on Aid Impacts Using a Preanalysis Plan",
+        "authors": [
+          "Katherine Casey",
+          "Rachel Glennerster",
+          "Edward Miguel"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "4",
+        "pages": "1755–1812",
+        "doi": "10.1093/qje/qje027",
+        "url": "https://doi.org/10.1093/qje/qje027",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.4.1",
     "title": "西班牙国家气象局（AEMET）气候数据",
     "links": [
@@ -12391,6 +13546,90 @@
         "pages": "1366–1401",
         "doi": "10.1257/aer.20131455",
         "url": "https://doi.org/10.1257/aer.20131455",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.5.4",
+    "title": "印尼林业特许经营统计（Statistik Perusahaan Hak Pengusahaan Hutan）",
+    "links": [
+      {
+        "label": "印尼中央统计局",
+        "url": "https://www.bps.go.id/"
+      }
+    ],
+    "summary": "印尼中央统计局发布的森林特许经营企业年度统计，记录各省官方上报的原木采伐量等。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "环境数据",
+      "区域经济数据"
+    ],
+    "introduction": "印尼中央统计局（BPS）的《森林特许经营企业统计》（Statistik Perusahaan Hak Pengusahaan Hutan）逐年发布持有天然林采伐特许权（HPH）企业的数量、特许面积、原木产量、出口和就业等，按省份汇总，覆盖 1990 年代以来的年份。印尼林业部也发布相关林业统计年鉴。\n\n数据常用于把官方上报的合法采伐量与卫星观测的森林损失相比较，研究地方分权、行政区拆分和选举周期对毁林的影响。官方统计不包括非法采伐，部分年份只有省级汇总。",
+    "source": "以 BPS 出版物形式发布，部分年份可在 BPS 网站下载。",
+    "references": [
+      {
+        "raw": "The Political Economy of Deforestation in the Tropics",
+        "title": "The Political Economy of Deforestation in the Tropics",
+        "authors": [
+          "Robin Burgess",
+          "Matthew Hansen",
+          "Benjamin A. Olken",
+          "Peter Potapov",
+          "Stefanie Sieber"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "4",
+        "pages": "1707–1754",
+        "doi": "10.1093/qje/qjs034",
+        "url": "https://doi.org/10.1093/qje/qjs034",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.5.5",
+    "title": "印尼县级财政平衡与资源分成数据（DJPK）",
+    "links": [
+      {
+        "label": "印尼财政部 DJPK",
+        "url": "https://djpk.kemenkeu.go.id/"
+      }
+    ],
+    "summary": "印尼财政部财政平衡总局发布的县级油气等自然资源收入分成、一般转移支付和地方预算数据。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "能源数据"
+    ],
+    "introduction": "印尼财政部财政平衡总局（Direktorat Jenderal Perimbangan Keuangan，DJPK）负责中央对地方的财政转移，网站发布各省和县（kabupaten/kota）的地方预算（APBD）、一般转移支付（DAU）、专项转移（DAK）以及石油、天然气、矿业和林业等自然资源收入分成（DBH）数据，覆盖 2001 年分权改革以来的年份。\n\n数据常用于研究自然资源收入对地方政府行为的影响，例如检验油气分成收入是否改变地方对森林采伐的依赖，以及地方财政与行政区拆分的关系。早期年份的数据格式不统一，部分为 PDF 或 Excel 表格。",
+    "source": "DJPK 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "The Political Economy of Deforestation in the Tropics",
+        "title": "The Political Economy of Deforestation in the Tropics",
+        "authors": [
+          "Robin Burgess",
+          "Matthew Hansen",
+          "Benjamin A. Olken",
+          "Peter Potapov",
+          "Stefanie Sieber"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "4",
+        "pages": "1707–1754",
+        "doi": "10.1093/qje/qjs034",
+        "url": "https://doi.org/10.1093/qje/qjs034",
         "verified": true,
         "note": ""
       }
@@ -12799,6 +14038,152 @@
         "pages": "1366–1401",
         "doi": "10.1257/aer.20131455",
         "url": "https://doi.org/10.1257/aer.20131455",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.9.1",
+    "title": "Kent Group 加拿大加油站销量与价格调查",
+    "links": [],
+    "summary": "Kent Group（现属 Kalibrate）对加拿大零售加油站的站点级销量、价格和站点特征调查数据。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "商业数据",
+      "能源数据"
+    ],
+    "introduction": "Kent Group 是加拿大石油市场信息公司，长期开展加油站实地调查（Petroleum Volume Data Survey），记录各城市每个零售加油站的汽油销量、价格、品牌、便利店和洗车等配套设施，并发布加拿大城市层面的零售和批发（rack）汽油价格周度数据（部分系列源自 MJ Ervin & Associates 的价格调查）。Kent Group 于 2019 年前后被加油站分析公司 Kalibrate 收购。\n\n数据常用于研究零售汽油市场的空间竞争、纵向整合和并购效应，例如估计魁北克市加油站的空间差异化需求模型。数据需购买，调查频率和覆盖城市因年份而异。",
+    "source": "商业数据，需向 Kalibrate（原 Kent Group）购买。",
+    "references": [
+      {
+        "raw": "Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline",
+        "title": "Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline",
+        "authors": [
+          "Jean-François Houde"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2147–2182",
+        "doi": "10.1257/aer.102.5.2147",
+        "url": "https://doi.org/10.1257/aer.102.5.2147",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.9.2",
+    "title": "加拿大人口普查（Census of Population）",
+    "links": [
+      {
+        "label": "加拿大统计局人口普查",
+        "url": "https://www12.statcan.gc.ca/census-recensement/index-eng.cfm"
+      }
+    ],
+    "summary": "加拿大统计局每五年开展的人口普查，提供到传播区（dissemination area）层级的人口、收入、通勤等汇总数据。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "普查数据",
+      "区域经济数据"
+    ],
+    "introduction": "加拿大人口普查由加拿大统计局（Statistics Canada）每五年开展一次（逢 1 和 6 结尾的年份），收集人口、家庭、语言、移民、教育、就业、收入、住房和通勤方式等信息，汇总表按省、普查都市区（CMA）、普查区和传播区（约 400–700 人）等地理层级公布；公开使用微观样本文件（PUMF）可供下载，完整微观数据需在研究数据中心使用。\n\n数据常用于描述城市内部人口分布和通勤流，例如为加油站空间竞争模型构造各小区的居民数量和收入。2011 年用自愿性的全国住户调查（NHS）代替了长表，该年份数据的可比性较差。",
+    "source": "汇总表和 PUMF 通过加拿大统计局网站公开下载；完整微观数据需经研究数据中心申请。",
+    "references": [
+      {
+        "raw": "Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline",
+        "title": "Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline",
+        "authors": [
+          "Jean-François Houde"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2147–2182",
+        "doi": "10.1257/aer.102.5.2147",
+        "url": "https://doi.org/10.1257/aer.102.5.2147",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.9.3",
+    "title": "加拿大劳动力调查（Labour Force Survey，LFS）",
+    "links": [
+      {
+        "label": "加拿大统计局 LFS",
+        "url": "https://www.statcan.gc.ca/en/survey/household/3701"
+      }
+    ],
+    "summary": "加拿大统计局每月开展的住户劳动力调查，提供全国、省和主要都市区的就业、失业和工时统计。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "加拿大劳动力调查（LFS）由加拿大统计局自 1945 年起开展，每月调查约 5.6 万户家庭中 15 岁及以上人口的劳动力状态、行业、职业、工时和工资，是加拿大官方失业率的来源；汇总估计按省和普查都市区（CMA）公布，公开使用微观数据文件（PUMF）按月发布。\n\n数据常用于描述加拿大地区劳动市场，也被用于为城市层面的模型提供就业和工作地点分布信息。CMA 层面的月度估计抽样误差较大，研究中常取年度平均。",
+    "source": "汇总表和 PUMF 通过加拿大统计局网站公开下载。",
+    "references": [
+      {
+        "raw": "Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline",
+        "title": "Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline",
+        "authors": [
+          "Jean-François Houde"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2147–2182",
+        "doi": "10.1257/aer.102.5.2147",
+        "url": "https://doi.org/10.1257/aer.102.5.2147",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.9.4",
+    "title": "DMTI Spatial CanMap 加拿大路网与地理数据",
+    "links": [
+      {
+        "label": "DMTI Spatial",
+        "url": "https://www.dmtispatial.com"
+      }
+    ],
+    "summary": "DMTI Spatial 的加拿大商业数字地图产品，包括带路由属性的全国路网（CanMap RouteLogistics）和兴趣点数据。",
+    "regions": [
+      "其它数据"
+    ],
+    "topics": [
+      "地理数据",
+      "交通数据"
+    ],
+    "introduction": "DMTI Spatial 是加拿大地理信息公司，其 CanMap 系列产品提供加拿大全国的数字路网、行政边界、邮政编码、水系和土地利用图层，其中 CanMap RouteLogistics 带有道路等级、限速、单行道和转向限制等路由属性，可用于计算行车距离和时间；许多加拿大大学图书馆为师生提供学术许可。\n\n数据常用于城市经济和交通研究中计算出行距离与可达性，例如构造通勤路线以计算消费者经过各加油站的概率。数据为商业产品，版本按年更新。",
+    "source": "商业数据，需购买许可；部分加拿大大学图书馆提供学术访问。",
+    "references": [
+      {
+        "raw": "Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline",
+        "title": "Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline",
+        "authors": [
+          "Jean-François Houde"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2147–2182",
+        "doi": "10.1257/aer.102.5.2147",
+        "url": "https://doi.org/10.1257/aer.102.5.2147",
         "verified": true,
         "note": ""
       }
@@ -13261,6 +14646,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/ht9i266jci9wxdn7qmyr2/Kudu_paper.pdf?rlkey=7rel5bz3u2easvqcxnmnimh6b&st=vn71xscb&dl=0",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "title": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "authors": [
+          "Michael J. Roberts",
+          "Wolfram Schlenker"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2265–2295",
+        "doi": "10.1257/aer.103.6.2265",
+        "url": "https://doi.org/10.1257/aer.103.6.2265",
         "verified": true,
         "note": ""
       }
@@ -13880,6 +15282,52 @@
         "pages": "",
         "doi": "",
         "url": "https://kortum.elisites.yale.edu/files/2026/01/Regional-Carbon-Policy.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.1.24",
+    "title": "MODIS 陆地遥感产品（地表反射率、地表温度、植被指数）",
+    "links": [
+      {
+        "label": "NASA MODIS",
+        "url": "https://modis.gsfc.nasa.gov/"
+      },
+      {
+        "label": "LP DAAC",
+        "url": "https://lpdaac.usgs.gov/"
+      }
+    ],
+    "summary": "NASA Terra/Aqua 卫星 MODIS 传感器的全球陆地产品，2000 年起提供 250 米–1 公里分辨率的地表反射率、温度、植被等数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "MODIS（中分辨率成像光谱仪）搭载于 NASA 的 Terra（1999 年发射）和 Aqua（2002 年发射）卫星，每 1–2 天覆盖全球一次。陆地产品由 NASA 陆地过程分布式数据中心（LP DAAC）分发，包括地表反射率（MOD09，250–500 米）、地表温度（MOD11，1 公里）、植被指数 NDVI/EVI（MOD13）、土地覆盖类型（MCD12）、火点和过火面积等，提供日度、8 天、16 天和月度合成产品。\n\n这些产品常用于构造森林损失、农业生产、城市扩张和热环境的时空变量，例如用 MODIS 地表反射率时间序列识别印尼的年度毁林。数据按版本（Collection）重处理，不同版本的数值不完全一致。",
+    "source": "通过 NASA Earthdata/LP DAAC 免费注册下载。",
+    "references": [
+      {
+        "raw": "The Political Economy of Deforestation in the Tropics",
+        "title": "The Political Economy of Deforestation in the Tropics",
+        "authors": [
+          "Robin Burgess",
+          "Matthew Hansen",
+          "Benjamin A. Olken",
+          "Peter Potapov",
+          "Stefanie Sieber"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "4",
+        "pages": "1707–1754",
+        "doi": "10.1093/qje/qjs034",
+        "url": "https://doi.org/10.1093/qje/qjs034",
         "verified": true,
         "note": ""
       }
@@ -17310,6 +18758,23 @@
         "url": "https://doi.org/10.1257/aer.103.2.948",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "title": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "authors": [
+          "Michael J. Roberts",
+          "Wolfram Schlenker"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2265–2295",
+        "doi": "10.1257/aer.103.6.2265",
+        "url": "https://doi.org/10.1257/aer.103.6.2265",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17436,6 +18901,23 @@
         "pages": "2509–2555",
         "doi": "10.1086/724319",
         "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "title": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "authors": [
+          "Michael J. Roberts",
+          "Wolfram Schlenker"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2265–2295",
+        "doi": "10.1257/aer.103.6.2265",
+        "url": "https://doi.org/10.1257/aer.103.6.2265",
         "verified": true,
         "note": ""
       }
@@ -17583,6 +19065,45 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w33500",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.10",
+    "title": "SAGE 全球作物日历数据集（Sacks 等）",
+    "links": [
+      {
+        "label": "SAGE 作物日历",
+        "url": "https://sage.nelson.wisc.edu/data-and-models/datasets/crop-calendar-dataset/"
+      }
+    ],
+    "summary": "威斯康星大学 SAGE 中心发布的全球主要作物播种和收获日期格网数据（Sacks 等 2010）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "农业数据",
+      "地理数据"
+    ],
+    "introduction": "SAGE 作物日历数据集由威斯康星大学麦迪逊分校可持续发展与全球环境中心（SAGE）发布，Sacks 等（2010，Global Ecology and Biogeography）汇编各国农业部门和 FAO 等来源的观测记录，给出小麦、玉米、水稻、大豆、棉花等 19 种作物（部分作物分季别）的播种和收获日期，以 5 弧分和 0.5 度格网及国家/地区单元提供。\n\n数据常用于确定作物生长季，以便计算生长季内的温度和降水，例如在估计全球农产品供给弹性时构造生长季天气冲击。数据代表 2000 年前后的典型日期，不随年份变化。",
+    "source": "SAGE 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "title": "Identifying Supply and Demand Elasticities of Agricultural Commodities: Implications for the US Ethanol Mandate",
+        "authors": [
+          "Michael J. Roberts",
+          "Wolfram Schlenker"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2265–2295",
+        "doi": "10.1257/aer.103.6.2265",
+        "url": "https://doi.org/10.1257/aer.103.6.2265",
         "verified": true,
         "note": ""
       }
@@ -17751,6 +19272,23 @@
         "pages": "1698–1734",
         "doi": "10.1257/aer.104.6.1698",
         "url": "https://doi.org/10.1257/aer.104.6.1698",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Using Loopholes to Reveal the Marginal Cost of Regulation: The Case of Fuel-Economy Standards",
+        "title": "Using Loopholes to Reveal the Marginal Cost of Regulation: The Case of Fuel-Economy Standards",
+        "authors": [
+          "Soren T. Anderson",
+          "James M. Sallee"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "4",
+        "pages": "1375–1409",
+        "doi": "10.1257/aer.101.4.1375",
+        "url": "https://doi.org/10.1257/aer.101.4.1375",
         "verified": true,
         "note": ""
       }
