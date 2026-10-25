@@ -894,7 +894,27 @@
     ],
     "introduction": "高考数据有两类：一类是公开的招生统计，包括各省报名人数、本科和专科录取控制分数线、各高校分省分专业招生计划与录取分数线，来源于教育部、各省教育考试院和高校招生网站，以及学信网的阳光高考平台；另一类是考生层面的考试成绩、志愿填报和录取记录，由省级教育考试机构和高校持有，涉及个人隐私，一般不对外公开。\n\n公开分数线数据的年份和覆盖范围随各省而异，2014 年起高考综合改革在多省分批推进，文理分科、选科组合和录取批次发生变化，影响跨年可比性。\n\n研究中可用于分析招生政策、教育机会、地区差异和高校选择。使用时应先明确所用的具体数据产品，注意各省分数线所依据的科类和批次口径不同；考生级数据须向主管机构确认授权。",
     "source": "公开统计可从教育考试机构或高校正式资料查阅。考生级考试、志愿和录取记录的使用须向主管机构确认授权和隐私保护要求，本目录不提供非官方流传版本。",
-    "references": []
+    "references": [
+      {
+        "raw": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "title": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Yingquan Song",
+          "Qu Tang",
+          "Peng Zhang"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "104",
+        "issue": "",
+        "pages": "102365",
+        "doi": "10.1016/j.jeem.2020.102365",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102365",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.2.13",
@@ -1265,6 +1285,25 @@
         "url": "https://doi.org/10.1016/j.jeem.2017.07.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Hot and cold choices: The role of extreme temperatures in shaping industrial geographical distribution",
+        "title": "Hot and cold choices: The role of extreme temperatures in shaping industrial geographical distribution",
+        "authors": [
+          "Ding Ma",
+          "Min Wang",
+          "Shuo Li",
+          "Xiumei Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "137",
+        "issue": "",
+        "pages": "103285",
+        "doi": "10.1016/j.jeem.2026.103285",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103285",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1604,6 +1643,25 @@
         "pages": "102996",
         "doi": "10.1016/j.jeem.2024.102996",
         "url": "https://doi.org/10.1016/j.jeem.2024.102996",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hot and cold choices: The role of extreme temperatures in shaping industrial geographical distribution",
+        "title": "Hot and cold choices: The role of extreme temperatures in shaping industrial geographical distribution",
+        "authors": [
+          "Ding Ma",
+          "Min Wang",
+          "Shuo Li",
+          "Xiumei Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "137",
+        "issue": "",
+        "pages": "103285",
+        "doi": "10.1016/j.jeem.2026.103285",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103285",
         "verified": true,
         "note": ""
       }
@@ -2359,6 +2417,25 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "title": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Yingquan Song",
+          "Qu Tang",
+          "Peng Zhang"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "104",
+        "issue": "",
+        "pages": "102365",
+        "doi": "10.1016/j.jeem.2020.102365",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2709,6 +2786,25 @@
         "pages": "103692",
         "doi": "10.1016/j.jdeveco.2025.103692",
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "title": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Yingquan Song",
+          "Qu Tang",
+          "Peng Zhang"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "104",
+        "issue": "",
+        "pages": "102365",
+        "doi": "10.1016/j.jeem.2020.102365",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102365",
         "verified": true,
         "note": ""
       }
@@ -4075,6 +4171,42 @@
         "url": "https://doi.org/10.1086/700766",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "title": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "authors": [
+          "Parag Mahajan",
+          "Dean Yang"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "250–277",
+        "doi": "10.1257/app.20180438",
+        "url": "https://doi.org/10.1257/app.20180438",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate and migration in the United States",
+        "title": "Climate and migration in the United States",
+        "authors": [
+          "Patrick Baylis",
+          "Prashant Bharadwaj",
+          "Jamie T. Mullins",
+          "Nick Obradovich"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105446",
+        "doi": "10.1016/j.jpubeco.2025.105446",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105446",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4797,6 +4929,24 @@
         "pages": "",
         "doi": "",
         "url": "https://www.rff.org/publications/working-papers/conservation-and-distributional-consequences-of-pricing-scarce-water-during-droughts/",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "title": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "authors": [
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1162/rest_a_00936",
+        "url": "https://doi.org/10.1162/rest_a_00936",
         "verified": true,
         "note": ""
       }
@@ -5803,6 +5953,45 @@
         "pages": "3814–3854",
         "doi": "10.1257/aer.20151272",
         "url": "https://doi.org/10.1257/aer.20151272",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.22",
+    "title": "美国全国青年纵向调查（NLSY79、NLSY97、NLSY79 Children and Young Adults）",
+    "links": [
+      {
+        "label": "NLS 官网",
+        "url": "https://www.nlsinfo.org/"
+      }
+    ],
+    "summary": "美国劳工统计局主持的长期跟踪调查，NLSY79 自 1979 年起跟踪 1957–1964 年出生的青年，其子女样本记录儿童认知测验和成长信息。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "全国青年纵向调查（National Longitudinal Surveys of Youth）由美国劳工统计局（BLS）主持、俄亥俄州立大学人力资源研究中心实施。NLSY79 自 1979 年起跟踪约 12,700 名 1957–1964 年出生的青年，记录教育、就业、收入、婚育和健康；NLSY79 Children and Young Adults 自 1986 年起每两年调查 NLSY79 女性受访者的子女，包含 PIAT 数学和阅读测验、行为问题指数和家庭环境；NLSY97 跟踪 1980–1984 年出生的另一队列。公开数据可通过 NLS Investigator 下载，县级等地理编码需申请受限使用协议。\n\n数据常用于研究童年环境对人力资本的长期影响，例如把儿童测验日期和居住县的逐日气温匹配，研究高温对认知测验成绩的影响。受限地理数据需通过 BLS 申请，样本随时间流失，需要使用调查权重。",
+    "source": "NLS Investigator 免费下载公开数据；地理编码数据需申请。",
+    "references": [
+      {
+        "raw": "Temperature and Human Capital in the Short and Long Run",
+        "title": "Temperature and Human Capital in the Short and Long Run",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Solomon M. Hsiang",
+          "Matthew J. Neidell"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "77–105",
+        "doi": "10.1086/694177",
+        "url": "https://doi.org/10.1086/694177",
         "verified": true,
         "note": ""
       }
@@ -7085,6 +7274,25 @@
         "url": "https://doi.org/10.1162/rest_a_01243",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate and migration in the United States",
+        "title": "Climate and migration in the United States",
+        "authors": [
+          "Patrick Baylis",
+          "Prashant Bharadwaj",
+          "Jamie T. Mullins",
+          "Nick Obradovich"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105446",
+        "doi": "10.1016/j.jpubeco.2025.105446",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105446",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8121,6 +8329,124 @@
     ]
   },
   {
+    "id": "2.4.16",
+    "title": "美国国土安全部《移民统计年鉴》（Yearbook of Immigration Statistics）",
+    "links": [
+      {
+        "label": "OHSS 移民统计年鉴",
+        "url": "https://ohss.dhs.gov/topics/immigration/yearbook"
+      }
+    ],
+    "summary": "美国国土安全部移民统计办公室每年发布的合法永久居民、入籍、难民和非移民入境统计，按来源国、类别和州汇总，前身为移民归化局统计年鉴。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "《移民统计年鉴》由美国国土安全部国土安全统计办公室（OHSS，原移民统计办公室）编制，1990 年代以前由移民归化局（INS）发布。年鉴按财政年度报告获得合法永久居民身份（绿卡）的人数（按出生国、入境类别、亲属关系、目的州和都市区）、入籍人数、难民和庇护获批人数以及非移民（临时访客、学生、工作签证）入境人次，历年表格可在网站下载。\n\n数据常用于研究国际移民流入美国的决定因素，例如用来源国-年度的合法永久居民人数研究来源国飓风冲击如何通过移民网络影响对美移民。年鉴为汇总表，不同年份的分类口径有调整，非法移民不在统计范围内。",
+    "source": "OHSS 网站免费下载。",
+    "references": [
+      {
+        "raw": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "title": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "authors": [
+          "Parag Mahajan",
+          "Dean Yang"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "250–277",
+        "doi": "10.1257/app.20180438",
+        "url": "https://doi.org/10.1257/app.20180438",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.17",
+    "title": "美国县级分年龄净迁移估计（Net Migration Patterns for US Counties）",
+    "links": [
+      {
+        "label": "Net Migration Patterns",
+        "url": "https://netmigration.wisc.edu/"
+      }
+    ],
+    "summary": "Winkler 等用人口生命统计残差法估计的 1950 年以来每十年美国县级分年龄、性别和种族的净迁移，由威斯康星大学等发布。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "美国县级净迁移数据由威斯康星大学麦迪逊分校应用人口学实验室的 Winkler、Johnson 等编制，利用相邻两次十年普查的县级分年龄人口和期间的出生、死亡记录，用前向残差法估计 1950–1960 至 2010–2020 各十年中每个县按五岁年龄组、性别和种族的净迁移人数和净迁移率，并提供可视化网站和数据下载。\n\n数据常用于研究长期人口迁移的驱动因素，例如考察气候条件与美国县际人口迁移的关系。净迁移为残差估计，包含普查覆盖误差，无法区分迁入和迁出。",
+    "source": "项目网站免费下载。",
+    "references": [
+      {
+        "raw": "Climate and migration in the United States",
+        "title": "Climate and migration in the United States",
+        "authors": [
+          "Patrick Baylis",
+          "Prashant Bharadwaj",
+          "Jamie T. Mullins",
+          "Nick Obradovich"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105446",
+        "doi": "10.1016/j.jpubeco.2025.105446",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105446",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.18",
+    "title": "USDA ERS 城乡连续体代码（Rural-Urban Continuum Codes）",
+    "links": [
+      {
+        "label": "USDA ERS RUCC",
+        "url": "https://www.ers.usda.gov/data-products/rural-urban-continuum-codes"
+      }
+    ],
+    "summary": "美国农业部经济研究局按都市区人口规模和与都市区的邻近程度把各县分为 9 类的城乡分类代码，1974 年以来约每十年更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "城乡连续体代码（Rural-Urban Continuum Codes，RUCC）由美国农业部经济研究局（USDA ERS）依据每次人口普查和 OMB 都市区划定编制，把都市县按所在都市区人口规模分为 3 类，把非都市县按城市人口规模和是否邻近都市区分为 6 类，已发布 1974、1983、1993、2003、2013 和 2023 年版本。ERS 同时发布城市影响代码（UIC）和城乡通勤区代码（RUCA）等相关分类。\n\n数据常用于在县级研究中划分城乡类型或控制城市化程度，例如在研究气候与迁移时按初始城乡类型分组。不同版本基于不同的都市区定义，跨年使用需固定版本。",
+    "source": "ERS 网站免费下载。",
+    "references": [
+      {
+        "raw": "Climate and migration in the United States",
+        "title": "Climate and migration in the United States",
+        "authors": [
+          "Patrick Baylis",
+          "Prashant Bharadwaj",
+          "Jamie T. Mullins",
+          "Nick Obradovich"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105446",
+        "doi": "10.1016/j.jpubeco.2025.105446",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105446",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.5.1",
     "title": "人口普查局 TIGER/Line 地理边界文件",
     "links": [
@@ -8194,6 +8520,24 @@
         "pages": "1356–1372",
         "doi": "10.1257/aer.20200679",
         "url": "https://doi.org/10.1257/aer.20200679",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "title": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "authors": [
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1162/rest_a_00936",
+        "url": "https://doi.org/10.1162/rest_a_00936",
         "verified": true,
         "note": ""
       }
@@ -9057,6 +9401,61 @@
         "url": "https://doi.org/10.1162/rest_a_00478",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "title": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "authors": [
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1162/rest_a_00936",
+        "url": "https://doi.org/10.1162/rest_a_00936",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature and Human Capital in the Short and Long Run",
+        "title": "Temperature and Human Capital in the Short and Long Run",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Solomon M. Hsiang",
+          "Matthew J. Neidell"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "77–105",
+        "doi": "10.1086/694177",
+        "url": "https://doi.org/10.1086/694177",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate and migration in the United States",
+        "title": "Climate and migration in the United States",
+        "authors": [
+          "Patrick Baylis",
+          "Prashant Bharadwaj",
+          "Jamie T. Mullins",
+          "Nick Obradovich"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105446",
+        "doi": "10.1016/j.jpubeco.2025.105446",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105446",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9470,6 +9869,43 @@
         "pages": "970–981",
         "doi": "10.1162/REST_a_00106",
         "url": "https://doi.org/10.1162/REST_a_00106",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "title": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "authors": [
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1162/rest_a_00936",
+        "url": "https://doi.org/10.1162/rest_a_00936",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "title": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Yingquan Song",
+          "Qu Tang",
+          "Peng Zhang"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "104",
+        "issue": "",
+        "pages": "102365",
+        "doi": "10.1016/j.jeem.2020.102365",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102365",
         "verified": true,
         "note": ""
       }
@@ -12700,6 +13136,45 @@
     ]
   },
   {
+    "id": "2.6.49",
+    "title": "NOAA 美国气候标准值（U.S. Climate Normals）",
+    "links": [
+      {
+        "label": "NOAA Climate Normals",
+        "url": "https://www.ncei.noaa.gov/products/land-based-station/us-climate-normals"
+      }
+    ],
+    "summary": "NOAA 每十年发布的美国站点 30 年平均气候值，包括气温、降水、降雪以及采暖和制冷度日，最新版本为 1991–2020 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "美国气候标准值（U.S. Climate Normals）由 NOAA 国家环境信息中心（NCEI）按照世界气象组织规定，每十年基于过去 30 年的站点观测计算一次，最新为 1991–2020 年版本（此前为 1981–2010 年），覆盖约 15,000 个站点，提供逐日、逐月、季节和年度的平均和极端气温、降水、降雪、采暖度日（HDD）和制冷度日（CDD）等统计量，另有格网版本和 15 年短期标准值。\n\n数据常用于刻画长期平均气候条件，例如用各地区的历史制冷度日衡量对高温的适应程度，研究高温对老年人死亡率影响的地区差异。标准值是固定时期的平均，不同版本反映的气候基准不同。",
+    "source": "NCEI 网站免费下载。",
+    "references": [
+      {
+        "raw": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "title": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "authors": [
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1162/rest_a_00936",
+        "url": "https://doi.org/10.1162/rest_a_00936",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.7.1",
     "title": "USGS 美国大型光伏设施数据库（USPVDB）",
     "links": [
@@ -15032,6 +15507,46 @@
     ]
   },
   {
+    "id": "2.7.32",
+    "title": "EIA 居民能源消费调查（RECS）",
+    "links": [
+      {
+        "label": "EIA RECS",
+        "url": "https://www.eia.gov/consumption/residential/"
+      }
+    ],
+    "summary": "美国能源信息署每隔数年开展的全国代表性住户能源调查，记录住房特征、空调和电器拥有、能源消费量和支出。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "微观调查数据"
+    ],
+    "introduction": "居民能源消费调查（Residential Energy Consumption Survey，RECS）由美国能源信息署（EIA）自 1978 年起开展，最近几轮为 2009、2015 和 2020 年，样本约 5,000–18,000 户，收集住房类型、建造年代、面积、取暖和空调设备、电器拥有和使用习惯，并通过能源供应商记录获取各户的用电、用气和其他燃料消费量和支出，再用模型分解到取暖、制冷、热水等终端用途。公开微观数据和汇总表可在 EIA 网站下载。\n\n数据常用于研究居民能源需求和空调普及，例如用不同地区的空调拥有率解释高温对健康影响的差异。地理信息只到普查区划或州层面，各轮问卷和抽样方法变化较大。",
+    "source": "EIA 网站免费下载。",
+    "references": [
+      {
+        "raw": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "title": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "authors": [
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1162/rest_a_00936",
+        "url": "https://doi.org/10.1162/rest_a_00936",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.8.1",
     "title": "NCHS 生命统计与 CDC WONDER（死亡、出生数据）",
     "links": [
@@ -15457,6 +15972,24 @@
         "pages": "2188–2214",
         "doi": "10.1093/restud/rdac078",
         "url": "https://doi.org/10.1093/restud/rdac078",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "title": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "authors": [
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1162/rest_a_00936",
+        "url": "https://doi.org/10.1162/rest_a_00936",
         "verified": true,
         "note": ""
       }
@@ -17665,6 +18198,46 @@
     ]
   },
   {
+    "id": "2.11.10",
+    "title": "美国住房调查（American Housing Survey，AHS）",
+    "links": [
+      {
+        "label": "Census AHS",
+        "url": "https://www.census.gov/programs-surveys/ahs.html"
+      }
+    ],
+    "summary": "人口普查局为住房与城市发展部实施的住房单元调查，自 1973 年起每两年一轮，记录住房质量、设备、成本和居住者特征。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "房地产数据",
+      "微观调查数据"
+    ],
+    "introduction": "美国住房调查（American Housing Survey，AHS）由美国人口普查局受住房与城市发展部（HUD）委托实施，1973–1981 年为年度调查，此后每两年一次，以全国和重点都市区的住房单元为样本并进行跟踪，记录住房结构和面积、设备（含中央空调和取暖方式）、住房缺陷、租金和房价、住房成本、社区条件以及居住者的人口和收入特征。公开微观数据可在人口普查局网站下载。\n\n数据常用于研究住房条件和居住环境，例如用空调拥有率衡量家庭对高温的适应能力。公开数据的地理信息只到大型都市区，2015 年起样本重新抽取，不能与此前样本直接衔接。",
+    "source": "人口普查局网站免费下载。",
+    "references": [
+      {
+        "raw": "Temperature and Human Capital in the Short and Long Run",
+        "title": "Temperature and Human Capital in the Short and Long Run",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Solomon M. Hsiang",
+          "Matthew J. Neidell"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "77–105",
+        "doi": "10.1086/694177",
+        "url": "https://doi.org/10.1086/694177",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.12.1",
     "title": "WRDS 沃顿研究数据服务（Wharton Research Data Services）",
     "links": [
@@ -18344,6 +18917,25 @@
         "pages": "461–471",
         "doi": "10.1162/rest_a_00478",
         "url": "https://doi.org/10.1162/rest_a_00478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate and migration in the United States",
+        "title": "Climate and migration in the United States",
+        "authors": [
+          "Patrick Baylis",
+          "Prashant Bharadwaj",
+          "Jamie T. Mullins",
+          "Nick Obradovich"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105446",
+        "doi": "10.1016/j.jpubeco.2025.105446",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105446",
         "verified": true,
         "note": ""
       }
@@ -19094,6 +19686,49 @@
     ]
   },
   {
+    "id": "3.2.6",
+    "title": "瑞士劳动力调查与瑞士健康调查（SLFS / SHS）",
+    "links": [
+      {
+        "label": "FSO 劳动力调查",
+        "url": "https://www.bfs.admin.ch/bfs/en/home/statistics/work-income/surveys/slfs.html"
+      },
+      {
+        "label": "FSO 健康调查",
+        "url": "https://www.bfs.admin.ch/bfs/en/home/statistics/health/surveys/sgb.html"
+      }
+    ],
+    "summary": "瑞士联邦统计局的两项住户调查：劳动力调查记录就业、职业和工时，健康调查每五年记录健康状况、行为和医疗服务利用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "瑞士劳动力调查（Swiss Labour Force Survey，SLFS）由瑞士联邦统计局（FSO/BFS）自 1991 年起实施，现为季度轮换样本，每年访问约 12 万人，记录就业状况、行业和职业、工作时间、工作条件和收入；瑞士健康调查（Swiss Health Survey，SHS）自 1992 年起每五年一次，访问约 2 万名 15 岁以上居民，收集自评健康、慢性病、事故伤害、健康行为和医疗服务使用。两项调查的匿名微观数据可向 FSO 申请用于研究。\n\n数据常用于瑞士劳动和健康研究，例如用分行业职业的户外工作比例和工伤自报情况，研究高温对工伤事故的影响。微观数据需签署使用协议，地理信息通常只到大区或州。",
+    "source": "FSO 网站提供汇总表；微观数据需申请。",
+    "references": [
+      {
+        "raw": "When weather wounds workers: The impact of temperature on workplace accidents",
+        "title": "When weather wounds workers: The impact of temperature on workplace accidents",
+        "authors": [
+          "Katharina Drescher",
+          "Benedikt Janzen"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "241",
+        "issue": "",
+        "pages": "105258",
+        "doi": "10.1016/j.jpubeco.2024.105258",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105258",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.3.1",
     "title": "Orbis / Amadeus 企业数据库",
     "links": [
@@ -19680,6 +20315,82 @@
         "pages": "2275–2314",
         "doi": "10.1086/720393",
         "url": "https://doi.org/10.1086/720393",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.6.10",
+    "title": "瑞士联邦气象局（MeteoSwiss）站点观测数据（IDAWEB / Open Data）",
+    "links": [
+      {
+        "label": "MeteoSwiss Open Data",
+        "url": "https://opendatadocs.meteoswiss.ch/"
+      }
+    ],
+    "summary": "瑞士联邦气象局站点网络的逐时和逐日气温、降水、湿度、风等观测，过去通过 IDAWEB 门户向科研教学用户提供，2025 年起逐步开放下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "瑞士联邦气象与气候办公室（MeteoSwiss）运营约 160 个自动气象站和数百个降水站，观测气温、降水、湿度、日照、风和气压等变量，部分站点记录可追溯到 19 世纪。历史数据长期通过 IDAWEB 门户向注册的科研和教学用户提供，自 2025 年起 MeteoSwiss 根据开放政府数据法逐步将站点观测和格网产品作为开放数据发布。\n\n数据常用于瑞士的天气冲击研究，例如把工伤事故发生地与最近站点的逐日最高气温匹配。站点在山区分布不均，需注意海拔差异。",
+    "source": "MeteoSwiss 开放数据门户免费下载；早期通过 IDAWEB 申请。",
+    "references": [
+      {
+        "raw": "When weather wounds workers: The impact of temperature on workplace accidents",
+        "title": "When weather wounds workers: The impact of temperature on workplace accidents",
+        "authors": [
+          "Katharina Drescher",
+          "Benedikt Janzen"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "241",
+        "issue": "",
+        "pages": "105258",
+        "doi": "10.1016/j.jpubeco.2024.105258",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105258",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.6.11",
+    "title": "瑞士 CH2018 气候情景",
+    "links": [
+      {
+        "label": "CH2018",
+        "url": "https://www.ch2018.ch/en/"
+      }
+    ],
+    "summary": "瑞士国家气候服务中心发布的瑞士官方气候变化情景，基于 EURO-CORDEX 区域模式给出站点和 2 公里格网的未来气温与降水预测。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "CH2018 气候情景由瑞士国家气候服务中心（NCCS）联合 MeteoSwiss 和苏黎世联邦理工学院于 2018 年发布，基于 EURO-CORDEX 区域气候模式集合，在 RCP2.6、RCP4.5 和 RCP8.5 情景下给出瑞士约 400 个站点和 2 公里格网至 2100 年的逐日气温、降水等变量的降尺度预测以及多项气候指标的变化。2025 年发布了后续的 CH2025 情景。\n\n数据常用于把历史估计的天气影响外推到未来，例如结合高温与工伤的剂量关系预测未来工伤成本的变化。情景基于 CMIP5 驱动模式，不同模式链的离散度较大。",
+    "source": "NCCS 网站免费下载。",
+    "references": [
+      {
+        "raw": "When weather wounds workers: The impact of temperature on workplace accidents",
+        "title": "When weather wounds workers: The impact of temperature on workplace accidents",
+        "authors": [
+          "Katharina Drescher",
+          "Benedikt Janzen"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "241",
+        "issue": "",
+        "pages": "105258",
+        "doi": "10.1016/j.jpubeco.2024.105258",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105258",
         "verified": true,
         "note": ""
       }
@@ -20285,6 +20996,23 @@
         "url": "https://doi.org/10.1257/pol.20220422",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heat, infant mortality, and adaptation: Evidence from India",
+        "title": "Heat, infant mortality, and adaptation: Evidence from India",
+        "authors": [
+          "Rakesh Banerjee",
+          "Riddhi Maharaj"
+        ],
+        "year": 2020,
+        "journal": "Journal of Development Economics",
+        "volume": "143",
+        "issue": "",
+        "pages": "102378",
+        "doi": "10.1016/j.jdeveco.2019.102378",
+        "url": "https://doi.org/10.1016/j.jdeveco.2019.102378",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20409,6 +21137,83 @@
         "pages": "1366–1401",
         "doi": "10.1257/aer.20131455",
         "url": "https://doi.org/10.1257/aer.20131455",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.2.5",
+    "title": "日本家计调查（Family Income and Expenditure Survey）",
+    "links": [
+      {
+        "label": "统计局 家计调查",
+        "url": "https://www.stat.go.jp/english/data/kakei/index.html"
+      }
+    ],
+    "summary": "日本总务省统计局按月实施的住户收支调查，约 9,000 户记录家庭收入和逐项消费支出（含电费），公布都道府县厅所在城市的结果。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "家计调查（Family Income and Expenditure Survey，FIES）由日本总务省统计局实施，每月对约 9,000 户两人以上家庭和约 700 户单身家庭进行记账调查，记录收入、税费以及食品、住房、水电燃气、交通、教育等细项消费支出，结果按全国、地区和都道府县厅所在城市按月公布，可在 e-Stat 下载；匿名微观数据可申请使用。\n\n数据常用于研究日本家庭消费和能源支出，例如用电费支出研究 2011 年福岛核事故后节电政策对家庭用电的影响。公开结果为城市汇总，微观数据需申请。",
+    "source": "e-Stat 和统计局网站免费下载汇总结果。",
+    "references": [
+      {
+        "raw": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "title": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "authors": [
+          "Guojun He",
+          "Takanao Tanaka"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "15",
+        "issue": "2",
+        "pages": "377–414",
+        "doi": "10.1257/app.20200505",
+        "url": "https://doi.org/10.1257/app.20200505",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.2.6",
+    "title": "印度地区层面家户与设施调查（DLHS）",
+    "links": [
+      {
+        "label": "IIPS DLHS",
+        "url": "http://rchiips.org/"
+      }
+    ],
+    "summary": "印度卫生与家庭福利部委托国际人口科学研究所（IIPS）实施的县级代表性住户与卫生设施调查，共四轮（1998–2013）。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "地区层面家户与设施调查（District Level Household and Facility Survey，DLHS）由印度卫生与家庭福利部委托国际人口科学研究所（IIPS）实施，第 1 轮 1998–1999 年、第 2 轮 2002–2004 年、第 3 轮 2007–2008 年、第 4 轮 2012–2013 年，每轮样本数十万户，可提供县级代表性的估计，内容包括生殖和儿童健康、免疫接种、孕产服务、避孕以及村级卫生设施；后续由全国家庭健康调查（NFHS）的县级模块取代。微观数据可向 IIPS 申请。\n\n数据常用于研究印度县级的健康和人口结果，例如用分娩和婴儿健康信息研究降雨和农业冲击的影响。各轮的抽样和问卷有差异，部分邦未参加第 4 轮。",
+    "source": "向 IIPS 申请微观数据。",
+    "references": [
+      {
+        "raw": "Heat, infant mortality, and adaptation: Evidence from India",
+        "title": "Heat, infant mortality, and adaptation: Evidence from India",
+        "authors": [
+          "Rakesh Banerjee",
+          "Riddhi Maharaj"
+        ],
+        "year": 2020,
+        "journal": "Journal of Development Economics",
+        "volume": "143",
+        "issue": "",
+        "pages": "102378",
+        "doi": "10.1016/j.jdeveco.2019.102378",
+        "url": "https://doi.org/10.1016/j.jdeveco.2019.102378",
         "verified": true,
         "note": ""
       }
@@ -20742,6 +21547,44 @@
         "pages": "1–45",
         "doi": "10.1162/rest_a_01581",
         "url": "https://doi.org/10.1162/rest_a_01581",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.4.3",
+    "title": "日本政府统计门户 e-Stat（都道府县与市町村统计）",
+    "links": [
+      {
+        "label": "e-Stat",
+        "url": "https://www.e-stat.go.jp/"
+      }
+    ],
+    "summary": "日本政府统计的综合门户，汇集各省厅统计数据，包括《社会生活统计指标——都道府县的统计》、劳动力调查和人口统计等。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "e-Stat（政府统计综合窗口）由日本总务省统计局和独立行政法人统计中心运营，汇总各中央省厅发布的统计表、数据库和地图，包括按都道府县和市町村整理的人口、经济、医疗、教育等指标（《社会生活统计指标》），以及劳动力调查、人口动态统计、经济普查等主要统计，可通过网页、API 和统计地图下载。\n\n数据常用于构建日本地区层面的控制变量，例如在研究节电政策对健康的影响时控制各都道府县的人口、GDP 和医疗资源。不同统计的地理口径和发布频率不同，市町村合并需处理行政区划变化。",
+    "source": "e-Stat 免费下载和 API。",
+    "references": [
+      {
+        "raw": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "title": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "authors": [
+          "Guojun He",
+          "Takanao Tanaka"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "15",
+        "issue": "2",
+        "pages": "377–414",
+        "doi": "10.1257/app.20200505",
+        "url": "https://doi.org/10.1257/app.20200505",
         "verified": true,
         "note": ""
       }
@@ -21124,6 +21967,44 @@
     ]
   },
   {
+    "id": "4.6.7",
+    "title": "日本气象厅过去气象数据（AMeDAS）",
+    "links": [
+      {
+        "label": "气象厅 过去气象数据下载",
+        "url": "https://www.data.jma.go.jp/gmd/risk/obsdl/"
+      }
+    ],
+    "summary": "日本气象厅约 1,300 个地域气象观测站（AMeDAS）和气象台的逐时、逐日气温、降水、日照和风观测，可在网站下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "地域气象观测系统（Automated Meteorological Data Acquisition System，AMeDAS）由日本气象厅自 1974 年起运行，约 1,300 个站点观测降水，其中约 840 个站点同时观测气温、风和日照，加上约 150 个气象台和测候所的完整观测。气象厅\"过去的气象数据下载\"页面提供逐时、逐日和逐月数据下载。\n\n数据常用于研究日本的天气冲击，例如把都道府县日度最高气温与死亡和中暑救护车搬送匹配。部分站点有迁移或观测项目变化，长期序列需检查同质性。",
+    "source": "气象厅网站免费下载。",
+    "references": [
+      {
+        "raw": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "title": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "authors": [
+          "Guojun He",
+          "Takanao Tanaka"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "15",
+        "issue": "2",
+        "pages": "377–414",
+        "doi": "10.1257/app.20200505",
+        "url": "https://doi.org/10.1257/app.20200505",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.7.1",
     "title": "Bridge to India 光伏项目与拍卖数据",
     "links": [
@@ -21480,6 +22361,82 @@
     ]
   },
   {
+    "id": "4.8.5",
+    "title": "日本人口动态统计（厚生劳动省）",
+    "links": [
+      {
+        "label": "厚生劳动省 人口动态调查",
+        "url": "https://www.mhlw.go.jp/toukei/list/81-1.html"
+      }
+    ],
+    "summary": "日本厚生劳动省依据出生、死亡、婚姻、离婚和死产登记编制的全国生命统计，按月和年度发布，含分死因、地区和年龄的死亡数。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "人口动态统计（Vital Statistics）由日本厚生劳动省依据市町村提交的出生、死亡、死产、婚姻和离婚登记编制，覆盖全部日本国民，死亡记录按 ICD-10 死因、性别、年龄、死亡日期和住所地（都道府县、市町村）分类，按月度速报和年度确定数发布，汇总表可在 e-Stat 下载，个体记录可通过统计法规定的程序申请。\n\n数据常用于研究日本的环境健康问题，例如用都道府县-日度死亡数研究节电政策导致空调使用减少后高温的死亡效应。公开表格多为月度或年度汇总，日度和个体数据需申请。",
+    "source": "e-Stat 免费下载汇总表；个体数据需申请。",
+    "references": [
+      {
+        "raw": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "title": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "authors": [
+          "Guojun He",
+          "Takanao Tanaka"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "15",
+        "issue": "2",
+        "pages": "377–414",
+        "doi": "10.1257/app.20200505",
+        "url": "https://doi.org/10.1257/app.20200505",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.8.6",
+    "title": "日本消防厅中暑救护车搬送人员统计",
+    "links": [
+      {
+        "label": "消防厅 中暑信息",
+        "url": "https://www.fdma.go.jp/disaster/heatstroke/post3.html"
+      }
+    ],
+    "summary": "日本总务省消防厅每年夏季按周发布的各都道府县因中暑被救护车送医的人数，按年龄组和伤病严重程度分类。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "中暑救护车搬送人员统计由日本总务省消防厅（FDMA）汇总全国消防本部的救护记录，自 2008 年起在每年 5–9 月发布，2010 年后按周和日给出各都道府县因中暑被救护车搬送的人数，并按年龄组（新生儿、儿童、成人、老年人）、发病场所和初诊时的严重程度（死亡、重症、中等症、轻症）分类，数据可在消防厅网站下载。\n\n数据常用于研究高温的短期健康影响，例如结合日度气温研究节电政策与中暑的关系。统计仅覆盖夏季月份，未就医或自行就医的病例不在统计内。",
+    "source": "消防厅网站免费下载。",
+    "references": [
+      {
+        "raw": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "title": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident",
+        "authors": [
+          "Guojun He",
+          "Takanao Tanaka"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "15",
+        "issue": "2",
+        "pages": "377–414",
+        "doi": "10.1257/app.20200505",
+        "url": "https://doi.org/10.1257/app.20200505",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.14.1",
     "title": "ICRISAT 印度县级农业数据库",
     "links": [
@@ -21534,6 +22491,23 @@
         "pages": "420–450",
         "doi": "10.1257/pol.20220422",
         "url": "https://doi.org/10.1257/pol.20220422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heat, infant mortality, and adaptation: Evidence from India",
+        "title": "Heat, infant mortality, and adaptation: Evidence from India",
+        "authors": [
+          "Rakesh Banerjee",
+          "Riddhi Maharaj"
+        ],
+        "year": 2020,
+        "journal": "Journal of Development Economics",
+        "volume": "143",
+        "issue": "",
+        "pages": "102378",
+        "doi": "10.1016/j.jdeveco.2019.102378",
+        "url": "https://doi.org/10.1016/j.jdeveco.2019.102378",
         "verified": true,
         "note": ""
       }
@@ -22727,6 +23701,45 @@
     ]
   },
   {
+    "id": "5.6.6",
+    "title": "墨西哥国家气象局（SMN / CONAGUA）站点气象数据",
+    "links": [
+      {
+        "label": "SMN",
+        "url": "https://smn.conagua.gob.mx/"
+      }
+    ],
+    "summary": "墨西哥国家水委员会下属国家气象局维护的全国约 5,000 个常规气候站的逐日气温和降水观测（CLICOM 数据库）。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "墨西哥国家气象局（Servicio Meteorológico Nacional，SMN）隶属国家水委员会（CONAGUA），其 CLICOM 数据库汇总全国约 5,000 个常规气候站自 20 世纪初以来的逐日最高最低气温、降水和蒸发观测，另有自动气象站和天气雷达数据，部分站点数据可在 SMN 网站下载。\n\n数据常用于墨西哥的气候冲击研究，例如把农村住户所在地与最近站点的气温和降水匹配，研究天气对农户收入和劳动配置的影响。站点数据缺失较多且质量参差，常需与格网数据对照使用。",
+    "source": "SMN 网站部分公开下载。",
+    "references": [
+      {
+        "raw": "Climate Change and Labour Allocation in Rural Mexico: Evidence from Annual Fluctuations in Weather",
+        "title": "Climate Change and Labour Allocation in Rural Mexico: Evidence from Annual Fluctuations in Weather",
+        "authors": [
+          "Katrina Jessoe",
+          "Dale T. Manning",
+          "J. Edward Taylor"
+        ],
+        "year": 2018,
+        "journal": "The Economic Journal",
+        "volume": "128",
+        "issue": "608",
+        "pages": "230–261",
+        "doi": "10.1111/ecoj.12448",
+        "url": "https://doi.org/10.1111/ecoj.12448",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "5.7.1",
     "title": "智利国家电力协调中心（Coordinador Eléctrico Nacional）电力市场数据",
     "links": [
@@ -23615,6 +24628,45 @@
     ]
   },
   {
+    "id": "6.2.5",
+    "title": "非洲晴雨表调查（Afrobarometer）",
+    "links": [
+      {
+        "label": "Afrobarometer",
+        "url": "https://www.afrobarometer.org/data/"
+      }
+    ],
+    "summary": "覆盖 40 多个非洲国家的代表性民意调查，自 1999 年起约每 2–3 年一轮，记录民众对民主、治理、经济状况和社会信任的态度。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "政治数据"
+    ],
+    "introduction": "非洲晴雨表（Afrobarometer）是由非洲研究机构网络主持的泛非洲民意调查项目，自 1999 年起已完成 9 轮以上，覆盖 40 多个国家，每国每轮面访 1,200–2,400 名成年人，问卷涵盖对民主和政府的支持、对机构和他人的信任、公共服务、腐败、族群认同、生活条件和经济评价等，问卷和微观数据在网站上公开，部分轮次提供村级地理编码（需申请）。\n\n数据常用于研究非洲的信任、族群和政治态度，例如结合历史冲击研究社会信任和冲突的长期来源。早期轮次覆盖国家较少，地理编码数据需单独申请。",
+    "source": "网站注册后免费下载。",
+    "references": [
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.5.1",
     "title": "DMTI Spatial CanMap 加拿大路网与地理数据",
     "links": [
@@ -23732,6 +24784,85 @@
     ]
   },
   {
+    "id": "6.6.3",
+    "title": "TAMSAT 非洲卫星降雨估计",
+    "links": [
+      {
+        "label": "TAMSAT",
+        "url": "https://www.tamsat.org.uk/data/"
+      }
+    ],
+    "summary": "英国雷丁大学基于热红外卫星图像和地面观测校准的 1983 年以来非洲约 4 公里逐日降雨估计。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "TAMSAT（Tropical Applications of Meteorology using SATellite data）由英国雷丁大学开发，基于 Meteosat 热红外卫星图像中的冷云持续时间，用历史雨量计数据进行本地校准，生成 1983 年以来全非洲 0.0375 度（约 4 公里）逐日、候、旬和月降雨估计，并提供土壤水分和干旱监测产品（TAMSAT-ALERT），数据在网站上免费下载。\n\n数据常用于非洲的降雨冲击研究，例如研究降雨与婴儿死亡率的关系。冷云方法对暖云降水和山地降水估计偏差较大，长期序列的一致性依赖卫星传感器的衔接。",
+    "source": "TAMSAT 网站免费下载。",
+    "references": [
+      {
+        "raw": "Weather shocks, infant mortality, and adaptation: Experimental evidence from Uganda",
+        "title": "Weather shocks, infant mortality, and adaptation: Experimental evidence from Uganda",
+        "authors": [
+          "Martina Björkman Nyqvist",
+          "Tillmann von Carnap",
+          "Andrea Guariso",
+          "Jakob Svensson"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "103478",
+        "doi": "10.1016/j.jdeveco.2025.103478",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103478",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.6.4",
+    "title": "NOAA CPC 非洲降雨气候学数据（ARC2）",
+    "links": [
+      {
+        "label": "NOAA CPC 国际数据",
+        "url": "https://www.cpc.ncep.noaa.gov/products/international/data.shtml"
+      }
+    ],
+    "summary": "NOAA 气候预测中心融合卫星红外估计和 GTS 站点观测制作的 1983 年以来非洲 0.1 度逐日降雨数据。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "非洲降雨气候学数据第 2 版（Africa Rainfall Climatology version 2，ARC2）由 NOAA 气候预测中心（CPC）国际处制作，融合 Meteosat 热红外降水估计和全球电信系统（GTS）的站点雨量观测，生成 1983 年以来非洲大陆 0.1 度格网的逐日降雨数据，用于美国国际开发署饥荒预警系统（FEWS NET）。数据可通过 CPC 网站和 IRI 数据库下载。\n\n数据常用于非洲的降雨和干旱研究，例如用降雨冲击作为城镇化的工具变量。站点稀疏地区主要依赖卫星估计，对强降水存在低估。",
+    "source": "NOAA CPC 网站免费下载。",
+    "references": [
+      {
+        "raw": "Has climate change driven urbanization in Africa?",
+        "title": "Has climate change driven urbanization in Africa?",
+        "authors": [
+          "J. Vernon Henderson",
+          "Adam Storeygard",
+          "Uwe Deichmann"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "124",
+        "issue": "",
+        "pages": "60–82",
+        "doi": "10.1016/j.jdeveco.2016.09.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.09.001",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.7.1",
     "title": "Kent Group 加拿大加油站销量与价格调查",
     "links": [],
@@ -23759,6 +24890,45 @@
         "pages": "2147–2182",
         "doi": "10.1257/aer.102.5.2147",
         "url": "https://doi.org/10.1257/aer.102.5.2147",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.10.1",
+    "title": "社会冲突分析数据库（SCAD）",
+    "links": [
+      {
+        "label": "SCAD",
+        "url": "https://www.strausscenter.org/ccaps-research-areas/social-conflict/database/"
+      }
+    ],
+    "summary": "得克萨斯大学 Strauss 中心编制的 1990 年以来非洲、墨西哥、中美洲和加勒比地区的抗议、骚乱、罢工等社会冲突事件数据。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "社会冲突分析数据库（Social Conflict Analysis Database，SCAD）由得克萨斯大学奥斯汀分校 Strauss 国际安全与法律中心和北得克萨斯大学的 Salehyan、Hendrix 等编制，依据美联社和法新社的新闻报道，记录 1990 年以来非洲以及墨西哥、中美洲和加勒比地区的抗议、示威、骚乱、罢工、政府暴力镇压等事件，每条记录含日期、地点（含经纬度）、参与人数、诉求议题和死亡人数。\n\n数据常用于研究城市社会动荡和政治冲突，例如考察气候冲击引起的城镇化和收入变化是否带来城市社会冲突。依赖国际通讯社报道，小规模和偏远地区事件可能漏报。",
+    "source": "Strauss 中心网站免费下载。",
+    "references": [
+      {
+        "raw": "Has climate change driven urbanization in Africa?",
+        "title": "Has climate change driven urbanization in Africa?",
+        "authors": [
+          "J. Vernon Henderson",
+          "Adam Storeygard",
+          "Uwe Deichmann"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "124",
+        "issue": "",
+        "pages": "60–82",
+        "doi": "10.1016/j.jdeveco.2016.09.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.09.001",
         "verified": true,
         "note": ""
       }
@@ -23884,6 +25054,24 @@
         "pages": "1–43",
         "doi": "10.1257/mac.20190285",
         "url": "https://doi.org/10.1257/mac.20190285",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Has climate change driven urbanization in Africa?",
+        "title": "Has climate change driven urbanization in Africa?",
+        "authors": [
+          "J. Vernon Henderson",
+          "Adam Storeygard",
+          "Uwe Deichmann"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "124",
+        "issue": "",
+        "pages": "60–82",
+        "doi": "10.1016/j.jdeveco.2016.09.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.09.001",
         "verified": true,
         "note": ""
       }
@@ -24041,6 +25229,60 @@
         "url": "https://doi.org/10.1093/jeea/jvaf054",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heat exposure and child nutrition: Evidence from West Africa",
+        "title": "Heat exposure and child nutrition: Evidence from West Africa",
+        "authors": [
+          "Sylvia Blom",
+          "Ariel Ortiz-Bobea",
+          "John Hoddinott"
+        ],
+        "year": 2022,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "115",
+        "issue": "",
+        "pages": "102698",
+        "doi": "10.1016/j.jeem.2022.102698",
+        "url": "https://doi.org/10.1016/j.jeem.2022.102698",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Frosty climate, icy relationships: Cold and intimate partner violence in Peru",
+        "title": "Frosty climate, icy relationships: Cold and intimate partner violence in Peru",
+        "authors": [
+          "Katie Bollman",
+          "Judhajit Chakraborty",
+          "Leah K. Lakdawala",
+          "Eduardo Nakasone"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103710",
+        "doi": "10.1016/j.jdeveco.2025.103710",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103710",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24121,6 +25363,24 @@
         "pages": "939–993",
         "doi": "10.1093/qje/qjt056",
         "url": "https://doi.org/10.1093/qje/qjt056",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "High temperature and learning outcomes: Evidence from Ethiopia",
+        "title": "High temperature and learning outcomes: Evidence from Ethiopia",
+        "authors": [
+          "Bhavya Srivastava",
+          "Kibrom Tafere",
+          "A. Patrick Behrer"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "137",
+        "issue": "",
+        "pages": "103278",
+        "doi": "10.1016/j.jeem.2025.103278",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103278",
         "verified": true,
         "note": ""
       }
@@ -24481,6 +25741,58 @@
         "pages": "1332–1367",
         "doi": "10.1093/jeea/jvaf054",
         "url": "https://doi.org/10.1093/jeea/jvaf054",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heat, infant mortality, and adaptation: Evidence from India",
+        "title": "Heat, infant mortality, and adaptation: Evidence from India",
+        "authors": [
+          "Rakesh Banerjee",
+          "Riddhi Maharaj"
+        ],
+        "year": 2020,
+        "journal": "Journal of Development Economics",
+        "volume": "143",
+        "issue": "",
+        "pages": "102378",
+        "doi": "10.1016/j.jdeveco.2019.102378",
+        "url": "https://doi.org/10.1016/j.jdeveco.2019.102378",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Has climate change driven urbanization in Africa?",
+        "title": "Has climate change driven urbanization in Africa?",
+        "authors": [
+          "J. Vernon Henderson",
+          "Adam Storeygard",
+          "Uwe Deichmann"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "124",
+        "issue": "",
+        "pages": "60–82",
+        "doi": "10.1016/j.jdeveco.2016.09.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.09.001",
         "verified": true,
         "note": ""
       }
@@ -24892,6 +26204,40 @@
         "url": "https://doi.org/10.1111/ecoj.12042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The migration response to increasing temperatures",
+        "title": "The migration response to increasing temperatures",
+        "authors": [
+          "Cristina Cattaneo",
+          "Giovanni Peri"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "127–146",
+        "doi": "10.1016/j.jdeveco.2016.05.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.05.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "title": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "authors": [
+          "Parag Mahajan",
+          "Dean Yang"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "250–277",
+        "doi": "10.1257/app.20180438",
+        "url": "https://doi.org/10.1257/app.20180438",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25112,6 +26458,23 @@
         "pages": "66–95",
         "doi": "10.1257/mac.4.3.66",
         "url": "https://doi.org/10.1257/mac.4.3.66",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The migration response to increasing temperatures",
+        "title": "The migration response to increasing temperatures",
+        "authors": [
+          "Cristina Cattaneo",
+          "Giovanni Peri"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "127–146",
+        "doi": "10.1016/j.jdeveco.2016.05.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.05.004",
         "verified": true,
         "note": ""
       }
@@ -25812,6 +27175,23 @@
         "url": "https://doi.org/10.1257/aer.91.4.877",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The migration response to increasing temperatures",
+        "title": "The migration response to increasing temperatures",
+        "authors": [
+          "Cristina Cattaneo",
+          "Giovanni Peri"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "127–146",
+        "doi": "10.1016/j.jdeveco.2016.05.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.05.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25946,6 +27326,198 @@
         "pages": "1145–1197",
         "doi": "10.1093/jeea/jvab054",
         "url": "https://doi.org/10.1093/jeea/jvab054",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.22",
+    "title": "世界银行全球双边移民数据库（Global Bilateral Migration）",
+    "links": [
+      {
+        "label": "World Bank DataBank",
+        "url": "https://databank.worldbank.org/source/global-bilateral-migration"
+      }
+    ],
+    "summary": "Özden 等基于各国人口普查构建的 1960–2000 年每十年 232 个国家和地区之间的双边移民存量矩阵。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "全球双边移民数据库（Global Bilateral Migration Database）由世界银行 Özden、Parsons、Schiff 和 Walmsley（2011，World Bank Economic Review）构建，汇总一千多份人口普查和人口登记数据，按出生国或国籍给出 1960、1970、1980、1990 和 2000 年 232 个国家和地区之间的双边移民存量，并按性别区分，数据在世界银行 DataBank 公开；此后的年份可用联合国移民存量数据延续。\n\n数据常用于研究国际移民的长期格局，例如考察来源国气温和农业冲击对向城市和国外迁移的影响。部分国家早期年份为插补值，出生国与国籍口径混用。",
+    "source": "世界银行 DataBank 免费下载。",
+    "references": [
+      {
+        "raw": "The migration response to increasing temperatures",
+        "title": "The migration response to increasing temperatures",
+        "authors": [
+          "Cristina Cattaneo",
+          "Giovanni Peri"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "127–146",
+        "doi": "10.1016/j.jdeveco.2016.05.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.05.004",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.23",
+    "title": "联合国国际移民存量估计（International Migrant Stock）",
+    "links": [
+      {
+        "label": "UN DESA 移民存量",
+        "url": "https://www.un.org/development/desa/pd/content/international-migrant-stock"
+      }
+    ],
+    "summary": "联合国人口司基于人口普查、登记和调查发布的 1990 年以来每五年各国国际移民存量估计，按来源地、目的地、性别和年龄分类。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "国际移民存量（International Migrant Stock）由联合国经济和社会事务部人口司编制，依据各国人口普查、人口登记和代表性调查中出生在外国（或外国国籍）人口的数据，给出 1990、1995、2000 至 2020 年（2024 版延伸到 2024 年）各国和地区的国际移民存量，按目的地-来源地、性别和年龄分类，并包括难民数，数据以 Excel 表格公开。\n\n数据常用于测算移民网络规模和国际迁移流向，例如在研究飓风冲击和移民网络时补充双边移民信息。缺失年份用插值和模型估计，非法移民覆盖不全。",
+    "source": "联合国人口司网站免费下载。",
+    "references": [
+      {
+        "raw": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "title": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "authors": [
+          "Parag Mahajan",
+          "Dean Yang"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "250–277",
+        "doi": "10.1257/app.20180438",
+        "url": "https://doi.org/10.1257/app.20180438",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.24",
+    "title": "美国人口普查局国际数据库（International Database，IDB）",
+    "links": [
+      {
+        "label": "Census IDB",
+        "url": "https://www.census.gov/programs-surveys/international-programs/about/idb.html"
+      }
+    ],
+    "summary": "美国人口普查局编制的 1950 年以来 200 多个国家和地区的人口估计和至 2100 年的预测，按单岁年龄和性别分类，含生育、死亡和迁移指标。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "国际数据库（International Database，IDB）由美国人口普查局国际项目处编制，综合各国人口普查、调查和登记数据，用队列要素法估计 200 多个国家和地区 1950 年以来的年度人口并预测至 2100 年，按单岁年龄和性别分类，同时提供出生率、死亡率、预期寿命、婴儿死亡率和净迁移率等指标，可通过网站和 API 下载。\n\n数据常用于获取口径统一的国别人口序列，例如在研究来源国灾害与对美移民时作为分母。各国估计的质量取决于普查和登记的完备程度，与联合国 WPP 的估计不完全一致。",
+    "source": "人口普查局网站和 API 免费下载。",
+    "references": [
+      {
+        "raw": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "title": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "authors": [
+          "Parag Mahajan",
+          "Dean Yang"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "250–277",
+        "doi": "10.1257/app.20180438",
+        "url": "https://doi.org/10.1257/app.20180438",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.25",
+    "title": "AidData 地理编码援助项目数据",
+    "links": [
+      {
+        "label": "AidData",
+        "url": "https://www.aiddata.org/data"
+      }
+    ],
+    "summary": "William & Mary 大学 AidData 实验室对世界银行、中国等发展融资项目进行地理编码的数据集，记录项目地点、金额和部门。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "政治数据"
+    ],
+    "introduction": "AidData 是威廉玛丽学院全球研究所的研究实验室，发布多套地理编码的发展融资数据，包括世界银行 IBRD/IDA 项目（1995–2014 年批准项目的子项目地点）、中国官方发展融资（全球中国发展融资数据集）、各国援助管理平台数据等，每个项目地点标注经纬度、精度等级、承诺和拨付金额、部门和年份，可通过 AidData 网站和 GeoQuery 工具下载。\n\n数据常用于研究援助的空间分配和效果，例如在研究气候冲击与冲突时控制地区获得的发展项目。地点精度不一，部分项目只能定位到省或国家层面。",
+    "source": "AidData 网站免费下载。",
+    "references": [
+      {
+        "raw": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "title": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "authors": [
+          "Eoin F. McGuirk",
+          "Nathan Nunn"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "404–441",
+        "doi": "10.1093/restud/rdae027",
+        "url": "https://doi.org/10.1093/restud/rdae027",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.26",
+    "title": "城市人口数据库（City Population）",
+    "links": [
+      {
+        "label": "City Population",
+        "url": "https://www.citypopulation.de/"
+      }
+    ],
+    "summary": "Thomas Brinkhoff 维护的网站，汇集各国人口普查和官方估计中的城市、都市区和行政区人口，覆盖全球几乎所有国家。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "City Population（citypopulation.de）由德国奥尔登堡应用科学大学 Thomas Brinkhoff 维护，从各国统计机构的人口普查结果和官方估计中整理城市、城镇、都市区以及各级行政区的人口数，通常给出多个普查年份的数值，并附有行政区地图和人口变动。数据以网页形式公开，没有统一的下载接口。\n\n数据常用于获取发展中国家的城市人口，例如在研究非洲城镇化时补充城市层面的人口序列。数据来源于各国官方统计，口径（城市本体或都市区）因国家而异，需逐项核对。",
+    "source": "网站公开查阅。",
+    "references": [
+      {
+        "raw": "Has climate change driven urbanization in Africa?",
+        "title": "Has climate change driven urbanization in Africa?",
+        "authors": [
+          "J. Vernon Henderson",
+          "Adam Storeygard",
+          "Uwe Deichmann"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "124",
+        "issue": "",
+        "pages": "60–82",
+        "doi": "10.1016/j.jdeveco.2016.09.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.09.001",
         "verified": true,
         "note": ""
       }
@@ -26281,6 +27853,60 @@
         "url": "https://doi.org/10.1257/mac.20230042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "High temperature and learning outcomes: Evidence from Ethiopia",
+        "title": "High temperature and learning outcomes: Evidence from Ethiopia",
+        "authors": [
+          "Bhavya Srivastava",
+          "Kibrom Tafere",
+          "A. Patrick Behrer"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "137",
+        "issue": "",
+        "pages": "103278",
+        "doi": "10.1016/j.jeem.2025.103278",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103278",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The migration response to increasing temperatures",
+        "title": "The migration response to increasing temperatures",
+        "authors": [
+          "Cristina Cattaneo",
+          "Giovanni Peri"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "127–146",
+        "doi": "10.1016/j.jdeveco.2016.05.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.05.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate and migration in the United States",
+        "title": "Climate and migration in the United States",
+        "authors": [
+          "Patrick Baylis",
+          "Prashant Bharadwaj",
+          "Jamie T. Mullins",
+          "Nick Obradovich"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105446",
+        "doi": "10.1016/j.jpubeco.2025.105446",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105446",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26424,7 +28050,25 @@
     ],
     "introduction": "HYDE（History Database of the Global Environment）由荷兰环境评估署（PBL）与乌得勒支大学的 Kees Klein Goldewijk 等人开发，基于历史人口统计、农业统计和土地适宜性等资料，重建公元前 10000 年至今的全球人口（总人口、城市与农村人口、人口密度）和土地利用（耕地、牧场、草场、灌溉面积等），以约 5 弧分格网提供，早期按千年或百年间隔，近代按十年或年度间隔。\n\n数据常用于研究长期人口分布、农业扩张与森林变化、历史发展与气候的关系，也是全球土地利用和气候模型的输入数据。\n\n早期年份主要依赖模型和假设分配，不确定性很大，不应视为观测值；不同版本（如 3.2、3.3）之间结果有修订，使用时应注明版本。",
     "source": "HYDE 数据通过乌得勒支大学土地利用项目网站等渠道免费公开下载，使用时需按要求引用相关论文。",
-    "references": []
+    "references": [
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "7.5.11",
@@ -26543,6 +28187,23 @@
         "url": "https://doi.org/10.1093/jeea/jvaf054",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "title": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "authors": [
+          "Eoin F. McGuirk",
+          "Nathan Nunn"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "404–441",
+        "doi": "10.1093/restud/rdae027",
+        "url": "https://doi.org/10.1093/restud/rdae027",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26656,6 +28317,61 @@
         "pages": "102360",
         "doi": "10.1016/j.jeem.2020.102360",
         "url": "https://doi.org/10.1016/j.jeem.2020.102360",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.17",
+    "title": "民族志图集与 Murdock 非洲民族地图（Ethnographic Atlas / D-PLACE）",
+    "links": [
+      {
+        "label": "D-PLACE",
+        "url": "https://d-place.org/"
+      }
+    ],
+    "summary": "Murdock（1967）编码的全球 1,265 个前工业社会的经济、亲属、政治和宗教特征，以及 Murdock（1959）的非洲民族分布地图，现可通过 D-PLACE 获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "民族志图集（Ethnographic Atlas）由人类学家 George Murdock 自 1962 年起在 Ethnology 期刊上陆续发表，1967 年汇编成书，共编码全球 1,265 个前工业社会的生计方式（农业、畜牧、渔猎的依赖程度）、定居模式、亲属和婚姻制度、继承规则、政治层级和社会分层等约 100 个变量；Murdock（1959）的非洲民族地图给出了殖民前非洲约 800 个民族的分布范围，数字化版本由 Nunn 等发布。D-PLACE 数据库提供了整理后的民族志图集和其他跨文化数据。\n\n数据常用于研究前殖民时期文化和制度的长期影响，例如用牧业依赖程度研究气候冲击下农牧民之间的冲突。编码基于不同时期的民族志记录，各社会的参照时点不一。",
+    "source": "D-PLACE 网站免费下载。",
+    "references": [
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "title": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "authors": [
+          "Eoin F. McGuirk",
+          "Nathan Nunn"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "404–441",
+        "doi": "10.1093/restud/rdae027",
+        "url": "https://doi.org/10.1093/restud/rdae027",
         "verified": true,
         "note": ""
       }
@@ -27072,6 +28788,43 @@
         "pages": "114–159",
         "doi": "10.1257/mac.20230042",
         "url": "https://doi.org/10.1257/mac.20230042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "High temperature and learning outcomes: Evidence from Ethiopia",
+        "title": "High temperature and learning outcomes: Evidence from Ethiopia",
+        "authors": [
+          "Bhavya Srivastava",
+          "Kibrom Tafere",
+          "A. Patrick Behrer"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "137",
+        "issue": "",
+        "pages": "103278",
+        "doi": "10.1016/j.jeem.2025.103278",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103278",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Frosty climate, icy relationships: Cold and intimate partner violence in Peru",
+        "title": "Frosty climate, icy relationships: Cold and intimate partner violence in Peru",
+        "authors": [
+          "Katie Bollman",
+          "Judhajit Chakraborty",
+          "Leah K. Lakdawala",
+          "Eduardo Nakasone"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103710",
+        "doi": "10.1016/j.jdeveco.2025.103710",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103710",
         "verified": true,
         "note": ""
       }
@@ -27659,6 +29412,24 @@
         "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heat exposure and child nutrition: Evidence from West Africa",
+        "title": "Heat exposure and child nutrition: Evidence from West Africa",
+        "authors": [
+          "Sylvia Blom",
+          "Ariel Ortiz-Bobea",
+          "John Hoddinott"
+        ],
+        "year": 2022,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "115",
+        "issue": "",
+        "pages": "102698",
+        "doi": "10.1016/j.jeem.2022.102698",
+        "url": "https://doi.org/10.1016/j.jeem.2022.102698",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28107,6 +29878,75 @@
         "url": "https://doi.org/10.1257/mac.4.3.66",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heat, infant mortality, and adaptation: Evidence from India",
+        "title": "Heat, infant mortality, and adaptation: Evidence from India",
+        "authors": [
+          "Rakesh Banerjee",
+          "Riddhi Maharaj"
+        ],
+        "year": 2020,
+        "journal": "Journal of Development Economics",
+        "volume": "143",
+        "issue": "",
+        "pages": "102378",
+        "doi": "10.1016/j.jdeveco.2019.102378",
+        "url": "https://doi.org/10.1016/j.jdeveco.2019.102378",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The migration response to increasing temperatures",
+        "title": "The migration response to increasing temperatures",
+        "authors": [
+          "Cristina Cattaneo",
+          "Giovanni Peri"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "127–146",
+        "doi": "10.1016/j.jdeveco.2016.05.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.05.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Has climate change driven urbanization in Africa?",
+        "title": "Has climate change driven urbanization in Africa?",
+        "authors": [
+          "J. Vernon Henderson",
+          "Adam Storeygard",
+          "Uwe Deichmann"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "124",
+        "issue": "",
+        "pages": "60–82",
+        "doi": "10.1016/j.jdeveco.2016.09.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.09.001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28176,6 +30016,24 @@
         "pages": "2658–2694",
         "doi": "10.1093/jeea/jvab009",
         "url": "https://doi.org/10.1093/jeea/jvab009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "title": "Adaptation and the Mortality Effects of Temperature across U.S. Climate Regions",
+        "authors": [
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1162/rest_a_00936",
+        "url": "https://doi.org/10.1162/rest_a_00936",
         "verified": true,
         "note": ""
       }
@@ -29065,6 +30923,23 @@
         "url": "https://doi.org/10.1162/rest_a_00150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "title": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "authors": [
+          "Eoin F. McGuirk",
+          "Nathan Nunn"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "404–441",
+        "doi": "10.1093/restud/rdae027",
+        "url": "https://doi.org/10.1093/restud/rdae027",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29256,6 +31131,24 @@
         "url": "https://doi.org/10.1016/j.jeem.2017.07.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Change and Labour Allocation in Rural Mexico: Evidence from Annual Fluctuations in Weather",
+        "title": "Climate Change and Labour Allocation in Rural Mexico: Evidence from Annual Fluctuations in Weather",
+        "authors": [
+          "Katrina Jessoe",
+          "Dale T. Manning",
+          "J. Edward Taylor"
+        ],
+        "year": 2018,
+        "journal": "The Economic Journal",
+        "volume": "128",
+        "issue": "608",
+        "pages": "230–261",
+        "doi": "10.1111/ecoj.12448",
+        "url": "https://doi.org/10.1111/ecoj.12448",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29370,6 +31263,23 @@
         "pages": "102996",
         "doi": "10.1016/j.jeem.2024.102996",
         "url": "https://doi.org/10.1016/j.jeem.2024.102996",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heat, infant mortality, and adaptation: Evidence from India",
+        "title": "Heat, infant mortality, and adaptation: Evidence from India",
+        "authors": [
+          "Rakesh Banerjee",
+          "Riddhi Maharaj"
+        ],
+        "year": 2020,
+        "journal": "Journal of Development Economics",
+        "volume": "143",
+        "issue": "",
+        "pages": "102378",
+        "doi": "10.1016/j.jdeveco.2019.102378",
+        "url": "https://doi.org/10.1016/j.jdeveco.2019.102378",
         "verified": true,
         "note": ""
       }
@@ -29607,6 +31517,40 @@
         "url": "https://doi.org/10.1093/jeea/jvab054",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The migration response to increasing temperatures",
+        "title": "The migration response to increasing temperatures",
+        "authors": [
+          "Cristina Cattaneo",
+          "Giovanni Peri"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "127–146",
+        "doi": "10.1016/j.jdeveco.2016.05.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2016.05.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "title": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "authors": [
+          "Parag Mahajan",
+          "Dean Yang"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "250–277",
+        "doi": "10.1257/app.20180438",
+        "url": "https://doi.org/10.1257/app.20180438",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29645,6 +31589,48 @@
         "pages": "1145–1197",
         "doi": "10.1093/jeea/jvab054",
         "url": "https://doi.org/10.1093/jeea/jvab054",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.49",
+    "title": "热带气旋最佳路径数据（HURDAT2 / IBTrACS）",
+    "links": [
+      {
+        "label": "NHC 数据档案",
+        "url": "https://www.nhc.noaa.gov/data/"
+      },
+      {
+        "label": "NCEI IBTrACS",
+        "url": "https://www.ncei.noaa.gov/products/international-best-track-archive"
+      }
+    ],
+    "summary": "NOAA 发布的历史热带气旋路径和强度记录：国家飓风中心的 HURDAT2 覆盖大西洋和东北太平洋，IBTrACS 整合全球各预报机构的最佳路径。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "大西洋飓风数据库（HURDAT2）由 NOAA 国家飓风中心（NHC）维护，记录 1851 年以来大西洋和 1949 年以来东北太平洋每个热带气旋每 6 小时的中心位置、最大持续风速、最低气压和风圈半径；国际气候管理最佳路径档案（International Best Track Archive for Climate Stewardship，IBTrACS）由 NOAA NCEI 整合 NHC、联合台风警报中心（JTWC）、日本气象厅等全球各机构的最佳路径，提供统一格式的全球热带气旋数据。两者均可免费下载。\n\n数据常用于构建飓风和台风暴露，例如结合风场模型计算各国或各地区受飓风影响的程度，研究飓风对移民和经济的影响。早期记录依赖船舶报告，强度估计不确定性大，各机构对风速的平均时距定义不同。",
+    "source": "NHC 和 NCEI 网站免费下载。",
+    "references": [
+      {
+        "raw": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "title": "Taken by Storm: Hurricanes, Migrant Networks, and US Immigration",
+        "authors": [
+          "Parag Mahajan",
+          "Dean Yang"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "250–277",
+        "doi": "10.1257/app.20180438",
+        "url": "https://doi.org/10.1257/app.20180438",
         "verified": true,
         "note": ""
       }
@@ -30404,6 +32390,40 @@
         "url": "https://doi.org/10.1111/ecoj.12042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "title": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "authors": [
+          "Eoin F. McGuirk",
+          "Nathan Nunn"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "404–441",
+        "doi": "10.1093/restud/rdae027",
+        "url": "https://doi.org/10.1093/restud/rdae027",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30480,6 +32500,99 @@
         "pages": "66–95",
         "doi": "10.1257/mac.4.3.66",
         "url": "https://doi.org/10.1257/mac.4.3.66",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.8",
+    "title": "ACLED 武装冲突地点与事件数据",
+    "links": [
+      {
+        "label": "ACLED",
+        "url": "https://acleddata.com/data/"
+      }
+    ],
+    "summary": "记录全球政治暴力和抗议事件的地理编码数据库，非洲始于 1997 年，现覆盖全球，按周更新事件日期、地点、参与方和死亡人数。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "武装冲突地点与事件数据项目（Armed Conflict Location & Event Data Project，ACLED）由 Raleigh 等于 2010 年创建，现为独立非营利组织，依据新闻、地方报告和合作伙伴信息记录政治暴力事件（战斗、针对平民的暴力、爆炸和远程暴力）、抗议和骚乱以及战略性发展事件，每条记录包括日期、精确到村镇的地点、参与方类型和名称、死亡人数。非洲数据始于 1997 年，其他地区从 2010 年代起陆续纳入，研究者注册后可下载。\n\n数据常用于研究冲突的空间和时间分布，例如在格网层面研究干旱和植被冲击引发的农牧冲突。ACLED 不设死亡人数门槛，与 UCDP 的事件定义不同；2023 年后的使用条款对数据再分发有限制。",
+    "source": "注册后免费下载（学术用途）。",
+    "references": [
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "title": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "authors": [
+          "Eoin F. McGuirk",
+          "Nathan Nunn"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "404–441",
+        "doi": "10.1093/restud/rdae027",
+        "url": "https://doi.org/10.1093/restud/rdae027",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.9",
+    "title": "族群权力关系数据集（Ethnic Power Relations，EPR）",
+    "links": [
+      {
+        "label": "ETH ICR EPR",
+        "url": "https://icr.ethz.ch/data/epr/"
+      }
+    ],
+    "summary": "苏黎世联邦理工学院编制的 1946 年以来各国政治相关族群及其对国家权力掌控程度的数据，含 GeoEPR 族群居住地图层。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "族群权力关系数据集（Ethnic Power Relations，EPR）由苏黎世联邦理工学院国际冲突研究组（ICR）的 Cederman、Wimmer、Min 等编制，识别 1946 年以来约 170 个国家中所有政治相关的族群，并按年记录各族群对中央政府行政权力的掌控程度（垄断、主导、高级伙伴、初级伙伴、无权、被歧视等）；GeoEPR 给出族群定居区域的空间多边形，ACD2EPR 把 UCDP 冲突与族群相链接。数据可在 ICR 网站下载。\n\n数据常用于研究族群政治排斥与冲突，例如考察受气候冲击的族群是否因政治边缘化更易卷入冲突。族群的识别依赖专家判断，地理边界较为粗略。",
+    "source": "ICR 网站免费下载。",
+    "references": [
+      {
+        "raw": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "title": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "authors": [
+          "Eoin F. McGuirk",
+          "Nathan Nunn"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "404–441",
+        "doi": "10.1093/restud/rdae027",
+        "url": "https://doi.org/10.1093/restud/rdae027",
         "verified": true,
         "note": ""
       }
@@ -31795,6 +33908,44 @@
     ]
   },
   {
+    "id": "7.14.16",
+    "title": "MIRCA2000 全球作物种植面积与生长季数据",
+    "links": [
+      {
+        "label": "MIRCA2000",
+        "url": "https://www.uni-frankfurt.de/45218031/MIRCA"
+      }
+    ],
+    "summary": "法兰克福大学构建的约 2000 年全球 5 弧分格网 26 种作物灌溉和雨养种植面积及月度种植日历。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "农业数据"
+    ],
+    "introduction": "MIRCA2000（Monthly Irrigated and Rainfed Crop Areas around the year 2000）由法兰克福大学 Portmann、Siebert 和 Döll（2010）构建，结合各国和次国家农业统计、全球灌溉面积图和作物日历，给出 2000 年前后全球 5 弧分（约 9 公里）格网上 26 类作物（含多季作物）的灌溉和雨养种植面积以及逐月的种植面积，从而确定各地作物的生长季。数据可在法兰克福大学网站下载。\n\n数据常用于确定各地主要作物的生长季，例如只用生长季内的降水和气温构建农业冲击变量。数据为单一年份的截面，无法反映种植结构和日历的长期变化。",
+    "source": "法兰克福大学网站免费下载。",
+    "references": [
+      {
+        "raw": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "title": "Transhumant Pastoralism, Climate Change, and Conflict in Africa",
+        "authors": [
+          "Eoin F. McGuirk",
+          "Nathan Nunn"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "404–441",
+        "doi": "10.1093/restud/rdae027",
+        "url": "https://doi.org/10.1093/restud/rdae027",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.15.1",
     "title": "联合国商品贸易统计数据库（UN Comtrade）",
     "links": [
@@ -32372,6 +34523,44 @@
         "pages": "877–908",
         "doi": "10.1257/aer.91.4.877",
         "url": "https://doi.org/10.1257/aer.91.4.877",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.10",
+    "title": "跨大西洋奴隶贸易数据库（SlaveVoyages）",
+    "links": [
+      {
+        "label": "SlaveVoyages",
+        "url": "https://www.slavevoyages.org/"
+      }
+    ],
+    "summary": "Eltis 等编制的 1514–1866 年约 3.6 万次跨大西洋奴隶贸易航程记录，包括出发港、非洲装运地、美洲登陆地和人数。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "跨大西洋奴隶贸易数据库（Trans-Atlantic Slave Trade Database）由 David Eltis、David Richardson 等历史学家在数十年档案研究基础上编制，现由 SlaveVoyages 网站维护，收录 1514–1866 年约 36,000 次奴隶贸易航程，记录船名、船旗国、出发港、非洲的装运地区和港口、美洲的登陆地、装运和登陆的奴隶人数及航行日期，并提供历年总量估计；网站还包括美洲内部奴隶贸易和非洲人名数据库。\n\n数据常用于研究奴隶贸易对非洲的长期影响，例如考察气候冲击与非洲各地区奴隶出口量的关系。部分航程信息缺失，按港口汇总到民族或地区需要额外假设。",
+    "source": "SlaveVoyages 网站免费查询和下载。",
+    "references": [
+      {
+        "raw": "Climate and the slave trade",
+        "title": "Climate and the slave trade",
+        "authors": [
+          "James Fenske",
+          "Namrata Kala"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "19–32",
+        "doi": "10.1016/j.jdeveco.2014.10.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
         "verified": true,
         "note": ""
       }
