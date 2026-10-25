@@ -183,6 +183,26 @@
         "url": "https://doi.org/10.1016/j.jeem.2023.102837",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "title": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "authors": [
+          "Caiquan Bai",
+          "Jing Cao",
+          "Ming Huang",
+          "Chen Xi",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103692",
+        "doi": "10.1016/j.jdeveco.2025.103692",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -400,6 +420,26 @@
         "pages": "",
         "doi": "10.3386/w23741",
         "url": "https://doi.org/10.3386/w23741",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "title": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "authors": [
+          "Caiquan Bai",
+          "Jing Cao",
+          "Ming Huang",
+          "Chen Xi",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103692",
+        "doi": "10.1016/j.jdeveco.2025.103692",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
         "verified": true,
         "note": ""
       }
@@ -1189,6 +1229,42 @@
         "url": "https://doi.org/10.1016/j.jeem.2024.102996",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+        "title": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+        "authors": [
+          "Peng Zhang",
+          "Olivier Deschênes",
+          "Kyle Meng",
+          "Junjie Zhang"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "1–17",
+        "doi": "10.1016/j.jeem.2017.11.001",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature and industrial output: Firm-level evidence from China",
+        "title": "Temperature and industrial output: Firm-level evidence from China",
+        "authors": [
+          "Xiaoguang Chen",
+          "Lu Yang"
+        ],
+        "year": 2019,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "95",
+        "issue": "",
+        "pages": "257–274",
+        "doi": "10.1016/j.jeem.2017.07.009",
+        "url": "https://doi.org/10.1016/j.jeem.2017.07.009",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1395,6 +1471,23 @@
         "pages": "102893",
         "doi": "10.1016/j.jeem.2023.102893",
         "url": "https://doi.org/10.1016/j.jeem.2023.102893",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From heat to high-tech: How innovation responds to climate change",
+        "title": "From heat to high-tech: How innovation responds to climate change",
+        "authors": [
+          "Xianling Long",
+          "Zhiqiang Wang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "103525",
+        "doi": "10.1016/j.jdeveco.2025.103525",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103525",
         "verified": true,
         "note": ""
       }
@@ -1722,6 +1815,45 @@
         "url": "https://doi.org/10.1016/j.jeem.2024.102996",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adaptation to temperature extremes in Chinese agriculture, 1981 to 2010",
+        "title": "Adaptation to temperature extremes in Chinese agriculture, 1981 to 2010",
+        "authors": [
+          "Di Wang",
+          "Peng Zhang",
+          "Shuai Chen",
+          "Ning Zhang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "166",
+        "issue": "",
+        "pages": "103196",
+        "doi": "10.1016/j.jdeveco.2023.103196",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103196",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "title": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "authors": [
+          "Caiquan Bai",
+          "Jing Cao",
+          "Ming Huang",
+          "Chen Xi",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103692",
+        "doi": "10.1016/j.jdeveco.2025.103692",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1760,6 +1892,23 @@
         "pages": "103378",
         "doi": "10.1016/j.jeem.2026.103378",
         "url": "https://doi.org/10.1016/j.jeem.2026.103378",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From heat to high-tech: How innovation responds to climate change",
+        "title": "From heat to high-tech: How innovation responds to climate change",
+        "authors": [
+          "Xianling Long",
+          "Zhiqiang Wang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "103525",
+        "doi": "10.1016/j.jdeveco.2025.103525",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103525",
         "verified": true,
         "note": ""
       }
@@ -1893,6 +2042,44 @@
         "pages": "2135–2185",
         "doi": "10.1093/qje/qjaa024",
         "url": "https://doi.org/10.1093/qje/qjaa024",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.5.2",
+    "title": "中国历史地理信息系统（CHGIS）",
+    "links": [
+      {
+        "label": "CHGIS 官网",
+        "url": "https://chgis.fas.harvard.edu/"
+      }
+    ],
+    "summary": "复旦大学与哈佛大学合作建设的中国历史行政区划与治所数据库，覆盖公元前 221 年至 1911 年历代府州县的边界和治所点位。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "中国历史地理信息系统（China Historical GIS，CHGIS）由复旦大学历史地理研究中心与哈佛大学费正清中国研究中心自 2001 年起合作建设，以谭其骧主编的《中国历史地图集》等为基础，记录秦朝至清末历代行政单元的名称、层级、存续年份、治所坐标和部分时期的边界多边形，第 4 版以后还提供 1820 年和 1911 年的完整边界图层，可通过 Harvard Dataverse 下载。\n\n数据常用于把历史文献记录落到空间单元上，例如研究历史上气候冲击与中原王朝和游牧政权冲突的关系时确定战争与灾害发生地。早期朝代多只有治所点而无边界，跨朝代比较需要自行处理行政区划变迁。",
+    "source": "Harvard Dataverse 免费下载（需同意使用条款）。",
+    "references": [
+      {
+        "raw": "Climate Shocks and Sino-nomadic Conflict",
+        "title": "Climate Shocks and Sino-nomadic Conflict",
+        "authors": [
+          "Ying Bai",
+          "James Kai-sing Kung"
+        ],
+        "year": 2011,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "93",
+        "issue": "3",
+        "pages": "970–981",
+        "doi": "10.1162/REST_a_00106",
+        "url": "https://doi.org/10.1162/REST_a_00106",
         "verified": true,
         "note": ""
       }
@@ -2150,6 +2337,26 @@
         "pages": "102996",
         "doi": "10.1016/j.jeem.2024.102996",
         "url": "https://doi.org/10.1016/j.jeem.2024.102996",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "title": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "authors": [
+          "Caiquan Bai",
+          "Jing Cao",
+          "Ming Huang",
+          "Chen Xi",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103692",
+        "doi": "10.1016/j.jdeveco.2025.103692",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
         "verified": true,
         "note": ""
       }
@@ -2446,6 +2653,62 @@
         "pages": "102557",
         "doi": "10.1016/j.jdeveco.2020.102557",
         "url": "https://doi.org/10.1016/j.jdeveco.2020.102557",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation to temperature extremes in Chinese agriculture, 1981 to 2010",
+        "title": "Adaptation to temperature extremes in Chinese agriculture, 1981 to 2010",
+        "authors": [
+          "Di Wang",
+          "Peng Zhang",
+          "Shuai Chen",
+          "Ning Zhang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "166",
+        "issue": "",
+        "pages": "103196",
+        "doi": "10.1016/j.jdeveco.2023.103196",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103196",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature and industrial output: Firm-level evidence from China",
+        "title": "Temperature and industrial output: Firm-level evidence from China",
+        "authors": [
+          "Xiaoguang Chen",
+          "Lu Yang"
+        ],
+        "year": 2019,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "95",
+        "issue": "",
+        "pages": "257–274",
+        "doi": "10.1016/j.jeem.2017.07.009",
+        "url": "https://doi.org/10.1016/j.jeem.2017.07.009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "title": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "authors": [
+          "Caiquan Bai",
+          "Jing Cao",
+          "Ming Huang",
+          "Chen Xi",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103692",
+        "doi": "10.1016/j.jdeveco.2025.103692",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
         "verified": true,
         "note": ""
       }
@@ -3215,6 +3478,23 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2020.102468",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "From heat to high-tech: How innovation responds to climate change",
+        "title": "From heat to high-tech: How innovation responds to climate change",
+        "authors": [
+          "Xianling Long",
+          "Zhiqiang Wang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "103525",
+        "doi": "10.1016/j.jdeveco.2025.103525",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103525",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3291,6 +3571,25 @@
         "pages": "102557",
         "doi": "10.1016/j.jdeveco.2020.102557",
         "url": "https://doi.org/10.1016/j.jdeveco.2020.102557",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation to temperature extremes in Chinese agriculture, 1981 to 2010",
+        "title": "Adaptation to temperature extremes in Chinese agriculture, 1981 to 2010",
+        "authors": [
+          "Di Wang",
+          "Peng Zhang",
+          "Shuai Chen",
+          "Ning Zhang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "166",
+        "issue": "",
+        "pages": "103196",
+        "doi": "10.1016/j.jdeveco.2023.103196",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103196",
         "verified": true,
         "note": ""
       }
@@ -3921,6 +4220,22 @@
         "pages": "427–472",
         "doi": "10.1257/aer.20170237",
         "url": "https://doi.org/10.1257/aer.20170237",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agricultural Diversity, Structural Change, and Long-Run Development: Evidence from the United States",
+        "title": "Agricultural Diversity, Structural Change, and Long-Run Development: Evidence from the United States",
+        "authors": [
+          "Martin Fiszbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–43",
+        "doi": "10.1257/mac.20190285",
+        "url": "https://doi.org/10.1257/mac.20190285",
         "verified": true,
         "note": ""
       }
@@ -6715,6 +7030,22 @@
         "url": "https://doi.org/10.1086/729899",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Agricultural Diversity, Structural Change, and Long-Run Development: Evidence from the United States",
+        "title": "Agricultural Diversity, Structural Change, and Long-Run Development: Evidence from the United States",
+        "authors": [
+          "Martin Fiszbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–43",
+        "doi": "10.1257/mac.20190285",
+        "url": "https://doi.org/10.1257/mac.20190285",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9083,6 +9414,62 @@
         "pages": "517–536",
         "doi": "10.1016/j.jeem.2017.07.006",
         "url": "https://doi.org/10.1016/j.jeem.2017.07.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+        "title": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+        "authors": [
+          "Peng Zhang",
+          "Olivier Deschênes",
+          "Kyle Meng",
+          "Junjie Zhang"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "1–17",
+        "doi": "10.1016/j.jeem.2017.11.001",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "title": "Feeling the same heat? Urban–rural inequalities in adapting to extreme temperatures via electricity consumption",
+        "authors": [
+          "Caiquan Bai",
+          "Jing Cao",
+          "Ming Huang",
+          "Chen Xi",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103692",
+        "doi": "10.1016/j.jdeveco.2025.103692",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Shocks and Sino-nomadic Conflict",
+        "title": "Climate Shocks and Sino-nomadic Conflict",
+        "authors": [
+          "Ying Bai",
+          "James Kai-sing Kung"
+        ],
+        "year": 2011,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "93",
+        "issue": "3",
+        "pages": "970–981",
+        "doi": "10.1162/REST_a_00106",
+        "url": "https://doi.org/10.1162/REST_a_00106",
         "verified": true,
         "note": ""
       }
@@ -17694,6 +18081,23 @@
         "url": "https://www.nber.org/papers/w31221",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "title": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "authors": [
+          "Matthias Kalkuhl",
+          "Leonie Wenz"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "103",
+        "issue": "",
+        "pages": "102360",
+        "doi": "10.1016/j.jeem.2020.102360",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102360",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19245,6 +19649,43 @@
     ]
   },
   {
+    "id": "3.6.9",
+    "title": "欧洲季节气温重建数据（Luterbacher 等）",
+    "links": [
+      {
+        "label": "NOAA 古气候数据库",
+        "url": "https://www.ncei.noaa.gov/access/paleo-search/study/6288"
+      }
+    ],
+    "summary": "Luterbacher 等（2004）基于器测记录、文献记载和树轮等代用资料重建的 1500 年以来欧洲 0.5 度格网季节和月度气温。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "欧洲季节气温重建数据由 Luterbacher、Dietrich、Xoplaki 等（2004，Science）构建，结合长序列器测观测、历史文献中的物候和天气描述以及树轮、冰芯等代用资料，用主成分回归方法重建了 1500 年至今欧洲（西经 25 度至东经 40 度、北纬 35 度至 70 度）0.5 度格网的季节气温，1659 年以后为月度分辨率。数据由 NOAA 古气候数据库（World Data Service for Paleoclimatology）公开发布。\n\n数据常用于经济史研究中的长期气候冲击，例如研究小冰期气温变化与欧洲城市人口增长和农业生产的关系。越早的年份代用资料越少，重建不确定性越大，空间细节主要来自少数站点的插值。",
+    "source": "NOAA 古气候数据库免费下载。",
+    "references": [
+      {
+        "raw": "The Economic Effects of Long-Term Climate Change: Evidence from the Little Ice Age",
+        "title": "The Economic Effects of Long-Term Climate Change: Evidence from the Little Ice Age",
+        "authors": [
+          "Maria Waldinger"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "9",
+        "pages": "2275–2314",
+        "doi": "10.1086/720393",
+        "url": "https://doi.org/10.1086/720393",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.7.1",
     "title": "伊比利亚电力市场运营商（OMIE）报价与出清数据",
     "links": [
@@ -20048,6 +20489,25 @@
         "url": "https://doi.org/10.1093/qje/qjt024",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Temperature on Productivity and Labor Supply: Evidence from Indian Manufacturing",
+        "title": "The Impact of Temperature on Productivity and Labor Supply: Evidence from Indian Manufacturing",
+        "authors": [
+          "E. Somanathan",
+          "Rohini Somanathan",
+          "Anant Sudarshan",
+          "Meenu Tewari"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "6",
+        "pages": "1797–1827",
+        "doi": "10.1086/713733",
+        "url": "https://doi.org/10.1086/713733",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20470,6 +20930,25 @@
         "url": "https://doi.org/10.1257/aer.20140389",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Temperature on Productivity and Labor Supply: Evidence from Indian Manufacturing",
+        "title": "The Impact of Temperature on Productivity and Labor Supply: Evidence from Indian Manufacturing",
+        "authors": [
+          "E. Somanathan",
+          "Rohini Somanathan",
+          "Anant Sudarshan",
+          "Meenu Tewari"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "6",
+        "pages": "1797–1827",
+        "doi": "10.1086/713733",
+        "url": "https://doi.org/10.1086/713733",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20787,6 +21266,25 @@
         "pages": "587–624",
         "doi": "10.1257/aer.20140389",
         "url": "https://doi.org/10.1257/aer.20140389",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Temperature on Productivity and Labor Supply: Evidence from Indian Manufacturing",
+        "title": "The Impact of Temperature on Productivity and Labor Supply: Evidence from Indian Manufacturing",
+        "authors": [
+          "E. Somanathan",
+          "Rohini Somanathan",
+          "Anant Sudarshan",
+          "Meenu Tewari"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "6",
+        "pages": "1797–1827",
+        "doi": "10.1086/713733",
+        "url": "https://doi.org/10.1086/713733",
         "verified": true,
         "note": ""
       }
@@ -21641,6 +22139,43 @@
         "pages": "1–35",
         "doi": "10.1257/pol.20190316",
         "url": "https://doi.org/10.1257/pol.20190316",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.2.7",
+    "title": "智利全国社会经济特征调查（CASEN）",
+    "links": [
+      {
+        "label": "CASEN 官网",
+        "url": "https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen"
+      }
+    ],
+    "summary": "智利社会发展与家庭部主持的全国住户调查，自 1987 年起每 2–3 年一轮，记录住户收入、贫困、就业、教育、健康和住房。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "全国社会经济特征调查（Encuesta de Caracterización Socioeconómica Nacional，CASEN）由智利社会发展与家庭部（原规划部）自 1987 年起组织实施，每轮调查约 6–8 万户，样本可代表全国、大区和多数市镇，收集住户成员的收入来源、贫困状况、劳动参与、教育、健康保险、住房条件和社会项目受益情况，是智利官方贫困和收入分配统计的基础。各轮微观数据和问卷在社会发展部观测站网站公开下载。\n\n数据常用于智利的收入、贫困和劳动市场研究，例如用市镇层面的农业就业和收入特征研究气候冲击对农村地区的影响。各轮的抽样框和收入定义有调整，跨年比较需使用官方的可比收入变量。",
+    "source": "社会发展部观测站网站免费下载（链接经搜索确认，访问超时）。",
+    "references": [
+      {
+        "raw": "Climate change response: Input adjustment in agriculture",
+        "title": "Climate change response: Input adjustment in agriculture",
+        "authors": [
+          "Sebastián Figari"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "103472",
+        "doi": "10.1016/j.jdeveco.2025.103472",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103472",
         "verified": true,
         "note": ""
       }
@@ -22752,6 +23287,44 @@
     ]
   },
   {
+    "id": "5.14.2",
+    "title": "智利农业普查（Censo Agropecuario y Forestal）",
+    "links": [
+      {
+        "label": "INE 农业普查",
+        "url": "https://www.ine.gob.cl/estadisticas/economia/agricultura-agroindustria-y-pesca/censos-agropecuarios"
+      }
+    ],
+    "summary": "智利国家统计局约每十年开展一次的农林业普查（1997、2007、2021 年等），记录农场的土地利用、作物面积、灌溉、畜牧和劳动力。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "普查数据",
+      "农业数据"
+    ],
+    "introduction": "智利农业与林业普查（Censo Nacional Agropecuario y Forestal）由国家统计局（INE）与农业部合作实施，最近几轮为 1997、2007 和 2021 年，普查对象为全国所有农林业生产单位，记录土地面积和权属、各类作物和果树种植面积、灌溉面积和方式、畜禽存栏、林地、机械和劳动力等信息，结果按大区、省和市镇汇总发布，部分轮次提供微观数据。\n\n数据常用于研究智利农业对气候的响应，例如用两轮普查之间市镇作物结构和产出的变化估计高温和降水对农业的长期影响。普查间隔长，各轮作物分类有差异，需要统一口径后再比较。",
+    "source": "INE 网站免费下载汇总结果和部分微观数据。",
+    "references": [
+      {
+        "raw": "Climate change response: Input adjustment in agriculture",
+        "title": "Climate change response: Input adjustment in agriculture",
+        "authors": [
+          "Sebastián Figari"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "103472",
+        "doi": "10.1016/j.jdeveco.2025.103472",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103472",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.1.1",
     "title": "乌干达人口与住房普查",
     "links": [
@@ -23297,6 +23870,22 @@
         "url": "https://doi.org/10.1257/pol.20180764",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Agricultural Diversity, Structural Change, and Long-Run Development: Evidence from the United States",
+        "title": "Agricultural Diversity, Structural Change, and Long-Run Development: Evidence from the United States",
+        "authors": [
+          "Martin Fiszbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–43",
+        "doi": "10.1257/mac.20190285",
+        "url": "https://doi.org/10.1257/mac.20190285",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23670,6 +24259,46 @@
         "pages": "587–624",
         "doi": "10.1257/aer.20140389",
         "url": "https://doi.org/10.1257/aer.20140389",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.2.8",
+    "title": "盖洛普世界民意调查（Gallup World Poll）",
+    "links": [
+      {
+        "label": "Gallup World Poll",
+        "url": "https://www.gallup.com/analytics/318875/global-research.aspx"
+      }
+    ],
+    "summary": "盖洛普自 2005 年起在 160 多个国家每年开展的代表性个人调查，涵盖幸福感、收入、就业、移民意愿、治理和社会信任等。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "盖洛普世界民意调查（Gallup World Poll）自 2005 年起在全球 160 多个国家和地区开展，每国每年约访问 1,000 名 15 岁以上居民，采用电话或面访，问卷包括生活满意度和情绪、家庭收入、就业状况、迁移意愿和计划、对政府和机构的信任、腐败感知、食品安全等核心模块，数据具有国家代表性，可按国家和年份比较。\n\n数据常用于跨国福利和迁移研究，例如用迁移意愿问题校准气候变化下国际移民的模型。数据需付费订阅，部分学术机构通过 Gallup Analytics 获得访问权限。",
+    "source": "Gallup Analytics 付费订阅。",
+    "references": [
+      {
+        "raw": "Climate Change, Inequality, and Human Migration",
+        "title": "Climate Change, Inequality, and Human Migration",
+        "authors": [
+          "Michał Burzyński",
+          "Christoph Deuster",
+          "Frédéric Docquier",
+          "Jaime de Melo"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1145–1197",
+        "doi": "10.1093/jeea/jvab054",
+        "url": "https://doi.org/10.1093/jeea/jvab054",
         "verified": true,
         "note": ""
       }
@@ -24172,6 +24801,97 @@
         "url": "https://doi.org/10.1093/jeea/jvab009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "authors": [
+          "Melissa Dell",
+          "Benjamin F. Jones",
+          "Benjamin A. Olken"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "4",
+        "issue": "3",
+        "pages": "66–95",
+        "doi": "10.1257/mac.4.3.66",
+        "url": "https://doi.org/10.1257/mac.4.3.66",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+        "title": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+        "authors": [
+          "Peng Zhang",
+          "Olivier Deschênes",
+          "Kyle Meng",
+          "Junjie Zhang"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "1–17",
+        "doi": "10.1016/j.jeem.2017.11.001",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "title": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "authors": [
+          "Berkay Akyapı",
+          "Matthieu Bellon",
+          "Emanuele Massetti"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "114–159",
+        "doi": "10.1257/mac.20230042",
+        "url": "https://doi.org/10.1257/mac.20230042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, Inequality, and Human Migration",
+        "title": "Climate Change, Inequality, and Human Migration",
+        "authors": [
+          "Michał Burzyński",
+          "Christoph Deuster",
+          "Frédéric Docquier",
+          "Jaime de Melo"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1145–1197",
+        "doi": "10.1093/jeea/jvab054",
+        "url": "https://doi.org/10.1093/jeea/jvab054",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Drought and Civil War in Sub-Saharan Africa",
+        "title": "Drought and Civil War in Sub-Saharan Africa",
+        "authors": [
+          "Mathieu Couttenier",
+          "Raphael Soubeyran"
+        ],
+        "year": 2014,
+        "journal": "The Economic Journal",
+        "volume": "124",
+        "issue": "575",
+        "pages": "201–244",
+        "doi": "10.1111/ecoj.12042",
+        "url": "https://doi.org/10.1111/ecoj.12042",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24374,6 +25094,24 @@
         "pages": "3241–3273",
         "doi": "10.1093/ej/ueab033",
         "url": "https://doi.org/10.1093/ej/ueab033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "authors": [
+          "Melissa Dell",
+          "Benjamin F. Jones",
+          "Benjamin A. Olken"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "4",
+        "issue": "3",
+        "pages": "66–95",
+        "doi": "10.1257/mac.4.3.66",
+        "url": "https://doi.org/10.1257/mac.4.3.66",
         "verified": true,
         "note": ""
       }
@@ -24622,6 +25360,25 @@
         "pages": "333–360",
         "doi": "10.1257/pol.20170046",
         "url": "https://doi.org/10.1257/pol.20170046",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, Inequality, and Human Migration",
+        "title": "Climate Change, Inequality, and Human Migration",
+        "authors": [
+          "Michał Burzyński",
+          "Christoph Deuster",
+          "Frédéric Docquier",
+          "Jaime de Melo"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1145–1197",
+        "doi": "10.1093/jeea/jvab054",
+        "url": "https://doi.org/10.1093/jeea/jvab054",
         "verified": true,
         "note": ""
       }
@@ -25092,6 +25849,105 @@
         "url": "https://doi.org/10.1257/pol.20170046",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "title": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "authors": [
+          "Berkay Akyapı",
+          "Matthieu Bellon",
+          "Emanuele Massetti"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "114–159",
+        "doi": "10.1257/mac.20230042",
+        "url": "https://doi.org/10.1257/mac.20230042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.20",
+    "title": "USDA ERS 国际宏观经济数据集",
+    "links": [
+      {
+        "label": "USDA ERS",
+        "url": "https://www.ers.usda.gov/data-products/international-macroeconomic-data-set"
+      }
+    ],
+    "summary": "美国农业部经济研究局整理的约 190 个国家 1969 年以来实际 GDP、人口、汇率等宏观序列及至 2030 年代的预测。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "国际宏观经济数据集（International Macroeconomic Data Set）由美国农业部经济研究局（USDA ERS）维护，汇总世界银行、IMF、联合国和 IHS 等来源，提供约 190 个国家和地区 1969 年以来的实际 GDP（按 2015 年美元）、人均 GDP、人口、消费者价格指数和汇率等年度数据，并给出未来约十年的基准预测，用于美国农业基准展望。数据以 Excel 表格公开发布，每年更新。\n\n数据常用于需要长时间、覆盖全面且口径统一的国别 GDP 序列的研究，例如在气候移民模型中校准各国收入和增长路径。该数据集是二次整合产品，与原始来源的修订可能存在时间差。",
+    "source": "ERS 网站免费下载。",
+    "references": [
+      {
+        "raw": "Climate Change, Inequality, and Human Migration",
+        "title": "Climate Change, Inequality, and Human Migration",
+        "authors": [
+          "Michał Burzyński",
+          "Christoph Deuster",
+          "Frédéric Docquier",
+          "Jaime de Melo"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1145–1197",
+        "doi": "10.1093/jeea/jvab054",
+        "url": "https://doi.org/10.1093/jeea/jvab054",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.21",
+    "title": "OECD 移民数据库（DIOC）",
+    "links": [
+      {
+        "label": "OECD DIOC",
+        "url": "https://www.oecd.org/en/data/datasets/database-on-immigrants-in-oecd-and-non-oecd-countries.html"
+      }
+    ],
+    "summary": "OECD 基于各国人口普查整理的移民存量数据，按出生国、目的国、性别、年龄和教育程度分类，覆盖 2000/01、2005/06、2010/11、2015/16 等轮次。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "普查数据"
+    ],
+    "introduction": "OECD 及非 OECD 国家移民数据库（Database on Immigrants in OECD and non-OECD Countries，DIOC）由 OECD 国际移民司依据各国人口普查和大型劳动力调查编制，记录目的国中按出生国划分的移民人数，并按性别、年龄组、受教育程度、职业和劳动力状态分类；DIOC-E 扩展版纳入了非 OECD 目的国。数据可用于构建按教育程度分组的双边移民存量矩阵。\n\n数据常用于研究国际移民的规模和技能结构，例如为气候变化与移民的一般均衡模型校准初始的双边移民分布。各轮次的国家覆盖不同，部分来源国的细分类别有缺失。",
+    "source": "OECD 网站免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Climate Change, Inequality, and Human Migration",
+        "title": "Climate Change, Inequality, and Human Migration",
+        "authors": [
+          "Michał Burzyński",
+          "Christoph Deuster",
+          "Frédéric Docquier",
+          "Jaime de Melo"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1145–1197",
+        "doi": "10.1093/jeea/jvab054",
+        "url": "https://doi.org/10.1093/jeea/jvab054",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25297,6 +26153,23 @@
         "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "title": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "authors": [
+          "Matthias Kalkuhl",
+          "Leonie Wenz"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "103",
+        "issue": "",
+        "pages": "102360",
+        "doi": "10.1016/j.jeem.2020.102360",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102360",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25388,6 +26261,24 @@
         "pages": "2658–2694",
         "doi": "10.1093/jeea/jvab009",
         "url": "https://doi.org/10.1093/jeea/jvab009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "title": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "authors": [
+          "Berkay Akyapı",
+          "Matthieu Bellon",
+          "Emanuele Massetti"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "114–159",
+        "doi": "10.1257/mac.20230042",
+        "url": "https://doi.org/10.1257/mac.20230042",
         "verified": true,
         "note": ""
       }
@@ -25493,6 +26384,22 @@
         "pages": "939–993",
         "doi": "10.1093/qje/qjt056",
         "url": "https://doi.org/10.1093/qje/qjt056",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Effects of Long-Term Climate Change: Evidence from the Little Ice Age",
+        "title": "The Economic Effects of Long-Term Climate Change: Evidence from the Little Ice Age",
+        "authors": [
+          "Maria Waldinger"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "9",
+        "pages": "2275–2314",
+        "doi": "10.1086/720393",
+        "url": "https://doi.org/10.1086/720393",
         "verified": true,
         "note": ""
       }
@@ -25672,6 +26579,83 @@
         "pages": "1332–1367",
         "doi": "10.1093/jeea/jvaf054",
         "url": "https://doi.org/10.1093/jeea/jvaf054",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.15",
+    "title": "全球城乡制图项目（GRUMP）",
+    "links": [
+      {
+        "label": "SEDAC GRUMP",
+        "url": "https://sedac.ciesin.columbia.edu/data/collection/grump-v1"
+      }
+    ],
+    "summary": "哥伦比亚大学 CIESIN 制作的全球 30 角秒人口格网与城市范围数据，结合人口普查与夜间灯光划定城市，基准年为 1990、1995 和 2000 年。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "全球城乡制图项目（Global Rural-Urban Mapping Project，GRUMP）第 1 版由哥伦比亚大学国际地球科学信息网络中心（CIESIN）等机构开发，在 GPW 的基础上利用夜间灯光和城市点位数据划定城市范围，再按城乡分别分配普查人口，生成 1990、1995 和 2000 年的 30 角秒人口计数和密度格网、城市范围多边形、城市点位及土地面积和国家边界格网，由 NASA SEDAC 发布。\n\n数据常用于测算格网或国家层面的人口分布和城市化，例如用 1990 年人口格网把格网气候变量加权汇总到国家层面。城市范围依赖夜间灯光，会高估大城市、遗漏低亮度的小城镇。",
+    "source": "NASA SEDAC 免费下载（需 Earthdata 注册；链接经搜索确认，访问超时）。",
+    "references": [
+      {
+        "raw": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "authors": [
+          "Melissa Dell",
+          "Benjamin F. Jones",
+          "Benjamin A. Olken"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "4",
+        "issue": "3",
+        "pages": "66–95",
+        "doi": "10.1257/mac.4.3.66",
+        "url": "https://doi.org/10.1257/mac.4.3.66",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.16",
+    "title": "全球多分辨率地形高程数据（GMTED2010）",
+    "links": [
+      {
+        "label": "USGS GMTED2010",
+        "url": "https://www.usgs.gov/coastal-changes-and-impacts/gmted2010"
+      }
+    ],
+    "summary": "USGS 与美国国家地理空间情报局联合发布的全球数字高程模型，提供 30、15 和 7.5 角秒三种分辨率。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "全球多分辨率地形高程数据 2010（Global Multi-resolution Terrain Elevation Data 2010，GMTED2010）由美国地质调查局（USGS）和国家地理空间情报局（NGA）联合制作，取代了早期的 GTOPO30，融合 SRTM、加拿大和格陵兰等多种高程源，在 30、15 和 7.5 角秒分辨率下提供最小、最大、平均、中值高程和标准差等多种统计产品，覆盖北纬 84 度至南纬 56 度以外的全部陆地。数据可通过 USGS EarthExplorer 免费下载。\n\n数据常用于构建地形和海拔控制变量，例如在全球地区层面研究气温对经济产出的影响时控制平均海拔。多源拼接导致不同区域精度不一，高纬度和数据稀缺地区误差较大。",
+    "source": "USGS EarthExplorer 免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "title": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "authors": [
+          "Matthias Kalkuhl",
+          "Leonie Wenz"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "103",
+        "issue": "",
+        "pages": "102360",
+        "doi": "10.1016/j.jeem.2020.102360",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102360",
         "verified": true,
         "note": ""
       }
@@ -26055,6 +27039,41 @@
         "url": "https://doi.org/10.1093/jeea/jvaf054",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "title": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "authors": [
+          "Matthias Kalkuhl",
+          "Leonie Wenz"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "103",
+        "issue": "",
+        "pages": "102360",
+        "doi": "10.1016/j.jeem.2020.102360",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102360",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "title": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "authors": [
+          "Berkay Akyapı",
+          "Matthieu Bellon",
+          "Emanuele Massetti"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "114–159",
+        "doi": "10.1257/mac.20230042",
+        "url": "https://doi.org/10.1257/mac.20230042",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26230,6 +27249,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w31323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "title": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "authors": [
+          "Matthias Kalkuhl",
+          "Leonie Wenz"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "103",
+        "issue": "",
+        "pages": "102360",
+        "doi": "10.1016/j.jeem.2020.102360",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102360",
         "verified": true,
         "note": ""
       }
@@ -26450,6 +27486,23 @@
         "pages": "589–609",
         "doi": "10.1162/rest_a_00461",
         "url": "https://doi.org/10.1162/rest_a_00461",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "title": "The impact of climate conditions on economic production. Evidence from a global panel of regions",
+        "authors": [
+          "Matthias Kalkuhl",
+          "Leonie Wenz"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "103",
+        "issue": "",
+        "pages": "102360",
+        "doi": "10.1016/j.jeem.2020.102360",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102360",
         "verified": true,
         "note": ""
       }
@@ -26841,6 +27894,22 @@
         "url": "https://doi.org/10.1086/734725",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate change response: Input adjustment in agriculture",
+        "title": "Climate change response: Input adjustment in agriculture",
+        "authors": [
+          "Sebastián Figari"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "103472",
+        "doi": "10.1016/j.jdeveco.2025.103472",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103472",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27002,6 +28071,40 @@
         "pages": "461–471",
         "doi": "10.1162/rest_a_00478",
         "url": "https://doi.org/10.1162/rest_a_00478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate change response: Input adjustment in agriculture",
+        "title": "Climate change response: Input adjustment in agriculture",
+        "authors": [
+          "Sebastián Figari"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "103472",
+        "doi": "10.1016/j.jdeveco.2025.103472",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103472",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "authors": [
+          "Melissa Dell",
+          "Benjamin F. Jones",
+          "Benjamin A. Olken"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "4",
+        "issue": "3",
+        "pages": "66–95",
+        "doi": "10.1257/mac.4.3.66",
+        "url": "https://doi.org/10.1257/mac.4.3.66",
         "verified": true,
         "note": ""
       }
@@ -28117,6 +29220,42 @@
         "url": "https://doi.org/10.1257/pol.20190316",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+        "title": "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants",
+        "authors": [
+          "Peng Zhang",
+          "Olivier Deschênes",
+          "Kyle Meng",
+          "Junjie Zhang"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "1–17",
+        "doi": "10.1016/j.jeem.2017.11.001",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature and industrial output: Firm-level evidence from China",
+        "title": "Temperature and industrial output: Firm-level evidence from China",
+        "authors": [
+          "Xiaoguang Chen",
+          "Lu Yang"
+        ],
+        "year": 2019,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "95",
+        "issue": "",
+        "pages": "257–274",
+        "doi": "10.1016/j.jeem.2017.07.009",
+        "url": "https://doi.org/10.1016/j.jeem.2017.07.009",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28310,6 +29449,202 @@
         "pages": "195–228",
         "doi": "10.1086/736818",
         "url": "https://doi.org/10.1086/736818",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.44",
+    "title": "TerraClimate 月度气候与水平衡数据",
+    "links": [
+      {
+        "label": "TerraClimate",
+        "url": "https://www.climatologylab.org/terraclimate.html"
+      }
+    ],
+    "summary": "Abatzoglou 等制作的 1958 年以来全球约 4 公里月度气候与水平衡数据，含气温、降水、蒸散、土壤水分和帕尔默干旱指数（PDSI）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "TerraClimate 由爱达荷大学（现加州大学默塞德分校）Abatzoglou 等（2018，Scientific Data）开发，把 WorldClim 的高分辨率气候平均态与 CRU TS 和 JRA-55 的时间变化结合，生成 1958 年以来全球陆地 1/24 度（约 4 公里）月度数据，变量包括最高最低气温、降水、风速、蒸汽压差、太阳辐射、参考和实际蒸散、径流、土壤水分、雪水当量和帕尔默干旱严重指数（PDSI）。数据可通过 Climatology Lab 网站、THREDDS 服务和 Google Earth Engine 获取。\n\n数据常用于研究干旱和水分胁迫的经济影响，例如用 PDSI 衡量干旱冲击，研究极端天气对各国财政和主权债务的影响。在站点稀少地区的时间变化主要来自粗分辨率的 CRU 和再分析数据，高分辨率只体现在气候平均态上。",
+    "source": "Climatology Lab 网站和 Google Earth Engine 免费获取。",
+    "references": [
+      {
+        "raw": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "title": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "authors": [
+          "Berkay Akyapı",
+          "Matthieu Bellon",
+          "Emanuele Massetti"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "114–159",
+        "doi": "10.1257/mac.20230042",
+        "url": "https://doi.org/10.1257/mac.20230042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.45",
+    "title": "NCEP 气候预报系统再分析（CFSR / CFSv2）",
+    "links": [
+      {
+        "label": "NCAR RDA CFSR",
+        "url": "https://rda.ucar.edu/datasets/d093000/"
+      }
+    ],
+    "summary": "美国国家环境预报中心的大气-海洋-陆面耦合再分析，CFSR 覆盖 1979–2010 年，2011 年后由 CFSv2 延续，提供逐小时约 0.5 度格网。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "气候预报系统再分析（Climate Forecast System Reanalysis，CFSR）由美国国家环境预报中心（NCEP）制作，使用大气、海洋、陆面和海冰耦合模式同化观测数据，提供 1979–2010 年全球约 0.5 度（T382）、逐小时的气温、湿度、降水、风、辐射等变量；2011 年以后由运行版本 CFSv2 延续。数据由 NCAR 研究数据档案（RDA）和 NOAA NCEI 发布。\n\n数据常用于在缺乏站点观测的地区构建逐日或逐时气象变量，例如研究高温对发展中国家工厂工人生产率的影响时匹配工厂所在地的温度和湿度。再分析降水的误差较大，CFSR 与 CFSv2 衔接处存在系统性跳变。",
+    "source": "NCAR RDA 免费下载（需注册）。",
+    "references": [
+      {
+        "raw": "The Light and the Heat: Productivity Co-Benefits of Energy-Saving Technology",
+        "title": "The Light and the Heat: Productivity Co-Benefits of Energy-Saving Technology",
+        "authors": [
+          "Achyuta Adhvaryu",
+          "Namrata Kala",
+          "Anant Nyshadham"
+        ],
+        "year": 2020,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "779–792",
+        "doi": "10.1162/rest_a_00886",
+        "url": "https://doi.org/10.1162/rest_a_00886",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.46",
+    "title": "帕尔默干旱严重指数（PDSI）全球格网数据（Dai）",
+    "links": [
+      {
+        "label": "NCAR Climate Data Guide",
+        "url": "https://climatedataguide.ucar.edu/climate-data/palmer-drought-severity-index-pdsi"
+      }
+    ],
+    "summary": "NCAR 的 Aiguo Dai 基于观测降水和气温计算的 1850 年以来全球 2.5 度月度 PDSI 数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "全球帕尔默干旱严重指数（Palmer Drought Severity Index，PDSI）数据由美国国家大气研究中心（NCAR）的 Aiguo Dai 等（2004，2011）构建，用观测的月降水和气温驱动 Palmer 土壤水分平衡模型，生成 1850 年以来全球陆地 2.5 度格网的月度 PDSI，并提供考虑 Penman-Monteith 蒸散的自校准版本（sc-PDSI）。数据由 NCAR/UCAR 气候数据指南和研究数据档案发布。\n\n数据常用于衡量干旱冲击，例如研究干旱与内战爆发之间的关系。PDSI 有较强的时间持续性，分辨率较粗，在干旱和寒冷地区的表现较差。",
+    "source": "NCAR/UCAR 免费下载。",
+    "references": [
+      {
+        "raw": "Drought and Civil War in Sub-Saharan Africa",
+        "title": "Drought and Civil War in Sub-Saharan Africa",
+        "authors": [
+          "Mathieu Couttenier",
+          "Raphael Soubeyran"
+        ],
+        "year": 2014,
+        "journal": "The Economic Journal",
+        "volume": "124",
+        "issue": "575",
+        "pages": "201–244",
+        "doi": "10.1111/ecoj.12042",
+        "url": "https://doi.org/10.1111/ecoj.12042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.47",
+    "title": "EM-DAT 国际灾害数据库",
+    "links": [
+      {
+        "label": "EM-DAT",
+        "url": "https://www.emdat.be/"
+      }
+    ],
+    "summary": "比利时鲁汶大学灾害流行病学研究中心（CRED）维护的全球灾害事件数据库，记录 1900 年以来超过 2.6 万起自然和技术灾害的死亡、受灾人数和经济损失。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "EM-DAT（Emergency Events Database）由鲁汶大学灾害流行病学研究中心（CRED）自 1988 年起维护，收录 1900 年以来满足以下任一条件的灾害事件：死亡 10 人以上、受影响 100 人以上、宣布紧急状态或请求国际援助。每条记录包括灾害类型（洪水、风暴、干旱、地震、极端温度等）、国家和地区、起止日期、死亡人数、受灾人数和经济损失估计。数据来源于联合国机构、政府、红十字会和再保险公司。\n\n数据常用于跨国灾害冲击研究，例如构建国家-年度的自然灾害频率和损失变量，研究灾害对增长、移民和财政的影响。早期年份和低收入国家的记录不完整，经济损失缺失较多，地理位置精度通常只到国家或一级行政区。",
+    "source": "注册后免费下载（非商业用途）。",
+    "references": [
+      {
+        "raw": "Climate Change, Inequality, and Human Migration",
+        "title": "Climate Change, Inequality, and Human Migration",
+        "authors": [
+          "Michał Burzyński",
+          "Christoph Deuster",
+          "Frédéric Docquier",
+          "Jaime de Melo"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1145–1197",
+        "doi": "10.1093/jeea/jvab054",
+        "url": "https://doi.org/10.1093/jeea/jvab054",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.48",
+    "title": "世界银行气候变化知识门户（CCKP）",
+    "links": [
+      {
+        "label": "World Bank CCKP",
+        "url": "https://climateknowledgeportal.worldbank.org/"
+      }
+    ],
+    "summary": "世界银行汇总的各国和次国家历史气候观测与 CMIP 气候模式预测数据平台，提供气温、降水和极端指数的月度和年度序列。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "气候变化知识门户（Climate Change Knowledge Portal，CCKP）由世界银行建设，整合 CRU 等历史观测数据和 CMIP5、CMIP6 多模式气候预测，提供国家、一级行政区和流域层面的月度和年度气温、降水及极端气候指数，并按不同排放情景和时段给出预测，可通过网站和 API 下载。\n\n数据常用于获取口径一致的国家层面历史和未来气候序列，例如在气候移民模型中设定各国未来的温度变化情景。CCKP 是二次加工产品，按行政单元面积平均，没有人口加权。",
+    "source": "世界银行网站免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Climate Change, Inequality, and Human Migration",
+        "title": "Climate Change, Inequality, and Human Migration",
+        "authors": [
+          "Michał Burzyński",
+          "Christoph Deuster",
+          "Frédéric Docquier",
+          "Jaime de Melo"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1145–1197",
+        "doi": "10.1093/jeea/jvab054",
+        "url": "https://doi.org/10.1093/jeea/jvab054",
         "verified": true,
         "note": ""
       }
@@ -28922,6 +30257,41 @@
         "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "authors": [
+          "Melissa Dell",
+          "Benjamin F. Jones",
+          "Benjamin A. Olken"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "4",
+        "issue": "3",
+        "pages": "66–95",
+        "doi": "10.1257/mac.4.3.66",
+        "url": "https://doi.org/10.1257/mac.4.3.66",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Drought and Civil War in Sub-Saharan Africa",
+        "title": "Drought and Civil War in Sub-Saharan Africa",
+        "authors": [
+          "Mathieu Couttenier",
+          "Raphael Soubeyran"
+        ],
+        "year": 2014,
+        "journal": "The Economic Journal",
+        "volume": "124",
+        "issue": "575",
+        "pages": "201–244",
+        "doi": "10.1111/ecoj.12042",
+        "url": "https://doi.org/10.1111/ecoj.12042",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28958,6 +30328,158 @@
         "pages": "1092–1125",
         "doi": "10.1257/aer.20190964",
         "url": "https://doi.org/10.1257/aer.20190964",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.5",
+    "title": "UCDP/PRIO 武装冲突数据集",
+    "links": [
+      {
+        "label": "UCDP 数据下载",
+        "url": "https://ucdp.uu.se/downloads/"
+      }
+    ],
+    "summary": "乌普萨拉冲突数据项目与奥斯陆和平研究所合作编制的 1946 年以来国家间和国内武装冲突年度数据，以年战斗死亡 25 人为门槛。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "UCDP/PRIO 武装冲突数据集（UCDP/PRIO Armed Conflict Dataset）由乌普萨拉大学冲突数据项目（UCDP）与奥斯陆和平研究所（PRIO）合作编制，记录 1946 年以来至少一方为政府、年战斗死亡至少 25 人的武装冲突，按冲突-年给出冲突双方、类型（国家间、国内、国际化国内冲突）、强度（25–999 人或 1,000 人以上）和起止日期。UCDP 还发布逐事件的地理编码事件数据（GED）、非国家冲突和单方面暴力数据，每年更新。\n\n数据常用于构建内战爆发和持续的指标，例如研究气温、干旱等气候冲击对冲突的影响。冲突门槛和编码规则决定了爆发年份的界定，不同版本对早期年份有回溯修订。",
+    "source": "UCDP 网站免费下载。",
+    "references": [
+      {
+        "raw": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "authors": [
+          "Melissa Dell",
+          "Benjamin F. Jones",
+          "Benjamin A. Olken"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "4",
+        "issue": "3",
+        "pages": "66–95",
+        "doi": "10.1257/mac.4.3.66",
+        "url": "https://doi.org/10.1257/mac.4.3.66",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "title": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "authors": [
+          "Berkay Akyapı",
+          "Matthieu Bellon",
+          "Emanuele Massetti"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "114–159",
+        "doi": "10.1257/mac.20230042",
+        "url": "https://doi.org/10.1257/mac.20230042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Drought and Civil War in Sub-Saharan Africa",
+        "title": "Drought and Civil War in Sub-Saharan Africa",
+        "authors": [
+          "Mathieu Couttenier",
+          "Raphael Soubeyran"
+        ],
+        "year": 2014,
+        "journal": "The Economic Journal",
+        "volume": "124",
+        "issue": "575",
+        "pages": "201–244",
+        "doi": "10.1111/ecoj.12042",
+        "url": "https://doi.org/10.1111/ecoj.12042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.6",
+    "title": "V-Dem 民主多样性数据集",
+    "links": [
+      {
+        "label": "V-Dem 数据集",
+        "url": "https://www.v-dem.net/data/the-v-dem-dataset/"
+      }
+    ],
+    "summary": "哥德堡大学 V-Dem 研究所基于数千名国别专家评分构建的 1789 年以来各国政治制度数据，包含选举民主、自由民主等指数和数百个指标。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "V-Dem（Varieties of Democracy）数据集由瑞典哥德堡大学 V-Dem 研究所与圣母大学合作建设，通过约 4,000 名国别专家对 200 个左右国家和地区的政治制度进行评分，并用贝叶斯项目反应模型汇总，提供 1789 年以来的国家-年度数据，涵盖选举、自由、参与、协商和平等五类民主原则的高层指数以及司法独立、媒体自由、公民社会、腐败等 500 多个指标，每年 3 月更新。\n\n数据常用于衡量政体和制度质量，例如在研究气候冲击对财政和主权违约的影响时按民主程度分组。专家评分存在主观性，跨国可比性依赖测量模型的锚定假设。",
+    "source": "V-Dem 网站免费下载（需填写用途）。",
+    "references": [
+      {
+        "raw": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "title": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "authors": [
+          "Berkay Akyapı",
+          "Matthieu Bellon",
+          "Emanuele Massetti"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "114–159",
+        "doi": "10.1257/mac.20230042",
+        "url": "https://doi.org/10.1257/mac.20230042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.7",
+    "title": "Archigos 政治领导人数据库",
+    "links": [
+      {
+        "label": "Archigos",
+        "url": "https://www.rochester.edu/college/faculty/hgoemans/data.htm"
+      }
+    ],
+    "summary": "Goemans、Gleditsch 和 Chiozza 编制的 1875 年以来各国实际最高领导人数据库，记录上台和下台日期、方式以及下台后的命运。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "Archigos 由 Goemans、Gleditsch 和 Chiozza（2009，Journal of Peace Research）编制，收录 1875–2015 年约 190 个国家的实际最高领导人（而非名义元首），记录每位领导人的上台与下台日期、进入和离任方式（常规、政变、革命、外国干预等）、下台后的命运（流放、监禁、死亡等）以及性别、年龄等信息，数据由罗切斯特大学 Goemans 个人主页发布。\n\n数据常用于研究领导人更替和政治不稳定，例如考察经济或气候冲击是否导致非常规的领导人下台。数据更新至 2015 年左右，此后需用其他来源补充。",
+    "source": "Goemans 主页免费下载。",
+    "references": [
+      {
+        "raw": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+        "authors": [
+          "Melissa Dell",
+          "Benjamin F. Jones",
+          "Benjamin A. Olken"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "4",
+        "issue": "3",
+        "pages": "66–95",
+        "doi": "10.1257/mac.4.3.66",
+        "url": "https://doi.org/10.1257/mac.4.3.66",
         "verified": true,
         "note": ""
       }
@@ -29184,6 +30706,45 @@
         "pages": "889–944",
         "doi": "10.1093/qje/qjag011",
         "url": "https://doi.org/10.1093/qje/qjag011",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.7",
+    "title": "IMF 全球债务数据库（Global Debt Database）",
+    "links": [
+      {
+        "label": "IMF Global Debt Database",
+        "url": "https://www.imf.org/external/datamapper/datasets/GDD"
+      }
+    ],
+    "summary": "IMF 编制的约 190 个国家 1950 年以来公共债务和私人债务（家庭、非金融企业）占 GDP 比重的年度数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "全球债务数据库（Global Debt Database，GDD）由国际货币基金组织财政事务部编制（Mbaye、Moreno-Badia 和 Chae，2018），汇总各国政府统计、IMF 工作人员报告和历史文献，提供约 190 个国家 1950 年以来的中央政府和一般政府债务、家庭债务和非金融企业债务占 GDP 的比重，按年度更新，可通过 IMF DataMapper 查询和下载。\n\n数据常用于研究公共和私人债务的变化，例如考察极端天气冲击后各国政府债务的上升。不同国家的政府统计口径（中央政府或一般政府）不同，私人债务在发展中国家覆盖较少。",
+    "source": "IMF DataMapper 免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "title": "Estimating Macrofiscal Effects of Climate Shocks from Billions of Geospatial Weather Observations",
+        "authors": [
+          "Berkay Akyapı",
+          "Matthieu Bellon",
+          "Emanuele Massetti"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "114–159",
+        "doi": "10.1257/mac.20230042",
+        "url": "https://doi.org/10.1257/mac.20230042",
         "verified": true,
         "note": ""
       }
@@ -29523,6 +31084,38 @@
         "pages": "205–248",
         "doi": "10.1086/684719",
         "url": "https://doi.org/10.1086/684719",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agricultural Diversity, Structural Change, and Long-Run Development: Evidence from the United States",
+        "title": "Agricultural Diversity, Structural Change, and Long-Run Development: Evidence from the United States",
+        "authors": [
+          "Martin Fiszbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–43",
+        "doi": "10.1257/mac.20190285",
+        "url": "https://doi.org/10.1257/mac.20190285",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Effects of Long-Term Climate Change: Evidence from the Little Ice Age",
+        "title": "The Economic Effects of Long-Term Climate Change: Evidence from the Little Ice Age",
+        "authors": [
+          "Maria Waldinger"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "9",
+        "pages": "2275–2314",
+        "doi": "10.1086/720393",
+        "url": "https://doi.org/10.1086/720393",
         "verified": true,
         "note": ""
       }
