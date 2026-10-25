@@ -665,7 +665,24 @@
     ],
     "introduction": "中国健康与营养调查（China Health and Nutrition Survey，CHNS）由美国北卡罗来纳大学教堂山分校卡罗来纳人口中心与中国疾病预防控制中心营养与健康所合作开展，1989 年起进行，此后多轮追踪访问，最初覆盖少数几个省份，后来扩展到更多省份和直辖市。\n\n调查采用多阶段整群随机抽样，以家庭、个人和社区为层次，收集三天膳食记录、体格测量、健康状况与行为、就业与收入、家庭结构，以及社区的食品价格、卫生服务和基础设施等信息。数据适合研究营养转型、肥胖与慢性病、收入与健康、食品价格与公共政策。\n\n各轮覆盖的省份和样本有所变化，家庭与社区的追踪并不完全；公开版与社区等受限数据的获取条件不同，使用时应区分轮次与分析层次。",
     "source": "从 CHNS 官方项目及其指定的数据存储平台获取已发布文件。公开版、社区或空间等受限数据的访问条件不同，受限文件需按项目要求提交申请和数据使用协议，不应以公开版权限推定访问范围。",
-    "references": []
+    "references": [
+      {
+        "raw": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "title": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "authors": [
+          "Avraham Ebenstein"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "186–201",
+        "doi": "10.1162/rest_a_00150",
+        "url": "https://doi.org/10.1162/rest_a_00150",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.2.9",
@@ -731,6 +748,22 @@
         "pages": "1366–1401",
         "doi": "10.1257/aer.20131455",
         "url": "https://doi.org/10.1257/aer.20131455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "title": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "authors": [
+          "Avraham Ebenstein"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "186–201",
+        "doi": "10.1162/rest_a_00150",
+        "url": "https://doi.org/10.1162/rest_a_00150",
         "verified": true,
         "note": ""
       }
@@ -1069,6 +1102,40 @@
         "pages": "103279",
         "doi": "10.1016/j.jeem.2025.103279",
         "url": "https://doi.org/10.1016/j.jeem.2025.103279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air pollution as comparative disadvantage",
+        "title": "Air pollution as comparative disadvantage",
+        "authors": [
+          "Shi-Ting He",
+          "Liugang Sheng",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "254",
+        "issue": "",
+        "pages": "105560",
+        "doi": "10.1016/j.jpubeco.2025.105560",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105560",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "title": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "authors": [
+          "Avraham Ebenstein"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "186–201",
+        "doi": "10.1162/rest_a_00150",
+        "url": "https://doi.org/10.1162/rest_a_00150",
         "verified": true,
         "note": ""
       }
@@ -1862,6 +1929,58 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2022.102833",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "title": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "authors": [
+          "Ruixue Jia",
+          "Hyejin Ku"
+        ],
+        "year": 2019,
+        "journal": "The Economic Journal",
+        "volume": "129",
+        "issue": "624",
+        "pages": "3154–3188",
+        "doi": "10.1093/ej/uez021",
+        "url": "https://doi.org/10.1093/ej/uez021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "title": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "authors": [
+          "Seonmin Will Heo",
+          "Koichiro Ito",
+          "V. Rao Kotamarthi"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–45",
+        "doi": "10.1162/rest_a_01581",
+        "url": "https://doi.org/10.1162/rest_a_01581",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air pollution and defensive expenditures: Evidence from particulate-filtering facemasks",
+        "title": "Air pollution and defensive expenditures: Evidence from particulate-filtering facemasks",
+        "authors": [
+          "Junjie Zhang",
+          "Quan Mu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "92",
+        "issue": "",
+        "pages": "517–536",
+        "doi": "10.1016/j.jeem.2017.07.006",
+        "url": "https://doi.org/10.1016/j.jeem.2017.07.006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1903,6 +2022,22 @@
         "pages": "2135–2185",
         "doi": "10.1093/qje/qjaa024",
         "url": "https://doi.org/10.1093/qje/qjaa024",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "title": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "authors": [
+          "Avraham Ebenstein"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "186–201",
+        "doi": "10.1162/rest_a_00150",
+        "url": "https://doi.org/10.1162/rest_a_00150",
         "verified": true,
         "note": ""
       }
@@ -2054,6 +2189,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2022.102833",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Air pollution as comparative disadvantage",
+        "title": "Air pollution as comparative disadvantage",
+        "authors": [
+          "Shi-Ting He",
+          "Liugang Sheng",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "254",
+        "issue": "",
+        "pages": "105560",
+        "doi": "10.1016/j.jpubeco.2025.105560",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105560",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2090,6 +2243,107 @@
         "pages": "815–850",
         "doi": "10.1257/aer.20221215",
         "url": "https://doi.org/10.1257/aer.20221215",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.6.5",
+    "title": "美国驻华使领馆 PM2.5 监测数据",
+    "links": [],
+    "summary": "美国国务院在北京、上海、广州、成都、沈阳使领馆屋顶设置的 PM2.5 监测仪发布的小时浓度，北京自 2008 年起。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "美国国务院自 2008 年起在驻北京大使馆、此后在上海、广州、成都、沈阳总领馆安装 PM2.5 监测仪，每小时通过官方网站和社交媒体账号发布浓度和对应的美国 AQI。这些读数在中国官方 2012 年前后公开 PM2.5 之前，是公众获得 PM2.5 信息的主要来源，历史小时数据曾在 StateAir 网站提供下载，现归入美国国务院与 EPA 合作的 AirNow 国际项目。\n\n数据常用于研究污染信息披露和公众防御行为，例如用使馆读数和官方 AQI 的差异研究口罩购买、健康保险需求，或作为工厂工人生产率研究中的辅助污染测度。每个城市只有一个监测点，难以代表全市平均水平。",
+    "source": "历史数据曾在 StateAir 网站公开（站点已关闭），现可通过 AirNow 国际项目或已发表研究的复制材料获取。",
+    "references": [
+      {
+        "raw": "Severe Air Pollution and Labor Productivity: Evidence from Industrial Towns in China",
+        "title": "Severe Air Pollution and Labor Productivity: Evidence from Industrial Towns in China",
+        "authors": [
+          "Jiaxiu He",
+          "Haoming Liu",
+          "Alberto Salvo"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "173–201",
+        "doi": "10.1257/app.20170286",
+        "url": "https://doi.org/10.1257/app.20170286",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Something in the Air: Pollution and the Demand for Health Insurance",
+        "title": "Something in the Air: Pollution and the Demand for Health Insurance",
+        "authors": [
+          "Tom Y. Chang",
+          "Wei Huang",
+          "Yongxiang Wang"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economic Studies",
+        "volume": "85",
+        "issue": "3",
+        "pages": "1609–1634",
+        "doi": "10.1093/restud/rdy016",
+        "url": "https://doi.org/10.1093/restud/rdy016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air pollution and defensive expenditures: Evidence from particulate-filtering facemasks",
+        "title": "Air pollution and defensive expenditures: Evidence from particulate-filtering facemasks",
+        "authors": [
+          "Junjie Zhang",
+          "Quan Mu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "92",
+        "issue": "",
+        "pages": "517–536",
+        "doi": "10.1016/j.jeem.2017.07.006",
+        "url": "https://doi.org/10.1016/j.jeem.2017.07.006",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.6.6",
+    "title": "中国环境年鉴与中国环境统计年鉴",
+    "links": [],
+    "summary": "生态环境部和国家统计局编制的环境统计年鉴，提供分省和分行业的废水、废气、固体废物排放与治理投资数据。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "《中国环境年鉴》由生态环境部（原国家环保总局）主持编辑，1990 年起每年出版，收录环境法规、各省环境状况、污染物排放与治理、排污费征收等信息；《中国环境统计年鉴》由国家统计局与生态环境部联合编制，2006 年起出版，提供全国和分省的工业废水、化学需氧量、氨氮、二氧化硫、烟粉尘、固体废物排放量，环境污染治理投资和自然资源指标。部分指标在《中国统计年鉴》中也有摘录。\n\n数据常用于构建省级污染排放和治理强度变量，例如用省级工业废水排放和排污费研究水污染对消化道癌症死亡率的影响。统计口径基于环境统计报表，与第一次和第二次全国污染源普查结果存在差异。",
+    "source": "出版物，可通过图书馆或中国知网统计年鉴数据库获取。",
+    "references": [
+      {
+        "raw": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "title": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "authors": [
+          "Avraham Ebenstein"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "186–201",
+        "doi": "10.1162/rest_a_00150",
+        "url": "https://doi.org/10.1162/rest_a_00150",
         "verified": true,
         "note": ""
       }
@@ -2209,6 +2463,22 @@
         "pages": "18–39",
         "doi": "10.1016/j.jeem.2016.04.004",
         "url": "https://doi.org/10.1016/j.jeem.2016.04.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "title": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "authors": [
+          "Avraham Ebenstein"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "186–201",
+        "doi": "10.1162/rest_a_00150",
+        "url": "https://doi.org/10.1162/rest_a_00150",
         "verified": true,
         "note": ""
       }
@@ -2751,6 +3021,24 @@
         "url": "https://doi.org/10.1016/j.jeem.2026.103378",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Air pollution as comparative disadvantage",
+        "title": "Air pollution as comparative disadvantage",
+        "authors": [
+          "Shi-Ting He",
+          "Liugang Sheng",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "254",
+        "issue": "",
+        "pages": "105560",
+        "doi": "10.1016/j.jpubeco.2025.105560",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105560",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3123,6 +3411,23 @@
         "pages": "843–863",
         "doi": "10.1257/aer.98.3.843",
         "url": "https://doi.org/10.1257/aer.98.3.843",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Watersheds in Child Mortality: The Role of Effective Water and Sewerage Infrastructure, 1880-1920",
+        "title": "Watersheds in Child Mortality: The Role of Effective Water and Sewerage Infrastructure, 1880-1920",
+        "authors": [
+          "Marcella Alsan",
+          "Claudia Goldin"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "2",
+        "pages": "586–638",
+        "doi": "10.1086/700766",
+        "url": "https://doi.org/10.1086/700766",
         "verified": true,
         "note": ""
       }
@@ -3796,6 +4101,24 @@
         "pages": "1558–1575",
         "doi": "10.1162/rest_a_01243",
         "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Conservation and Distributional Consequences of Pricing Scarce Water During Droughts",
+        "title": "Conservation and Distributional Consequences of Pricing Scarce Water During Droughts",
+        "authors": [
+          "Derek C. Wietelman",
+          "Casey J. Wichman",
+          "Daniel A. Brent"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.rff.org/publications/working-papers/conservation-and-distributional-consequences-of-pricing-scarce-water-during-droughts/",
         "verified": true,
         "note": ""
       }
@@ -5510,6 +5833,22 @@
         "url": "https://doi.org/10.1257/aer.99.5.2177",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "title": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "authors": [
+          "Peter Debaere"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "6",
+        "issue": "2",
+        "pages": "32–48",
+        "doi": "10.1257/app.6.2.32",
+        "url": "https://doi.org/10.1257/app.6.2.32",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5929,6 +6268,23 @@
         "url": "https://doi.org/10.1086/691465",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6096,6 +6452,22 @@
         "pages": "1649–1675",
         "doi": "10.1257/aer.101.5.1649",
         "url": "https://doi.org/10.1257/aer.101.5.1649",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "title": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "authors": [
+          "Peter Debaere"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "6",
+        "issue": "2",
+        "pages": "32–48",
+        "doi": "10.1257/app.6.2.32",
+        "url": "https://doi.org/10.1257/app.6.2.32",
         "verified": true,
         "note": ""
       }
@@ -6798,6 +7170,23 @@
         "pages": "1558–1575",
         "doi": "10.1162/rest_a_01243",
         "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
         "verified": true,
         "note": ""
       }
@@ -7699,6 +8088,41 @@
         "url": "https://doi.org/10.1086/691465",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Conservation and Distributional Consequences of Pricing Scarce Water During Droughts",
+        "title": "Conservation and Distributional Consequences of Pricing Scarce Water During Droughts",
+        "authors": [
+          "Derek C. Wietelman",
+          "Casey J. Wichman",
+          "Daniel A. Brent"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.rff.org/publications/working-papers/conservation-and-distributional-consequences-of-pricing-scarce-water-during-droughts/",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8022,6 +8446,40 @@
         "pages": "110–128",
         "doi": "10.1162/rest_a_01430",
         "url": "https://doi.org/10.1162/rest_a_01430",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "title": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "authors": [
+          "Ruixue Jia",
+          "Hyejin Ku"
+        ],
+        "year": 2019,
+        "journal": "The Economic Journal",
+        "volume": "129",
+        "issue": "624",
+        "pages": "3154–3188",
+        "doi": "10.1093/ej/uez021",
+        "url": "https://doi.org/10.1093/ej/uez021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air pollution and defensive expenditures: Evidence from particulate-filtering facemasks",
+        "title": "Air pollution and defensive expenditures: Evidence from particulate-filtering facemasks",
+        "authors": [
+          "Junjie Zhang",
+          "Quan Mu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "92",
+        "issue": "",
+        "pages": "517–536",
+        "doi": "10.1016/j.jeem.2017.07.006",
+        "url": "https://doi.org/10.1016/j.jeem.2017.07.006",
         "verified": true,
         "note": ""
       }
@@ -8349,6 +8807,23 @@
         "pages": "1558–1575",
         "doi": "10.1162/rest_a_01243",
         "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
         "verified": true,
         "note": ""
       }
@@ -9500,6 +9975,23 @@
         "pages": "360–396",
         "doi": "10.1016/j.jeem.2018.09.005",
         "url": "https://doi.org/10.1016/j.jeem.2018.09.005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
         "verified": true,
         "note": ""
       }
@@ -10897,6 +11389,122 @@
         "pages": "843–863",
         "doi": "10.1257/aer.98.3.843",
         "url": "https://doi.org/10.1257/aer.98.3.843",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.44",
+    "title": "CACES 土地利用回归空气污染估计",
+    "links": [
+      {
+        "label": "CACES 数据下载",
+        "url": "https://www.caces.us/data"
+      }
+    ],
+    "summary": "清洁空气与能源解决方案中心（CACES）基于土地利用回归模型估计的美国普查区和街区组层面年均 PM2.5、NO2、O3、SO2 等浓度，1979 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "CACES（Center for Air, Climate, and Energy Solutions）是 EPA 资助的研究中心，Kim 等（2020）用土地利用回归（LUR）模型结合监测站、卫星遥感和地理协变量，估计 1979 年起美国本土普查区、街区组和县的年均 PM2.5、PM10、NO2、O3、SO2 和 CO 浓度（不同污染物年份范围不同），数据可在其网站按地理单元和年份下载。\n\n数据常用于构建长时序的地方空气污染暴露，例如在研究酸雨计划对农业的影响时，用 SO2 和 O3 年均浓度检验污染变化。估计值是年均值，无法反映短期波动，监测站稀少的早期年份不确定性较大。",
+    "source": "CACES 网站公开下载。",
+    "references": [
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.45",
+    "title": "EPA 清洁空气状况与趋势网络（CASTNET）",
+    "links": [
+      {
+        "label": "EPA CASTNET",
+        "url": "https://www.epa.gov/castnet"
+      }
+    ],
+    "summary": "EPA 运行的农村地区空气质量与大气沉降监测网络，记录硫、氮化合物浓度和干湿沉降量，1987 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "清洁空气状况与趋势网络（Clean Air Status and Trends Network，CASTNET）由 EPA 与国家公园管理局等机构合作运行，在美国和加拿大农村及偏远地区设有 90 多个站点，测量二氧化硫、硫酸盐、硝酸、硝酸盐、铵盐和臭氧浓度，结合模型估计干沉降，并与国家大气沉降计划（NADP）的湿沉降数据合成总沉降量，站点数据从 1987 年起。\n\n数据常用于评估酸雨控制政策和区域污染传输，例如用总硫沉降检验酸雨计划对农田土壤和作物产量的影响。站点主要在农村，不反映城市污染水平。",
+    "source": "EPA 网站公开下载。",
+    "references": [
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.46",
+    "title": "加州灌溉管理信息系统（CIMIS）",
+    "links": [
+      {
+        "label": "CIMIS",
+        "url": "https://cimis.water.ca.gov/"
+      }
+    ],
+    "summary": "加州水资源部运行的自动气象站网络，提供逐时和逐日的气温、湿度、风速、太阳辐射和参考蒸散量，1982 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "农业数据"
+    ],
+    "introduction": "加州灌溉管理信息系统（California Irrigation Management Information System，CIMIS）由加州水资源部于 1982 年建立，在全州设有 140 多个自动气象站，主要位于农业和城市灌溉区，提供逐时和逐日的气温、相对湿度、风速风向、太阳辐射、降水和参考作物蒸散量（ETo），还有基于卫星的格网化 ETo 产品，用于指导灌溉用水。\n\n数据常用于测量气候对用水需求的影响，例如在研究干旱期间水价对居民用水的影响时，作为蒸散量和天气控制变量。站点分布偏向灌溉区，山区覆盖少。",
+    "source": "CIMIS 网站免费注册后下载，也提供 API。",
+    "references": [
+      {
+        "raw": "Conservation and Distributional Consequences of Pricing Scarce Water During Droughts",
+        "title": "Conservation and Distributional Consequences of Pricing Scarce Water During Droughts",
+        "authors": [
+          "Derek C. Wietelman",
+          "Casey J. Wichman",
+          "Daniel A. Brent"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.rff.org/publications/working-papers/conservation-and-distributional-consequences-of-pricing-scarce-water-during-droughts/",
         "verified": true,
         "note": ""
       }
@@ -14023,6 +14631,39 @@
     ]
   },
   {
+    "id": "2.8.12",
+    "title": "马萨诸塞州历史生命统计登记（1841–1920）",
+    "links": [],
+    "summary": "马萨诸塞州自 1841 年起编制的出生、婚姻和死亡年度登记报告和个体死亡记录，是美国最早连续的州级生命统计。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "马萨诸塞州于 1842 年通过法律要求各市镇登记出生、婚姻和死亡，州务卿每年发布《出生、婚姻与死亡登记报告》，按市镇汇总死亡人数和死因；个体死亡登记记录已由 FamilySearch 等机构数字化（Massachusetts State Vital Records 1841–1920），可按姓名、年龄、死亡地点和死因检索。州卫生委员会和大都会供排水委员会的年度报告则记录了供水和排水工程的建设时间。\n\n数据常用于研究 19 世纪末到 20 世纪初公共卫生基础设施的效果，例如把波士顿地区各市镇接入大都会供水和排水系统的时间与婴儿和儿童死亡率匹配，估计清洁水对儿童死亡率下降的贡献。早期登记存在漏报，死因分类与现代 ICD 不可直接对应。",
+    "source": "历史报告扫描版可在图书馆和档案馆获取；个体记录可在 FamilySearch 免费注册后检索。",
+    "references": [
+      {
+        "raw": "Watersheds in Child Mortality: The Role of Effective Water and Sewerage Infrastructure, 1880-1920",
+        "title": "Watersheds in Child Mortality: The Role of Effective Water and Sewerage Infrastructure, 1880-1920",
+        "authors": [
+          "Marcella Alsan",
+          "Claudia Goldin"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "2",
+        "pages": "586–638",
+        "doi": "10.1086/700766",
+        "url": "https://doi.org/10.1086/700766",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.9.1",
     "title": "商品流调查（Commodity Flow Survey，CFS）",
     "links": [
@@ -15498,6 +16139,24 @@
         "url": "https://doi.org/10.1093/jeea/jvz051",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Conservation and Distributional Consequences of Pricing Scarce Water During Droughts",
+        "title": "Conservation and Distributional Consequences of Pricing Scarce Water During Droughts",
+        "authors": [
+          "Derek C. Wietelman",
+          "Casey J. Wichman",
+          "Daniel A. Brent"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.rff.org/publications/working-papers/conservation-and-distributional-consequences-of-pricing-scarce-water-during-droughts/",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16321,6 +16980,23 @@
         "url": "https://doi.org/10.1257/aer.20170237",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16628,6 +17304,45 @@
     ]
   },
   {
+    "id": "2.14.10",
+    "title": "USDA 风险管理局（RMA）作物保险业务汇总",
+    "links": [
+      {
+        "label": "RMA Summary of Business",
+        "url": "https://www.rma.usda.gov/tools-reports/summary-of-business"
+      }
+    ],
+    "summary": "USDA 风险管理局发布的联邦作物保险参保、保费、补贴和赔付数据，按州、县、作物和保险计划划分，1989 年起有县级赔付原因数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "农业数据",
+      "金融数据"
+    ],
+    "introduction": "美国风险管理局（Risk Management Agency，RMA）管理联邦作物保险项目，其业务汇总（Summary of Business）提供按年份、州、县、作物、保险计划和保障水平划分的保单数、承保面积、责任额、保费、政府补贴和赔付额；赔付原因数据（Cause of Loss）进一步按灾害类型（干旱、过湿、冰雹、霜冻等）和月份列出赔付金额，县级数据从 1989 年起。\n\n数据常用于测量农业风险和天气冲击，例如用作物保险赔付检验酸雨计划带来的土壤酸度变化对农业损失的影响，或研究极端天气对农场收入的冲击。参保率随补贴政策变化，赔付只覆盖参保面积。",
+    "source": "RMA 网站公开下载。",
+    "references": [
+      {
+        "raw": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "title": "Adaptation to Environmental Change: Agriculture and the Unexpected Incidence of the Acid Rain Program",
+        "authors": [
+          "Nicholas J. Sanders",
+          "Alan I. Barreca"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "1",
+        "pages": "373–401",
+        "doi": "10.1257/pol.20190060",
+        "url": "https://doi.org/10.1257/pol.20190060",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.15.1",
     "title": "美国国际贸易统计（Census 进出口数据、USA Trade Online、USITC DataWeb）",
     "links": [
@@ -16720,6 +17435,45 @@
         "pages": "2177–2192",
         "doi": "10.1257/aer.99.5.2177",
         "url": "https://doi.org/10.1257/aer.99.5.2177",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.1.1",
+    "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
+    "links": [
+      {
+        "label": "瑞典统计局",
+        "url": "https://www.scb.se/"
+      }
+    ],
+    "summary": "瑞典统计局维护的全人口行政登记数据，可通过个人编号链接人口、家庭、教育、收入、就业和考试成绩，用于研究需申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "普查数据",
+      "微观调查数据"
+    ],
+    "introduction": "瑞典统计局（Statistics Sweden，SCB）基于个人身份号码维护多套全人口登记，包括总人口登记、多代登记（链接父母与子女）、教育登记、收入与税收登记和劳动力市场登记（如 LOUISE/LISA 数据库，1990 年起覆盖 16 岁以上全部居民），以及九年级全国统考成绩和征兵测试等可链接的行政记录，居住地可精确到 SAMS 小区。研究者须通过所在机构向 SCB 申请，经伦理审查后在 MONA 远程平台上使用去标识化的微观数据。\n\n数据常用于研究早期环境暴露的长期效果，例如把各市镇饮用水氟含量与个人的认知测试、成绩和成年收入链接，估计饮用水氟化的影响。数据只能远程访问，输出需经过保密审查。",
+    "source": "受限数据，需向 SCB 申请，通过 MONA 远程平台使用。",
+    "references": [
+      {
+        "raw": "The Effects of Fluoride in Drinking Water",
+        "title": "The Effects of Fluoride in Drinking Water",
+        "authors": [
+          "Linuz Aggeborn",
+          "Mattias Öhman"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "465–491",
+        "doi": "10.1086/711915",
+        "url": "https://doi.org/10.1086/711915",
         "verified": true,
         "note": ""
       }
@@ -17397,6 +18151,44 @@
     ]
   },
   {
+    "id": "3.6.7",
+    "title": "瑞典地质调查局（SGU）水井与饮用水数据",
+    "links": [
+      {
+        "label": "瑞典地质调查局",
+        "url": "https://www.sgu.se/en/"
+      }
+    ],
+    "summary": "瑞典地质调查局维护的水井档案和地下水与饮用水水质数据，包括水厂原水的氟化物等化学成分。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "瑞典地质调查局（Sveriges geologiska undersökning，SGU）维护全国水井档案（Brunnsarkivet）、地下水监测网和饮用水水质数据库，记录水井位置、深度和水质分析结果，包括氟化物、硝酸盐、铀、砷等成分，部分数据来自市政水厂上报的原水和出厂水检测。数据可通过 SGU 地图服务查询或申请提取。\n\n数据常用于测量饮用水中的天然化学暴露，例如用市政水厂的氟含量研究饮用水氟对认知能力和劳动力市场结果的影响。监测点和检测频率随地区不同，部分市镇需要向地方政府补充收集记录。",
+    "source": "SGU 网站可查询，部分数据需申请。",
+    "references": [
+      {
+        "raw": "The Effects of Fluoride in Drinking Water",
+        "title": "The Effects of Fluoride in Drinking Water",
+        "authors": [
+          "Linuz Aggeborn",
+          "Mattias Öhman"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "465–491",
+        "doi": "10.1086/711915",
+        "url": "https://doi.org/10.1086/711915",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.7.1",
     "title": "伊比利亚电力市场运营商（OMIE）报价与出清数据",
     "links": [
@@ -17504,6 +18296,44 @@
         "pages": "121–144",
         "doi": "10.1016/j.jeem.2017.02.003",
         "url": "https://doi.org/10.1016/j.jeem.2017.02.003",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.8.2",
+    "title": "瑞典国家卫生与福利委员会健康登记（患者登记、处方药登记）",
+    "links": [
+      {
+        "label": "Socialstyrelsen 登记",
+        "url": "https://www.socialstyrelsen.se/en/statistics-and-data/registers/"
+      }
+    ],
+    "summary": "瑞典国家卫生与福利委员会维护的全人口健康登记，包括住院和专科门诊的国家患者登记及处方药登记。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "瑞典国家卫生与福利委员会（Socialstyrelsen）维护多个全人口健康登记：国家患者登记（住院自 1987 年起全覆盖，专科门诊自 2001 年起）记录诊断、手术和住院日期，处方药登记（2005 年 7 月起）记录所有药房配发的处方药，另有死因登记、医学出生登记和癌症登记，可通过个人编号与 SCB 的社会经济登记链接，用于研究需申请。\n\n数据常用于研究健康结果和医疗利用，例如检验饮用水氟含量与牙科以外的健康问题（如骨折、甲状腺疾病）的关系。申请需经过伦理审查和保密评估，处理周期较长。",
+    "source": "受限数据，需向 Socialstyrelsen 申请。",
+    "references": [
+      {
+        "raw": "The Effects of Fluoride in Drinking Water",
+        "title": "The Effects of Fluoride in Drinking Water",
+        "authors": [
+          "Linuz Aggeborn",
+          "Mattias Öhman"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "465–491",
+        "doi": "10.1086/711915",
+        "url": "https://doi.org/10.1086/711915",
         "verified": true,
         "note": ""
       }
@@ -17729,6 +18559,22 @@
         "pages": "1173–1199",
         "doi": "10.1093/ej/ueaa013",
         "url": "https://doi.org/10.1093/ej/ueaa013",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public Provision and Protection of Natural Resources: Groundwater Irrigation in Rural India",
+        "title": "Public Provision and Protection of Natural Resources: Groundwater Irrigation in Rural India",
+        "authors": [
+          "Sheetal Sekhri"
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "4",
+        "pages": "29–55",
+        "doi": "10.1257/app.3.4.29",
+        "url": "https://doi.org/10.1257/app.3.4.29",
         "verified": true,
         "note": ""
       }
@@ -18249,6 +19095,67 @@
     ]
   },
   {
+    "id": "4.4.2",
+    "title": "韩国统计厅统计数据库（KOSIS）与微观数据服务（MDIS）",
+    "links": [
+      {
+        "label": "KOSIS",
+        "url": "https://kosis.kr/eng/"
+      },
+      {
+        "label": "MDIS",
+        "url": "https://mdis.kostat.go.kr"
+      }
+    ],
+    "summary": "韩国统计厅的国家统计门户 KOSIS 和微观数据服务 MDIS，提供人口、死因、经济和能源等统计及死亡登记等个体数据。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "健康数据"
+    ],
+    "introduction": "韩国统计厅（Statistics Korea）运营的韩国统计信息服务（KOSIS）汇集各政府部门的官方统计，包括人口与住房普查、人口动态、地区经济、工业和能源生产指数等，可在线查询和下载；微观数据综合服务（MicroData Integrated Service，MDIS）提供死亡登记、出生登记、普查样本和各类调查的个体数据，部分可在线下载，含详细地理信息的数据需在数据中心使用。\n\n数据常用于研究韩国的环境与健康，例如用死因登记个体数据研究中国沙尘和跨境空气污染对韩国死亡率的影响，或用省级能源生产指数作为控制变量。地理信息越详细，访问限制越严格。",
+    "source": "KOSIS 公开查询；MDIS 微观数据需注册，部分需申请或在数据中心使用。",
+    "references": [
+      {
+        "raw": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "title": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "authors": [
+          "Ruixue Jia",
+          "Hyejin Ku"
+        ],
+        "year": 2019,
+        "journal": "The Economic Journal",
+        "volume": "129",
+        "issue": "624",
+        "pages": "3154–3188",
+        "doi": "10.1093/ej/uez021",
+        "url": "https://doi.org/10.1093/ej/uez021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "title": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "authors": [
+          "Seonmin Will Heo",
+          "Koichiro Ito",
+          "V. Rao Kotamarthi"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–45",
+        "doi": "10.1162/rest_a_01581",
+        "url": "https://doi.org/10.1162/rest_a_01581",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.5.1",
     "title": "SEDAC 印度村级地理空间社会经济数据（1991、2001）",
     "links": [],
@@ -18333,6 +19240,23 @@
         "pages": "3038–3072",
         "doi": "10.1257/aer.104.10.3038",
         "url": "https://doi.org/10.1257/aer.104.10.3038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Seasonal effects of water quality: The hidden costs of the Green Revolution to infant and child health in India",
+        "title": "Seasonal effects of water quality: The hidden costs of the Green Revolution to infant and child health in India",
+        "authors": [
+          "Elizabeth Brainerd",
+          "Nidhiya Menon"
+        ],
+        "year": 2014,
+        "journal": "Journal of Development Economics",
+        "volume": "107",
+        "issue": "",
+        "pages": "49–64",
+        "doi": "10.1016/j.jdeveco.2013.11.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2013.11.004",
         "verified": true,
         "note": ""
       }
@@ -18453,6 +19377,136 @@
         "pages": "1707–1754",
         "doi": "10.1093/qje/qjs034",
         "url": "https://doi.org/10.1093/qje/qjs034",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.5",
+    "title": "韩国 AirKorea 空气质量监测数据",
+    "links": [
+      {
+        "label": "AirKorea",
+        "url": "https://www.airkorea.or.kr/web"
+      }
+    ],
+    "summary": "韩国环境部与韩国环境公团运营的全国空气质量监测网络，发布 PM2.5、PM10、O3、NO2、SO2、CO 小时浓度和预警信息。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "AirKorea 是韩国环境部、国立环境科学院（NIER）和韩国环境公团共同运营的空气质量信息平台，整合全国数百个城市、道路边和背景监测站的 PM10、PM2.5（2015 年起正式纳入）、O3、NO2、SO2 和 CO 小时浓度，发布实时空气质量指数、预报和颗粒物预警（注意报、警报），历史确定数据可在网站下载。\n\n数据常用于研究跨境空气污染和预警政策，例如把韩国监测站读数与中国上风向污染匹配，研究跨境污染对死亡率和急诊的影响，或评估颗粒物预警对医疗支出的净收益。早年 PM2.5 站点较少，站点新增和搬迁需要核对。",
+    "source": "AirKorea 网站公开下载。",
+    "references": [
+      {
+        "raw": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "title": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "authors": [
+          "Ruixue Jia",
+          "Hyejin Ku"
+        ],
+        "year": 2019,
+        "journal": "The Economic Journal",
+        "volume": "129",
+        "issue": "624",
+        "pages": "3154–3188",
+        "doi": "10.1093/ej/uez021",
+        "url": "https://doi.org/10.1093/ej/uez021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "title": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "authors": [
+          "Seonmin Will Heo",
+          "Koichiro Ito",
+          "V. Rao Kotamarthi"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–45",
+        "doi": "10.1162/rest_a_01581",
+        "url": "https://doi.org/10.1162/rest_a_01581",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bounds, Benefits, and Bad Air: Net Benefits of Pollution Alerts",
+        "title": "Bounds, Benefits, and Bad Air: Net Benefits of Pollution Alerts",
+        "authors": [
+          "Michael L. Anderson",
+          "Minwoo Hyun",
+          "Jaecheol Lee"
+        ],
+        "year": 2026,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/ej/ueag056",
+        "url": "https://doi.org/10.1093/ej/ueag056",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.6",
+    "title": "韩国气象厅（KMA）气象观测与沙尘记录",
+    "links": [
+      {
+        "label": "KMA 气象资料开放门户",
+        "url": "https://data.kma.go.kr"
+      }
+    ],
+    "summary": "韩国气象厅气象资料开放门户提供的地面气象站逐时和逐日观测，以及亚洲沙尘（黄沙）观测记录。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "韩国气象厅（Korea Meteorological Administration，KMA）通过气象资料开放门户发布综合气象观测系统（ASOS，约 100 个站点）和自动气象站（AWS，约 500 个站点）的逐时和逐日气温、降水、风速风向、湿度和能见度，以及各站点的亚洲沙尘（黄沙）观测记录，部分站点数据可回溯到 20 世纪初。\n\n数据常用于识别来自中国和蒙古的沙尘事件，例如以韩国的黄沙天数作为跨境污染冲击，研究其对韩国死亡率和出口的影响；也作为天气控制变量。下载需注册账号，部分高频数据限量提供。",
+    "source": "KMA 气象资料开放门户注册后免费下载。",
+    "references": [
+      {
+        "raw": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "title": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "authors": [
+          "Ruixue Jia",
+          "Hyejin Ku"
+        ],
+        "year": 2019,
+        "journal": "The Economic Journal",
+        "volume": "129",
+        "issue": "624",
+        "pages": "3154–3188",
+        "doi": "10.1093/ej/uez021",
+        "url": "https://doi.org/10.1093/ej/uez021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "title": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "authors": [
+          "Seonmin Will Heo",
+          "Koichiro Ito",
+          "V. Rao Kotamarthi"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–45",
+        "doi": "10.1162/rest_a_01581",
+        "url": "https://doi.org/10.1162/rest_a_01581",
         "verified": true,
         "note": ""
       }
@@ -18739,6 +19793,63 @@
     ]
   },
   {
+    "id": "4.8.4",
+    "title": "韩国国民健康保险公团（NHIS）健康保险数据",
+    "links": [
+      {
+        "label": "NHIS 健康保险大数据平台",
+        "url": "https://nhiss.nhis.or.kr"
+      }
+    ],
+    "summary": "韩国国民健康保险公团基于全民医保理赔建立的研究数据库，包括样本队列和医疗支出、急诊、诊断等记录。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "韩国实行单一支付方的全民健康保险，国民健康保险公团（National Health Insurance Service，NHIS）管理全体国民的参保、门诊、住院、急诊、处方和健康体检记录。NHIS 通过健康保险大数据平台向研究者提供去标识化的数据库，包括约 100 万人的国民样本队列（2002 年起）、老年队列、体检队列和定制数据，按地区和日期汇总的医疗支出也可申请。数据须经审批后在 NHIS 指定的分析中心或远程环境中使用，加工后的数据不能带出。\n\n数据常用于研究空气污染的短期健康成本，例如用分区日度医疗支出评估颗粒物预警的净收益，或研究跨境污染对急诊入院的影响。访问需要韩国合作者和较长的审批周期。",
+    "source": "受限数据，需在 NHIS 大数据平台申请，在指定环境中使用。",
+    "references": [
+      {
+        "raw": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "title": "International Spillover Effects of Air Pollution: Evidence from Mortality and Health Data",
+        "authors": [
+          "Seonmin Will Heo",
+          "Koichiro Ito",
+          "V. Rao Kotamarthi"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–45",
+        "doi": "10.1162/rest_a_01581",
+        "url": "https://doi.org/10.1162/rest_a_01581",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bounds, Benefits, and Bad Air: Net Benefits of Pollution Alerts",
+        "title": "Bounds, Benefits, and Bad Air: Net Benefits of Pollution Alerts",
+        "authors": [
+          "Michael L. Anderson",
+          "Minwoo Hyun",
+          "Jaecheol Lee"
+        ],
+        "year": 2026,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/ej/ueag056",
+        "url": "https://doi.org/10.1093/ej/ueag056",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.14.1",
     "title": "ICRISAT 印度县级农业数据库",
     "links": [
@@ -18902,6 +20013,44 @@
     ]
   },
   {
+    "id": "4.14.5",
+    "title": "印度小型灌溉普查",
+    "links": [
+      {
+        "label": "印度水资源部",
+        "url": "https://mowr.nic.in/"
+      }
+    ],
+    "summary": "印度水资源部组织的地下水井和小型地表水灌溉工程普查，记录每个村的管井、浅井、挖井数量及其所有权和使用情况。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "农业数据",
+      "普查数据"
+    ],
+    "introduction": "小型灌溉普查（Minor Irrigation Census）由印度水资源部（现贾尔·沙克蒂部）大约每五年组织一次，已开展 1986–87、1993–94、2000–01、2006–07、2013–14 和 2017–18 等轮次，以村为单位登记灌溉面积在 2,000 公顷以下的全部灌溉工程，包括挖井、浅管井、中深管井、深管井、地表水流灌和提灌工程，记录数量、深度、动力来源、所有权（公共或私人）、灌溉面积和使用状态。\n\n数据常用于研究印度地下水灌溉和地下水枯竭，例如利用公共管井项目在北方邦村庄的分配，研究公共供给对私人打井和地下水水位的影响。村级数据的公开程度因轮次而异，早期轮次需要向主管部门申请。",
+    "source": "汇总报告公开，村级数据部分可在水资源部网站获取，早期轮次需申请。",
+    "references": [
+      {
+        "raw": "Public Provision and Protection of Natural Resources: Groundwater Irrigation in Rural India",
+        "title": "Public Provision and Protection of Natural Resources: Groundwater Irrigation in Rural India",
+        "authors": [
+          "Sheetal Sekhri"
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "4",
+        "pages": "29–55",
+        "doi": "10.1257/app.3.4.29",
+        "url": "https://doi.org/10.1257/app.3.4.29",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "5.1.1",
     "title": "巴西农业普查（Censo Agropecuário）",
     "links": [
@@ -19019,6 +20168,64 @@
         "pages": "68–79",
         "doi": "10.1016/j.jpubeco.2014.10.004",
         "url": "https://doi.org/10.1016/j.jpubeco.2014.10.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "title": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "authors": [
+          "Sonia R. Bhalotra",
+          "Alberto Diaz-Cayeros",
+          "Grant Miller",
+          "Alfonso Miranda",
+          "Atheendar S. Venkataramani"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "13",
+        "issue": "4",
+        "pages": "490–520",
+        "doi": "10.1257/pol.20180764",
+        "url": "https://doi.org/10.1257/pol.20180764",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.1.3",
+    "title": "巴西人口普查（IBGE Censo Demográfico）",
+    "links": [
+      {
+        "label": "IBGE 人口普查",
+        "url": "https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html"
+      }
+    ],
+    "summary": "巴西地理统计局（IBGE）每十年一次的人口普查，提供到市镇和普查区的人口、住房、教育、收入数据和抽样微观样本。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "巴西人口普查（Censo Demográfico）由巴西地理统计局（IBGE）组织，近几轮在 1991、2000、2010 和 2022 年开展，普查表对所有住户登记基本信息，抽样表（约 10% 住户）收集教育、就业、收入、迁移、生育和住房设施等详细信息。汇总结果按州、市镇和普查区通过 SIDRA 系统发布，抽样微观数据可从 IBGE 网站和 IPUMS International 下载。\n\n数据常用于构建巴西市镇层面的社会经济特征，例如用 2000 年普查的住户卫生设施和人口特征研究半干旱地区降水冲击对新生儿健康的影响。市镇数量随行政区划调整增加，跨轮次比较需使用最小可比地区（AMC）。",
+    "source": "IBGE 网站与 SIDRA 系统公开下载（网站对自动访问有验证页）。",
+    "references": [
+      {
+        "raw": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "title": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "authors": [
+          "Rudi Rocha",
+          "Rodrigo R. Soares"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "72–91",
+        "doi": "10.1016/j.jdeveco.2014.10.003",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.003",
         "verified": true,
         "note": ""
       }
@@ -19888,6 +21095,23 @@
         "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "title": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "authors": [
+          "Rudi Rocha",
+          "Rodrigo R. Soares"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "72–91",
+        "doi": "10.1016/j.jdeveco.2014.10.003",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19992,6 +21216,26 @@
         "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "title": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "authors": [
+          "Sonia R. Bhalotra",
+          "Alberto Diaz-Cayeros",
+          "Grant Miller",
+          "Alfonso Miranda",
+          "Atheendar S. Venkataramani"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "13",
+        "issue": "4",
+        "pages": "490–520",
+        "doi": "10.1257/pol.20180764",
+        "url": "https://doi.org/10.1257/pol.20180764",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20028,6 +21272,80 @@
         "pages": "1063–1096",
         "doi": "10.3982/ECTA20484",
         "url": "https://doi.org/10.3982/ECTA20484",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.8.5",
+    "title": "巴西活产信息系统（SINASC）",
+    "links": [],
+    "summary": "巴西卫生部 DATASUS 维护的全国活产登记，基于出生证明记录出生体重、孕周、分娩方式和母亲特征，1994 年起。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "活产信息系统（Sistema de Informações sobre Nascidos Vivos，SINASC）由巴西卫生部于 1990 年建立，依据医院和登记处填写的活产申报单（DNV）记录全国每一例活产的出生日期、地点、出生体重、孕周、阿普加评分、分娩方式、先天畸形，以及母亲年龄、教育、婚姻状况、产前检查次数和居住市镇，个体微观数据和汇总表可通过 DATASUS 下载。\n\n数据常与死亡率信息系统（SIM，见 5.8.1）配合使用，研究环境冲击对新生儿健康的影响，例如利用半干旱地区的降水冲击研究缺水对出生体重和早产的影响。早期年份北部和东北部存在漏报，覆盖率在 2000 年代显著提高。",
+    "source": "DATASUS 公开下载微观数据。",
+    "references": [
+      {
+        "raw": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "title": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "authors": [
+          "Rudi Rocha",
+          "Rodrigo R. Soares"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "72–91",
+        "doi": "10.1016/j.jdeveco.2014.10.003",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.003",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.8.6",
+    "title": "墨西哥出生登记统计（INEGI ENR）",
+    "links": [
+      {
+        "label": "INEGI 出生统计",
+        "url": "https://www.inegi.org.mx/programas/natalidad/"
+      }
+    ],
+    "summary": "墨西哥国家统计和地理研究所基于民事登记编制的出生统计，记录每一例登记出生的日期、地点和父母特征，1985 年起有微观数据。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "登记出生统计（Estadística de Nacimientos Registrados，ENR）由 INEGI 依据各州民事登记处的出生登记编制，记录出生日期、登记日期、出生地点、性别、出生顺序，以及母亲和父亲的年龄、教育、职业和居住市镇，微观数据可在 INEGI 网站下载。由于存在延迟登记，按出生年份统计时需结合登记年份；卫生部另有基于出生证明的 SINAC 系统。\n\n数据常用于构建出生队列和计算婴儿死亡率分母，例如与死亡登记（见 5.8.3）配合，研究 1990 年代墨西哥城市供水消毒对儿童死亡率的影响。延迟登记和漏报在农村地区较多。",
+    "source": "INEGI 网站公开下载。",
+    "references": [
+      {
+        "raw": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "title": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "authors": [
+          "Sonia R. Bhalotra",
+          "Alberto Diaz-Cayeros",
+          "Grant Miller",
+          "Alfonso Miranda",
+          "Atheendar S. Venkataramani"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "13",
+        "issue": "4",
+        "pages": "490–520",
+        "doi": "10.1257/pol.20180764",
+        "url": "https://doi.org/10.1257/pol.20180764",
         "verified": true,
         "note": ""
       }
@@ -20121,6 +21439,44 @@
         "pages": "58–82",
         "doi": "10.1257/pol.2.4.58",
         "url": "https://doi.org/10.1257/pol.2.4.58",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.14.1",
+    "title": "巴西市镇农业生产调查（PAM）",
+    "links": [
+      {
+        "label": "IBGE PAM",
+        "url": "https://www.ibge.gov.br/estatisticas/economicas/agricultura-e-pecuaria/9117-producao-agricola-municipal-culturas-temporarias-e-permanentes.html"
+      }
+    ],
+    "summary": "IBGE 每年开展的市镇农业生产调查，提供各市镇主要临时和永久作物的种植面积、收获面积、产量和产值，1974 年起。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "农业数据"
+    ],
+    "introduction": "市镇农业生产调查（Produção Agrícola Municipal，PAM）由巴西地理统计局（IBGE）每年开展，依据地方农业机构和专家信息估计每个市镇 60 多种作物（大豆、玉米、甘蔗、咖啡、木薯等）的种植面积、收获面积、产量、单产和产值，年度数据从 1974 年起，通过 SIDRA 系统公开发布。\n\n数据常用于测量巴西地方农业产出和气候冲击，例如在研究半干旱地区降水对新生儿健康的影响时，用农业产出检验收入渠道。数据是行政估计而非抽样调查，小市镇的估计精度有限。",
+    "source": "IBGE SIDRA 系统公开下载（网站对自动访问有验证页）。",
+    "references": [
+      {
+        "raw": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "title": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "authors": [
+          "Rudi Rocha",
+          "Rodrigo R. Soares"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "72–91",
+        "doi": "10.1016/j.jdeveco.2014.10.003",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.003",
         "verified": true,
         "note": ""
       }
@@ -20652,6 +22008,26 @@
         "url": "https://doi.org/10.1257/aer.103.2.948",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "title": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "authors": [
+          "Sonia R. Bhalotra",
+          "Alberto Diaz-Cayeros",
+          "Grant Miller",
+          "Alfonso Miranda",
+          "Atheendar S. Venkataramani"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "13",
+        "issue": "4",
+        "pages": "490–520",
+        "doi": "10.1257/pol.20180764",
+        "url": "https://doi.org/10.1257/pol.20180764",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20771,6 +22147,23 @@
         "pages": "295–309",
         "doi": "10.1016/j.jeem.2017.02.008",
         "url": "https://doi.org/10.1016/j.jeem.2017.02.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Seasonal effects of water quality: The hidden costs of the Green Revolution to infant and child health in India",
+        "title": "Seasonal effects of water quality: The hidden costs of the Green Revolution to infant and child health in India",
+        "authors": [
+          "Elizabeth Brainerd",
+          "Nidhiya Menon"
+        ],
+        "year": 2014,
+        "journal": "Journal of Development Economics",
+        "volume": "107",
+        "issue": "",
+        "pages": "49–64",
+        "doi": "10.1016/j.jdeveco.2013.11.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2013.11.004",
         "verified": true,
         "note": ""
       }
@@ -21387,6 +22780,24 @@
         "pages": "1637–1680",
         "doi": "10.1093/qje/qjw022",
         "url": "https://doi.org/10.1093/qje/qjw022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air pollution as comparative disadvantage",
+        "title": "Air pollution as comparative disadvantage",
+        "authors": [
+          "Shi-Ting He",
+          "Liugang Sheng",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "254",
+        "issue": "",
+        "pages": "105560",
+        "doi": "10.1016/j.jpubeco.2025.105560",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105560",
         "verified": true,
         "note": ""
       }
@@ -22705,6 +24116,47 @@
     ]
   },
   {
+    "id": "7.5.12",
+    "title": "SRTM 数字高程模型",
+    "links": [
+      {
+        "label": "NASA Earthdata SRTM",
+        "url": "https://www.earthdata.nasa.gov/data/instruments/srtm"
+      },
+      {
+        "label": "LP DAAC SRTMGL1",
+        "url": "https://lpdaac.usgs.gov/products/srtmgl1v003/"
+      }
+    ],
+    "summary": "NASA 航天飞机雷达地形测绘任务（2000 年）生成的近全球数字高程模型，分辨率 1 角秒（约 30 米）和 3 角秒（约 90 米）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "航天飞机雷达地形测绘任务（Shuttle Radar Topography Mission，SRTM）由 NASA 与美国国家地理空间情报局等机构于 2000 年 2 月执行，用干涉雷达测量了北纬 60 度到南纬 56 度之间约 80% 陆地的高程，产品包括 1 角秒（约 30 米）和 3 角秒（约 90 米）分辨率的数字高程模型，以及填补空洞后的版本（如 CGIAR-CSI SRTM v4），可通过 NASA Earthdata、USGS EarthExplorer 下载。\n\n数据常用于计算海拔、坡度、地形崎岖度和流域，例如作为地下水灌溉研究中的地形控制变量，或用于构造基于地形的工具变量（如水坝、道路建设的适宜性）。高纬度地区无覆盖，陡峭山区和水体存在数据空洞。",
+    "source": "NASA Earthdata 和 USGS 免费下载（需注册 Earthdata 账号）。",
+    "references": [
+      {
+        "raw": "Public Provision and Protection of Natural Resources: Groundwater Irrigation in Rural India",
+        "title": "Public Provision and Protection of Natural Resources: Groundwater Irrigation in Rural India",
+        "authors": [
+          "Sheetal Sekhri"
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "4",
+        "pages": "29–55",
+        "doi": "10.1257/app.3.4.29",
+        "url": "https://doi.org/10.1257/app.3.4.29",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.6.1",
     "title": "Global Fishing Watch 全球渔业活动数据",
     "links": [
@@ -22915,6 +24367,22 @@
         "pages": "1173–1199",
         "doi": "10.1093/ej/ueaa013",
         "url": "https://doi.org/10.1093/ej/ueaa013",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "title": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "authors": [
+          "Avraham Ebenstein"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "186–201",
+        "doi": "10.1162/rest_a_00150",
+        "url": "https://doi.org/10.1162/rest_a_00150",
         "verified": true,
         "note": ""
       }
@@ -23360,6 +24828,22 @@
         "url": "https://doi.org/10.1093/restud/rdaf088",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Public Provision and Protection of Natural Resources: Groundwater Irrigation in Rural India",
+        "title": "Public Provision and Protection of Natural Resources: Groundwater Irrigation in Rural India",
+        "authors": [
+          "Sheetal Sekhri"
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "4",
+        "pages": "29–55",
+        "doi": "10.1257/app.3.4.29",
+        "url": "https://doi.org/10.1257/app.3.4.29",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23573,6 +25057,23 @@
         "url": "https://doi.org/10.1093/restud/rdaf012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Seasonal effects of water quality: The hidden costs of the Green Revolution to infant and child health in India",
+        "title": "Seasonal effects of water quality: The hidden costs of the Green Revolution to infant and child health in India",
+        "authors": [
+          "Elizabeth Brainerd",
+          "Nidhiya Menon"
+        ],
+        "year": 2014,
+        "journal": "Journal of Development Economics",
+        "volume": "107",
+        "issue": "",
+        "pages": "49–64",
+        "doi": "10.1016/j.jdeveco.2013.11.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2013.11.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23753,6 +25254,23 @@
         "url": "https://doi.org/10.1093/restud/rdad042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "title": "Is China's Pollution the Culprit for the Choking of South Korea? Evidence from the Asian Dust",
+        "authors": [
+          "Ruixue Jia",
+          "Hyejin Ku"
+        ],
+        "year": 2019,
+        "journal": "The Economic Journal",
+        "volume": "129",
+        "issue": "624",
+        "pages": "3154–3188",
+        "doi": "10.1093/ej/uez021",
+        "url": "https://doi.org/10.1093/ej/uez021",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23821,6 +25339,23 @@
         "pages": "587–624",
         "doi": "10.1257/aer.20140389",
         "url": "https://doi.org/10.1257/aer.20140389",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "title": "Water scarcity and birth outcomes in the Brazilian semiarid",
+        "authors": [
+          "Rudi Rocha",
+          "Rodrigo R. Soares"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "72–91",
+        "doi": "10.1016/j.jdeveco.2014.10.003",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.10.003",
         "verified": true,
         "note": ""
       }
@@ -24379,6 +25914,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2022.102833",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Air pollution as comparative disadvantage",
+        "title": "Air pollution as comparative disadvantage",
+        "authors": [
+          "Shi-Ting He",
+          "Liugang Sheng",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "254",
+        "issue": "",
+        "pages": "105560",
+        "doi": "10.1016/j.jpubeco.2025.105560",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105560",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24489,6 +26042,24 @@
         "pages": "102893",
         "doi": "10.1016/j.jeem.2023.102893",
         "url": "https://doi.org/10.1016/j.jeem.2023.102893",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air pollution as comparative disadvantage",
+        "title": "Air pollution as comparative disadvantage",
+        "authors": [
+          "Shi-Ting He",
+          "Liugang Sheng",
+          "Peng Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "254",
+        "issue": "",
+        "pages": "105560",
+        "doi": "10.1016/j.jpubeco.2025.105560",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105560",
         "verified": true,
         "note": ""
       }
@@ -24637,6 +26208,118 @@
         "pages": "173–201",
         "doi": "10.1257/app.20170286",
         "url": "https://doi.org/10.1257/app.20170286",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.36",
+    "title": "GPCC 全球降水气候中心格网降水数据",
+    "links": [
+      {
+        "label": "DWD GPCC",
+        "url": "https://www.dwd.de/EN/ourservices/gpcc/gpcc.html"
+      }
+    ],
+    "summary": "德国气象局全球降水气候中心基于全球雨量站观测编制的陆地格网月降水和日降水数据，1891 年起。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "全球降水气候中心（Global Precipitation Climatology Centre，GPCC）由德国气象局（DWD）在世界气象组织框架下运营，汇集全球 8 万多个雨量站的观测，生成陆地格网降水产品，包括全数据月降水（Full Data Monthly，1891 年起，0.25°–2.5°）、日降水（1982 年起）、监测产品和首次猜测产品，可从 DWD 网站和 NOAA PSL 下载。\n\n数据常用于测量降水冲击和流域水文条件，例如结合流域划分研究中国河流上游降水和水污染对消化道癌症的影响，或在跨国研究中构造降水异常。站点密度随地区和年代变化，非洲等地区早期年份的不确定性较大。",
+    "source": "DWD 网站和 NOAA PSL 免费下载。",
+    "references": [
+      {
+        "raw": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "title": "The Consequences of Industrialization: Evidence from Water Pollution and Digestive Cancers in China",
+        "authors": [
+          "Avraham Ebenstein"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "186–201",
+        "doi": "10.1162/rest_a_00150",
+        "url": "https://doi.org/10.1162/rest_a_00150",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.37",
+    "title": "水足迹网络国家水足迹账户（WaterStat）",
+    "links": [
+      {
+        "label": "WaterStat",
+        "url": "https://waterfootprint.org/en/resources/waterstat/"
+      }
+    ],
+    "summary": "水足迹网络发布的各国生产和消费的绿水、蓝水、灰水足迹及虚拟水贸易数据，主要基于 Mekonnen 和 Hoekstra（2011）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "贸易数据"
+    ],
+    "introduction": "水足迹网络（Water Footprint Network）的 WaterStat 数据库发布 Mekonnen 和 Hoekstra（2011，UNESCO-IHE Value of Water Research Report）编制的国家水足迹账户，涵盖 1996–2005 年各国作物生产、畜牧业、工业和生活用水的绿水（雨水）、蓝水（地表和地下水）和灰水（稀释污染所需水量）足迹，以及按产品计算的虚拟水进出口和单位产品水足迹。\n\n数据常用于研究水资源与国际贸易，例如检验水资源丰裕程度是否构成比较优势，以及各国通过贸易进出口了多少虚拟水。数据是模型估算的时期平均值，不随年份更新。",
+    "source": "水足迹网络网站公开下载。",
+    "references": [
+      {
+        "raw": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "title": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "authors": [
+          "Peter Debaere"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "6",
+        "issue": "2",
+        "pages": "32–48",
+        "doi": "10.1257/app.6.2.32",
+        "url": "https://doi.org/10.1257/app.6.2.32",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.38",
+    "title": "《世界之水》各国淡水资源统计（Pacific Institute）",
+    "links": [
+      {
+        "label": "The World's Water",
+        "url": "https://worldwater.org/"
+      }
+    ],
+    "summary": "Peter Gleick 主编、太平洋研究所出版的《世界之水》双年报告附表，汇集各国可再生淡水资源量、取水量和用水结构。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "《世界之水》（The World's Water）由 Peter Gleick 主编、太平洋研究所（Pacific Institute）自 1998 年起约每两年出版一卷，书后数据附表汇编各国可再生淡水资源总量和人均量、按部门（农业、工业、生活）划分的年取水量、获得安全饮用水和卫生设施的人口比例、大型水坝和海水淡化能力等，数据主要整理自 FAO AQUASTAT、世界资源研究所和各国报告，附表在 worldwater.org 网站公开。\n\n数据常用于跨国比较水资源禀赋，例如用人均可再生淡水资源衡量各国水资源丰裕度，研究水是否构成国际贸易的比较优势来源。各国数据年份不一，估计方法和口径差异较大。",
+    "source": "worldwater.org 网站公开提供数据附表。",
+    "references": [
+      {
+        "raw": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "title": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "authors": [
+          "Peter Debaere"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "6",
+        "issue": "2",
+        "pages": "32–48",
+        "doi": "10.1257/app.6.2.32",
+        "url": "https://doi.org/10.1257/app.6.2.32",
         "verified": true,
         "note": ""
       }
@@ -25083,6 +26766,26 @@
         "pages": "103717",
         "doi": "10.1016/j.jdeveco.2025.103717",
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103717",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "title": "Urban Water Disinfection and Mortality Decline in Lower-Income Countries",
+        "authors": [
+          "Sonia R. Bhalotra",
+          "Alberto Diaz-Cayeros",
+          "Grant Miller",
+          "Alfonso Miranda",
+          "Atheendar S. Venkataramani"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "13",
+        "issue": "4",
+        "pages": "490–520",
+        "doi": "10.1257/pol.20180764",
+        "url": "https://doi.org/10.1257/pol.20180764",
         "verified": true,
         "note": ""
       }
@@ -26458,6 +28161,22 @@
         "url": "https://doi.org/10.3982/ECTA20153",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "title": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "authors": [
+          "Peter Debaere"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "6",
+        "issue": "2",
+        "pages": "32–48",
+        "doi": "10.1257/app.6.2.32",
+        "url": "https://doi.org/10.1257/app.6.2.32",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26743,6 +28462,22 @@
         "pages": "2509–2555",
         "doi": "10.1086/724319",
         "url": "https://doi.org/10.1086/724319",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "title": "The Global Economics of Water: Is Water a Source of Comparative Advantage?",
+        "authors": [
+          "Peter Debaere"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "6",
+        "issue": "2",
+        "pages": "32–48",
+        "doi": "10.1257/app.6.2.32",
+        "url": "https://doi.org/10.1257/app.6.2.32",
         "verified": true,
         "note": ""
       }
