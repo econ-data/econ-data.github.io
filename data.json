@@ -203,6 +203,41 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Economic development and conservation impacts of China's nature reserves",
+        "title": "Economic development and conservation impacts of China's nature reserves",
+        "authors": [
+          "Audrey T. Cheng",
+          "Katharine R.E. Sims",
+          "Yuanyuan Yi"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "121",
+        "issue": "",
+        "pages": "102848",
+        "doi": "10.1016/j.jeem.2023.102848",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102848",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The enduring effects of China’s Payments for Ecosystem Services: Short- and long-term industrial transformations",
+        "title": "The enduring effects of China’s Payments for Ecosystem Services: Short- and long-term industrial transformations",
+        "authors": [
+          "Wen Wang",
+          "Qi Pan"
+        ],
+        "year": 2025,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "130",
+        "issue": "",
+        "pages": "103119",
+        "doi": "10.1016/j.jeem.2025.103119",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103119",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1915,6 +1950,23 @@
         "pages": "105495",
         "doi": "10.1016/j.jpubeco.2025.105495",
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105495",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The enduring effects of China’s Payments for Ecosystem Services: Short- and long-term industrial transformations",
+        "title": "The enduring effects of China’s Payments for Ecosystem Services: Short- and long-term industrial transformations",
+        "authors": [
+          "Wen Wang",
+          "Qi Pan"
+        ],
+        "year": 2025,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "130",
+        "issue": "",
+        "pages": "103119",
+        "doi": "10.1016/j.jeem.2025.103119",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103119",
         "verified": true,
         "note": ""
       }
@@ -8670,6 +8722,23 @@
         "url": "https://doi.org/10.1257/aer.20181346",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "National parks and economic development",
+        "title": "National parks and economic development",
+        "authors": [
+          "Andrea Szabó",
+          "Gergely Ujhelyi"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "232",
+        "issue": "",
+        "pages": "105073",
+        "doi": "10.1016/j.jpubeco.2024.105073",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105073",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9079,6 +9148,23 @@
         "pages": "791–830",
         "doi": "10.1086/739574",
         "url": "https://doi.org/10.1086/739574",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "National parks and economic development",
+        "title": "National parks and economic development",
+        "authors": [
+          "Andrea Szabó",
+          "Gergely Ujhelyi"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "232",
+        "issue": "",
+        "pages": "105073",
+        "doi": "10.1016/j.jpubeco.2024.105073",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105073",
         "verified": true,
         "note": ""
       }
@@ -9891,6 +9977,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "National parks and economic development",
+        "title": "National parks and economic development",
+        "authors": [
+          "Andrea Szabó",
+          "Gergely Ujhelyi"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "232",
+        "issue": "",
+        "pages": "105073",
+        "doi": "10.1016/j.jpubeco.2024.105073",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105073",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10307,6 +10410,23 @@
         "pages": "2101–2126",
         "doi": "10.1257/aer.20181346",
         "url": "https://doi.org/10.1257/aer.20181346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "National parks and economic development",
+        "title": "National parks and economic development",
+        "authors": [
+          "Andrea Szabó",
+          "Gergely Ujhelyi"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "232",
+        "issue": "",
+        "pages": "105073",
+        "doi": "10.1016/j.jpubeco.2024.105073",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105073",
         "verified": true,
         "note": ""
       }
@@ -16269,6 +16389,121 @@
         "pages": "245–261",
         "doi": "10.1016/j.jeem.2007.01.002",
         "url": "https://doi.org/10.1016/j.jeem.2007.01.002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.63",
+    "title": "美国国家公园管理局游客统计（NPS Visitor Use Statistics）",
+    "links": [
+      {
+        "label": "NPS IRMA Stats",
+        "url": "https://irma.nps.gov/Stats/"
+      }
+    ],
+    "summary": "美国国家公园管理局按公园单元发布的月度和年度游客人次、过夜住宿等统计，部分公园可追溯到 20 世纪初。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "国家公园管理局（National Park Service，NPS）游客使用统计项目通过其综合资源管理应用（IRMA）门户发布全部约 400 个公园单元的游客统计，包括月度和年度休闲与非休闲游客人次、休闲访问小时数、露营和住宿过夜人次等，统计口径由各公园的计数方法（车辆计数器、门票、乘客系数）确定，历史年报可回溯到 1904 年。数据可在 IRMA Stats 网站免费查询和下载。\n\n数据常用于研究自然保护地的经济效应和游憩需求，例如结合公园预算面板研究国家公园经费对游客量和周边县域收入、就业的影响。各公园的计数方法不同且曾多次调整，跨公园比较需谨慎。",
+    "source": "IRMA Stats 网站免费下载。",
+    "references": [
+      {
+        "raw": "National parks and economic development",
+        "title": "National parks and economic development",
+        "authors": [
+          "Andrea Szabó",
+          "Gergely Ujhelyi"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "232",
+        "issue": "",
+        "pages": "105073",
+        "doi": "10.1016/j.jpubeco.2024.105073",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105073",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.64",
+    "title": "NOAA 气候分区数据（Climate Divisional Database，nClimDiv）",
+    "links": [
+      {
+        "label": "Climate at a Glance（气候分区）",
+        "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/divisional/"
+      }
+    ],
+    "summary": "NOAA 国家环境信息中心发布的美国本土 344 个气候分区以及州和县的月度气温、降水、度日和帕尔默干旱指数序列，自 1895 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "气候分区数据库（Climate Divisional Database，nClimDiv）由 NOAA 国家环境信息中心（NCEI，前身为国家气候数据中心 NCDC）维护，把美国本土划分为 344 个气候分区，基于 GHCN-Daily 站点数据格网插值，提供 1895 年以来的月度平均、最高和最低气温、降水量、采暖和制冷度日以及帕尔默干旱严重指数（PDSI）、帕尔默水文干旱指数和 Z 指数等，同时提供州、县和全国汇总序列，可通过 Climate at a Glance 网站免费下载。\n\n数据常用于构造长时段的地区气候控制变量，例如在研究国家公园预算对县域经济影响时控制降水、气温和干旱条件。2014 年由传统分区数据换为格网化的 nClimDiv 方法，历史序列随之重算。",
+    "source": "NOAA NCEI 网站免费下载。",
+    "references": [
+      {
+        "raw": "National parks and economic development",
+        "title": "National parks and economic development",
+        "authors": [
+          "Andrea Szabó",
+          "Gergely Ujhelyi"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "232",
+        "issue": "",
+        "pages": "105073",
+        "doi": "10.1016/j.jpubeco.2024.105073",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105073",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.65",
+    "title": "美国国家保护地役权数据库（NCED）",
+    "links": [
+      {
+        "label": "NCED",
+        "url": "https://conservationeasement.us/"
+      }
+    ],
+    "summary": "汇集美国土地信托和政府机构持有的保护地役权地块边界和属性的全国数据库，记录持有者、面积、设立年份和保护目的。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "国家保护地役权数据库（National Conservation Easement Database，NCED）由 Ducks Unlimited、The Trust for Public Land 等机构合作建设，收集联邦和州机构、土地信托等持有的保护地役权（conservation easement）信息，包括地块空间边界、面积、持有者类型、设立年份、公众可达性和保护目的，可在网站免费查询和下载 GIS 数据。部分持有者出于隐私原因未提交记录。\n\n数据常用于研究私有土地保护和土地信托的行为，例如研究州所得税抵免等税收优惠对保护地役权捐赠数量和面积的影响。数据库覆盖不完整，较早设立的地役权和私人土地信托的记录缺漏较多。",
+    "source": "NCED 网站免费下载。",
+    "references": [
+      {
+        "raw": "Tax Incentives and the Price of Conservation",
+        "title": "Tax Incentives and the Price of Conservation",
+        "authors": [
+          "Dominic P. Parker",
+          "Walter N. Thurman"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "2",
+        "pages": "331–369",
+        "doi": "10.1086/695615",
+        "url": "https://doi.org/10.1086/695615",
         "verified": true,
         "note": ""
       }
@@ -25755,6 +25990,43 @@
     ]
   },
   {
+    "id": "4.1.4",
+    "title": "印度尼西亚村庄潜力普查（Podes）",
+    "links": [
+      {
+        "label": "BPS Statistics Indonesia",
+        "url": "https://www.bps.go.id/"
+      }
+    ],
+    "summary": "印尼中央统计局每三到四年对全国所有村庄进行的普查，由村长等报告村庄基础设施、经济活动、公共服务、自然灾害和社会冲突等情况。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "村庄潜力普查（Potensi Desa，Podes）由印度尼西亚中央统计局（BPS）配合人口、农业和经济普查每三到四年开展一次，覆盖全国约 8 万个村庄（desa/kelurahan），由村长或村干部回答数百个问题，涵盖地形与土地利用、人口、基础设施（道路、电力、市场）、学校和医疗设施、主要经济部门、自然灾害、环境污染、犯罪和社会冲突等。数据可以与行政区划代码匹配，需向 BPS 申请或购买。\n\n数据常用于印尼村庄层面的发展和环境研究，例如结合卫星森林覆盖数据研究森林砍伐与地方社会冲突的关系。不同年份的问卷内容和行政区划变化较大，跨期匹配需借助区划对照表。",
+    "source": "向印尼中央统计局申请或购买（链接经搜索确认，网站对自动访问返回验证页）。",
+    "references": [
+      {
+        "raw": "Ecosystems and human health: The local benefits of forest cover in Indonesia",
+        "title": "Ecosystems and human health: The local benefits of forest cover in Indonesia",
+        "authors": [
+          "Teevrat Garg"
+        ],
+        "year": 2019,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "98",
+        "issue": "",
+        "pages": "102271",
+        "doi": "10.1016/j.jeem.2019.102271",
+        "url": "https://doi.org/10.1016/j.jeem.2019.102271",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.2.1",
     "title": "ICRISAT 村庄层面研究（VLS）面板调查",
     "links": [
@@ -27800,6 +28072,78 @@
         "url": "https://doi.org/10.1086/744117",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Electricity, Agricultural Productivity, and Deforestation: Evidence from Brazil",
+        "title": "Electricity, Agricultural Productivity, and Deforestation: Evidence from Brazil",
+        "authors": [
+          "Dimitri Szerman",
+          "Juliano Assunção",
+          "Molly Lipscomb",
+          "Ahmed Mushfiq Mobarak"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "6",
+        "pages": "1615–1656",
+        "doi": "10.1086/742115",
+        "url": "https://doi.org/10.1086/742115",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "title": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "authors": [
+          "Rafael Araujo",
+          "Francisco Costa",
+          "Marcelo Sant’Anna"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "72–105",
+        "doi": "10.1093/restud/rdaf031",
+        "url": "https://doi.org/10.1093/restud/rdaf031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "title": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "authors": [
+          "Igor Carreira",
+          "Francisco Costa",
+          "João Paulo Pessoa"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "167",
+        "issue": "",
+        "pages": "103217",
+        "doi": "10.1016/j.jdeveco.2023.103217",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27937,6 +28281,41 @@
         "pages": "72–91",
         "doi": "10.1016/j.jdeveco.2014.10.003",
         "url": "https://doi.org/10.1016/j.jdeveco.2014.10.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "title": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "authors": [
+          "Igor Carreira",
+          "Francisco Costa",
+          "João Paulo Pessoa"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "167",
+        "issue": "",
+        "pages": "103217",
+        "doi": "10.1016/j.jdeveco.2023.103217",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103217",
         "verified": true,
         "note": ""
       }
@@ -28343,6 +28722,23 @@
         "url": "https://doi.org/10.1086/744117",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28462,6 +28858,44 @@
     ]
   },
   {
+    "id": "5.4.5",
+    "title": "巴西国库秘书处市镇财政数据（FINBRA / SICONFI）",
+    "links": [
+      {
+        "label": "SICONFI",
+        "url": "https://siconfi.tesouro.gov.br/"
+      }
+    ],
+    "summary": "巴西国库秘书处汇编的州和市镇政府年度财政账户，记录分项收入、转移支付和按功能分类的支出。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "FINBRA（Finanças do Brasil）是巴西国家国库秘书处（STN）汇编的地方政府财政数据，2013 年起并入巴西公共部门会计和财政信息系统（SICONFI），由各州和约 5570 个市镇按统一会计口径申报年度预算执行报告，包括税收收入、联邦和州转移支付、经常性和资本性支出及按功能（教育、卫生、农业、环境等）分类的支出，可在 SICONFI 网站免费下载。\n\n数据常用于研究巴西地方政府的财政行为，例如研究亚马逊地区市镇的土地确权、环境执法与地方财政的关系。部分市镇存在漏报或延迟申报，早期年份口径与 SICONFI 不完全一致。",
+    "source": "SICONFI 网站免费下载。",
+    "references": [
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "5.5.1",
     "title": "MapBiomas 巴西土地覆盖与利用",
     "links": [
@@ -28497,6 +28931,95 @@
         "pages": "",
         "doi": "10.1086/744117",
         "url": "https://doi.org/10.1086/744117",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electricity, Agricultural Productivity, and Deforestation: Evidence from Brazil",
+        "title": "Electricity, Agricultural Productivity, and Deforestation: Evidence from Brazil",
+        "authors": [
+          "Dimitri Szerman",
+          "Juliano Assunção",
+          "Molly Lipscomb",
+          "Ahmed Mushfiq Mobarak"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "6",
+        "pages": "1615–1656",
+        "doi": "10.1086/742115",
+        "url": "https://doi.org/10.1086/742115",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "title": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "authors": [
+          "Rafael Araujo",
+          "Francisco Costa",
+          "Marcelo Sant’Anna"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "72–105",
+        "doi": "10.1093/restud/rdaf031",
+        "url": "https://doi.org/10.1093/restud/rdaf031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "title": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "authors": [
+          "Igor Carreira",
+          "Francisco Costa",
+          "João Paulo Pessoa"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "167",
+        "issue": "",
+        "pages": "103217",
+        "doi": "10.1016/j.jdeveco.2023.103217",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
         "verified": true,
         "note": ""
       }
@@ -28571,6 +29094,103 @@
         "pages": "464–502",
         "doi": "10.1093/restud/rdw023",
         "url": "https://doi.org/10.1093/restud/rdw023",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.5.4",
+    "title": "巴西农村环境登记系统（CAR / SICAR）",
+    "links": [
+      {
+        "label": "SICAR",
+        "url": "https://www.car.gov.br/"
+      }
+    ],
+    "summary": "巴西《森林法》要求全部农村地产登记的电子地块边界数据库，记录地产范围、法定保留地、永久保护区和原生植被。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "农村环境登记（Cadastro Ambiental Rural，CAR）根据 2012 年巴西新《森林法》建立，要求所有农村地产业主在国家农村环境登记系统（SICAR）中申报地产边界，并标注法定保留地（Reserva Legal）、永久保护区（APP）、原生植被和已开垦区域。登记为自我申报，已有数百万宗登记，可在 SICAR 网站按州或市镇下载地块矢量数据。\n\n数据常用于研究巴西土地产权和毁林，例如把 CAR 地块与毁林监测、土地确权登记叠加，研究产权确认对毁林的影响。由于是自我申报，存在地块重叠、与公共土地或原住民土地冲突等问题。",
+    "source": "SICAR 网站免费下载。",
+    "references": [
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Individual pay for collective performance: Evidence from deforestation in Brazil",
+        "title": "Individual pay for collective performance: Evidence from deforestation in Brazil",
+        "authors": [
+          "Po Yin Wong",
+          "Karlygash Kuralbayeva",
+          "Liana O. Anderson",
+          "Ana C.M. Pessøa",
+          "Torfinn Harding"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "138",
+        "issue": "",
+        "pages": "103308",
+        "doi": "10.1016/j.jeem.2026.103308",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103308",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.5.5",
+    "title": "巴西国家殖民与土地改革研究所地籍数据（INCRA SIGEF / SNCR）",
+    "links": [
+      {
+        "label": "SIGEF",
+        "url": "https://sigef.incra.gov.br/"
+      }
+    ],
+    "summary": "巴西国家殖民与土地改革研究所管理的农村地产地籍，包括经认证的地块边界（SIGEF）、国家农村地籍系统（SNCR）和土地改革安置点。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "巴西国家殖民与土地改革研究所（INCRA）负责农村土地登记和土地改革，其土地管理系统（SIGEF）自 2013 年起接收经地理测量认证的农村地产边界，早期认证数据来自 SNCI；国家农村地籍系统（SNCR）发放农村地产登记证书（CCIR）；INCRA 还公布土地改革安置点等边界。地块矢量数据可通过 SIGEF 和 INCRA 地理数据平台免费下载。\n\n数据常用于研究巴西土地确权、土地改革与毁林的关系，例如利用亚马逊地区 Terra Legal 确权计划和 INCRA 登记，研究产权确认对毁林和地方政治的影响。不同系统之间地块存在重叠，需要清洗。",
+    "source": "SIGEF 网站免费下载。",
+    "references": [
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
         "verified": true,
         "note": ""
       }
@@ -28883,6 +29503,43 @@
         "url": "https://doi.org/10.1257/app.20200196",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon",
+        "title": "The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Clarissa Gandour",
+          "Romero Rocha",
+          "Rudi Rocha"
+        ],
+        "year": 2020,
+        "journal": "The Economic Journal",
+        "volume": "130",
+        "issue": "626",
+        "pages": "290–330",
+        "doi": "10.1093/ej/uez060",
+        "url": "https://doi.org/10.1093/ej/uez060",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "title": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "authors": [
+          "Torfinn Harding",
+          "Julika Herzberg",
+          "Karlygash Kuralbayeva"
+        ],
+        "year": 2021,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "108",
+        "issue": "",
+        "pages": "102452",
+        "doi": "10.1016/j.jeem.2021.102452",
+        "url": "https://doi.org/10.1016/j.jeem.2021.102452",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28921,6 +29578,60 @@
         "pages": "125–156",
         "doi": "10.1257/app.20200196",
         "url": "https://doi.org/10.1257/app.20200196",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon",
+        "title": "The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Clarissa Gandour",
+          "Romero Rocha",
+          "Rudi Rocha"
+        ],
+        "year": 2020,
+        "journal": "The Economic Journal",
+        "volume": "130",
+        "issue": "626",
+        "pages": "290–330",
+        "doi": "10.1093/ej/uez060",
+        "url": "https://doi.org/10.1093/ej/uez060",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "title": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "authors": [
+          "Torfinn Harding",
+          "Julika Herzberg",
+          "Karlygash Kuralbayeva"
+        ],
+        "year": 2021,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "108",
+        "issue": "",
+        "pages": "102452",
+        "doi": "10.1016/j.jeem.2021.102452",
+        "url": "https://doi.org/10.1016/j.jeem.2021.102452",
         "verified": true,
         "note": ""
       }
@@ -29449,6 +30160,159 @@
     ]
   },
   {
+    "id": "5.9.3",
+    "title": "巴西国家交通基础设施局（DNIT）公路网地理数据",
+    "links": [
+      {
+        "label": "DNIT",
+        "url": "https://www.gov.br/dnit/pt-br"
+      }
+    ],
+    "summary": "巴西国家交通基础设施局发布的联邦和州公路网矢量数据（国家公路系统 SNV），记录路段位置、路面类型和管理级别，并提供港口和水路信息。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "交通数据",
+      "地理数据"
+    ],
+    "introduction": "巴西国家交通基础设施局（DNIT）维护国家公路系统（Sistema Nacional de Viação，SNV）数据库，定期发布联邦公路和州公路的路段矢量数据，记录路段编号、路面类型（铺装、未铺装、施工中）和管理主体，并通过 DNIT-Geo 平台提供港口、内河航道和铁路等交通基础设施图层。数据可免费下载。\n\n数据常用于计算巴西农业产区到出口港的运输成本，例如研究运输基础设施改善对大豆和玉米种植扩张、土地利用和毁林的影响。历史路网版本的数字化质量不一。",
+    "source": "DNIT 网站免费下载。",
+    "references": [
+      {
+        "raw": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "title": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "authors": [
+          "Rafael Araujo",
+          "Francisco Costa",
+          "Marcelo Sant’Anna"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "72–105",
+        "doi": "10.1093/restud/rdaf031",
+        "url": "https://doi.org/10.1093/restud/rdaf031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.10.1",
+    "title": "巴西最高选举法院开放数据（TSE Dados Abertos）",
+    "links": [
+      {
+        "label": "TSE Dados Abertos",
+        "url": "https://dadosabertos.tse.jus.br/"
+      }
+    ],
+    "summary": "巴西最高选举法院发布的各级选举候选人登记、投票结果、竞选财务和选民数据，覆盖 1990 年代以来的全国、州和市镇选举。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "巴西最高选举法院（Tribunal Superior Eleitoral，TSE）开放数据门户提供全国、州和市镇各级选举的数据，包括候选人登记信息（党派、性别、年龄、教育、职业、个人资产申报）、按投票区和市镇的投票结果、竞选收入和支出（含捐款人身份）以及选民登记统计，可免费下载。\n\n数据常用于巴西地方政治研究，例如研究市长选举结果、竞选捐款与毁林和环境执法的关系。竞选财务数据在 2015 年禁止企业捐款后结构发生变化。",
+    "source": "TSE 开放数据门户免费下载。",
+    "references": [
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.12.1",
+    "title": "巴西中央银行农村信贷数据（SICOR / 农村信贷矩阵）",
+    "links": [
+      {
+        "label": "BCB 农村信贷数据",
+        "url": "https://www.bcb.gov.br/estabilidadefinanceira/micrrural"
+      }
+    ],
+    "summary": "巴西中央银行基于农村信贷业务登记系统发布的农村信贷合同数据，按市镇、产品、用途、信贷项目和资金来源汇总。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "金融数据",
+      "农业数据"
+    ],
+    "introduction": "巴西中央银行（Banco Central do Brasil）通过农村和农工信贷业务登记系统（SICOR）收集金融机构发放的农村信贷合同，并公开农村信贷数据矩阵（Matriz de Dados do Crédito Rural），按市镇、年份、借款人类型、作物或畜牧产品、用途（生产、投资、销售）、信贷项目（如 Pronaf）和资金来源统计合同数量和金额。汇总数据可在央行网站免费下载，合同级微观数据需申请。\n\n数据常用于研究信贷约束和环境政策，例如利用 2008 年把信贷发放与环境合规挂钩的央行决议，研究其对亚马逊市镇毁林的影响。2013 年前后数据系统更替，口径有所调整。",
+    "source": "巴西中央银行网站免费下载汇总数据。",
+    "references": [
+      {
+        "raw": "The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon",
+        "title": "The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Clarissa Gandour",
+          "Romero Rocha",
+          "Rudi Rocha"
+        ],
+        "year": 2020,
+        "journal": "The Economic Journal",
+        "volume": "130",
+        "issue": "626",
+        "pages": "290–330",
+        "doi": "10.1093/ej/uez060",
+        "url": "https://doi.org/10.1093/ej/uez060",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "title": "Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon",
+        "authors": [
+          "Erik Katovich",
+          "Fanny Moffette"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2562–2588",
+        "doi": "10.1093/ej/ueaf123",
+        "url": "https://doi.org/10.1093/ej/ueaf123",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "5.14.1",
     "title": "巴西市镇农业生产调查（PAM）",
     "links": [
@@ -29501,6 +30365,60 @@
         "url": "https://doi.org/10.1257/app.20200196",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon",
+        "title": "The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon",
+        "authors": [
+          "Juliano Assunção",
+          "Clarissa Gandour",
+          "Romero Rocha",
+          "Rudi Rocha"
+        ],
+        "year": 2020,
+        "journal": "The Economic Journal",
+        "volume": "130",
+        "issue": "626",
+        "pages": "290–330",
+        "doi": "10.1093/ej/uez060",
+        "url": "https://doi.org/10.1093/ej/uez060",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "title": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "authors": [
+          "Torfinn Harding",
+          "Julika Herzberg",
+          "Karlygash Kuralbayeva"
+        ],
+        "year": 2021,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "108",
+        "issue": "",
+        "pages": "102452",
+        "doi": "10.1016/j.jeem.2021.102452",
+        "url": "https://doi.org/10.1016/j.jeem.2021.102452",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29537,6 +30455,45 @@
         "pages": "103472",
         "doi": "10.1016/j.jdeveco.2025.103472",
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103472",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.14.3",
+    "title": "巴西 CEPEA/ESALQ 农产品价格指数",
+    "links": [
+      {
+        "label": "CEPEA",
+        "url": "https://www.cepea.org.br/en"
+      }
+    ],
+    "summary": "圣保罗大学农学院应用经济高级研究中心发布的巴西大豆、玉米、牛肉、咖啡、糖和乙醇等农产品日度现货价格指数。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "农业数据"
+    ],
+    "introduction": "应用经济高级研究中心（CEPEA）隶属圣保罗大学 Luiz de Queiroz 农学院（ESALQ），采集巴西主要产区和港口的农产品成交价格，编制大豆、玉米、小麦、活牛、牛奶、咖啡、糖、乙醇、棉花等日度和月度价格指数，部分指数被巴西期货交易所用作结算参考。网站可免费查询和下载历史序列；ESALQ-LOG 小组另发布农产品国内运费数据。\n\n数据常用于度量巴西农户面对的农产品价格，例如研究运输成本和农产品价格对巴西农业扩张和土地利用的影响。各指数的采价地点和起始年份不同。",
+    "source": "CEPEA 网站免费下载（链接经搜索确认，网站对自动访问返回验证页）。",
+    "references": [
+      {
+        "raw": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "title": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "authors": [
+          "Rafael Araujo",
+          "Francisco Costa",
+          "Marcelo Sant’Anna"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "72–105",
+        "doi": "10.1093/restud/rdaf031",
+        "url": "https://doi.org/10.1093/restud/rdaf031",
         "verified": true,
         "note": ""
       }
@@ -30176,6 +31133,51 @@
         "pages": "476–491",
         "doi": "10.1162/rest_a_00904",
         "url": "https://doi.org/10.1162/rest_a_00904",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.6.7",
+    "title": "多伦多市开放数据：城市树冠与行道树登记",
+    "links": [
+      {
+        "label": "Toronto 森林与土地覆被",
+        "url": "https://open.toronto.ca/dataset/forest-and-land-cover/"
+      },
+      {
+        "label": "Toronto 行道树数据",
+        "url": "https://open.toronto.ca/dataset/street-tree-data/"
+      }
+    ],
+    "summary": "多伦多市开放数据门户发布的城市森林数据，包括基于遥感的树冠覆盖和土地覆被分类图，以及全市行道树逐株登记。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "多伦多市（City of Toronto）开放数据门户发布城市林业部门的城市树冠评估（Urban Tree Canopy Assessment）成果，基于高分辨率航空影像把全市划分为树冠、草地、建筑、道路等土地覆被类别（有 2007 年和 2018 年等版本），并发布行道树登记（Street Tree Data），逐株记录市政维护的街道树木的位置、树种和胸径。数据可免费下载。\n\n数据常用于城市绿化的经济效应研究，例如利用白蜡窄吉丁虫害导致的行道树死亡，研究树冠覆盖对住宅能源消费、房价和地表温度的影响。不同年份的树冠评估方法不同，跨期比较需谨慎。",
+    "source": "多伦多市开放数据门户免费下载。",
+    "references": [
+      {
+        "raw": "Cool cities: The value of urban trees",
+        "title": "Cool cities: The value of urban trees",
+        "authors": [
+          "Lu Han",
+          "Stephan Heblich",
+          "Christopher Timmins",
+          "Yanos Zylberberg"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review: Insights",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w32063",
         "verified": true,
         "note": ""
       }
@@ -33343,6 +34345,84 @@
     ]
   },
   {
+    "id": "7.4.29",
+    "title": "VIIRS 夜间灯光数据（EOG VNL）",
+    "links": [
+      {
+        "label": "EOG VIIRS Nighttime Light",
+        "url": "https://eogdata.mines.edu/products/vnl/"
+      }
+    ],
+    "summary": "Suomi NPP 卫星 VIIRS 日/夜波段夜间灯光的月度和年度合成产品，2012 年起，分辨率约 500 米，是 DMSP-OLS 的后续数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "地理数据"
+    ],
+    "introduction": "可见光红外成像辐射仪（VIIRS）搭载于 2011 年发射的 Suomi NPP 卫星，其日/夜波段（DNB）可探测夜间微弱灯光，且没有 DMSP 的饱和问题。科罗拉多矿业大学地球观测组（EOG，原 NOAA NGDC 团队）发布月度和年度 VIIRS 夜间灯光（VNL）合成产品，去除了火点、极光和背景噪声，分辨率 15 弧秒；NASA 另发布 Black Marble 日度产品（VNP46）。EOG 数据免费下载，需注册。\n\n数据常用于在缺少地方 GDP 统计时度量经济活动，例如研究柬埔寨社区发展基金项目对森林覆盖和地方经济的影响。VIIRS 与 DMSP 在传感器和量纲上不可直接比较，拼接长序列需要校准。",
+    "source": "EOG 网站免费下载（需注册）。",
+    "references": [
+      {
+        "raw": "Linking Local Infrastructure Development and Deforestation: Evidence from Satellite and Administrative Data",
+        "title": "Linking Local Infrastructure Development and Deforestation: Evidence from Satellite and Administrative Data",
+        "authors": [
+          "Christian Baehr",
+          "Ariel BenYishay",
+          "Bradley Parks"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "2",
+        "pages": "375–409",
+        "doi": "10.1086/712800",
+        "url": "https://doi.org/10.1086/712800",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.30",
+    "title": "格罗宁根增长与发展中心经济转型数据库（GGDC ETD）",
+    "links": [
+      {
+        "label": "GGDC ETD",
+        "url": "https://www.rug.nl/ggdc/structuralchange/etd/"
+      }
+    ],
+    "summary": "格罗宁根大学增长与发展中心发布的亚非拉和转型经济体 1990 年以来按 12 个部门划分的增加值和就业数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "经济转型数据库（Economic Transformation Database，ETD）由荷兰格罗宁根大学增长与发展中心（GGDC）与联合国大学 WIDER 研究所合作编制，2021 年发布，是 GGDC 10 部门数据库的后续，覆盖亚洲、非洲、拉丁美洲和中东欧 51 个经济体 1990 年以来的年度数据，按 12 个部门给出名义和实际增加值以及就业人数，口径与国民账户一致，可免费下载。\n\n数据常用于结构转型研究，例如比较巴西农业劳动生产率和部门就业结构，研究农业技术和运输成本冲击下的部门间劳动力再配置。各国数据源质量差异较大。",
+    "source": "GGDC 网站免费下载。",
+    "references": [
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.5.1",
     "title": "全球土地变化 1982–2016（Song 等）",
     "links": [],
@@ -33433,6 +34513,25 @@
         "url": "https://doi.org/10.1016/j.jeem.2024.103069",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Cool cities: The value of urban trees",
+        "title": "Cool cities: The value of urban trees",
+        "authors": [
+          "Lu Han",
+          "Stephan Heblich",
+          "Christopher Timmins",
+          "Yanos Zylberberg"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review: Insights",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w32063",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33471,6 +34570,42 @@
         "pages": "2348–2389",
         "doi": "10.1093/restud/rdaf088",
         "url": "https://doi.org/10.1093/restud/rdaf088",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "title": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "authors": [
+          "Rafael Araujo",
+          "Francisco Costa",
+          "Marcelo Sant’Anna"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "72–105",
+        "doi": "10.1093/restud/rdaf031",
+        "url": "https://doi.org/10.1093/restud/rdaf031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "title": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "authors": [
+          "Torfinn Harding",
+          "Julika Herzberg",
+          "Karlygash Kuralbayeva"
+        ],
+        "year": 2021,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "108",
+        "issue": "",
+        "pages": "102452",
+        "doi": "10.1016/j.jeem.2021.102452",
+        "url": "https://doi.org/10.1016/j.jeem.2021.102452",
         "verified": true,
         "note": ""
       }
@@ -34304,6 +35439,25 @@
         "url": "https://doi.org/10.1257/pol.20240544",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Cool cities: The value of urban trees",
+        "title": "Cool cities: The value of urban trees",
+        "authors": [
+          "Lu Han",
+          "Stephan Heblich",
+          "Christopher Timmins",
+          "Yanos Zylberberg"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review: Insights",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w32063",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34343,6 +35497,86 @@
         "pages": "29–47",
         "doi": "10.1016/j.jeem.2017.07.008",
         "url": "https://doi.org/10.1016/j.jeem.2017.07.008",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.20",
+    "title": "ESA WorldCover 10 米全球土地覆盖",
+    "links": [
+      {
+        "label": "ESA WorldCover",
+        "url": "https://esa-worldcover.org/en"
+      }
+    ],
+    "summary": "欧洲空间局基于哨兵-1 和哨兵-2 卫星影像生成的 2020 年和 2021 年全球 10 米分辨率土地覆盖图，划分 11 类土地覆盖。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "ESA WorldCover 由欧洲空间局（ESA）资助、VITO 等机构生产，利用哨兵-1 雷达和哨兵-2 多光谱影像，生成 2020 年（v100）和 2021 年（v200）的全球 10 米分辨率土地覆盖图，划分为树木、灌木、草地、耕地、建成区、裸地、冰雪、永久水体、草本湿地、红树林和苔藓地衣 11 类，可通过 WorldCover 网站、Google Earth Engine 和 AWS 免费获取。\n\n数据常用于高分辨率的土地利用控制或城市绿地度量，例如在多伦多城市树冠研究中作为补充的土地覆盖数据。目前只有两个年份，两个版本的算法也不同，不宜用于变化分析。",
+    "source": "ESA WorldCover 网站免费下载。",
+    "references": [
+      {
+        "raw": "Cool cities: The value of urban trees",
+        "title": "Cool cities: The value of urban trees",
+        "authors": [
+          "Lu Han",
+          "Stephan Heblich",
+          "Christopher Timmins",
+          "Yanos Zylberberg"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review: Insights",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w32063",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.21",
+    "title": "OpenStreetMap 开放地图数据",
+    "links": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "summary": "全球志愿者协作编辑的开放地图数据库，包含道路网、建筑、土地利用、兴趣点等矢量要素，可免费下载全球或分地区数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据",
+      "交通数据"
+    ],
+    "introduction": "OpenStreetMap（OSM）创建于 2004 年，由全球志愿者、企业和政府贡献，以开放数据库许可（ODbL）发布，包含道路和铁路网络（含道路等级、限速等属性）、建筑轮廓、土地利用、水系、行政边界和兴趣点等矢量要素。全球数据可从 OSM 官网下载，Geofabrik 等镜像提供分国家和地区的提取版本，OSRM 等工具可基于 OSM 路网计算最短路径和出行时间。\n\n数据常用于计算出行距离和市场可达性，例如用 OSRM 在 OSM 路网上计算巴西农场到出口港的运输成本。数据完整性依赖志愿者贡献，发展中国家农村地区的道路覆盖可能不完整，历史版本需从完整历史文件中提取。",
+    "source": "OSM 官网免费下载（ODbL 许可）。",
+    "references": [
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
         "verified": true,
         "note": ""
       }
@@ -35212,6 +36446,25 @@
         "pages": "102557",
         "doi": "10.1016/j.jdeveco.2020.102557",
         "url": "https://doi.org/10.1016/j.jdeveco.2020.102557",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cool cities: The value of urban trees",
+        "title": "Cool cities: The value of urban trees",
+        "authors": [
+          "Lu Han",
+          "Stephan Heblich",
+          "Christopher Timmins",
+          "Yanos Zylberberg"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review: Insights",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w32063",
         "verified": true,
         "note": ""
       }
@@ -36113,6 +37366,25 @@
         "url": "https://doi.org/10.1016/j.jeem.2017.07.008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Electricity, Agricultural Productivity, and Deforestation: Evidence from Brazil",
+        "title": "Electricity, Agricultural Productivity, and Deforestation: Evidence from Brazil",
+        "authors": [
+          "Dimitri Szerman",
+          "Juliano Assunção",
+          "Molly Lipscomb",
+          "Ahmed Mushfiq Mobarak"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "6",
+        "pages": "1615–1656",
+        "doi": "10.1086/742115",
+        "url": "https://doi.org/10.1086/742115",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -36298,6 +37570,77 @@
         "pages": "2348–2389",
         "doi": "10.1093/restud/rdaf088",
         "url": "https://doi.org/10.1093/restud/rdaf088",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Free Trade Increase Deforestation? The Effects of Regional Trade Agreements",
+        "title": "Does Free Trade Increase Deforestation? The Effects of Regional Trade Agreements",
+        "authors": [
+          "Ryan Abman",
+          "Clark Lundberg"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "1",
+        "pages": "35–72",
+        "doi": "10.1086/705787",
+        "url": "https://doi.org/10.1086/705787",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Linking Local Infrastructure Development and Deforestation: Evidence from Satellite and Administrative Data",
+        "title": "Linking Local Infrastructure Development and Deforestation: Evidence from Satellite and Administrative Data",
+        "authors": [
+          "Christian Baehr",
+          "Ariel BenYishay",
+          "Bradley Parks"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "2",
+        "pages": "375–409",
+        "doi": "10.1086/712800",
+        "url": "https://doi.org/10.1086/712800",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "title": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "authors": [
+          "Torfinn Harding",
+          "Julika Herzberg",
+          "Karlygash Kuralbayeva"
+        ],
+        "year": 2021,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "108",
+        "issue": "",
+        "pages": "102452",
+        "doi": "10.1016/j.jeem.2021.102452",
+        "url": "https://doi.org/10.1016/j.jeem.2021.102452",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Only One Tree from Each Seed? Environmental Effectiveness and Poverty Alleviation in Mexico’s Payments for Ecosystem Services Program",
+        "title": "Only One Tree from Each Seed? Environmental Effectiveness and Poverty Alleviation in Mexico’s Payments for Ecosystem Services Program",
+        "authors": [
+          "Jennifer M. Alix-Garcia",
+          "Katharine R. E. Sims",
+          "Patricia Yañez-Pagans"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "7",
+        "issue": "4",
+        "pages": "1–40",
+        "doi": "10.1257/pol.20130139",
+        "url": "https://doi.org/10.1257/pol.20130139",
         "verified": true,
         "note": ""
       }
@@ -36990,6 +38333,25 @@
         "pages": "102440",
         "doi": "10.1016/j.jeem.2021.102440",
         "url": "https://doi.org/10.1016/j.jeem.2021.102440",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cool cities: The value of urban trees",
+        "title": "Cool cities: The value of urban trees",
+        "authors": [
+          "Lu Han",
+          "Stephan Heblich",
+          "Christopher Timmins",
+          "Yanos Zylberberg"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review: Insights",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w32063",
         "verified": true,
         "note": ""
       }
@@ -37704,6 +39066,25 @@
         "url": "https://doi.org/10.1257/mac.20230042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Cool cities: The value of urban trees",
+        "title": "Cool cities: The value of urban trees",
+        "authors": [
+          "Lu Han",
+          "Stephan Heblich",
+          "Christopher Timmins",
+          "Yanos Zylberberg"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review: Insights",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w32063",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38226,6 +39607,82 @@
         "pages": "1133–1164",
         "doi": "10.1086/733759",
         "url": "https://doi.org/10.1086/733759",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.55",
+    "title": "全球降水气候计划（GPCP）降水数据",
+    "links": [
+      {
+        "label": "NOAA PSL GPCP",
+        "url": "https://psl.noaa.gov/data/gridded/data.gpcp.html"
+      }
+    ],
+    "summary": "世界气候研究计划下融合卫星和雨量站观测的全球格网降水数据，提供 1979 年以来 2.5° 月度和 1° 日度产品。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "全球降水气候计划（Global Precipitation Climatology Project，GPCP）是世界气候研究计划（WCRP）的项目，由 NASA 戈达德空间飞行中心等机构生产，融合微波和红外卫星降水反演与全球降水气候中心（GPCC）的雨量站观测，提供 1979 年以来的 2.5° 月度降水、1996 年起的 1° 日度降水以及新版 0.5° 产品，可通过 NOAA 物理科学实验室和 NASA GES DISC 免费下载。\n\n数据常用于在站点稀疏的发展中国家构造降水冲击变量，例如用印尼县级降水均值和标准差作为森林砍伐与社会冲突研究的控制变量。分辨率较粗，不适合小区域分析。",
+    "source": "NOAA PSL 网站免费下载。",
+    "references": [
+      {
+        "raw": "Ecosystems and human health: The local benefits of forest cover in Indonesia",
+        "title": "Ecosystems and human health: The local benefits of forest cover in Indonesia",
+        "authors": [
+          "Teevrat Garg"
+        ],
+        "year": 2019,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "98",
+        "issue": "",
+        "pages": "102271",
+        "doi": "10.1016/j.jeem.2019.102271",
+        "url": "https://doi.org/10.1016/j.jeem.2019.102271",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.56",
+    "title": "NOAA AVHRR 归一化植被指数气候数据记录（NDVI CDR / LTDR）",
+    "links": [
+      {
+        "label": "NOAA NDVI CDR",
+        "url": "https://www.ncei.noaa.gov/products/climate-data-records/normalized-difference-vegetation-index"
+      }
+    ],
+    "summary": "基于 NOAA 极轨卫星 AVHRR 传感器的 1981 年以来全球日度 0.05° 归一化植被指数长期数据记录。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "AVHRR 归一化植被指数气候数据记录（NDVI CDR）由 NASA 长期数据记录（LTDR）项目和马里兰大学生产，NOAA 国家环境信息中心发布，利用 NOAA 系列极轨卫星的先进甚高分辨率辐射仪（AVHRR）数据，经辐射定标和大气校正，生成 1981 年至今的全球日度 0.05° NDVI 产品，近年衔接 VIIRS 传感器。数据可在 NCEI 免费下载。\n\n数据常用于度量长期植被和森林变化，例如研究柬埔寨社区发展基金项目对植被覆盖的影响。分辨率约 5 公里，传感器更替和卫星轨道漂移会带来序列不连续。",
+    "source": "NOAA NCEI 网站免费下载。",
+    "references": [
+      {
+        "raw": "Linking Local Infrastructure Development and Deforestation: Evidence from Satellite and Administrative Data",
+        "title": "Linking Local Infrastructure Development and Deforestation: Evidence from Satellite and Administrative Data",
+        "authors": [
+          "Christian Baehr",
+          "Ariel BenYishay",
+          "Bradley Parks"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "2",
+        "pages": "375–409",
+        "doi": "10.1086/712800",
+        "url": "https://doi.org/10.1086/712800",
         "verified": true,
         "note": ""
       }
@@ -40325,6 +41782,77 @@
         "url": "https://doi.org/10.1093/ej/ueaa127",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "title": "Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model",
+        "authors": [
+          "Rafael Araujo",
+          "Francisco Costa",
+          "Marcelo Sant’Anna"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "72–105",
+        "doi": "10.1093/restud/rdaf031",
+        "url": "https://doi.org/10.1093/restud/rdaf031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "title": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "authors": [
+          "Torfinn Harding",
+          "Julika Herzberg",
+          "Karlygash Kuralbayeva"
+        ],
+        "year": 2021,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "108",
+        "issue": "",
+        "pages": "102452",
+        "doi": "10.1016/j.jeem.2021.102452",
+        "url": "https://doi.org/10.1016/j.jeem.2021.102452",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "title": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "authors": [
+          "Igor Carreira",
+          "Francisco Costa",
+          "João Paulo Pessoa"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "167",
+        "issue": "",
+        "pages": "103217",
+        "doi": "10.1016/j.jdeveco.2023.103217",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40512,6 +42040,40 @@
         "pages": "2658–2694",
         "doi": "10.1093/jeea/jvab009",
         "url": "https://doi.org/10.1093/jeea/jvab009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Free Trade Increase Deforestation? The Effects of Regional Trade Agreements",
+        "title": "Does Free Trade Increase Deforestation? The Effects of Regional Trade Agreements",
+        "authors": [
+          "Ryan Abman",
+          "Clark Lundberg"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "1",
+        "pages": "35–72",
+        "doi": "10.1086/705787",
+        "url": "https://doi.org/10.1086/705787",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
         "verified": true,
         "note": ""
       }
@@ -41152,6 +42714,63 @@
         "url": "https://doi.org/10.1257/pol.20150388",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "title": "Commodity prices and robust environmental regulation: Evidence from deforestation in Brazil",
+        "authors": [
+          "Torfinn Harding",
+          "Julika Herzberg",
+          "Karlygash Kuralbayeva"
+        ],
+        "year": 2021,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "108",
+        "issue": "",
+        "pages": "102452",
+        "doi": "10.1016/j.jeem.2021.102452",
+        "url": "https://doi.org/10.1016/j.jeem.2021.102452",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.14.20",
+    "title": "Trase 农产品供应链透明度数据",
+    "links": [
+      {
+        "label": "Trase",
+        "url": "https://trase.earth/"
+      }
+    ],
+    "summary": "斯德哥尔摩环境研究所和 Global Canopy 建立的平台，把大豆、牛肉、棕榈油等毁林风险农产品的出口流向追溯到产地、贸易商和进口国。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "农业数据",
+      "贸易数据"
+    ],
+    "introduction": "Trase（Transparency for Sustainable Economies）由斯德哥尔摩环境研究所（SEI）和 Global Canopy 建立，结合海关出口记录、税务登记、物流和生产统计数据，把巴西、阿根廷、巴拉圭、印尼等国的大豆、牛肉、棕榈油、咖啡、可可等农产品出口追溯到产地市镇、出口贸易商和进口国家，并估算相应的毁林和温室气体排放风险。数据可在 Trase 网站免费浏览和下载，需遵守使用条款。\n\n数据常用于研究国际贸易与毁林的关系，例如追踪巴西大豆从产地到出口港和进口国的流向，研究运输成本和需求冲击对农业扩张的影响。追溯基于模型匹配，部分流向存在不确定性。",
+    "source": "Trase 网站免费下载。",
+    "references": [
+      {
+        "raw": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "title": "Agricultural Trade and Deforestation: The Role of New Roads",
+        "authors": [
+          "Douglas Gollin",
+          "Julien Wolfersberger"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "ueaf125",
+        "doi": "10.1093/ej/ueaf125",
+        "url": "https://doi.org/10.1093/ej/ueaf125",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41611,6 +43230,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105444",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "title": "The deforestation effects of trade and agricultural productivity in Brazil",
+        "authors": [
+          "Igor Carreira",
+          "Francisco Costa",
+          "João Paulo Pessoa"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "167",
+        "issue": "",
+        "pages": "103217",
+        "doi": "10.1016/j.jdeveco.2023.103217",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103217",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41893,6 +43530,44 @@
         "pages": "19–32",
         "doi": "10.1016/j.jdeveco.2014.10.001",
         "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.11",
+    "title": "WTO 区域贸易协定信息系统（RTA-IS）",
+    "links": [
+      {
+        "label": "WTO RTA-IS",
+        "url": "https://rtais.wto.org/"
+      }
+    ],
+    "summary": "世界贸易组织通报的全部区域贸易协定数据库，记录协定成员、类型、覆盖范围以及签署、生效日期。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "区域贸易协定信息系统（Regional Trade Agreements Information System，RTA-IS）由世界贸易组织（WTO）秘书处维护，收录向 WTO 通报的区域和双边贸易协定，记录协定名称、成员国、类型（自由贸易协定、关税同盟、经济一体化协定）、商品和服务覆盖范围、签署日期、生效日期和通报文件，可在网站免费查询和导出。\n\n数据常用于构建国家对之间的贸易协定变量，例如用事件研究方法分析区域贸易协定生效对成员国森林损失的影响。数据库只包括已向 WTO 通报的协定，协定中的环境条款需结合其他数据库补充。",
+    "source": "WTO RTA-IS 网站免费查询。",
+    "references": [
+      {
+        "raw": "Does Free Trade Increase Deforestation? The Effects of Regional Trade Agreements",
+        "title": "Does Free Trade Increase Deforestation? The Effects of Regional Trade Agreements",
+        "authors": [
+          "Ryan Abman",
+          "Clark Lundberg"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "1",
+        "pages": "35–72",
+        "doi": "10.1086/705787",
+        "url": "https://doi.org/10.1086/705787",
         "verified": true,
         "note": ""
       }
