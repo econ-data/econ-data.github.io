@@ -129,6 +129,43 @@
         "url": "https://doi.org/10.1016/j.jeem.2016.04.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of air pollution on migration: Evidence from China",
+        "title": "The effect of air pollution on migration: Evidence from China",
+        "authors": [
+          "Shuai Chen",
+          "Paulina Oliva",
+          "Peng Zhang"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "156",
+        "issue": "",
+        "pages": "102833",
+        "doi": "10.1016/j.jdeveco.2022.102833",
+        "url": "https://doi.org/10.1016/j.jdeveco.2022.102833",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -169,6 +206,24 @@
         "pages": "408–447",
         "doi": "10.1257/aer.20211455",
         "url": "https://doi.org/10.1257/aer.20211455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "title": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "authors": [
+          "Shihe Fu",
+          "V. Brian Viard",
+          "Peng Zhang"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "640",
+        "pages": "3241–3273",
+        "doi": "10.1093/ej/ueab033",
+        "url": "https://doi.org/10.1093/ej/ueab033",
         "verified": true,
         "note": ""
       }
@@ -459,6 +514,25 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2019.102417",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Aging in Haze",
+        "title": "Aging in Haze",
+        "authors": [
+          "Runhao Zhao",
+          "Ye Yuan",
+          "Chong Liu",
+          "Junjian Yi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103717",
+        "doi": "10.1016/j.jdeveco.2025.103717",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103717",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -675,7 +749,27 @@
     ],
     "introduction": "中国劳动力动态调查（China Labor-force Dynamics Survey，CLDS）由中山大学社会科学调查中心组织，2012 年启动，此后大致每两年追踪一轮，是以劳动力为对象的全国性追踪调查。\n\n调查采用多阶段抽样，在村居、家庭和劳动力个体三个层次收集数据，内容包括教育、工作、迁移流动、职业发展、社会保障、健康和家庭，以及村居的经济和社区特征。研究中可用于就业与劳动流动、工资、职业变动和城乡差异。\n\n各轮样本有部分更替，追踪有流失，问卷内容也随轮次更新，使用时应结合项目文档核对样本、变量和权重。",
     "source": "应向 CLDS 项目或其授权数据平台确认已开放版本和申请要求。本目录暂未核实全部轮次的现行访问条件，不将第三方分享文件作为正式获取途径。",
-    "references": []
+    "references": [
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.2.11",
@@ -940,6 +1034,43 @@
         "url": "https://doi.org/10.1016/j.jeem.2026.103378",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "title": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "authors": [
+          "Shihe Fu",
+          "V. Brian Viard",
+          "Peng Zhang"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "640",
+        "pages": "3241–3273",
+        "doi": "10.1093/ej/ueab033",
+        "url": "https://doi.org/10.1093/ej/ueab033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How air pollution makes firms less innovative: Human capital and adaptive strategies",
+        "title": "How air pollution makes firms less innovative: Human capital and adaptive strategies",
+        "authors": [
+          "Tiago Cavalcanti",
+          "Kamiar Mohaddes",
+          "Hongyu Nian",
+          "Haitao Yin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "137",
+        "issue": "",
+        "pages": "103279",
+        "doi": "10.1016/j.jeem.2025.103279",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103279",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1113,7 +1244,26 @@
     ],
     "introduction": "专利数据记录专利申请、公开、授权、申请人（发明人）、国际专利分类（IPC）、摘要权利要求和引文等信息，是衡量创新活动的常用指标。中国的专利官方数据由国家知识产权局（CNIPA）管理，类型包括发明、实用新型和外观设计，其中发明专利要经过实质审查，实用新型和外观设计不需要，质量差异较大。\n\n官方网站提供专利检索入口并发布年度统计。其他常用来源包括世界知识产权组织（WIPO）、欧洲专利局（EPO）及美国专利商标局（USPTO）的数据，可用于跨国研究。研究中常用于测量企业或地区的创新产出、知识扩散和技术结构。\n\n使用时应区分申请量与授权量、申请日与授权日，注意专利权人名称的标准化与匹配、专利类型间的质量差异，以及不同司法辖区的法律状态口径。",
     "source": "优先使用国家知识产权局、其他官方专利机构或具有明确授权的数据服务。公开检索、批量数据和商业加工产品可能采用不同条款，应分别核对下载、自动访问及再分发权限。",
-    "references": []
+    "references": [
+      {
+        "raw": "The impact of air quality on innovation activities in China",
+        "title": "The impact of air quality on innovation activities in China",
+        "authors": [
+          "Jingbo Cui",
+          "Shaoqing Huang",
+          "Chunhua Wang"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "122",
+        "issue": "",
+        "pages": "102893",
+        "doi": "10.1016/j.jeem.2023.102893",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102893",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.3.5",
@@ -1215,6 +1365,41 @@
     ]
   },
   {
+    "id": "1.3.7",
+    "title": "工业企业科技活动统计调查",
+    "links": [],
+    "summary": "国家统计局与科技部门开展的规模以上工业企业研发与创新活动年度调查，记录研发投入、研发人员和新产品等指标。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "工业企业科技活动统计调查由国家统计局会同科技部门组织，对规模以上工业企业（早期为大中型工业企业）逐年调查研发活动和创新产出，指标包括研发经费内部支出及构成、研发人员和研发全时当量、科技机构设置、新产品开发项目与新产品销售收入、专利申请与拥有量以及技术引进和改造支出。汇总结果发表在《中国科技统计年鉴》和《工业企业科技活动统计年鉴》中，企业层面微观数据不对外公开。\n\n数据常用于研究企业创新的决定因素，例如把研发人员和研发投入与城市空气污染匹配，检验污染是否通过人力资本流失降低企业创新。微观数据只能通过与统计部门的合作协议获取，调查范围和口径在 2011 年前后有调整。",
+    "source": "汇总数据见年鉴；企业层面微观数据受限，需与统计部门合作获取。",
+    "references": [
+      {
+        "raw": "How air pollution makes firms less innovative: Human capital and adaptive strategies",
+        "title": "How air pollution makes firms less innovative: Human capital and adaptive strategies",
+        "authors": [
+          "Tiago Cavalcanti",
+          "Kamiar Mohaddes",
+          "Hongyu Nian",
+          "Haitao Yin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "137",
+        "issue": "",
+        "pages": "103279",
+        "doi": "10.1016/j.jeem.2025.103279",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103279",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "1.4.1",
     "title": "中国城市统计年鉴",
     "links": [],
@@ -1295,6 +1480,62 @@
         "url": "https://doi.org/10.1016/j.jeem.2016.04.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Aging in Haze",
+        "title": "Aging in Haze",
+        "authors": [
+          "Runhao Zhao",
+          "Ye Yuan",
+          "Chong Liu",
+          "Junjian Yi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103717",
+        "doi": "10.1016/j.jdeveco.2025.103717",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103717",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of air quality on innovation activities in China",
+        "title": "The impact of air quality on innovation activities in China",
+        "authors": [
+          "Jingbo Cui",
+          "Shaoqing Huang",
+          "Chunhua Wang"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "122",
+        "issue": "",
+        "pages": "102893",
+        "doi": "10.1016/j.jeem.2023.102893",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102893",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1368,6 +1609,65 @@
         "pages": "103378",
         "doi": "10.1016/j.jeem.2026.103378",
         "url": "https://doi.org/10.1016/j.jeem.2026.103378",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.4.4",
+    "title": "中国统计年鉴与中国区域经济统计年鉴",
+    "links": [
+      {
+        "label": "国家统计局统计年鉴",
+        "url": "https://www.stats.gov.cn/sj/ndsj/"
+      }
+    ],
+    "summary": "国家统计局编制的综合统计年鉴和地区统计年鉴，提供全国和分省经济、人口、教育、卫生等年度指标。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "《中国统计年鉴》由国家统计局每年编辑出版，收录上一年全国和分省的国民经济核算、人口与就业、价格、财政、对外贸易、能源、工业、农业、教育、卫生（如医院诊疗人次）等指标，1981 年起逐年出版，电子版可在国家统计局网站查阅。《中国区域经济统计年鉴》（2000–2014 年出版）汇编省、地级市和县的主要经济社会指标，例如城市高校在校生和毕业生数。\n\n数据常用于构建省级和城市级的控制变量或结果变量，例如用分省医院诊疗人次验证银行卡医疗支出数据，或用城市高校毕业生数构造人口流动的工具变量。年鉴数据会在后续年份修订，跨年使用需注意口径变化。",
+    "source": "国家统计局网站提供年鉴电子版；区域经济统计年鉴为出版物。",
+    "references": [
+      {
+        "raw": "The Health Care Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+        "title": "The Health Care Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+        "authors": [
+          "Panle Jia Barwick",
+          "Shanjun Li",
+          "Deyu Rao",
+          "Nahim Bin Zahur"
+        ],
+        "year": 2026,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "108",
+        "issue": "1",
+        "pages": "110–128",
+        "doi": "10.1162/rest_a_01430",
+        "url": "https://doi.org/10.1162/rest_a_01430",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
         "verified": true,
         "note": ""
       }
@@ -1507,6 +1807,61 @@
         "url": "https://doi.org/10.1016/j.jeem.2016.04.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Health Care Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+        "title": "The Health Care Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+        "authors": [
+          "Panle Jia Barwick",
+          "Shanjun Li",
+          "Deyu Rao",
+          "Nahim Bin Zahur"
+        ],
+        "year": 2026,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "108",
+        "issue": "1",
+        "pages": "110–128",
+        "doi": "10.1162/rest_a_01430",
+        "url": "https://doi.org/10.1162/rest_a_01430",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Severe Air Pollution and Labor Productivity: Evidence from Industrial Towns in China",
+        "title": "Severe Air Pollution and Labor Productivity: Evidence from Industrial Towns in China",
+        "authors": [
+          "Jiaxiu He",
+          "Haoming Liu",
+          "Alberto Salvo"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "173–201",
+        "doi": "10.1257/app.20170286",
+        "url": "https://doi.org/10.1257/app.20170286",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of air pollution on migration: Evidence from China",
+        "title": "The effect of air pollution on migration: Evidence from China",
+        "authors": [
+          "Shuai Chen",
+          "Paulina Oliva",
+          "Peng Zhang"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "156",
+        "issue": "",
+        "pages": "102833",
+        "doi": "10.1016/j.jdeveco.2022.102833",
+        "url": "https://doi.org/10.1016/j.jdeveco.2022.102833",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1607,6 +1962,98 @@
         "url": "https://doi.org/10.1016/j.jeem.2016.11.007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Aging in Haze",
+        "title": "Aging in Haze",
+        "authors": [
+          "Runhao Zhao",
+          "Ye Yuan",
+          "Chong Liu",
+          "Junjian Yi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103717",
+        "doi": "10.1016/j.jdeveco.2025.103717",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103717",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "title": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "authors": [
+          "Shihe Fu",
+          "V. Brian Viard",
+          "Peng Zhang"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "640",
+        "pages": "3241–3273",
+        "doi": "10.1093/ej/ueab033",
+        "url": "https://doi.org/10.1093/ej/ueab033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of air quality on innovation activities in China",
+        "title": "The impact of air quality on innovation activities in China",
+        "authors": [
+          "Jingbo Cui",
+          "Shaoqing Huang",
+          "Chunhua Wang"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "122",
+        "issue": "",
+        "pages": "102893",
+        "doi": "10.1016/j.jeem.2023.102893",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102893",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of air pollution on migration: Evidence from China",
+        "title": "The effect of air pollution on migration: Evidence from China",
+        "authors": [
+          "Shuai Chen",
+          "Paulina Oliva",
+          "Peng Zhang"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "156",
+        "issue": "",
+        "pages": "102833",
+        "doi": "10.1016/j.jdeveco.2022.102833",
+        "url": "https://doi.org/10.1016/j.jdeveco.2022.102833",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1643,6 +2090,41 @@
         "pages": "815–850",
         "doi": "10.1257/aer.20221215",
         "url": "https://doi.org/10.1257/aer.20221215",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.7.1",
+    "title": "中国能源统计年鉴与中国电力年鉴",
+    "links": [],
+    "summary": "国家统计局编制的能源生产、消费和平衡表年鉴，以及中国电力企业联合会编制的电力行业年鉴，含大型电厂信息。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "《中国能源统计年鉴》由国家统计局能源统计司编制，按年出版，提供全国和分省的能源生产、消费、能源平衡表、分行业能源消费量和能源强度等数据。《中国电力年鉴》由中国电力企业联合会等单位编辑，收录电力生产、电网建设、装机容量、发电量和主要电厂（含大型燃煤电厂）的名录与运行信息。\n\n数据常用于研究能源结构和电力生产的环境影响，例如利用大型燃煤电厂的位置和装机构造空气污染的工具变量，研究污染引起的人口迁移对生产率的影响。电厂名录多为纸质出版物，需要手工整理和地理编码。",
+    "source": "出版物，可通过图书馆或中国知网统计年鉴数据库获取。",
+    "references": [
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
         "verified": true,
         "note": ""
       }
@@ -1992,6 +2474,65 @@
         "url": "https://doi.org/10.1257/aer.20220212",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.11.2",
+    "title": "中国土地市场网土地出让数据",
+    "links": [
+      {
+        "label": "中国土地市场网",
+        "url": "https://www.landchina.com/"
+      }
+    ],
+    "summary": "自然资源部中国土地市场网公示的国有建设用地出让、划拨结果，记录每宗地的位置、用途、面积、价格和受让人。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "中国土地市场网由自然资源部（原国土资源部）主办，自 2007 年前后起集中公示各地国有建设用地使用权的供应结果，包括出让和划拨，记录每宗地的行政区、坐落、土地用途（工业、商业、住宅等）、面积、供地方式（招拍挂、协议）、成交价格、合同签订日期和受让单位。研究者通常抓取网页公示信息整理成宗地数据库。\n\n数据常用于研究地方政府土地财政和企业选址，例如用企业获得工业用地的记录识别企业的厂址迁移，检验企业应对空气污染的适应策略。网站公示信息有缺漏，早期年份覆盖不完整，需要清洗重复记录。",
+    "source": "网站公开查询，批量数据需自行整理或从第三方数据库获取。",
+    "references": [
+      {
+        "raw": "How air pollution makes firms less innovative: Human capital and adaptive strategies",
+        "title": "How air pollution makes firms less innovative: Human capital and adaptive strategies",
+        "authors": [
+          "Tiago Cavalcanti",
+          "Kamiar Mohaddes",
+          "Hongyu Nian",
+          "Haitao Yin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "137",
+        "issue": "",
+        "pages": "103279",
+        "doi": "10.1016/j.jeem.2025.103279",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103279",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2026,6 +2567,25 @@
         "pages": "1338–1381",
         "doi": "10.1257/aer.20200956",
         "url": "https://doi.org/10.1257/aer.20200956",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Health Care Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+        "title": "The Health Care Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+        "authors": [
+          "Panle Jia Barwick",
+          "Shanjun Li",
+          "Deyu Rao",
+          "Nahim Bin Zahur"
+        ],
+        "year": 2026,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "108",
+        "issue": "1",
+        "pages": "110–128",
+        "doi": "10.1162/rest_a_01430",
+        "url": "https://doi.org/10.1162/rest_a_01430",
         "verified": true,
         "note": ""
       }
@@ -2528,6 +3088,41 @@
         "pages": "1886–1927",
         "doi": "10.1093/jeea/jvz051",
         "url": "https://doi.org/10.1093/jeea/jvz051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+        "title": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+        "authors": [
+          "Kelly C. Bishop",
+          "Jonathan D. Ketcham",
+          "Nicolai V. Kuminoff"
+        ],
+        "year": 2023,
+        "journal": "The Review of Economic Studies",
+        "volume": "90",
+        "issue": "5",
+        "pages": "2188–2214",
+        "doi": "10.1093/restud/rdac078",
+        "url": "https://doi.org/10.1093/restud/rdac078",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+        "title": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+        "authors": [
+          "H. Spencer Banzhaf",
+          "Randall P. Walsh"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "843–863",
+        "doi": "10.1257/aer.98.3.843",
+        "url": "https://doi.org/10.1257/aer.98.3.843",
         "verified": true,
         "note": ""
       }
@@ -3147,6 +3742,62 @@
         "url": "https://doi.org/10.1093/qje/qjaf023",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "title": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "authors": [
+          "Tatyana Deryugina",
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor",
+          "Julian Reif"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "12",
+        "pages": "4178–4219",
+        "doi": "10.1257/aer.20180279",
+        "url": "https://doi.org/10.1257/aer.20180279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "title": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "authors": [
+          "Adam Isen",
+          "Maya Rossin-Slater",
+          "W. Reed Walker"
+        ],
+        "year": 2017,
+        "journal": "Journal of Political Economy",
+        "volume": "125",
+        "issue": "3",
+        "pages": "848–902",
+        "doi": "10.1086/691465",
+        "url": "https://doi.org/10.1086/691465",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "authors": [
+          "Mark Borgschulte",
+          "David Molitor",
+          "Eric Yongchen Zou"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1558–1575",
+        "doi": "10.1162/rest_a_01243",
+        "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3298,6 +3949,24 @@
         "pages": "2269–2328",
         "doi": "10.1093/qje/qjaf023",
         "url": "https://doi.org/10.1093/qje/qjaf023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "title": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "authors": [
+          "Adam Isen",
+          "Maya Rossin-Slater",
+          "W. Reed Walker"
+        ],
+        "year": 2017,
+        "journal": "Journal of Political Economy",
+        "volume": "125",
+        "issue": "3",
+        "pages": "848–902",
+        "doi": "10.1086/691465",
+        "url": "https://doi.org/10.1086/691465",
         "verified": true,
         "note": ""
       }
@@ -4698,6 +5367,67 @@
     ]
   },
   {
+    "id": "2.3.12",
+    "title": "纵向雇主-雇员动态数据（LEHD）",
+    "links": [
+      {
+        "label": "Census 受限微观数据",
+        "url": "https://www.census.gov/programs-surveys/ces/data/restricted-use-data.html"
+      },
+      {
+        "label": "LEHD 公开数据",
+        "url": "https://lehd.ces.census.gov/"
+      }
+    ],
+    "summary": "美国人口普查局基于各州失业保险工资记录构建的雇主-雇员匹配数据，覆盖 1990 年代起的绝大多数私营就业，个体层面数据受限。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "纵向雇主-家户动态数据（Longitudinal Employer-Household Dynamics，LEHD）由美国人口普查局与各州劳动部门合作建立，核心是各州失业保险系统的季度工资记录，把每个工人与雇主（州失业保险账号）逐季匹配，并链接人口普查局的人口特征（出生年份、性别、种族、教育估计）和企业特征，覆盖年份因州而异，最早从 1990 年开始。受限微观数据须通过联邦统计研究数据中心（FSRDC，见 2.2.21）申请使用；公开产品包括季度劳动力指标（QWI）、LEHD 起止地就业统计（LODES）和就业到收入流向（J2J）。\n\n数据常用于研究长期收入和劳动力市场动态，例如把出生县和出生年份与工人成年后的收入匹配，研究 1970 年《清洁空气法》降低婴儿期空气污染对成年收入的长期影响。参与州和年份不一，个体数据的使用需经过人口普查局审批和披露审查。",
+    "source": "个体层面数据受限，需通过 FSRDC 申请；QWI、LODES 等汇总产品公开下载。",
+    "references": [
+      {
+        "raw": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "title": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "authors": [
+          "Adam Isen",
+          "Maya Rossin-Slater",
+          "W. Reed Walker"
+        ],
+        "year": 2017,
+        "journal": "Journal of Political Economy",
+        "volume": "125",
+        "issue": "3",
+        "pages": "848–902",
+        "doi": "10.1086/691465",
+        "url": "https://doi.org/10.1086/691465",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "authors": [
+          "Mark Borgschulte",
+          "David Molitor",
+          "Eric Yongchen Zou"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1558–1575",
+        "doi": "10.1162/rest_a_01243",
+        "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.4.1",
     "title": "NBER-CES 制造业行业数据库",
     "links": [
@@ -5181,6 +5911,24 @@
         "url": "https://doi.org/10.1093/qje/qjaf023",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "title": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "authors": [
+          "Adam Isen",
+          "Maya Rossin-Slater",
+          "W. Reed Walker"
+        ],
+        "year": 2017,
+        "journal": "Journal of Political Economy",
+        "volume": "125",
+        "issue": "3",
+        "pages": "848–902",
+        "doi": "10.1086/691465",
+        "url": "https://doi.org/10.1086/691465",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5202,7 +5950,26 @@
     ],
     "introduction": "美国国税局（Internal Revenue Service，IRS）的收入统计部门（Statistics of Income，SOI）依据个人所得税申报表上相邻两年的地址变化，编制州际和县际的迁移统计。数据给出各州或县之间的迁入、迁出流量，包括申报单数量、家庭成员（豁免）人数以及调整后总收入等汇总指标，并有按州内外划分的流入流出汇总。\n\n这类数据可用于研究人口与收入的地区流动，例如自然灾害、税收差异或就业冲击后的人口迁移，以及迁移者的收入结构。公开文件为县级及以上汇总，且为保护隐私对小流量单元作抑制，申报单级记录不对外公布。\n\n其统计对象仅限于提交了联邦所得税申报表的人群，没有申报义务的低收入者、老年人和部分青年人可能不被覆盖；迁移以申报地址为准，并非实际居住地，也不同于人口普查或美国社区调查中的迁移人口，使用时应说明这些口径差异。",
     "source": "从 IRS 官方迁移数据页面获取公开汇总文件及方法说明。纳税申报单级记录不属于这些公开文件，不能将县际汇总数据的开放性解释为个体税务记录开放。",
-    "references": []
+    "references": [
+      {
+        "raw": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "authors": [
+          "Mark Borgschulte",
+          "David Molitor",
+          "Eric Yongchen Zou"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1558–1575",
+        "doi": "10.1162/rest_a_01243",
+        "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.4.6",
@@ -5998,6 +6765,41 @@
         "url": "https://doi.org/10.1093/qje/qjaf023",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "title": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "authors": [
+          "Anne M. Burton",
+          "Travis Roach"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "138",
+        "issue": "",
+        "pages": "103310",
+        "doi": "10.1016/j.jeem.2026.103310",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103310",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "authors": [
+          "Mark Borgschulte",
+          "David Molitor",
+          "Eric Yongchen Zou"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1558–1575",
+        "doi": "10.1162/rest_a_01243",
+        "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6058,6 +6860,61 @@
         "pages": "2269–2328",
         "doi": "10.1093/qje/qjaf023",
         "url": "https://doi.org/10.1093/qje/qjaf023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "title": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "authors": [
+          "Anne M. Burton",
+          "Travis Roach"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "138",
+        "issue": "",
+        "pages": "103310",
+        "doi": "10.1016/j.jeem.2026.103310",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103310",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.15",
+    "title": "FBI 统一犯罪报告（UCR）",
+    "links": [
+      {
+        "label": "FBI Crime Data Explorer",
+        "url": "https://cde.ucr.cjis.gov/"
+      }
+    ],
+    "summary": "美国联邦调查局汇总各地执法机构上报的犯罪统计，1930 年起按机构、城市、县和州发布犯罪指数与逮捕数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "统一犯罪报告（Uniform Crime Reporting，UCR）项目由 FBI 自 1930 年起运行，汇总一万八千多个城市、县、州、部落和联邦执法机构自愿上报的数据，核心是八类指数犯罪（谋杀、强奸、抢劫、严重伤害、入室盗窃、盗窃、机动车盗窃、纵火）的发案数，以及逮捕、警员人数和仇恨犯罪统计；2021 年起全面转为事件级的国家事件报告系统（NIBRS）。数据可通过 FBI 犯罪数据浏览器（Crime Data Explorer）和 ICPSR 下载。\n\n数据常用于测量地方公共安全和社区特征，例如在检验居民是否因有毒排放\"用脚投票\"时，把犯罪率作为社区属性的控制变量。上报是自愿的，部分机构缺报或漏报，长期序列需要处理缺失值。",
+    "source": "FBI Crime Data Explorer 公开下载，历史文件也可从 ICPSR 获取。",
+    "references": [
+      {
+        "raw": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+        "title": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+        "authors": [
+          "H. Spencer Banzhaf",
+          "Randall P. Walsh"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "843–863",
+        "doi": "10.1257/aer.98.3.843",
+        "url": "https://doi.org/10.1257/aer.98.3.843",
         "verified": true,
         "note": ""
       }
@@ -6804,6 +7661,44 @@
         "url": "https://doi.org/10.1093/restud/rdv043",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "title": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "authors": [
+          "Tatyana Deryugina",
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor",
+          "Julian Reif"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "12",
+        "pages": "4178–4219",
+        "doi": "10.1257/aer.20180279",
+        "url": "https://doi.org/10.1257/aer.20180279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "title": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "authors": [
+          "Adam Isen",
+          "Maya Rossin-Slater",
+          "W. Reed Walker"
+        ],
+        "year": 2017,
+        "journal": "Journal of Political Economy",
+        "volume": "125",
+        "issue": "3",
+        "pages": "848–902",
+        "doi": "10.1086/691465",
+        "url": "https://doi.org/10.1086/691465",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7110,6 +8005,25 @@
         "url": "https://doi.org/10.1016/j.jeem.2018.09.005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Health Care Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+        "title": "The Health Care Cost of Air Pollution: Evidence from the World's Largest Payment Network",
+        "authors": [
+          "Panle Jia Barwick",
+          "Shanjun Li",
+          "Deyu Rao",
+          "Nahim Bin Zahur"
+        ],
+        "year": 2026,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "108",
+        "issue": "1",
+        "pages": "110–128",
+        "doi": "10.1162/rest_a_01430",
+        "url": "https://doi.org/10.1162/rest_a_01430",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7346,6 +8260,97 @@
         "url": "https://doi.org/10.1093/qje/qjaf023",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "title": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "authors": [
+          "Tatyana Deryugina",
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor",
+          "Julian Reif"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "12",
+        "pages": "4178–4219",
+        "doi": "10.1257/aer.20180279",
+        "url": "https://doi.org/10.1257/aer.20180279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+        "title": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+        "authors": [
+          "Kelly C. Bishop",
+          "Jonathan D. Ketcham",
+          "Nicolai V. Kuminoff"
+        ],
+        "year": 2023,
+        "journal": "The Review of Economic Studies",
+        "volume": "90",
+        "issue": "5",
+        "pages": "2188–2214",
+        "doi": "10.1093/restud/rdac078",
+        "url": "https://doi.org/10.1093/restud/rdac078",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "title": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "authors": [
+          "Anne M. Burton",
+          "Travis Roach"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "138",
+        "issue": "",
+        "pages": "103310",
+        "doi": "10.1016/j.jeem.2026.103310",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103310",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "title": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "authors": [
+          "Adam Isen",
+          "Maya Rossin-Slater",
+          "W. Reed Walker"
+        ],
+        "year": 2017,
+        "journal": "Journal of Political Economy",
+        "volume": "125",
+        "issue": "3",
+        "pages": "848–902",
+        "doi": "10.1086/691465",
+        "url": "https://doi.org/10.1086/691465",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "authors": [
+          "Mark Borgschulte",
+          "David Molitor",
+          "Eric Yongchen Zou"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1558–1575",
+        "doi": "10.1162/rest_a_01243",
+        "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7503,6 +8508,23 @@
         "pages": "678–709",
         "doi": "10.1257/aer.20121656",
         "url": "https://doi.org/10.1257/aer.20121656",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+        "title": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+        "authors": [
+          "H. Spencer Banzhaf",
+          "Randall P. Walsh"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "843–863",
+        "doi": "10.1257/aer.98.3.843",
+        "url": "https://doi.org/10.1257/aer.98.3.843",
         "verified": true,
         "note": ""
       }
@@ -7957,6 +8979,24 @@
         "pages": "105482",
         "doi": "10.1016/j.jpubeco.2025.105482",
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105482",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+        "title": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+        "authors": [
+          "Kelly C. Bishop",
+          "Jonathan D. Ketcham",
+          "Nicolai V. Kuminoff"
+        ],
+        "year": 2023,
+        "journal": "The Review of Economic Studies",
+        "volume": "90",
+        "issue": "5",
+        "pages": "2188–2214",
+        "doi": "10.1093/restud/rdac078",
+        "url": "https://doi.org/10.1093/restud/rdac078",
         "verified": true,
         "note": ""
       }
@@ -9657,6 +10697,206 @@
         "pages": "1886–1927",
         "doi": "10.1093/jeea/jvz051",
         "url": "https://doi.org/10.1093/jeea/jvz051",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.40",
+    "title": "NOAA 北美区域再分析（NARR）",
+    "links": [
+      {
+        "label": "NOAA PSL NARR",
+        "url": "https://psl.noaa.gov/data/gridded/data.narr.html"
+      }
+    ],
+    "summary": "NOAA 国家环境预报中心发布的北美区域高分辨率再分析数据，32 公里格网、3 小时间隔，1979 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "北美区域再分析（North American Regional Reanalysis，NARR）由 NOAA 国家环境预报中心（NCEP）基于 Eta 模式和区域数据同化系统生成，覆盖北美大陆及邻近海域，水平分辨率约 32 公里，垂直 29 层，每 3 小时一次，时间从 1979 年至今，变量包括风向风速、气温、湿度、降水、边界层高度和气压等，可从 NOAA 物理科学实验室（PSL）和 NCEI 下载。\n\n数据常用于构造基于风向的空气污染工具变量，例如利用县级日风向变化识别 PM2.5 对老年人死亡率和医疗支出的影响，或研究颗粒物对致命车祸的影响。分辨率较粗，难以刻画城市内部和复杂地形的局地风场。",
+    "source": "NOAA PSL 和 NCEI 公开下载。",
+    "references": [
+      {
+        "raw": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "title": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "authors": [
+          "Tatyana Deryugina",
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor",
+          "Julian Reif"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "12",
+        "pages": "4178–4219",
+        "doi": "10.1257/aer.20180279",
+        "url": "https://doi.org/10.1257/aer.20180279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "title": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "authors": [
+          "Anne M. Burton",
+          "Travis Roach"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "138",
+        "issue": "",
+        "pages": "103310",
+        "doi": "10.1016/j.jeem.2026.103310",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103310",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "authors": [
+          "Mark Borgschulte",
+          "David Molitor",
+          "Eric Yongchen Zou"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1558–1575",
+        "doi": "10.1162/rest_a_01243",
+        "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.41",
+    "title": "CDC 环境公共卫生追踪网络县级模型化 PM2.5 与臭氧（Downscaler）",
+    "links": [
+      {
+        "label": "CDC 环境公共卫生追踪网络",
+        "url": "https://ephtracking.cdc.gov/"
+      },
+      {
+        "label": "EPA RSIG 下载文件",
+        "url": "https://www.epa.gov/hesc/rsig-related-downloadable-data-files"
+      }
+    ],
+    "summary": "CDC 与 EPA 合作，用 Downscaler 模型融合监测站和 CMAQ 模拟得到的美国县级和普查区日均 PM2.5 与臭氧浓度，2001 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "健康数据"
+    ],
+    "introduction": "CDC 国家环境公共卫生追踪网络（National Environmental Public Health Tracking Network）发布由 EPA 下尺度模型（Downscaler）生成的空气质量估计，该模型把 AQS 监测站观测与 CMAQ 化学传输模型的格网模拟结合，提供 2001 年起美国本土普查区和县级的日均 PM2.5 与日最大 8 小时臭氧浓度。EPA 的 RSIG 系统也提供对应的格点和普查区文件下载。\n\n数据常用于在没有监测站的县补充空气污染暴露，例如作为稳健性检验替代监测站 PM2.5，研究颗粒物对致命车祸的影响。模型估计依赖 CMAQ 排放清单，监测站稀少地区的不确定性较大。",
+    "source": "CDC 追踪网络数据浏览器和 EPA RSIG 公开下载。",
+    "references": [
+      {
+        "raw": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "title": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "authors": [
+          "Anne M. Burton",
+          "Travis Roach"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "138",
+        "issue": "",
+        "pages": "103310",
+        "doi": "10.1016/j.jeem.2026.103310",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103310",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.42",
+    "title": "NOAA 危险天气测绘系统（HMS）烟羽与火点数据",
+    "links": [
+      {
+        "label": "NOAA OSPO HMS",
+        "url": "https://www.ospo.noaa.gov/products/land/hms.html"
+      },
+      {
+        "label": "HMS 数据目录",
+        "url": "https://satepsanone.nesdis.noaa.gov/pub/FIRE/web/HMS/"
+      }
+    ],
+    "summary": "NOAA 卫星分析员每日人工判读卫星影像绘制的北美野火烟羽范围（轻、中、重浓度）和火点，2005 年起提供烟羽矢量数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "危险天气测绘系统（Hazard Mapping System，HMS）由 NOAA 卫星与产品运营办公室（OSPO）运行，分析员每天综合 GOES 静止卫星和极轨卫星影像，人工识别北美地区的火点和烟羽，绘制烟羽多边形并按浓度分为轻、中、重三级，烟羽数据从 2005 年 8 月起以 shapefile 和 KML 格式逐日发布。\n\n数据常用于识别野火烟雾对地面的影响，例如把县与烟羽多边形逐日叠加，构造野火烟雾暴露天数，研究空气污染对就业和收入的影响。烟羽是整层大气的范围，不一定代表近地面浓度，云层遮挡时可能漏判。",
+    "source": "NOAA OSPO 网站和数据目录公开下载。",
+    "references": [
+      {
+        "raw": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "authors": [
+          "Mark Borgschulte",
+          "David Molitor",
+          "Eric Yongchen Zou"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1558–1575",
+        "doi": "10.1162/rest_a_01243",
+        "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.43",
+    "title": "EPA 风险筛查环境指标（RSEI）",
+    "links": [
+      {
+        "label": "EPA RSEI",
+        "url": "https://www.epa.gov/rsei"
+      }
+    ],
+    "summary": "EPA 基于有毒物质排放清单（TRI）构建的毒性加权排放和风险评分模型，提供设施、化学品和 810 米格网层面的结果，1988 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "风险筛查环境指标（Risk-Screening Environmental Indicators，RSEI）是 EPA 开发的模型，把 TRI（见 2.6.5）中报告的有毒化学物质排放量与各化学品的毒性权重结合，并模拟大气扩散、水体排放等暴露路径和受影响人口，生成毒性加权排放量和风险评分（RSEI Score），结果按设施、化学品、行业和约 810 米格网发布，年份从 1988 年起，与 TRI 同步更新。\n\n数据常用于衡量有毒排放的健康风险而非单纯排放量，例如用 RSEI 毒性权重把加州 TRI 设施排放转换为风险加权暴露，检验居民是否因污染而迁移（\"用脚投票\"）。模型结果是相对风险的筛查指标，不是实际暴露或健康风险的精确估计。",
+    "source": "EPA 网站公开下载（含 RSEI Easy Results 和地理微观数据）。",
+    "references": [
+      {
+        "raw": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+        "title": "Do People Vote with Their Feet? An Empirical Test of Tiebout's Mechanism",
+        "authors": [
+          "H. Spencer Banzhaf",
+          "Randall P. Walsh"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "843–863",
+        "doi": "10.1257/aer.98.3.843",
+        "url": "https://doi.org/10.1257/aer.98.3.843",
         "verified": true,
         "note": ""
       }
@@ -12256,6 +13496,42 @@
         "url": "https://doi.org/10.1093/qje/qjaf023",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "title": "Every Breath You Take—Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+        "authors": [
+          "Adam Isen",
+          "Maya Rossin-Slater",
+          "W. Reed Walker"
+        ],
+        "year": 2017,
+        "journal": "Journal of Political Economy",
+        "volume": "125",
+        "issue": "3",
+        "pages": "848–902",
+        "doi": "10.1086/691465",
+        "url": "https://doi.org/10.1086/691465",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "title": "Air Pollution and the Labor Market: Evidence from Wildfire Smoke",
+        "authors": [
+          "Mark Borgschulte",
+          "David Molitor",
+          "Eric Yongchen Zou"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1558–1575",
+        "doi": "10.1162/rest_a_01243",
+        "url": "https://doi.org/10.1162/rest_a_01243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12313,6 +13589,44 @@
         "pages": "2269–2328",
         "doi": "10.1093/qje/qjaf023",
         "url": "https://doi.org/10.1093/qje/qjaf023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "title": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+        "authors": [
+          "Tatyana Deryugina",
+          "Garth Heutel",
+          "Nolan H. Miller",
+          "David Molitor",
+          "Julian Reif"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "12",
+        "pages": "4178–4219",
+        "doi": "10.1257/aer.20180279",
+        "url": "https://doi.org/10.1257/aer.20180279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+        "title": "Hazed and Confused: The Effect of Air Pollution on Dementia",
+        "authors": [
+          "Kelly C. Bishop",
+          "Jonathan D. Ketcham",
+          "Nicolai V. Kuminoff"
+        ],
+        "year": 2023,
+        "journal": "The Review of Economic Studies",
+        "volume": "90",
+        "issue": "5",
+        "pages": "2188–2214",
+        "doi": "10.1093/restud/rdac078",
+        "url": "https://doi.org/10.1093/restud/rdac078",
         "verified": true,
         "note": ""
       }
@@ -12672,6 +13986,43 @@
     ]
   },
   {
+    "id": "2.8.11",
+    "title": "得州医疗信息收集项目（THCIC）住院与门诊公共使用数据",
+    "links": [
+      {
+        "label": "Texas DSHS THCIC",
+        "url": "https://www.dshs.texas.gov/center-health-statistics/texas-health-care-information-collection"
+      }
+    ],
+    "summary": "得克萨斯州卫生服务部收集的全州医院住院和门诊（含急诊）出院记录，公共使用文件按季度发布。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "得州医疗信息收集项目（Texas Health Care Information Collection，THCIC）由得州卫生服务部（DSHS）管理，依法收集州内医院的住院出院记录（1999 年起）和门诊手术、门诊及急诊记录（2009 年起），字段包括诊断和操作代码、费用、付费方、患者年龄、性别、种族和居住地邮编。公共使用数据文件（PUDF）按季度发布，经过去标识处理；含更多字段的研究用文件需申请。\n\n数据常用于研究环境冲击的短期健康影响，例如用 2010–2017 年门诊记录研究 PM2.5 对精神健康就诊的影响。公共使用文件对小样本单元做了遮蔽，部分人口学字段在小地区会被隐去。",
+    "source": "DSHS 网站申请和购买，公共使用文件需签署数据使用协议。",
+    "references": [
+      {
+        "raw": "The impact of air pollution on mental health: Evidence from Texas",
+        "title": "The impact of air pollution on mental health: Evidence from Texas",
+        "authors": [
+          "Kodjo Barnor"
+        ],
+        "year": 2025,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "133",
+        "issue": "",
+        "pages": "103198",
+        "doi": "10.1016/j.jeem.2025.103198",
+        "url": "https://doi.org/10.1016/j.jeem.2025.103198",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.9.1",
     "title": "商品流调查（Commodity Flow Survey，CFS）",
     "links": [
@@ -12857,6 +14208,23 @@
         "pages": "525-532",
         "doi": "10.1162/rest_a_01385",
         "url": "https://doi.org/10.1162/rest_a_01385",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "title": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "authors": [
+          "Anne M. Burton",
+          "Travis Roach"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "138",
+        "issue": "",
+        "pages": "103310",
+        "doi": "10.1016/j.jeem.2026.103310",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103310",
         "verified": true,
         "note": ""
       }
@@ -13839,6 +15207,44 @@
         "pages": "2616–2652",
         "doi": "10.1257/aer.101.6.2616",
         "url": "https://doi.org/10.1257/aer.101.6.2616",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.9",
+    "title": "NIAAA 酒精政策信息系统（APIS）",
+    "links": [
+      {
+        "label": "NIAAA APIS",
+        "url": "https://alcoholpolicy.niaaa.nih.gov/"
+      }
+    ],
+    "summary": "美国国家酒精滥用与酒精中毒研究所维护的各州酒精相关法律数据库，记录血液酒精浓度限值、销售限制和税收等政策的生效日期。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "酒精政策信息系统（Alcohol Policy Information System，APIS）由美国国立卫生研究院下属的国家酒精滥用与酒精中毒研究所（NIAAA）维护，按政策主题追踪各州法律的变化，包括酒驾血液酒精浓度（BAC）限值、未成年人饮酒、零售时间与地点限制、酒税、开放容器法和大麻相关法律等，从 1998 年前后起按年份记录各州政策的生效日期和条款细节。\n\n数据常用作州级政策控制变量，例如研究颗粒物污染对致命车祸的影响时控制各州的 BAC 限值变化。数据只记录州级成文法律，不反映执法强度和地方条例。",
+    "source": "NIAAA 网站公开查询和下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "title": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
+        "authors": [
+          "Anne M. Burton",
+          "Travis Roach"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "138",
+        "issue": "",
+        "pages": "103310",
+        "doi": "10.1016/j.jeem.2026.103310",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103310",
         "verified": true,
         "note": ""
       }
@@ -17598,6 +19004,23 @@
         "url": "https://doi.org/10.1162/rest_a_00349",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effect of pollution on labor supply: Evidence from a natural experiment in Mexico City",
+        "title": "The effect of pollution on labor supply: Evidence from a natural experiment in Mexico City",
+        "authors": [
+          "Rema Hanna",
+          "Paulina Oliva"
+        ],
+        "year": 2015,
+        "journal": "Journal of Public Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "68–79",
+        "doi": "10.1016/j.jpubeco.2014.10.004",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.10.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17763,6 +19186,104 @@
         "pages": "1366–1401",
         "doi": "10.1257/aer.20131455",
         "url": "https://doi.org/10.1257/aer.20131455",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.2.5",
+    "title": "墨西哥城市就业调查（ENEU）与全国职业与就业调查（ENOE）",
+    "links": [
+      {
+        "label": "INEGI ENOE",
+        "url": "https://www.inegi.org.mx/programas/enoe/15ymas/"
+      },
+      {
+        "label": "INEGI ENEU",
+        "url": "https://www.inegi.org.mx/programas/eneu/2004/"
+      }
+    ],
+    "summary": "INEGI 开展的季度劳动力调查：ENEU 覆盖主要城市（1987–2004 年），2005 年起被覆盖全国的 ENOE 取代，均为轮换面板。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "全国城市就业调查（Encuesta Nacional de Empleo Urbano，ENEU）由墨西哥国家统计和地理研究所（INEGI）于 1987–2004 年开展，覆盖墨西哥城等主要城市地区；2005 年起由全国职业与就业调查（Encuesta Nacional de Ocupación y Empleo，ENOE）取代，覆盖全国城乡。两项调查都是季度住户调查，采用五个季度的轮换面板，记录个人的就业状况、工作时间、收入、职业、行业和人口特征，ENOE 每季度调查约 12 万户。微观数据可从 INEGI 网站下载。\n\n数据常用于研究劳动供给对环境冲击的反应，例如利用墨西哥城炼油厂关闭带来的 SO2 下降，或逐时 PM2.5 浓度变化，估计空气污染对工作时间的影响。2020 年疫情期间 ENOE 曾改为电话调查（ETOE），方法有所变化。",
+    "source": "INEGI 网站公开下载微观数据。",
+    "references": [
+      {
+        "raw": "The effect of pollution on labor supply: Evidence from a natural experiment in Mexico City",
+        "title": "The effect of pollution on labor supply: Evidence from a natural experiment in Mexico City",
+        "authors": [
+          "Rema Hanna",
+          "Paulina Oliva"
+        ],
+        "year": 2015,
+        "journal": "Journal of Public Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "68–79",
+        "doi": "10.1016/j.jpubeco.2014.10.004",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.10.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Unequal Effects of Pollution on Labor Supply",
+        "title": "The Unequal Effects of Pollution on Labor Supply",
+        "authors": [
+          "Bridget Hoffmann",
+          "Juan Pablo Rud"
+        ],
+        "year": 2024,
+        "journal": "Econometrica",
+        "volume": "92",
+        "issue": "4",
+        "pages": "1063–1096",
+        "doi": "10.3982/ECTA20484",
+        "url": "https://doi.org/10.3982/ECTA20484",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.2.6",
+    "title": "秘鲁全国住户调查（ENAHO）",
+    "links": [
+      {
+        "label": "INEI 微观数据",
+        "url": "https://proyectos.inei.gob.pe/microdatos/"
+      }
+    ],
+    "summary": "秘鲁国家统计与信息研究所（INEI）开展的年度全国住户调查，含面板子样本，记录就业、收入、支出、健康和住房。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "全国住户调查（Encuesta Nacional de Hogares，ENAHO）由秘鲁国家统计与信息研究所（INEI）自 1995 年起开展，2003 年起改为全年连续调查，每年调查约 3 万户，内容包括家庭成员的教育、健康、就业与工作时间、收入、消费支出、住房和社会项目参与，并设有面板子样本追踪同一住户。微观数据通过 INEI 微观数据平台下载。\n\n数据常用于研究秘鲁的贫困、劳动市场和公共政策，例如利用利马都会区面板样本研究颗粒物污染对成年人劳动时间的影响，以及照料生病子女的机制。面板子样本规模较小，各年问卷模块有调整。",
+    "source": "INEI 微观数据平台公开下载。",
+    "references": [
+      {
+        "raw": "Particulate matter and labor supply: The role of caregiving and non-linearities",
+        "title": "Particulate matter and labor supply: The role of caregiving and non-linearities",
+        "authors": [
+          "Fernando M. Aragón",
+          "Juan Jose Miranda",
+          "Paulina Oliva"
+        ],
+        "year": 2017,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "86",
+        "issue": "",
+        "pages": "295–309",
+        "doi": "10.1016/j.jeem.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jeem.2017.02.008",
         "verified": true,
         "note": ""
       }
@@ -18113,6 +19634,40 @@
         "url": "https://doi.org/10.1086/529398",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effect of pollution on labor supply: Evidence from a natural experiment in Mexico City",
+        "title": "The effect of pollution on labor supply: Evidence from a natural experiment in Mexico City",
+        "authors": [
+          "Rema Hanna",
+          "Paulina Oliva"
+        ],
+        "year": 2015,
+        "journal": "Journal of Public Economics",
+        "volume": "122",
+        "issue": "",
+        "pages": "68–79",
+        "doi": "10.1016/j.jpubeco.2014.10.004",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.10.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Unequal Effects of Pollution on Labor Supply",
+        "title": "The Unequal Effects of Pollution on Labor Supply",
+        "authors": [
+          "Bridget Hoffmann",
+          "Juan Pablo Rud"
+        ],
+        "year": 2024,
+        "journal": "Econometrica",
+        "volume": "92",
+        "issue": "4",
+        "pages": "1063–1096",
+        "doi": "10.3982/ECTA20484",
+        "url": "https://doi.org/10.3982/ECTA20484",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18152,6 +19707,45 @@
         "pages": "417–435",
         "doi": "10.1162/rest_a_00349",
         "url": "https://doi.org/10.1162/rest_a_00349",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.6.4",
+    "title": "秘鲁国家气象水文局（SENAMHI）气象与空气质量数据",
+    "links": [
+      {
+        "label": "SENAMHI",
+        "url": "https://www.senamhi.gob.pe/"
+      }
+    ],
+    "summary": "秘鲁国家气象水文局发布的气象站观测数据，包括气温、湿度、降水，以及利马的空气质量监测数据。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "秘鲁国家气象水文局（Servicio Nacional de Meteorología e Hidrología，SENAMHI）运营全国气象和水文站网，提供逐日和逐月的气温、相对湿度、降水和风速等观测，以及格网化气候产品；SENAMHI 还在利马都会区运行空气质量监测站，发布 PM2.5、PM10 等污染物浓度。数据可在其网站查询或申请。\n\n数据常用作秘鲁研究中的天气控制变量，例如在研究利马颗粒物污染对劳动供给的影响时控制月均气温和湿度。站点分布不均，偏远地区覆盖较少。",
+    "source": "SENAMHI 网站可查询，部分数据需申请。",
+    "references": [
+      {
+        "raw": "Particulate matter and labor supply: The role of caregiving and non-linearities",
+        "title": "Particulate matter and labor supply: The role of caregiving and non-linearities",
+        "authors": [
+          "Fernando M. Aragón",
+          "Juan Jose Miranda",
+          "Paulina Oliva"
+        ],
+        "year": 2017,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "86",
+        "issue": "",
+        "pages": "295–309",
+        "doi": "10.1016/j.jeem.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jeem.2017.02.008",
         "verified": true,
         "note": ""
       }
@@ -18396,6 +19990,44 @@
         "pages": "2037–2105",
         "doi": "10.1093/qje/qjac020",
         "url": "https://doi.org/10.1093/qje/qjac020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.8.4",
+    "title": "墨西哥卫生部住院出院数据（SAEH）",
+    "links": [
+      {
+        "label": "DGIS 住院出院数据",
+        "url": "http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_egresoshosp_gobmx.html"
+      }
+    ],
+    "summary": "墨西哥卫生部自动化住院出院子系统记录的公立医院出院个体数据，含诊断、住院天数和患者居住地。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "自动化住院出院子系统（Subsistema Automatizado de Egresos Hospitalarios，SAEH）由墨西哥卫生部卫生信息总局（DGIS）管理，收集卫生部下属公立医院的每一次住院出院记录，字段包括 ICD-10 主诊断、入院和出院日期、住院天数、出院原因以及患者的年龄、性别和居住市镇，年度数据库从 2000 年前后起，可在 DGIS 开放数据页面下载。\n\n数据常用于研究环境与健康，例如用墨西哥城住院记录检验 PM2.5 是否通过家庭成员患病影响劳动供给。数据只覆盖卫生部医院，不含社保系统（IMSS、ISSSTE）和私立医院。",
+    "source": "DGIS 网站公开下载。",
+    "references": [
+      {
+        "raw": "The Unequal Effects of Pollution on Labor Supply",
+        "title": "The Unequal Effects of Pollution on Labor Supply",
+        "authors": [
+          "Bridget Hoffmann",
+          "Juan Pablo Rud"
+        ],
+        "year": 2024,
+        "journal": "Econometrica",
+        "volume": "92",
+        "issue": "4",
+        "pages": "1063–1096",
+        "doi": "10.3982/ECTA20484",
+        "url": "https://doi.org/10.3982/ECTA20484",
         "verified": true,
         "note": ""
       }
@@ -19121,6 +20753,24 @@
         "pages": "420–450",
         "doi": "10.1257/pol.20220422",
         "url": "https://doi.org/10.1257/pol.20220422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Particulate matter and labor supply: The role of caregiving and non-linearities",
+        "title": "Particulate matter and labor supply: The role of caregiving and non-linearities",
+        "authors": [
+          "Fernando M. Aragón",
+          "Juan Jose Miranda",
+          "Paulina Oliva"
+        ],
+        "year": 2017,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "86",
+        "issue": "",
+        "pages": "295–309",
+        "doi": "10.1016/j.jeem.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jeem.2017.02.008",
         "verified": true,
         "note": ""
       }
@@ -19925,6 +21575,24 @@
         "url": "https://doi.org/10.1257/aer.91.4.877",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "title": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "authors": [
+          "Shihe Fu",
+          "V. Brian Viard",
+          "Peng Zhang"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "640",
+        "pages": "3241–3273",
+        "doi": "10.1093/ej/ueab033",
+        "url": "https://doi.org/10.1093/ej/ueab033",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20137,6 +21805,24 @@
         "pages": "899–939",
         "doi": "10.1093/restud/rdad042",
         "url": "https://doi.org/10.1093/restud/rdad042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "title": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "authors": [
+          "Shihe Fu",
+          "V. Brian Viard",
+          "Peng Zhang"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "640",
+        "pages": "3241–3273",
+        "doi": "10.1093/ej/ueab033",
+        "url": "https://doi.org/10.1093/ej/ueab033",
         "verified": true,
         "note": ""
       }
@@ -21714,6 +23400,23 @@
         "url": "https://www.dropbox.com/scl/fi/ht9i266jci9wxdn7qmyr2/Kudu_paper.pdf?rlkey=7rel5bz3u2easvqcxnmnimh6b&st=vn71xscb&dl=0",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Unequal Effects of Pollution on Labor Supply",
+        "title": "The Unequal Effects of Pollution on Labor Supply",
+        "authors": [
+          "Bridget Hoffmann",
+          "Juan Pablo Rud"
+        ],
+        "year": 2024,
+        "journal": "Econometrica",
+        "volume": "92",
+        "issue": "4",
+        "pages": "1063–1096",
+        "doi": "10.3982/ECTA20484",
+        "url": "https://doi.org/10.3982/ECTA20484",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22603,6 +24306,79 @@
         "url": "https://doi.org/10.1257/pol.20220422",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "title": "Air Pollution and Manufacturing Firm Productivity: Nationwide Estimates for China",
+        "authors": [
+          "Shihe Fu",
+          "V. Brian Viard",
+          "Peng Zhang"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "640",
+        "pages": "3241–3273",
+        "doi": "10.1093/ej/ueab033",
+        "url": "https://doi.org/10.1093/ej/ueab033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of air quality on innovation activities in China",
+        "title": "The impact of air quality on innovation activities in China",
+        "authors": [
+          "Jingbo Cui",
+          "Shaoqing Huang",
+          "Chunhua Wang"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "122",
+        "issue": "",
+        "pages": "102893",
+        "doi": "10.1016/j.jeem.2023.102893",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102893",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of air pollution on migration: Evidence from China",
+        "title": "The effect of air pollution on migration: Evidence from China",
+        "authors": [
+          "Shuai Chen",
+          "Paulina Oliva",
+          "Peng Zhang"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "156",
+        "issue": "",
+        "pages": "102833",
+        "doi": "10.1016/j.jdeveco.2022.102833",
+        "url": "https://doi.org/10.1016/j.jdeveco.2022.102833",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22676,6 +24452,43 @@
         "pages": "103378",
         "doi": "10.1016/j.jeem.2026.103378",
         "url": "https://doi.org/10.1016/j.jeem.2026.103378",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "title": "The Productivity Consequences of Pollution-Induced Migration in China",
+        "authors": [
+          "Gaurav Khanna",
+          "Wenquan Liang",
+          "Ahmed Mushfiq Mobarak",
+          "Ran Song"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "2",
+        "pages": "184–224",
+        "doi": "10.1257/app.20220655",
+        "url": "https://doi.org/10.1257/app.20220655",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of air quality on innovation activities in China",
+        "title": "The impact of air quality on innovation activities in China",
+        "authors": [
+          "Jingbo Cui",
+          "Shaoqing Huang",
+          "Chunhua Wang"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "122",
+        "issue": "",
+        "pages": "102893",
+        "doi": "10.1016/j.jeem.2023.102893",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102893",
         "verified": true,
         "note": ""
       }
@@ -22785,6 +24598,45 @@
         "pages": "103378",
         "doi": "10.1016/j.jeem.2026.103378",
         "url": "https://doi.org/10.1016/j.jeem.2026.103378",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.35",
+    "title": "NOAA 全球综合探空档案（IGRA）",
+    "links": [
+      {
+        "label": "NOAA IGRA",
+        "url": "https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive"
+      }
+    ],
+    "summary": "NOAA 国家环境信息中心整理的全球探空气球观测档案，覆盖 2,800 多个站点，提供各气压层的气温、湿度和风。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "全球综合探空档案（Integrated Global Radiosonde Archive，IGRA）由 NOAA 国家环境信息中心（NCEI）维护，整合多个来源的探空和测风气球观测，覆盖全球 2,800 多个站点，最早记录可回溯到 20 世纪初，通常每天 00 时和 12 时观测，提供各标准和特征气压层的位势高度、气温、露点和风向风速，以及派生的稳定度参数。\n\n数据常用于测量大气逆温和边界层状况，例如用城市附近探空站的分层气温识别逆温天，作为空气污染的工具变量，研究污染对工人生产率的影响。站点分布稀疏，观测时次有限，难以反映午间逆温变化。",
+    "source": "NOAA NCEI 网站公开下载。",
+    "references": [
+      {
+        "raw": "Severe Air Pollution and Labor Productivity: Evidence from Industrial Towns in China",
+        "title": "Severe Air Pollution and Labor Productivity: Evidence from Industrial Towns in China",
+        "authors": [
+          "Jiaxiu He",
+          "Haoming Liu",
+          "Alberto Salvo"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "173–201",
+        "doi": "10.1257/app.20170286",
+        "url": "https://doi.org/10.1257/app.20170286",
         "verified": true,
         "note": ""
       }
@@ -23187,6 +25039,50 @@
         "pages": "103378",
         "doi": "10.1016/j.jeem.2026.103378",
         "url": "https://doi.org/10.1016/j.jeem.2026.103378",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.1",
+    "title": "全球疾病负担研究（GBD）",
+    "links": [
+      {
+        "label": "GBD Results",
+        "url": "https://vizhub.healthdata.org/gbd-results/"
+      },
+      {
+        "label": "GHDx GBD 2019",
+        "url": "https://ghdx.healthdata.org/gbd-2019"
+      }
+    ],
+    "summary": "华盛顿大学健康指标与评估研究所（IHME）主持的全球疾病负担估计，提供 200 多个国家和地区的死亡率、发病率和伤残调整寿命年。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "全球疾病负担研究（Global Burden of Disease，GBD）由华盛顿大学健康指标与评估研究所（IHME）主持，汇集各国死亡登记、调查和疾病监测数据，用统一的模型估计 1990 年起 200 多个国家和地区、数百种疾病与伤害、八十余种风险因素（含空气污染）的死亡数、患病率、伤残权重、伤残调整寿命年（DALY）等指标，按年龄和性别划分，定期发布新版本（如 GBD 2019、GBD 2021）。结果可通过 GBD Results 工具和 GHDx 下载，Our World in Data 也有转载。\n\n数据常用于比较各国疾病负担和把健康效应换算为福利，例如用伤残权重计算空气污染导致的健康损失，或用分国家的腹泻病死亡率研究城市水消毒的效果。许多国家缺少原始数据，估计值高度依赖模型，各版本之间会回溯修订。",
+    "source": "IHME GHDx 和 GBD Results 工具免费下载（需注册）。",
+    "references": [
+      {
+        "raw": "Aging in Haze",
+        "title": "Aging in Haze",
+        "authors": [
+          "Runhao Zhao",
+          "Ye Yuan",
+          "Chong Liu",
+          "Junjian Yi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "180",
+        "issue": "",
+        "pages": "103717",
+        "doi": "10.1016/j.jdeveco.2025.103717",
+        "url": "https://doi.org/10.1016/j.jdeveco.2025.103717",
         "verified": true,
         "note": ""
       }
