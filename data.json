@@ -823,6 +823,24 @@
         "url": "https://doi.org/10.1162/rest_a_00150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Change Mitigation Policies: Aggregate and Distributional Effects",
+        "title": "Climate Change Mitigation Policies: Aggregate and Distributional Effects",
+        "authors": [
+          "Tiago Cavalcanti",
+          "Zeina Hasna",
+          "Cezar Santos"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "668",
+        "pages": "1341–1387",
+        "doi": "10.1093/ej/ueae113",
+        "url": "https://doi.org/10.1093/ej/ueae113",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7546,6 +7564,23 @@
         "url": "https://doi.org/10.1257/aer.20181346",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?",
+        "title": "Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?",
+        "authors": [
+          "Meredith Fowlie",
+          "Jeffrey M. Perloff"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1640–1652",
+        "doi": "10.1162/rest_a_00345",
+        "url": "https://doi.org/10.1162/rest_a_00345",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8474,6 +8509,22 @@
         "url": "https://doi.org/10.1093/restud/rdab099",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation",
+        "title": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation",
+        "authors": [
+          "Gregory Casey"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "1",
+        "pages": "192–228",
+        "doi": "10.1093/restud/rdad001",
+        "url": "https://doi.org/10.1093/restud/rdad001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9137,6 +9188,59 @@
         "url": "https://doi.org/10.3982/ECTA6750",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do environmental markets cause environmental injustice? Evidence from California's carbon market",
+        "title": "Do environmental markets cause environmental injustice? Evidence from California's carbon market",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Kyle C. Meng"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "217",
+        "issue": "",
+        "pages": "104786",
+        "doi": "10.1016/j.jpubeco.2022.104786",
+        "url": "https://doi.org/10.1016/j.jpubeco.2022.104786",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Efficient Pollution Regulation: Getting the Prices Right",
+        "title": "Efficient Pollution Regulation: Getting the Prices Right",
+        "authors": [
+          "Nicholas Z. Muller",
+          "Robert Mendelsohn"
+        ],
+        "year": 2009,
+        "journal": "American Economic Review",
+        "volume": "99",
+        "issue": "5",
+        "pages": "1714–1739",
+        "doi": "10.1257/aer.99.5.1714",
+        "url": "https://doi.org/10.1257/aer.99.5.1714",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "title": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "authors": [
+          "H. Ron Chan",
+          "B. Andrew Chupp",
+          "Maureen L. Cropper",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "180–209",
+        "doi": "10.1016/j.jeem.2017.11.004",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9386,6 +9490,44 @@
         "pages": "137–163",
         "doi": "10.1016/j.jeem.2015.06.002",
         "url": "https://doi.org/10.1016/j.jeem.2015.06.002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.21",
+    "title": "BLS 生产者价格指数（Producer Price Index，PPI）",
+    "links": [
+      {
+        "label": "BLS PPI",
+        "url": "https://www.bls.gov/ppi/"
+      }
+    ],
+    "summary": "美国劳工统计局按月发布的国内生产者出售商品和服务的价格指数，按行业（NAICS）和商品分类，部分序列可追溯到 1913 年。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "生产者价格指数（Producer Price Index，PPI）由美国劳工统计局（BLS）编制，每月调查约 2.5 万家企业约 10 万个价格报价，衡量国内生产者在首次交易环节获得的售价变化，提供按行业（NAICS 六位码，早期为 SIC）、按商品和按最终需求-中间需求（FD-ID）体系划分的数千个指数序列，可通过 BLS 数据库和 API 下载。\n\n数据常用于把名义产出和成本平减为实际值，例如在研究排放交易配额分配对工厂产出的影响时，把工厂收入用四位行业 PPI 平减。行业分类在 2004 年前后由 SIC 转为 NAICS，部分服务业序列起始较晚。",
+    "source": "BLS 网站免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?",
+        "title": "Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?",
+        "authors": [
+          "Meredith Fowlie",
+          "Jeffrey M. Perloff"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1640–1652",
+        "doi": "10.1162/rest_a_00345",
+        "url": "https://doi.org/10.1162/rest_a_00345",
         "verified": true,
         "note": ""
       }
@@ -12510,6 +12652,42 @@
         "url": "https://doi.org/10.1257/aer.99.5.2177",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Efficient Pollution Regulation: Getting the Prices Right",
+        "title": "Efficient Pollution Regulation: Getting the Prices Right",
+        "authors": [
+          "Nicholas Z. Muller",
+          "Robert Mendelsohn"
+        ],
+        "year": 2009,
+        "journal": "American Economic Review",
+        "volume": "99",
+        "issue": "5",
+        "pages": "1714–1739",
+        "doi": "10.1257/aer.99.5.1714",
+        "url": "https://doi.org/10.1257/aer.99.5.1714",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "title": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "authors": [
+          "H. Ron Chan",
+          "B. Andrew Chupp",
+          "Maureen L. Cropper",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "180–209",
+        "doi": "10.1016/j.jeem.2017.11.004",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12894,6 +13072,25 @@
         "pages": "374–423",
         "doi": "10.1257/mic.20190377",
         "url": "https://doi.org/10.1257/mic.20190377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "title": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "authors": [
+          "H. Ron Chan",
+          "B. Andrew Chupp",
+          "Maureen L. Cropper",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "180–209",
+        "doi": "10.1016/j.jeem.2017.11.004",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
         "verified": true,
         "note": ""
       }
@@ -13614,6 +13811,23 @@
         "url": "https://doi.org/10.1162/00346530152480144",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do environmental markets cause environmental injustice? Evidence from California's carbon market",
+        "title": "Do environmental markets cause environmental injustice? Evidence from California's carbon market",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Kyle C. Meng"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "217",
+        "issue": "",
+        "pages": "104786",
+        "doi": "10.1016/j.jpubeco.2022.104786",
+        "url": "https://doi.org/10.1016/j.jpubeco.2022.104786",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13760,6 +13974,23 @@
         "pages": "1376–1405",
         "doi": "10.1257/000282802762024557",
         "url": "https://doi.org/10.1257/000282802762024557",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?",
+        "title": "Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?",
+        "authors": [
+          "Meredith Fowlie",
+          "Jeffrey M. Perloff"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1640–1652",
+        "doi": "10.1162/rest_a_00345",
+        "url": "https://doi.org/10.1162/rest_a_00345",
         "verified": true,
         "note": ""
       }
@@ -15002,6 +15233,23 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105602",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do environmental markets cause environmental injustice? Evidence from California's carbon market",
+        "title": "Do environmental markets cause environmental injustice? Evidence from California's carbon market",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Kyle C. Meng"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "217",
+        "issue": "",
+        "pages": "104786",
+        "doi": "10.1016/j.jpubeco.2022.104786",
+        "url": "https://doi.org/10.1016/j.jpubeco.2022.104786",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15112,6 +15360,25 @@
         "pages": "374–423",
         "doi": "10.1257/mic.20190377",
         "url": "https://doi.org/10.1257/mic.20190377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "title": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "authors": [
+          "H. Ron Chan",
+          "B. Andrew Chupp",
+          "Maureen L. Cropper",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "180–209",
+        "doi": "10.1016/j.jeem.2017.11.004",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
         "verified": true,
         "note": ""
       }
@@ -15322,6 +15589,25 @@
         "pages": "1356–1372",
         "doi": "10.1257/aer.20200679",
         "url": "https://doi.org/10.1257/aer.20200679",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+        "title": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Christopher R. Knittel",
+          "James M. Sallee",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "5",
+        "pages": "1826–1876",
+        "doi": "10.1086/705553",
+        "url": "https://doi.org/10.1086/705553",
         "verified": true,
         "note": ""
       }
@@ -15619,6 +15905,25 @@
         "pages": "374–423",
         "doi": "10.1257/mic.20190377",
         "url": "https://doi.org/10.1257/mic.20190377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "title": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "authors": [
+          "H. Ron Chan",
+          "B. Andrew Chupp",
+          "Maureen L. Cropper",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "180–209",
+        "doi": "10.1016/j.jeem.2017.11.004",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
         "verified": true,
         "note": ""
       }
@@ -16390,6 +16695,25 @@
         "url": "https://doi.org/10.1257/000282802762024557",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+        "title": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Christopher R. Knittel",
+          "James M. Sallee",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "5",
+        "pages": "1826–1876",
+        "doi": "10.1086/705553",
+        "url": "https://doi.org/10.1086/705553",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16543,6 +16867,25 @@
         "url": "https://doi.org/10.1086/379939",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+        "title": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Christopher R. Knittel",
+          "James M. Sallee",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "5",
+        "pages": "1826–1876",
+        "doi": "10.1086/705553",
+        "url": "https://doi.org/10.1086/705553",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16598,6 +16941,22 @@
         "pages": "212–241",
         "doi": "10.1086/660124",
         "url": "https://doi.org/10.1086/660124",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation",
+        "title": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation",
+        "authors": [
+          "Gregory Casey"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "1",
+        "pages": "192–228",
+        "doi": "10.1093/restud/rdad001",
+        "url": "https://doi.org/10.1093/restud/rdad001",
         "verified": true,
         "note": ""
       }
@@ -17875,6 +18234,25 @@
         "pages": "374–423",
         "doi": "10.1257/mic.20190377",
         "url": "https://doi.org/10.1257/mic.20190377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "title": "The impact of trading on the costs and benefits of the Acid Rain Program",
+        "authors": [
+          "H. Ron Chan",
+          "B. Andrew Chupp",
+          "Maureen L. Cropper",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "88",
+        "issue": "",
+        "pages": "180–209",
+        "doi": "10.1016/j.jeem.2017.11.004",
+        "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
         "verified": true,
         "note": ""
       }
@@ -19624,6 +20002,25 @@
         "pages": "58–82",
         "doi": "10.1257/pol.2.4.58",
         "url": "https://doi.org/10.1257/pol.2.4.58",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+        "title": "The Use of Regression Statistics to Analyze Imperfect Pricing Policies",
+        "authors": [
+          "Mark R. Jacobsen",
+          "Christopher R. Knittel",
+          "James M. Sallee",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "5",
+        "pages": "1826–1876",
+        "doi": "10.1086/705553",
+        "url": "https://doi.org/10.1086/705553",
         "verified": true,
         "note": ""
       }
@@ -22236,6 +22633,22 @@
         "url": "https://doi.org/10.1086/711915",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+        "title": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+        "authors": [
+          "Julius J. Andersson"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "4",
+        "pages": "1–30",
+        "doi": "10.1257/pol.20170144",
+        "url": "https://doi.org/10.1257/pol.20170144",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22642,6 +23055,25 @@
         "url": "https://doi.org/10.1016/j.jeem.2016.06.002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "title": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "authors": [
+          "Ralf Martin",
+          "Mirabelle Muûls",
+          "Laure B. de Preux",
+          "Ulrich J. Wagner"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2482–2508",
+        "doi": "10.1257/aer.104.8.2482",
+        "url": "https://doi.org/10.1257/aer.104.8.2482",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22685,6 +23117,46 @@
         "pages": "1625–1660",
         "doi": "10.1093/restud/rdae055",
         "url": "https://doi.org/10.1093/restud/rdae055",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.3",
+    "title": "英国 ONS 企业微观数据（ARD / ABS、季度燃料调查 QFI）",
+    "links": [
+      {
+        "label": "ONS Annual Business Survey",
+        "url": "https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/methodologies/annualbusinesssurveyabs"
+      }
+    ],
+    "summary": "英国国家统计局的企业层面调查数据：年度受访企业数据库（ARD，现为年度企业调查 ABS）记录产出、投入和就业，季度燃料调查（QFI）记录制造业工厂的燃料使用，经安全数据服务向研究者提供。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "能源数据"
+    ],
+    "introduction": "年度受访企业数据库（Annual Respondents Database，ARD）由英国国家统计局（ONS）把年度企业调查（Annual Business Inquiry，现为年度企业调查 ABS）和生产普查的企业及地方单位应答整合而成，记录营业额、增加值、雇员、工资、中间投入和资本支出，可与企业间关联登记簿（IDBR）匹配；季度燃料调查（Quarterly Fuels Inquiry，QFI）调查制造业工厂的煤、天然气、石油和电力的消费量和支出。微观数据需经认证研究者通过英国数据服务（UK Data Service）安全实验室或 ONS 安全研究服务访问。\n\n数据常用于研究英国企业的生产率和能源使用，例如利用气候变化协议参与资格的差异，研究气候变化税对制造业工厂能源强度、就业和产出的影响。访问需要审批，QFI 的样本仅覆盖部分大型能耗工厂。",
+    "source": "需经 UK Data Service 或 ONS 安全研究服务申请访问。",
+    "references": [
+      {
+        "raw": "The impact of a carbon tax on manufacturing: Evidence from microdata",
+        "title": "The impact of a carbon tax on manufacturing: Evidence from microdata",
+        "authors": [
+          "Ralf Martin",
+          "Laure B. de Preux",
+          "Ulrich J. Wagner"
+        ],
+        "year": 2014,
+        "journal": "Journal of Public Economics",
+        "volume": "117",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1016/j.jpubeco.2014.04.016",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.04.016",
         "verified": true,
         "note": ""
       }
@@ -22911,6 +23383,95 @@
         "pages": "1625–1660",
         "doi": "10.1093/restud/rdae055",
         "url": "https://doi.org/10.1093/restud/rdae055",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "title": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "authors": [
+          "Ralf Martin",
+          "Mirabelle Muûls",
+          "Laure B. de Preux",
+          "Ulrich J. Wagner"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2482–2508",
+        "doi": "10.1257/aer.104.8.2482",
+        "url": "https://doi.org/10.1257/aer.104.8.2482",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Coase and Cap-and-Trade: Evidence on the Independence Property from the European Carbon Market",
+        "title": "Coase and Cap-and-Trade: Evidence on the Independence Property from the European Carbon Market",
+        "authors": [
+          "Aleksandar Zaklan"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "526–558",
+        "doi": "10.1257/pol.20210028",
+        "url": "https://doi.org/10.1257/pol.20210028",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Impact of Europe's Carbon Taxes",
+        "title": "The Macroeconomic Impact of Europe's Carbon Taxes",
+        "authors": [
+          "Gilbert E. Metcalf",
+          "James H. Stock"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "15",
+        "issue": "3",
+        "pages": "265–286",
+        "doi": "10.1257/mac.20210052",
+        "url": "https://doi.org/10.1257/mac.20210052",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.5",
+    "title": "欧盟委员会年度宏观经济数据库（AMECO）",
+    "links": [
+      {
+        "label": "AMECO",
+        "url": "https://economy-finance.ec.europa.eu/economic-research-and-databases/economic-databases/ameco-database_en"
+      }
+    ],
+    "summary": "欧盟委员会经济与金融事务总司维护的欧盟成员国及主要 OECD 国家 1960 年以来的年度宏观经济序列，包括 GDP、就业、价格、财政和对外部门。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "年度宏观经济数据库（AMECO）由欧盟委员会经济与金融事务总司（DG ECFIN）维护，提供欧盟成员国、候选国和主要 OECD 经济体自 1960 年以来的年度宏观经济数据及委员会经济预测，涵盖人口和就业、国民账户各组成部分、价格和平减指数、工资、资本存量、利率、政府收支和债务以及贸易，每年随春季和秋季预测更新两次，可在网站免费下载。\n\n数据常用于构建口径统一的欧洲国家宏观面板，例如在研究碳税对瑞典交通部门排放的合成控制分析中构建对照国家的宏观变量。数据随预测频繁修订，引用时需记录版本。",
+    "source": "欧盟委员会网站免费下载。",
+    "references": [
+      {
+        "raw": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+        "title": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+        "authors": [
+          "Julius J. Andersson"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "4",
+        "pages": "1–30",
+        "doi": "10.1257/pol.20170144",
+        "url": "https://doi.org/10.1257/pol.20170144",
         "verified": true,
         "note": ""
       }
@@ -23467,6 +24028,80 @@
         "url": "https://doi.org/10.1162/rest_a_00470",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "title": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "authors": [
+          "Ralf Martin",
+          "Mirabelle Muûls",
+          "Laure B. de Preux",
+          "Ulrich J. Wagner"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2482–2508",
+        "doi": "10.1257/aer.104.8.2482",
+        "url": "https://doi.org/10.1257/aer.104.8.2482",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Coase and Cap-and-Trade: Evidence on the Independence Property from the European Carbon Market",
+        "title": "Coase and Cap-and-Trade: Evidence on the Independence Property from the European Carbon Market",
+        "authors": [
+          "Aleksandar Zaklan"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "526–558",
+        "doi": "10.1257/pol.20210028",
+        "url": "https://doi.org/10.1257/pol.20210028",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.6.14",
+    "title": "欧洲污染物排放登记（EPER / E-PRTR / 工业排放门户）",
+    "links": [
+      {
+        "label": "EEA 工业排放门户",
+        "url": "https://industry.eea.europa.eu/"
+      }
+    ],
+    "summary": "欧盟设施层面的污染物排放登记：EPER 覆盖 2001 和 2004 年，2007 年起由 E-PRTR 取代，现整合为欧洲工业排放门户，记录大型工业设施向空气和水的排放。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "欧洲污染物排放登记（European Pollutant Emission Register，EPER）根据 2000 年欧盟决定建立，记录 2001 年和 2004 年约 1.2 万个大型工业设施向空气和水排放的 50 种污染物；2007 年起由欧洲污染物排放与转移登记（E-PRTR）取代，覆盖 65 类经济活动约 3 万个设施的 91 种污染物排放和废物转移，并延伸到欧洲经济区其他国家；2021 年后与工业排放指令数据整合为欧洲环境署的欧洲工业排放门户（Industrial Emissions Portal）。数据可免费下载。\n\n数据常用于识别欧洲工业设施的排放规模，例如在研究英国气候变化税时，用 EPER 排放数据确定工厂的排放强度。报告有排放门槛，小型设施不在范围内，排放量部分为估算值。",
+    "source": "欧洲环境署工业排放门户免费下载。",
+    "references": [
+      {
+        "raw": "The impact of a carbon tax on manufacturing: Evidence from microdata",
+        "title": "The impact of a carbon tax on manufacturing: Evidence from microdata",
+        "authors": [
+          "Ralf Martin",
+          "Laure B. de Preux",
+          "Ulrich J. Wagner"
+        ],
+        "year": 2014,
+        "journal": "Journal of Public Economics",
+        "volume": "117",
+        "issue": "",
+        "pages": "1–14",
+        "doi": "10.1016/j.jpubeco.2014.04.016",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.04.016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23541,6 +24176,81 @@
         "pages": "1921–1957",
         "doi": "10.1257/aer.20141529",
         "url": "https://doi.org/10.1257/aer.20141529",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.3",
+    "title": "欧洲能源交易所（EEX）碳配额与电力市场数据",
+    "links": [
+      {
+        "label": "EEX Market Data",
+        "url": "https://www.eex.com/en/market-data"
+      }
+    ],
+    "summary": "欧洲能源交易所发布的欧盟碳配额（EUA）一级拍卖和二级市场价格、欧洲电力与天然气期货价格，以及德国等国的发电透明度数据。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据",
+      "金融数据"
+    ],
+    "introduction": "欧洲能源交易所（European Energy Exchange，EEX）总部位于莱比锡，是欧洲主要的能源和碳交易平台，组织 EU ETS 的配额一级拍卖并交易 EUA 现货和期货，同时提供德国、法国等国电力和天然气的现货和期货市场，旗下 EPEX SPOT 运营日前和日内电力市场。EEX 网站公布结算价格、成交量和拍卖结果，其透明度平台曾发布德国按燃料划分的小时发电量。部分历史数据需购买数据服务。\n\n数据常用于研究碳价与电力、天然气市场的关系，例如分析碳价对欧洲天然气市场势力和电价的传导。完整的历史逐笔数据需付费，免费页面通常只提供近期价格。",
+    "source": "网站公开部分市场数据；历史数据需购买。",
+    "references": [
+      {
+        "raw": "Climate Change Policy and Its Effect on Market Power in the Gas Market",
+        "title": "Climate Change Policy and Its Effect on Market Power in the Gas Market",
+        "authors": [
+          "David M. Newbery"
+        ],
+        "year": 2008,
+        "journal": "Journal of the European Economic Association",
+        "volume": "6",
+        "issue": "4",
+        "pages": "727–751",
+        "doi": "10.1162/jeea.2008.6.4.727",
+        "url": "https://doi.org/10.1162/jeea.2008.6.4.727",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.4",
+    "title": "开放电力系统数据（Open Power System Data，OPSD）",
+    "links": [
+      {
+        "label": "OPSD",
+        "url": "https://open-power-system-data.org/"
+      }
+    ],
+    "summary": "欧洲开放数据平台，整理欧洲各国发电机组清单、可再生能源装机、逐时负荷、发电量和电价等时间序列，免费下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "开放电力系统数据（Open Power System Data，OPSD）由德国柏林工业大学、DIW、Neon 等机构合作建设，从各国输电系统运营商、监管机构和 ENTSO-E 等官方来源收集并清洗电力系统数据，提供欧洲常规电厂清单（机组位置、容量、燃料、投运年份）、可再生能源电厂清单、逐时负荷、风电和光伏发电及日前电价时间序列，并公开处理脚本和文档。\n\n数据常用于电力系统建模和欧洲能源政策研究，例如把 EU ETS 装置与电厂特征匹配，研究免费配额分配是否影响电厂的排放和运行决策。各国原始数据质量不一，部分序列在更新中被修订或停止。",
+    "source": "OPSD 网站免费下载。",
+    "references": [
+      {
+        "raw": "Coase and Cap-and-Trade: Evidence on the Independence Property from the European Carbon Market",
+        "title": "Coase and Cap-and-Trade: Evidence on the Independence Property from the European Carbon Market",
+        "authors": [
+          "Aleksandar Zaklan"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "526–558",
+        "doi": "10.1257/pol.20210028",
+        "url": "https://doi.org/10.1257/pol.20210028",
         "verified": true,
         "note": ""
       }
@@ -28510,6 +29220,24 @@
         "url": "https://doi.org/10.1086/739574",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Change Mitigation Policies: Aggregate and Distributional Effects",
+        "title": "Climate Change Mitigation Policies: Aggregate and Distributional Effects",
+        "authors": [
+          "Tiago Cavalcanti",
+          "Zeina Hasna",
+          "Cezar Santos"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "668",
+        "pages": "1341–1387",
+        "doi": "10.1093/ej/ueae113",
+        "url": "https://doi.org/10.1093/ej/ueae113",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29744,6 +30472,40 @@
         "url": "https://doi.org/10.1093/jeea/jvae030",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mitigating Disaster Risks in the Age of Climate Change",
+        "title": "Mitigating Disaster Risks in the Age of Climate Change",
+        "authors": [
+          "Harrison Hong",
+          "Neng Wang",
+          "Jinqiang Yang"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "5",
+        "pages": "1763–1802",
+        "doi": "10.3982/ECTA20442",
+        "url": "https://doi.org/10.3982/ECTA20442",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+        "title": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+        "authors": [
+          "Julius J. Andersson"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "4",
+        "pages": "1–30",
+        "doi": "10.1257/pol.20170144",
+        "url": "https://doi.org/10.1257/pol.20170144",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29983,6 +30745,22 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2016.05.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+        "title": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+        "authors": [
+          "Julius J. Andersson"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "4",
+        "pages": "1–30",
+        "doi": "10.1257/pol.20170144",
+        "url": "https://doi.org/10.1257/pol.20170144",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30070,6 +30848,25 @@
         "pages": "948–980",
         "doi": "10.1257/aer.103.2.948",
         "url": "https://doi.org/10.1257/aer.103.2.948",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "title": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "authors": [
+          "Ralf Martin",
+          "Mirabelle Muûls",
+          "Laure B. de Preux",
+          "Ulrich J. Wagner"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2482–2508",
+        "doi": "10.1257/aer.104.8.2482",
+        "url": "https://doi.org/10.1257/aer.104.8.2482",
         "verified": true,
         "note": ""
       }
@@ -30568,6 +31365,24 @@
         "pages": "877–908",
         "doi": "10.1257/aer.91.4.877",
         "url": "https://doi.org/10.1257/aer.91.4.877",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mitigating Disaster Risks in the Age of Climate Change",
+        "title": "Mitigating Disaster Risks in the Age of Climate Change",
+        "authors": [
+          "Harrison Hong",
+          "Neng Wang",
+          "Jinqiang Yang"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "5",
+        "pages": "1763–1802",
+        "doi": "10.3982/ECTA20442",
+        "url": "https://doi.org/10.3982/ECTA20442",
         "verified": true,
         "note": ""
       }
@@ -31097,6 +31912,46 @@
         "pages": "137–163",
         "doi": "10.1016/j.jeem.2015.06.002",
         "url": "https://doi.org/10.1016/j.jeem.2015.06.002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.28",
+    "title": "CIA《世界概况》（The World Factbook）",
+    "links": [
+      {
+        "label": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/"
+      }
+    ],
+    "summary": "美国中央情报局出版的各国地理、人口、政府、经济、能源和军事基本信息汇编，长期为免费的跨国参考资料。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "《世界概况》（The World Factbook）由美国中央情报局（CIA）自 1962 年起编制，1971 年起公开发行，每年更新约 266 个国家和地区的地理、人口、政府、经济（GDP、PPP 调整 GDP、产业结构、贸易）、能源、通信、交通和军事等信息，网页版可免费查询，历年版本有存档。CIA 网站显示该出版物已告别停更。\n\n数据常用于获取跨国基本统计，例如在气候-经济综合评估模型中用 PPP 调整 GDP 校准世界产出。数据多来自其他机构的二次汇编，引用时应注意版本年份。",
+    "source": "CIA 网站免费查阅（已停止更新）。",
+    "references": [
+      {
+        "raw": "Optimal Taxes on Fossil Fuel in General Equilibrium",
+        "title": "Optimal Taxes on Fossil Fuel in General Equilibrium",
+        "authors": [
+          "Mikhail Golosov",
+          "John Hassler",
+          "Per Krusell",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "1",
+        "pages": "41–88",
+        "doi": "10.3982/ECTA10217",
+        "url": "https://doi.org/10.3982/ECTA10217",
         "verified": true,
         "note": ""
       }
@@ -34008,6 +34863,23 @@
         "url": "https://doi.org/10.3982/ECTA20153",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Impact of Europe's Carbon Taxes",
+        "title": "The Macroeconomic Impact of Europe's Carbon Taxes",
+        "authors": [
+          "Gilbert E. Metcalf",
+          "James H. Stock"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "15",
+        "issue": "3",
+        "pages": "265–286",
+        "doi": "10.1257/mac.20210052",
+        "url": "https://doi.org/10.1257/mac.20210052",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -35784,6 +36656,25 @@
         "url": "https://doi.org/10.1093/jeea/jvae030",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Optimal Taxes on Fossil Fuel in General Equilibrium",
+        "title": "Optimal Taxes on Fossil Fuel in General Equilibrium",
+        "authors": [
+          "Mikhail Golosov",
+          "John Hassler",
+          "Per Krusell",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "1",
+        "pages": "41–88",
+        "doi": "10.3982/ECTA10217",
+        "url": "https://doi.org/10.3982/ECTA10217",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -35869,6 +36760,58 @@
         "pages": "",
         "doi": "10.1093/restud/rdag106",
         "url": "https://doi.org/10.1093/restud/rdag106",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "title": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme",
+        "authors": [
+          "Ralf Martin",
+          "Mirabelle Muûls",
+          "Laure B. de Preux",
+          "Ulrich J. Wagner"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2482–2508",
+        "doi": "10.1257/aer.104.8.2482",
+        "url": "https://doi.org/10.1257/aer.104.8.2482",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation",
+        "title": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation",
+        "authors": [
+          "Gregory Casey"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "1",
+        "pages": "192–228",
+        "doi": "10.1093/restud/rdad001",
+        "url": "https://doi.org/10.1093/restud/rdad001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Impact of Europe's Carbon Taxes",
+        "title": "The Macroeconomic Impact of Europe's Carbon Taxes",
+        "authors": [
+          "Gilbert E. Metcalf",
+          "James H. Stock"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "15",
+        "issue": "3",
+        "pages": "265–286",
+        "doi": "10.1257/mac.20210052",
+        "url": "https://doi.org/10.1257/mac.20210052",
         "verified": true,
         "note": ""
       }
@@ -36738,6 +37681,22 @@
         "url": "https://doi.org/10.1086/742713",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Coase and Cap-and-Trade: Evidence on the Independence Property from the European Carbon Market",
+        "title": "Coase and Cap-and-Trade: Evidence on the Independence Property from the European Carbon Market",
+        "authors": [
+          "Aleksandar Zaklan"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "526–558",
+        "doi": "10.1257/pol.20210028",
+        "url": "https://doi.org/10.1257/pol.20210028",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37129,6 +38088,78 @@
         "pages": "554–593",
         "doi": "10.1093/jeea/jvae030",
         "url": "https://doi.org/10.1093/jeea/jvae030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Policy and Directed Technological Change: Evidence from the European Carbon Market",
+        "title": "Environmental Policy and Directed Technological Change: Evidence from the European Carbon Market",
+        "authors": [
+          "Raphael Calel",
+          "Antoine Dechezleprêtre"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "98",
+        "issue": "1",
+        "pages": "173–191",
+        "doi": "10.1162/rest_a_00470",
+        "url": "https://doi.org/10.1162/rest_a_00470",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.3",
+    "title": "OECD 主要科技指标（MSTI）与研发统计",
+    "links": [
+      {
+        "label": "OECD MSTI",
+        "url": "https://www.oecd.org/en/data/datasets/main-science-and-technology-indicators.html"
+      }
+    ],
+    "summary": "OECD 发布的成员国和主要经济体研发支出、研发人员、专利和高技术贸易等科技指标，包括按部门划分的企业研发支出（BERD）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "主要科技指标（Main Science and Technology Indicators，MSTI）由 OECD 科技与创新局每半年发布，覆盖 OECD 成员国和中国、俄罗斯等主要非成员经济体自 1981 年以来的研发总支出（GERD）及其占 GDP 比重、按执行部门（企业、政府、高校）和资金来源划分的研发支出、研发人员、三方专利族和高技术产品贸易等约 90 项指标；分行业的企业研发支出（BERD）和政府研发预算（GBARD）另有专门数据库。数据可在 OECD 数据平台下载。\n\n数据常用于衡量国家层面的创新投入，例如校准定向技术变迁模型中的研发强度，或研究碳税对交通部门创新的影响。各国研发统计口径依据弗拉斯卡蒂手册，但调查方法和修订时间不同。",
+    "source": "OECD 数据平台免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation",
+        "title": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation",
+        "authors": [
+          "Gregory Casey"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "1",
+        "pages": "192–228",
+        "doi": "10.1093/restud/rdad001",
+        "url": "https://doi.org/10.1093/restud/rdad001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Driving innovation? Carbon tax effects in the Swedish transport sector",
+        "title": "Driving innovation? Carbon tax effects in the Swedish transport sector",
+        "authors": [
+          "Nils aus dem Moore",
+          "Johannes Brehm",
+          "Henri Gruhl"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "248",
+        "issue": "",
+        "pages": "105444",
+        "doi": "10.1016/j.jpubeco.2025.105444",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105444",
         "verified": true,
         "note": ""
       }
@@ -38836,6 +39867,24 @@
         "pages": "137–163",
         "doi": "10.1016/j.jeem.2015.06.002",
         "url": "https://doi.org/10.1016/j.jeem.2015.06.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change Mitigation Policies: Aggregate and Distributional Effects",
+        "title": "Climate Change Mitigation Policies: Aggregate and Distributional Effects",
+        "authors": [
+          "Tiago Cavalcanti",
+          "Zeina Hasna",
+          "Cezar Santos"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "668",
+        "pages": "1341–1387",
+        "doi": "10.1093/ej/ueae113",
+        "url": "https://doi.org/10.1093/ej/ueae113",
         "verified": true,
         "note": ""
       }
