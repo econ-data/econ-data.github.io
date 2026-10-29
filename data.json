@@ -256,6 +256,22 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2023.103079",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Higher education expansion and the rural–urban gap in secondary schooling and labor outcomes: Evidence from China's 1999 reform",
+        "title": "Higher education expansion and the rural–urban gap in secondary schooling and labor outcomes: Evidence from China's 1999 reform",
+        "authors": [
+          "Ruoming Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "181",
+        "issue": "",
+        "pages": "103721",
+        "doi": "10.1016/j.jdeveco.2026.103721",
+        "url": "https://doi.org/10.1016/j.jdeveco.2026.103721",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -418,6 +434,24 @@
         "pages": "1338–1381",
         "doi": "10.1257/aer.20200956",
         "url": "https://doi.org/10.1257/aer.20200956",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "title": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "authors": [
+          "Hongbin Li",
+          "James Liang",
+          "Binzhen Wu"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "60",
+        "issue": "1",
+        "pages": "289–325",
+        "doi": "10.3368/jhr.0421-11629r2",
+        "url": "https://doi.org/10.3368/jhr.0421-11629r2",
         "verified": true,
         "note": ""
       }
@@ -698,7 +732,26 @@
     ],
     "introduction": "城镇住户调查是国家统计局组织的城镇居民家庭收支调查，通过抽取住户并让其记账或定期访问，记录家庭收入、消费支出、人口与就业及住房等信息，是编制城镇居民收入和消费统计的基础。2012 年前后，城镇与农村住户调查整合为城乡一体的住户收支与生活状况调查，此后的统计口径和样本框与此前的分别调查不同。\n\n历史上被学术研究使用的城镇住户样本，通常来自特定年份、特定省市的整理版本，其覆盖地区、年份和变量定义因研究而异，常用于收入分配、消费与储蓄、劳动供给等研究。国家统计局公开发布的是分地区的汇总指标，而不是住户级记录。\n\n因为不同来源的同名文件可能并非同一版本，使用时应先确认来源、样本地区、年份和整理方法。",
     "source": "公开汇总指标可从国家统计局及相关统计资料中查阅。住户级微观样本的持有机构、开放范围与审批方式需针对具体版本核实；本目录不提供或认可来源不明的流传文件。",
-    "references": []
+    "references": [
+      {
+        "raw": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "title": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "authors": [
+          "Hongbin Li",
+          "James Liang",
+          "Binzhen Wu"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "60",
+        "issue": "1",
+        "pages": "289–325",
+        "doi": "10.3368/jhr.0421-11629r2",
+        "url": "https://doi.org/10.3368/jhr.0421-11629r2",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.2.6",
@@ -872,6 +925,24 @@
         "pages": "1341–1387",
         "doi": "10.1093/ej/ueae113",
         "url": "https://doi.org/10.1093/ej/ueae113",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "title": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "authors": [
+          "Hongbin Li",
+          "James Liang",
+          "Binzhen Wu"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "60",
+        "issue": "1",
+        "pages": "289–325",
+        "doi": "10.3368/jhr.0421-11629r2",
+        "url": "https://doi.org/10.3368/jhr.0421-11629r2",
         "verified": true,
         "note": ""
       }
@@ -2575,6 +2646,24 @@
         "pages": "172–188",
         "doi": "10.1016/j.jdeveco.2015.01.002",
         "url": "https://doi.org/10.1016/j.jdeveco.2015.01.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "title": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "authors": [
+          "Hongbin Li",
+          "James Liang",
+          "Binzhen Wu"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "60",
+        "issue": "1",
+        "pages": "289–325",
+        "doi": "10.3368/jhr.0421-11629r2",
+        "url": "https://doi.org/10.3368/jhr.0421-11629r2",
         "verified": true,
         "note": ""
       }
@@ -5642,6 +5731,41 @@
         "url": "https://doi.org/10.1093/qje/qjr041",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are High-Quality Schools Enough to Increase Achievement among the Poor? Evidence from the Harlem Children's Zone",
+        "title": "Are High-Quality Schools Enough to Increase Achievement among the Poor? Evidence from the Harlem Children's Zone",
+        "authors": [
+          "Will Dobbie",
+          "Roland G. Fryer Jr."
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "3",
+        "pages": "158–187",
+        "doi": "10.1257/app.3.3.158",
+        "url": "https://doi.org/10.1257/app.3.3.158",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Have College Completion Rates Declined? An Analysis of Changing Student Preparation and Collegiate Resources",
+        "title": "Why Have College Completion Rates Declined? An Analysis of Changing Student Preparation and Collegiate Resources",
+        "authors": [
+          "John Bound",
+          "Michael F. Lovenheim",
+          "Sarah Turner"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "2",
+        "issue": "3",
+        "pages": "129–157",
+        "doi": "10.1257/app.2.3.129",
+        "url": "https://doi.org/10.1257/app.2.3.129",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6924,6 +7048,74 @@
         "url": "https://doi.org/10.1086/723494",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "title": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "authors": [
+          "Zachary Bleemer",
+          "Basit Zafar"
+        ],
+        "year": 2018,
+        "journal": "Journal of Public Economics",
+        "volume": "157",
+        "issue": "",
+        "pages": "184–211",
+        "doi": "10.1016/j.jpubeco.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2017.11.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "title": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "115–160",
+        "doi": "10.1093/qje/qjab027",
+        "url": "https://doi.org/10.1093/qje/qjab027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "title": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "authors": [
+          "Raj Chetty",
+          "David J. Deming",
+          "John N. Friedman"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w31492",
+        "url": "https://doi.org/10.3386/w31492",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "title": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–22",
+        "doi": "10.1257/app.20200447",
+        "url": "https://doi.org/10.1257/app.20200447",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7212,6 +7404,43 @@
         "url": "https://doi.org/10.1162/003355398555577",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "title": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "authors": [
+          "Zachary Bleemer",
+          "Basit Zafar"
+        ],
+        "year": 2018,
+        "journal": "Journal of Public Economics",
+        "volume": "157",
+        "issue": "",
+        "pages": "184–211",
+        "doi": "10.1016/j.jpubeco.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2017.11.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez",
+          "Nicholas Turner",
+          "Danny Yagan"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "3",
+        "pages": "1567–1633",
+        "doi": "10.1093/qje/qjaa005",
+        "url": "https://doi.org/10.1093/qje/qjaa005",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7284,6 +7513,22 @@
         "pages": "2023–2073",
         "doi": "10.1086/740224",
         "url": "https://doi.org/10.1086/740224",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Liquid Housing Wealth on College Enrollment",
+        "title": "The Effect of Liquid Housing Wealth on College Enrollment",
+        "authors": [
+          "Michael F. Lovenheim"
+        ],
+        "year": 2011,
+        "journal": "Journal of Labor Economics",
+        "volume": "29",
+        "issue": "4",
+        "pages": "741–771",
+        "doi": "10.1086/660775",
+        "url": "https://doi.org/10.1086/660775",
         "verified": true,
         "note": ""
       }
@@ -8217,6 +8462,23 @@
         "url": "https://doi.org/10.1086/740224",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does federal financial aid affect college enrollment? Evidence from drug offenders and the Higher Education Act of 1998",
+        "title": "Does federal financial aid affect college enrollment? Evidence from drug offenders and the Higher Education Act of 1998",
+        "authors": [
+          "Michael F. Lovenheim",
+          "Emily G. Owens"
+        ],
+        "year": 2014,
+        "journal": "Journal of Urban Economics",
+        "volume": "81",
+        "issue": "",
+        "pages": "1–13",
+        "doi": "10.1016/j.jue.2014.01.005",
+        "url": "https://doi.org/10.1016/j.jue.2014.01.005",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8291,6 +8553,141 @@
         "pages": "253–284",
         "doi": "10.1162/003355398555577",
         "url": "https://doi.org/10.1162/003355398555577",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.24",
+    "title": "纽约联储消费者预期调查（Survey of Consumer Expectations，SCE）",
+    "links": [
+      {
+        "label": "NY Fed Survey of Consumer Expectations",
+        "url": "https://www.newyorkfed.org/microeconomics/sce"
+      }
+    ],
+    "summary": "纽约联储自 2013 年起按月开展的全国代表性轮换面板调查，记录家庭对通胀、收入、就业、消费和信贷的预期，并定期附加劳动力市场、消费、住房等专题模块。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "金融数据"
+    ],
+    "introduction": "消费者预期调查（Survey of Consumer Expectations，SCE）由纽约联邦储备银行微观经济研究中心于 2013 年正式推出，每月通过网络访问约 1,300 名户主，受访者最多在面板中停留 12 个月。核心问卷询问对通胀、房价、收入增长、失业和求职、消费支出和信贷可得性的点预期和概率分布；另有每年或每四个月一次的劳动力市场、家庭支出、信贷获取、住房等专题模块，研究者也可与纽约联储合作嵌入定制模块和信息实验。核心模块微观数据在纽约联储网站免费下载（有一定滞后），专题模块数据部分公开。\n\n数据常用于研究预期形成和信息对决策的影响，例如在 SCE 中嵌入关于大学回报和成本的信息实验，研究信息如何改变家长和青年的上大学意愿。样本为网络面板，低收入和低教育人群代表性相对较弱。",
+    "source": "纽约联储网站免费下载（核心模块）。",
+    "references": [
+      {
+        "raw": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "title": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "authors": [
+          "Zachary Bleemer",
+          "Basit Zafar"
+        ],
+        "year": 2018,
+        "journal": "Journal of Public Economics",
+        "volume": "157",
+        "issue": "",
+        "pages": "184–211",
+        "doi": "10.1016/j.jpubeco.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2017.11.002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.25",
+    "title": "美国各州失业保险季度工资记录（UI Wage Records：加州 EDD 等）",
+    "links": [
+      {
+        "label": "California EDD",
+        "url": "https://www.edd.ca.gov/"
+      }
+    ],
+    "summary": "各州劳动部门为管理失业保险收集的雇主季度报告，记录每名受雇者在每个雇主处的季度工资，研究者可通过与州机构签订协议，把教育等行政数据与收入逐人匹配。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "美国各州的失业保险（UI）制度要求雇主每季度向州劳动部门（如加州就业发展局 EDD、德州劳动力委员会 TWC）报告每名员工的社会保障号和当季工资，覆盖约 95% 的私人部门非农就业。原始记录不公开，研究者需与州机构签订数据共享协议，常经州教育研究中心或大学合作项目把学生记录与工资记录匹配；人口普查局的 LEHD 项目也以各州 UI 记录为基础构建全国雇主—雇员数据。记录通常只含工资和雇主行业、所在县，没有工时和职业。\n\n数据常用于研究教育的劳动力市场回报，例如把加州大学申请和录取记录与 EDD 工资记录匹配，研究取消平权录取对少数族裔学生收入的影响，或研究就读经济学专业的回报。自雇者、联邦雇员和离开本州就业者不在记录中。",
+    "source": "受限：与州劳动部门签订数据协议。",
+    "references": [
+      {
+        "raw": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "title": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "115–160",
+        "doi": "10.1093/qje/qjab027",
+        "url": "https://doi.org/10.1093/qje/qjab027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "title": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–22",
+        "doi": "10.1257/app.20200447",
+        "url": "https://doi.org/10.1257/app.20200447",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.26",
+    "title": "职位空缺与劳动力流动调查（Job Openings and Labor Turnover Survey，JOLTS）",
+    "links": [
+      {
+        "label": "BLS JOLTS",
+        "url": "https://www.bls.gov/jlt/"
+      }
+    ],
+    "summary": "美国劳工统计局按月发布的职位空缺、招聘、离职（辞职、裁员）数量和比率，按行业、地区和企业规模分组，2000 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "区域经济数据"
+    ],
+    "introduction": "职位空缺与劳动力流动调查（JOLTS）由美国劳工统计局（BLS）自 2000 年 12 月起每月对约 21,000 个非农企业和政府机构开展，统计月末职位空缺数、当月新雇佣数和离职数（分为辞职、裁员和其他离职），并发布按行业、四大区域、企业规模分组的数量和比率；2021 年起提供州级估计。数据在 BLS 网站免费下载。\n\n数据常用于衡量劳动力市场松紧，例如在简历审计实验中以职位空缺率作为背景变量，比较营利性和公立高校学历在劳动力市场上的价值。样本量有限，细分行业和州级估计误差较大。",
+    "source": "BLS 网站免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "The Value of Postsecondary Credentials in the Labor Market: An Experimental Study",
+        "title": "The Value of Postsecondary Credentials in the Labor Market: An Experimental Study",
+        "authors": [
+          "David J. Deming",
+          "Noam Yuchtman",
+          "Amira Abulafi",
+          "Claudia Goldin",
+          "Lawrence F. Katz"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "3",
+        "pages": "778–806",
+        "doi": "10.1257/aer.20141757",
+        "url": "https://doi.org/10.1257/aer.20141757",
         "verified": true,
         "note": ""
       }
@@ -12311,6 +12708,23 @@
         "url": "https://doi.org/10.1086/685597",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "title": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–22",
+        "doi": "10.1257/app.20200447",
+        "url": "https://doi.org/10.1257/app.20200447",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12392,6 +12806,44 @@
         "pages": "1593–1660",
         "doi": "10.1093/qje/qjr041",
         "url": "https://doi.org/10.1093/qje/qjr041",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez",
+          "Nicholas Turner",
+          "Danny Yagan"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "3",
+        "pages": "1567–1633",
+        "doi": "10.1093/qje/qjaa005",
+        "url": "https://doi.org/10.1093/qje/qjaa005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "title": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "authors": [
+          "Raj Chetty",
+          "David J. Deming",
+          "John N. Friedman"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w31492",
+        "url": "https://doi.org/10.3386/w31492",
         "verified": true,
         "note": ""
       }
@@ -30862,6 +31314,22 @@
         "url": "https://doi.org/10.1093/qje/qjaf023",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Liquid Housing Wealth on College Enrollment",
+        "title": "The Effect of Liquid Housing Wealth on College Enrollment",
+        "authors": [
+          "Michael F. Lovenheim"
+        ],
+        "year": 2011,
+        "journal": "Journal of Labor Economics",
+        "volume": "29",
+        "issue": "4",
+        "pages": "741–771",
+        "doi": "10.1086/660775",
+        "url": "https://doi.org/10.1086/660775",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32924,6 +33392,149 @@
         "url": "https://doi.org/10.1257/aer.104.3.991",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Value of Postsecondary Credentials in the Labor Market: An Experimental Study",
+        "title": "The Value of Postsecondary Credentials in the Labor Market: An Experimental Study",
+        "authors": [
+          "David J. Deming",
+          "Noam Yuchtman",
+          "Amira Abulafi",
+          "Claudia Goldin",
+          "Lawrence F. Katz"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "3",
+        "pages": "778–806",
+        "doi": "10.1257/aer.20141757",
+        "url": "https://doi.org/10.1257/aer.20141757",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Have College Completion Rates Declined? An Analysis of Changing Student Preparation and Collegiate Resources",
+        "title": "Why Have College Completion Rates Declined? An Analysis of Changing Student Preparation and Collegiate Resources",
+        "authors": [
+          "John Bound",
+          "Michael F. Lovenheim",
+          "Sarah Turner"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "2",
+        "issue": "3",
+        "pages": "129–157",
+        "doi": "10.1257/app.2.3.129",
+        "url": "https://doi.org/10.1257/app.2.3.129",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "title": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "authors": [
+          "Zachary Bleemer",
+          "Basit Zafar"
+        ],
+        "year": 2018,
+        "journal": "Journal of Public Economics",
+        "volume": "157",
+        "issue": "",
+        "pages": "184–211",
+        "doi": "10.1016/j.jpubeco.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2017.11.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez",
+          "Nicholas Turner",
+          "Danny Yagan"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "3",
+        "pages": "1567–1633",
+        "doi": "10.1093/qje/qjaa005",
+        "url": "https://doi.org/10.1093/qje/qjaa005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "title": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "115–160",
+        "doi": "10.1093/qje/qjab027",
+        "url": "https://doi.org/10.1093/qje/qjab027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "title": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "authors": [
+          "Raj Chetty",
+          "David J. Deming",
+          "John N. Friedman"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w31492",
+        "url": "https://doi.org/10.3386/w31492",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "title": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–22",
+        "doi": "10.1257/app.20200447",
+        "url": "https://doi.org/10.1257/app.20200447",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "title": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "authors": [
+          "Andrew Barr",
+          "Benjamin Castleman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "11",
+        "pages": "4075–4103",
+        "doi": "10.1257/aer.20240669",
+        "url": "https://doi.org/10.1257/aer.20240669",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33269,6 +33880,43 @@
         "url": "https://doi.org/10.3368/jhr.51.1.200",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "title": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "authors": [
+          "Raj Chetty",
+          "David J. Deming",
+          "John N. Friedman"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w31492",
+        "url": "https://doi.org/10.3386/w31492",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Returns to College Major Choice: Average and Distributional Effects, Career Trajectories, and Earnings Variability",
+        "title": "The Returns to College Major Choice: Average and Distributional Effects, Career Trajectories, and Earnings Variability",
+        "authors": [
+          "Rodney J. Andrews",
+          "Scott A. Imberman",
+          "Michael F. Lovenheim",
+          "Kevin Stange"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–15",
+        "doi": "10.1162/rest_a_01503",
+        "url": "https://doi.org/10.1162/rest_a_01503",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33328,6 +33976,72 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w31553",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "title": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "115–160",
+        "doi": "10.1093/qje/qjab027",
+        "url": "https://doi.org/10.1093/qje/qjab027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative action and its race-neutral alternatives",
+        "title": "Affirmative action and its race-neutral alternatives",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "220",
+        "issue": "",
+        "pages": "104839",
+        "doi": "10.1016/j.jpubeco.2023.104839",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104839",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "title": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–22",
+        "doi": "10.1257/app.20200447",
+        "url": "https://doi.org/10.1257/app.20200447",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "title": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "authors": [
+          "Andrew Barr",
+          "Benjamin Castleman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "11",
+        "pages": "4075–4103",
+        "doi": "10.1257/aer.20240669",
+        "url": "https://doi.org/10.1257/aer.20240669",
         "verified": true,
         "note": ""
       }
@@ -33422,6 +34136,23 @@
         "url": "https://doi.org/10.1162/qjec.2008.123.4.1373",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are High-Quality Schools Enough to Increase Achievement among the Poor? Evidence from the Harlem Children's Zone",
+        "title": "Are High-Quality Schools Enough to Increase Achievement among the Poor? Evidence from the Harlem Children's Zone",
+        "authors": [
+          "Will Dobbie",
+          "Roland G. Fryer Jr."
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "3",
+        "pages": "158–187",
+        "doi": "10.1257/app.3.3.158",
+        "url": "https://doi.org/10.1257/app.3.3.158",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33505,6 +34236,38 @@
         "pages": "588–638",
         "doi": "10.1086/522381",
         "url": "https://doi.org/10.1086/522381",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "title": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "115–160",
+        "doi": "10.1093/qje/qjab027",
+        "url": "https://doi.org/10.1093/qje/qjab027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative action and its race-neutral alternatives",
+        "title": "Affirmative action and its race-neutral alternatives",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "220",
+        "issue": "",
+        "pages": "104839",
+        "doi": "10.1016/j.jpubeco.2023.104839",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104839",
         "verified": true,
         "note": ""
       }
@@ -33679,6 +34442,547 @@
         "url": "https://doi.org/10.1257/aer.104.3.991",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez",
+          "Nicholas Turner",
+          "Danny Yagan"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "3",
+        "pages": "1567–1633",
+        "doi": "10.1093/qje/qjaa005",
+        "url": "https://doi.org/10.1093/qje/qjaa005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "title": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "authors": [
+          "Andrew Barr",
+          "Benjamin Castleman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "11",
+        "pages": "4075–4103",
+        "doi": "10.1257/aer.20240669",
+        "url": "https://doi.org/10.1257/aer.20240669",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.17",
+    "title": "NCES 中学纵向追踪调查（NLS-72、HS&B、NELS:88、ELS:2002、HSLS:09）",
+    "links": [
+      {
+        "label": "NCES NELS:88",
+        "url": "https://nces.ed.gov/surveys/nels88/"
+      },
+      {
+        "label": "NCES NLS-72",
+        "url": "https://nces.ed.gov/surveys/nls72/"
+      },
+      {
+        "label": "NCES ELS:2002",
+        "url": "https://nces.ed.gov/surveys/els2002/"
+      }
+    ],
+    "summary": "美国国家教育统计中心对全国代表性中学生队列的系列纵向追踪调查，从高中阶段追踪到成年，记录考试成绩、家庭背景、学校特征、高校入学和就业。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "美国国家教育统计中心（NCES）开展了一系列中学生队列纵向研究：1972 届高中毕业生全国纵向研究（NLS-72）、高中及以后（High School and Beyond，HS&B，1980 年高二和高三学生）、1988 年全国教育纵向研究（NELS:88，八年级学生，追踪至 2000 年）、2002 年教育纵向研究（ELS:2002，高二学生）和 2009 年高中纵向研究（HSLS:09，九年级学生）。各调查包含学生认知测试、学生和家长问卷、教师和学校管理者问卷、高中成绩单，以及高中后的大学申请、入学、学位和就业追访。公开使用版可在 NCES 网站免费下载，含学校标识和详细地理信息的受限版需申请 NCES 受限数据许可。\n\n数据常用于研究学校类型、学生准备和高校资源对教育结果的影响，例如用 NELS:88 研究天主教学校对高中毕业和上大学的效果，或比较 NLS-72 和 NELS:88 两代学生解释大学完成率下降的原因。各队列问卷和测试设计不同，跨队列比较需统一口径。",
+    "source": "NCES 网站免费下载（公开版）；受限版需申请许可。",
+    "references": [
+      {
+        "raw": "Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools",
+        "title": "Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools",
+        "authors": [
+          "Joseph G. Altonji",
+          "Todd E. Elder",
+          "Christopher R. Taber"
+        ],
+        "year": 2005,
+        "journal": "Journal of Political Economy",
+        "volume": "113",
+        "issue": "1",
+        "pages": "151–184",
+        "doi": "10.1086/426036",
+        "url": "https://doi.org/10.1086/426036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Have College Completion Rates Declined? An Analysis of Changing Student Preparation and Collegiate Resources",
+        "title": "Why Have College Completion Rates Declined? An Analysis of Changing Student Preparation and Collegiate Resources",
+        "authors": [
+          "John Bound",
+          "Michael F. Lovenheim",
+          "Sarah Turner"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "2",
+        "issue": "3",
+        "pages": "129–157",
+        "doi": "10.1257/app.2.3.129",
+        "url": "https://doi.org/10.1257/app.2.3.129",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.18",
+    "title": "NCES 全国高等教育学生资助研究（National Postsecondary Student Aid Study，NPSAS）",
+    "links": [
+      {
+        "label": "NCES NPSAS",
+        "url": "https://nces.ed.gov/surveys/npsas/"
+      }
+    ],
+    "summary": "美国国家教育统计中心约每四年开展一次的全国代表性大学生调查，结合学生访谈、院校记录和联邦资助记录，记录学生如何支付高等教育费用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "NPSAS 由美国国家教育统计中心（NCES）自 1987 年起约每三到四年开展一次，抽取各类高校（公立、私立非营利、营利性，两年制和四年制）的本科生和研究生，合并学生访谈、院校学籍和财务记录，以及教育部的联邦学生资助记录（NSLDS、FAFSA），记录学生特征、学费和生活费、各类助学金和贷款、勤工俭学和就业。汇总统计可通过 NCES DataLab（PowerStats）在线免费分析，学生层面微观数据需申请 NCES 受限数据许可。NPSAS 也是 BPS、B&B 等后续纵向研究的抽样基础。\n\n数据常用于研究学生资助和高校类型差异，例如描述营利性高校学生的人口特征。在线工具只能生成汇总表，复杂分析需申请受限数据。",
+    "source": "NCES DataLab 在线分析；微观数据需申请受限许可。",
+    "references": [
+      {
+        "raw": "The Value of Postsecondary Credentials in the Labor Market: An Experimental Study",
+        "title": "The Value of Postsecondary Credentials in the Labor Market: An Experimental Study",
+        "authors": [
+          "David J. Deming",
+          "Noam Yuchtman",
+          "Amira Abulafi",
+          "Claudia Goldin",
+          "Lawrence F. Katz"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "3",
+        "pages": "778–806",
+        "doi": "10.1257/aer.20141757",
+        "url": "https://doi.org/10.1257/aer.20141757",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.19",
+    "title": "大学记分卡（College Scorecard）",
+    "links": [
+      {
+        "label": "College Scorecard Data",
+        "url": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "summary": "美国教育部发布的高校和专业层面数据库，汇集学费、净价格、录取率、毕业率、学生贷款和还款率，以及基于税收记录的毕业生收入，1996 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "大学记分卡（College Scorecard）由美国教育部于 2015 年推出，整合 IPEDS 院校数据、联邦学生资助数据（NSLDS）和财政部税收记录，提供各高校及其专业的学生构成、录取率、学费和平均净价格、完成率、联邦贷款债务、还款和违约率，以及入学后若干年的毕业生收入分布。院校层面数据可回溯到 1996—97 学年，专业层面数据从 2010 年代中期开始。数据在官网免费下载并提供 API。\n\n数据常用于比较高校质量和回报，例如在评估低收入学生升学辅导项目时，用院校的毕业率和收入衡量学生就读高校的质量。收入和贷款指标只覆盖接受联邦资助的学生，小院校和小专业因隐私保护会被隐去。",
+    "source": "官网免费下载与 API。",
+    "references": [
+      {
+        "raw": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez",
+          "Nicholas Turner",
+          "Danny Yagan"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "3",
+        "pages": "1567–1633",
+        "doi": "10.1093/qje/qjaa005",
+        "url": "https://doi.org/10.1093/qje/qjaa005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "title": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "authors": [
+          "Andrew Barr",
+          "Benjamin Castleman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "11",
+        "pages": "4075–4103",
+        "doi": "10.1257/aer.20240669",
+        "url": "https://doi.org/10.1257/aer.20240669",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.20",
+    "title": "Opportunity Insights 高校代际流动报告卡（Mobility Report Cards）",
+    "links": [
+      {
+        "label": "Opportunity Insights Data Library",
+        "url": "https://opportunityinsights.org/data/"
+      }
+    ],
+    "summary": "Chetty 等基于联邦税收记录构建的美国约 2,200 所高校学生家庭收入分布和毕业生成年收入数据，按高校和出生队列公开。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "区域经济数据"
+    ],
+    "introduction": "高校代际流动报告卡（Mobility Report Cards）由 Opportunity Insights（哈佛大学 Chetty、Friedman 等团队）构建，用 1980—1991 年出生队列的联邦税收记录、1098-T 学费申报和佩尔助学金记录，按高校统计学生父母的收入分位分布以及学生 30 岁出头时的收入分布，计算每所高校的“流动率”（低收入家庭学生进入收入前 20% 的比例）等指标；另有高选择性高校的申请和录取统计。院校层面汇总数据在 Opportunity Insights 网站免费下载。\n\n数据常用于研究高校的代际流动作用，例如比较不同高校的家庭收入隔离程度和毕业生收入，或作为院校质量指标评估升学辅导项目。数据是汇总统计，个体层面的税收记录不公开。",
+    "source": "Opportunity Insights 网站免费下载。",
+    "references": [
+      {
+        "raw": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez",
+          "Nicholas Turner",
+          "Danny Yagan"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "3",
+        "pages": "1567–1633",
+        "doi": "10.1093/qje/qjaa005",
+        "url": "https://doi.org/10.1093/qje/qjaa005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "title": "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality",
+        "authors": [
+          "Andrew Barr",
+          "Benjamin Castleman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "11",
+        "pages": "4075–4103",
+        "doi": "10.1257/aer.20240669",
+        "url": "https://doi.org/10.1257/aer.20240669",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.21",
+    "title": "国家学生贷款数据系统与联邦学生资助数据（NSLDS / FSA Data Center）",
+    "links": [
+      {
+        "label": "FSA Data Center",
+        "url": "https://studentaid.gov/data-center"
+      }
+    ],
+    "summary": "美国教育部联邦学生资助办公室管理的佩尔助学金和联邦学生贷款记录系统；个体记录受限，按院校和项目的汇总统计在 FSA 数据中心公开。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "金融数据"
+    ],
+    "introduction": "国家学生贷款数据系统（National Student Loan Data System，NSLDS）是美国教育部联邦学生资助办公室（FSA）的中央数据库，记录每名学生获得的佩尔助学金（Pell Grant）、联邦直接贷款和其他第四章（Title IV）资助的发放、还款、违约状态及就读院校。个体层面记录只能通过与教育部的数据协议或政府内部研究项目使用；FSA 数据中心（Data Center）免费公开按院校、州和项目汇总的发放金额、贷款组合和违约率统计。\n\n数据常用于识别低收入学生和研究学生资助，例如用佩尔助学金记录衡量各高校低收入学生比例，研究高校之间的收入隔离和代际流动。个体数据只覆盖申请联邦资助的学生。",
+    "source": "汇总数据在 FSA 数据中心免费下载；个体记录受限。",
+    "references": [
+      {
+        "raw": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez",
+          "Nicholas Turner",
+          "Danny Yagan"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "3",
+        "pages": "1567–1633",
+        "doi": "10.1093/qje/qjaa005",
+        "url": "https://doi.org/10.1093/qje/qjaa005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "title": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "authors": [
+          "Raj Chetty",
+          "David J. Deming",
+          "John N. Friedman"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w31492",
+        "url": "https://doi.org/10.3386/w31492",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.22",
+    "title": "大学理事会数据（SAT 考生数据库、年度院校调查与 Trends 报告）",
+    "links": [
+      {
+        "label": "College Board Research: Trends",
+        "url": "https://research.collegeboard.org/trends"
+      }
+    ],
+    "summary": "大学理事会保存的 SAT 等考试的考生成绩和问卷记录（受限），以及其年度院校调查形成的学费和学生资助趋势报告（公开）。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "大学理事会（College Board）是组织 SAT、AP 等考试的非营利机构。其考生数据库记录每名考生的考试成绩、所在高中、考生问卷（种族、家庭收入、父母教育、意向专业）以及成绩寄送的高校，研究者需与大学理事会签订数据协议使用。大学理事会还每年开展院校调查（Annual Survey of Colleges），据此发布《Trends in College Pricing》和《Trends in Student Aid》报告，提供各类高校的公布学费、净价格和各类资助总额，报告和数据表免费下载。\n\n数据常用于研究高校录取和学生选择，例如用加州 SAT 考生数据研究取消平权录取后少数族裔学生的申请和录取，用 SAT/ACT 成绩比较高选择性高校的录取标准，或用 Trends 报告校准大学成本。考生数据只覆盖参加 SAT 的学生，在 ACT 为主的州代表性较低。",
+    "source": "考生数据受限（协议）；Trends 报告免费下载。",
+    "references": [
+      {
+        "raw": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "title": "Intended college attendance: Evidence from an experiment on college returns and costs",
+        "authors": [
+          "Zachary Bleemer",
+          "Basit Zafar"
+        ],
+        "year": 2018,
+        "journal": "Journal of Public Economics",
+        "volume": "157",
+        "issue": "",
+        "pages": "184–211",
+        "doi": "10.1016/j.jpubeco.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2017.11.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "title": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "115–160",
+        "doi": "10.1093/qje/qjab027",
+        "url": "https://doi.org/10.1093/qje/qjab027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative action and its race-neutral alternatives",
+        "title": "Affirmative action and its race-neutral alternatives",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "220",
+        "issue": "",
+        "pages": "104839",
+        "doi": "10.1016/j.jpubeco.2023.104839",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104839",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "title": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "authors": [
+          "Raj Chetty",
+          "David J. Deming",
+          "John N. Friedman"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w31492",
+        "url": "https://doi.org/10.3386/w31492",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.23",
+    "title": "加州大学申请、录取与学生记录（UCOP 行政数据库、UC-CHP、UCUES）",
+    "links": [
+      {
+        "label": "UC Information Center",
+        "url": "https://www.universityofcalifornia.edu/about-us/information-center"
+      },
+      {
+        "label": "SERU Consortium",
+        "url": "https://cshe.berkeley.edu/seru"
+      }
+    ],
+    "summary": "加州大学总校办公室保存的全部校区新生申请、录取、入学和成绩单行政记录，以及校史计量项目和本科生体验调查，研究者需申请使用；部分汇总统计在 UC 信息中心公开。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "加州大学总校办公室（UCOP）保存 1990 年代以来各校区新生和转学生的申请、录取、入学、专业、成绩和毕业记录，包含 SAT 成绩、高中 GPA、家庭背景以及“本地前列资格”（ELC）等录取项目信息。加州大学计量历史项目（UC ClioMetric History Project）整理了各校区数十年的学生注册和成绩单记录；加州大学本科生体验调查（UCUES，属 SERU 联盟）定期调查在校生的学习和生活。个体数据受限，需经 UCOP 或校区机构研究办公室审批；按校区、种族和高中的申请录取汇总统计在 UC 信息中心免费公开。\n\n数据常用于研究高校录取政策，例如研究加州 209 号提案取消平权录取后少数族裔学生的入学、专业和收入，评估种族中立的替代录取政策，或用经济学专业的 GPA 门槛研究专业回报。",
+    "source": "个体数据受限（UCOP 或校区审批）；汇总统计 UC 信息中心公开。",
+    "references": [
+      {
+        "raw": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "title": "Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "115–160",
+        "doi": "10.1093/qje/qjab027",
+        "url": "https://doi.org/10.1093/qje/qjab027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affirmative action and its race-neutral alternatives",
+        "title": "Affirmative action and its race-neutral alternatives",
+        "authors": [
+          "Zachary Bleemer"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "220",
+        "issue": "",
+        "pages": "104839",
+        "doi": "10.1016/j.jpubeco.2023.104839",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104839",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "title": "Diversifying Society's Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
+        "authors": [
+          "Raj Chetty",
+          "David J. Deming",
+          "John N. Friedman"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w31492",
+        "url": "https://doi.org/10.3386/w31492",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "title": "Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "2",
+        "pages": "1–22",
+        "doi": "10.1257/app.20200447",
+        "url": "https://doi.org/10.1257/app.20200447",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.24",
+    "title": "U.S. News 美国大学排名（Best Colleges）",
+    "links": [
+      {
+        "label": "U.S. News Best Colleges",
+        "url": "https://www.usnews.com/best-colleges"
+      }
+    ],
+    "summary": "《美国新闻与世界报道》自 1983 年起每年发布的美国高校排名，以及排名所用的录取、师资、毕业率、财务资源等院校指标。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "U.S. News & World Report 的 Best Colleges 排名自 1983 年起发布，1988 年起每年更新，按全国性大学、文理学院、地区性大学等类别排序，评分指标包括毕业率和保留率、同行评价、师资资源、录取学生的考试成绩和高中排名、生均财务资源和校友捐赠等。排名在网站免费查看，详细院校数据需订阅 College Compass；历年排名多由研究者从纸质版和网页存档中整理。\n\n数据常用于衡量院校声望和质量，例如按 2005 年排名划分高校档次，研究大学完成率下降在不同类型院校间的差异。排名方法多次调整，历年名次不完全可比。",
+    "source": "网站免费查看；详细数据需订阅。",
+    "references": [
+      {
+        "raw": "Why Have College Completion Rates Declined? An Analysis of Changing Student Preparation and Collegiate Resources",
+        "title": "Why Have College Completion Rates Declined? An Analysis of Changing Student Preparation and Collegiate Resources",
+        "authors": [
+          "John Bound",
+          "Michael F. Lovenheim",
+          "Sarah Turner"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "2",
+        "issue": "3",
+        "pages": "129–157",
+        "doi": "10.1257/app.2.3.129",
+        "url": "https://doi.org/10.1257/app.2.3.129",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33834,6 +35138,24 @@
         "pages": "833–841",
         "doi": "10.1162/rest_a_01422",
         "url": "https://doi.org/10.1162/rest_a_01422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Field of Study, Earnings, and Self-Selection",
+        "title": "Field of Study, Earnings, and Self-Selection",
+        "authors": [
+          "Lars J. Kirkebøen",
+          "Edwin Leuven",
+          "Magne Mogstad"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1057–1111",
+        "doi": "10.1093/qje/qjw019",
+        "url": "https://doi.org/10.1093/qje/qjw019",
         "verified": true,
         "note": ""
       }
@@ -37748,6 +39070,79 @@
         "pages": "105722",
         "doi": "10.1016/j.jpubeco.2026.105722",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105722",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.16.1",
+    "title": "法国教育部学生行政数据（BEA 学籍库、SISE 高校学生库、OCEAN 考试成绩）",
+    "links": [
+      {
+        "label": "CASD 安全数据访问中心",
+        "url": "https://www.casd.eu/"
+      }
+    ],
+    "summary": "法国国民教育部和高等教育部的学生层面行政数据，包括各学区中学学籍、全国统一考试（初中毕业证书、高中会考）成绩和高校注册与学位记录，研究者经申请通过安全访问平台使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "法国国民教育部评估、预测与绩效司（DEPP）和高等教育与研究部统计机构（SIES）管理多套学生行政数据：学区学生库（Bases Élèves Académiques，BEA）记录中学生每年的就读学校、年级和方向；OCEAN（Organisation des Concours et Examens Académiques et Nationaux）记录初中毕业证书（DNB）和高中会考（baccalauréat）的各科成绩；高校学生跟踪信息系统（SISE）记录公立高校学生的注册、专业和学位。数据可用匿名学生号匹配，研究者需经法国统计保密委员会批准，通过安全数据访问中心（CASD）远程使用。\n\n数据常用于研究法国教育政策，例如在巴黎大区高中开展女性科学家榜样随机实验后，用学籍和高校注册记录追踪女生选择理工科方向和专业的变化。数据访问审批周期较长，外国研究者通常需与法国机构合作。",
+    "source": "受限：经统计保密委员会批准，通过 CASD 访问（官方页面对自动访问返回 403，链接经搜索确认）。",
+    "references": [
+      {
+        "raw": "How Effective are Female Role Models in Steering Girls Towards STEM? Evidence from French High Schools",
+        "title": "How Effective are Female Role Models in Steering Girls Towards STEM? Evidence from French High Schools",
+        "authors": [
+          "Thomas Breda",
+          "Julien Grenet",
+          "Marion Monnet",
+          "Clémentine Van Effenterre"
+        ],
+        "year": 2023,
+        "journal": "The Economic Journal",
+        "volume": "133",
+        "issue": "653",
+        "pages": "1773–1809",
+        "doi": "10.1093/ej/uead019",
+        "url": "https://doi.org/10.1093/ej/uead019",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.16.2",
+    "title": "罗马尼亚高中录取与会考行政数据",
+    "links": [],
+    "summary": "罗马尼亚教育部全国统一高中录取（按过渡考试分数和志愿分配学校）与高中毕业会考（Baccalaureate）的学生层面成绩记录。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "罗马尼亚实行全国集中的高中录取制度：学生根据初中毕业考试和平时成绩合成的“过渡分数”（transition score）填报学校和专业志愿，由教育部按分数从高到低依次分配，形成精确的录取分数线。教育部保存每名学生的分数、志愿和录取结果，以及高中毕业会考（Baccalaureate）的各科成绩和通过情况。会考成绩曾在教育部网站按学生公布，详细录取记录需向教育部申请。\n\n数据常用于利用录取分数线做断点回归，例如研究进入更好的高中对会考成绩的影响，以及学生、家长和教师的行为反应。不同年份公开程度不同，具体获取方式需向教育部核实。",
+    "source": "受限：向罗马尼亚教育部申请（获取方式待核实）。",
+    "references": [
+      {
+        "raw": "Going to a Better School: Effects and Behavioral Responses",
+        "title": "Going to a Better School: Effects and Behavioral Responses",
+        "authors": [
+          "Cristian Pop-Eleches",
+          "Miguel Urquiola"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "4",
+        "pages": "1289–1324",
+        "doi": "10.1257/aer.103.4.1289",
+        "url": "https://doi.org/10.1257/aer.103.4.1289",
         "verified": true,
         "note": ""
       }
@@ -47685,6 +49080,24 @@
         "pages": "554–593",
         "doi": "10.1093/jeea/jvae030",
         "url": "https://doi.org/10.1093/jeea/jvae030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "title": "Labor Market Experience and Returns to College Education in Fast-Growing Economies",
+        "authors": [
+          "Hongbin Li",
+          "James Liang",
+          "Binzhen Wu"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "60",
+        "issue": "1",
+        "pages": "289–325",
+        "doi": "10.3368/jhr.0421-11629r2",
+        "url": "https://doi.org/10.3368/jhr.0421-11629r2",
         "verified": true,
         "note": ""
       }
