@@ -5819,6 +5819,42 @@
         "url": "https://doi.org/10.1257/app.20170300",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood",
+        "title": "Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Jonah E. Rockoff"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "9",
+        "pages": "2633–2679",
+        "doi": "10.1257/aer.104.9.2633",
+        "url": "https://doi.org/10.1257/aer.104.9.2633",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Teachers and Student Achievement in the Chicago Public High Schools",
+        "title": "Teachers and Student Achievement in the Chicago Public High Schools",
+        "authors": [
+          "Daniel Aaronson",
+          "Lisa Barrow",
+          "William Sander"
+        ],
+        "year": 2007,
+        "journal": "Journal of Labor Economics",
+        "volume": "25",
+        "issue": "1",
+        "pages": "95–135",
+        "doi": "10.1086/508733",
+        "url": "https://doi.org/10.1086/508733",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8564,6 +8600,23 @@
         "pages": "318–350",
         "doi": "10.1257/app.20170300",
         "url": "https://doi.org/10.1257/app.20170300",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On the Specification and Estimation of the Production Function for Cognitive Achievement",
+        "title": "On the Specification and Estimation of the Production Function for Cognitive Achievement",
+        "authors": [
+          "Petra E. Todd",
+          "Kenneth I. Wolpin"
+        ],
+        "year": 2003,
+        "journal": "The Economic Journal",
+        "volume": "113",
+        "issue": "485",
+        "pages": "F3–F33",
+        "doi": "10.1111/1468-0297.00097",
+        "url": "https://doi.org/10.1111/1468-0297.00097",
         "verified": true,
         "note": ""
       }
@@ -11341,6 +11394,22 @@
         "url": "https://doi.org/10.1093/qje/qjaf013",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Teachers' Unions on Education Production: Evidence from Union Election Certifications in Three Midwestern States",
+        "title": "The Effect of Teachers' Unions on Education Production: Evidence from Union Election Certifications in Three Midwestern States",
+        "authors": [
+          "Michael F. Lovenheim"
+        ],
+        "year": 2009,
+        "journal": "Journal of Labor Economics",
+        "volume": "27",
+        "issue": "4",
+        "pages": "525–587",
+        "doi": "10.1086/605653",
+        "url": "https://doi.org/10.1086/605653",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13003,6 +13072,42 @@
         "pages": "",
         "doi": "10.3386/w31492",
         "url": "https://doi.org/10.3386/w31492",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Impacts of Teachers I: Evaluating Bias in Teacher Value-Added Estimates",
+        "title": "Measuring the Impacts of Teachers I: Evaluating Bias in Teacher Value-Added Estimates",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Jonah E. Rockoff"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "9",
+        "pages": "2593–2632",
+        "doi": "10.1257/aer.104.9.2593",
+        "url": "https://doi.org/10.1257/aer.104.9.2593",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood",
+        "title": "Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Jonah E. Rockoff"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "9",
+        "pages": "2633–2679",
+        "doi": "10.1257/aer.104.9.2633",
+        "url": "https://doi.org/10.1257/aer.104.9.2633",
         "verified": true,
         "note": ""
       }
@@ -33953,6 +34058,24 @@
         "url": "https://doi.org/10.1093/qje/qjaf013",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Teachers and Student Achievement in the Chicago Public High Schools",
+        "title": "Teachers and Student Achievement in the Chicago Public High Schools",
+        "authors": [
+          "Daniel Aaronson",
+          "Lisa Barrow",
+          "William Sander"
+        ],
+        "year": 2007,
+        "journal": "Journal of Labor Economics",
+        "volume": "25",
+        "issue": "1",
+        "pages": "95–135",
+        "doi": "10.1086/508733",
+        "url": "https://doi.org/10.1086/508733",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34235,6 +34358,24 @@
         "url": "https://doi.org/10.1162/rest_a_01503",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Teachers, Schools, and Academic Achievement",
+        "title": "Teachers, Schools, and Academic Achievement",
+        "authors": [
+          "Steven G. Rivkin",
+          "Eric A. Hanushek",
+          "John F. Kain"
+        ],
+        "year": 2005,
+        "journal": "Econometrica",
+        "volume": "73",
+        "issue": "2",
+        "pages": "417–458",
+        "doi": "10.1111/j.1468-0262.2005.00584.x",
+        "url": "https://doi.org/10.1111/j.1468-0262.2005.00584.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34469,6 +34610,76 @@
         "pages": "158–187",
         "doi": "10.1257/app.3.3.158",
         "url": "https://doi.org/10.1257/app.3.3.158",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Impacts of Teachers I: Evaluating Bias in Teacher Value-Added Estimates",
+        "title": "Measuring the Impacts of Teachers I: Evaluating Bias in Teacher Value-Added Estimates",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Jonah E. Rockoff"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "9",
+        "pages": "2593–2632",
+        "doi": "10.1257/aer.104.9.2593",
+        "url": "https://doi.org/10.1257/aer.104.9.2593",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood",
+        "title": "Measuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Jonah E. Rockoff"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "9",
+        "pages": "2633–2679",
+        "doi": "10.1257/aer.104.9.2633",
+        "url": "https://doi.org/10.1257/aer.104.9.2633",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Individual Teachers on Student Achievement: Evidence from Panel Data",
+        "title": "The Impact of Individual Teachers on Student Achievement: Evidence from Panel Data",
+        "authors": [
+          "Jonah E. Rockoff"
+        ],
+        "year": 2004,
+        "journal": "American Economic Review (Papers and Proceedings)",
+        "volume": "94",
+        "issue": "2",
+        "pages": "247–252",
+        "doi": "10.1257/0002828041302244",
+        "url": "https://doi.org/10.1257/0002828041302244",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Teachers and Student Achievement in the Chicago Public High Schools",
+        "title": "Teachers and Student Achievement in the Chicago Public High Schools",
+        "authors": [
+          "Daniel Aaronson",
+          "Lisa Barrow",
+          "William Sander"
+        ],
+        "year": 2007,
+        "journal": "Journal of Labor Economics",
+        "volume": "25",
+        "issue": "1",
+        "pages": "95–135",
+        "doi": "10.1086/508733",
+        "url": "https://doi.org/10.1086/508733",
         "verified": true,
         "note": ""
       }
@@ -34878,6 +35089,22 @@
         "pages": "318–350",
         "doi": "10.1257/app.20170300",
         "url": "https://doi.org/10.1257/app.20170300",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Do Test Scores Miss? The Importance of Teacher Effects on Non–Test Score Outcomes",
+        "title": "What Do Test Scores Miss? The Importance of Teacher Effects on Non–Test Score Outcomes",
+        "authors": [
+          "C. Kirabo Jackson"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "5",
+        "pages": "2072–2107",
+        "doi": "10.1086/699018",
+        "url": "https://doi.org/10.1086/699018",
         "verified": true,
         "note": ""
       }
@@ -35526,6 +35753,148 @@
         "pages": "2329–2379",
         "doi": "10.1093/qje/qjaf013",
         "url": "https://doi.org/10.1093/qje/qjaf013",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Teachers' Unions on Education Production: Evidence from Union Election Certifications in Three Midwestern States",
+        "title": "The Effect of Teachers' Unions on Education Production: Evidence from Union Election Certifications in Three Midwestern States",
+        "authors": [
+          "Michael F. Lovenheim"
+        ],
+        "year": 2009,
+        "journal": "Journal of Labor Economics",
+        "volume": "27",
+        "issue": "4",
+        "pages": "525–587",
+        "doi": "10.1086/605653",
+        "url": "https://doi.org/10.1086/605653",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.29",
+    "title": "北卡罗来纳州教育研究数据中心（NCERDC）学生与教师行政数据",
+    "links": [
+      {
+        "label": "NCERDC Terms of Use",
+        "url": "https://childandfamilypolicy.duke.edu/people/center-spotlights/north-carolina-education-research-data-center/"
+      }
+    ],
+    "summary": "杜克大学托管的北卡罗来纳州公立学校学生和教师纵向行政数据，记录 1990 年代以来的年终考试成绩、学生特征、班级和教师匹配以及教师资质。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "北卡罗来纳州教育研究数据中心（North Carolina Education Research Data Center，NCERDC）由杜克大学儿童与家庭政策中心与北卡州公共教育厅合作建立，汇集 1990 年代中期以来全州公立学校的学生层面数据：三至八年级年终考试（EOG）和高中课程结束考试（EOC）成绩、学生人口特征和家长教育、出勤和纪律记录、课程和班级信息，以及教师的执照、学历、经验和薪酬记录，可用加密编号逐年追踪学生并把学生与授课教师匹配。数据只向学术机构、非营利研究机构和政府机构提供，需签订数据使用协议并经伦理审查。\n\n数据是研究教师质量的主要来源之一，例如检验教师增值模型是否受学生分班偏差影响、研究师生匹配和教师同伴学习，以及教师对非考试成绩结果（缺勤、停学、升级）的影响。学生与教师的匹配在早期年份依赖考试监考教师，不一定是授课教师。",
+    "source": "受限：经数据使用协议向 NCERDC 申请。",
+    "references": [
+      {
+        "raw": "Teacher-Student Matching and the Assessment of Teacher Effectiveness",
+        "title": "Teacher-Student Matching and the Assessment of Teacher Effectiveness",
+        "authors": [
+          "Charles T. Clotfelter",
+          "Helen F. Ladd",
+          "Jacob Vigdor"
+        ],
+        "year": 2006,
+        "journal": "Journal of Human Resources",
+        "volume": "41",
+        "issue": "4",
+        "pages": "778–820",
+        "doi": "10.3368/jhr.XLI.4.778",
+        "url": "https://doi.org/10.3368/jhr.XLI.4.778",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Teacher Quality in Educational Production: Tracking, Decay, and Student Achievement",
+        "title": "Teacher Quality in Educational Production: Tracking, Decay, and Student Achievement",
+        "authors": [
+          "Jesse Rothstein"
+        ],
+        "year": 2010,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "125",
+        "issue": "1",
+        "pages": "175–214",
+        "doi": "10.1162/qjec.2010.125.1.175",
+        "url": "https://doi.org/10.1162/qjec.2010.125.1.175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Do Test Scores Miss? The Importance of Teacher Effects on Non–Test Score Outcomes",
+        "title": "What Do Test Scores Miss? The Importance of Teacher Effects on Non–Test Score Outcomes",
+        "authors": [
+          "C. Kirabo Jackson"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "5",
+        "pages": "2072–2107",
+        "doi": "10.1086/699018",
+        "url": "https://doi.org/10.1086/699018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Teaching Students and Teaching Each Other: The Importance of Peer Learning for Teachers",
+        "title": "Teaching Students and Teaching Each Other: The Importance of Peer Learning for Teachers",
+        "authors": [
+          "C. Kirabo Jackson",
+          "Elias Bruegmann"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "1",
+        "issue": "4",
+        "pages": "85–108",
+        "doi": "10.1257/app.1.4.85",
+        "url": "https://doi.org/10.1257/app.1.4.85",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.30",
+    "title": "佛罗里达州 K-20 教育数据仓库（Florida Education Data Warehouse）",
+    "links": [
+      {
+        "label": "Florida DOE Education Data Warehouse",
+        "url": "https://www.fldoe.org/accountability/data-sys/edw/"
+      }
+    ],
+    "summary": "佛罗里达州教育厅整合的从幼儿园到高等教育的学生、教师和课程层面纵向行政数据，记录考试成绩、课程、教师资质和高校记录。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "佛罗里达 K-20 教育数据仓库（Education Data Warehouse，EDW）由佛罗里达州教育厅建立，整合 1995 年以来全州公立中小学的学生学籍、佛罗里达综合评估测验（FCAT）等考试成绩、课程和班级记录，教师的认证、学历、职前培养项目和在职培训，以及州立高校和社区学院的注册与学位记录，可以把学生与授课教师逐班匹配并追踪到高等教育阶段，部分记录与州工资数据连接。研究者需与州教育厅签订数据协议并获批准。\n\n数据常用于研究教师培训和教师质量，例如区分职前培养、在职培训和教学经验对教师增值的贡献。数据只覆盖公立学校和州立高校。",
+    "source": "受限：与佛罗里达州教育厅签订数据协议（官方页面对自动访问返回 403，链接经搜索确认）。",
+    "references": [
+      {
+        "raw": "Teacher training, teacher quality and student achievement",
+        "title": "Teacher training, teacher quality and student achievement",
+        "authors": [
+          "Douglas N. Harris",
+          "Tim R. Sass"
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "7-8",
+        "pages": "798–812",
+        "doi": "10.1016/j.jpubeco.2010.11.009",
+        "url": "https://doi.org/10.1016/j.jpubeco.2010.11.009",
         "verified": true,
         "note": ""
       }
@@ -39911,6 +40280,49 @@
     ]
   },
   {
+    "id": "3.16.4",
+    "title": "意大利 INVALSI 全国标准化测试数据",
+    "links": [
+      {
+        "label": "INVALSI Servizio Statistico",
+        "url": "https://invalsi-serviziostatistico.cineca.it/"
+      },
+      {
+        "label": "MIM 开放数据",
+        "url": "https://dati.istruzione.it"
+      }
+    ],
+    "summary": "意大利国家教育评估院每年对二、五、八、十、十三年级学生进行的意大利语、数学和英语全国测试，学生和学校层面数据经 INVALSI 统计服务申请获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "INVALSI（Istituto nazionale per la valutazione del sistema educativo di istruzione e di formazione）是意大利教育部下属的国家教育评估机构，自 2008 年前后起每年对二年级、五年级、八年级（初中毕业）、十年级和十三年级（高中毕业）学生进行意大利语、数学和英语的全国标准化测试，并收集学生家庭背景问卷和学校特征。学生层面和学校层面的匿名数据通过 INVALSI 统计服务（Servizio Statistico）申请免费获取；教育部的开放数据门户提供学校名录和学生人数等统计。\n\n数据常用于研究意大利学生成绩和学校效果，例如在课堂社交网络干预研究中用 INVALSI 成绩衡量学生学业表现。2017 年以前部分年级为纸笔测试，存在教师作弊问题，INVALSI 对此做了统计修正。",
+    "source": "INVALSI 统计服务申请获取；教育部开放数据免费下载。",
+    "references": [
+      {
+        "raw": "Inclusive Teaching: Spotting Social Isolation in the Classroom",
+        "title": "Inclusive Teaching: Spotting Social Isolation in the Classroom",
+        "authors": [
+          "Sule Alan",
+          "Michela Carlana",
+          "Marinella Leone"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w32954",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.1.1",
     "title": "印度牲畜普查",
     "links": [
@@ -42281,6 +42693,45 @@
         "pages": "29–55",
         "doi": "10.1257/app.3.4.29",
         "url": "https://doi.org/10.1257/app.3.4.29",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.16.1",
+    "title": "韩国教育与就业追踪调查（Korean Education and Employment Panel，KEEP）",
+    "links": [
+      {
+        "label": "KRIVET KEEP",
+        "url": "https://www.krivet.re.kr/eng/eu/eg/euCDAIn.jsp"
+      }
+    ],
+    "summary": "韩国职业能力开发院自 2004 年起对初中三年级、高中三年级学生队列的追踪调查，从中学追踪到大学和就业，记录学校类型、成绩、升学和劳动力市场结果。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "韩国教育与就业追踪调查（KEEP）由韩国职业能力开发院（KRIVET）主持，2004 年抽取约 6,000 名初三学生和高三（普通高中和职业高中）学生作为第一期队列，每年追踪访问学生本人、家长、班主任和学校，记录学校类型（包括男女分校/混校）、学习成绩、课外教育、升学和专业选择、大学经历，以及毕业后的就业、工资和职业；2016 年起开展第二期队列。数据在 KRIVET 网站注册并同意使用条款后免费申请下载。\n\n数据常用于研究韩国的教育和劳动力市场，例如利用首尔等地高中随机分配学生的制度，研究就读男女分校对大学升学和劳动力市场结果的影响。样本流失随追踪年份增加，后期波次需注意权重。",
+    "source": "KRIVET 网站注册申请（免费）。",
+    "references": [
+      {
+        "raw": "Does single-sex schooling help or hurt labor market outcomes? Evidence from a natural experiment in South Korea",
+        "title": "Does single-sex schooling help or hurt labor market outcomes? Evidence from a natural experiment in South Korea",
+        "authors": [
+          "Youngju Lee",
+          "Nobuhiko Nakazawa"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "214",
+        "issue": "",
+        "pages": "104729",
+        "doi": "10.1016/j.jpubeco.2022.104729",
+        "url": "https://doi.org/10.1016/j.jpubeco.2022.104729",
         "verified": true,
         "note": ""
       }
@@ -62316,7 +62767,27 @@
     ],
     "introduction": "国际学生评估项目（Programme for International Student Assessment，PISA）由经济合作与发展组织（OECD）组织，自 2000 年起约每三年开展一轮（2021 年一轮因疫情推迟到 2022 年），对各参与国家和地区的 15 岁在校学生进行阅读、数学和科学能力测评，每轮侧重一个领域，并附有学生、学校、部分轮次的教师和家长问卷。参与经济体从最初的约 40 个扩大到 80 个左右。\n\n公开数据包括学生和学校层面的微观文件、问卷、编码手册和技术报告，常用于比较各国教育产出、研究教育制度、学校资源和家庭背景对学生成绩的影响。\n\n学生成绩以多个可能值（plausible values）给出，分析时需使用可能值和重复权重，不能直接当作单一测验分数；各轮测评框架和参与经济体有变化，跨轮比较应使用官方的趋势链接方法。",
     "source": "OECD 网站按轮次免费公开提供数据文件下载。",
-    "references": []
+    "references": [
+      {
+        "raw": "Cognitive Endurance as Human Capital",
+        "title": "Cognitive Endurance as Human Capital",
+        "authors": [
+          "Christina Brown",
+          "Supreet Kaur",
+          "Geeta Kingdon",
+          "Heather Schofield"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w30133",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "7.16.2",
@@ -62471,6 +62942,47 @@
         "pages": "2497–2530",
         "doi": "10.1257/aer.20150958",
         "url": "https://doi.org/10.1257/aer.20150958",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.6",
+    "title": "国际数学与科学趋势研究（TIMSS）",
+    "links": [
+      {
+        "label": "TIMSS & PIRLS International Study Center",
+        "url": "https://timssandpirls.bc.edu/"
+      }
+    ],
+    "summary": "国际教育成就评价协会自 1995 年起每四年对四年级和八年级学生开展的数学和科学国际测评，覆盖约 60 个国家和地区，公开学生、教师和学校问卷微观数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "国际数学与科学趋势研究（Trends in International Mathematics and Science Study，TIMSS）由国际教育成就评价协会（IEA）组织、波士顿学院 TIMSS & PIRLS 国际研究中心执行，1995 年起每四年一次（最近一轮 2023 年），对各参与国家和地区的四年级和八年级学生进行数学和科学标准化测试，并收集学生、家长、教师和学校问卷，记录家庭背景、课程内容、教学方式和学校资源。国际数据库在 TIMSS & PIRLS 网站免费下载，需接受使用条款；IEA 还组织阅读测评 PIRLS。\n\n数据常用于跨国比较学生成绩和教育投入，例如考察学生在长时间测试中后段答题表现下降的程度，作为“认知耐力”差异的跨国证据。部分国家只参加个别轮次或年级，跨期比较需使用同一量表的趋势数据。",
+    "source": "TIMSS & PIRLS 国际研究中心网站免费下载。",
+    "references": [
+      {
+        "raw": "Cognitive Endurance as Human Capital",
+        "title": "Cognitive Endurance as Human Capital",
+        "authors": [
+          "Christina Brown",
+          "Supreet Kaur",
+          "Geeta Kingdon",
+          "Heather Schofield"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/papers/w30133",
         "verified": true,
         "note": ""
       }
