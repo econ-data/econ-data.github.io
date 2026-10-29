@@ -454,6 +454,23 @@
         "url": "https://doi.org/10.3368/jhr.0421-11629r2",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Too hot to handle: The effects of high temperatures during pregnancy on adult welfare outcomes",
+        "title": "Too hot to handle: The effects of high temperatures during pregnancy on adult welfare outcomes",
+        "authors": [
+          "Zihan Hu",
+          "Teng Li"
+        ],
+        "year": 2019,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "94",
+        "issue": "",
+        "pages": "236–253",
+        "doi": "10.1016/j.jeem.2019.01.006",
+        "url": "https://doi.org/10.1016/j.jeem.2019.01.006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3518,6 +3535,23 @@
         "url": "https://doi.org/10.1257/aeri.20200373",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Too hot to handle: The effects of high temperatures during pregnancy on adult welfare outcomes",
+        "title": "Too hot to handle: The effects of high temperatures during pregnancy on adult welfare outcomes",
+        "authors": [
+          "Zihan Hu",
+          "Teng Li"
+        ],
+        "year": 2019,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "94",
+        "issue": "",
+        "pages": "236–253",
+        "doi": "10.1016/j.jeem.2019.01.006",
+        "url": "https://doi.org/10.1016/j.jeem.2019.01.006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4675,6 +4709,45 @@
         "pages": "103245",
         "doi": "10.1016/j.jdeveco.2023.103245",
         "url": "https://doi.org/10.1016/j.jdeveco.2023.103245",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.14.2",
+    "title": "中国科学院人地系统主题数据库（分省农作物播种面积等）",
+    "links": [
+      {
+        "label": "中国科学院人地系统主题数据库",
+        "url": "http://www.data.ac.cn"
+      }
+    ],
+    "summary": "中国科学院地理科学与资源研究所建设的人地系统主题数据库，整理 1949 年以来分省、分县的人口、农作物播种面积和产量、土地利用等长时间序列。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "农业数据",
+      "区域经济数据"
+    ],
+    "introduction": "人地系统主题数据库是中国科学院科学数据库的组成部分，由地理科学与资源研究所建设，汇集来自统计年鉴、普查和专题调查的长时间序列数据，包括 1949 年以来分省（部分为分县）的人口、农作物播种面积和产量、农业投入、土地利用和自然资源等，可在线检索和下载，部分数据需注册。\n\n数据常用于获取中国历史农业数据，例如用 1949—2000 年分省分作物播种面积构造出生时当地的农业结构，研究出生前高温暴露对成年后福利的影响。数据整理自不同来源，早期年份存在口径变化和缺失。",
+    "source": "在线数据库检索下载（部分需注册）。",
+    "references": [
+      {
+        "raw": "Too hot to handle: The effects of high temperatures during pregnancy on adult welfare outcomes",
+        "title": "Too hot to handle: The effects of high temperatures during pregnancy on adult welfare outcomes",
+        "authors": [
+          "Zihan Hu",
+          "Teng Li"
+        ],
+        "year": 2019,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "94",
+        "issue": "",
+        "pages": "236–253",
+        "doi": "10.1016/j.jeem.2019.01.006",
+        "url": "https://doi.org/10.1016/j.jeem.2019.01.006",
         "verified": true,
         "note": ""
       }
@@ -5855,6 +5928,58 @@
         "url": "https://doi.org/10.1086/508733",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Run Effects of Teacher Collective Bargaining",
+        "title": "The Long-Run Effects of Teacher Collective Bargaining",
+        "authors": [
+          "Michael F. Lovenheim",
+          "Alexander Willén"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "3",
+        "pages": "292–324",
+        "doi": "10.1257/pol.20170570",
+        "url": "https://doi.org/10.1257/pol.20170570",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Capital and the Prenatal Environment: The Effect of Ramadan Observance during Pregnancy",
+        "title": "Health Capital and the Prenatal Environment: The Effect of Ramadan Observance during Pregnancy",
+        "authors": [
+          "Douglas Almond",
+          "Bhashkar Mazumder"
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "4",
+        "pages": "56–85",
+        "doi": "10.1257/app.3.4.56",
+        "url": "https://doi.org/10.1257/app.3.4.56",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air pollution and infant health: Lessons from New Jersey",
+        "title": "Air pollution and infant health: Lessons from New Jersey",
+        "authors": [
+          "Janet Currie",
+          "Matthew Neidell",
+          "Johannes F. Schmieder"
+        ],
+        "year": 2009,
+        "journal": "Journal of Health Economics",
+        "volume": "28",
+        "issue": "3",
+        "pages": "688–703",
+        "doi": "10.1016/j.jhealeco.2009.02.001",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.02.001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6391,6 +6516,24 @@
         "url": "https://doi.org/10.1257/app.20170300",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes",
+        "title": "Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes",
+        "authors": [
+          "Douglas Almond",
+          "Hilary W. Hoynes",
+          "Diane Whitmore Schanzenbach"
+        ],
+        "year": 2011,
+        "journal": "Review of Economics and Statistics",
+        "volume": "93",
+        "issue": "2",
+        "pages": "387–403",
+        "doi": "10.1162/REST_a_00089",
+        "url": "https://doi.org/10.1162/REST_a_00089",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6604,6 +6747,24 @@
         "pages": "103275",
         "doi": "10.1016/j.jeem.2025.103275",
         "url": "https://doi.org/10.1016/j.jeem.2025.103275",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes",
+        "title": "Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes",
+        "authors": [
+          "Douglas Almond",
+          "Hilary W. Hoynes",
+          "Diane Whitmore Schanzenbach"
+        ],
+        "year": 2011,
+        "journal": "Review of Economics and Statistics",
+        "volume": "93",
+        "issue": "2",
+        "pages": "387–403",
+        "doi": "10.1162/REST_a_00089",
+        "url": "https://doi.org/10.1162/REST_a_00089",
         "verified": true,
         "note": ""
       }
@@ -7220,6 +7381,23 @@
         "pages": "1–22",
         "doi": "10.1257/app.20200447",
         "url": "https://doi.org/10.1257/app.20200447",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Run Effects of Teacher Collective Bargaining",
+        "title": "The Long-Run Effects of Teacher Collective Bargaining",
+        "authors": [
+          "Michael F. Lovenheim",
+          "Alexander Willén"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "3",
+        "pages": "292–324",
+        "doi": "10.1257/pol.20170570",
+        "url": "https://doi.org/10.1257/pol.20170570",
         "verified": true,
         "note": ""
       }
@@ -8617,6 +8795,39 @@
         "pages": "F3–F33",
         "doi": "10.1111/1468-0297.00097",
         "url": "https://doi.org/10.1111/1468-0297.00097",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Run Effects of Teacher Collective Bargaining",
+        "title": "The Long-Run Effects of Teacher Collective Bargaining",
+        "authors": [
+          "Michael F. Lovenheim",
+          "Alexander Willén"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "3",
+        "pages": "292–324",
+        "doi": "10.1257/pol.20170570",
+        "url": "https://doi.org/10.1257/pol.20170570",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inequality at Birth: Some Causes and Consequences",
+        "title": "Inequality at Birth: Some Causes and Consequences",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review (Papers and Proceedings)",
+        "volume": "101",
+        "issue": "3",
+        "pages": "1–22",
+        "doi": "10.1257/aer.101.3.1",
+        "url": "https://doi.org/10.1257/aer.101.3.1",
         "verified": true,
         "note": ""
       }
@@ -10899,6 +11110,40 @@
         "url": "https://doi.org/10.1086/261805",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes",
+        "title": "Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes",
+        "authors": [
+          "Douglas Almond",
+          "Hilary W. Hoynes",
+          "Diane Whitmore Schanzenbach"
+        ],
+        "year": 2011,
+        "journal": "Review of Economics and Statistics",
+        "volume": "93",
+        "issue": "2",
+        "pages": "387–403",
+        "doi": "10.1162/REST_a_00089",
+        "url": "https://doi.org/10.1162/REST_a_00089",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "title": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "authors": [
+          "Nicholas J. Sanders"
+        ],
+        "year": 2012,
+        "journal": "Journal of Human Resources",
+        "volume": "47",
+        "issue": "3",
+        "pages": "826–850",
+        "doi": "10.3368/jhr.47.3.826",
+        "url": "https://doi.org/10.3368/jhr.47.3.826",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11408,6 +11653,23 @@
         "pages": "525–587",
         "doi": "10.1086/605653",
         "url": "https://doi.org/10.1086/605653",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Run Effects of Teacher Collective Bargaining",
+        "title": "The Long-Run Effects of Teacher Collective Bargaining",
+        "authors": [
+          "Michael F. Lovenheim",
+          "Alexander Willén"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "3",
+        "pages": "292–324",
+        "doi": "10.1257/pol.20170570",
+        "url": "https://doi.org/10.1257/pol.20170570",
         "verified": true,
         "note": ""
       }
@@ -15315,6 +15577,40 @@
         "url": "https://doi.org/10.1086/730267",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Air pollution and infant health: Lessons from New Jersey",
+        "title": "Air pollution and infant health: Lessons from New Jersey",
+        "authors": [
+          "Janet Currie",
+          "Matthew Neidell",
+          "Johannes F. Schmieder"
+        ],
+        "year": 2009,
+        "journal": "Journal of Health Economics",
+        "volume": "28",
+        "issue": "3",
+        "pages": "688–703",
+        "doi": "10.1016/j.jhealeco.2009.02.001",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.02.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "title": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "authors": [
+          "Nicholas J. Sanders"
+        ],
+        "year": 2012,
+        "journal": "Journal of Human Resources",
+        "volume": "47",
+        "issue": "3",
+        "pages": "826–850",
+        "doi": "10.3368/jhr.47.3.826",
+        "url": "https://doi.org/10.3368/jhr.47.3.826",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15777,6 +16073,40 @@
         "url": "https://doi.org/10.1016/j.jeem.2008.08.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Air pollution and infant health: Lessons from New Jersey",
+        "title": "Air pollution and infant health: Lessons from New Jersey",
+        "authors": [
+          "Janet Currie",
+          "Matthew Neidell",
+          "Johannes F. Schmieder"
+        ],
+        "year": 2009,
+        "journal": "Journal of Health Economics",
+        "volume": "28",
+        "issue": "3",
+        "pages": "688–703",
+        "doi": "10.1016/j.jhealeco.2009.02.001",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.02.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "title": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "authors": [
+          "Nicholas J. Sanders"
+        ],
+        "year": 2012,
+        "journal": "Journal of Human Resources",
+        "volume": "47",
+        "issue": "3",
+        "pages": "826–850",
+        "doi": "10.3368/jhr.47.3.826",
+        "url": "https://doi.org/10.3368/jhr.47.3.826",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16051,6 +16381,22 @@
         "pages": "2101–2126",
         "doi": "10.1257/aer.20181346",
         "url": "https://doi.org/10.1257/aer.20181346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inequality at Birth: Some Causes and Consequences",
+        "title": "Inequality at Birth: Some Causes and Consequences",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review (Papers and Proceedings)",
+        "volume": "101",
+        "issue": "3",
+        "pages": "1–22",
+        "doi": "10.1257/aer.101.3.1",
+        "url": "https://doi.org/10.1257/aer.101.3.1",
         "verified": true,
         "note": ""
       }
@@ -19042,6 +19388,22 @@
         "pages": "951–1003",
         "doi": "10.1162/qjec.2008.123.3.951",
         "url": "https://doi.org/10.1162/qjec.2008.123.3.951",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inequality at Birth: Some Causes and Consequences",
+        "title": "Inequality at Birth: Some Causes and Consequences",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review (Papers and Proceedings)",
+        "volume": "101",
+        "issue": "3",
+        "pages": "1–22",
+        "doi": "10.1257/aer.101.3.1",
+        "url": "https://doi.org/10.1257/aer.101.3.1",
         "verified": true,
         "note": ""
       }
@@ -28061,6 +28423,73 @@
         "url": "https://doi.org/10.1016/j.jeem.2025.103275",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes",
+        "title": "Inside the War on Poverty: The Impact of Food Stamps on Birth Outcomes",
+        "authors": [
+          "Douglas Almond",
+          "Hilary W. Hoynes",
+          "Diane Whitmore Schanzenbach"
+        ],
+        "year": 2011,
+        "journal": "Review of Economics and Statistics",
+        "volume": "93",
+        "issue": "2",
+        "pages": "387–403",
+        "doi": "10.1162/REST_a_00089",
+        "url": "https://doi.org/10.1162/REST_a_00089",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inequality at Birth: Some Causes and Consequences",
+        "title": "Inequality at Birth: Some Causes and Consequences",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review (Papers and Proceedings)",
+        "volume": "101",
+        "issue": "3",
+        "pages": "1–22",
+        "doi": "10.1257/aer.101.3.1",
+        "url": "https://doi.org/10.1257/aer.101.3.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is the 1918 Influenza Pandemic Over? Long-Term Effects of In Utero Influenza Exposure in the Post-1940 U.S. Population",
+        "title": "Is the 1918 Influenza Pandemic Over? Long-Term Effects of In Utero Influenza Exposure in the Post-1940 U.S. Population",
+        "authors": [
+          "Douglas Almond"
+        ],
+        "year": 2006,
+        "journal": "Journal of Political Economy",
+        "volume": "114",
+        "issue": "4",
+        "pages": "672–712",
+        "doi": "10.1086/507154",
+        "url": "https://doi.org/10.1086/507154",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can higher cigarette taxes improve birth outcomes?",
+        "title": "Can higher cigarette taxes improve birth outcomes?",
+        "authors": [
+          "William N. Evans",
+          "Jeanne S. Ringel"
+        ],
+        "year": 1999,
+        "journal": "Journal of Public Economics",
+        "volume": "72",
+        "issue": "1",
+        "pages": "135–154",
+        "doi": "10.1016/S0047-2727(98)00090-5",
+        "url": "https://doi.org/10.1016/S0047-2727(98)00090-5",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28423,6 +28852,75 @@
         "url": "https://doi.org/10.1093/jeea/jvz051",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does prenatal WIC participation improve birth outcomes? New evidence from Florida",
+        "title": "Does prenatal WIC participation improve birth outcomes? New evidence from Florida",
+        "authors": [
+          "David Figlio",
+          "Sarah Hamersma",
+          "Jeffrey Roth"
+        ],
+        "year": 2009,
+        "journal": "Journal of Public Economics",
+        "volume": "93",
+        "issue": "1-2",
+        "pages": "235–245",
+        "doi": "10.1016/j.jpubeco.2008.08.003",
+        "url": "https://doi.org/10.1016/j.jpubeco.2008.08.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Capital and the Prenatal Environment: The Effect of Ramadan Observance during Pregnancy",
+        "title": "Health Capital and the Prenatal Environment: The Effect of Ramadan Observance during Pregnancy",
+        "authors": [
+          "Douglas Almond",
+          "Bhashkar Mazumder"
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "4",
+        "pages": "56–85",
+        "doi": "10.1257/app.3.4.56",
+        "url": "https://doi.org/10.1257/app.3.4.56",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Air pollution and infant health: Lessons from New Jersey",
+        "title": "Air pollution and infant health: Lessons from New Jersey",
+        "authors": [
+          "Janet Currie",
+          "Matthew Neidell",
+          "Johannes F. Schmieder"
+        ],
+        "year": 2009,
+        "journal": "Journal of Health Economics",
+        "volume": "28",
+        "issue": "3",
+        "pages": "688–703",
+        "doi": "10.1016/j.jhealeco.2009.02.001",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.02.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inequality at Birth: Some Causes and Consequences",
+        "title": "Inequality at Birth: Some Causes and Consequences",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review (Papers and Proceedings)",
+        "volume": "101",
+        "issue": "3",
+        "pages": "1–22",
+        "doi": "10.1257/aer.101.3.1",
+        "url": "https://doi.org/10.1257/aer.101.3.1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28730,6 +29228,45 @@
         "pages": "1593–1660",
         "doi": "10.1093/qje/qjr041",
         "url": "https://doi.org/10.1093/qje/qjr041",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.16",
+    "title": "《烟草税负》年报（The Tax Burden on Tobacco）",
+    "links": [
+      {
+        "label": "CDC: The Tax Burden on Tobacco",
+        "url": "https://data.cdc.gov/Policy/The-Tax-Burden-on-Tobacco-1970-2019/7nwe-3aj9"
+      }
+    ],
+    "summary": "Orzechowski & Walker 自 1970 年起编制的美国各州卷烟消费税、零售价格和人均卷烟销售量年度数据，现由 CDC 在开放数据平台发布。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "政治数据"
+    ],
+    "introduction": "《烟草税负》（The Tax Burden on Tobacco）最初由烟草税委员会编制，后由咨询公司 Orzechowski & Walker 逐年出版，提供 1970 年以来美国各州和联邦的卷烟消费税税率、平均零售价格（含税和不含税）、按完税印花统计的人均卷烟销售量和税收收入。美国疾病控制与预防中心（CDC）的 STATE 系统将 1970—2019 年数据整理后在 data.cdc.gov 免费公开。\n\n数据是研究烟草税和吸烟行为的标准来源，例如利用各州卷烟税上调研究孕妇吸烟和新生儿出生体重的变化。人均销量按完税地统计，跨州购买和走私会造成偏差。",
+    "source": "CDC 开放数据平台免费下载（1970—2019 年）。",
+    "references": [
+      {
+        "raw": "Can higher cigarette taxes improve birth outcomes?",
+        "title": "Can higher cigarette taxes improve birth outcomes?",
+        "authors": [
+          "William N. Evans",
+          "Jeanne S. Ringel"
+        ],
+        "year": 1999,
+        "journal": "Journal of Public Economics",
+        "volume": "72",
+        "issue": "1",
+        "pages": "135–154",
+        "doi": "10.1016/S0047-2727(98)00090-5",
+        "url": "https://doi.org/10.1016/S0047-2727(98)00090-5",
         "verified": true,
         "note": ""
       }
@@ -30814,6 +31351,44 @@
         "pages": "65–103",
         "doi": "10.1086/730267",
         "url": "https://doi.org/10.1086/730267",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.16",
+    "title": "NBER 公共部门集体谈判法律数据集",
+    "links": [
+      {
+        "label": "NBER Public Sector Collective Bargaining Law Data",
+        "url": "https://www.nber.org/research/data/nber-public-sector-collective-bargaining-law-data-set"
+      }
+    ],
+    "summary": "NBER 整理的 1955 年以来美国各州针对教师、警察、消防员等公共部门雇员的集体谈判法律数据，记录谈判义务、罢工权和工会会费规定。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "NBER 公共部门集体谈判法律数据集（NBER Public Sector Collective Bargaining Law Data Set）最初由 Valletta 和 Freeman 编制，后经 Kim Rueben 等更新，记录 1955—1996 年（部分扩展至更晚）各州对州政府雇员、地方警察、消防员、教师和其他地方雇员的劳动关系立法，包括是否承认工会、雇主是否有义务谈判、是否允许罢工、仲裁规定和代理费条款，编码为州—年份—雇员类别的面板。数据在 NBER 网站免费下载。\n\n数据常用于研究公共部门工会的影响，例如利用各州通过教师集体谈判法的时间差异，研究教师集体谈判对学生成年后收入和就业的长期影响。法律条款的编码存在主观判断，近年更新不完整。",
+    "source": "NBER 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Long-Run Effects of Teacher Collective Bargaining",
+        "title": "The Long-Run Effects of Teacher Collective Bargaining",
+        "authors": [
+          "Michael F. Lovenheim",
+          "Alexander Willén"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "3",
+        "pages": "292–324",
+        "doi": "10.1257/pol.20170570",
+        "url": "https://doi.org/10.1257/pol.20170570",
         "verified": true,
         "note": ""
       }
@@ -34076,6 +34651,22 @@
         "url": "https://doi.org/10.1086/508733",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "title": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "authors": [
+          "Nicholas J. Sanders"
+        ],
+        "year": 2012,
+        "journal": "Journal of Human Resources",
+        "volume": "47",
+        "issue": "3",
+        "pages": "826–850",
+        "doi": "10.3368/jhr.47.3.826",
+        "url": "https://doi.org/10.3368/jhr.47.3.826",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34374,6 +34965,40 @@
         "pages": "417–458",
         "doi": "10.1111/j.1468-0262.2005.00584.x",
         "url": "https://doi.org/10.1111/j.1468-0262.2005.00584.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Public Schools Lose Teachers",
+        "title": "Why Public Schools Lose Teachers",
+        "authors": [
+          "Eric A. Hanushek",
+          "John F. Kain",
+          "Steven G. Rivkin"
+        ],
+        "year": 2004,
+        "journal": "The Journal of Human Resources",
+        "volume": "39",
+        "issue": "2",
+        "pages": "326–354",
+        "doi": "10.2307/3559017",
+        "url": "https://doi.org/10.2307/3559017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "title": "What Doesn't Kill You Makes You Weaker: Prenatal Pollution Exposure and Educational Outcomes",
+        "authors": [
+          "Nicholas J. Sanders"
+        ],
+        "year": 2012,
+        "journal": "Journal of Human Resources",
+        "volume": "47",
+        "issue": "3",
+        "pages": "826–850",
+        "doi": "10.3368/jhr.47.3.826",
+        "url": "https://doi.org/10.3368/jhr.47.3.826",
         "verified": true,
         "note": ""
       }
@@ -34680,6 +35305,23 @@
         "pages": "95–135",
         "doi": "10.1086/508733",
         "url": "https://doi.org/10.1086/508733",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Incentive Strength and Teacher Productivity: Evidence from a Group-Based Teacher Incentive Pay System",
+        "title": "Incentive Strength and Teacher Productivity: Evidence from a Group-Based Teacher Incentive Pay System",
+        "authors": [
+          "Scott A. Imberman",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "97",
+        "issue": "2",
+        "pages": "364–386",
+        "doi": "10.1162/rest_a_00486",
+        "url": "https://doi.org/10.1162/rest_a_00486",
         "verified": true,
         "note": ""
       }
@@ -35897,6 +36539,119 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2010.11.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does prenatal WIC participation improve birth outcomes? New evidence from Florida",
+        "title": "Does prenatal WIC participation improve birth outcomes? New evidence from Florida",
+        "authors": [
+          "David Figlio",
+          "Sarah Hamersma",
+          "Jeffrey Roth"
+        ],
+        "year": 2009,
+        "journal": "Journal of Public Economics",
+        "volume": "93",
+        "issue": "1-2",
+        "pages": "235–245",
+        "doi": "10.1016/j.jpubeco.2008.08.003",
+        "url": "https://doi.org/10.1016/j.jpubeco.2008.08.003",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.31",
+    "title": "伊利诺伊州教育委员会数据（教师服务记录 TSR 与学校报告卡）",
+    "links": [
+      {
+        "label": "ISBE Illinois Report Card",
+        "url": "https://www.isbe.net/ilreportcard"
+      }
+    ],
+    "summary": "伊利诺伊州教育委员会保存的全州公立学校教师任职记录，以及按学校公布的州统考成绩、学生构成和教师特征（Illinois Report Card）。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "伊利诺伊州教育委员会（Illinois State Board of Education，ISBE）通过教师服务记录（Teacher Service Record，TSR）收集全州公立学校教职工每年的任职学校、岗位、年资、学历、薪酬和退休信息；学校层面的州统考成绩（ISAT、PSAE，现为 IAR 等）、学生人口构成、班级规模、教师和财务指标通过 Illinois Report Card 每年公开，可免费下载。TSR 个人层面数据需向 ISBE 申请。\n\n数据常用于研究教师劳动力市场，例如利用伊利诺伊州提前退休激励计划导致的教师集中退休，研究教师流失对学生成绩的影响。早期年份的学校报告卡数据格式与现行版本不同。",
+    "source": "学校报告卡免费下载；TSR 个人数据需申请。",
+    "references": [
+      {
+        "raw": "Early Retirement Incentives and Student Achievement",
+        "title": "Early Retirement Incentives and Student Achievement",
+        "authors": [
+          "Maria D. Fitzpatrick",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "6",
+        "issue": "3",
+        "pages": "120–154",
+        "doi": "10.1257/pol.6.3.120",
+        "url": "https://doi.org/10.1257/pol.6.3.120",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.32",
+    "title": "美国空军学院（USAFA）学生与教师行政记录",
+    "links": [
+      {
+        "label": "U.S. Air Force Academy",
+        "url": "https://www.usafa.edu/"
+      }
+    ],
+    "summary": "美国空军学院保存的学员入学背景、随机分配的中队和课程班级、各科成绩以及授课教师特征记录，经学院机构研究办公室去标识后供合作研究使用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "美国空军学院（U.S. Air Force Academy，USAFA）的学员在入学时被随机分配到约 30 人的中队，一年级必修课的班级和授课教师也按程序分配，学院保存每名学员的入学背景（SAT 成绩、高中排名、学术综合评分、性别和种族）、各门课程的标准化考试成绩和绩点、专业选择和毕业情况，以及教师的性别、职称和学历。数据由学院机构研究办公室去标识后，通过与学院教师的合作研究提供，不对外公开。\n\n数据常用于研究同伴效应和教师效应，例如利用随机分配研究同伴构成对学业的影响和据此设计分组政策的效果，或研究女教授是否缩小数学和科学课程中的性别差距。样本只代表军校学员，外推需谨慎。",
+    "source": "受限：通过与 USAFA 合作研究获取。",
+    "references": [
+      {
+        "raw": "From Natural Variation to Optimal Policy? The Importance of Endogenous Peer Group Formation",
+        "title": "From Natural Variation to Optimal Policy? The Importance of Endogenous Peer Group Formation",
+        "authors": [
+          "Scott E. Carrell",
+          "Bruce I. Sacerdote",
+          "James E. West"
+        ],
+        "year": 2013,
+        "journal": "Econometrica",
+        "volume": "81",
+        "issue": "3",
+        "pages": "855–882",
+        "doi": "10.3982/ECTA10168",
+        "url": "https://doi.org/10.3982/ECTA10168",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sex and Science: How Professor Gender Perpetuates the Gender Gap",
+        "title": "Sex and Science: How Professor Gender Perpetuates the Gender Gap",
+        "authors": [
+          "Scott E. Carrell",
+          "Marianne E. Page",
+          "James E. West"
+        ],
+        "year": 2010,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "125",
+        "issue": "3",
+        "pages": "1101–1144",
+        "doi": "10.1162/qjec.2010.125.3.1101",
+        "url": "https://doi.org/10.1162/qjec.2010.125.3.1101",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -35951,6 +36706,22 @@
         "pages": "1–30",
         "doi": "10.1257/pol.20170144",
         "url": "https://doi.org/10.1257/pol.20170144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Decentralization of wage determination: Evidence from a national teacher reform",
+        "title": "Decentralization of wage determination: Evidence from a national teacher reform",
+        "authors": [
+          "Alexander Willén"
+        ],
+        "year": 2021,
+        "journal": "Journal of Public Economics",
+        "volume": "198",
+        "issue": "",
+        "pages": "104388",
+        "doi": "10.1016/j.jpubeco.2021.104388",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104388",
         "verified": true,
         "note": ""
       }
@@ -40323,6 +41094,43 @@
     ]
   },
   {
+    "id": "3.16.5",
+    "title": "瑞典国家教育署学校统计（Skolverket）",
+    "links": [
+      {
+        "label": "Skolverket statistik",
+        "url": "https://www.skolverket.se/skolutveckling/statistik"
+      }
+    ],
+    "summary": "瑞典国家教育署发布的全国学校和市镇层面教育统计，包括学生人数、教师数量和资质、教育支出、独立学校比例和九年级成绩。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "瑞典国家教育署（Skolverket）负责瑞典官方教育统计，按学校、市镇和全国发布学前教育到成人教育各阶段的学生人数、教师人数和师资资质、生均成本和市镇教育支出、独立学校（friskolor）份额，以及九年级毕业成绩和全国考试结果，统计数据库和报告在网站免费下载。学生和教师个人层面数据由瑞典统计局（SCB）管理，需经研究项目申请。\n\n数据常用于研究瑞典学校改革，例如研究 1990 年代教师工资决定权下放到地方后的工资和学生成绩变化。较早年份统计口径与现行版本不完全一致。",
+    "source": "Skolverket 网站免费下载。",
+    "references": [
+      {
+        "raw": "Decentralization of wage determination: Evidence from a national teacher reform",
+        "title": "Decentralization of wage determination: Evidence from a national teacher reform",
+        "authors": [
+          "Alexander Willén"
+        ],
+        "year": 2021,
+        "journal": "Journal of Public Economics",
+        "volume": "198",
+        "issue": "",
+        "pages": "104388",
+        "doi": "10.1016/j.jpubeco.2021.104388",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104388",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.1.1",
     "title": "印度牲畜普查",
     "links": [
@@ -43413,6 +44221,44 @@
         "pages": "103472",
         "doi": "10.1016/j.jdeveco.2025.103472",
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103472",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.2.8",
+    "title": "阿根廷常住家庭调查（Encuesta Permanente de Hogares，EPH）",
+    "links": [
+      {
+        "label": "INDEC Bases de datos",
+        "url": "https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos"
+      }
+    ],
+    "summary": "阿根廷国家统计与普查局开展的城市住户调查，覆盖 31 个主要城市群，记录就业、收入、教育和家庭特征，是阿根廷官方失业率和贫困率的来源。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "常住家庭调查（EPH）由阿根廷国家统计与普查局（INDEC）自 1973 年起开展，2003 年起改为连续季度调查，覆盖 31 个城市群（约占全国人口的三分之二），每季度访问约 2.5 万户，采用轮换面板设计（每户在 18 个月内接受四次访问）。问卷记录家庭成员的人口特征、受教育程度和在学状态、就业和职业、工时和各类收入，是计算官方失业率、贫困率和收入分配的依据。微观数据在 INDEC 网站免费下载。\n\n数据常用于研究阿根廷劳动力市场和教育，例如利用各省教师罢工天数的差异研究小学期间受罢工影响对成年后教育和劳动力市场结果的影响。2007—2015 年 INDEC 统计受政治干预，部分指标的可信度受到质疑。",
+    "source": "INDEC 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Long-Run Effects of Teacher Strikes: Evidence from Argentina",
+        "title": "The Long-Run Effects of Teacher Strikes: Evidence from Argentina",
+        "authors": [
+          "David Jaume",
+          "Alexander Willén"
+        ],
+        "year": 2019,
+        "journal": "Journal of Labor Economics",
+        "volume": "37",
+        "issue": "4",
+        "pages": "1097–1139",
+        "doi": "10.1086/703134",
+        "url": "https://doi.org/10.1086/703134",
         "verified": true,
         "note": ""
       }
@@ -47217,6 +48063,39 @@
         "pages": "279–323",
         "doi": "10.1162/qjec.2008.123.1.279",
         "url": "https://doi.org/10.1162/qjec.2008.123.1.279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Capital and the Prenatal Environment: The Effect of Ramadan Observance during Pregnancy",
+        "title": "Health Capital and the Prenatal Environment: The Effect of Ramadan Observance during Pregnancy",
+        "authors": [
+          "Douglas Almond",
+          "Bhashkar Mazumder"
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "3",
+        "issue": "4",
+        "pages": "56–85",
+        "doi": "10.1257/app.3.4.56",
+        "url": "https://doi.org/10.1257/app.3.4.56",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is the 1918 Influenza Pandemic Over? Long-Term Effects of In Utero Influenza Exposure in the Post-1940 U.S. Population",
+        "title": "Is the 1918 Influenza Pandemic Over? Long-Term Effects of In Utero Influenza Exposure in the Post-1940 U.S. Population",
+        "authors": [
+          "Douglas Almond"
+        ],
+        "year": 2006,
+        "journal": "Journal of Political Economy",
+        "volume": "114",
+        "issue": "4",
+        "pages": "672–712",
+        "doi": "10.1086/507154",
+        "url": "https://doi.org/10.1086/507154",
         "verified": true,
         "note": ""
       }
