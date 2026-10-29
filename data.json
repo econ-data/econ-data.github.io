@@ -394,6 +394,43 @@
         "url": "https://doi.org/10.1257/aer.20210383",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Rural Pensions, Labor Reallocation, and Aggregate Income: An Empirical and Quantitative Analysis of China",
+        "title": "Rural Pensions, Labor Reallocation, and Aggregate Income: An Empirical and Quantitative Analysis of China",
+        "authors": [
+          "Qingen Gai",
+          "Naijia Guo",
+          "Bingjing Li",
+          "Qinghua Shi",
+          "Xiaodong Zhu"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1663–1696",
+        "doi": "10.3982/ECTA19699",
+        "url": "https://doi.org/10.3982/ECTA19699",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "title": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "authors": [
+          "Kaivan Munshi",
+          "Mark Rosenzweig"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "1",
+        "pages": "46–98",
+        "doi": "10.1257/aer.20131365",
+        "url": "https://doi.org/10.1257/aer.20131365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1083,6 +1120,26 @@
         "pages": "1831-1862",
         "doi": "10.1093/restud/rdaa072",
         "url": "https://doi.org/10.1093/restud/rdaa072",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rural Pensions, Labor Reallocation, and Aggregate Income: An Empirical and Quantitative Analysis of China",
+        "title": "Rural Pensions, Labor Reallocation, and Aggregate Income: An Empirical and Quantitative Analysis of China",
+        "authors": [
+          "Qingen Gai",
+          "Naijia Guo",
+          "Bingjing Li",
+          "Qinghua Shi",
+          "Xiaodong Zhu"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1663–1696",
+        "doi": "10.3982/ECTA19699",
+        "url": "https://doi.org/10.3982/ECTA19699",
         "verified": true,
         "note": ""
       }
@@ -1989,6 +2046,60 @@
         "pages": "2531–2567",
         "doi": "10.1257/aer.20180336",
         "url": "https://doi.org/10.1257/aer.20180336",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Credit Allocation Under Economic Stimulus: Evidence from China",
+        "title": "Credit Allocation Under Economic Stimulus: Evidence from China",
+        "authors": [
+          "Lin William Cong",
+          "Haoyu Gao",
+          "Jacopo Ponticelli",
+          "Xiaoguang Yang"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3412–3460",
+        "doi": "10.1093/rfs/hhz008",
+        "url": "https://doi.org/10.1093/rfs/hhz008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Misallocation of Finance",
+        "title": "The Misallocation of Finance",
+        "authors": [
+          "Toni M. Whited",
+          "Jake Zhao"
+        ],
+        "year": 2021,
+        "journal": "The Journal of Finance",
+        "volume": "76",
+        "issue": "5",
+        "pages": "2359–2407",
+        "doi": "10.1111/jofi.13031",
+        "url": "https://doi.org/10.1111/jofi.13031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Migration and resource misallocation in China",
+        "title": "Migration and resource misallocation in China",
+        "authors": [
+          "Xiaolu Li",
+          "Lin Ma",
+          "Yang Tang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "167",
+        "issue": "",
+        "pages": "103218",
+        "doi": "10.1016/j.jdeveco.2023.103218",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103218",
         "verified": true,
         "note": ""
       }
@@ -3564,6 +3675,26 @@
         "pages": "196–233",
         "doi": "10.1257/aer.101.1.196",
         "url": "https://doi.org/10.1257/aer.101.1.196",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rural Pensions, Labor Reallocation, and Aggregate Income: An Empirical and Quantitative Analysis of China",
+        "title": "Rural Pensions, Labor Reallocation, and Aggregate Income: An Empirical and Quantitative Analysis of China",
+        "authors": [
+          "Qingen Gai",
+          "Naijia Guo",
+          "Bingjing Li",
+          "Qinghua Shi",
+          "Xiaodong Zhu"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1663–1696",
+        "doi": "10.3982/ECTA19699",
+        "url": "https://doi.org/10.3982/ECTA19699",
         "verified": true,
         "note": ""
       }
@@ -5909,6 +6040,25 @@
         "url": "https://doi.org/10.1111/jofi.12966",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Credit Allocation Under Economic Stimulus: Evidence from China",
+        "title": "Credit Allocation Under Economic Stimulus: Evidence from China",
+        "authors": [
+          "Lin William Cong",
+          "Haoyu Gao",
+          "Jacopo Ponticelli",
+          "Xiaoguang Yang"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3412–3460",
+        "doi": "10.1093/rfs/hhz008",
+        "url": "https://doi.org/10.1093/rfs/hhz008",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5992,6 +6142,46 @@
         "pages": "248–294",
         "doi": "10.1086/726237",
         "url": "https://doi.org/10.1086/726237",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.12.5",
+    "title": "中国人民银行社会融资规模统计",
+    "links": [
+      {
+        "label": "中国人民银行：社会融资规模统计",
+        "url": "http://www.pbc.gov.cn/diaochatongjisi/116219/116225/index.html"
+      }
+    ],
+    "summary": "中国人民银行发布的社会融资规模存量和增量统计，2002 年起月度，按人民币贷款、外币贷款、委托贷款、信托贷款、未贴现银行承兑汇票、企业债券、政府债券和股票融资等分项，2013 年起发布分省增量，免费下载。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "社会融资规模是中国人民银行于 2011 年推出的金融统计指标，衡量实体经济（境内非金融企业和住户）在一定时期内从金融体系获得的资金总额，分项包括表内融资（人民币贷款、外币贷款）、表外融资（委托贷款、信托贷款、未贴现银行承兑汇票）、直接融资（企业债券、非金融企业境内股票融资）以及政府债券、存款类金融机构资产支持证券和贷款核销等。增量数据回溯至 2002 年，存量数据始于 2015 年，并按省份发布年度和季度增量。数据在人民银行调查统计司网站免费下载。\n\n数据常用于研究中国影子银行的扩张、货币政策和宏观审慎政策的信贷传导、地方政府融资和地区信贷配置，例如用委托贷款和信托贷款衡量影子银行规模。统计口径多次调整（如 2018 年纳入地方政府专项债），跨期比较需注意。",
+    "source": "公开下载（中国人民银行调查统计司网站）。",
+    "references": [
+      {
+        "raw": "Credit Allocation Under Economic Stimulus: Evidence from China",
+        "title": "Credit Allocation Under Economic Stimulus: Evidence from China",
+        "authors": [
+          "Lin William Cong",
+          "Haoyu Gao",
+          "Jacopo Ponticelli",
+          "Xiaoguang Yang"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3412–3460",
+        "doi": "10.1093/rfs/hhz008",
+        "url": "https://doi.org/10.1093/rfs/hhz008",
         "verified": true,
         "note": ""
       }
@@ -7963,6 +8153,59 @@
         "url": "https://doi.org/10.2307/2296675",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Allocation of Talent and U.S. Economic Growth",
+        "title": "The Allocation of Talent and U.S. Economic Growth",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Erik Hurst",
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "5",
+        "pages": "1439–1474",
+        "doi": "10.3982/ECTA11427",
+        "url": "https://doi.org/10.3982/ECTA11427",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+        "title": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+        "authors": [
+          "Gharad Bryan",
+          "Melanie Morten"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "5",
+        "pages": "2229–2268",
+        "doi": "10.1086/701810",
+        "url": "https://doi.org/10.1086/701810",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Constraints and Spatial Misallocation",
+        "title": "Housing Constraints and Spatial Misallocation",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Enrico Moretti"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "2",
+        "pages": "1–39",
+        "doi": "10.1257/mac.20170388",
+        "url": "https://doi.org/10.1257/mac.20170388",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9042,6 +9285,22 @@
         "pages": "1964–2002",
         "doi": "10.1257/aer.101.5.1964",
         "url": "https://doi.org/10.1257/aer.101.5.1964",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Important Are Sectoral Shocks?",
+        "title": "How Important Are Sectoral Shocks?",
+        "authors": [
+          "Enghin Atalay"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "9",
+        "issue": "4",
+        "pages": "254–280",
+        "doi": "10.1257/mac.20160353",
+        "url": "https://doi.org/10.1257/mac.20160353",
         "verified": true,
         "note": ""
       }
@@ -10626,6 +10885,42 @@
         "url": "https://doi.org/10.1257/pol.20220480",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Allocation of Talent and U.S. Economic Growth",
+        "title": "The Allocation of Talent and U.S. Economic Growth",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Erik Hurst",
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "5",
+        "pages": "1439–1474",
+        "doi": "10.3982/ECTA11427",
+        "url": "https://doi.org/10.3982/ECTA11427",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Constraints and Spatial Misallocation",
+        "title": "Housing Constraints and Spatial Misallocation",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Enrico Moretti"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "2",
+        "pages": "1–39",
+        "doi": "10.1257/mac.20170388",
+        "url": "https://doi.org/10.1257/mac.20170388",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11530,6 +11825,23 @@
         "pages": "1598–1633",
         "doi": "10.1093/jeea/jvaf003",
         "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Constraints and Spatial Misallocation",
+        "title": "Housing Constraints and Spatial Misallocation",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Enrico Moretti"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "2",
+        "pages": "1–39",
+        "doi": "10.1257/mac.20170388",
+        "url": "https://doi.org/10.1257/mac.20170388",
         "verified": true,
         "note": ""
       }
@@ -14040,6 +14352,25 @@
         "url": "https://doi.org/10.1257/aer.20181169",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Multidimensional Skill Mismatch",
+        "title": "Multidimensional Skill Mismatch",
+        "authors": [
+          "Fatih Guvenen",
+          "Burhanettin Kuruscu",
+          "Satoshi Tanaka",
+          "David Wiczer"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "12",
+        "issue": "1",
+        "pages": "210–244",
+        "doi": "10.1257/mac.20160241",
+        "url": "https://doi.org/10.1257/mac.20160241",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14634,6 +14965,25 @@
         "pages": "1642–1685",
         "doi": "10.1257/aer.20211478",
         "url": "https://doi.org/10.1257/aer.20211478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Multidimensional Skill Mismatch",
+        "title": "Multidimensional Skill Mismatch",
+        "authors": [
+          "Fatih Guvenen",
+          "Burhanettin Kuruscu",
+          "Satoshi Tanaka",
+          "David Wiczer"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "12",
+        "issue": "1",
+        "pages": "210–244",
+        "doi": "10.1257/mac.20160241",
+        "url": "https://doi.org/10.1257/mac.20160241",
         "verified": true,
         "note": ""
       }
@@ -15420,6 +15770,22 @@
         "url": "https://doi.org/10.1093/restud/rdq028",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Granular Origins of Aggregate Fluctuations",
+        "title": "The Granular Origins of Aggregate Fluctuations",
+        "authors": [
+          "Xavier Gabaix"
+        ],
+        "year": 2011,
+        "journal": "Econometrica",
+        "volume": "79",
+        "issue": "3",
+        "pages": "733–772",
+        "doi": "10.3982/ECTA8769",
+        "url": "https://doi.org/10.3982/ECTA8769",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16180,6 +16546,23 @@
         "pages": "S95–S127",
         "doi": "10.1086/701189",
         "url": "https://doi.org/10.1086/701189",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
         "verified": true,
         "note": ""
       }
@@ -16962,6 +17345,22 @@
         "url": "https://doi.org/10.1257/aer.100.4.1875",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Input-Output Architecture",
+        "title": "A Theory of Input-Output Architecture",
+        "authors": [
+          "Ezra Oberfield"
+        ],
+        "year": 2018,
+        "journal": "Econometrica",
+        "volume": "86",
+        "issue": "2",
+        "pages": "559–589",
+        "doi": "10.3982/ECTA10731",
+        "url": "https://doi.org/10.3982/ECTA10731",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17693,6 +18092,79 @@
         "url": "https://doi.org/10.1257/aer.20180336",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Misallocation of Finance",
+        "title": "The Misallocation of Finance",
+        "authors": [
+          "Toni M. Whited",
+          "Jake Zhao"
+        ],
+        "year": 2021,
+        "journal": "The Journal of Finance",
+        "volume": "76",
+        "issue": "5",
+        "pages": "2359–2407",
+        "doi": "10.1111/jofi.13031",
+        "url": "https://doi.org/10.1111/jofi.13031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Upstreamness of Production and Trade Flows",
+        "title": "Measuring the Upstreamness of Production and Trade Flows",
+        "authors": [
+          "Pol Antràs",
+          "Davin Chor",
+          "Thibault Fally",
+          "Russell Hillberry"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "3",
+        "pages": "412–416",
+        "doi": "10.1257/aer.102.3.412",
+        "url": "https://doi.org/10.1257/aer.102.3.412",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Network Origins of Aggregate Fluctuations",
+        "title": "The Network Origins of Aggregate Fluctuations",
+        "authors": [
+          "Daron Acemoglu",
+          "Vasco M. Carvalho",
+          "Asuman Ozdaglar",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2012,
+        "journal": "Econometrica",
+        "volume": "80",
+        "issue": "5",
+        "pages": "1977–2016",
+        "doi": "10.3982/ECTA9623",
+        "url": "https://doi.org/10.3982/ECTA9623",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Microeconomic Origins of Macroeconomic Tail Risks",
+        "title": "Microeconomic Origins of Macroeconomic Tail Risks",
+        "authors": [
+          "Daron Acemoglu",
+          "Asuman Ozdaglar",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "1",
+        "pages": "54–108",
+        "doi": "10.1257/aer.20151086",
+        "url": "https://doi.org/10.1257/aer.20151086",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18226,6 +18698,40 @@
         "pages": "43–74",
         "doi": "10.1086/733979",
         "url": "https://doi.org/10.1086/733979",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Constraints and Spatial Misallocation",
+        "title": "Housing Constraints and Spatial Misallocation",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Enrico Moretti"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "2",
+        "pages": "1–39",
+        "doi": "10.1257/mac.20170388",
+        "url": "https://doi.org/10.1257/mac.20170388",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
         "verified": true,
         "note": ""
       }
@@ -19520,6 +20026,146 @@
         "url": "https://doi.org/10.1257/aer.20180336",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Input-Output Architecture",
+        "title": "A Theory of Input-Output Architecture",
+        "authors": [
+          "Ezra Oberfield"
+        ],
+        "year": 2018,
+        "journal": "Econometrica",
+        "volume": "86",
+        "issue": "2",
+        "pages": "559–589",
+        "doi": "10.3982/ECTA10731",
+        "url": "https://doi.org/10.3982/ECTA10731",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Upstreamness of Production and Trade Flows",
+        "title": "Measuring the Upstreamness of Production and Trade Flows",
+        "authors": [
+          "Pol Antràs",
+          "Davin Chor",
+          "Thibault Fally",
+          "Russell Hillberry"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "3",
+        "pages": "412–416",
+        "doi": "10.1257/aer.102.3.412",
+        "url": "https://doi.org/10.1257/aer.102.3.412",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distortions in Production Networks",
+        "title": "Distortions in Production Networks",
+        "authors": [
+          "Saki Bigio",
+          "Jennifer La'O"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "2187–2253",
+        "doi": "10.1093/qje/qjaa018",
+        "url": "https://doi.org/10.1093/qje/qjaa018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sectoral versus Aggregate Shocks: A Structural Factor Analysis of Industrial Production",
+        "title": "Sectoral versus Aggregate Shocks: A Structural Factor Analysis of Industrial Production",
+        "authors": [
+          "Andrew T. Foerster",
+          "Pierre-Daniel G. Sarte",
+          "Mark W. Watson"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "1",
+        "pages": "1–38",
+        "doi": "10.1086/659311",
+        "url": "https://doi.org/10.1086/659311",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Important Are Sectoral Shocks?",
+        "title": "How Important Are Sectoral Shocks?",
+        "authors": [
+          "Enghin Atalay"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "9",
+        "issue": "4",
+        "pages": "254–280",
+        "doi": "10.1257/mac.20160353",
+        "url": "https://doi.org/10.1257/mac.20160353",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Network Origins of Aggregate Fluctuations",
+        "title": "The Network Origins of Aggregate Fluctuations",
+        "authors": [
+          "Daron Acemoglu",
+          "Vasco M. Carvalho",
+          "Asuman Ozdaglar",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2012,
+        "journal": "Econometrica",
+        "volume": "80",
+        "issue": "5",
+        "pages": "1977–2016",
+        "doi": "10.3982/ECTA9623",
+        "url": "https://doi.org/10.3982/ECTA9623",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Microeconomic Origins of Macroeconomic Tail Risks",
+        "title": "Microeconomic Origins of Macroeconomic Tail Risks",
+        "authors": [
+          "Daron Acemoglu",
+          "Asuman Ozdaglar",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "1",
+        "pages": "54–108",
+        "doi": "10.1257/aer.20151086",
+        "url": "https://doi.org/10.1257/aer.20151086",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20812,6 +21458,57 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Granular Origins of Aggregate Fluctuations",
+        "title": "The Granular Origins of Aggregate Fluctuations",
+        "authors": [
+          "Xavier Gabaix"
+        ],
+        "year": 2011,
+        "journal": "Econometrica",
+        "volume": "79",
+        "issue": "3",
+        "pages": "733–772",
+        "doi": "10.3982/ECTA8769",
+        "url": "https://doi.org/10.3982/ECTA8769",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Microeconomic Origins of Macroeconomic Tail Risks",
+        "title": "Microeconomic Origins of Macroeconomic Tail Risks",
+        "authors": [
+          "Daron Acemoglu",
+          "Asuman Ozdaglar",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "1",
+        "pages": "54–108",
+        "doi": "10.1257/aer.20151086",
+        "url": "https://doi.org/10.1257/aer.20151086",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21107,6 +21804,41 @@
         "pages": "67–110",
         "doi": "10.1257/mac.20170269",
         "url": "https://doi.org/10.1257/mac.20170269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sectoral versus Aggregate Shocks: A Structural Factor Analysis of Industrial Production",
+        "title": "Sectoral versus Aggregate Shocks: A Structural Factor Analysis of Industrial Production",
+        "authors": [
+          "Andrew T. Foerster",
+          "Pierre-Daniel G. Sarte",
+          "Mark W. Watson"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "1",
+        "pages": "1–38",
+        "doi": "10.1086/659311",
+        "url": "https://doi.org/10.1086/659311",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
         "verified": true,
         "note": ""
       }
@@ -22218,6 +22950,39 @@
         "pages": "67–110",
         "doi": "10.1257/mac.20170269",
         "url": "https://doi.org/10.1257/mac.20170269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distortions in Production Networks",
+        "title": "Distortions in Production Networks",
+        "authors": [
+          "Saki Bigio",
+          "Jennifer La'O"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "2187–2253",
+        "doi": "10.1093/qje/qjaa018",
+        "url": "https://doi.org/10.1093/qje/qjaa018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Granular Origins of Aggregate Fluctuations",
+        "title": "The Granular Origins of Aggregate Fluctuations",
+        "authors": [
+          "Xavier Gabaix"
+        ],
+        "year": 2011,
+        "journal": "Econometrica",
+        "volume": "79",
+        "issue": "3",
+        "pages": "733–772",
+        "doi": "10.3982/ECTA8769",
+        "url": "https://doi.org/10.3982/ECTA8769",
         "verified": true,
         "note": ""
       }
@@ -24488,6 +25253,25 @@
         "url": "https://doi.org/10.1257/aer.20231278",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "title": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "authors": [
+          "Òscar Jordà",
+          "Martin Kornejew",
+          "Moritz Schularick",
+          "Alan M. Taylor"
+        ],
+        "year": 2022,
+        "journal": "The Review of Financial Studies",
+        "volume": "35",
+        "issue": "10",
+        "pages": "4561–4586",
+        "doi": "10.1093/rfs/hhac018",
+        "url": "https://doi.org/10.1093/rfs/hhac018",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24922,6 +25706,45 @@
         "pages": "55–102",
         "doi": "10.1093/qje/qjw038",
         "url": "https://doi.org/10.1093/qje/qjw038",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.38",
+    "title": "Hirsch-Macpherson 工会会员与覆盖率数据库（Unionstats）",
+    "links": [
+      {
+        "label": "Unionstats",
+        "url": "https://www.unionstats.com/"
+      }
+    ],
+    "summary": "Barry Hirsch 和 David Macpherson 基于当前人口调查（CPS）计算的美国工会会员率和集体协议覆盖率，按全国、州、都市区、行业、职业和部门分列，1973 年起逐年更新，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "微观调查数据"
+    ],
+    "introduction": "Unionstats 数据库由 Barry Hirsch（佐治亚州立大学）和 David Macpherson（三一大学）维护，利用 CPS 的 1973–1981 年五月补充调查和 1983 年以来的出局轮次组（ORG）微观数据，估计各年的工会会员人数和比例、集体协议覆盖人数和比例，按州、大都市区（与 Vroman 合作）、行业（三位数）、职业、私营和公共部门分列。数据以 Excel 表格在 unionstats.com 免费下载，每年更新。\n\n数据常用于研究工会对工资、工资不平等和劳动收入份额的影响，作为州或都市区劳动力市场制度的控制变量，以及右翼工作法（right-to-work）等政策评估。小地区和细分行业的估计样本小，抽样误差较大。",
+    "source": "公开下载（unionstats.com）。",
+    "references": [
+      {
+        "raw": "Housing Constraints and Spatial Misallocation",
+        "title": "Housing Constraints and Spatial Misallocation",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Enrico Moretti"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "2",
+        "pages": "1–39",
+        "doi": "10.1257/mac.20170388",
+        "url": "https://doi.org/10.1257/mac.20170388",
         "verified": true,
         "note": ""
       }
@@ -28677,6 +29500,23 @@
         "pages": "1778–1830",
         "doi": "10.1093/rfs/hhad094",
         "url": "https://doi.org/10.1093/rfs/hhad094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
         "verified": true,
         "note": ""
       }
@@ -34228,6 +35068,25 @@
         "pages": "105167",
         "doi": "10.1016/j.jpubeco.2024.105167",
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105167",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "title": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "authors": [
+          "Viral V. Acharya",
+          "Tim Eisert",
+          "Christian Eufinger",
+          "Christian Hirsch"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3366–3411",
+        "doi": "10.1093/rfs/hhz005",
+        "url": "https://doi.org/10.1093/rfs/hhz005",
         "verified": true,
         "note": ""
       }
@@ -50772,6 +51631,23 @@
         "url": "https://doi.org/10.1257/mac.20170269",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Great Diversification and Its Undoing",
+        "title": "The Great Diversification and Its Undoing",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Xavier Gabaix"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1697–1727",
+        "doi": "10.1257/aer.103.5.1697",
+        "url": "https://doi.org/10.1257/aer.103.5.1697",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -52380,6 +53256,73 @@
         "url": "https://doi.org/10.1093/qje/qjw006",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Misallocation of Finance",
+        "title": "The Misallocation of Finance",
+        "authors": [
+          "Toni M. Whited",
+          "Jake Zhao"
+        ],
+        "year": 2021,
+        "journal": "The Journal of Finance",
+        "volume": "76",
+        "issue": "5",
+        "pages": "2359–2407",
+        "doi": "10.1111/jofi.13031",
+        "url": "https://doi.org/10.1111/jofi.13031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Granular Origins of Aggregate Fluctuations",
+        "title": "The Granular Origins of Aggregate Fluctuations",
+        "authors": [
+          "Xavier Gabaix"
+        ],
+        "year": 2011,
+        "journal": "Econometrica",
+        "volume": "79",
+        "issue": "3",
+        "pages": "733–772",
+        "doi": "10.3982/ECTA8769",
+        "url": "https://doi.org/10.3982/ECTA8769",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Great Diversification and Its Undoing",
+        "title": "The Great Diversification and Its Undoing",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Xavier Gabaix"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1697–1727",
+        "doi": "10.1257/aer.103.5.1697",
+        "url": "https://doi.org/10.1257/aer.103.5.1697",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53108,6 +54051,39 @@
         "url": "https://doi.org/10.1016/j.jfineco.2025.104039",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Granular Origins of Aggregate Fluctuations",
+        "title": "The Granular Origins of Aggregate Fluctuations",
+        "authors": [
+          "Xavier Gabaix"
+        ],
+        "year": 2011,
+        "journal": "Econometrica",
+        "volume": "79",
+        "issue": "3",
+        "pages": "733–772",
+        "doi": "10.3982/ECTA8769",
+        "url": "https://doi.org/10.3982/ECTA8769",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53651,6 +54627,25 @@
         "pages": "85–128",
         "doi": "10.1111/jofi.13074",
         "url": "https://doi.org/10.1111/jofi.13074",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "title": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "authors": [
+          "Viral V. Acharya",
+          "Tim Eisert",
+          "Christian Eufinger",
+          "Christian Hirsch"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3366–3411",
+        "doi": "10.1093/rfs/hhz005",
+        "url": "https://doi.org/10.1093/rfs/hhz005",
         "verified": true,
         "note": ""
       }
@@ -54549,6 +55544,25 @@
         "url": "https://doi.org/10.1086/674142",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "title": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "authors": [
+          "Òscar Jordà",
+          "Martin Kornejew",
+          "Moritz Schularick",
+          "Alan M. Taylor"
+        ],
+        "year": 2022,
+        "journal": "The Review of Financial Studies",
+        "volume": "35",
+        "issue": "10",
+        "pages": "4561–4586",
+        "doi": "10.1093/rfs/hhac018",
+        "url": "https://doi.org/10.1093/rfs/hhac018",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55436,6 +56450,23 @@
         "pages": "1598–1633",
         "doi": "10.1093/jeea/jvaf003",
         "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distortions in Production Networks",
+        "title": "Distortions in Production Networks",
+        "authors": [
+          "Saki Bigio",
+          "Jennifer La'O"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "2187–2253",
+        "doi": "10.1093/qje/qjaa018",
+        "url": "https://doi.org/10.1093/qje/qjaa018",
         "verified": true,
         "note": ""
       }
@@ -60208,6 +61239,24 @@
         "url": "https://doi.org/10.1257/aer.20231167",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mismatch of Talent: Evidence on Match Quality, Entry Wages, and Job Mobility",
+        "title": "Mismatch of Talent: Evidence on Match Quality, Entry Wages, and Job Mobility",
+        "authors": [
+          "Peter Fredriksson",
+          "Lena Hensvik",
+          "Oskar Nordström Skans"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "11",
+        "pages": "3303–3338",
+        "doi": "10.1257/aer.20160848",
+        "url": "https://doi.org/10.1257/aer.20160848",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62242,6 +63291,43 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "title": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "authors": [
+          "Viral V. Acharya",
+          "Tim Eisert",
+          "Christian Eufinger",
+          "Christian Hirsch"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3366–3411",
+        "doi": "10.1093/rfs/hhz005",
+        "url": "https://doi.org/10.1093/rfs/hhz005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine's War",
+        "title": "Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine's War",
+        "authors": [
+          "Vasily Korovkin",
+          "Alexey Makarin",
+          "Yuhei Miyauchi"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "4",
+        "pages": "2750–2783",
+        "doi": "10.1093/restud/rdaf080",
+        "url": "https://doi.org/10.1093/restud/rdaf080",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62409,6 +63495,24 @@
         "pages": "906–938",
         "doi": "10.1257/aer.20190609",
         "url": "https://doi.org/10.1257/aer.20190609",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firms, Destinations, and Aggregate Fluctuations",
+        "title": "Firms, Destinations, and Aggregate Fluctuations",
+        "authors": [
+          "Julian di Giovanni",
+          "Andrei A. Levchenko",
+          "Isabelle Mejean"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1303–1340",
+        "doi": "10.3982/ECTA11041",
+        "url": "https://doi.org/10.3982/ECTA11041",
         "verified": true,
         "note": ""
       }
@@ -63255,6 +64359,25 @@
         "pages": "1915–1967",
         "doi": "10.1093/qje/qjx024",
         "url": "https://doi.org/10.1093/qje/qjx024",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "title": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "authors": [
+          "Òscar Jordà",
+          "Martin Kornejew",
+          "Moritz Schularick",
+          "Alan M. Taylor"
+        ],
+        "year": 2022,
+        "journal": "The Review of Financial Studies",
+        "volume": "35",
+        "issue": "10",
+        "pages": "4561–4586",
+        "doi": "10.1093/rfs/hhac018",
+        "url": "https://doi.org/10.1093/rfs/hhac018",
         "verified": true,
         "note": ""
       }
@@ -66796,6 +67919,46 @@
     ]
   },
   {
+    "id": "3.12.2",
+    "title": "欧洲银行管理局（EBA）压力测试与透明度演练数据",
+    "links": [
+      {
+        "label": "EBA: EU-wide transparency exercise",
+        "url": "https://www.eba.europa.eu/risk-analysis-and-data/eu-wide-transparency-exercise"
+      }
+    ],
+    "summary": "欧洲银行管理局在欧盟范围压力测试（2011 年起）和年度透明度演练中公布的约 100–130 家大型银行的逐行资本、风险敞口、主权债持仓和资产质量数据，免费下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "EBA 自 2011 年起开展欧盟范围的银行压力测试（前身为 2009–2010 年 CEBS 压力测试），并从 2013 年起每年开展透明度演练（transparency exercise），公开披露参与银行的银行层面监管数据：资本构成和资本充足率、风险加权资产、按国家和对手方的信用风险敞口、按发行国和期限的主权债持仓、不良贷款和受宽限贷款、市场风险和杠杆率，以及压力情景下的资本预测。数据以 Excel 和 CSV 文件及交互工具在 EBA 网站免费下载。\n\n数据常用于研究欧洲主权债务危机中的银行-主权关联、银行的主权债持仓与本国偏好、资本要求和压力测试对银行信贷的影响。样本仅限大型银行，各期披露模板有变化。",
+    "source": "公开下载（EBA 网站）。",
+    "references": [
+      {
+        "raw": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "title": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "authors": [
+          "Viral V. Acharya",
+          "Tim Eisert",
+          "Christian Eufinger",
+          "Christian Hirsch"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3366–3411",
+        "doi": "10.1093/rfs/hhz005",
+        "url": "https://doi.org/10.1093/rfs/hhz005",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.13.1",
     "title": "Kantar 英国家庭快消品购买面板（Kantar Worldpanel / FMCG Purchase Panel）",
     "links": [
@@ -67486,6 +68649,23 @@
         "url": "https://doi.org/10.1093/qje/qjaa020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "title": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "authors": [
+          "Kaivan Munshi",
+          "Mark Rosenzweig"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "1",
+        "pages": "46–98",
+        "doi": "10.1257/aer.20131365",
+        "url": "https://doi.org/10.1257/aer.20131365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67542,6 +68722,23 @@
         "url": "https://doi.org/10.1257/aer.20141781",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+        "title": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+        "authors": [
+          "Gharad Bryan",
+          "Melanie Morten"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "5",
+        "pages": "2229–2268",
+        "doi": "10.1086/701810",
+        "url": "https://doi.org/10.1086/701810",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67596,6 +68793,23 @@
         "pages": "347–374",
         "doi": "10.2307/2297887",
         "url": "https://doi.org/10.2307/2297887",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "title": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "authors": [
+          "Kaivan Munshi",
+          "Mark Rosenzweig"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "1",
+        "pages": "46–98",
+        "doi": "10.1257/aer.20131365",
+        "url": "https://doi.org/10.1257/aer.20131365",
         "verified": true,
         "note": ""
       }
@@ -67809,6 +69023,23 @@
         "url": "https://doi.org/10.1093/qje/qju014",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "title": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "authors": [
+          "Kaivan Munshi",
+          "Mark Rosenzweig"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "1",
+        "pages": "46–98",
+        "doi": "10.1257/aer.20131365",
+        "url": "https://doi.org/10.1257/aer.20131365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67893,6 +69124,23 @@
         "pages": "420–450",
         "doi": "10.1257/pol.20220422",
         "url": "https://doi.org/10.1257/pol.20220422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "title": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "authors": [
+          "Kaivan Munshi",
+          "Mark Rosenzweig"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "1",
+        "pages": "46–98",
+        "doi": "10.1257/aer.20131365",
+        "url": "https://doi.org/10.1257/aer.20131365",
         "verified": true,
         "note": ""
       }
@@ -67986,6 +69234,23 @@
         "pages": "2658–2698",
         "doi": "10.1257/aer.20141781",
         "url": "https://doi.org/10.1257/aer.20141781",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+        "title": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+        "authors": [
+          "Gharad Bryan",
+          "Melanie Morten"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "5",
+        "pages": "2229–2268",
+        "doi": "10.1086/701810",
+        "url": "https://doi.org/10.1086/701810",
         "verified": true,
         "note": ""
       }
@@ -68160,6 +69425,101 @@
         "pages": "2454–2484",
         "doi": "10.1257/aer.20170861",
         "url": "https://doi.org/10.1257/aer.20170861",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.2.9",
+    "title": "印度尼西亚家庭生活调查（Indonesia Family Life Survey，IFLS）",
+    "links": [
+      {
+        "label": "RAND: Indonesian Family Life Survey",
+        "url": "https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS.html"
+      }
+    ],
+    "summary": "RAND 公司主持的印尼长期追踪住户调查，1993、1997、2000、2007、2014 年五轮，代表约 83% 的印尼人口，追踪 3 万多名个人的收入、消费、就业、迁移、健康、教育和社区设施，注册后免费下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "IFLS 由美国 RAND 公司与印尼大学、加札马达大学和 SurveyMETER 合作实施，第一轮（1993）在 13 个省抽取约 7,200 户，之后各轮追踪原住户及分出的新户和迁移个人，追访率超过 90%。问卷包括住户层面的消费、资产、收入、农业和非农经营、转移支付，个人层面的就业和工资、迁移史、婚姻和生育、教育、健康状况（含体检测量和生物标志物）、认知测试，以及社区和设施调查（学校、诊所、市场、村长访谈）。数据在 RAND 网站注册后免费下载。\n\n数据常用于研究迁移与城市化、人力资本和健康的长期影响、风险分担和消费平滑、社会项目和经济危机（1997–98 亚洲金融危机）的影响。样本只覆盖 13 个省，不包括东部偏远省份。",
+    "source": "注册后免费下载（RAND；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "title": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "authors": [
+          "Kaivan Munshi",
+          "Mark Rosenzweig"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "1",
+        "pages": "46–98",
+        "doi": "10.1257/aer.20131365",
+        "url": "https://doi.org/10.1257/aer.20131365",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+        "title": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+        "authors": [
+          "Gharad Bryan",
+          "Melanie Morten"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "5",
+        "pages": "2229–2268",
+        "doi": "10.1086/701810",
+        "url": "https://doi.org/10.1086/701810",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.2.10",
+    "title": "印度人类发展调查（India Human Development Survey，IHDS）",
+    "links": [
+      {
+        "label": "India Human Development Survey",
+        "url": "https://ihds.umd.edu/"
+      }
+    ],
+    "summary": "马里兰大学与印度国家应用经济研究委员会（NCAER）开展的全国代表性住户追踪调查，2004–05 和 2011–12 两轮，覆盖约 4.1 万户，记录收入、消费、就业、教育、健康、种姓、性别关系和村庄特征，经 ICPSR 注册后免费下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "IHDS 由马里兰大学的 Sonalde Desai 等与 NCAER 合作设计，第一轮（2005）在印度 33 个邦和中央直辖区的 1,503 个村庄和 971 个城市街区访谈 41,554 户，第二轮（2012）追踪约 83% 的原住户并补充新样本。问卷包括住户收入（分农业、工资、经营和转移来源）、消费支出、资产、就业和工资、教育和儿童学习测试（阅读和算术）、健康和疾病、妇女地位和婚姻、种姓和宗教、社会网络与政府项目参与，以及村庄层面的基础设施、学校和医疗设施调查。数据经 ICPSR 注册后免费下载。\n\n数据常用于研究印度的贫困和不平等、种姓与社会流动、女性赋权、儿童教育质量、公共项目（如 NREGA）的效果和城乡迁移。只有两轮面板，各轮间部分问卷模块有调整。",
+    "source": "注册后免费下载（ICPSR、IHDS 官网）。",
+    "references": [
+      {
+        "raw": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "title": "Networks and Misallocation: Insurance, Migration, and the Rural-Urban Wage Gap",
+        "authors": [
+          "Kaivan Munshi",
+          "Mark Rosenzweig"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "1",
+        "pages": "46–98",
+        "doi": "10.1257/aer.20131365",
+        "url": "https://doi.org/10.1257/aer.20131365",
         "verified": true,
         "note": ""
       }
@@ -68702,6 +70062,125 @@
         "pages": "67–106",
         "doi": "10.3982/ecta19039",
         "url": "https://doi.org/10.3982/ecta19039",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.7",
+    "title": "东京商工リサーチ（Tokyo Shoko Research，TSR）企业信息与交易网络数据库",
+    "links": [
+      {
+        "label": "Tokyo Shoko Research",
+        "url": "https://www.tsr-net.co.jp/"
+      }
+    ],
+    "summary": "日本征信机构东京商工リサーチ编制的企业信用调查数据库，覆盖约 100 万家以上日本企业的地址、行业、员工、销售额、股东、银行往来和主要客户与供应商，可构建全国企业间交易网络，付费商业获取。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "商业数据"
+    ],
+    "introduction": "东京商工リサーチ（TSR）是日本最大的企业信用调查公司之一，通过调查员访谈和财务报表收集企业的名称、地址、成立年份、行业、资本金、员工人数、销售额和利润、主要股东、往来银行，以及最多 24 家主要供应商和客户。TSR 企业信息文件和企业关联文件被日本经济产业研究所（RIETI）等机构购买用于研究，形成覆盖约 100 万家企业、500 万条以上交易关系的供应链网络。数据为付费商业产品，学术使用通常通过 RIETI 或合作协议获取。\n\n数据常用于研究生产网络和冲击传导，例如东日本大地震对供应链上下游企业的影响、供应商的地理距离与企业绩效、企业间网络的形成。每家企业只记录有限数量的主要交易对象，交易金额通常不可得。",
+    "source": "付费商业（TSR；学术使用多经 RIETI 或合作协议）。",
+    "references": [
+      {
+        "raw": "Production Networks, Geography, and Firm Performance",
+        "title": "Production Networks, Geography, and Firm Performance",
+        "authors": [
+          "Andrew B. Bernard",
+          "Andreas Moxnes",
+          "Yukiko U. Saito"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "2",
+        "pages": "639–688",
+        "doi": "10.1086/700764",
+        "url": "https://doi.org/10.1086/700764",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.8",
+    "title": "日本企业活动基本调查（Basic Survey of Japanese Business Structure and Activities）",
+    "links": [
+      {
+        "label": "METI: Basic Survey of Japanese Business Structure and Activities",
+        "url": "https://www.meti.go.jp/english/statistics/tyo/kikatu/index.html"
+      }
+    ],
+    "summary": "日本经济产业省自 1992 年起对员工 50 人以上、资本金 3,000 万日元以上的制造业、批发零售业和部分服务业企业开展的年度调查，记录销售额、成本、雇佣、研发、出口、子公司和外包，汇总表公开，企业层面数据经经产省申请。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "企业活动基本调查（企業活動基本調査）由经济产业省（METI）于 1991 年首次实施，1995 年起每年进行，覆盖员工 50 人及以上且资本金或出资额 3,000 万日元以上的矿业、制造业、电气煤气、批发零售、餐饮和部分服务业企业，每年约 3 万家。调查项目包括企业组织和事业构成、销售额和成本结构、按职能的员工人数、有形固定资产和投资、研发支出和技术交易、进出口和海外子公司、母子公司关系、外包和电子商务。企业有固定编号，可构成面板。汇总结果在 METI 网站公布，企业层面微观数据依据统计法经申请使用，RIETI 研究人员常用。\n\n数据常用于研究日本企业的出口和对外直接投资、生产率与企业动态、研发和多元化，以及与 TSR 等数据关联研究供应链。小企业不在覆盖范围内，服务业覆盖不完整。",
+    "source": "汇总表公开；企业层面数据经 METI 申请（官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Production Networks, Geography, and Firm Performance",
+        "title": "Production Networks, Geography, and Firm Performance",
+        "authors": [
+          "Andrew B. Bernard",
+          "Andreas Moxnes",
+          "Yukiko U. Saito"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "2",
+        "pages": "639–688",
+        "doi": "10.1086/700764",
+        "url": "https://doi.org/10.1086/700764",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.9",
+    "title": "日本财务省法人企业统计调查（Financial Statements Statistics of Corporations by Industry）",
+    "links": [
+      {
+        "label": "MOF: Financial Statements Statistics of Corporations by Industry",
+        "url": "https://www.mof.go.jp/english/pri/reference/ssc/index.htm"
+      }
+    ],
+    "summary": "日本财务省对营利法人开展的年度和季度抽样调查，1948 年起，按行业和资本金规模发布资产、负债、销售、利润、投资和人员费用等财务统计，汇总表免费下载，个体数据经财务省申请。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "金融数据"
+    ],
+    "introduction": "法人企业统计调查由日本财务省（MOF）依据统计法实施，年度调查覆盖全部营利法人的抽样（资本金 10 亿日元以上的大企业全部调查），季度调查覆盖资本金 1,000 万日元以上的法人。调查内容包括资产负债表（现金、应收账款、存货、固定资产、借款、债券、净资产）和损益表（销售额、销售成本、营业利润、经常利润、利息支出、人员费用），以及设备投资和分红，按行业和资本金规模分组公布，时间序列可追溯到 1948 年（季度 1954 年）。汇总表在财务省政策研究所网站和 e-Stat 免费下载，个体数据经申请用于研究。\n\n数据常用于研究日本企业的投资和融资行为、利润率和劳动份额、资产负债表衰退以及货币政策对不同规模企业的影响。公布的是分组汇总，个体数据访问门槛较高。",
+    "source": "汇总表公开下载（财务省、e-Stat）；个体数据经财务省申请。",
+    "references": [
+      {
+        "raw": "Zombie Lending and Depressed Restructuring in Japan",
+        "title": "Zombie Lending and Depressed Restructuring in Japan",
+        "authors": [
+          "Ricardo J. Caballero",
+          "Takeo Hoshi",
+          "Anil K. Kashyap"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "5",
+        "pages": "1943–1977",
+        "doi": "10.1257/aer.98.5.1943",
+        "url": "https://doi.org/10.1257/aer.98.5.1943",
         "verified": true,
         "note": ""
       }
@@ -69994,6 +71473,41 @@
         "pages": "33–60",
         "doi": "10.2307/2937905",
         "url": "https://doi.org/10.2307/2937905",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unnatural Selection: Perverse Incentives and the Misallocation of Credit in Japan",
+        "title": "Unnatural Selection: Perverse Incentives and the Misallocation of Credit in Japan",
+        "authors": [
+          "Joe Peek",
+          "Eric S. Rosengren"
+        ],
+        "year": 2005,
+        "journal": "American Economic Review",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1144–1166",
+        "doi": "10.1257/0002828054825691",
+        "url": "https://doi.org/10.1257/0002828054825691",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Zombie Lending and Depressed Restructuring in Japan",
+        "title": "Zombie Lending and Depressed Restructuring in Japan",
+        "authors": [
+          "Ricardo J. Caballero",
+          "Takeo Hoshi",
+          "Anil K. Kashyap"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "5",
+        "pages": "1943–1977",
+        "doi": "10.1257/aer.98.5.1943",
+        "url": "https://doi.org/10.1257/aer.98.5.1943",
         "verified": true,
         "note": ""
       }
@@ -74359,6 +75873,46 @@
     ]
   },
   {
+    "id": "6.3.2",
+    "title": "SPARK-Interfax 俄罗斯与独联体企业信息数据库",
+    "links": [
+      {
+        "label": "SPARK-Interfax",
+        "url": "https://spark-interfax.com/"
+      }
+    ],
+    "summary": "Interfax 集团运营的俄罗斯、乌克兰、哈萨克斯坦等国企业信息系统，汇集官方登记、财务报表、所有权、法院案件和政府采购等数据，覆盖数千万家法人实体，付费订阅。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "商业数据"
+    ],
+    "introduction": "SPARK（System for Professional Analysis of Markets and Companies）由 Interfax 集团开发，从各国法人登记、统计局财务报表、法院和破产登记、政府采购和证券披露等官方来源收集企业信息，覆盖俄罗斯、乌克兰、白俄罗斯、哈萨克斯坦、乌兹别克斯坦和吉尔吉斯斯坦等国，记录企业名称和识别码、注册地址、行业、成立日期、股东和最终受益人、子公司和关联方、年度资产负债表和损益表、员工人数、诉讼和信用风险指标。数据为付费订阅产品，可按企业或批量下载。\n\n数据常用于研究俄罗斯和乌克兰企业的生产率、所有权结构和政治关联、制裁和战争冲击对企业的影响，以及与海关或交通数据关联构建企业间网络。小企业的财务报表质量参差不齐，部分年份数据缺失。",
+    "source": "付费商业（Interfax SPARK 订阅）。",
+    "references": [
+      {
+        "raw": "Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine's War",
+        "title": "Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine's War",
+        "authors": [
+          "Vasily Korovkin",
+          "Alexey Makarin",
+          "Yuhei Miyauchi"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "4",
+        "pages": "2750–2783",
+        "doi": "10.1093/restud/rdaf080",
+        "url": "https://doi.org/10.1093/restud/rdaf080",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.4.1",
     "title": "挪威统计局统计数据库（Statistics Norway StatBank）",
     "links": [
@@ -76329,6 +77883,22 @@
         "url": "https://doi.org/10.1257/app.20160469",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inequality, the Urban-Rural Gap, and Migration",
+        "title": "Inequality, the Urban-Rural Gap, and Migration",
+        "authors": [
+          "Alwyn Young"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1727–1785",
+        "doi": "10.1093/qje/qjt025",
+        "url": "https://doi.org/10.1093/qje/qjt025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -76906,6 +78476,24 @@
         "pages": "2289–2327",
         "doi": "10.1086/724314",
         "url": "https://doi.org/10.1086/724314",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "title": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "authors": [
+          "Alan Feng",
+          "Haishi Li",
+          "Yulin Wang"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "669",
+        "pages": "1433–1466",
+        "doi": "10.1093/ej/ueae119",
+        "url": "https://doi.org/10.1093/ej/ueae119",
         "verified": true,
         "note": ""
       }
@@ -78572,6 +80160,22 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inequality, the Urban-Rural Gap, and Migration",
+        "title": "Inequality, the Urban-Rural Gap, and Migration",
+        "authors": [
+          "Alwyn Young"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1727–1785",
+        "doi": "10.1093/qje/qjt025",
+        "url": "https://doi.org/10.1093/qje/qjt025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -79273,6 +80877,58 @@
         "pages": "102752",
         "doi": "10.1016/j.jdeveco.2021.102752",
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inequality, the Urban-Rural Gap, and Migration",
+        "title": "Inequality, the Urban-Rural Gap, and Migration",
+        "authors": [
+          "Alwyn Young"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1727–1785",
+        "doi": "10.1093/qje/qjt025",
+        "url": "https://doi.org/10.1093/qje/qjt025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On the Geography of Global Value Chains",
+        "title": "On the Geography of Global Value Chains",
+        "authors": [
+          "Pol Antràs",
+          "Alonso de Gortari"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "4",
+        "pages": "1553–1598",
+        "doi": "10.3982/ecta15362",
+        "url": "https://doi.org/10.3982/ecta15362",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Upstreamness of Production and Trade Flows",
+        "title": "Measuring the Upstreamness of Production and Trade Flows",
+        "authors": [
+          "Pol Antràs",
+          "Davin Chor",
+          "Thibault Fally",
+          "Russell Hillberry"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "3",
+        "pages": "412–416",
+        "doi": "10.1257/aer.102.3.412",
+        "url": "https://doi.org/10.1257/aer.102.3.412",
         "verified": true,
         "note": ""
       }
@@ -80299,6 +81955,42 @@
         "url": "https://doi.org/10.3982/ECTA12807",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "title": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "authors": [
+          "Alan Feng",
+          "Haishi Li",
+          "Yulin Wang"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "669",
+        "pages": "1433–1466",
+        "doi": "10.1093/ej/ueae119",
+        "url": "https://doi.org/10.1093/ej/ueae119",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firms, Destinations, and Aggregate Fluctuations",
+        "title": "Firms, Destinations, and Aggregate Fluctuations",
+        "authors": [
+          "Julian di Giovanni",
+          "Andrei A. Levchenko",
+          "Isabelle Mejean"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1303–1340",
+        "doi": "10.3982/ECTA11041",
+        "url": "https://doi.org/10.3982/ECTA11041",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -80634,6 +82326,25 @@
         "pages": "422–458",
         "doi": "10.1257/aer.104.2.422",
         "url": "https://doi.org/10.1257/aer.104.2.422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Upstreamness of Production and Trade Flows",
+        "title": "Measuring the Upstreamness of Production and Trade Flows",
+        "authors": [
+          "Pol Antràs",
+          "Davin Chor",
+          "Thibault Fally",
+          "Russell Hillberry"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "3",
+        "pages": "412–416",
+        "doi": "10.1257/aer.102.3.412",
+        "url": "https://doi.org/10.1257/aer.102.3.412",
         "verified": true,
         "note": ""
       }
@@ -81359,6 +83070,57 @@
         "url": "https://doi.org/10.1093/qje/qjx024",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Zombie Lending and Depressed Restructuring in Japan",
+        "title": "Zombie Lending and Depressed Restructuring in Japan",
+        "authors": [
+          "Ricardo J. Caballero",
+          "Takeo Hoshi",
+          "Anil K. Kashyap"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "5",
+        "pages": "1943–1977",
+        "doi": "10.1257/aer.98.5.1943",
+        "url": "https://doi.org/10.1257/aer.98.5.1943",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Important Are Sectoral Shocks?",
+        "title": "How Important Are Sectoral Shocks?",
+        "authors": [
+          "Enghin Atalay"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "9",
+        "issue": "4",
+        "pages": "254–280",
+        "doi": "10.1257/mac.20160353",
+        "url": "https://doi.org/10.1257/mac.20160353",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Great Diversification and Its Undoing",
+        "title": "The Great Diversification and Its Undoing",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Xavier Gabaix"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1697–1727",
+        "doi": "10.1257/aer.103.5.1697",
+        "url": "https://doi.org/10.1257/aer.103.5.1697",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -81993,6 +83755,22 @@
         "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inequality, the Urban-Rural Gap, and Migration",
+        "title": "Inequality, the Urban-Rural Gap, and Migration",
+        "authors": [
+          "Alwyn Young"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1727–1785",
+        "doi": "10.1093/qje/qjt025",
+        "url": "https://doi.org/10.1093/qje/qjt025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82050,6 +83828,25 @@
         "url": "https://doi.org/10.1257/aer.20231278",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "title": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "authors": [
+          "Òscar Jordà",
+          "Martin Kornejew",
+          "Moritz Schularick",
+          "Alan M. Taylor"
+        ],
+        "year": 2022,
+        "journal": "The Review of Financial Studies",
+        "volume": "35",
+        "issue": "10",
+        "pages": "4561–4586",
+        "doi": "10.1093/rfs/hhac018",
+        "url": "https://doi.org/10.1093/rfs/hhac018",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82086,6 +83883,44 @@
         "pages": "2376–2413",
         "doi": "10.1257/aer.20231278",
         "url": "https://doi.org/10.1257/aer.20231278",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.41",
+    "title": "国内流离失所监测中心全球流离失所数据库（IDMC Global Internal Displacement Database）",
+    "links": [
+      {
+        "label": "IDMC: Global Internal Displacement Database",
+        "url": "https://www.internal-displacement.org/database/displacement-data"
+      }
+    ],
+    "summary": "挪威难民理事会下属国内流离失所监测中心（IDMC）整理的全球约 200 个国家和地区因冲突、暴力和灾害导致的国内流离失所人数（新增流离和存量），冲突数据 2009 年起、灾害事件数据 2008 年起，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "环境数据"
+    ],
+    "introduction": "IDMC 成立于 1998 年，隶属挪威难民理事会（NRC），综合各国政府、联合国机构（OCHA、UNHCR、IOM 的流离追踪矩阵）、红十字会和媒体报告，按国家和年度估计冲突和暴力导致的新增国内流离人次和年末流离存量，并按事件记录洪水、风暴、地震、干旱、野火等灾害造成的流离人数、起止日期和地点。数据在全球国内流离失所数据库（GIDD）中免费下载，配套发布年度《全球国内流离失所报告》（GRID）。\n\n数据常用于研究战争和自然灾害对人口迁移、劳动力市场和经济增长的影响，以及气候变化下的灾害移民。不同来源的估计口径不一，回流和二次流离的数据较为薄弱。",
+    "source": "公开下载（IDMC 网站）。",
+    "references": [
+      {
+        "raw": "Inequality, the Urban-Rural Gap, and Migration",
+        "title": "Inequality, the Urban-Rural Gap, and Migration",
+        "authors": [
+          "Alwyn Young"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1727–1785",
+        "doi": "10.1093/qje/qjt025",
+        "url": "https://doi.org/10.1093/qje/qjt025",
         "verified": true,
         "note": ""
       }
@@ -88276,6 +90111,24 @@
         "url": "https://doi.org/10.1016/j.jeem.2014.06.003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "title": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "authors": [
+          "Alan Feng",
+          "Haishi Li",
+          "Yulin Wang"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "669",
+        "pages": "1433–1466",
+        "doi": "10.1093/ej/ueae119",
+        "url": "https://doi.org/10.1093/ej/ueae119",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -90810,6 +92663,25 @@
         "url": "https://doi.org/10.24149/wp2539",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring the Upstreamness of Production and Trade Flows",
+        "title": "Measuring the Upstreamness of Production and Trade Flows",
+        "authors": [
+          "Pol Antràs",
+          "Davin Chor",
+          "Thibault Fally",
+          "Russell Hillberry"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "3",
+        "pages": "412–416",
+        "doi": "10.1257/aer.102.3.412",
+        "url": "https://doi.org/10.1257/aer.102.3.412",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92045,6 +93917,25 @@
         "url": "https://doi.org/10.1086/677072",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "title": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "authors": [
+          "Òscar Jordà",
+          "Martin Kornejew",
+          "Moritz Schularick",
+          "Alan M. Taylor"
+        ],
+        "year": 2022,
+        "journal": "The Review of Financial Studies",
+        "volume": "35",
+        "issue": "10",
+        "pages": "4561–4586",
+        "doi": "10.1093/rfs/hhac018",
+        "url": "https://doi.org/10.1093/rfs/hhac018",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92604,6 +94495,25 @@
         "pages": "102752",
         "doi": "10.1016/j.jdeveco.2021.102752",
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Upstreamness of Production and Trade Flows",
+        "title": "Measuring the Upstreamness of Production and Trade Flows",
+        "authors": [
+          "Pol Antràs",
+          "Davin Chor",
+          "Thibault Fally",
+          "Russell Hillberry"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "3",
+        "pages": "412–416",
+        "doi": "10.1257/aer.102.3.412",
+        "url": "https://doi.org/10.1257/aer.102.3.412",
         "verified": true,
         "note": ""
       }
@@ -93291,6 +95201,43 @@
         "pages": "1598–1633",
         "doi": "10.1093/jeea/jvaf003",
         "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "title": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "authors": [
+          "Viral V. Acharya",
+          "Tim Eisert",
+          "Christian Eufinger",
+          "Christian Hirsch"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3366–3411",
+        "doi": "10.1093/rfs/hhz005",
+        "url": "https://doi.org/10.1093/rfs/hhz005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "title": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "authors": [
+          "Alan Feng",
+          "Haishi Li",
+          "Yulin Wang"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "669",
+        "pages": "1433–1466",
+        "doi": "10.1093/ej/ueae119",
+        "url": "https://doi.org/10.1093/ej/ueae119",
         "verified": true,
         "note": ""
       }
@@ -94192,6 +96139,23 @@
         "url": "https://doi.org/10.1111/j.1540-6261.2007.01293.x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unnatural Selection: Perverse Incentives and the Misallocation of Credit in Japan",
+        "title": "Unnatural Selection: Perverse Incentives and the Misallocation of Credit in Japan",
+        "authors": [
+          "Joe Peek",
+          "Eric S. Rosengren"
+        ],
+        "year": 2005,
+        "journal": "American Economic Review",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1144–1166",
+        "doi": "10.1257/0002828054825691",
+        "url": "https://doi.org/10.1257/0002828054825691",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94229,6 +96193,25 @@
         "pages": "945–974",
         "doi": "10.1257/aer.20220846",
         "url": "https://doi.org/10.1257/aer.20220846",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "title": "Whatever It Takes: The Real Effects of Unconventional Monetary Policy",
+        "authors": [
+          "Viral V. Acharya",
+          "Tim Eisert",
+          "Christian Eufinger",
+          "Christian Hirsch"
+        ],
+        "year": 2019,
+        "journal": "The Review of Financial Studies",
+        "volume": "32",
+        "issue": "9",
+        "pages": "3366–3411",
+        "doi": "10.1093/rfs/hhz005",
+        "url": "https://doi.org/10.1093/rfs/hhz005",
         "verified": true,
         "note": ""
       }
@@ -94773,6 +96756,25 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "title": "Zombies at Large? Corporate Debt Overhang and the Macroeconomy",
+        "authors": [
+          "Òscar Jordà",
+          "Martin Kornejew",
+          "Moritz Schularick",
+          "Alan M. Taylor"
+        ],
+        "year": 2022,
+        "journal": "The Review of Financial Studies",
+        "volume": "35",
+        "issue": "10",
+        "pages": "4561–4586",
+        "doi": "10.1093/rfs/hhac018",
+        "url": "https://doi.org/10.1093/rfs/hhac018",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -95255,6 +97257,23 @@
         "pages": "1034–1073",
         "doi": "10.1257/aer.20151184",
         "url": "https://doi.org/10.1257/aer.20151184",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+        "authors": [
+          "Jean-Noël Barrot",
+          "Julien Sauvagnat"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1543–1592",
+        "doi": "10.1093/qje/qjw018",
+        "url": "https://doi.org/10.1093/qje/qjw018",
         "verified": true,
         "note": ""
       }
@@ -96246,6 +98265,22 @@
         "pages": "2382–2410",
         "doi": "10.1257/aer.20210383",
         "url": "https://doi.org/10.1257/aer.20210383",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inequality, the Urban-Rural Gap, and Migration",
+        "title": "Inequality, the Urban-Rural Gap, and Migration",
+        "authors": [
+          "Alwyn Young"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1727–1785",
+        "doi": "10.1093/qje/qjt025",
+        "url": "https://doi.org/10.1093/qje/qjt025",
         "verified": true,
         "note": ""
       }
@@ -97725,6 +99760,23 @@
         "url": "https://doi.org/10.1162/rest_a_00480",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "On the Geography of Global Value Chains",
+        "title": "On the Geography of Global Value Chains",
+        "authors": [
+          "Pol Antràs",
+          "Alonso de Gortari"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "4",
+        "pages": "1553–1598",
+        "doi": "10.3982/ecta15362",
+        "url": "https://doi.org/10.3982/ecta15362",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97848,6 +99900,42 @@
         "pages": "103217",
         "doi": "10.1016/j.jdeveco.2023.103217",
         "url": "https://doi.org/10.1016/j.jdeveco.2023.103217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On the Geography of Global Value Chains",
+        "title": "On the Geography of Global Value Chains",
+        "authors": [
+          "Pol Antràs",
+          "Alonso de Gortari"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "4",
+        "pages": "1553–1598",
+        "doi": "10.3982/ecta15362",
+        "url": "https://doi.org/10.3982/ecta15362",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Upstreamness of Production and Trade Flows",
+        "title": "Measuring the Upstreamness of Production and Trade Flows",
+        "authors": [
+          "Pol Antràs",
+          "Davin Chor",
+          "Thibault Fally",
+          "Russell Hillberry"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "3",
+        "pages": "412–416",
+        "doi": "10.1257/aer.102.3.412",
+        "url": "https://doi.org/10.1257/aer.102.3.412",
         "verified": true,
         "note": ""
       }
@@ -98130,6 +100218,91 @@
         "pages": "281–290",
         "doi": "10.1162/rest_a_00592",
         "url": "https://doi.org/10.1162/rest_a_00592",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Input-Output Architecture",
+        "title": "A Theory of Input-Output Architecture",
+        "authors": [
+          "Ezra Oberfield"
+        ],
+        "year": 2018,
+        "journal": "Econometrica",
+        "volume": "86",
+        "issue": "2",
+        "pages": "559–589",
+        "doi": "10.3982/ECTA10731",
+        "url": "https://doi.org/10.3982/ECTA10731",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On the Geography of Global Value Chains",
+        "title": "On the Geography of Global Value Chains",
+        "authors": [
+          "Pol Antràs",
+          "Alonso de Gortari"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "4",
+        "pages": "1553–1598",
+        "doi": "10.3982/ecta15362",
+        "url": "https://doi.org/10.3982/ecta15362",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distortions and the Structure of the World Economy",
+        "title": "Distortions and the Structure of the World Economy",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Fernando Parro",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "4",
+        "pages": "274–308",
+        "doi": "10.1257/mac.20190410",
+        "url": "https://doi.org/10.1257/mac.20190410",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Important Are Sectoral Shocks?",
+        "title": "How Important Are Sectoral Shocks?",
+        "authors": [
+          "Enghin Atalay"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "9",
+        "issue": "4",
+        "pages": "254–280",
+        "doi": "10.1257/mac.20160353",
+        "url": "https://doi.org/10.1257/mac.20160353",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "title": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "authors": [
+          "Alan Feng",
+          "Haishi Li",
+          "Yulin Wang"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "669",
+        "pages": "1433–1466",
+        "doi": "10.1093/ej/ueae119",
+        "url": "https://doi.org/10.1093/ej/ueae119",
         "verified": true,
         "note": ""
       }
@@ -98430,6 +100603,84 @@
     ]
   },
   {
+    "id": "7.15.15",
+    "title": "Eora 全球多区域投入产出数据库（Eora MRIO）",
+    "links": [
+      {
+        "label": "Eora Global Supply Chain Database",
+        "url": "https://worldmrio.com/"
+      }
+    ],
+    "summary": "悉尼大学构建的覆盖 190 个国家、1990 年以来的高分辨率多区域投入产出表，包含约 15,000 个部门的中间品和最终品贸易流以及就业、能源、排放等卫星账户，学术用途注册后免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "环境数据"
+    ],
+    "introduction": "Eora 数据库由悉尼大学的 Manfred Lenzen、Daniel Moran 和 Keiichiro Kanemoto 等构建，综合各国投入产出表、国民账户、UN Comtrade 和服务贸易统计，用约束优化方法平衡出覆盖 190 个国家的多区域投入产出表（MRIO），各国部门数从 26 个（统一版 Eora26）到数百个不等，年份为 1990 年以来，并附有温室气体和空气污染物排放、能源使用、水足迹、土地利用、生物多样性威胁、就业等环境和社会卫星账户。数据在 worldmrio.com 学术注册后免费下载，商业使用需付费。\n\n数据常用于研究全球价值链和贸易增加值、碳足迹与贸易隐含排放，以及在多国量化贸易模型中刻画生产网络，覆盖国家数多于 WIOD 和 OECD ICIO。小国和发展中国家的数据大量依赖估算，平衡过程可能引入误差。",
+    "source": "学术注册后免费下载（worldmrio.com）；商业使用付费。",
+    "references": [
+      {
+        "raw": "On the Geography of Global Value Chains",
+        "title": "On the Geography of Global Value Chains",
+        "authors": [
+          "Pol Antràs",
+          "Alonso de Gortari"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "4",
+        "pages": "1553–1598",
+        "doi": "10.3982/ecta15362",
+        "url": "https://doi.org/10.3982/ecta15362",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.16",
+    "title": "IMF 贸易方向统计（Direction of Trade Statistics，DOTS）",
+    "links": [
+      {
+        "label": "IMF Data: Direction of Trade Statistics",
+        "url": "https://data.imf.org/"
+      }
+    ],
+    "summary": "IMF 发布的约 200 个国家和地区之间双边商品出口和进口价值统计，月度、季度和年度，1948 年起（年度），基于各国申报并对缺失数据用伙伴国数据补充，经 IMF 数据门户免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "DOTS 由国际货币基金组织统计部编制，汇总各国海关或央行报告的双边商品贸易总值（以美元计），出口按离岸价（FOB）、进口按到岸价（CIF），按月度、季度和年度提供，年度数据始于 1948 年，月度数据始于 1960 年。对于未报告或报告不完整的国家，IMF 用贸易伙伴的镜像数据和估计值补齐，因此覆盖面广于 UN Comtrade 的报告国范围，但不分商品类别。数据通过 IMF 数据门户免费下载。\n\n数据常用于引力模型和双边贸易流量研究、贸易冲击和金融危机的跨国传导、构造贸易权重和外部需求指标，例如衡量一国对受灾或受冲击国家的出口暴露度。数据只有贸易总值，不区分商品，镜像估计可能与实际申报存在差异。",
+    "source": "公开下载（IMF 数据门户；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "title": "We are All in the Same Boat: Cross-Border Spillovers of Climate Shocks through International Trade and Supply Chains",
+        "authors": [
+          "Alan Feng",
+          "Haishi Li",
+          "Yulin Wang"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "669",
+        "pages": "1433–1466",
+        "doi": "10.1093/ej/ueae119",
+        "url": "https://doi.org/10.1093/ej/ueae119",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.16.1",
     "title": "国际学生评估项目（PISA）",
     "links": [
@@ -98604,6 +100855,25 @@
         "pages": "1403–1448",
         "doi": "10.1162/qjec.2009.124.4.1403",
         "url": "https://doi.org/10.1162/qjec.2009.124.4.1403",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Upstreamness of Production and Trade Flows",
+        "title": "Measuring the Upstreamness of Production and Trade Flows",
+        "authors": [
+          "Pol Antràs",
+          "Davin Chor",
+          "Thibault Fally",
+          "Russell Hillberry"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "3",
+        "pages": "412–416",
+        "doi": "10.1257/aer.102.3.412",
+        "url": "https://doi.org/10.1257/aer.102.3.412",
         "verified": true,
         "note": ""
       }
