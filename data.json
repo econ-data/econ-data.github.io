@@ -8262,6 +8262,24 @@
         "url": "https://doi.org/10.1257/mac.20170388",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9520,6 +9538,24 @@
         "url": "https://doi.org/10.1093/qje/qjab022",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "title": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "authors": [
+          "Harold L. Cole",
+          "Jeremy Greenwood",
+          "Juan M. Sanchez"
+        ],
+        "year": 2016,
+        "journal": "Econometrica",
+        "volume": "84",
+        "issue": "4",
+        "pages": "1477–1521",
+        "doi": "10.3982/ECTA11150",
+        "url": "https://doi.org/10.3982/ECTA11150",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9943,6 +9979,23 @@
         "pages": "387–403",
         "doi": "10.1162/REST_a_00089",
         "url": "https://doi.org/10.1162/REST_a_00089",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
         "verified": true,
         "note": ""
       }
@@ -11156,6 +11209,45 @@
         "url": "https://doi.org/10.3982/ECTA14243",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Diffusion of New Technologies",
+        "title": "The Diffusion of New Technologies",
+        "authors": [
+          "Aakash Kalyani",
+          "Nicholas Bloom",
+          "Marcela Carvalho",
+          "Tarek Alexander Hassan",
+          "Josh Lerner",
+          "Ahmed Tahoun"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1299–1365",
+        "doi": "10.1093/qje/qjaf002",
+        "url": "https://doi.org/10.1093/qje/qjaf002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12166,6 +12258,77 @@
         "pages": "258–269",
         "doi": "10.1016/j.jue.2008.01.003",
         "url": "https://doi.org/10.1016/j.jue.2008.01.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "title": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "authors": [
+          "David H. Autor",
+          "Lawrence F. Katz",
+          "Alan B. Krueger"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "4",
+        "pages": "1169–1213",
+        "doi": "10.1162/003355398555874",
+        "url": "https://doi.org/10.1162/003355398555874",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+        "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+        "authors": [
+          "David H. Autor",
+          "Frank Levy",
+          "Richard J. Murnane"
+        ],
+        "year": 2003,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "118",
+        "issue": "4",
+        "pages": "1279–1333",
+        "doi": "10.1162/003355303322552801",
+        "url": "https://doi.org/10.1162/003355303322552801",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Should Robots Be Taxed?",
+        "title": "Should Robots Be Taxed?",
+        "authors": [
+          "Joao Guerreiro",
+          "Sergio Rebelo",
+          "Pedro Teles"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "279–311",
+        "doi": "10.1093/restud/rdab019",
+        "url": "https://doi.org/10.1093/restud/rdab019",
         "verified": true,
         "note": ""
       }
@@ -15132,6 +15295,25 @@
         "url": "https://doi.org/10.1257/mac.20230195",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "title": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "authors": [
+          "Daron Acemoglu",
+          "David Autor",
+          "Jonathon Hazell",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Journal of Labor Economics",
+        "volume": "40",
+        "issue": "S1",
+        "pages": "S293–S340",
+        "doi": "10.1086/718327",
+        "url": "https://doi.org/10.1086/718327",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15224,6 +15406,25 @@
         "pages": "1102–1136",
         "doi": "10.1093/restud/rdu007",
         "url": "https://doi.org/10.1093/restud/rdu007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "title": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "authors": [
+          "Daron Acemoglu",
+          "David Autor",
+          "Jonathon Hazell",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Journal of Labor Economics",
+        "volume": "40",
+        "issue": "S1",
+        "pages": "S293–S340",
+        "doi": "10.1086/718327",
+        "url": "https://doi.org/10.1086/718327",
         "verified": true,
         "note": ""
       }
@@ -15376,6 +15577,42 @@
         "pages": "210–244",
         "doi": "10.1257/mac.20160241",
         "url": "https://doi.org/10.1257/mac.20160241",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "title": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "authors": [
+          "Daron Acemoglu",
+          "David Autor",
+          "Jonathon Hazell",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Journal of Labor Economics",
+        "volume": "40",
+        "issue": "S1",
+        "pages": "S293–S340",
+        "doi": "10.1086/718327",
+        "url": "https://doi.org/10.1086/718327",
         "verified": true,
         "note": ""
       }
@@ -15797,6 +16034,41 @@
         "url": "https://doi.org/10.1257/aer.20211478",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+        "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+        "authors": [
+          "David H. Autor",
+          "Frank Levy",
+          "Richard J. Murnane"
+        ],
+        "year": 2003,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "118",
+        "issue": "4",
+        "pages": "1279–1333",
+        "doi": "10.1162/003355303322552801",
+        "url": "https://doi.org/10.1162/003355303322552801",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots at Work",
+        "title": "Robots at Work",
+        "authors": [
+          "Georg Graetz",
+          "Guy Michaels"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "753–768",
+        "doi": "10.1162/rest_a_00754",
+        "url": "https://doi.org/10.1162/rest_a_00754",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16089,6 +16361,42 @@
         "pages": "60–75",
         "doi": "10.1162/rest_a_00750",
         "url": "https://doi.org/10.1162/rest_a_00750",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "title": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "authors": [
+          "Harold L. Cole",
+          "Jeremy Greenwood",
+          "Juan M. Sanchez"
+        ],
+        "year": 2016,
+        "journal": "Econometrica",
+        "volume": "84",
+        "issue": "4",
+        "pages": "1477–1521",
+        "doi": "10.3982/ECTA11150",
+        "url": "https://doi.org/10.3982/ECTA11150",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "title": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "authors": [
+          "David H. Autor",
+          "Lawrence F. Katz",
+          "Alan B. Krueger"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "4",
+        "pages": "1169–1213",
+        "doi": "10.1162/003355398555874",
+        "url": "https://doi.org/10.1162/003355398555874",
         "verified": true,
         "note": ""
       }
@@ -16733,6 +17041,24 @@
         "pages": "895–954",
         "doi": "10.1093/qje/qjac046",
         "url": "https://doi.org/10.1093/qje/qjac046",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Equilibrium Technology Diffusion, Trade, and Growth",
+        "title": "Equilibrium Technology Diffusion, Trade, and Growth",
+        "authors": [
+          "Jesse Perla",
+          "Christopher Tonetti",
+          "Michael E. Waugh"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "1",
+        "pages": "73–128",
+        "doi": "10.1257/aer.20151645",
+        "url": "https://doi.org/10.1257/aer.20151645",
         "verified": true,
         "note": ""
       }
@@ -17955,6 +18281,23 @@
         "url": "https://doi.org/10.3982/ECTA10731",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18842,6 +19185,40 @@
         "url": "https://doi.org/10.3982/ecta9466",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Liberalization, Exports, and Technology Upgrading: Evidence on the Impact of MERCOSUR on Argentinian Firms",
+        "title": "Trade Liberalization, Exports, and Technology Upgrading: Evidence on the Impact of MERCOSUR on Argentinian Firms",
+        "authors": [
+          "Paula Bustos"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "1",
+        "pages": "304–340",
+        "doi": "10.1257/aer.101.1.304",
+        "url": "https://doi.org/10.1257/aer.101.1.304",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "title": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "authors": [
+          "David H. Autor",
+          "Lawrence F. Katz",
+          "Alan B. Krueger"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "4",
+        "pages": "1169–1213",
+        "doi": "10.1162/003355398555874",
+        "url": "https://doi.org/10.1162/003355398555874",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19426,6 +19803,42 @@
         "pages": "3323–3356",
         "doi": "10.1257/aer.20221365",
         "url": "https://doi.org/10.1257/aer.20221365",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "title": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "authors": [
+          "Daron Acemoglu",
+          "David Autor",
+          "Jonathon Hazell",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Journal of Labor Economics",
+        "volume": "40",
+        "issue": "S1",
+        "pages": "S293–S340",
+        "doi": "10.1086/718327",
+        "url": "https://doi.org/10.1086/718327",
         "verified": true,
         "note": ""
       }
@@ -20281,6 +20694,23 @@
         "url": "https://doi.org/10.1093/qje/qjab022",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20967,6 +21397,22 @@
         "pages": "1621–1659",
         "doi": "10.3982/ECTA20629",
         "url": "https://doi.org/10.3982/ECTA20629",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?",
+        "title": "Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?",
+        "authors": [
+          "Kevin J. Stiroh"
+        ],
+        "year": 2002,
+        "journal": "American Economic Review",
+        "volume": "92",
+        "issue": "5",
+        "pages": "1559–1576",
+        "doi": "10.1257/000282802762024638",
+        "url": "https://doi.org/10.1257/000282802762024638",
         "verified": true,
         "note": ""
       }
@@ -22345,6 +22791,145 @@
         "pages": "1104–1144",
         "doi": "10.1257/aer.20180338",
         "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Barriers to Technology Adoption and Development",
+        "title": "Barriers to Technology Adoption and Development",
+        "authors": [
+          "Stephen L. Parente",
+          "Edward C. Prescott"
+        ],
+        "year": 1994,
+        "journal": "Journal of Political Economy",
+        "volume": "102",
+        "issue": "2",
+        "pages": "298–321",
+        "doi": "10.1086/261933",
+        "url": "https://doi.org/10.1086/261933",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?",
+        "title": "Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?",
+        "authors": [
+          "Kevin J. Stiroh"
+        ],
+        "year": 2002,
+        "journal": "American Economic Review",
+        "volume": "92",
+        "issue": "5",
+        "pages": "1559–1576",
+        "doi": "10.1257/000282802762024638",
+        "url": "https://doi.org/10.1257/000282802762024638",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Productivity: Firm-Level Evidence",
+        "title": "Computing Productivity: Firm-Level Evidence",
+        "authors": [
+          "Erik Brynjolfsson",
+          "Lorin M. Hitt"
+        ],
+        "year": 2003,
+        "journal": "Review of Economics and Statistics",
+        "volume": "85",
+        "issue": "4",
+        "pages": "793–808",
+        "doi": "10.1162/003465303772815736",
+        "url": "https://doi.org/10.1162/003465303772815736",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "title": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "authors": [
+          "David H. Autor",
+          "Lawrence F. Katz",
+          "Alan B. Krueger"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "4",
+        "pages": "1169–1213",
+        "doi": "10.1162/003355398555874",
+        "url": "https://doi.org/10.1162/003355398555874",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+        "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+        "authors": [
+          "David H. Autor",
+          "Frank Levy",
+          "Richard J. Murnane"
+        ],
+        "year": 2003,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "118",
+        "issue": "4",
+        "pages": "1279–1333",
+        "doi": "10.1162/003355303322552801",
+        "url": "https://doi.org/10.1162/003355303322552801",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies",
+        "title": "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies",
+        "authors": [
+          "Erik Brynjolfsson",
+          "Daniel Rock",
+          "Chad Syverson"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "13",
+        "issue": "1",
+        "pages": "333–372",
+        "doi": "10.1257/mac.20180386",
+        "url": "https://doi.org/10.1257/mac.20180386",
         "verified": true,
         "note": ""
       }
@@ -23932,6 +24517,93 @@
         "url": "https://doi.org/10.1257/aer.20180338",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Equilibrium Technology Diffusion, Trade, and Growth",
+        "title": "Equilibrium Technology Diffusion, Trade, and Growth",
+        "authors": [
+          "Jesse Perla",
+          "Christopher Tonetti",
+          "Michael E. Waugh"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "1",
+        "pages": "73–128",
+        "doi": "10.1257/aer.20151645",
+        "url": "https://doi.org/10.1257/aer.20151645",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Productivity: Firm-Level Evidence",
+        "title": "Computing Productivity: Firm-Level Evidence",
+        "authors": [
+          "Erik Brynjolfsson",
+          "Lorin M. Hitt"
+        ],
+        "year": 2003,
+        "journal": "Review of Economics and Statistics",
+        "volume": "85",
+        "issue": "4",
+        "pages": "793–808",
+        "doi": "10.1162/003465303772815736",
+        "url": "https://doi.org/10.1162/003465303772815736",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "title": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "authors": [
+          "David H. Autor",
+          "Lawrence F. Katz",
+          "Alan B. Krueger"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "4",
+        "pages": "1169–1213",
+        "doi": "10.1162/003355398555874",
+        "url": "https://doi.org/10.1162/003355398555874",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24569,6 +25241,23 @@
         "url": "https://doi.org/10.1257/aer.20191895",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24927,6 +25616,60 @@
         "url": "https://doi.org/10.1257/app.20220427",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "title": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "authors": [
+          "Alex Bell",
+          "Raj Chetty",
+          "Xavier Jaravel",
+          "Neviana Petkova",
+          "John Van Reenen"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "2",
+        "pages": "647–713",
+        "doi": "10.1093/qje/qjy028",
+        "url": "https://doi.org/10.1093/qje/qjy028",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots at Work",
+        "title": "Robots at Work",
+        "authors": [
+          "Georg Graetz",
+          "Guy Michaels"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "753–768",
+        "doi": "10.1162/rest_a_00754",
+        "url": "https://doi.org/10.1162/rest_a_00754",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25019,6 +25762,23 @@
         "pages": "2403–2452",
         "doi": "10.1093/restud/rdy068",
         "url": "https://doi.org/10.1093/restud/rdy068",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
         "verified": true,
         "note": ""
       }
@@ -25559,6 +26319,24 @@
         "url": "https://doi.org/10.1162/003355399556188",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Equilibrium Technology Diffusion, Trade, and Growth",
+        "title": "Equilibrium Technology Diffusion, Trade, and Growth",
+        "authors": [
+          "Jesse Perla",
+          "Christopher Tonetti",
+          "Michael E. Waugh"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "1",
+        "pages": "73–128",
+        "doi": "10.1257/aer.20151645",
+        "url": "https://doi.org/10.1257/aer.20151645",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25667,6 +26445,44 @@
         "pages": "180–212",
         "doi": "10.1257/pol.2.3.180",
         "url": "https://doi.org/10.1257/pol.2.3.180",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "title": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "authors": [
+          "Alex Bell",
+          "Raj Chetty",
+          "Xavier Jaravel",
+          "Neviana Petkova",
+          "John Van Reenen"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "2",
+        "pages": "647–713",
+        "doi": "10.1093/qje/qjy028",
+        "url": "https://doi.org/10.1093/qje/qjy028",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
         "verified": true,
         "note": ""
       }
@@ -25971,6 +26787,26 @@
         "pages": "1343–1404",
         "doi": "10.1093/qje/qjz011",
         "url": "https://doi.org/10.1093/qje/qjz011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "title": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "authors": [
+          "Alex Bell",
+          "Raj Chetty",
+          "Xavier Jaravel",
+          "Neviana Petkova",
+          "John Van Reenen"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "2",
+        "pages": "647–713",
+        "doi": "10.1093/qje/qjy028",
+        "url": "https://doi.org/10.1093/qje/qjy028",
         "verified": true,
         "note": ""
       }
@@ -26502,6 +27338,24 @@
         "url": "https://doi.org/10.1093/qje/qjq002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Should Robots Be Taxed?",
+        "title": "Should Robots Be Taxed?",
+        "authors": [
+          "Joao Guerreiro",
+          "Sergio Rebelo",
+          "Pedro Teles"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "279–311",
+        "doi": "10.1093/restud/rdab019",
+        "url": "https://doi.org/10.1093/restud/rdab019",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26644,6 +27498,59 @@
         "pages": "665–712",
         "doi": "10.1093/qje/qjw040",
         "url": "https://doi.org/10.1093/qje/qjw040",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies",
+        "title": "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies",
+        "authors": [
+          "Erik Brynjolfsson",
+          "Daniel Rock",
+          "Chad Syverson"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "13",
+        "issue": "1",
+        "pages": "333–372",
+        "doi": "10.1257/mac.20180386",
+        "url": "https://doi.org/10.1257/mac.20180386",
         "verified": true,
         "note": ""
       }
@@ -51900,6 +52807,25 @@
         "url": "https://doi.org/10.1111/jofi.12150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "title": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "authors": [
+          "Sean Cao",
+          "Wei Jiang",
+          "Junbo Wang",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "103910",
+        "doi": "10.1016/j.jfineco.2024.103910",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103910",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53053,6 +53979,43 @@
         "pages": "665–712",
         "doi": "10.1093/qje/qjw040",
         "url": "https://doi.org/10.1093/qje/qjw040",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fast and Slow Technological Transitions",
+        "title": "Fast and Slow Technological Transitions",
+        "authors": [
+          "Rodrigo Adão",
+          "Martin Beraja",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "2",
+        "issue": "2",
+        "pages": "183–227",
+        "doi": "10.1086/730223",
+        "url": "https://doi.org/10.1086/730223",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "title": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "authors": [
+          "Sean Cao",
+          "Wei Jiang",
+          "Junbo Wang",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "103910",
+        "doi": "10.1016/j.jfineco.2024.103910",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103910",
         "verified": true,
         "note": ""
       }
@@ -54893,6 +55856,115 @@
         "url": "https://doi.org/10.1257/aer.103.1.277",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Information Technology, Workplace Organization, and the Demand for Skilled Labor: Firm-Level Evidence",
+        "title": "Information Technology, Workplace Organization, and the Demand for Skilled Labor: Firm-Level Evidence",
+        "authors": [
+          "Timothy F. Bresnahan",
+          "Erik Brynjolfsson",
+          "Lorin M. Hitt"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "1",
+        "pages": "339–376",
+        "doi": "10.1162/003355302753399526",
+        "url": "https://doi.org/10.1162/003355302753399526",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Productivity: Firm-Level Evidence",
+        "title": "Computing Productivity: Firm-Level Evidence",
+        "authors": [
+          "Erik Brynjolfsson",
+          "Lorin M. Hitt"
+        ],
+        "year": 2003,
+        "journal": "Review of Economics and Statistics",
+        "volume": "85",
+        "issue": "4",
+        "pages": "793–808",
+        "doi": "10.1162/003465303772815736",
+        "url": "https://doi.org/10.1162/003465303772815736",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies",
+        "title": "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies",
+        "authors": [
+          "Erik Brynjolfsson",
+          "Daniel Rock",
+          "Chad Syverson"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "13",
+        "issue": "1",
+        "pages": "333–372",
+        "doi": "10.1257/mac.20180386",
+        "url": "https://doi.org/10.1257/mac.20180386",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The demand for AI skills in the labor market",
+        "title": "The demand for AI skills in the labor market",
+        "authors": [
+          "Liudmila Alekseeva",
+          "José Azar",
+          "Mireia Giné",
+          "Sampsa Samila",
+          "Bledi Taska"
+        ],
+        "year": 2021,
+        "journal": "Labour Economics",
+        "volume": "71",
+        "issue": "",
+        "pages": "102002",
+        "doi": "10.1016/j.labeco.2021.102002",
+        "url": "https://doi.org/10.1016/j.labeco.2021.102002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "title": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "authors": [
+          "Sean Cao",
+          "Wei Jiang",
+          "Junbo Wang",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "103910",
+        "doi": "10.1016/j.jfineco.2024.103910",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103910",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55692,6 +56764,25 @@
         "url": "https://doi.org/10.1093/qje/qjw040",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "title": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "authors": [
+          "Sean Cao",
+          "Wei Jiang",
+          "Junbo Wang",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "103910",
+        "doi": "10.1016/j.jfineco.2024.103910",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103910",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -56053,6 +57144,25 @@
         "pages": "104039",
         "doi": "10.1016/j.jfineco.2025.104039",
         "url": "https://doi.org/10.1016/j.jfineco.2025.104039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "title": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "authors": [
+          "Sean Cao",
+          "Wei Jiang",
+          "Junbo Wang",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "103910",
+        "doi": "10.1016/j.jfineco.2024.103910",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103910",
         "verified": true,
         "note": ""
       }
@@ -57243,6 +58353,24 @@
         "url": "https://doi.org/10.1257/aer.103.1.277",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -58314,6 +59442,85 @@
     ]
   },
   {
+    "id": "2.12.50",
+    "title": "美联储分配金融账户（Distributional Financial Accounts，DFA）",
+    "links": [
+      {
+        "label": "Federal Reserve: Distributional Financial Accounts",
+        "url": "https://www.federalreserve.gov/releases/z1/dataviz/dfa/"
+      }
+    ],
+    "summary": "美联储理事会将金融账户（Z.1）的家庭资产负债总量按消费者金融调查（SCF）的分布分配到不同财富、收入、年龄、教育和种族群体，1989 年起季度更新，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "DFA 由美联储理事会研究人员（Batty、Bricker、Briggs 等）开发，以 Z.1 金融账户中的家庭和非营利部门资产负债表为总量控制，利用三年一次的 SCF 微观数据确定各类资产（房地产、企业股权、养老金、存款、耐用品）和负债（抵押贷款、消费信贷）在家庭间的分布，并在调查年份之间插值、用季度总量更新，按财富百分位（前 0.1%、前 1%、90–99%、50–90%、后 50%）、收入、年龄、教育、种族和代际群体发布季度财富份额和构成。数据在美联储网站免费下载并有可视化工具。\n\n数据常用于研究美国财富不平等的高频变化、资产价格变动的分配效应、货币政策和疫情冲击对不同群体财富的影响，以及校准异质性主体宏观模型。分配依赖 SCF 的三年周期，季度间变化主要来自资产价格。",
+    "source": "公开下载（美联储网站）。",
+    "references": [
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.51",
+    "title": "Holston-Laubach-Williams 自然利率估计（纽约联储 r*）",
+    "links": [
+      {
+        "label": "New York Fed: Measuring the Natural Rate of Interest",
+        "url": "https://www.newyorkfed.org/research/policy/rstar"
+      }
+    ],
+    "summary": "纽约联储发布的 Holston、Laubach 和 Williams 模型对美国、加拿大和欧元区自然利率（r*）、潜在产出增长率和趋势增长的季度估计，1960 年代起，定期更新，免费下载。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "该估计基于 Laubach 和 Williams（2003）以及 Holston、Laubach 和 Williams（2017）的半结构化状态空间模型，利用实际 GDP、核心通胀和短期利率，通过卡尔曼滤波联合估计不可观测的自然利率（使产出等于潜在产出、通胀稳定的实际利率）、潜在产出和趋势增长率。纽约联邦储备银行按季度更新美国、加拿大和欧元区的单边（实时）估计，发布数据文件和代码，2020 年后对模型加入了疫情期间的调整。数据在纽约联储网站免费下载。\n\n数据常用于研究自然利率的长期下降、货币政策立场的衡量（实际利率与 r* 的差距）、长期停滞和人口结构与储蓄过剩的宏观影响。估计不确定性很大，模型设定变化会显著改变结果。",
+    "source": "公开下载（纽约联储网站）。",
+    "references": [
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.13.1",
     "title": "Nielsen 零售扫描数据",
     "links": [
@@ -58892,6 +60099,24 @@
         "url": "https://doi.org/10.1086/697901",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "title": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "authors": [
+          "David H. Autor",
+          "Lawrence F. Katz",
+          "Alan B. Krueger"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "4",
+        "pages": "1169–1213",
+        "doi": "10.1162/003355398555874",
+        "url": "https://doi.org/10.1162/003355398555874",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59057,6 +60282,85 @@
         "pages": "1449–1498",
         "doi": "10.1111/jofi.13219",
         "url": "https://doi.org/10.1111/jofi.13219",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Diffusion of New Technologies",
+        "title": "The Diffusion of New Technologies",
+        "authors": [
+          "Aakash Kalyani",
+          "Nicholas Bloom",
+          "Marcela Carvalho",
+          "Tarek Alexander Hassan",
+          "Josh Lerner",
+          "Ahmed Tahoun"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1299–1365",
+        "doi": "10.1093/qje/qjaf002",
+        "url": "https://doi.org/10.1093/qje/qjaf002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The demand for AI skills in the labor market",
+        "title": "The demand for AI skills in the labor market",
+        "authors": [
+          "Liudmila Alekseeva",
+          "José Azar",
+          "Mireia Giné",
+          "Sampsa Samila",
+          "Bledi Taska"
+        ],
+        "year": 2021,
+        "journal": "Labour Economics",
+        "volume": "71",
+        "issue": "",
+        "pages": "102002",
+        "doi": "10.1016/j.labeco.2021.102002",
+        "url": "https://doi.org/10.1016/j.labeco.2021.102002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "title": "Artificial Intelligence and Jobs: Evidence from Online Vacancies",
+        "authors": [
+          "Daron Acemoglu",
+          "David Autor",
+          "Jonathon Hazell",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Journal of Labor Economics",
+        "volume": "40",
+        "issue": "S1",
+        "pages": "S293–S340",
+        "doi": "10.1086/718327",
+        "url": "https://doi.org/10.1086/718327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "title": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "authors": [
+          "Sean Cao",
+          "Wei Jiang",
+          "Junbo Wang",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "103910",
+        "doi": "10.1016/j.jfineco.2024.103910",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103910",
         "verified": true,
         "note": ""
       }
@@ -59641,6 +60945,26 @@
         "url": "https://doi.org/10.1257/aer.103.1.277",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "title": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "authors": [
+          "Alex Bell",
+          "Raj Chetty",
+          "Xavier Jaravel",
+          "Neviana Petkova",
+          "John Van Reenen"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "2",
+        "pages": "647–713",
+        "doi": "10.1093/qje/qjy028",
+        "url": "https://doi.org/10.1093/qje/qjy028",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59963,6 +61287,81 @@
         "pages": "1136–1164",
         "doi": "10.1257/aer.20150808",
         "url": "https://doi.org/10.1257/aer.20150808",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.16",
+    "title": "Harte-Hanks 企业信息技术数据库（Computer Intelligence / CiTDB，现 Aberdeen）",
+    "links": [
+      {
+        "label": "Aberdeen (formerly Harte-Hanks CiTDB)",
+        "url": "https://www.aberdeen.com/"
+      }
+    ],
+    "summary": "Computer Intelligence（后归 Harte-Hanks，现为 Aberdeen Group）对美国及欧洲数十万个企业场所开展的 IT 设施电话调查数据库，1980 年代起，记录个人电脑、服务器、网络设备、软件和 IT 预算等，付费商业获取。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据",
+      "微观企业数据"
+    ],
+    "introduction": "Computer Intelligence InfoCorp（CII）自 1980 年代起每年对美国大型企业及其场所进行调查，记录各场所安装的主机、小型机、个人电脑数量和价值、外设和网络设备；该业务后被 Harte-Hanks 收购并发展为 Computer Intelligence Technology Database（CiTDB），扩展到美国和欧洲数十万个企业场所，记录员工人数、个人电脑和服务器数量、软件（ERP、数据库、操作系统）、网络和云服务使用以及 IT 预算，2018 年后归 Aberdeen Group 所有。数据为付费商业产品，研究者通常通过购买或合作协议获取。\n\n数据常用于测量企业的 IT 资本和技术采用，研究 IT 投资对生产率、组织变革和技能需求的影响（如 Brynjolfsson-Hitt、Bloom-Sadun-Van Reenen 的美国效应研究），以及宽带和软件采用的扩散。调查以较大企业为主，变量定义随年份调整。",
+    "source": "付费商业（Aberdeen，原 Harte-Hanks）。",
+    "references": [
+      {
+        "raw": "Information Technology, Workplace Organization, and the Demand for Skilled Labor: Firm-Level Evidence",
+        "title": "Information Technology, Workplace Organization, and the Demand for Skilled Labor: Firm-Level Evidence",
+        "authors": [
+          "Timothy F. Bresnahan",
+          "Erik Brynjolfsson",
+          "Lorin M. Hitt"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "1",
+        "pages": "339–376",
+        "doi": "10.1162/003355302753399526",
+        "url": "https://doi.org/10.1162/003355302753399526",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Productivity: Firm-Level Evidence",
+        "title": "Computing Productivity: Firm-Level Evidence",
+        "authors": [
+          "Erik Brynjolfsson",
+          "Lorin M. Hitt"
+        ],
+        "year": 2003,
+        "journal": "Review of Economics and Statistics",
+        "volume": "85",
+        "issue": "4",
+        "pages": "793–808",
+        "doi": "10.1162/003465303772815736",
+        "url": "https://doi.org/10.1162/003465303772815736",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
         "verified": true,
         "note": ""
       }
@@ -61142,6 +62541,27 @@
         "pages": "895–954",
         "doi": "10.1093/qje/qjac046",
         "url": "https://doi.org/10.1093/qje/qjac046",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Diffusion of New Technologies",
+        "title": "The Diffusion of New Technologies",
+        "authors": [
+          "Aakash Kalyani",
+          "Nicholas Bloom",
+          "Marcela Carvalho",
+          "Tarek Alexander Hassan",
+          "Josh Lerner",
+          "Ahmed Tahoun"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1299–1365",
+        "doi": "10.1093/qje/qjaf002",
+        "url": "https://doi.org/10.1093/qje/qjaf002",
         "verified": true,
         "note": ""
       }
@@ -63598,6 +65018,27 @@
         "url": "https://doi.org/10.1257/mac.20240057",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Diffusion of New Technologies",
+        "title": "The Diffusion of New Technologies",
+        "authors": [
+          "Aakash Kalyani",
+          "Nicholas Bloom",
+          "Marcela Carvalho",
+          "Tarek Alexander Hassan",
+          "Josh Lerner",
+          "Ahmed Tahoun"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1299–1365",
+        "doi": "10.1093/qje/qjaf002",
+        "url": "https://doi.org/10.1093/qje/qjaf002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -64830,6 +66271,25 @@
         "url": "https://doi.org/10.1016/j.jeem.2026.103386",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Adjustment of Labor Markets to Robots",
+        "title": "The Adjustment of Labor Markets to Robots",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum",
+          "Nicole Woessner"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "6",
+        "pages": "3104–3153",
+        "doi": "10.1093/jeea/jvab012",
+        "url": "https://doi.org/10.1093/jeea/jvab012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65365,6 +66825,60 @@
         "url": "https://doi.org/10.3982/ecta16915",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fast and Slow Technological Transitions",
+        "title": "Fast and Slow Technological Transitions",
+        "authors": [
+          "Rodrigo Adão",
+          "Martin Beraja",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "2",
+        "issue": "2",
+        "pages": "183–227",
+        "doi": "10.1086/730223",
+        "url": "https://doi.org/10.1086/730223",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and firm investment",
+        "title": "Robots and firm investment",
+        "authors": [
+          "Efraim Benmelech",
+          "Michał Zator"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "174",
+        "issue": "",
+        "pages": "104183",
+        "doi": "10.1016/j.jfineco.2025.104183",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104183",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Adjustment of Labor Markets to Robots",
+        "title": "The Adjustment of Labor Markets to Robots",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum",
+          "Nicole Woessner"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "6",
+        "pages": "3104–3153",
+        "doi": "10.1093/jeea/jvab012",
+        "url": "https://doi.org/10.1093/jeea/jvab012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65559,6 +67073,82 @@
         "pages": "1598–1633",
         "doi": "10.1093/jeea/jvaf003",
         "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fast and Slow Technological Transitions",
+        "title": "Fast and Slow Technological Transitions",
+        "authors": [
+          "Rodrigo Adão",
+          "Martin Beraja",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "2",
+        "issue": "2",
+        "pages": "183–227",
+        "doi": "10.1086/730223",
+        "url": "https://doi.org/10.1086/730223",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.23",
+    "title": "德国 BIBB/BAuA 就业调查（BIBB/IAB、BIBB/BAuA Employment Surveys）",
+    "links": [
+      {
+        "label": "BIBB",
+        "url": "https://www.bibb.de/en/"
+      }
+    ],
+    "summary": "德国联邦职业教育与培训研究所（BIBB）与 IAB 或联邦职业安全与健康研究所（BAuA）合作开展的约 2–3 万名就业者的横截面调查，1979 年起约每 6 年一轮，记录工作任务、技能要求、工具和技术使用、工作条件，经 BIBB 研究数据中心申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "该系列调查始于 1979 年，1979–1999 年各轮由 BIBB 与 IAB 合作，2006 年起与 BAuA 合作（2006、2012、2018 年），每轮访谈约 2–3 万名 15 岁以上、每周工作 10 小时以上的就业者，询问其职业和行业、工作中执行的任务（如制造、修理、销售、研究、管理）、使用的工具和机器（含计算机和计算机控制机器）、所需的资格和技能及其获得途径、工作强度、身体和心理负担、工作时间安排，以及收入和个人特征。科研用数据（Scientific Use File）经 BIBB 研究数据中心（BIBB-FDZ）申请获取。\n\n数据常用于构造职业层面的任务内容指标，研究技术变革（计算机、机器人、数字化）对任务结构和技能需求的影响、德国的工作极化以及工作条件与健康。各轮问卷的任务问题有调整，跨期比较需要统一定义。",
+    "source": "经 BIBB 研究数据中心申请（科研用文件）。",
+    "references": [
+      {
+        "raw": "The Adjustment of Labor Markets to Robots",
+        "title": "The Adjustment of Labor Markets to Robots",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum",
+          "Nicole Woessner"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "6",
+        "pages": "3104–3153",
+        "doi": "10.1093/jeea/jvab012",
+        "url": "https://doi.org/10.1093/jeea/jvab012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fast and Slow Technological Transitions",
+        "title": "Fast and Slow Technological Transitions",
+        "authors": [
+          "Rodrigo Adão",
+          "Martin Beraja",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "2",
+        "issue": "2",
+        "pages": "183–227",
+        "doi": "10.1086/730223",
+        "url": "https://doi.org/10.1086/730223",
         "verified": true,
         "note": ""
       }
@@ -66019,6 +67609,23 @@
         "pages": "1347–1393",
         "doi": "10.3982/ecta9466",
         "url": "https://doi.org/10.3982/ecta9466",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and firm investment",
+        "title": "Robots and firm investment",
+        "authors": [
+          "Efraim Benmelech",
+          "Michał Zator"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "174",
+        "issue": "",
+        "pages": "104183",
+        "doi": "10.1016/j.jfineco.2025.104183",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104183",
         "verified": true,
         "note": ""
       }
@@ -66611,6 +68218,45 @@
         "pages": "1860–1898",
         "doi": "10.1257/aer.20160284",
         "url": "https://doi.org/10.1257/aer.20160284",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.9",
+    "title": "西班牙企业战略调查（Encuesta sobre Estrategias Empresariales，ESEE）",
+    "links": [
+      {
+        "label": "Fundación SEPI: ESEE",
+        "url": "https://www.fundacionsepi.es/investigacion/esee/"
+      }
+    ],
+    "summary": "SEPI 基金会自 1990 年起对约 1,800 家西班牙制造业企业开展的年度面板调查，记录生产、投入、雇佣、研发与创新、出口、价格、市场结构和技术使用（含机器人），经 SEPI 基金会申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "ESEE 由西班牙工业部资助、SEPI 基金会实施，样本设计为对 200 人以上制造业企业全面调查、对 10–200 人企业按行业和规模分层抽样，每年补充新企业以维持代表性，约 1,800–2,000 家企业，形成 1990 年以来的非平衡面板。问卷涵盖产出和销售、中间投入、雇员结构和工时、资本投资、研发支出和创新成果（产品和工艺创新、专利）、出口和进口、产品价格和市场份额、营销、所有权和技术使用（包括是否使用工业机器人、计算机辅助设计等）。研究者向 SEPI 基金会提交申请并签订协议后获取匿名化数据。\n\n数据常用于研究企业创新、出口与生产率、价格设定和加成、机器人采用对就业和生产率的影响等。仅覆盖制造业，小企业样本较少。",
+    "source": "受限（经 SEPI 基金会申请）。",
+    "references": [
+      {
+        "raw": "Robots and Firms",
+        "title": "Robots and Firms",
+        "authors": [
+          "Michael Koch",
+          "Ilya Manuylov",
+          "Marcel Smolka"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "638",
+        "pages": "2553–2584",
+        "doi": "10.1093/ej/ueab009",
+        "url": "https://doi.org/10.1093/ej/ueab009",
         "verified": true,
         "note": ""
       }
@@ -67276,6 +68922,25 @@
         "pages": "103386",
         "doi": "10.1016/j.jeem.2026.103386",
         "url": "https://doi.org/10.1016/j.jeem.2026.103386",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Adjustment of Labor Markets to Robots",
+        "title": "The Adjustment of Labor Markets to Robots",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum",
+          "Nicole Woessner"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "6",
+        "pages": "3104–3153",
+        "doi": "10.1093/jeea/jvab012",
+        "url": "https://doi.org/10.1093/jeea/jvab012",
         "verified": true,
         "note": ""
       }
@@ -71886,6 +73551,24 @@
         "url": "https://doi.org/10.1257/aer.20131365",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "title": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "authors": [
+          "Harold L. Cole",
+          "Jeremy Greenwood",
+          "Juan M. Sanchez"
+        ],
+        "year": 2016,
+        "journal": "Econometrica",
+        "volume": "84",
+        "issue": "4",
+        "pages": "1477–1521",
+        "doi": "10.3982/ECTA11150",
+        "url": "https://doi.org/10.3982/ECTA11150",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72596,6 +74279,24 @@
         "pages": "67–106",
         "doi": "10.3982/ecta19039",
         "url": "https://doi.org/10.3982/ecta19039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "title": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "authors": [
+          "Harold L. Cole",
+          "Jeremy Greenwood",
+          "Juan M. Sanchez"
+        ],
+        "year": 2016,
+        "journal": "Econometrica",
+        "volume": "84",
+        "issue": "4",
+        "pages": "1477–1521",
+        "doi": "10.3982/ECTA11150",
+        "url": "https://doi.org/10.3982/ECTA11150",
         "verified": true,
         "note": ""
       }
@@ -75799,6 +77500,24 @@
         "pages": "2531–2567",
         "doi": "10.1257/aer.20180336",
         "url": "https://doi.org/10.1257/aer.20180336",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "title": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "authors": [
+          "Harold L. Cole",
+          "Jeremy Greenwood",
+          "Juan M. Sanchez"
+        ],
+        "year": 2016,
+        "journal": "Econometrica",
+        "volume": "84",
+        "issue": "4",
+        "pages": "1477–1521",
+        "doi": "10.3982/ECTA11150",
+        "url": "https://doi.org/10.3982/ECTA11150",
         "verified": true,
         "note": ""
       }
@@ -80486,6 +82205,145 @@
         "url": "https://doi.org/10.1086/739323",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fast and Slow Technological Transitions",
+        "title": "Fast and Slow Technological Transitions",
+        "authors": [
+          "Rodrigo Adão",
+          "Martin Beraja",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "2",
+        "issue": "2",
+        "pages": "183–227",
+        "doi": "10.1086/730223",
+        "url": "https://doi.org/10.1086/730223",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "title": "Computing Inequality: Have Computers Changed the Labor Market?",
+        "authors": [
+          "David H. Autor",
+          "Lawrence F. Katz",
+          "Alan B. Krueger"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "4",
+        "pages": "1169–1213",
+        "doi": "10.1162/003355398555874",
+        "url": "https://doi.org/10.1162/003355398555874",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+        "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+        "authors": [
+          "David H. Autor",
+          "Frank Levy",
+          "Richard J. Murnane"
+        ],
+        "year": 2003,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "118",
+        "issue": "4",
+        "pages": "1279–1333",
+        "doi": "10.1162/003355303322552801",
+        "url": "https://doi.org/10.1162/003355303322552801",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment",
+        "title": "The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "6",
+        "pages": "1488–1542",
+        "doi": "10.1257/aer.20160696",
+        "url": "https://doi.org/10.1257/aer.20160696",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots at Work",
+        "title": "Robots at Work",
+        "authors": [
+          "Georg Graetz",
+          "Guy Michaels"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "753–768",
+        "doi": "10.1162/rest_a_00754",
+        "url": "https://doi.org/10.1162/rest_a_00754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -83284,6 +85142,39 @@
         "url": "https://doi.org/10.3982/ECTA15202",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Lobbies and Technology Diffusion",
+        "title": "Lobbies and Technology Diffusion",
+        "authors": [
+          "Diego Comin",
+          "Bart Hobijn"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "2",
+        "pages": "229–244",
+        "doi": "10.1162/rest.91.2.229",
+        "url": "https://doi.org/10.1162/rest.91.2.229",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Selection: An Idea Flows Theory of Entry, Trade, and Growth",
+        "title": "Dynamic Selection: An Idea Flows Theory of Entry, Trade, and Growth",
+        "authors": [
+          "Thomas Sampson"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "1",
+        "pages": "315–380",
+        "doi": "10.1093/qje/qjv032",
+        "url": "https://doi.org/10.1093/qje/qjv032",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -84039,6 +85930,92 @@
         "url": "https://doi.org/10.1257/aer.102.3.412",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "title": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "authors": [
+          "Harold L. Cole",
+          "Jeremy Greenwood",
+          "Juan M. Sanchez"
+        ],
+        "year": 2016,
+        "journal": "Econometrica",
+        "volume": "84",
+        "issue": "4",
+        "pages": "1477–1521",
+        "doi": "10.3982/ECTA11150",
+        "url": "https://doi.org/10.3982/ECTA11150",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Barriers to Technology Adoption and Development",
+        "title": "Barriers to Technology Adoption and Development",
+        "authors": [
+          "Stephen L. Parente",
+          "Edward C. Prescott"
+        ],
+        "year": 1994,
+        "journal": "Journal of Political Economy",
+        "volume": "102",
+        "issue": "2",
+        "pages": "298–321",
+        "doi": "10.1086/261933",
+        "url": "https://doi.org/10.1086/261933",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Global Diffusion of Ideas",
+        "title": "The Global Diffusion of Ideas",
+        "authors": [
+          "Francisco J. Buera",
+          "Ezra Oberfield"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "1",
+        "pages": "83–114",
+        "doi": "10.3982/ECTA14044",
+        "url": "https://doi.org/10.3982/ECTA14044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots at Work",
+        "title": "Robots at Work",
+        "authors": [
+          "Georg Graetz",
+          "Guy Michaels"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "753–768",
+        "doi": "10.1162/rest_a_00754",
+        "url": "https://doi.org/10.1162/rest_a_00754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -84165,6 +86142,23 @@
         "pages": "102775",
         "doi": "10.1016/j.jdeveco.2021.102775",
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102775",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
         "verified": true,
         "note": ""
       }
@@ -84399,6 +86393,23 @@
         "url": "https://doi.org/10.1257/mac.2.1.93",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -84527,6 +86538,23 @@
         "pages": "1268–1290",
         "doi": "10.1257/000282803769206296",
         "url": "https://doi.org/10.1257/000282803769206296",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
         "verified": true,
         "note": ""
       }
@@ -84754,6 +86782,24 @@
         "pages": "329–385",
         "doi": "10.1093/qje/qjab022",
         "url": "https://doi.org/10.1093/qje/qjab022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "title": "Uneven Growth: Automation's Impact on Income and Wealth Inequality",
+        "authors": [
+          "Benjamin Moll",
+          "Lukasz Rachel",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "6",
+        "pages": "2645–2683",
+        "doi": "10.3982/ECTA19417",
+        "url": "https://doi.org/10.3982/ECTA19417",
         "verified": true,
         "note": ""
       }
@@ -85512,6 +87558,22 @@
         "pages": "1324–1336",
         "doi": "10.1162/rest_a_00304",
         "url": "https://doi.org/10.1162/rest_a_00304",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Selection: An Idea Flows Theory of Entry, Trade, and Growth",
+        "title": "Dynamic Selection: An Idea Flows Theory of Entry, Trade, and Growth",
+        "authors": [
+          "Thomas Sampson"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "1",
+        "pages": "315–380",
+        "doi": "10.1093/qje/qjv032",
+        "url": "https://doi.org/10.1093/qje/qjv032",
         "verified": true,
         "note": ""
       }
@@ -86326,6 +88388,93 @@
         "url": "https://doi.org/10.1162/rest_a_00304",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Robots at Work",
+        "title": "Robots at Work",
+        "authors": [
+          "Georg Graetz",
+          "Guy Michaels"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "753–768",
+        "doi": "10.1162/rest_a_00754",
+        "url": "https://doi.org/10.1162/rest_a_00754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Adjustment of Labor Markets to Robots",
+        "title": "The Adjustment of Labor Markets to Robots",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum",
+          "Nicole Woessner"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "6",
+        "pages": "3104–3153",
+        "doi": "10.1093/jeea/jvab012",
+        "url": "https://doi.org/10.1093/jeea/jvab012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and firm investment",
+        "title": "Robots and firm investment",
+        "authors": [
+          "Efraim Benmelech",
+          "Michał Zator"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "174",
+        "issue": "",
+        "pages": "104183",
+        "doi": "10.1016/j.jfineco.2025.104183",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104183",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -86697,6 +88846,40 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.24149/wp2539",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Exploration of Technology Diffusion",
+        "title": "An Exploration of Technology Diffusion",
+        "authors": [
+          "Diego Comin",
+          "Bart Hobijn"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "5",
+        "pages": "2031–2059",
+        "doi": "10.1257/aer.100.5.2031",
+        "url": "https://doi.org/10.1257/aer.100.5.2031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "If Technology Has Arrived Everywhere, Why Has Income Diverged?",
+        "title": "If Technology Has Arrived Everywhere, Why Has Income Diverged?",
+        "authors": [
+          "Diego Comin",
+          "Martí Mestieri"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "10",
+        "issue": "3",
+        "pages": "137–178",
+        "doi": "10.1257/mac.20150175",
+        "url": "https://doi.org/10.1257/mac.20150175",
         "verified": true,
         "note": ""
       }
@@ -87220,6 +89403,79 @@
         "pages": "2042–2096",
         "doi": "10.1093/restud/rdx082",
         "url": "https://doi.org/10.1093/restud/rdx082",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.44",
+    "title": "跨国历史技术采用数据集（Cross-country Historical Adoption of Technology，CHAT）",
+    "links": [
+      {
+        "label": "NBER: CHAT dataset",
+        "url": "https://www.nber.org/research/data/cross-country-historical-adoption-technology"
+      }
+    ],
+    "summary": "Comin 和 Hobijn 构建的 1800 年以来约 160 个国家 100 多项技术（铁路、蒸汽船、电力、电话、汽车、计算机、互联网、医疗和工业技术等）的采用强度年度面板，在 NBER 网站免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "商业数据"
+    ],
+    "introduction": "CHAT 数据集由 Diego Comin 和 Bart Hobijn（2009，NBER 工作论文 15319）整理，汇集各国历史统计、国际组织（ITU、IEA、FAO、WHO）和行业资料，记录约 104 项技术在 161 个国家 1800–2000 年间的采用指标，如铁路里程和货运量、电力产量、电话和移动电话数量、汽车和卡车保有量、拖拉机和化肥使用、计算机和互联网用户、医院床位和疫苗接种、钢铁生产方法（转炉、电弧炉）、纺纱锭数等。数据和说明在 NBER 网站免费下载。\n\n数据常用于研究技术扩散的跨国差异和采用滞后、技术采用与收入差距的关系（如 Comin-Hobijn 2010 AER 的扩散模型），以及特定技术的长期普及过程。各技术的覆盖国家和年份差异很大，早期数据较为稀疏。",
+    "source": "公开下载（NBER 网站）。",
+    "references": [
+      {
+        "raw": "Lobbies and Technology Diffusion",
+        "title": "Lobbies and Technology Diffusion",
+        "authors": [
+          "Diego Comin",
+          "Bart Hobijn"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "2",
+        "pages": "229–244",
+        "doi": "10.1162/rest.91.2.229",
+        "url": "https://doi.org/10.1162/rest.91.2.229",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Exploration of Technology Diffusion",
+        "title": "An Exploration of Technology Diffusion",
+        "authors": [
+          "Diego Comin",
+          "Bart Hobijn"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "5",
+        "pages": "2031–2059",
+        "doi": "10.1257/aer.100.5.2031",
+        "url": "https://doi.org/10.1257/aer.100.5.2031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "If Technology Has Arrived Everywhere, Why Has Income Diverged?",
+        "title": "If Technology Has Arrived Everywhere, Why Has Income Diverged?",
+        "authors": [
+          "Diego Comin",
+          "Martí Mestieri"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "10",
+        "issue": "3",
+        "pages": "137–178",
+        "doi": "10.1257/mac.20150175",
+        "url": "https://doi.org/10.1257/mac.20150175",
         "verified": true,
         "note": ""
       }
@@ -96565,6 +98821,23 @@
         "url": "https://doi.org/10.1093/qje/qjt005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Lobbies and Technology Diffusion",
+        "title": "Lobbies and Technology Diffusion",
+        "authors": [
+          "Diego Comin",
+          "Bart Hobijn"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "2",
+        "pages": "229–244",
+        "doi": "10.1162/rest.91.2.229",
+        "url": "https://doi.org/10.1162/rest.91.2.229",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97632,6 +99905,24 @@
         "url": "https://doi.org/10.1162/rest_a_00304",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "title": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "authors": [
+          "Harold L. Cole",
+          "Jeremy Greenwood",
+          "Juan M. Sanchez"
+        ],
+        "year": 2016,
+        "journal": "Econometrica",
+        "volume": "84",
+        "issue": "4",
+        "pages": "1477–1521",
+        "doi": "10.3982/ECTA11150",
+        "url": "https://doi.org/10.3982/ECTA11150",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97878,6 +100169,45 @@
         "pages": "102916",
         "doi": "10.1016/j.jeem.2023.102916",
         "url": "https://doi.org/10.1016/j.jeem.2023.102916",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.24",
+    "title": "跨国时间序列数据档案（Cross-National Time-Series Data Archive，CNTS / Banks 数据）",
+    "links": [
+      {
+        "label": "CNTS Data Archive",
+        "url": "https://www.cntsdata.com/"
+      }
+    ],
+    "summary": "Arthur Banks 于 1968 年创建、现由 Databanks International 维护的 1815 年以来约 200 个国家的年度政治、经济和社会指标数据库，包括国内冲突事件（政变、罢工、示威、政府危机）、政体、立法和人口城市化等，付费购买。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据",
+      "区域经济数据"
+    ],
+    "introduction": "CNTS 档案最初由宾汉姆顿大学的 Arthur S. Banks 编制，涵盖 1815 年以来（二战期间缺失）全球约 200 个国家的年度数据，变量包括人口、城市化、教育、通信、交通（铁路里程、电话、报纸）、能源、经济和财政指标，以及广泛用于政治经济学研究的国内冲突事件计数（暗杀、罢工、游击战、政府危机、清洗、骚乱、革命、反政府示威）、政体类型、立法效能和政党结构。数据由 Databanks International 以年度更新的形式付费销售。\n\n数据常用于研究政治不稳定与经济增长、社会冲突与制度变迁，以及在技术采用和长期增长研究中提供早期的交通和通信指标。冲突事件来自新闻报道编码，早期年份和小国的报道覆盖不完整。",
+    "source": "付费商业（Databanks International）。",
+    "references": [
+      {
+        "raw": "Lobbies and Technology Diffusion",
+        "title": "Lobbies and Technology Diffusion",
+        "authors": [
+          "Diego Comin",
+          "Bart Hobijn"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "2",
+        "pages": "229–244",
+        "doi": "10.1162/rest.91.2.229",
+        "url": "https://doi.org/10.1162/rest.91.2.229",
         "verified": true,
         "note": ""
       }
@@ -98333,6 +100663,24 @@
         "pages": "412–416",
         "doi": "10.1257/aer.102.3.412",
         "url": "https://doi.org/10.1257/aer.102.3.412",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "title": "Why Doesn't Technology Flow From Rich to Poor Countries?",
+        "authors": [
+          "Harold L. Cole",
+          "Jeremy Greenwood",
+          "Juan M. Sanchez"
+        ],
+        "year": 2016,
+        "journal": "Econometrica",
+        "volume": "84",
+        "issue": "4",
+        "pages": "1477–1521",
+        "doi": "10.3982/ECTA11150",
+        "url": "https://doi.org/10.3982/ECTA11150",
         "verified": true,
         "note": ""
       }
@@ -99460,6 +101808,25 @@
         "pages": "105–163",
         "doi": "10.1093/qje/qjz030",
         "url": "https://doi.org/10.1093/qje/qjz030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "title": "From Man vs. Machine to Man + Machine: The art and AI of stock analyses",
+        "authors": [
+          "Sean Cao",
+          "Wei Jiang",
+          "Junbo Wang",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "103910",
+        "doi": "10.1016/j.jfineco.2024.103910",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103910",
         "verified": true,
         "note": ""
       }
@@ -101492,6 +103859,64 @@
         "url": "https://doi.org/10.1257/aer.20210107",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "title": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+        "authors": [
+          "Alex Bell",
+          "Raj Chetty",
+          "Xavier Jaravel",
+          "Neviana Petkova",
+          "John Van Reenen"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "2",
+        "pages": "647–713",
+        "doi": "10.1093/qje/qjy028",
+        "url": "https://doi.org/10.1093/qje/qjy028",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Diffusion of New Technologies",
+        "title": "The Diffusion of New Technologies",
+        "authors": [
+          "Aakash Kalyani",
+          "Nicholas Bloom",
+          "Marcela Carvalho",
+          "Tarek Alexander Hassan",
+          "Josh Lerner",
+          "Ahmed Tahoun"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1299–1365",
+        "doi": "10.1093/qje/qjaf002",
+        "url": "https://doi.org/10.1093/qje/qjaf002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -101974,6 +104399,149 @@
         "pages": "203–236",
         "doi": "10.1257/aer.20151398",
         "url": "https://doi.org/10.1257/aer.20151398",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.14",
+    "title": "国际机器人联合会世界机器人统计（IFR World Robotics）",
+    "links": [
+      {
+        "label": "IFR: World Robotics",
+        "url": "https://ifr.org/worldrobotics/"
+      }
+    ],
+    "summary": "国际机器人联合会（IFR）汇总各国机器人制造商和协会数据编制的工业机器人和服务机器人统计，1993 年起，按国家、行业和应用领域给出机器人年度安装量和运营存量，付费购买。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "IFR 自 1990 年代起每年出版《World Robotics》报告，数据来自全球几乎所有工业机器人供应商的销售申报和各国机器人协会，记录约 50 多个国家按行业（汽车、电子、金属、塑料化工、食品等，ISIC 分类）和应用（焊接、装配、搬运、喷涂等）分列的工业机器人年度新增安装量，以及按 12 年服务寿命假设推算的运营存量；服务机器人报告覆盖专业和个人服务机器人销量。数据以报告和数据库形式付费购买，研究者常用国家-行业-年度面板。\n\n数据常用于研究自动化和机器人对就业、工资、劳动收入份额和生产率的影响，例如 Acemoglu-Restrepo 的美国通勤区机器人暴露和 Graetz-Michaels 的跨国行业研究。部分国家早期数据未按行业细分，存量依赖折旧假设。",
+    "source": "付费商业（IFR 购买）。",
+    "references": [
+      {
+        "raw": "Robots at Work",
+        "title": "Robots at Work",
+        "authors": [
+          "Georg Graetz",
+          "Guy Michaels"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "753–768",
+        "doi": "10.1162/rest_a_00754",
+        "url": "https://doi.org/10.1162/rest_a_00754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Adjustment of Labor Markets to Robots",
+        "title": "The Adjustment of Labor Markets to Robots",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum",
+          "Nicole Woessner"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "6",
+        "pages": "3104–3153",
+        "doi": "10.1093/jeea/jvab012",
+        "url": "https://doi.org/10.1093/jeea/jvab012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Firms",
+        "title": "Robots and Firms",
+        "authors": [
+          "Michael Koch",
+          "Ilya Manuylov",
+          "Marcel Smolka"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "638",
+        "pages": "2553–2584",
+        "doi": "10.1093/ej/ueab009",
+        "url": "https://doi.org/10.1093/ej/ueab009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1973–2016",
+        "doi": "10.3982/ECTA19815",
+        "url": "https://doi.org/10.3982/ECTA19815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and firm investment",
+        "title": "Robots and firm investment",
+        "authors": [
+          "Efraim Benmelech",
+          "Michał Zator"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "174",
+        "issue": "",
+        "pages": "104183",
+        "doi": "10.1016/j.jfineco.2025.104183",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104183",
         "verified": true,
         "note": ""
       }
@@ -104073,6 +106641,75 @@
         "url": "https://doi.org/10.1093/restud/rdaf011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Liberalization, Exports, and Technology Upgrading: Evidence on the Impact of MERCOSUR on Argentinian Firms",
+        "title": "Trade Liberalization, Exports, and Technology Upgrading: Evidence on the Impact of MERCOSUR on Argentinian Firms",
+        "authors": [
+          "Paula Bustos"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "1",
+        "pages": "304–340",
+        "doi": "10.1257/aer.101.1.304",
+        "url": "https://doi.org/10.1257/aer.101.1.304",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Jobs: Evidence from US Labor Markets",
+        "title": "Robots and Jobs: Evidence from US Labor Markets",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "6",
+        "pages": "2188–2244",
+        "doi": "10.1086/705716",
+        "url": "https://doi.org/10.1086/705716",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Adjustment of Labor Markets to Robots",
+        "title": "The Adjustment of Labor Markets to Robots",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum",
+          "Nicole Woessner"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "6",
+        "pages": "3104–3153",
+        "doi": "10.1093/jeea/jvab012",
+        "url": "https://doi.org/10.1093/jeea/jvab012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Demographics and Automation",
+        "title": "Demographics and Automation",
+        "authors": [
+          "Daron Acemoglu",
+          "Pascual Restrepo"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdab031",
+        "url": "https://doi.org/10.1093/restud/rdab031",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104710,6 +107347,23 @@
         "url": "https://doi.org/10.1257/000282803769206296",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Global Diffusion of Ideas",
+        "title": "The Global Diffusion of Ideas",
+        "authors": [
+          "Francisco J. Buera",
+          "Ezra Oberfield"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "1",
+        "pages": "83–114",
+        "doi": "10.3982/ECTA14044",
+        "url": "https://doi.org/10.3982/ECTA14044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104917,6 +107571,23 @@
         "pages": "1433–1466",
         "doi": "10.1093/ej/ueae119",
         "url": "https://doi.org/10.1093/ej/ueae119",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots at Work",
+        "title": "Robots at Work",
+        "authors": [
+          "Georg Graetz",
+          "Guy Michaels"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "753–768",
+        "doi": "10.1162/rest_a_00754",
+        "url": "https://doi.org/10.1162/rest_a_00754",
         "verified": true,
         "note": ""
       }
@@ -105289,6 +107960,43 @@
         "pages": "1433–1466",
         "doi": "10.1093/ej/ueae119",
         "url": "https://doi.org/10.1093/ej/ueae119",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.17",
+    "title": "世界综合贸易解决方案（WITS）与 UNCTAD TRAINS 关税数据库",
+    "links": [
+      {
+        "label": "World Bank: WITS",
+        "url": "https://wits.worldbank.org/"
+      }
+    ],
+    "summary": "世界银行与 UNCTAD、WTO、ITC 等合作的贸易数据平台 WITS，提供 TRAINS 关税（HS 细分产品的最惠国和优惠税率，1988 年起）、非关税措施、UN Comtrade 贸易流和 WTO 关税数据的查询与下载，注册后免费使用。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "TRAINS（Trade Analysis Information System）是 UNCTAD 维护的关税和非关税措施数据库，记录约 170 个国家按 HS 6 位或国家税则细分的适用最惠国税率、优惠税率、约束税率和从价等值，以及按 UNCTAD 分类编码的非关税措施。世界银行的 WITS（World Integrated Trade Solution）平台整合 TRAINS、WTO 综合数据库（IDB）和约束税率数据库（CTS）、UN Comtrade 和服务贸易数据，提供按产品和伙伴国的关税查询、简单和加权平均关税计算、关税削减模拟以及批量下载。用户注册后可免费使用。\n\n数据常用于测量贸易自由化和关税变化，研究关税削减对企业生产率、技术升级、就业和工资的影响（如阿根廷加入南方共同市场的关税变化与企业技术采用），以及构造产品和行业层面的关税暴露。部分国家和年份的关税数据缺失，优惠税率的覆盖不完整。",
+    "source": "注册后免费使用（世界银行 WITS）。",
+    "references": [
+      {
+        "raw": "Trade Liberalization, Exports, and Technology Upgrading: Evidence on the Impact of MERCOSUR on Argentinian Firms",
+        "title": "Trade Liberalization, Exports, and Technology Upgrading: Evidence on the Impact of MERCOSUR on Argentinian Firms",
+        "authors": [
+          "Paula Bustos"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "1",
+        "pages": "304–340",
+        "doi": "10.1257/aer.101.1.304",
+        "url": "https://doi.org/10.1257/aer.101.1.304",
         "verified": true,
         "note": ""
       }
