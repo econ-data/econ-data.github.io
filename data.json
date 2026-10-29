@@ -5394,6 +5394,23 @@
         "url": "https://doi.org/10.1257/pol.20230070",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "title": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "authors": [
+          "Claire S. H. Lim",
+          "Ali Yurukoglu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "263–312",
+        "doi": "10.1086/695474",
+        "url": "https://doi.org/10.1086/695474",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6503,6 +6520,23 @@
         "pages": "S95–S127",
         "doi": "10.1086/701189",
         "url": "https://doi.org/10.1086/701189",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Electric Gini: Income Redistribution through Energy Prices",
+        "title": "The Electric Gini: Income Redistribution through Energy Prices",
+        "authors": [
+          "Arik Levinson",
+          "Emilson Silva"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "2",
+        "pages": "341–365",
+        "doi": "10.1257/pol.20200543",
+        "url": "https://doi.org/10.1257/pol.20200543",
         "verified": true,
         "note": ""
       }
@@ -8433,6 +8467,40 @@
         "pages": "1292–1326",
         "doi": "10.1086/317681",
         "url": "https://doi.org/10.1086/317681",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "title": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "authors": [
+          "Claire S. H. Lim",
+          "Ali Yurukoglu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "263–312",
+        "doi": "10.1086/695474",
+        "url": "https://doi.org/10.1086/695474",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rate of return regulation revisited",
+        "title": "Rate of return regulation revisited",
+        "authors": [
+          "Karl Dunkle Werner",
+          "Stephen Jarvis"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "259",
+        "issue": "",
+        "pages": "105654",
+        "doi": "10.1016/j.jpubeco.2026.105654",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
         "verified": true,
         "note": ""
       }
@@ -12177,6 +12245,23 @@
         "url": "https://doi.org/10.3982/ECTA9823",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "title": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "authors": [
+          "Claire S. H. Lim",
+          "Ali Yurukoglu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "263–312",
+        "doi": "10.1086/695474",
+        "url": "https://doi.org/10.1086/695474",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12547,6 +12632,22 @@
         "url": "https://doi.org/10.1257/aer.20140079",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12600,6 +12701,44 @@
         "pages": "102550",
         "doi": "10.1016/j.jeem.2021.102550",
         "url": "https://doi.org/10.1016/j.jeem.2021.102550",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.5.17",
+    "title": "HUD-USPS 邮编对照表（ZIP Code Crosswalk Files）",
+    "links": [
+      {
+        "label": "HUD-USPS Crosswalk",
+        "url": "https://www.huduser.gov/portal/datasets/usps_crosswalk.html"
+      }
+    ],
+    "summary": "美国住房和城市发展部基于邮政服务地址数据发布的季度邮编与县、普查区、CBSA、国会选区等地理单元的对照和权重表。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "HUD-USPS 邮编对照表由美国住房和城市发展部（HUD）政策发展与研究办公室根据美国邮政服务（USPS）的空置地址数据按季度发布，2010 年起提供邮编（ZIP）与县、普查区、核心统计区（CBSA）、县分区和国会选区之间的双向对照表，并给出按住宅、商业和全部地址计算的分配比例，可用于在不同地理单元间加权转换数据。注册后免费下载，也提供 API。\n\n数据常用于把邮编层面的数据汇总到县或普查区，例如把公用事业的邮编层面电价和用户数据匹配到县级收入和政治变量，研究电价的再分配效应。邮编边界随投递路线变化，跨年份比较需使用对应季度的文件。",
+    "source": "HUD 网站注册后免费下载。",
+    "references": [
+      {
+        "raw": "The Electric Gini: Income Redistribution through Energy Prices",
+        "title": "The Electric Gini: Income Redistribution through Energy Prices",
+        "authors": [
+          "Arik Levinson",
+          "Emilson Silva"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "2",
+        "pages": "341–365",
+        "doi": "10.1257/pol.20200543",
+        "url": "https://doi.org/10.1257/pol.20200543",
         "verified": true,
         "note": ""
       }
@@ -13650,6 +13789,38 @@
         "url": "https://doi.org/10.1257/pol.20190258",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "title": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "authors": [
+          "Catherine Hausman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2574–2615",
+        "doi": "10.1257/aer.20240276",
+        "url": "https://doi.org/10.1257/aer.20240276",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14598,6 +14769,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2025.103275",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "title": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "authors": [
+          "Claire S. H. Lim",
+          "Ali Yurukoglu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "263–312",
+        "doi": "10.1086/695474",
+        "url": "https://doi.org/10.1086/695474",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15318,6 +15506,23 @@
         "url": "https://doi.org/10.1257/pol.20190258",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "title": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "authors": [
+          "Severin Borenstein",
+          "James B. Bushnell"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "4",
+        "pages": "80–110",
+        "doi": "10.1257/pol.20190758",
+        "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15792,6 +15997,55 @@
         "url": "https://doi.org/10.1257/pol.20190258",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "title": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "authors": [
+          "Catherine Hausman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2574–2615",
+        "doi": "10.1257/aer.20240276",
+        "url": "https://doi.org/10.1257/aer.20240276",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "title": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "authors": [
+          "Severin Borenstein",
+          "James B. Bushnell"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "4",
+        "pages": "80–110",
+        "doi": "10.1257/pol.20190758",
+        "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15951,6 +16205,39 @@
         "pages": "1391–1402",
         "doi": "10.1162/rest_a_00119",
         "url": "https://doi.org/10.1162/rest_a_00119",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "title": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "authors": [
+          "Severin Borenstein",
+          "James B. Bushnell"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "4",
+        "pages": "80–110",
+        "doi": "10.1257/pol.20190758",
+        "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
         "verified": true,
         "note": ""
       }
@@ -17096,6 +17383,22 @@
         "url": "https://doi.org/10.1257/aer.20250166",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17490,6 +17793,22 @@
         "pages": "1886–1927",
         "doi": "10.1093/jeea/jvz051",
         "url": "https://doi.org/10.1093/jeea/jvz051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Making the Best of the Second-Best: Welfare Consequences of Time-Varying Electricity Prices",
+        "title": "Making the Best of the Second-Best: Welfare Consequences of Time-Varying Electricity Prices",
+        "authors": [
+          "Joshua A. Blonz"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "6",
+        "pages": "1087–1126",
+        "doi": "10.1086/720566",
+        "url": "https://doi.org/10.1086/720566",
         "verified": true,
         "note": ""
       }
@@ -19386,6 +19705,73 @@
         "url": "https://doi.org/10.1257/app.20170505",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "title": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "authors": [
+          "Severin Borenstein",
+          "James B. Bushnell"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "4",
+        "pages": "80–110",
+        "doi": "10.1257/pol.20190758",
+        "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "title": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "authors": [
+          "Claire S. H. Lim",
+          "Ali Yurukoglu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "263–312",
+        "doi": "10.1086/695474",
+        "url": "https://doi.org/10.1086/695474",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rate of return regulation revisited",
+        "title": "Rate of return regulation revisited",
+        "authors": [
+          "Karl Dunkle Werner",
+          "Stephen Jarvis"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "259",
+        "issue": "",
+        "pages": "105654",
+        "doi": "10.1016/j.jpubeco.2026.105654",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19806,6 +20192,54 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104480",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "title": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "authors": [
+          "Catherine Hausman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2574–2615",
+        "doi": "10.1257/aer.20240276",
+        "url": "https://doi.org/10.1257/aer.20240276",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20176,6 +20610,22 @@
         "url": "https://doi.org/10.1257/aer.20131564",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "title": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "authors": [
+          "Catherine Hausman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2574–2615",
+        "doi": "10.1257/aer.20240276",
+        "url": "https://doi.org/10.1257/aer.20240276",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20354,6 +20804,41 @@
         "pages": "72–112",
         "doi": "10.1257/pol.1.2.72",
         "url": "https://doi.org/10.1257/pol.1.2.72",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "title": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "authors": [
+          "Severin Borenstein",
+          "James B. Bushnell"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "4",
+        "pages": "80–110",
+        "doi": "10.1257/pol.20190758",
+        "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Real-Time Pricing and the Cost of Clean Power",
+        "title": "Real-Time Pricing and the Cost of Clean Power",
+        "authors": [
+          "Imelda",
+          "Matthias Fripp",
+          "Michael J. Roberts"
+        ],
+        "year": 2024,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "16",
+        "issue": "4",
+        "pages": "100–141",
+        "doi": "10.1257/pol.20220506",
+        "url": "https://doi.org/10.1257/pol.20220506",
         "verified": true,
         "note": ""
       }
@@ -20579,6 +21064,90 @@
         "pages": "104480",
         "doi": "10.1016/j.jpubeco.2021.104480",
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Electric Gini: Income Redistribution through Energy Prices",
+        "title": "The Electric Gini: Income Redistribution through Energy Prices",
+        "authors": [
+          "Arik Levinson",
+          "Emilson Silva"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "2",
+        "pages": "341–365",
+        "doi": "10.1257/pol.20200543",
+        "url": "https://doi.org/10.1257/pol.20200543",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "title": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "authors": [
+          "Severin Borenstein",
+          "James B. Bushnell"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "4",
+        "pages": "80–110",
+        "doi": "10.1257/pol.20190758",
+        "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "title": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "authors": [
+          "Claire S. H. Lim",
+          "Ali Yurukoglu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "263–312",
+        "doi": "10.1086/695474",
+        "url": "https://doi.org/10.1086/695474",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rate of return regulation revisited",
+        "title": "Rate of return regulation revisited",
+        "authors": [
+          "Karl Dunkle Werner",
+          "Stephen Jarvis"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "259",
+        "issue": "",
+        "pages": "105654",
+        "doi": "10.1016/j.jpubeco.2026.105654",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
         "verified": true,
         "note": ""
       }
@@ -20825,6 +21394,87 @@
         "url": "https://doi.org/10.1257/app.20170505",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "title": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "authors": [
+          "Catherine Hausman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2574–2615",
+        "doi": "10.1257/aer.20240276",
+        "url": "https://doi.org/10.1257/aer.20240276",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "title": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "authors": [
+          "Severin Borenstein",
+          "James B. Bushnell"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "4",
+        "pages": "80–110",
+        "doi": "10.1257/pol.20190758",
+        "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Making the Best of the Second-Best: Welfare Consequences of Time-Varying Electricity Prices",
+        "title": "Making the Best of the Second-Best: Welfare Consequences of Time-Varying Electricity Prices",
+        "authors": [
+          "Joshua A. Blonz"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "6",
+        "pages": "1087–1126",
+        "doi": "10.1086/720566",
+        "url": "https://doi.org/10.1086/720566",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20862,6 +21512,23 @@
         "pages": "1757–1795",
         "doi": "10.1086/734779",
         "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rate of return regulation revisited",
+        "title": "Rate of return regulation revisited",
+        "authors": [
+          "Karl Dunkle Werner",
+          "Stephen Jarvis"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "259",
+        "issue": "",
+        "pages": "105654",
+        "doi": "10.1016/j.jpubeco.2026.105654",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
         "verified": true,
         "note": ""
       }
@@ -21516,6 +22183,22 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104480",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21629,6 +22312,22 @@
         "pages": "1376–1405",
         "doi": "10.1257/000282802762024557",
         "url": "https://doi.org/10.1257/000282802762024557",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
         "verified": true,
         "note": ""
       }
@@ -22537,6 +23236,23 @@
         "url": "https://doi.org/10.1257/pol.20170481",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Electric Gini: Income Redistribution through Energy Prices",
+        "title": "The Electric Gini: Income Redistribution through Energy Prices",
+        "authors": [
+          "Arik Levinson",
+          "Emilson Silva"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "2",
+        "pages": "341–365",
+        "doi": "10.1257/pol.20200543",
+        "url": "https://doi.org/10.1257/pol.20200543",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22708,6 +23424,22 @@
         "url": "https://doi.org/10.1086/676038",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring Welfare in Restructured Electricity Markets",
+        "title": "Measuring Welfare in Restructured Electricity Markets",
+        "authors": [
+          "Erin T. Mansur"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "2",
+        "pages": "369–386",
+        "doi": "10.1162/rest.90.2.369",
+        "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22827,6 +23559,40 @@
         "pages": "205–227",
         "doi": "10.1016/j.jeem.2017.06.004",
         "url": "https://doi.org/10.1016/j.jeem.2017.06.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Real-Time Pricing and the Cost of Clean Power",
+        "title": "Real-Time Pricing and the Cost of Clean Power",
+        "authors": [
+          "Imelda",
+          "Matthias Fripp",
+          "Michael J. Roberts"
+        ],
+        "year": 2024,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "16",
+        "issue": "4",
+        "pages": "100–141",
+        "doi": "10.1257/pol.20220506",
+        "url": "https://doi.org/10.1257/pol.20220506",
         "verified": true,
         "note": ""
       }
@@ -22986,6 +23752,245 @@
         "pages": "104480",
         "doi": "10.1016/j.jpubeco.2021.104480",
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104480",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.43",
+    "title": "EIA-930 逐小时电网运行监测数据（Hourly Electric Grid Monitor）",
+    "links": [
+      {
+        "label": "EIA Hourly Electric Grid Monitor",
+        "url": "https://www.eia.gov/electricity/gridmonitor/"
+      }
+    ],
+    "summary": "美国能源信息署根据 EIA-930 表发布的各平衡区逐小时用电需求、需求预测、分燃料发电量和平衡区间电力交换数据，2015 年 7 月起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "EIA-930 表（Balancing Authority Operations Report）要求美国本土全部约 65 个电力平衡区每天向美国能源信息署（EIA）报告前一天的逐小时数据，包括实际需求、日前需求预测、净发电量（2018 年 7 月起按煤、天然气、核电、水电、风电、光伏等燃料分解）以及与相邻平衡区之间的逐小时电力交换。EIA 通过 Hourly Electric Grid Monitor 网站近实时发布，并提供 2015 年 7 月以来的历史文件和 API，均免费。\n\n数据常用于研究电力系统运行和跨区域电力流动，例如研究输电线路扩建对区域间电力交换、发电配置和发电企业利润的影响。数据为平衡区自报，早期年份存在缺失和异常值，PUDL 等项目提供清洗版本。",
+    "source": "EIA 网站免费下载。",
+    "references": [
+      {
+        "raw": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "title": "Power Flows: Transmission Lines, Allocative Efficiency, and Corporate Profits",
+        "authors": [
+          "Catherine Hausman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2574–2615",
+        "doi": "10.1257/aer.20240276",
+        "url": "https://doi.org/10.1257/aer.20240276",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.44",
+    "title": "公用事业电价数据库（Utility Rate Database，URDB）",
+    "links": [
+      {
+        "label": "OpenEI URDB",
+        "url": "https://openei.org/wiki/Utility_Rate_Database"
+      }
+    ],
+    "summary": "美国国家可再生能源实验室在 OpenEI 平台维护的美国约 3700 家电力公用事业公司零售电价表数据库，记录各电价方案的固定费、分档和分时电价结构。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "公用事业电价数据库（URDB）由美国国家可再生能源实验室（NREL）在 OpenEI（Open Energy Information）平台维护，收录美国约 3700 家电力公用事业公司的居民、商业和工业零售电价方案，记录每个方案的适用对象、生效日期、固定月费、按用电量分档的电度电价、分时电价时段、需量电价和最低收费等结构化字段，可通过网站、API 和整体下载免费获取。\n\n数据常用于研究零售电价设计及其分配影响，例如比较固定费和电度电价构成，测算按边际社会成本定价的偏离程度和电价对不同收入家庭的再分配效应。数据由用户和工作人员录入，对小型公用事业的覆盖和更新不完整。",
+    "source": "OpenEI 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Electric Gini: Income Redistribution through Energy Prices",
+        "title": "The Electric Gini: Income Redistribution through Energy Prices",
+        "authors": [
+          "Arik Levinson",
+          "Emilson Silva"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "2",
+        "pages": "341–365",
+        "doi": "10.1257/pol.20200543",
+        "url": "https://doi.org/10.1257/pol.20200543",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "title": "Do Two Electricity Pricing Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency",
+        "authors": [
+          "Severin Borenstein",
+          "James B. Bushnell"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "4",
+        "pages": "80–110",
+        "doi": "10.1257/pol.20190758",
+        "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.45",
+    "title": "LBNL 美国电网并网排队数据（Queued Up）",
+    "links": [
+      {
+        "label": "LBNL Queued Up",
+        "url": "https://emp.lbl.gov/queues"
+      }
+    ],
+    "summary": "劳伦斯伯克利国家实验室整理的美国各 ISO/RTO 和公用事业并网排队中发电和储能项目的申请、状态和完工记录，2000 年以来。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "Queued Up 由劳伦斯伯克利国家实验室（LBNL）能源市场与政策组每年发布，汇总美国 7 个 ISO/RTO 和约 40 多家公用事业公司的并网申请排队记录，覆盖全国约 95% 以上的装机容量，记录每个发电或储能项目的排队编号、申请日期、所在州和县、技术类型、容量、并网点、当前状态（在排队、已运行、已撤回、暂停）和完工或撤回日期。年度报告和项目级数据文件在 LBNL 网站免费下载。\n\n数据常用于研究可再生能源开发和输电约束，例如研究输电扩张如何影响风电项目的申请、撤回和投运决策。各地区排队规则不同，早期和已撤回项目的信息不完整。",
+    "source": "LBNL 网站免费下载（链接经搜索确认，网站对自动访问返回验证页）。",
+    "references": [
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.46",
+    "title": "美国能源部 WINDExchange 风电政策与条例数据库",
+    "links": [
+      {
+        "label": "WINDExchange Policies",
+        "url": "https://windexchange.energy.gov/policies-incentives"
+      }
+    ],
+    "summary": "美国能源部 WINDExchange 平台汇总的各州和地方风电相关政策、激励和风电场选址条例（退让距离、噪声和高度限制）。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "政治数据"
+    ],
+    "introduction": "WINDExchange 是美国能源部风能技术办公室的信息平台，其政策与激励栏目汇总各州和地方风电相关的激励政策和监管措施，风电条例（Wind Energy Ordinances）数据库记录县、镇等地方政府制定的风电场选址规定，包括退让距离、噪声限制、高度限制、许可程序和暂停令等，并与 NREL 的地方条例研究对接。数据可在网站免费查询。\n\n数据常用于研究地方监管对可再生能源开发的影响，例如构建各县风电选址限制变量，研究输电扩张后风电投资的空间分布。数据库依赖人工收集，对小型地方政府的覆盖和更新不完整。",
+    "source": "WINDExchange 网站免费查询。",
+    "references": [
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.47",
+    "title": "EIA 天然气统计（Natural Gas Annual、EIA-176）",
+    "links": [
+      {
+        "label": "EIA Natural Gas Data",
+        "url": "https://www.eia.gov/naturalgas/data.php"
+      }
+    ],
+    "summary": "美国能源信息署发布的天然气产量、进出口、储气、各州分部门消费和价格统计，其中 EIA-176 表记录各天然气公司分州的供应与处置。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "美国能源信息署（EIA）的天然气统计包括《天然气年报》（Natural Gas Annual）和《天然气月报》，提供全国和各州的天然气产量、进出口、管道州际流动、地下储气、分部门（居民、商业、工业、电力、交通）消费量和价格以及城市门站价格和 Henry Hub 现货价格。EIA-176 表（Annual Report of Natural and Supplemental Gas Supply and Disposition）要求天然气配送公司、管道公司等按州报告天然气供应来源和分部门销售量与收入，可通过 EIA 网站查询公司层面数据。数据免费。\n\n数据常用于天然气市场和公用事业管制研究，例如以 EIA-176 的公司层面销售数据研究天然气配送公司的回报率管制。公司层面的部分字段因保密不公开。",
+    "source": "EIA 网站免费下载。",
+    "references": [
+      {
+        "raw": "Rate of return regulation revisited",
+        "title": "Rate of return regulation revisited",
+        "authors": [
+          "Karl Dunkle Werner",
+          "Stephen Jarvis"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "259",
+        "issue": "",
+        "pages": "105654",
+        "doi": "10.1016/j.jpubeco.2026.105654",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Home Buyers Inattentive? Evidence from Capitalization of Energy Costs",
+        "title": "Are Home Buyers Inattentive? Evidence from Capitalization of Energy Costs",
+        "authors": [
+          "Erica Myers"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "11",
+        "issue": "2",
+        "pages": "165–188",
+        "doi": "10.1257/pol.20170481",
+        "url": "https://doi.org/10.1257/pol.20170481",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Energy Efficiency Investments Deliver? Evidence from the Weatherization Assistance Program",
+        "title": "Do Energy Efficiency Investments Deliver? Evidence from the Weatherization Assistance Program",
+        "authors": [
+          "Meredith Fowlie",
+          "Michael Greenstone",
+          "Catherine Wolfram"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "3",
+        "pages": "1597–1644",
+        "doi": "10.1093/qje/qjy005",
+        "url": "https://doi.org/10.1093/qje/qjy005",
         "verified": true,
         "note": ""
       }
@@ -25079,6 +26084,23 @@
         "url": "https://doi.org/10.1086/737236",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Electric Gini: Income Redistribution through Energy Prices",
+        "title": "The Electric Gini: Income Redistribution through Energy Prices",
+        "authors": [
+          "Arik Levinson",
+          "Emilson Silva"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "14",
+        "issue": "2",
+        "pages": "341–365",
+        "doi": "10.1257/pol.20200543",
+        "url": "https://doi.org/10.1257/pol.20200543",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25623,6 +26645,23 @@
         "pages": "1052–1069",
         "doi": "10.1162/rest_a_00452",
         "url": "https://doi.org/10.1162/rest_a_00452",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "title": "Dynamic Natural Monopoly Regulation: Time Inconsistency, Moral Hazard, and Political Environments",
+        "authors": [
+          "Claire S. H. Lim",
+          "Ali Yurukoglu"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "263–312",
+        "doi": "10.1086/695474",
+        "url": "https://doi.org/10.1086/695474",
         "verified": true,
         "note": ""
       }
@@ -26801,6 +27840,23 @@
         "url": "https://doi.org/10.1257/pol.5.4.78",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Rate of return regulation revisited",
+        "title": "Rate of return regulation revisited",
+        "authors": [
+          "Karl Dunkle Werner",
+          "Stephen Jarvis"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "259",
+        "issue": "",
+        "pages": "105654",
+        "doi": "10.1016/j.jpubeco.2026.105654",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27268,6 +28324,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2020.102354",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Rate of return regulation revisited",
+        "title": "Rate of return regulation revisited",
+        "authors": [
+          "Karl Dunkle Werner",
+          "Stephen Jarvis"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "259",
+        "issue": "",
+        "pages": "105654",
+        "doi": "10.1016/j.jpubeco.2026.105654",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27361,6 +28434,45 @@
         "pages": "165–188",
         "doi": "10.1257/pol.20170481",
         "url": "https://doi.org/10.1257/pol.20170481",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.9",
+    "title": "Damodaran 分行业资本成本与估值数据",
+    "links": [
+      {
+        "label": "Damodaran Online Data",
+        "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html"
+      }
+    ],
+    "summary": "纽约大学 Aswath Damodaran 每年更新的美国和全球分行业资本成本、贝塔系数、股权风险溢价、负债率和估值倍数数据集。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Damodaran Online 由纽约大学斯特恩商学院教授 Aswath Damodaran 维护，每年 1 月根据 Value Line、S&P Capital IQ 等数据库的上市公司数据更新，提供美国、欧洲、日本、新兴市场和全球按约 90 个行业汇总的资本成本、无杠杆和有杠杆贝塔、股权风险溢价、债务成本、负债率、税率、利润率和估值倍数，以及各国股权风险溢价和违约利差，历史年份存档可回溯到 1990 年代末。数据以 Excel 文件免费下载。\n\n数据常用作企业财务参数的基准，例如比较电力和天然气公用事业的资本成本与管制允许回报率，研究回报率管制下的投资激励。数据为行业汇总，不提供企业层面数值。",
+    "source": "Damodaran 网站免费下载。",
+    "references": [
+      {
+        "raw": "Rate of return regulation revisited",
+        "title": "Rate of return regulation revisited",
+        "authors": [
+          "Karl Dunkle Werner",
+          "Stephen Jarvis"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "259",
+        "issue": "",
+        "pages": "105654",
+        "doi": "10.1016/j.jpubeco.2026.105654",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
         "verified": true,
         "note": ""
       }
@@ -27736,6 +28848,22 @@
         "pages": "1052–1069",
         "doi": "10.1162/rest_a_00452",
         "url": "https://doi.org/10.1162/rest_a_00452",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "title": "Chicken and egg: Electricity transmission and investment in renewable energy",
+        "authors": [
+          "Gaurav Doshi"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "256",
+        "issue": "",
+        "pages": "105598",
+        "doi": "10.1016/j.jpubeco.2026.105598",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
         "verified": true,
         "note": ""
       }
@@ -30129,6 +31257,25 @@
         "url": "https://doi.org/10.1257/aer.20141529",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring the impact of time-of-use pricing on electricity consumption: Evidence from Spain",
+        "title": "Measuring the impact of time-of-use pricing on electricity consumption: Evidence from Spain",
+        "authors": [
+          "Jacint Enrich",
+          "Ruoyi Li",
+          "Alejandro Mizrahi",
+          "Mar Reguant"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "123",
+        "issue": "",
+        "pages": "102901",
+        "doi": "10.1016/j.jeem.2023.102901",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102901",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30165,6 +31312,25 @@
         "pages": "1921–1957",
         "doi": "10.1257/aer.20141529",
         "url": "https://doi.org/10.1257/aer.20141529",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the impact of time-of-use pricing on electricity consumption: Evidence from Spain",
+        "title": "Measuring the impact of time-of-use pricing on electricity consumption: Evidence from Spain",
+        "authors": [
+          "Jacint Enrich",
+          "Ruoyi Li",
+          "Alejandro Mizrahi",
+          "Mar Reguant"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "123",
+        "issue": "",
+        "pages": "102901",
+        "doi": "10.1016/j.jeem.2023.102901",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102901",
         "verified": true,
         "note": ""
       }
@@ -30317,6 +31483,117 @@
         "pages": "1–32",
         "doi": "10.1086/730391",
         "url": "https://doi.org/10.1086/730391",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.7",
+    "title": "伦敦低碳项目智能电表数据（Low Carbon London）",
+    "links": [
+      {
+        "label": "London Datastore Smart Meter Data",
+        "url": "https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households"
+      }
+    ],
+    "summary": "英国配电公司 UK Power Networks 的 Low Carbon London 项目公开的约 5500 户伦敦家庭 2011—2014 年半小时智能电表用电数据，含 2013 年动态分时电价试验。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "Low Carbon London 由英国配电公司 UK Power Networks 在 Ofgem 低碳网络基金资助下开展，2011 年 11 月至 2014 年 2 月记录约 5567 户伦敦家庭的半小时用电量，其中约 1100 户在 2013 年参与动态分时电价（dToU）试验，按提前一天通知的高、中、低三档电价计费，其余家庭为标准电价对照组。用电数据经 London Datastore 免费公开，项目报告还发布了家庭和电器调查结果。\n\n数据常用于研究家庭用电对分时电价的响应，例如研究高峰电价是否在相邻时段产生溢出效应。样本为自愿参与的家庭，分时电价组和对照组的代表性有限。",
+    "source": "London Datastore 免费下载。",
+    "references": [
+      {
+        "raw": "The spillover effect of peak pricing",
+        "title": "The spillover effect of peak pricing",
+        "authors": [
+          "Bowei Guo"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "121",
+        "issue": "",
+        "pages": "102845",
+        "doi": "10.1016/j.jeem.2023.102845",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102845",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.8",
+    "title": "Elexon 英国平衡机制报告服务（BMRS）",
+    "links": [
+      {
+        "label": "Elexon BMRS",
+        "url": "https://bmrs.elexon.co.uk/generation-by-fuel-type"
+      }
+    ],
+    "summary": "英国电力平衡与结算机构 Elexon 运营的电力市场数据平台，发布英国分燃料半小时发电量、需求、系统价格、平衡机制报价和机组可用性数据。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "平衡机制报告服务（Balancing Mechanism Reporting Service，BMRS）由英国电力平衡与结算代码管理机构 Elexon 运营，发布英国（大不列颠）电力市场的近实时和历史数据，包括按燃料类型（燃气、煤电、核电、风电、抽蓄、联络线等）分的 5 分钟和半小时发电量、全国需求和需求预测、系统买卖价格、平衡机制中各机组的报价和接受量以及机组可用性和停运信息。数据可在网站查询，并通过免费 API 下载。\n\n数据常用于研究英国电力市场运行，例如结合各时段的发电结构测算家庭用电转移对排放的影响。嵌入式小型光伏和风电不在输电层面计量，需要用估计值补充。",
+    "source": "Elexon 网站和 API 免费获取。",
+    "references": [
+      {
+        "raw": "The spillover effect of peak pricing",
+        "title": "The spillover effect of peak pricing",
+        "authors": [
+          "Bowei Guo"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "121",
+        "issue": "",
+        "pages": "102845",
+        "doi": "10.1016/j.jeem.2023.102845",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102845",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.9",
+    "title": "爱尔兰 CER 智能电表试验数据（ISSDA）",
+    "links": [
+      {
+        "label": "ISSDA CER Smart Metering",
+        "url": "https://www.ucd.ie/issda/data/commissionforenergyregulationcer/"
+      }
+    ],
+    "summary": "爱尔兰能源监管委员会 2009—2010 年智能电表用户行为试验中约 5000 户家庭和中小企业的半小时用电数据及问卷，由爱尔兰社会科学数据档案馆分发。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "爱尔兰能源监管委员会（Commission for Energy Regulation，CER，现为公用事业监管委员会 CRU）于 2009—2010 年开展智能电表用户行为试验（Customer Behaviour Trials），对约 5000 户居民和中小企业安装智能电表并记录半小时用电量，2010 年起将部分用户随机分配到不同的分时电价方案和信息反馈方式（账单、电量显示器等），并在试验前后开展问卷调查。数据由爱尔兰社会科学数据档案馆（ISSDA）分发，研究者签署使用协议后免费获取。\n\n数据常用于研究家庭用电对分时电价和信息反馈的响应，例如用机器学习估计分时电价效果的异质性，研究家庭对电价的关注如何影响需求响应。试验期仅约一年，部分处理组的样本量较小。",
+    "source": "ISSDA 签署协议后免费获取（链接经搜索确认，网站对自动访问返回错误页）。",
+    "references": [
+      {
+        "raw": "Peaking Interest: How Awareness Drives the Effectiveness of Time-of-Use Electricity Pricing",
+        "title": "Peaking Interest: How Awareness Drives the Effectiveness of Time-of-Use Electricity Pricing",
+        "authors": [
+          "Brian C. Prest"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "1",
+        "pages": "103–143",
+        "doi": "10.1086/705798",
+        "url": "https://doi.org/10.1086/705798",
         "verified": true,
         "note": ""
       }
@@ -36791,6 +38068,86 @@
         "pages": "1–32",
         "doi": "10.1086/730391",
         "url": "https://doi.org/10.1086/730391",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.7.5",
+    "title": "安大略能源局历史电价（Ontario Energy Board）",
+    "links": [
+      {
+        "label": "OEB Historical Electricity Rates",
+        "url": "https://www.oeb.ca/consumer-information-and-protection/electricity-rates/historical-electricity-rates"
+      }
+    ],
+    "summary": "加拿大安大略省能源局公布的 2006 年以来居民和小型企业受管制分时电价、分档电价和超低夜间电价的历史记录。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "安大略能源局（Ontario Energy Board，OEB）负责制定安大略省受管制价格计划（Regulated Price Plan，RPP）下居民和小型企业的电力价格，网站公布 2006 年以来每次调价的分时电价（非高峰、中峰、高峰）、分档电价以及 2023 年起的超低夜间电价方案的价格和时段划分，并说明对应的季节和生效日期。数据可免费查询。\n\n数据常用于研究安大略分时电价的效果，例如测算智能恒温器自动化在不同分时电价下为家庭节省的电费。网站只列出电度电价，配电费和其他附加费需另行查找。",
+    "source": "OEB 网站免费查询。",
+    "references": [
+      {
+        "raw": "Smart Thermostats, Automation, and Time-Varying Prices",
+        "title": "Smart Thermostats, Automation, and Time-Varying Prices",
+        "authors": [
+          "Joshua Blonz",
+          "Karen Palmer",
+          "Casey J. Wichman",
+          "Derek C. Wietelman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "1",
+        "pages": "90–125",
+        "doi": "10.1257/app.20210618",
+        "url": "https://doi.org/10.1257/app.20210618",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.7.6",
+    "title": "加拿大综合能源使用数据库（NEUD / CEUD）",
+    "links": [
+      {
+        "label": "NRCan Comprehensive Energy Use Database",
+        "url": "https://oee.nrcan.gc.ca/corporate/statistics/neud/dpa/menus/trends/comprehensive_tables/list.cfm"
+      }
+    ],
+    "summary": "加拿大自然资源部能效办公室编制的分部门、分省和分终端用途能源消费、设备存量和能效指标统计表，1990 年起。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "综合能源使用数据库（Comprehensive Energy Use Database，CEUD，原国家能源使用数据库 NEUD）由加拿大自然资源部能效办公室编制，提供 1990 年以来全国和各省居民、商业和机构、工业、交通、农业部门的能源消费量、温室气体排放和能效指标，居民部门还按终端用途（采暖、制冷、热水、家电、照明）和设备类型分解，并给出设备存量、新设备平均能效和住宅特征等。统计表在网站免费下载。\n\n数据常用于校准能源模型参数，例如用空调存量和能效数据估算智能恒温器调整设定温度对制冷用电的影响。数据由多种调查和模型估算合成，部分分项依赖假设。",
+    "source": "NRCan 网站免费下载。",
+    "references": [
+      {
+        "raw": "Smart Thermostats, Automation, and Time-Varying Prices",
+        "title": "Smart Thermostats, Automation, and Time-Varying Prices",
+        "authors": [
+          "Joshua Blonz",
+          "Karen Palmer",
+          "Casey J. Wichman",
+          "Derek C. Wietelman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "1",
+        "pages": "90–125",
+        "doi": "10.1257/app.20210618",
+        "url": "https://doi.org/10.1257/app.20210618",
         "verified": true,
         "note": ""
       }
@@ -45322,6 +46679,25 @@
         "url": "https://doi.org/10.1016/j.jeem.2026.103325",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring the impact of time-of-use pricing on electricity consumption: Evidence from Spain",
+        "title": "Measuring the impact of time-of-use pricing on electricity consumption: Evidence from Spain",
+        "authors": [
+          "Jacint Enrich",
+          "Ruoyi Li",
+          "Alejandro Mizrahi",
+          "Mar Reguant"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "123",
+        "issue": "",
+        "pages": "102901",
+        "doi": "10.1016/j.jeem.2023.102901",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102901",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -49160,6 +50536,22 @@
         "url": "https://doi.org/10.1016/j.jeem.2017.06.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The spillover effect of peak pricing",
+        "title": "The spillover effect of peak pricing",
+        "authors": [
+          "Bowei Guo"
+        ],
+        "year": 2023,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "121",
+        "issue": "",
+        "pages": "102845",
+        "doi": "10.1016/j.jeem.2023.102845",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102845",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -49714,6 +51106,46 @@
         "pages": "539–578",
         "doi": "10.1086/684750",
         "url": "https://doi.org/10.1086/684750",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.4",
+    "title": "谷歌趋势（Google Trends）",
+    "links": [
+      {
+        "label": "Google Trends",
+        "url": "https://trends.google.com/trends/"
+      }
+    ],
+    "summary": "谷歌公司发布的搜索关键词相对搜索热度指数，可按国家、地区和时间（2004 年以来）比较，常用作公众关注度的代理变量。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "Google Trends 提供谷歌搜索中特定关键词或主题的相对搜索量指数，以所选时间和地区内的最高搜索量为 100 进行标准化，可按国家、一级行政区和部分城市或都市区查看，时间粒度从分钟到月度不等，最早可回溯到 2004 年，并可比较多个关键词。数据基于搜索样本计算，网站免费查询和下载 CSV，研究者也可申请官方 API。\n\n数据常用于度量公众对政策和事件的关注度，例如用新电价相关关键词的搜索热度研究西班牙居民对强制分时电价改革的关注。指数为相对值且基于抽样，不同时间下载的结果可能略有差异，低搜索量关键词会被置零。",
+    "source": "Google Trends 网站免费查询下载。",
+    "references": [
+      {
+        "raw": "Measuring the impact of time-of-use pricing on electricity consumption: Evidence from Spain",
+        "title": "Measuring the impact of time-of-use pricing on electricity consumption: Evidence from Spain",
+        "authors": [
+          "Jacint Enrich",
+          "Ruoyi Li",
+          "Alejandro Mizrahi",
+          "Mar Reguant"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "123",
+        "issue": "",
+        "pages": "102901",
+        "doi": "10.1016/j.jeem.2023.102901",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102901",
         "verified": true,
         "note": ""
       }
