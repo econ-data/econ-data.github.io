@@ -5411,6 +5411,24 @@
         "url": "https://doi.org/10.1086/695474",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7782,6 +7800,45 @@
     ]
   },
   {
+    "id": "2.2.24",
+    "title": "全国教育进展评估（NAEP）",
+    "links": [
+      {
+        "label": "NAEP Research Center",
+        "url": "https://nces.ed.gov/nationsreportcard/researchcenter/"
+      }
+    ],
+    "summary": "美国国家教育统计中心开展的全国和州层面学生学业成绩评估，被称为“国家成绩单”，限制使用的学生层面微观数据需申请许可。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "全国教育进展评估（National Assessment of Educational Progress，NAEP）由美国国家教育统计中心（NCES）组织，自 1969 年起对全国有代表性的 4、8、12 年级学生开展数学、阅读、科学、写作等学科测试，1990 年起按州抽样，并对部分大城市学区单独报告；同时收集学生、教师和学校问卷。汇总结果通过 NAEP Data Explorer 免费查询，学生层面的限制使用数据需向 NCES 申请许可，在安全环境中使用。\n\n数据常用于研究教育资源与学业成绩的关系，例如研究风电带来的学区收入增加是否提高学生成绩。NAEP 采用矩阵抽样，每名学生只回答部分题目，分析时需要使用合理值（plausible values）。",
+    "source": "NAEP Data Explorer 免费查询；限制使用数据需申请 NCES 许可。",
+    "references": [
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.3.1",
     "title": "年度制造业调查数据",
     "links": [
@@ -8610,6 +8667,24 @@
         "pages": "206–233",
         "doi": "10.1257/app.6.3.206",
         "url": "https://doi.org/10.1257/app.6.3.206",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distributional Equity in the Employment and Wage Impacts of Energy Transitions",
+        "title": "Distributional Equity in the Employment and Wage Impacts of Energy Transitions",
+        "authors": [
+          "Ben Gilbert",
+          "Ben Hoen",
+          "Hannah Gagarin"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S261–S298",
+        "doi": "10.1086/732186",
+        "url": "https://doi.org/10.1086/732186",
         "verified": true,
         "note": ""
       }
@@ -10090,6 +10165,24 @@
         "url": "https://doi.org/10.1257/app.20170487",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11439,6 +11532,24 @@
         "url": "https://doi.org/10.1086/737236",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11734,6 +11845,45 @@
         "pages": "165–188",
         "doi": "10.1257/pol.20170481",
         "url": "https://doi.org/10.1257/pol.20170481",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.26",
+    "title": "德州教育局学业表现报告（TAPR / AEIS）",
+    "links": [
+      {
+        "label": "TEA TAPR",
+        "url": "https://tea.texas.gov/texas-schools/accountability/academic-accountability/performance-reporting/texas-academic-performance-reports"
+      }
+    ],
+    "summary": "德州教育局发布的全州学区和学校层面学生成绩、人口构成、教职工和财务年度报告，1990 年代起（早期称 AEIS）。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "德州学业表现报告（Texas Academic Performance Reports，TAPR）由德州教育局（Texas Education Agency，TEA）每年发布，2012—2013 学年以前称学业卓越指标系统（Academic Excellence Indicator System，AEIS），提供州、地区、学区和学校层面的州统考（TAAS、TAKS、STAAR）通过率、毕业率和辍学率、学生人数和人口构成（种族、经济弱势、英语学习者）、教职工人数和薪酬以及学区财务数据。报告和数据文件可在 TEA 网站免费下载。\n\n数据常用于研究德州学区财政和教育产出，例如研究风电场带来的财产税基增加对学区支出和学生成绩的影响。各年考试体系不同，成绩指标跨期不可直接比较。",
+    "source": "TEA 网站免费下载。",
+    "references": [
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
         "verified": true,
         "note": ""
       }
@@ -12558,6 +12708,22 @@
         "url": "https://doi.org/10.1086/739574",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13203,6 +13369,22 @@
         "url": "https://doi.org/10.1257/app.20170505",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13819,6 +14001,22 @@
         "pages": "369–386",
         "doi": "10.1162/rest.90.2.369",
         "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "title": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "authors": [
+          "Steven L. Puller"
+        ],
+        "year": 2007,
+        "journal": "Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "75–87",
+        "doi": "10.1162/rest.89.1.75",
+        "url": "https://doi.org/10.1162/rest.89.1.75",
         "verified": true,
         "note": ""
       }
@@ -16046,6 +16244,88 @@
         "url": "https://doi.org/10.1162/rest.90.2.369",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "title": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "authors": [
+          "Steven L. Puller"
+        ],
+        "year": 2007,
+        "journal": "Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "75–87",
+        "doi": "10.1162/rest.89.1.75",
+        "url": "https://doi.org/10.1162/rest.89.1.75",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+        "title": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+        "authors": [
+          "Akshaya Jha",
+          "Frank A. Wolak"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "292–330",
+        "doi": "10.1257/pol.20200234",
+        "url": "https://doi.org/10.1257/pol.20200234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "title": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "authors": [
+          "James Bushnell",
+          "Kevin Novan"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "4",
+        "pages": "759–796",
+        "doi": "10.1086/713249",
+        "url": "https://doi.org/10.1086/713249",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Environmental Benefits of Wind-Generated Electricity",
+        "title": "Measuring the Environmental Benefits of Wind-Generated Electricity",
+        "authors": [
+          "Joseph Cullen"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "5",
+        "issue": "4",
+        "pages": "107–133",
+        "doi": "10.1257/pol.5.4.107",
+        "url": "https://doi.org/10.1257/pol.5.4.107",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16238,6 +16518,71 @@
         "pages": "369–386",
         "doi": "10.1162/rest.90.2.369",
         "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+        "title": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+        "authors": [
+          "Akshaya Jha",
+          "Frank A. Wolak"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "292–330",
+        "doi": "10.1257/pol.20200234",
+        "url": "https://doi.org/10.1257/pol.20200234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies",
+        "title": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies",
+        "authors": [
+          "Mar Reguant"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "S1",
+        "pages": "S129–S168",
+        "doi": "10.1086/701190",
+        "url": "https://doi.org/10.1086/701190",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Environmental Benefits of Wind-Generated Electricity",
+        "title": "Measuring the Environmental Benefits of Wind-Generated Electricity",
+        "authors": [
+          "Joseph Cullen"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "5",
+        "issue": "4",
+        "pages": "107–133",
+        "doi": "10.1257/pol.5.4.107",
+        "url": "https://doi.org/10.1257/pol.5.4.107",
         "verified": true,
         "note": ""
       }
@@ -17150,6 +17495,22 @@
         "pages": "1640–1652",
         "doi": "10.1162/rest_a_00345",
         "url": "https://doi.org/10.1162/rest_a_00345",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "title": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "authors": [
+          "Steven L. Puller"
+        ],
+        "year": 2007,
+        "journal": "Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "75–87",
+        "doi": "10.1162/rest.89.1.75",
+        "url": "https://doi.org/10.1162/rest.89.1.75",
         "verified": true,
         "note": ""
       }
@@ -18966,6 +19327,23 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105073",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "title": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "authors": [
+          "James Bushnell",
+          "Kevin Novan"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "4",
+        "pages": "759–796",
+        "doi": "10.1086/713249",
+        "url": "https://doi.org/10.1086/713249",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19772,6 +20150,25 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Job displacement costs of phasing out coal",
+        "title": "Job displacement costs of phasing out coal",
+        "authors": [
+          "Juan-Pablo Rud",
+          "Michael Simmons",
+          "Gerhard Toews",
+          "Fernando Aragon"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "105167",
+        "doi": "10.1016/j.jpubeco.2024.105167",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105167",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20240,6 +20637,72 @@
         "url": "https://doi.org/10.1162/rest.90.2.369",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+        "title": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+        "authors": [
+          "Akshaya Jha",
+          "Frank A. Wolak"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "292–330",
+        "doi": "10.1257/pol.20200234",
+        "url": "https://doi.org/10.1257/pol.20200234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies",
+        "title": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies",
+        "authors": [
+          "Mar Reguant"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "S1",
+        "pages": "S129–S168",
+        "doi": "10.1086/701190",
+        "url": "https://doi.org/10.1086/701190",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "title": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "authors": [
+          "James Bushnell",
+          "Kevin Novan"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "4",
+        "pages": "759–796",
+        "doi": "10.1086/713249",
+        "url": "https://doi.org/10.1086/713249",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20626,6 +21089,39 @@
         "url": "https://doi.org/10.1257/aer.20240276",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies",
+        "title": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies",
+        "authors": [
+          "Mar Reguant"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "S1",
+        "pages": "S129–S168",
+        "doi": "10.1086/701190",
+        "url": "https://doi.org/10.1086/701190",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "title": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "authors": [
+          "James Bushnell",
+          "Kevin Novan"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "4",
+        "pages": "759–796",
+        "doi": "10.1086/713249",
+        "url": "https://doi.org/10.1086/713249",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20839,6 +21335,22 @@
         "pages": "100–141",
         "doi": "10.1257/pol.20220506",
         "url": "https://doi.org/10.1257/pol.20220506",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
         "verified": true,
         "note": ""
       }
@@ -21148,6 +21660,22 @@
         "pages": "369–386",
         "doi": "10.1162/rest.90.2.369",
         "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
         "verified": true,
         "note": ""
       }
@@ -21473,6 +22001,72 @@
         "pages": "369–386",
         "doi": "10.1162/rest.90.2.369",
         "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "title": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "authors": [
+          "Steven L. Puller"
+        ],
+        "year": 2007,
+        "journal": "Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "75–87",
+        "doi": "10.1162/rest.89.1.75",
+        "url": "https://doi.org/10.1162/rest.89.1.75",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+        "title": "Can Forward Commodity Markets Improve Spot Market Performance? Evidence from Wholesale Electricity",
+        "authors": [
+          "Akshaya Jha",
+          "Frank A. Wolak"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "292–330",
+        "doi": "10.1257/pol.20200234",
+        "url": "https://doi.org/10.1257/pol.20200234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies",
+        "title": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies",
+        "authors": [
+          "Mar Reguant"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "S1",
+        "pages": "S129–S168",
+        "doi": "10.1086/701190",
+        "url": "https://doi.org/10.1086/701190",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "title": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "authors": [
+          "James Bushnell",
+          "Kevin Novan"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "4",
+        "pages": "759–796",
+        "doi": "10.1086/713249",
+        "url": "https://doi.org/10.1086/713249",
         "verified": true,
         "note": ""
       }
@@ -22199,6 +22793,23 @@
         "url": "https://doi.org/10.1162/rest.90.2.369",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "title": "Setting with the Sun: The Impacts of Renewable Energy on Conventional Generation",
+        "authors": [
+          "James Bushnell",
+          "Kevin Novan"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "4",
+        "pages": "759–796",
+        "doi": "10.1086/713249",
+        "url": "https://doi.org/10.1086/713249",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22328,6 +22939,38 @@
         "pages": "369–386",
         "doi": "10.1162/rest.90.2.369",
         "url": "https://doi.org/10.1162/rest.90.2.369",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "title": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "authors": [
+          "Steven L. Puller"
+        ],
+        "year": 2007,
+        "journal": "Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "75–87",
+        "doi": "10.1162/rest.89.1.75",
+        "url": "https://doi.org/10.1162/rest.89.1.75",
         "verified": true,
         "note": ""
       }
@@ -23440,6 +24083,57 @@
         "url": "https://doi.org/10.1162/rest.90.2.369",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "title": "Imperfect Markets versus Imperfect Regulation in US Electricity Generation",
+        "authors": [
+          "Steve Cicala"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "409–441",
+        "doi": "10.1257/aer.20172034",
+        "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "title": "Pricing and Firm Conduct in California's Deregulated Electricity Market",
+        "authors": [
+          "Steven L. Puller"
+        ],
+        "year": 2007,
+        "journal": "Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "75–87",
+        "doi": "10.1162/rest.89.1.75",
+        "url": "https://doi.org/10.1162/rest.89.1.75",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Strategic Ability Affect Efficiency? Evidence from Electricity Markets",
+        "title": "Does Strategic Ability Affect Efficiency? Evidence from Electricity Markets",
+        "authors": [
+          "Ali Hortaçsu",
+          "Fernando Luco",
+          "Steven L. Puller",
+          "Dongni Zhu"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "12",
+        "pages": "4302–4342",
+        "doi": "10.1257/aer.20172015",
+        "url": "https://doi.org/10.1257/aer.20172015",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23593,6 +24287,24 @@
         "pages": "100–141",
         "doi": "10.1257/pol.20220506",
         "url": "https://doi.org/10.1257/pol.20220506",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
         "verified": true,
         "note": ""
       }
@@ -23991,6 +24703,64 @@
         "pages": "1597–1644",
         "doi": "10.1093/qje/qjy005",
         "url": "https://doi.org/10.1093/qje/qjy005",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.48",
+    "title": "美国风力涡轮机数据库（U.S. Wind Turbine Database，USWTDB）",
+    "links": [
+      {
+        "label": "USWTDB",
+        "url": "https://energy.usgs.gov/uswtdb/"
+      }
+    ],
+    "summary": "美国地质调查局、劳伦斯伯克利国家实验室和美国清洁能源协会联合维护的全美陆上和海上风机点位数据库，记录每台风机的坐标、投运年份、容量和机型。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "地理数据"
+    ],
+    "introduction": "美国风力涡轮机数据库（USWTDB）由美国地质调查局（USGS）、劳伦斯伯克利国家实验室（LBNL）和美国清洁能源协会（ACP）于 2018 年联合发布并按季度更新，收录 1980 年代以来美国本土、阿拉斯加、夏威夷、关岛和波多黎各的 7 万多台公用事业规模风机，记录每台风机的经过航拍影像核实的经纬度、所属项目名称、项目投运年份、项目和单机容量、轮毂高度、风轮直径、总高度、制造商和机型，并给出位置和属性的置信度。数据可在网站浏览，并以 CSV、shapefile 和 API 形式免费下载。\n\n数据常用于研究风电开发的地方影响，例如利用风机投运时间和所在学区，研究风电带来的财产税收入对学区支出和学生成绩的影响，或匹配个人就业记录研究风电建设的就业和工资效应。数据只包括现存和已拆除的公用事业规模风机，小型分布式风机不在其中。",
+    "source": "USGS 网站免费下载。",
+    "references": [
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distributional Equity in the Employment and Wage Impacts of Energy Transitions",
+        "title": "Distributional Equity in the Employment and Wage Impacts of Energy Transitions",
+        "authors": [
+          "Ben Gilbert",
+          "Ben Hoen",
+          "Hannah Gagarin"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S261–S298",
+        "doi": "10.1086/732186",
+        "url": "https://doi.org/10.1086/732186",
         "verified": true,
         "note": ""
       }
@@ -29865,6 +30635,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2026.103325",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does the presence of wind turbines have negative externalities for people in their surroundings? Evidence from well-being data",
+        "title": "Does the presence of wind turbines have negative externalities for people in their surroundings? Evidence from well-being data",
+        "authors": [
+          "Christian Krekel",
+          "Alexander Zerrahn"
+        ],
+        "year": 2017,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "82",
+        "issue": "",
+        "pages": "221–238",
+        "doi": "10.1016/j.jeem.2016.11.009",
+        "url": "https://doi.org/10.1016/j.jeem.2016.11.009",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29940,6 +30727,46 @@
         "pages": "81–110",
         "doi": "10.1257/pol.20200092",
         "url": "https://doi.org/10.1257/pol.20200092",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.12",
+    "title": "英国新收入调查面板数据（NESPD）",
+    "links": [
+      {
+        "label": "UK Data Service SN 6706",
+        "url": "https://doi.org/10.5255/UKDA-SN-6706-7"
+      }
+    ],
+    "summary": "英国 1975 年起的雇主报告个人收入面板，覆盖国民保险号尾数特定的约 1% 雇员，记录工资、工时、职业、行业和工作地点，经 UK Data Service 安全访问。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "新收入调查面板数据（New Earnings Survey Panel Dataset，NESPD）由英国国家统计局（ONS）根据新收入调查（NES，1975—2003 年）和年度工时与收入调查（ASHE，2004 年起）构建，按国民保险号尾数抽取约 1% 的雇员，由雇主报告每年 4 月的周薪和时薪、工时、职业、行业、工作地点和雇主编号，形成可长期追踪个人的面板。数据由 UK Data Service 以安全访问方式提供，需申请并在安全环境中使用。\n\n数据常用于研究英国劳动力市场的长期动态，例如追踪 1980 年代煤矿关闭中失业的矿工，研究逐步淘汰煤炭的就业转移成本。样本只包括有雇主的雇员，自雇和失业者不在其中。",
+    "source": "UK Data Service 安全访问，需申请。",
+    "references": [
+      {
+        "raw": "Job displacement costs of phasing out coal",
+        "title": "Job displacement costs of phasing out coal",
+        "authors": [
+          "Juan-Pablo Rud",
+          "Michael Simmons",
+          "Gerhard Toews",
+          "Fernando Aragon"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "105167",
+        "doi": "10.1016/j.jpubeco.2024.105167",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105167",
         "verified": true,
         "note": ""
       }
@@ -30537,6 +31364,80 @@
     ]
   },
   {
+    "id": "3.4.7",
+    "title": "英格兰多重剥夺指数（English Indices of Deprivation）",
+    "links": [
+      {
+        "label": "English Indices of Deprivation 2019",
+        "url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019"
+      }
+    ],
+    "summary": "英国住房、社区和地方政府部发布的英格兰小区域（LSOA）相对剥夺程度指数，涵盖收入、就业、教育、健康、犯罪、住房和生活环境七个维度。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "英格兰多重剥夺指数（Indices of Multiple Deprivation，IMD）由英国负责住房和地方政府的部门（现为住房、社区和地方政府部 MHCLG）发布，最近几版为 2004、2007、2010、2015、2019 和 2025 年，在约 3.3 万个下层超级输出区（LSOA）层面计算收入、就业、教育技能和培训、健康和残疾、犯罪、住房和服务障碍、生活环境七个分项剥夺得分及综合指数和排名，并汇总到地方当局层面。苏格兰、威尔士和北爱尔兰各自发布类似指数。数据免费下载。\n\n数据常用作英国地区社会经济状况的控制变量，例如研究可再生能源项目规划结果和周边房价时控制当地的剥夺程度。各版本方法有调整，排名只表示相对位置，不宜直接比较绝对变化。",
+    "source": "GOV.UK 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.5.1",
+    "title": "英国国家统计局开放地理门户（ONS Open Geography Portal）",
+    "links": [
+      {
+        "label": "ONS Open Geography Portal",
+        "url": "https://geoportal.statistics.gov.uk/"
+      }
+    ],
+    "summary": "英国国家统计局发布的邮编目录（ONSPD）、邮编中心点、普查输出区和各级行政区边界及对照表等官方地理数据。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "ONS 开放地理门户（Open Geography Portal）由英国国家统计局维护，提供英国官方统计使用的地理数据，包括按季度更新的邮编目录（ONS Postcode Directory，ONSPD，记录每个邮编的中心点坐标及所属输出区、超级输出区、地方当局、选区等）、普查输出区（OA）和超级输出区（LSOA、MSOA）边界、地方当局和议会选区等各级行政和统计区边界，以及不同地理单元之间的对照表。数据以开放政府许可证免费下载。\n\n数据常用于把英国住房、选举和人口数据统一到同一地理单元，例如把住房成交记录的邮编定位到坐标，计算其与可再生能源项目的距离。邮编随时间新增和废止，需使用对应时期的目录。",
+    "source": "ONS 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.6.1",
     "title": "西班牙国家气象局（AEMET）气候数据",
     "links": [
@@ -30569,6 +31470,23 @@
         "pages": "3054–3085",
         "doi": "10.1093/restud/rdag004",
         "url": "https://doi.org/10.1093/restud/rdag004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Power and Price Exposure: Learning from Changes in Renewable Energy Regulation",
+        "title": "Market Power and Price Exposure: Learning from Changes in Renewable Energy Regulation",
+        "authors": [
+          "Natalia Fabra",
+          "Imelda"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "4",
+        "pages": "323–358",
+        "doi": "10.1257/pol.20210221",
+        "url": "https://doi.org/10.1257/pol.20210221",
         "verified": true,
         "note": ""
       }
@@ -30669,6 +31587,24 @@
         "url": "https://doi.org/10.3386/w34125",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "authors": [
+          "Stephen Jarvis",
+          "Olivier Deschenes",
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1311–1346",
+        "doi": "10.1093/jeea/jvac007",
+        "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30744,6 +31680,24 @@
         "url": "https://doi.org/10.1016/j.jeem.2017.02.003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "authors": [
+          "Stephen Jarvis",
+          "Olivier Deschenes",
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1311–1346",
+        "doi": "10.1093/jeea/jvac007",
+        "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30783,6 +31737,41 @@
         "pages": "121–144",
         "doi": "10.1016/j.jeem.2017.02.003",
         "url": "https://doi.org/10.1016/j.jeem.2017.02.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does the presence of wind turbines have negative externalities for people in their surroundings? Evidence from well-being data",
+        "title": "Does the presence of wind turbines have negative externalities for people in their surroundings? Evidence from well-being data",
+        "authors": [
+          "Christian Krekel",
+          "Alexander Zerrahn"
+        ],
+        "year": 2017,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "82",
+        "issue": "",
+        "pages": "221–238",
+        "doi": "10.1016/j.jeem.2016.11.009",
+        "url": "https://doi.org/10.1016/j.jeem.2016.11.009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "authors": [
+          "Stephen Jarvis",
+          "Olivier Deschenes",
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1311–1346",
+        "doi": "10.1093/jeea/jvac007",
+        "url": "https://doi.org/10.1093/jeea/jvac007",
         "verified": true,
         "note": ""
       }
@@ -31141,6 +32130,24 @@
         "url": "https://doi.org/10.1257/pol.20210028",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "authors": [
+          "Stephen Jarvis",
+          "Olivier Deschenes",
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1311–1346",
+        "doi": "10.1093/jeea/jvac007",
+        "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31223,6 +32230,44 @@
     ]
   },
   {
+    "id": "3.6.16",
+    "title": "UKCEH 英国土地覆盖图（Land Cover Map）",
+    "links": [
+      {
+        "label": "UKCEH Land Cover Maps",
+        "url": "https://www.ceh.ac.uk/data/ukceh-land-cover-maps"
+      }
+    ],
+    "summary": "英国生态与水文中心基于卫星影像制作的英国土地覆盖图，1990、2000、2007 年起多个版本，分辨率 25 米至 10 米，划分 20 余类土地覆盖。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "UKCEH 土地覆盖图（Land Cover Map，LCM）由英国生态与水文中心（UK Centre for Ecology & Hydrology）制作，利用 Landsat、Sentinel-2 等卫星影像分类，提供 1990、2000、2007、2015 年及 2017 年起逐年的英国土地覆盖栅格和矢量产品，划分为林地、耕地、改良草地、荒野、水体、城市和郊区等 21 类（以 UKCEH 的广义生境分类为准），分辨率 25 米至 10 米。部分产品可免费用于学术研究，其余需许可。\n\n数据常用于控制英国土地利用和景观特征，例如研究风电场视觉影响对房价的作用时，控制住房周边的林地、水体和城市用地比例。不同版本的分类方法有差异，跨版本比较需要谨慎。",
+    "source": "UKCEH 网站获取，学术使用多需许可。",
+    "references": [
+      {
+        "raw": "Gone with the wind: Valuing the visual impacts of wind turbines through house prices",
+        "title": "Gone with the wind: Valuing the visual impacts of wind turbines through house prices",
+        "authors": [
+          "Stephen Gibbons"
+        ],
+        "year": 2015,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "72",
+        "issue": "",
+        "pages": "177–196",
+        "doi": "10.1016/j.jeem.2015.04.006",
+        "url": "https://doi.org/10.1016/j.jeem.2015.04.006",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.7.1",
     "title": "伊比利亚电力市场运营商（OMIE）报价与出清数据",
     "links": [
@@ -31274,6 +32319,23 @@
         "pages": "102901",
         "doi": "10.1016/j.jeem.2023.102901",
         "url": "https://doi.org/10.1016/j.jeem.2023.102901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Power and Price Exposure: Learning from Changes in Renewable Energy Regulation",
+        "title": "Market Power and Price Exposure: Learning from Changes in Renewable Energy Regulation",
+        "authors": [
+          "Natalia Fabra",
+          "Imelda"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "4",
+        "pages": "323–358",
+        "doi": "10.1257/pol.20210221",
+        "url": "https://doi.org/10.1257/pol.20210221",
         "verified": true,
         "note": ""
       }
@@ -31333,6 +32395,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2023.102901",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Power and Price Exposure: Learning from Changes in Renewable Energy Regulation",
+        "title": "Market Power and Price Exposure: Learning from Changes in Renewable Energy Regulation",
+        "authors": [
+          "Natalia Fabra",
+          "Imelda"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "4",
+        "pages": "323–358",
+        "doi": "10.1257/pol.20210221",
+        "url": "https://doi.org/10.1257/pol.20210221",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31371,6 +32450,24 @@
         "url": "https://doi.org/10.1162/jeea.2008.6.4.727",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "authors": [
+          "Stephen Jarvis",
+          "Olivier Deschenes",
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1311–1346",
+        "doi": "10.1093/jeea/jvac007",
+        "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31406,6 +32503,24 @@
         "pages": "526–558",
         "doi": "10.1257/pol.20210028",
         "url": "https://doi.org/10.1257/pol.20210028",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "authors": [
+          "Stephen Jarvis",
+          "Olivier Deschenes",
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1311–1346",
+        "doi": "10.1093/jeea/jvac007",
+        "url": "https://doi.org/10.1093/jeea/jvac007",
         "verified": true,
         "note": ""
       }
@@ -31594,6 +32709,122 @@
         "pages": "103–143",
         "doi": "10.1086/705798",
         "url": "https://doi.org/10.1086/705798",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.10",
+    "title": "ENTSO-E 透明度平台（Transparency Platform）",
+    "links": [
+      {
+        "label": "ENTSO-E Transparency Platform",
+        "url": "https://transparency.entsoe.eu/"
+      }
+    ],
+    "summary": "欧洲输电系统运营商联盟依据欧盟法规运营的电力市场数据平台，发布欧洲各国逐小时负荷、分燃料和分机组发电量、跨境电力流和日前电价。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "ENTSO-E 透明度平台由欧洲输电系统运营商联盟（ENTSO-E）根据欧盟第 543/2013 号法规于 2015 年 1 月上线，汇总约 35 个欧洲国家输电系统运营商报送的数据，包括各竞价区逐小时（部分为 15 分钟）实际负荷和负荷预测、按燃料类型分的实际发电量、100 MW 以上机组的逐小时发电量和装机容量、计划和非计划停运、跨境物理电力流和预定交换以及日前市场电价。注册后免费在线查询，并可通过 API 和 SFTP 批量下载。\n\n数据常用于欧洲电力市场和能源转型研究，例如利用德国核电机组关停前后各机组的逐小时发电量，研究核电退出导致的燃煤发电增加及其排放和健康成本。各国报送质量不一，部分时段存在缺失和修订。",
+    "source": "注册后免费下载。",
+    "references": [
+      {
+        "raw": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "authors": [
+          "Stephen Jarvis",
+          "Olivier Deschenes",
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1311–1346",
+        "doi": "10.1093/jeea/jvac007",
+        "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.11",
+    "title": "英国可再生能源规划数据库（Renewable Energy Planning Database，REPD）",
+    "links": [
+      {
+        "label": "REPD",
+        "url": "https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract"
+      }
+    ],
+    "summary": "英国能源主管部门按季度发布的 150 kW 以上可再生能源项目规划申请数据库，记录项目位置、技术、容量和规划审批各阶段的状态与日期。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "可再生能源规划数据库（REPD）由英国商业、能源和产业战略部（BEIS，现为能源安全与净零部 DESNZ）委托编制，按季度更新，跟踪英国 1990 年以来装机容量 150 kW 以上（2021 年前为 1 MW 以上）的可再生能源项目（陆上和海上风电、光伏、生物质、储能等）从规划申请到建成运营的全过程，记录项目名称、运营商、技术类型、装机容量、地址和坐标、规划主管机关、规划申请提交、批准、驳回、上诉、撤回、开工和投运的日期。数据免费下载。\n\n数据常用于研究可再生能源项目的选址和审批，例如利用规划被驳回的项目研究邻避主义对可再生能源部署的经济成本。小型项目和早期年份的记录不完整。",
+    "source": "GOV.UK 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.12",
+    "title": "西班牙可再生能源、废物和热电联产设施登记（PRETOR）",
+    "links": [
+      {
+        "label": "PRETOR",
+        "url": "https://energia.serviciosmin.gob.es/Pretor/"
+      }
+    ],
+    "summary": "西班牙生态转型部的可再生能源、热电联产和废物发电设施行政登记库，记录每个设施的位置、技术、装机容量和投运日期。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "PRETOR（Registro de Régimen Retributivo Específico / 原特殊制度发电设施登记）由西班牙生态转型与人口挑战部（原工业、能源和旅游部）维护，记录享受可再生能源、热电联产和废物发电特殊补贴制度的发电设施，包括设施名称、所有者、所在省和市镇、技术类型（风电、光伏、光热、生物质、小水电、热电联产等）、装机容量、登记和投运日期。数据可在网站公开查询。\n\n数据常用于研究可再生能源投资的地方经济效应，例如按市镇汇总风电和光伏装机的时间和规模，研究可再生能源投资是否创造本地就业。网页查询以设施为单位，批量整理需要较多处理。",
+    "source": "生态转型部网站公开查询。",
+    "references": [
+      {
+        "raw": "Do renewable energy investments create local jobs?",
+        "title": "Do renewable energy investments create local jobs?",
+        "authors": [
+          "Natalia Fabra",
+          "Eduardo Gutiérrez",
+          "Aitor Lacuesta",
+          "Roberto Ramos"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "239",
+        "issue": "",
+        "pages": "105212",
+        "doi": "10.1016/j.jpubeco.2024.105212",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105212",
         "verified": true,
         "note": ""
       }
@@ -31957,6 +33188,59 @@
         "pages": "81–110",
         "doi": "10.1257/pol.20200092",
         "url": "https://doi.org/10.1257/pol.20200092",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.11.2",
+    "title": "英格兰和威尔士土地登记处住房成交价数据（HM Land Registry Price Paid Data）",
+    "links": [
+      {
+        "label": "Price Paid Data Downloads",
+        "url": "https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads"
+      }
+    ],
+    "summary": "英国皇家土地登记处发布的 1995 年以来英格兰和威尔士全部住宅成交记录，含成交价格、日期、完整地址和邮编以及房屋类型。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "Price Paid Data 由英国皇家土地登记处（HM Land Registry）发布，收录 1995 年 1 月以来提交登记的英格兰和威尔士全部按市场价成交的住宅交易（目前约 2900 万条），每条记录包括成交价格、成交日期、完整地址和邮编、房屋类型（独立、半独立、联排、公寓）、新建与否和产权类型（永久产权或租赁产权），每月更新。数据以开放政府许可证免费下载。\n\n数据常用于英国住房市场的享乐价格研究，例如利用风电场建设前后周边房价的变化，估计风机视觉影响的负外部性，或研究反对可再生能源项目（邻避）的经济成本。数据不含面积和房间数等房屋特征，需与能效证书（EPC）等数据匹配补充。",
+    "source": "土地登记处网站免费下载。",
+    "references": [
+      {
+        "raw": "Gone with the wind: Valuing the visual impacts of wind turbines through house prices",
+        "title": "Gone with the wind: Valuing the visual impacts of wind turbines through house prices",
+        "authors": [
+          "Stephen Gibbons"
+        ],
+        "year": 2015,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "72",
+        "issue": "",
+        "pages": "177–196",
+        "doi": "10.1016/j.jeem.2015.04.006",
+        "url": "https://doi.org/10.1016/j.jeem.2015.04.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
         "verified": true,
         "note": ""
       }
@@ -38934,6 +40218,24 @@
         "url": "https://doi.org/10.3982/ECTA15828",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Decentralized renewable energy to grow manufacturing? Evidence from microhydro mini-grids in Nepal",
+        "title": "Decentralized renewable energy to grow manufacturing? Evidence from microhydro mini-grids in Nepal",
+        "authors": [
+          "Robyn C. Meeks",
+          "Hope Thompson",
+          "Zhenxuan Wang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "130",
+        "issue": "",
+        "pages": "103092",
+        "doi": "10.1016/j.jeem.2024.103092",
+        "url": "https://doi.org/10.1016/j.jeem.2024.103092",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -43055,6 +44357,40 @@
         "url": "https://doi.org/10.1257/aer.20191943",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Decentralized renewable energy to grow manufacturing? Evidence from microhydro mini-grids in Nepal",
+        "title": "Decentralized renewable energy to grow manufacturing? Evidence from microhydro mini-grids in Nepal",
+        "authors": [
+          "Robyn C. Meeks",
+          "Hope Thompson",
+          "Zhenxuan Wang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "130",
+        "issue": "",
+        "pages": "103092",
+        "doi": "10.1016/j.jeem.2024.103092",
+        "url": "https://doi.org/10.1016/j.jeem.2024.103092",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gone with the wind: Valuing the visual impacts of wind turbines through house prices",
+        "title": "Gone with the wind: Valuing the visual impacts of wind turbines through house prices",
+        "authors": [
+          "Stephen Gibbons"
+        ],
+        "year": 2015,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "72",
+        "issue": "",
+        "pages": "177–196",
+        "doi": "10.1016/j.jeem.2015.04.006",
+        "url": "https://doi.org/10.1016/j.jeem.2015.04.006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -43603,6 +44939,40 @@
         "pages": "ueaf125",
         "doi": "10.1093/ej/ueaf125",
         "url": "https://doi.org/10.1093/ej/ueaf125",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Decentralized renewable energy to grow manufacturing? Evidence from microhydro mini-grids in Nepal",
+        "title": "Decentralized renewable energy to grow manufacturing? Evidence from microhydro mini-grids in Nepal",
+        "authors": [
+          "Robyn C. Meeks",
+          "Hope Thompson",
+          "Zhenxuan Wang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "130",
+        "issue": "",
+        "pages": "103092",
+        "doi": "10.1016/j.jeem.2024.103092",
+        "url": "https://doi.org/10.1016/j.jeem.2024.103092",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
         "verified": true,
         "note": ""
       }
@@ -44849,6 +46219,25 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w32063",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do renewable energy investments create local jobs?",
+        "title": "Do renewable energy investments create local jobs?",
+        "authors": [
+          "Natalia Fabra",
+          "Eduardo Gutiérrez",
+          "Aitor Lacuesta",
+          "Roberto Ramos"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "239",
+        "issue": "",
+        "pages": "105212",
+        "doi": "10.1016/j.jpubeco.2024.105212",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105212",
         "verified": true,
         "note": ""
       }
@@ -48817,6 +50206,22 @@
         "url": "https://doi.org/10.3982/ecta21084",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48847,6 +50252,22 @@
         "pages": "767–810",
         "doi": "10.3982/ecta21084",
         "url": "https://doi.org/10.3982/ecta21084",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
         "verified": true,
         "note": ""
       }
@@ -49385,6 +50806,43 @@
         "pages": "404–437",
         "doi": "10.1093/restud/rdaf018",
         "url": "https://doi.org/10.1093/restud/rdaf018",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.7.12",
+    "title": "Renewables.ninja 风电与光伏出力模拟",
+    "links": [
+      {
+        "label": "Renewables.ninja",
+        "url": "https://www.renewables.ninja/"
+      }
+    ],
+    "summary": "基于 MERRA-2 等再分析数据模拟全球任意地点逐小时风电和光伏容量因子的开放平台，并提供各国历史风光出力时间序列。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "Renewables.ninja 由伦敦帝国理工学院和苏黎世联邦理工学院的研究者（Stefan Pfenninger 和 Iain Staffell）开发，利用 NASA MERRA-2 和 CM-SAF SARAH 等再分析和卫星辐射数据，结合风机功率曲线和光伏系统模型，模拟全球任意坐标 1980 年以来逐小时的风电和光伏容量因子，并经实际出力数据校准；网站还提供欧洲等国家层面的历史风光出力和气象时间序列。注册后可在线模拟和通过 API 免费下载。\n\n数据常用于估计可再生能源项目的发电潜力和价值，例如计算因规划被驳回而未建成的风电和光伏项目损失的发电量和减排效益。模拟结果依赖再分析数据精度，复杂地形的风速偏差较大。",
+    "source": "注册后免费使用。",
+    "references": [
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
         "verified": true,
         "note": ""
       }
@@ -50552,6 +52010,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2023.102845",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Power and Price Exposure: Learning from Changes in Renewable Energy Regulation",
+        "title": "Market Power and Price Exposure: Learning from Changes in Renewable Energy Regulation",
+        "authors": [
+          "Natalia Fabra",
+          "Imelda"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "4",
+        "pages": "323–358",
+        "doi": "10.1257/pol.20210221",
+        "url": "https://doi.org/10.1257/pol.20210221",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -50854,6 +52329,45 @@
         "pages": "2396–2450",
         "doi": "10.1086/729065",
         "url": "https://doi.org/10.1086/729065",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.10",
+    "title": "LSEG Datastream（原 Thomson Reuters Datastream）",
+    "links": [
+      {
+        "label": "LSEG Datastream",
+        "url": "https://www.lseg.com/en/data-analytics/products/datastream-macroeconomic-analysis"
+      }
+    ],
+    "summary": "伦敦证券交易所集团旗下的全球金融和宏观经济时间序列数据库，覆盖股票、债券、商品、能源和电力价格以及各国宏观指标。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Datastream 原由 Thomson Reuters（后为 Refinitiv）运营，现属伦敦证券交易所集团（LSEG），提供全球约 175 个国家的股票价格和指数、公司财务、债券和利率、汇率、商品期货和现货价格（含原油、天然气、煤炭、电力和碳排放配额）以及各国宏观经济指标的长时段时间序列，部分序列可回溯到 1950 年代以前。需机构订阅，通过 Excel 插件或专用终端获取。\n\n数据常用于获取能源和金融市场价格，例如获取德国批发电价和天然气价格，研究核电退出对电价和发电成本的影响。不同序列的来源和口径需查看各自的元数据说明。",
+    "source": "需机构订阅。",
+    "references": [
+      {
+        "raw": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
+        "authors": [
+          "Stephen Jarvis",
+          "Olivier Deschenes",
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1311–1346",
+        "doi": "10.1093/jeea/jvac007",
+        "url": "https://doi.org/10.1093/jeea/jvac007",
         "verified": true,
         "note": ""
       }
