@@ -8415,6 +8415,159 @@
         "url": "https://doi.org/10.1093/qje/qjab012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Real Wage Inequality",
+        "title": "Real Wage Inequality",
+        "authors": [
+          "Enrico Moretti"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1257/app.5.1.65",
+        "url": "https://doi.org/10.1257/app.5.1.65",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "title": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "authors": [
+          "David H. Autor",
+          "David Dorn"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1553–1597",
+        "doi": "10.1257/aer.103.5.1553",
+        "url": "https://doi.org/10.1257/aer.103.5.1553",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spillovers from High-Skill Consumption to Low-Skill Labor Markets",
+        "title": "Spillovers from High-Skill Consumption to Low-Skill Labor Markets",
+        "authors": [
+          "Francesca Mazzolari",
+          "Giuseppe Ragusa"
+        ],
+        "year": 2013,
+        "journal": "Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "1",
+        "pages": "74–86",
+        "doi": "10.1162/rest_a_00234",
+        "url": "https://doi.org/10.1162/rest_a_00234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Offshoring, Automation, Low-Skilled Immigration, and Labor Market Polarization",
+        "title": "Offshoring, Automation, Low-Skilled Immigration, and Labor Market Polarization",
+        "authors": [
+          "Federico S. Mandelman",
+          "Andrei Zlate"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "1",
+        "pages": "355–389",
+        "doi": "10.1257/mac.20180205",
+        "url": "https://doi.org/10.1257/mac.20180205",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Origins of Technology-Skill Complementarity",
+        "title": "The Origins of Technology-Skill Complementarity",
+        "authors": [
+          "Claudia Goldin",
+          "Lawrence F. Katz"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "3",
+        "pages": "693–732",
+        "doi": "10.1162/003355398555720",
+        "url": "https://doi.org/10.1162/003355398555720",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Directed Technical Change",
+        "title": "Directed Technical Change",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2002,
+        "journal": "The Review of Economic Studies",
+        "volume": "69",
+        "issue": "4",
+        "pages": "781–809",
+        "doi": "10.1111/1467-937x.00226",
+        "url": "https://doi.org/10.1111/1467-937x.00226",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wage Inequality and the Rise in Returns to Skill",
+        "title": "Wage Inequality and the Rise in Returns to Skill",
+        "authors": [
+          "Chinhui Juhn",
+          "Kevin M. Murphy",
+          "Brooks Pierce"
+        ],
+        "year": 1993,
+        "journal": "Journal of Political Economy",
+        "volume": "101",
+        "issue": "3",
+        "pages": "410–442",
+        "doi": "10.1086/261881",
+        "url": "https://doi.org/10.1086/261881",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Children and Their Parents' Labor Supply: Evidence from Exogenous Variation in Family Size",
+        "title": "Children and Their Parents' Labor Supply: Evidence from Exogenous Variation in Family Size",
+        "authors": [
+          "Joshua D. Angrist",
+          "William N. Evans"
+        ],
+        "year": 1998,
+        "journal": "American Economic Review",
+        "volume": "88",
+        "issue": "3",
+        "pages": "450–477",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/116844",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9741,6 +9894,23 @@
         "url": "https://doi.org/10.1257/aer.20131578",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Origins of Technology-Skill Complementarity",
+        "title": "The Origins of Technology-Skill Complementarity",
+        "authors": [
+          "Claudia Goldin",
+          "Lawrence F. Katz"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "3",
+        "pages": "693–732",
+        "doi": "10.1162/003355398555720",
+        "url": "https://doi.org/10.1162/003355398555720",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10330,6 +10500,24 @@
         "pages": "S141–S198",
         "doi": "10.1086/682384",
         "url": "https://doi.org/10.1086/682384",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Lived Cyclicality of the Labor Force Participation Rate",
+        "title": "The Long-Lived Cyclicality of the Labor Force Participation Rate",
+        "authors": [
+          "Tomaz Cajner",
+          "John Coglianese",
+          "Joshua Montes"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–47",
+        "doi": "10.1162/rest.a.1631",
+        "url": "https://doi.org/10.1162/rest.a.1631",
         "verified": true,
         "note": ""
       }
@@ -11541,6 +11729,146 @@
         "url": "https://doi.org/10.3982/ECTA19106",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "title": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "authors": [
+          "David H. Autor",
+          "David Dorn"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1553–1597",
+        "doi": "10.1257/aer.103.5.1553",
+        "url": "https://doi.org/10.1257/aer.103.5.1553",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spillovers from High-Skill Consumption to Low-Skill Labor Markets",
+        "title": "Spillovers from High-Skill Consumption to Low-Skill Labor Markets",
+        "authors": [
+          "Francesca Mazzolari",
+          "Giuseppe Ragusa"
+        ],
+        "year": 2013,
+        "journal": "Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "1",
+        "pages": "74–86",
+        "doi": "10.1162/rest_a_00234",
+        "url": "https://doi.org/10.1162/rest_a_00234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leisure Luxuries and the Labor Supply of Young Men",
+        "title": "Leisure Luxuries and the Labor Supply of Young Men",
+        "authors": [
+          "Mark Aguiar",
+          "Mark Bils",
+          "Kerwin Kofi Charles",
+          "Erik Hurst"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "337–382",
+        "doi": "10.1086/711916",
+        "url": "https://doi.org/10.1086/711916",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growing Importance of Social Skills in the Labor Market",
+        "title": "The Growing Importance of Social Skills in the Labor Market",
+        "authors": [
+          "David J. Deming"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1593–1640",
+        "doi": "10.1093/qje/qjx022",
+        "url": "https://doi.org/10.1093/qje/qjx022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "title": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "authors": [
+          "David J. Deming",
+          "Kadeem Noray"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1965–2005",
+        "doi": "10.1093/qje/qjaa021",
+        "url": "https://doi.org/10.1093/qje/qjaa021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Work in the United States",
+        "title": "The Evolution of Work in the United States",
+        "authors": [
+          "Enghin Atalay",
+          "Phai Phongthiengtham",
+          "Sebastian Sotelo",
+          "Daniel Tannenbaum"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "1–34",
+        "doi": "10.1257/app.20190070",
+        "url": "https://doi.org/10.1257/app.20190070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12661,6 +12989,248 @@
         "url": "https://doi.org/10.1093/qje/qjab012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Lousy and Lovely Jobs: The Rising Polarization of Work in Britain",
+        "title": "Lousy and Lovely Jobs: The Rising Polarization of Work in Britain",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "118–133",
+        "doi": "10.1162/rest.89.1.118",
+        "url": "https://doi.org/10.1162/rest.89.1.118",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Offshoring, Automation, Low-Skilled Immigration, and Labor Market Polarization",
+        "title": "Offshoring, Automation, Low-Skilled Immigration, and Labor Market Polarization",
+        "authors": [
+          "Federico S. Mandelman",
+          "Andrei Zlate"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "1",
+        "pages": "355–389",
+        "doi": "10.1257/mac.20180205",
+        "url": "https://doi.org/10.1257/mac.20180205",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Lived Cyclicality of the Labor Force Participation Rate",
+        "title": "The Long-Lived Cyclicality of the Labor Force Participation Rate",
+        "authors": [
+          "Tomaz Cajner",
+          "John Coglianese",
+          "Joshua Montes"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–47",
+        "doi": "10.1162/rest.a.1631",
+        "url": "https://doi.org/10.1162/rest.a.1631",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Trends in Leisure: The Allocation of Time Over Five Decades",
+        "title": "Measuring Trends in Leisure: The Allocation of Time Over Five Decades",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "969–1006",
+        "doi": "10.1162/qjec.122.3.969",
+        "url": "https://doi.org/10.1162/qjec.122.3.969",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leisure Luxuries and the Labor Supply of Young Men",
+        "title": "Leisure Luxuries and the Labor Supply of Young Men",
+        "authors": [
+          "Mark Aguiar",
+          "Mark Bils",
+          "Kerwin Kofi Charles",
+          "Erik Hurst"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "337–382",
+        "doi": "10.1086/711916",
+        "url": "https://doi.org/10.1086/711916",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Directed Technical Change",
+        "title": "Directed Technical Change",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2002,
+        "journal": "The Review of Economic Studies",
+        "volume": "69",
+        "issue": "4",
+        "pages": "781–809",
+        "doi": "10.1111/1467-937x.00226",
+        "url": "https://doi.org/10.1111/1467-937x.00226",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Changes in Relative Wages, 1963-1987: Supply and Demand Factors",
+        "title": "Changes in Relative Wages, 1963-1987: Supply and Demand Factors",
+        "authors": [
+          "Lawrence F. Katz",
+          "Kevin M. Murphy"
+        ],
+        "year": 1992,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "107",
+        "issue": "1",
+        "pages": "35–78",
+        "doi": "10.2307/2118323",
+        "url": "https://doi.org/10.2307/2118323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wage Inequality and the Rise in Returns to Skill",
+        "title": "Wage Inequality and the Rise in Returns to Skill",
+        "authors": [
+          "Chinhui Juhn",
+          "Kevin M. Murphy",
+          "Brooks Pierce"
+        ],
+        "year": 1993,
+        "journal": "Journal of Political Economy",
+        "volume": "101",
+        "issue": "3",
+        "pages": "410–442",
+        "doi": "10.1086/261881",
+        "url": "https://doi.org/10.1086/261881",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "title": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "authors": [
+          "David J. Deming",
+          "Kadeem Noray"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1965–2005",
+        "doi": "10.1093/qje/qjaa021",
+        "url": "https://doi.org/10.1093/qje/qjaa021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Work in the United States",
+        "title": "The Evolution of Work in the United States",
+        "authors": [
+          "Enghin Atalay",
+          "Phai Phongthiengtham",
+          "Sebastian Sotelo",
+          "Daniel Tannenbaum"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "1–34",
+        "doi": "10.1257/app.20190070",
+        "url": "https://doi.org/10.1257/app.20190070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Race Between Education, Technology, and the Minimum Wage",
+        "title": "The Race Between Education, Technology, and the Minimum Wage",
+        "authors": [
+          "Jonathan Vogel"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "1857–1899",
+        "doi": "10.1093/qje/qjaf014",
+        "url": "https://doi.org/10.1093/qje/qjaf014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "title": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "authors": [
+          "Alexander M. Gelber",
+          "Joshua W. Mitchell"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economic Studies",
+        "volume": "79",
+        "issue": "3",
+        "pages": "863–897",
+        "doi": "10.1093/restud/rdr041",
+        "url": "https://doi.org/10.1093/restud/rdr041",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Supply and the Value of Non-work Time: Experimental Estimates from the Field",
+        "title": "Labor Supply and the Value of Non-work Time: Experimental Estimates from the Field",
+        "authors": [
+          "Alexandre Mas",
+          "Amanda Pallais"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review: Insights",
+        "volume": "1",
+        "issue": "1",
+        "pages": "111–126",
+        "doi": "10.1257/aeri.20180070",
+        "url": "https://doi.org/10.1257/aeri.20180070",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12981,6 +13551,125 @@
         "url": "https://doi.org/10.1093/qje/qjab012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring Trends in Leisure: The Allocation of Time Over Five Decades",
+        "title": "Measuring Trends in Leisure: The Allocation of Time Over Five Decades",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "969–1006",
+        "doi": "10.1162/qjec.122.3.969",
+        "url": "https://doi.org/10.1162/qjec.122.3.969",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leisure Luxuries and the Labor Supply of Young Men",
+        "title": "Leisure Luxuries and the Labor Supply of Young Men",
+        "authors": [
+          "Mark Aguiar",
+          "Mark Bils",
+          "Kerwin Kofi Charles",
+          "Erik Hurst"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "337–382",
+        "doi": "10.1086/711916",
+        "url": "https://doi.org/10.1086/711916",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Empirical Model of Labor Supply in a Life-Cycle Setting",
+        "title": "An Empirical Model of Labor Supply in a Life-Cycle Setting",
+        "authors": [
+          "Thomas E. MaCurdy"
+        ],
+        "year": 1981,
+        "journal": "Journal of Political Economy",
+        "volume": "89",
+        "issue": "6",
+        "pages": "1059–1085",
+        "doi": "10.1086/261023",
+        "url": "https://doi.org/10.1086/261023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Intertemporal Substitution in Labor Supply: Evidence from Micro Data",
+        "title": "Intertemporal Substitution in Labor Supply: Evidence from Micro Data",
+        "authors": [
+          "Joseph G. Altonji"
+        ],
+        "year": 1986,
+        "journal": "Journal of Political Economy",
+        "volume": "94",
+        "issue": "3, Part 2",
+        "pages": "S176–S215",
+        "doi": "10.1086/261403",
+        "url": "https://doi.org/10.1086/261403",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Health, Wealth, and Wages on Labour Supply and Retirement Behaviour",
+        "title": "The Effects of Health, Wealth, and Wages on Labour Supply and Retirement Behaviour",
+        "authors": [
+          "Eric French"
+        ],
+        "year": 2005,
+        "journal": "The Review of Economic Studies",
+        "volume": "72",
+        "issue": "2",
+        "pages": "395–427",
+        "doi": "10.1111/j.1467-937x.2005.00337.x",
+        "url": "https://doi.org/10.1111/j.1467-937x.2005.00337.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "title": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "authors": [
+          "Alexander M. Gelber",
+          "Joshua W. Mitchell"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economic Studies",
+        "volume": "79",
+        "issue": "3",
+        "pages": "863–897",
+        "doi": "10.1093/restud/rdr041",
+        "url": "https://doi.org/10.1093/restud/rdr041",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Consumption Inequality and Family Labor Supply",
+        "title": "Consumption Inequality and Family Labor Supply",
+        "authors": [
+          "Richard Blundell",
+          "Luigi Pistaferri",
+          "Itay Saporta-Eksten"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "2",
+        "pages": "387–435",
+        "doi": "10.1257/aer.20121549",
+        "url": "https://doi.org/10.1257/aer.20121549",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13291,6 +13980,77 @@
         "pages": "197–232",
         "doi": "10.1257/mac.20130306",
         "url": "https://doi.org/10.1257/mac.20130306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spillovers from High-Skill Consumption to Low-Skill Labor Markets",
+        "title": "Spillovers from High-Skill Consumption to Low-Skill Labor Markets",
+        "authors": [
+          "Francesca Mazzolari",
+          "Giuseppe Ragusa"
+        ],
+        "year": 2013,
+        "journal": "Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "1",
+        "pages": "74–86",
+        "doi": "10.1162/rest_a_00234",
+        "url": "https://doi.org/10.1162/rest_a_00234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leisure Luxuries and the Labor Supply of Young Men",
+        "title": "Leisure Luxuries and the Labor Supply of Young Men",
+        "authors": [
+          "Mark Aguiar",
+          "Mark Bils",
+          "Kerwin Kofi Charles",
+          "Erik Hurst"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "337–382",
+        "doi": "10.1086/711916",
+        "url": "https://doi.org/10.1086/711916",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "title": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "authors": [
+          "Alexander M. Gelber",
+          "Joshua W. Mitchell"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economic Studies",
+        "volume": "79",
+        "issue": "3",
+        "pages": "863–897",
+        "doi": "10.1093/restud/rdr041",
+        "url": "https://doi.org/10.1093/restud/rdr041",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Consumption Inequality and Family Labor Supply",
+        "title": "Consumption Inequality and Family Labor Supply",
+        "authors": [
+          "Richard Blundell",
+          "Luigi Pistaferri",
+          "Itay Saporta-Eksten"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "2",
+        "pages": "387–435",
+        "doi": "10.1257/aer.20121549",
+        "url": "https://doi.org/10.1257/aer.20121549",
         "verified": true,
         "note": ""
       }
@@ -14388,6 +15148,59 @@
         "url": "https://doi.org/10.1257/aer.97.5.1533",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring Trends in Leisure: The Allocation of Time Over Five Decades",
+        "title": "Measuring Trends in Leisure: The Allocation of Time Over Five Decades",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "969–1006",
+        "doi": "10.1162/qjec.122.3.969",
+        "url": "https://doi.org/10.1162/qjec.122.3.969",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leisure Luxuries and the Labor Supply of Young Men",
+        "title": "Leisure Luxuries and the Labor Supply of Young Men",
+        "authors": [
+          "Mark Aguiar",
+          "Mark Bils",
+          "Kerwin Kofi Charles",
+          "Erik Hurst"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "337–382",
+        "doi": "10.1086/711916",
+        "url": "https://doi.org/10.1086/711916",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "title": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "authors": [
+          "Alexander M. Gelber",
+          "Joshua W. Mitchell"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economic Studies",
+        "volume": "79",
+        "issue": "3",
+        "pages": "863–897",
+        "doi": "10.1093/restud/rdr041",
+        "url": "https://doi.org/10.1093/restud/rdr041",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15343,6 +16156,55 @@
         "url": "https://doi.org/10.1111/1467-937x.00185",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Real Wage Inequality",
+        "title": "Real Wage Inequality",
+        "authors": [
+          "Enrico Moretti"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1257/app.5.1.65",
+        "url": "https://doi.org/10.1257/app.5.1.65",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growing Importance of Social Skills in the Labor Market",
+        "title": "The Growing Importance of Social Skills in the Labor Market",
+        "authors": [
+          "David J. Deming"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1593–1640",
+        "doi": "10.1093/qje/qjx022",
+        "url": "https://doi.org/10.1093/qje/qjx022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "title": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "authors": [
+          "David J. Deming",
+          "Kadeem Noray"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1965–2005",
+        "doi": "10.1093/qje/qjaa021",
+        "url": "https://doi.org/10.1093/qje/qjaa021",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15504,6 +16366,25 @@
         "pages": "1799–1839",
         "doi": "10.1093/qje/qjr044",
         "url": "https://doi.org/10.1093/qje/qjr044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leisure Luxuries and the Labor Supply of Young Men",
+        "title": "Leisure Luxuries and the Labor Supply of Young Men",
+        "authors": [
+          "Mark Aguiar",
+          "Mark Bils",
+          "Kerwin Kofi Charles",
+          "Erik Hurst"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "337–382",
+        "doi": "10.1086/711916",
+        "url": "https://doi.org/10.1086/711916",
         "verified": true,
         "note": ""
       }
@@ -15801,6 +16682,23 @@
         "url": "https://doi.org/10.1093/rfs/hhad059",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15912,6 +16810,23 @@
         "pages": "S293–S340",
         "doi": "10.1086/718327",
         "url": "https://doi.org/10.1086/718327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
         "verified": true,
         "note": ""
       }
@@ -16102,6 +17017,93 @@
         "url": "https://doi.org/10.1086/718327",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "title": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "authors": [
+          "David H. Autor",
+          "David Dorn"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1553–1597",
+        "doi": "10.1257/aer.103.5.1553",
+        "url": "https://doi.org/10.1257/aer.103.5.1553",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growing Importance of Social Skills in the Labor Market",
+        "title": "The Growing Importance of Social Skills in the Labor Market",
+        "authors": [
+          "David J. Deming"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1593–1640",
+        "doi": "10.1093/qje/qjx022",
+        "url": "https://doi.org/10.1093/qje/qjx022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Work in the United States",
+        "title": "The Evolution of Work in the United States",
+        "authors": [
+          "Enghin Atalay",
+          "Phai Phongthiengtham",
+          "Sebastian Sotelo",
+          "Daniel Tannenbaum"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "1–34",
+        "doi": "10.1257/app.20190070",
+        "url": "https://doi.org/10.1257/app.20190070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16267,6 +17269,22 @@
         "pages": "104292",
         "doi": "10.1016/j.jfineco.2026.104292",
         "url": "https://doi.org/10.1016/j.jfineco.2026.104292",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Labor Supply Respond to Transitory Income? Evidence from the Economic Stimulus Payments of 2008",
+        "title": "Does Labor Supply Respond to Transitory Income? Evidence from the Economic Stimulus Payments of 2008",
+        "authors": [
+          "David Powell"
+        ],
+        "year": 2020,
+        "journal": "Journal of Labor Economics",
+        "volume": "38",
+        "issue": "1",
+        "pages": "1–38",
+        "doi": "10.1086/704494",
+        "url": "https://doi.org/10.1086/704494",
         "verified": true,
         "note": ""
       }
@@ -16572,6 +17590,93 @@
         "pages": "2121–2168",
         "doi": "10.1257/aer.103.6.2121",
         "url": "https://doi.org/10.1257/aer.103.6.2121",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Lousy and Lovely Jobs: The Rising Polarization of Work in Britain",
+        "title": "Lousy and Lovely Jobs: The Rising Polarization of Work in Britain",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "118–133",
+        "doi": "10.1162/rest.89.1.118",
+        "url": "https://doi.org/10.1162/rest.89.1.118",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "title": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "authors": [
+          "David H. Autor",
+          "David Dorn"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1553–1597",
+        "doi": "10.1257/aer.103.5.1553",
+        "url": "https://doi.org/10.1257/aer.103.5.1553",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "title": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning",
+          "Anna Salomons"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2509–2526",
+        "doi": "10.1257/aer.104.8.2509",
+        "url": "https://doi.org/10.1257/aer.104.8.2509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growing Importance of Social Skills in the Labor Market",
+        "title": "The Growing Importance of Social Skills in the Labor Market",
+        "authors": [
+          "David J. Deming"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1593–1640",
+        "doi": "10.1093/qje/qjx022",
+        "url": "https://doi.org/10.1093/qje/qjx022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Work in the United States",
+        "title": "The Evolution of Work in the United States",
+        "authors": [
+          "Enghin Atalay",
+          "Phai Phongthiengtham",
+          "Sebastian Sotelo",
+          "Daniel Tannenbaum"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "1–34",
+        "doi": "10.1257/app.20190070",
+        "url": "https://doi.org/10.1257/app.20190070",
         "verified": true,
         "note": ""
       }
@@ -17197,6 +18302,24 @@
         "pages": "867–909",
         "doi": "10.1086/726907",
         "url": "https://doi.org/10.1086/726907",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
         "verified": true,
         "note": ""
       }
@@ -19122,6 +20245,58 @@
         "url": "https://doi.org/10.1257/pol.20160465",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Supply and the Value of Non-work Time: Experimental Estimates from the Field",
+        "title": "Labor Supply and the Value of Non-work Time: Experimental Estimates from the Field",
+        "authors": [
+          "Alexandre Mas",
+          "Amanda Pallais"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review: Insights",
+        "volume": "1",
+        "issue": "1",
+        "pages": "111–126",
+        "doi": "10.1257/aeri.20180070",
+        "url": "https://doi.org/10.1257/aeri.20180070",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19884,6 +21059,23 @@
         "url": "https://doi.org/10.1086/724852",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Origins of Technology-Skill Complementarity",
+        "title": "The Origins of Technology-Skill Complementarity",
+        "authors": [
+          "Claudia Goldin",
+          "Lawrence F. Katz"
+        ],
+        "year": 1998,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "113",
+        "issue": "3",
+        "pages": "693–732",
+        "doi": "10.1162/003355398555720",
+        "url": "https://doi.org/10.1162/003355398555720",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20524,6 +21716,41 @@
         "pages": "S141–S198",
         "doi": "10.1086/682384",
         "url": "https://doi.org/10.1086/682384",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
         "verified": true,
         "note": ""
       }
@@ -21447,6 +22674,24 @@
         "pages": "2780–2824",
         "doi": "10.1086/724852",
         "url": "https://doi.org/10.1086/724852",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Lived Cyclicality of the Labor Force Participation Rate",
+        "title": "The Long-Lived Cyclicality of the Labor Force Participation Rate",
+        "authors": [
+          "Tomaz Cajner",
+          "John Coglianese",
+          "Joshua Montes"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–47",
+        "doi": "10.1162/rest.a.1631",
+        "url": "https://doi.org/10.1162/rest.a.1631",
         "verified": true,
         "note": ""
       }
@@ -23777,6 +25022,94 @@
         "url": "https://doi.org/10.1257/mac.20190365",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective",
+        "title": "Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective",
+        "authors": [
+          "Timo Boppart",
+          "Per Krusell"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "1",
+        "pages": "118–157",
+        "doi": "10.1086/704071",
+        "url": "https://doi.org/10.1086/704071",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Changes in Relative Wages, 1963-1987: Supply and Demand Factors",
+        "title": "Changes in Relative Wages, 1963-1987: Supply and Demand Factors",
+        "authors": [
+          "Lawrence F. Katz",
+          "Kevin M. Murphy"
+        ],
+        "year": 1992,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "107",
+        "issue": "1",
+        "pages": "35–78",
+        "doi": "10.2307/2118323",
+        "url": "https://doi.org/10.2307/2118323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wage Inequality and the Rise in Returns to Skill",
+        "title": "Wage Inequality and the Rise in Returns to Skill",
+        "authors": [
+          "Chinhui Juhn",
+          "Kevin M. Murphy",
+          "Brooks Pierce"
+        ],
+        "year": 1993,
+        "journal": "Journal of Political Economy",
+        "volume": "101",
+        "issue": "3",
+        "pages": "410–442",
+        "doi": "10.1086/261881",
+        "url": "https://doi.org/10.1086/261881",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Consumption Inequality and Family Labor Supply",
+        "title": "Consumption Inequality and Family Labor Supply",
+        "authors": [
+          "Richard Blundell",
+          "Luigi Pistaferri",
+          "Itay Saporta-Eksten"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "2",
+        "pages": "387–435",
+        "doi": "10.1257/aer.20121549",
+        "url": "https://doi.org/10.1257/aer.20121549",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25502,6 +26835,23 @@
         "url": "https://doi.org/10.1086/724852",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26588,6 +27938,41 @@
         "url": "https://doi.org/10.1086/682384",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "title": "The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market",
+        "authors": [
+          "David H. Autor",
+          "David Dorn"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1553–1597",
+        "doi": "10.1257/aer.103.5.1553",
+        "url": "https://doi.org/10.1257/aer.103.5.1553",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27273,6 +28658,57 @@
         "url": "https://doi.org/10.1086/724852",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Real Wage Inequality",
+        "title": "Real Wage Inequality",
+        "authors": [
+          "Enrico Moretti"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1257/app.5.1.65",
+        "url": "https://doi.org/10.1257/app.5.1.65",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leisure Luxuries and the Labor Supply of Young Men",
+        "title": "Leisure Luxuries and the Labor Supply of Young Men",
+        "authors": [
+          "Mark Aguiar",
+          "Mark Bils",
+          "Kerwin Kofi Charles",
+          "Erik Hurst"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "337–382",
+        "doi": "10.1086/711916",
+        "url": "https://doi.org/10.1086/711916",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Empirical Model of Labor Supply in a Life-Cycle Setting",
+        "title": "An Empirical Model of Labor Supply in a Life-Cycle Setting",
+        "authors": [
+          "Thomas E. MaCurdy"
+        ],
+        "year": 1981,
+        "journal": "Journal of Political Economy",
+        "volume": "89",
+        "issue": "6",
+        "pages": "1059–1085",
+        "doi": "10.1086/261023",
+        "url": "https://doi.org/10.1086/261023",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27476,6 +28912,22 @@
         "pages": "703–725",
         "doi": "",
         "url": "https://www.nber.org/papers/w4614",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Real Wage Inequality",
+        "title": "Real Wage Inequality",
+        "authors": [
+          "Enrico Moretti"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1257/app.5.1.65",
+        "url": "https://doi.org/10.1257/app.5.1.65",
         "verified": true,
         "note": ""
       }
@@ -28328,6 +29780,42 @@
         "pages": "279–311",
         "doi": "10.1093/restud/rdab019",
         "url": "https://doi.org/10.1093/restud/rdab019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leisure Luxuries and the Labor Supply of Young Men",
+        "title": "Leisure Luxuries and the Labor Supply of Young Men",
+        "authors": [
+          "Mark Aguiar",
+          "Mark Bils",
+          "Kerwin Kofi Charles",
+          "Erik Hurst"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "2",
+        "pages": "337–382",
+        "doi": "10.1086/711916",
+        "url": "https://doi.org/10.1086/711916",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "title": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "authors": [
+          "Alexander M. Gelber",
+          "Joshua W. Mitchell"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economic Studies",
+        "volume": "79",
+        "issue": "3",
+        "pages": "863–897",
+        "doi": "10.1093/restud/rdr041",
+        "url": "https://doi.org/10.1093/restud/rdr041",
         "verified": true,
         "note": ""
       }
@@ -31298,6 +32786,22 @@
         "pages": "1349–1402",
         "doi": "10.1093/qje/qjad012",
         "url": "https://doi.org/10.1093/qje/qjad012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is Tomorrow Another Day? The Labor Supply of New York City Cabdrivers",
+        "title": "Is Tomorrow Another Day? The Labor Supply of New York City Cabdrivers",
+        "authors": [
+          "Henry S. Farber"
+        ],
+        "year": 2005,
+        "journal": "Journal of Political Economy",
+        "volume": "113",
+        "issue": "1",
+        "pages": "46–82",
+        "doi": "10.1086/426040",
+        "url": "https://doi.org/10.1086/426040",
         "verified": true,
         "note": ""
       }
@@ -45018,6 +46522,22 @@
         "url": "https://doi.org/10.1257/aer.20131176",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Health, Wealth, and Wages on Labour Supply and Retirement Behaviour",
+        "title": "The Effects of Health, Wealth, and Wages on Labour Supply and Retirement Behaviour",
+        "authors": [
+          "Eric French"
+        ],
+        "year": 2005,
+        "journal": "The Review of Economic Studies",
+        "volume": "72",
+        "issue": "2",
+        "pages": "395–427",
+        "doi": "10.1111/j.1467-937x.2005.00337.x",
+        "url": "https://doi.org/10.1111/j.1467-937x.2005.00337.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -49032,6 +50552,22 @@
         "url": "https://doi.org/10.1093/restud/rdab050",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why you Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers",
+        "title": "Why you Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers",
+        "authors": [
+          "Henry S. Farber"
+        ],
+        "year": 2015,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "130",
+        "issue": "4",
+        "pages": "1975–2026",
+        "doi": "10.1093/qje/qjv026",
+        "url": "https://doi.org/10.1093/qje/qjv026",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -52931,6 +54467,24 @@
         "url": "https://doi.org/10.3982/ECTA14243",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Lived Cyclicality of the Labor Force Participation Rate",
+        "title": "The Long-Lived Cyclicality of the Labor Force Participation Rate",
+        "authors": [
+          "Tomaz Cajner",
+          "John Coglianese",
+          "Joshua Montes"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1–47",
+        "doi": "10.1162/rest.a.1631",
+        "url": "https://doi.org/10.1162/rest.a.1631",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53055,6 +54609,22 @@
         "pages": "3285–3345",
         "doi": "10.1086/708816",
         "url": "https://doi.org/10.1086/708816",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Real Wage Inequality",
+        "title": "Real Wage Inequality",
+        "authors": [
+          "Enrico Moretti"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1257/app.5.1.65",
+        "url": "https://doi.org/10.1257/app.5.1.65",
         "verified": true,
         "note": ""
       }
@@ -57218,6 +58788,23 @@
         "pages": "103745",
         "doi": "10.1016/j.jfineco.2023.103745",
         "url": "https://doi.org/10.1016/j.jfineco.2023.103745",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
         "verified": true,
         "note": ""
       }
@@ -61705,6 +63292,59 @@
         "url": "https://doi.org/10.1093/rfs/hhad059",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "title": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "authors": [
+          "David J. Deming",
+          "Kadeem Noray"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1965–2005",
+        "doi": "10.1093/qje/qjaa021",
+        "url": "https://doi.org/10.1093/qje/qjaa021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Work in the United States",
+        "title": "The Evolution of Work in the United States",
+        "authors": [
+          "Enghin Atalay",
+          "Phai Phongthiengtham",
+          "Sebastian Sotelo",
+          "Daniel Tannenbaum"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "1–34",
+        "doi": "10.1257/app.20190070",
+        "url": "https://doi.org/10.1257/app.20190070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62725,6 +64365,41 @@
         "url": "https://doi.org/10.1086/705716",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "IT and Urban Polarization",
+        "title": "IT and Urban Polarization",
+        "authors": [
+          "Jan Eeckhout",
+          "Christoph Hedtrich",
+          "Roberto Pinheiro"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "223–259",
+        "doi": "10.1257/mac.20220306",
+        "url": "https://doi.org/10.1257/mac.20220306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "title": "Do Recessions Accelerate Routine-Biased Technological Change? Evidence from Vacancy Postings",
+        "authors": [
+          "Brad Hershbein",
+          "Lisa B. Kahn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20161570",
+        "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62762,6 +64437,48 @@
         "pages": "1799–1839",
         "doi": "10.1093/qje/qjr044",
         "url": "https://doi.org/10.1093/qje/qjr044",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.18",
+    "title": "ProQuest 历史报纸全文数据库（ProQuest Historical Newspapers）",
+    "links": [
+      {
+        "label": "ProQuest Historical Newspapers",
+        "url": "https://about.proquest.com/en/products-services/pq-hist-news/"
+      }
+    ],
+    "summary": "ProQuest 提供的主要报纸历史全文和版面图像数据库，包括《纽约时报》（1851 年起）、《华尔街日报》、《华盛顿邮报》、《波士顿环球报》、《洛杉矶时报》等，覆盖新闻、社论、广告和招聘启事，付费机构订阅，研究者可经 TDM Studio 进行文本挖掘。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据",
+      "政治数据"
+    ],
+    "introduction": "ProQuest Historical Newspapers 将美国及部分国际主要报纸的完整历史版本数字化，提供逐页的版面图像和 OCR 全文，覆盖创刊至约 2000 年代的全部内容（新闻报道、社论、讣告、分类广告和招聘广告、股票表等），可按日期、栏目和关键词检索。数据通过大学图书馆的机构订阅访问，ProQuest TDM Studio 允许研究者在授权环境中对大规模文本进行文本挖掘和导出衍生数据。\n\n数据常用于构造基于新闻文本的指标，例如利用招聘广告中的任务描述测量职业任务内容的长期变化、经济政策不确定性和情绪指数、历史事件的媒体报道。OCR 质量随报纸年代和版面状况变化，批量下载受许可条款限制。",
+    "source": "付费商业（ProQuest 机构订阅；TDM Studio 文本挖掘）。",
+    "references": [
+      {
+        "raw": "The Evolution of Work in the United States",
+        "title": "The Evolution of Work in the United States",
+        "authors": [
+          "Enghin Atalay",
+          "Phai Phongthiengtham",
+          "Sebastian Sotelo",
+          "Daniel Tannenbaum"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "2",
+        "pages": "1–34",
+        "doi": "10.1257/app.20190070",
+        "url": "https://doi.org/10.1257/app.20190070",
         "verified": true,
         "note": ""
       }
@@ -66674,6 +68391,45 @@
     ]
   },
   {
+    "id": "2.16.39",
+    "title": "全国大学毕业生调查（National Survey of College Graduates，NSCG）",
+    "links": [
+      {
+        "label": "NCSES: National Survey of College Graduates",
+        "url": "https://ncses.nsf.gov/surveys/national-survey-college-graduates"
+      }
+    ],
+    "summary": "NSF 国家科学与工程统计中心（NCSES）以美国社区调查（早期为十年普查）为抽样框、每两到三年开展的大学学历人口调查，1993 年起，记录学位领域、职业、工作活动、薪资和就业，公共使用文件免费下载，受限文件经许可。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "NSCG 由 NCSES 委托人口普查局实施，对居住在美国的学士及以上学历者进行抽样（1993、2003 年以十年普查长表为抽样框，2010 年起以 ACS 为抽样框并采用滚动面板），问卷记录各级学位的专业领域和授予年份、当前职业和就业部门、主要工作活动（研发、管理、教学、计算机应用等）、薪资、工作与所学专业的相关性、职业变动、博士后和继续教育，以及人口和移民特征。它与博士学位获得者调查（SDR）共同构成美国科学与工程劳动力数据系统（SESTAT）。公共使用文件在 NCSES 网站免费下载，含更细地理和代码的受限文件需申请许可。\n\n数据常用于研究大学专业选择的回报、STEM 人才的职业路径和流失、技能与工作任务的匹配，以及外国出生大学毕业生在科学工程领域的就业。调查间隔两到三年，早期年份样本仅包括特定学科。",
+    "source": "公共使用文件免费下载；受限文件经许可（NCSES）。",
+    "references": [
+      {
+        "raw": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "title": "Earnings Dynamics, Changing Job Skills, and STEM Careers",
+        "authors": [
+          "David J. Deming",
+          "Kadeem Noray"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1965–2005",
+        "doi": "10.1093/qje/qjaa021",
+        "url": "https://doi.org/10.1093/qje/qjaa021",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -67468,6 +69224,23 @@
         "url": "https://doi.org/10.1086/653137",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Lousy and Lovely Jobs: The Rising Polarization of Work in Britain",
+        "title": "Lousy and Lovely Jobs: The Rising Polarization of Work in Britain",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "118–133",
+        "doi": "10.1162/rest.89.1.118",
+        "url": "https://doi.org/10.1162/rest.89.1.118",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67547,6 +69320,24 @@
         "pages": "105258",
         "doi": "10.1016/j.jpubeco.2024.105258",
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105258",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Intertemporal Labor Supply Substitution? Evidence from the Swiss Income Tax Holidays",
+        "title": "Intertemporal Labor Supply Substitution? Evidence from the Swiss Income Tax Holidays",
+        "authors": [
+          "Isabel Z. Martínez",
+          "Emmanuel Saez",
+          "Michael Siegenthaler"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "2",
+        "pages": "506–546",
+        "doi": "10.1257/aer.20180746",
+        "url": "https://doi.org/10.1257/aer.20180746",
         "verified": true,
         "note": ""
       }
@@ -67967,6 +69758,23 @@
         "url": "https://doi.org/10.1162/rest.90.1.134",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Lousy and Lovely Jobs: The Rising Polarization of Work in Britain",
+        "title": "Lousy and Lovely Jobs: The Rising Polarization of Work in Britain",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "1",
+        "pages": "118–133",
+        "doi": "10.1162/rest.89.1.118",
+        "url": "https://doi.org/10.1162/rest.89.1.118",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68371,6 +70179,41 @@
         "url": "https://doi.org/10.1093/jeea/jvab012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Rise of Domestic Outsourcing and the Evolution of the German Wage Structure",
+        "title": "The Rise of Domestic Outsourcing and the Evolution of the German Wage Structure",
+        "authors": [
+          "Deborah Goldschmidt",
+          "Johannes F. Schmieder"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "3",
+        "pages": "1165–1217",
+        "doi": "10.1093/qje/qjx008",
+        "url": "https://doi.org/10.1093/qje/qjx008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "title": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning",
+          "Anna Salomons"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2509–2526",
+        "doi": "10.1257/aer.104.8.2509",
+        "url": "https://doi.org/10.1257/aer.104.8.2509",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68585,6 +70428,59 @@
         "url": "https://doi.org/10.1086/730223",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "title": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning",
+          "Anna Salomons"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2509–2526",
+        "doi": "10.1257/aer.104.8.2509",
+        "url": "https://doi.org/10.1257/aer.104.8.2509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "title": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "authors": [
+          "Alexander Bick",
+          "Nicola Fuchs-Schündeln",
+          "David Lagakos"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "1",
+        "pages": "170–199",
+        "doi": "10.1257/aer.20151720",
+        "url": "https://doi.org/10.1257/aer.20151720",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Working Hours",
+        "title": "Global Working Hours",
+        "authors": [
+          "Amory Gethin",
+          "Emmanuel Saez"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3505–3565",
+        "doi": "10.1093/qje/qjag030",
+        "url": "https://doi.org/10.1093/qje/qjag030",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68641,6 +70537,45 @@
         "pages": "183–227",
         "doi": "10.1086/730223",
         "url": "https://doi.org/10.1086/730223",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.24",
+    "title": "欧盟收入与生活条件统计（EU-SILC）及前身欧洲共同体住户面板（ECHP）",
+    "links": [
+      {
+        "label": "Eurostat: EU-SILC microdata",
+        "url": "https://ec.europa.eu/eurostat/web/microdata/european-union-statistics-on-income-and-living-conditions"
+      }
+    ],
+    "summary": "欧盟统计局协调的住户收入、贫困和生活条件调查，EU-SILC 自 2003/2004 年起年度开展（含横截面和四年轮换面板），前身 ECHP 为 1994–2001 年的住户面板，覆盖欧盟、EFTA 和候选国，微观数据经 Eurostat 研究申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "EU-SILC（European Union Statistics on Income and Living Conditions）依据欧盟法规由各成员国统计局实施，每年访谈约 20 多万户、50 万人，收集住户和个人的税前税后收入（按工资、自雇、社会转移、财产收入分项）、就业和工时、职业、教育、健康状况、住房条件、物质匮乏和社会排斥指标，并设专题模块（如代际传递、福祉、儿童）；横截面数据之外还有每户追踪四年的纵向组件。它取代了 1994–2001 年的欧洲共同体住户面板（ECHP，覆盖 15 个欧盟国家的约 6 万户）。匿名化微观数据由研究机构向 Eurostat 申请，汇总指标在 Eurostat 数据库免费下载。\n\n数据常用于研究欧洲的收入不平等和贫困、社会转移的再分配效应、劳动力市场极化和职业结构变化，以及跨国福利制度比较。各国执行方式（登记数据或访谈）不同，纵向组件的追踪期较短。",
+    "source": "汇总指标公开；微观数据经 Eurostat 研究申请。",
+    "references": [
+      {
+        "raw": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "title": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning",
+          "Anna Salomons"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2509–2526",
+        "doi": "10.1257/aer.104.8.2509",
+        "url": "https://doi.org/10.1257/aer.104.8.2509",
         "verified": true,
         "note": ""
       }
@@ -84019,6 +85954,41 @@
         "url": "https://doi.org/10.1093/qje/qjab012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "title": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "authors": [
+          "Alexander Bick",
+          "Nicola Fuchs-Schündeln",
+          "David Lagakos"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "1",
+        "pages": "170–199",
+        "doi": "10.1257/aer.20151720",
+        "url": "https://doi.org/10.1257/aer.20151720",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Working Hours",
+        "title": "Global Working Hours",
+        "authors": [
+          "Amory Gethin",
+          "Emmanuel Saez"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3505–3565",
+        "doi": "10.1093/qje/qjag030",
+        "url": "https://doi.org/10.1093/qje/qjag030",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -84675,6 +86645,24 @@
         "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "title": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "authors": [
+          "Alexander Bick",
+          "Nicola Fuchs-Schündeln",
+          "David Lagakos"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "1",
+        "pages": "170–199",
+        "doi": "10.1257/aer.20151720",
+        "url": "https://doi.org/10.1257/aer.20151720",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -85040,6 +87028,162 @@
         "pages": "1663–1705",
         "doi": "10.1093/qje/qje029",
         "url": "https://doi.org/10.1093/qje/qje029",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.2.11",
+    "title": "多国时间使用研究（Multinational Time Use Study，MTUS）与美国历史时间使用调查（AHTUS）",
+    "links": [
+      {
+        "label": "CTUR: Multinational Time Use Study",
+        "url": "https://www.timeuse.org/mtus"
+      },
+      {
+        "label": "CTUR: American Heritage Time Use Study",
+        "url": "https://www.timeuse.org/ahtus"
+      }
+    ],
+    "summary": "牛津大学和马里兰大学等时间使用研究中心统一编码的多国时间日记数据，MTUS 覆盖 1960 年代以来 20 多个国家的 100 多项调查，AHTUS 整合 1965、1975、1985、1992–94、2003 年起的美国时间使用调查，注册后免费下载（经 IPUMS Time Use）。",
+    "regions": [
+      "全球数据",
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "多国时间使用研究由 Jonathan Gershuny 于 1980 年代发起，现由牛津大学和 UCL 的时间使用研究中心（CTUR）维护，将各国（英国、美国、加拿大、法国、荷兰、意大利、西班牙、以色列、韩国等）独立开展的时间日记调查重新编码为约 69 类统一活动和一致的人口变量，形成可跨国、跨期比较的数据；美国历史时间使用调查（AHTUS）专门整合 1965–66 年密歇根调查研究中心调查、1975–76 年经济与社会账户时间使用调查、1985 年马里兰调查、1992–94 年 NHAPS 和 ATUS。数据在 CTUR 网站和 IPUMS Time Use（MTUS、AHTUS 扩展）注册后免费下载。\n\n数据常用于研究工作时间与闲暇的长期变化、家务劳动和育儿时间的性别差异、闲暇不平等，以及跨国比较工作时间与收入水平的关系。各国原始调查设计（日记天数、活动编码）不同，统一编码会损失部分细节。",
+    "source": "注册后免费下载（CTUR、IPUMS Time Use）。",
+    "references": [
+      {
+        "raw": "Measuring Trends in Leisure: The Allocation of Time Over Five Decades",
+        "title": "Measuring Trends in Leisure: The Allocation of Time Over Five Decades",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "969–1006",
+        "doi": "10.1162/qjec.122.3.969",
+        "url": "https://doi.org/10.1162/qjec.122.3.969",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "title": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "authors": [
+          "Alexander Bick",
+          "Nicola Fuchs-Schündeln",
+          "David Lagakos"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "1",
+        "pages": "170–199",
+        "doi": "10.1257/aer.20151720",
+        "url": "https://doi.org/10.1257/aer.20151720",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "title": "Taxes and Time Allocation: Evidence from Single Women and Men",
+        "authors": [
+          "Alexander M. Gelber",
+          "Joshua W. Mitchell"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economic Studies",
+        "volume": "79",
+        "issue": "3",
+        "pages": "863–897",
+        "doi": "10.1093/restud/rdr041",
+        "url": "https://doi.org/10.1093/restud/rdr041",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.2.12",
+    "title": "卢森堡收入研究数据库（Luxembourg Income Study，LIS / LWS）",
+    "links": [
+      {
+        "label": "LIS Cross-National Data Center",
+        "url": "https://www.lisdatacenter.org/"
+      }
+    ],
+    "summary": "卢森堡跨国数据中心（LIS Cross-National Data Center）将 50 多个国家 1960 年代以来的住户收入调查协调为统一变量的微观数据库（LIS），并有财富数据库（LWS），研究者注册后通过远程执行系统（LISSY）使用。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "LIS 数据库于 1983 年创建，收集各国统计局和研究机构的住户收入与就业调查，按统一的定义协调住户和个人层面的收入（劳动、资本、转移、税收和社会保险缴款）、消费、就业、工时、职业和人口特征，按“波次”（约每 3–5 年）组织，覆盖欧洲、北美、拉美、亚洲和非洲的 50 多个国家，部分国家回溯到 1960 年代末；卢森堡财富研究（LWS）协调各国住户财富调查。研究者注册后不能直接下载微观数据，而是通过 LISSY 远程执行系统提交 Stata、SAS、R 或 SPSS 程序获得结果，另有关键指标数据库免费下载。\n\n数据常用于跨国比较收入不平等和贫困、再分配政策的效果、劳动收入份额和职业结构，以及家庭内部劳动分工。各国原始调查质量和收入定义的可比性仍有差异，远程执行限制了部分分析。",
+    "source": "注册后经远程执行系统使用（LIS 网站）。",
+    "references": [
+      {
+        "raw": "Global Working Hours",
+        "title": "Global Working Hours",
+        "authors": [
+          "Amory Gethin",
+          "Emmanuel Saez"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3505–3565",
+        "doi": "10.1093/qje/qjag030",
+        "url": "https://doi.org/10.1093/qje/qjag030",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.2.13",
+    "title": "转型生活调查（Life in Transition Survey，LiTS）",
+    "links": [
+      {
+        "label": "EBRD: Life in Transition Survey",
+        "url": "https://www.ebrd.com/what-we-do/economic-research-and-data/data/lits.html"
+      }
+    ],
+    "summary": "欧洲复兴开发银行（EBRD）与世界银行合作开展的住户调查，2006、2010、2016、2022–23 年四轮，覆盖中东欧、中亚、土耳其、蒙古以及部分西欧国家约 30–40 个国家，记录家庭经济状况、就业、生活满意度、对市场和民主的态度及公共服务，免费下载。",
+    "regions": [
+      "全球数据",
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "政治数据"
+    ],
+    "introduction": "LiTS 由 EBRD 发起，每轮在每个国家抽取约 1,000–1,500 户进行面访，问卷包括住户构成、收入和支出、资产、就业和劳动力市场经历、对过去和现在生活的满意度、对市场经济和民主的支持度、对机构的信任、腐败经历、公共服务（医疗、教育、司法）的质量，以及专题模块（如性别、气候变化、数字化），并逐步纳入德国、意大利、英国等西欧对照国。数据和问卷在 EBRD 网站免费下载。\n\n数据常用于研究转型国家的福利、不平等和政治态度、腐败与制度信任、劳动力市场结构以及家庭内部分工，也用于构造跨国职业和工时的补充样本。每国样本量较小，不同轮次覆盖国家有所变化。",
+    "source": "公开下载（EBRD 网站）。",
+    "references": [
+      {
+        "raw": "Global Working Hours",
+        "title": "Global Working Hours",
+        "authors": [
+          "Amory Gethin",
+          "Emmanuel Saez"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3505–3565",
+        "doi": "10.1093/qje/qjag030",
+        "url": "https://doi.org/10.1093/qje/qjag030",
         "verified": true,
         "note": ""
       }
@@ -87725,6 +89869,41 @@
         "url": "https://doi.org/10.1093/qje/qjt032",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "title": "How Do Hours Worked Vary with Income? Cross-Country Evidence and Implications",
+        "authors": [
+          "Alexander Bick",
+          "Nicola Fuchs-Schündeln",
+          "David Lagakos"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "1",
+        "pages": "170–199",
+        "doi": "10.1257/aer.20151720",
+        "url": "https://doi.org/10.1257/aer.20151720",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Working Hours",
+        "title": "Global Working Hours",
+        "authors": [
+          "Amory Gethin",
+          "Emmanuel Saez"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3505–3565",
+        "doi": "10.1093/qje/qjag030",
+        "url": "https://doi.org/10.1093/qje/qjag030",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -87868,6 +90047,23 @@
         "pages": "1–44",
         "doi": "10.1093/restud/rdab031",
         "url": "https://doi.org/10.1093/restud/rdab031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Working Hours",
+        "title": "Global Working Hours",
+        "authors": [
+          "Amory Gethin",
+          "Emmanuel Saez"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3505–3565",
+        "doi": "10.1093/qje/qjag030",
+        "url": "https://doi.org/10.1093/qje/qjag030",
         "verified": true,
         "note": ""
       }
@@ -88597,6 +90793,23 @@
         "pages": "1325–1385",
         "doi": "10.1093/qje/qjab012",
         "url": "https://doi.org/10.1093/qje/qjab012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Working Hours",
+        "title": "Global Working Hours",
+        "authors": [
+          "Amory Gethin",
+          "Emmanuel Saez"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3505–3565",
+        "doi": "10.1093/qje/qjag030",
+        "url": "https://doi.org/10.1093/qje/qjag030",
         "verified": true,
         "note": ""
       }
@@ -89388,6 +91601,24 @@
         "pages": "315–380",
         "doi": "10.1093/qje/qjv032",
         "url": "https://doi.org/10.1093/qje/qjv032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "title": "Explaining Job Polarization: Routine-Biased Technological Change and Offshoring",
+        "authors": [
+          "Maarten Goos",
+          "Alan Manning",
+          "Anna Salomons"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "8",
+        "pages": "2509–2526",
+        "doi": "10.1257/aer.104.8.2509",
+        "url": "https://doi.org/10.1257/aer.104.8.2509",
         "verified": true,
         "note": ""
       }
@@ -91345,6 +93576,62 @@
         "pages": "61–103",
         "doi": "10.1093/qje/qjt032",
         "url": "https://doi.org/10.1093/qje/qjt032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective",
+        "title": "Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective",
+        "authors": [
+          "Timo Boppart",
+          "Per Krusell"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "1",
+        "pages": "118–157",
+        "doi": "10.1086/704071",
+        "url": "https://doi.org/10.1086/704071",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.46",
+    "title": "世界银行社会保护与劳动指标数据库（ASPIRE）",
+    "links": [
+      {
+        "label": "World Bank: ASPIRE",
+        "url": "https://www.worldbank.org/en/data/datatopics/aspire"
+      }
+    ],
+    "summary": "世界银行基于约 140 个国家住户调查和行政数据计算的社会保护与劳动项目指标，包括社会救助、社会保险（养老金）和劳动市场项目的覆盖率、受益归宿、充足性和支出，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "微观调查数据"
+    ],
+    "introduction": "ASPIRE（Atlas of Social Protection: Indicators of Resilience and Equity）由世界银行社会保护与就业全球实践维护，利用协调后的全国代表性住户调查计算各类社会保护项目（现金转移、社会养老金、学校供餐、缴费型养老金、失业保险、积极劳动力市场项目）的覆盖率、按收入五分位的受益分布、转移支付占受益人福利的比例和减贫效果，并结合行政数据给出项目支出和受益人数，覆盖约 140 个中低收入和高收入国家，2000 年代以来。数据在世界银行网站免费下载。\n\n数据常用于跨国比较社会保护体系的覆盖和瞄准、研究养老金覆盖与劳动力市场正规化、社会转移的减贫效果。指标依赖住户调查中项目是否被识别，各国问卷对项目的覆盖不同。",
+    "source": "公开下载（世界银行网站）。",
+    "references": [
+      {
+        "raw": "Global Working Hours",
+        "title": "Global Working Hours",
+        "authors": [
+          "Amory Gethin",
+          "Emmanuel Saez"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3505–3565",
+        "doi": "10.1093/qje/qjag030",
+        "url": "https://doi.org/10.1093/qje/qjag030",
         "verified": true,
         "note": ""
       }
