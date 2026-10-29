@@ -648,26 +648,6 @@
   },
   {
     "id": "1.2.4",
-    "title": "中国教育追踪调查（CEPS）",
-    "links": [
-      {
-        "label": "CEPS 官网",
-        "url": "http://ceps.ruc.edu.cn/"
-      }
-    ],
-    "summary": "中国教育追踪调查（CEPS）由中国人民大学组织，以初中学生为起点，收集学生、家长、教师和学校信息，用于研究教育过程与学生发展。",
-    "regions": [
-      "中国数据"
-    ],
-    "topics": [
-      "微观调查数据"
-    ],
-    "introduction": "中国教育追踪调查（China Education Panel Survey，CEPS）由中国人民大学中国调查与数据中心组织，是以初中阶段学生为对象的全国性追踪调查。基线调查于 2013—2014 学年开展，以七年级和九年级两个年级为起点，并在其后学年追踪访问。\n\n调查以学校和班级为抽样单位，同时收集学生、家长、班主任、任课教师和学校负责人的问卷，内容包括学业成绩与认知能力测试、学习态度与行为、家庭背景、师生关系、学校资源与管理等。数据可用于教育不平等、学校与班级效应、同伴影响和学生发展等研究。\n\n样本以初中生为主，学生转学和流失会影响追踪，使用时应参照项目发布的抽样与权重说明。",
-    "source": "应从 CEPS 项目或其授权的数据服务平台查阅已发布版本与申请要求。账户权限、可用变量和研究用途以相应数据协议为准；详细识别信息不能从公开版权限中推定。",
-    "references": []
-  },
-  {
-    "id": "1.2.5",
     "title": "中国综合社会调查（CGSS）",
     "links": [
       {
@@ -706,7 +686,7 @@
     ]
   },
   {
-    "id": "1.2.6",
+    "id": "1.2.5",
     "title": "中国城镇住户调查（UHS）",
     "links": [],
     "summary": "城镇住户调查（UHS）观察城镇家庭收入、消费与生活状况，后期与农村住户调查整合。各研究所用历史样本的地区、年份和口径可能不同，不宜视为同一版本。",
@@ -721,7 +701,7 @@
     "references": []
   },
   {
-    "id": "1.2.7",
+    "id": "1.2.6",
     "title": "中国农村固定观察点追踪调查（NFP）",
     "links": [],
     "summary": "全国农村固定观察点调查长期跟踪农村住户和村级经济，记录农业生产、农户收入、就业与土地利用。样本覆盖与追踪规则应依据所获版本的文档确定。",
@@ -757,7 +737,7 @@
     ]
   },
   {
-    "id": "1.2.8",
+    "id": "1.2.7",
     "title": "中国健康与营养调查（CHNS）",
     "links": [
       {
@@ -795,7 +775,7 @@
     ]
   },
   {
-    "id": "1.2.9",
+    "id": "1.2.8",
     "title": "中国居民收入分配调查（CHIP）",
     "links": [],
     "summary": "中国家庭收入调查（CHIP）多轮调查居民收入、消费、就业和家庭特征，适用于收入分配研究。各轮地区和人群覆盖不同，不宜视为连续追踪。",
@@ -898,7 +878,7 @@
     ]
   },
   {
-    "id": "1.2.10",
+    "id": "1.2.9",
     "title": "中国劳动力动态调查（CLDS）",
     "links": [],
     "summary": "中国劳动力动态调查（CLDS）由中山大学组织，2012 年起围绕劳动力、家庭及社区追踪调查，用于研究就业与劳动流动。各轮样本与变量需结合文档核实。",
@@ -933,7 +913,7 @@
     ]
   },
   {
-    "id": "1.2.11",
+    "id": "1.2.10",
     "title": "中国时间利用调查 (China Time Use Survey，CTUS)",
     "links": [],
     "summary": "中国时间利用调查记录居民在工作、学习、家务、照护和休闲等活动上的时间分配。不同年份或单位的口径可能不同，应先明确具体项目。",
@@ -948,62 +928,7 @@
     "references": []
   },
   {
-    "id": "1.2.12",
-    "title": "中国高考数据",
-    "links": [
-      {
-        "label": "阳光高考（学信网）",
-        "url": "https://gaokao.chsi.com.cn/"
-      }
-    ],
-    "summary": "高考数据可指公开招生统计与分数线，或考生层面的考试与志愿记录。两者变量差异明显，应先明确具体数据产品。",
-    "regions": [
-      "中国数据"
-    ],
-    "topics": [
-      "微观调查数据"
-    ],
-    "introduction": "高考数据有两类：一类是公开的招生统计，包括各省报名人数、本科和专科录取控制分数线、各高校分省分专业招生计划与录取分数线，来源于教育部、各省教育考试院和高校招生网站，以及学信网的阳光高考平台；另一类是考生层面的考试成绩、志愿填报和录取记录，由省级教育考试机构和高校持有，涉及个人隐私，一般不对外公开。\n\n公开分数线数据的年份和覆盖范围随各省而异，2014 年起高考综合改革在多省分批推进，文理分科、选科组合和录取批次发生变化，影响跨年可比性。\n\n研究中可用于分析招生政策、教育机会、地区差异和高校选择。使用时应先明确所用的具体数据产品，注意各省分数线所依据的科类和批次口径不同；考生级数据须向主管机构确认授权。",
-    "source": "公开统计可从教育考试机构或高校正式资料查阅。考生级考试、志愿和录取记录的使用须向主管机构确认授权和隐私保护要求，本目录不提供非官方流传版本。",
-    "references": [
-      {
-        "raw": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
-        "title": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
-        "authors": [
-          "Joshua Graff Zivin",
-          "Yingquan Song",
-          "Qu Tang",
-          "Peng Zhang"
-        ],
-        "year": 2020,
-        "journal": "Journal of Environmental Economics and Management",
-        "volume": "104",
-        "issue": "",
-        "pages": "102365",
-        "doi": "10.1016/j.jeem.2020.102365",
-        "url": "https://doi.org/10.1016/j.jeem.2020.102365",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "1.2.13",
-    "title": "中国大学生调查数据",
-    "links": [],
-    "summary": "大学生调查数据可能含学生背景、学习、就业和身心状况等信息。该名称不对应单一项目，需明确组织者、样本与问卷设计。",
-    "regions": [
-      "中国数据"
-    ],
-    "topics": [
-      "微观调查数据"
-    ],
-    "introduction": "“中国大学生调查数据”并不对应单一项目，而是泛指以在校大学生为对象的调查数据。已有的相关调查由不同机构组织，例如高校自行开展的学生学习与发展调查、全国性的大学生追踪调查，以及就业、心理健康和消费行为等专题调查，覆盖的学校、年级和样本规模各不相同。\n\n这些调查一般包含学生背景、家庭情况、学习经历、能力与态度、就业去向和身心状况等模块，部分项目采用追踪设计，可观察学生毕业前后的变化。是否公开、如何申请，由各项目的组织者决定，多数需通过申请和签订使用协议获得。\n\n使用时需先明确具体调查项目，核对抽样方法和学校代表性，并注意自愿填答可能带来的样本选择和自我报告偏误。",
-    "source": "以具体调查项目的官方或授权发布记录为依据，核实申请资格、可用变量和数据使用协议。在项目未确定前，获取渠道与授权条件保留待确认。",
-    "references": []
-  },
-  {
-    "id": "1.2.14",
+    "id": "1.2.11",
     "title": "北京市居民出行调查",
     "links": [],
     "summary": "北京交通发展研究院组织的居民出行大样本调查，记录家庭特征、车辆拥有和 24 小时出行日志。",
@@ -4777,6 +4702,84 @@
     ]
   },
   {
+    "id": "1.16.1",
+    "title": "中国教育追踪调查（CEPS）",
+    "links": [
+      {
+        "label": "CEPS 官网",
+        "url": "http://ceps.ruc.edu.cn/"
+      }
+    ],
+    "summary": "中国教育追踪调查（CEPS）由中国人民大学组织，以初中学生为起点，收集学生、家长、教师和学校信息，用于研究教育过程与学生发展。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "中国教育追踪调查（China Education Panel Survey，CEPS）由中国人民大学中国调查与数据中心组织，是以初中阶段学生为对象的全国性追踪调查。基线调查于 2013—2014 学年开展，以七年级和九年级两个年级为起点，并在其后学年追踪访问。\n\n调查以学校和班级为抽样单位，同时收集学生、家长、班主任、任课教师和学校负责人的问卷，内容包括学业成绩与认知能力测试、学习态度与行为、家庭背景、师生关系、学校资源与管理等。数据可用于教育不平等、学校与班级效应、同伴影响和学生发展等研究。\n\n样本以初中生为主，学生转学和流失会影响追踪，使用时应参照项目发布的抽样与权重说明。",
+    "source": "应从 CEPS 项目或其授权的数据服务平台查阅已发布版本与申请要求。账户权限、可用变量和研究用途以相应数据协议为准；详细识别信息不能从公开版权限中推定。",
+    "references": []
+  },
+  {
+    "id": "1.16.2",
+    "title": "中国高考数据",
+    "links": [
+      {
+        "label": "阳光高考（学信网）",
+        "url": "https://gaokao.chsi.com.cn/"
+      }
+    ],
+    "summary": "高考数据可指公开招生统计与分数线，或考生层面的考试与志愿记录。两者变量差异明显，应先明确具体数据产品。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "高考数据有两类：一类是公开的招生统计，包括各省报名人数、本科和专科录取控制分数线、各高校分省分专业招生计划与录取分数线，来源于教育部、各省教育考试院和高校招生网站，以及学信网的阳光高考平台；另一类是考生层面的考试成绩、志愿填报和录取记录，由省级教育考试机构和高校持有，涉及个人隐私，一般不对外公开。\n\n公开分数线数据的年份和覆盖范围随各省而异，2014 年起高考综合改革在多省分批推进，文理分科、选科组合和录取批次发生变化，影响跨年可比性。\n\n研究中可用于分析招生政策、教育机会、地区差异和高校选择。使用时应先明确所用的具体数据产品，注意各省分数线所依据的科类和批次口径不同；考生级数据须向主管机构确认授权。",
+    "source": "公开统计可从教育考试机构或高校正式资料查阅。考生级考试、志愿和录取记录的使用须向主管机构确认授权和隐私保护要求，本目录不提供非官方流传版本。",
+    "references": [
+      {
+        "raw": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "title": "Temperature and high-stakes cognitive performance: Evidence from the national college entrance examination in China",
+        "authors": [
+          "Joshua Graff Zivin",
+          "Yingquan Song",
+          "Qu Tang",
+          "Peng Zhang"
+        ],
+        "year": 2020,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "104",
+        "issue": "",
+        "pages": "102365",
+        "doi": "10.1016/j.jeem.2020.102365",
+        "url": "https://doi.org/10.1016/j.jeem.2020.102365",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.16.3",
+    "title": "中国大学生调查数据",
+    "links": [],
+    "summary": "大学生调查数据可能含学生背景、学习、就业和身心状况等信息。该名称不对应单一项目，需明确组织者、样本与问卷设计。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "“中国大学生调查数据”并不对应单一项目，而是泛指以在校大学生为对象的调查数据。已有的相关调查由不同机构组织，例如高校自行开展的学生学习与发展调查、全国性的大学生追踪调查，以及就业、心理健康和消费行为等专题调查，覆盖的学校、年级和样本规模各不相同。\n\n这些调查一般包含学生背景、家庭情况、学习经历、能力与态度、就业去向和身心状况等模块，部分项目采用追踪设计，可观察学生毕业前后的变化。是否公开、如何申请，由各项目的组织者决定，多数需通过申请和签订使用协议获得。\n\n使用时需先明确具体调查项目，核对抽样方法和学校代表性，并注意自愿填答可能带来的样本选择和自我报告偏误。",
+    "source": "以具体调查项目的官方或授权发布记录为依据，核实申请资格、可用变量和数据使用协议。在项目未确定前，获取渠道与授权条件保留待确认。",
+    "references": []
+  },
+  {
     "id": "2.1.1",
     "title": "美国十年一次人口普查（Decennial Census）",
     "links": [
@@ -7467,63 +7470,6 @@
   },
   {
     "id": "2.2.14",
-    "title": "综合高等教育数据系统（IPEDS）",
-    "links": [
-      {
-        "label": "IPEDS 官网",
-        "url": "https://nces.ed.gov/ipeds/"
-      }
-    ],
-    "summary": "美国国家教育统计中心（NCES）对所有参与联邦学生资助项目的高等院校开展的年度调查，提供招生、学位授予、学费、财务和教职员信息。",
-    "regions": [
-      "美国数据"
-    ],
-    "topics": [
-      "微观调查数据"
-    ],
-    "introduction": "综合高等教育数据系统（Integrated Postsecondary Education Data System，IPEDS）由美国教育部国家教育统计中心（NCES）运行，所有参与联邦学生资助（Title IV）项目的高等院校须每年填报。调查内容包括机构特征、招生录取（申请人数、录取率、SAT/ACT 分数分位数）、在校生规模与构成、学位与证书授予、毕业率和保留率、学费与学生资助、机构财务收支，以及教职员人数和薪酬。\n\n数据以院校-年份为观测单位，覆盖时间较长，常用于研究高等教育成本、在线教育、录取政策（如考试可选政策）对生源质量和多样性的影响。\n\n各调查模块的起始年份和定义多次调整，财务数据因会计准则不同（公立院校与私立院校）不可直接比较；院校合并、分校区汇报方式变化也会影响面板构建。",
-    "source": "NCES 网站免费公开提供在线查询工具和完整数据文件下载。",
-    "references": [
-      {
-        "raw": "Can Online Learning Bend the Higher Education Cost Curve",
-        "title": "Can Online Learning Bend the Higher Education Cost Curve?",
-        "authors": [
-          "David J. Deming",
-          "Claudia Goldin",
-          "Lawrence F. Katz",
-          "Noam Yuchtman"
-        ],
-        "year": 2015,
-        "journal": "American Economic Review",
-        "volume": "105",
-        "issue": "5",
-        "pages": "496-501",
-        "doi": "10.1257/aer.p20151024",
-        "url": "https://doi.org/10.1257/aer.p20151024",
-        "verified": true,
-        "note": ""
-      },
-      {
-        "raw": "SAT optional policies Do they influence graduate quality selectivity or diversity",
-        "title": "SAT optional policies: Do they influence graduate quality, selectivity or diversity?",
-        "authors": [
-          "Matt Saboe",
-          "Sabrina Terrizzi"
-        ],
-        "year": 2019,
-        "journal": "Economics Letters",
-        "volume": "174",
-        "issue": "",
-        "pages": "13-17",
-        "doi": "10.1016/j.econlet.2018.10.017",
-        "url": "https://doi.org/10.1016/j.econlet.2018.10.017",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "2.2.15",
     "title": "全国青少年至成人健康纵向研究（Add Health）",
     "links": [
       {
@@ -7580,7 +7526,7 @@
     ]
   },
   {
-    "id": "2.2.16",
+    "id": "2.2.15",
     "title": "美国理解调查, Understanding America Study, UAS",
     "links": [
       {
@@ -7621,7 +7567,7 @@
     ]
   },
   {
-    "id": "2.2.17",
+    "id": "2.2.16",
     "title": "弗雷明汉心脏研究（Framingham Heart Study）",
     "links": [
       {
@@ -7665,7 +7611,7 @@
     ]
   },
   {
-    "id": "2.2.18",
+    "id": "2.2.17",
     "title": "美国全国家庭出行调查（NHTS/NPTS）",
     "links": [
       {
@@ -7757,7 +7703,7 @@
     ]
   },
   {
-    "id": "2.2.19",
+    "id": "2.2.18",
     "title": "Roper 中心民意调查数据库（iPoll）",
     "links": [
       {
@@ -7795,7 +7741,7 @@
     ]
   },
   {
-    "id": "2.2.20",
+    "id": "2.2.19",
     "title": "comScore 网络行为面板（Web-Behavior Panel）",
     "links": [
       {
@@ -7835,7 +7781,7 @@
     ]
   },
   {
-    "id": "2.2.21",
+    "id": "2.2.20",
     "title": "联邦统计研究数据中心（FSRDC）受限微观数据",
     "links": [
       {
@@ -7946,7 +7892,7 @@
     ]
   },
   {
-    "id": "2.2.22",
+    "id": "2.2.21",
     "title": "美国全国青年纵向调查（NLSY79、NLSY97、NLSY79 Children and Young Adults）",
     "links": [
       {
@@ -7985,7 +7931,7 @@
     ]
   },
   {
-    "id": "2.2.23",
+    "id": "2.2.22",
     "title": "皮尤研究中心调查数据（Pew Research Center）",
     "links": [
       {
@@ -8017,45 +7963,6 @@
         "pages": "91–108",
         "doi": "10.1016/j.jpubeco.2016.10.004",
         "url": "https://doi.org/10.1016/j.jpubeco.2016.10.004",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "2.2.24",
-    "title": "全国教育进展评估（NAEP）",
-    "links": [
-      {
-        "label": "NAEP Research Center",
-        "url": "https://nces.ed.gov/nationsreportcard/researchcenter/"
-      }
-    ],
-    "summary": "美国国家教育统计中心开展的全国和州层面学生学业成绩评估，被称为“国家成绩单”，限制使用的学生层面微观数据需申请许可。",
-    "regions": [
-      "美国数据"
-    ],
-    "topics": [
-      "微观调查数据"
-    ],
-    "introduction": "全国教育进展评估（National Assessment of Educational Progress，NAEP）由美国国家教育统计中心（NCES）组织，自 1969 年起对全国有代表性的 4、8、12 年级学生开展数学、阅读、科学、写作等学科测试，1990 年起按州抽样，并对部分大城市学区单独报告；同时收集学生、教师和学校问卷。汇总结果通过 NAEP Data Explorer 免费查询，学生层面的限制使用数据需向 NCES 申请许可，在安全环境中使用。\n\n数据常用于研究教育资源与学业成绩的关系，例如研究风电带来的学区收入增加是否提高学生成绩。NAEP 采用矩阵抽样，每名学生只回答部分题目，分析时需要使用合理值（plausible values）。",
-    "source": "NAEP Data Explorer 免费查询；限制使用数据需申请 NCES 许可。",
-    "references": [
-      {
-        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
-        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
-        "authors": [
-          "Eric Brunner",
-          "Ben Hoen",
-          "Joshua Hyman"
-        ],
-        "year": 2022,
-        "journal": "Journal of Public Economics",
-        "volume": "206",
-        "issue": "",
-        "pages": "104586",
-        "doi": "10.1016/j.jpubeco.2021.104586",
-        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
         "verified": true,
         "note": ""
       }
@@ -10368,82 +10275,6 @@
   },
   {
     "id": "2.4.7",
-    "title": "NCES 共同核心数据（Common Core of Data，CCD）",
-    "links": [
-      {
-        "label": "NCES CCD",
-        "url": "https://nces.ed.gov/ccd/"
-      }
-    ],
-    "summary": "美国国家教育统计中心收集的全美公立中小学和学区年度行政数据，含学生人数、教师、财政和学校特征。",
-    "regions": [
-      "美国数据"
-    ],
-    "topics": [
-      "区域经济数据"
-    ],
-    "introduction": "共同核心数据（Common Core of Data，CCD）由美国教育部国家教育统计中心（NCES）每年从各州教育部门收集，覆盖全美所有公立中小学和学区，记录学校位置、类型、年级、学生人数（按年级、种族和性别）、免费午餐资格学生数、教师人数，以及学区层面的收入和支出等财政数据，序列始于 1980 年代中期。\n\n数据常用于研究学校质量与住房价格、学区财政、地方公共品和人口分选。数据由各州报送，个别州的变量定义和完整程度不同；学生成绩不在 CCD 中，需另行匹配。",
-    "source": "NCES 网站公开提供下载。",
-    "references": [
-      {
-        "raw": "Land Use Regulation and Welfare",
-        "title": "Land Use Regulation and Welfare",
-        "authors": [
-          "Matthew A. Turner",
-          "Andrew Haughwout",
-          "Wilbert van der Klaauw"
-        ],
-        "year": 2014,
-        "journal": "Econometrica",
-        "volume": "82",
-        "issue": "4",
-        "pages": "1341–1403",
-        "doi": "10.3982/ECTA9823",
-        "url": "https://doi.org/10.3982/ECTA9823",
-        "verified": true,
-        "note": ""
-      },
-      {
-        "raw": "The Local Economic and Welfare Consequences of Hydraulic Fracturing",
-        "title": "The Local Economic and Welfare Consequences of Hydraulic Fracturing",
-        "authors": [
-          "Alexander W. Bartik",
-          "Janet Currie",
-          "Michael Greenstone",
-          "Christopher R. Knittel"
-        ],
-        "year": 2019,
-        "journal": "American Economic Journal: Applied Economics",
-        "volume": "11",
-        "issue": "4",
-        "pages": "105–155",
-        "doi": "10.1257/app.20170487",
-        "url": "https://doi.org/10.1257/app.20170487",
-        "verified": true,
-        "note": ""
-      },
-      {
-        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
-        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
-        "authors": [
-          "Eric Brunner",
-          "Ben Hoen",
-          "Joshua Hyman"
-        ],
-        "year": 2022,
-        "journal": "Journal of Public Economics",
-        "volume": "206",
-        "issue": "",
-        "pages": "104586",
-        "doi": "10.1016/j.jpubeco.2021.104586",
-        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "2.4.8",
     "title": "美国政府普查与州和地方政府财政调查（Census of Governments、Government Finances）",
     "links": [
       {
@@ -10613,7 +10444,7 @@
     ]
   },
   {
-    "id": "2.4.9",
+    "id": "2.4.8",
     "title": "BEA 国民收入与产品账户及固定资产账户（NIPA、Fixed Assets）",
     "links": [
       {
@@ -10740,7 +10571,7 @@
     ]
   },
   {
-    "id": "2.4.10",
+    "id": "2.4.9",
     "title": "USAspending 联邦支出与财政部 Fiscal Data",
     "links": [
       {
@@ -10788,7 +10619,7 @@
     ]
   },
   {
-    "id": "2.4.11",
+    "id": "2.4.10",
     "title": "沃顿住宅土地利用管制指数（WRLURI）",
     "links": [],
     "summary": "沃顿商学院基于对美国地方政府调查构建的住宅土地利用管制严格程度指数，2006 年和 2018 年两轮。",
@@ -10823,7 +10654,7 @@
     ]
   },
   {
-    "id": "2.4.12",
+    "id": "2.4.11",
     "title": "美联储理事会统计发布（G.17 工业生产与产能利用率、G.19 消费信贷）",
     "links": [
       {
@@ -10882,7 +10713,7 @@
     ]
   },
   {
-    "id": "2.4.13",
+    "id": "2.4.12",
     "title": "美国劳工统计局 (BLS)",
     "links": [
       {
@@ -11361,7 +11192,7 @@
     ]
   },
   {
-    "id": "2.4.14",
+    "id": "2.4.13",
     "title": "人口普查局小区域收入与贫困估计（SAIPE）与人口估计（PEP）",
     "links": [
       {
@@ -11543,7 +11374,7 @@
     ]
   },
   {
-    "id": "2.4.15",
+    "id": "2.4.14",
     "title": "FBI 统一犯罪报告（UCR）",
     "links": [
       {
@@ -11652,7 +11483,7 @@
     ]
   },
   {
-    "id": "2.4.16",
+    "id": "2.4.15",
     "title": "美国国土安全部《移民统计年鉴》（Yearbook of Immigration Statistics）",
     "links": [
       {
@@ -11690,7 +11521,7 @@
     ]
   },
   {
-    "id": "2.4.17",
+    "id": "2.4.16",
     "title": "美国县级分年龄净迁移估计（Net Migration Patterns for US Counties）",
     "links": [
       {
@@ -11730,7 +11561,7 @@
     ]
   },
   {
-    "id": "2.4.18",
+    "id": "2.4.17",
     "title": "USDA ERS 城乡连续体代码（Rural-Urban Continuum Codes）",
     "links": [
       {
@@ -11787,64 +11618,7 @@
     ]
   },
   {
-    "id": "2.4.19",
-    "title": "斯坦福教育数据档案（SEDA）",
-    "links": [
-      {
-        "label": "Educational Opportunity Project",
-        "url": "https://edopportunity.org/"
-      }
-    ],
-    "summary": "斯坦福大学教育机会项目基于全美州统考成绩构建的学区、县和学校层面 3–8 年级学业成绩可比数据，覆盖 2008/09 学年以来。",
-    "regions": [
-      "美国数据"
-    ],
-    "topics": [
-      "区域经济数据"
-    ],
-    "introduction": "斯坦福教育数据档案（Stanford Education Data Archive，SEDA）由斯坦福大学 Sean Reardon 领衔的教育机会项目（Educational Opportunity Project）构建，利用各州 3–8 年级数学和英语统考的汇总结果，借助全国教育进展评估（NAEP）把各州成绩转换到统一尺度，提供学校、学区、县、通勤区和州层面按年级、学年和学生群体（种族、性别、经济弱势）划分的平均成绩、成绩增长和成绩差距，并附有社会经济协变量，可在项目网站免费下载。\n\n数据常用于研究地区教育质量和教育不平等，例如作为县级人力资本或社会经济特征的控制变量。成绩是由汇总分布推算的估计值，小单元的估计误差较大。",
-    "source": "项目网站免费下载。",
-    "references": [
-      {
-        "raw": "Leveraging the Disagreement on Climate Change: Theory and Evidence",
-        "title": "Leveraging the Disagreement on Climate Change: Theory and Evidence",
-        "authors": [
-          "Laura Bakkensen",
-          "Toàn Phan",
-          "Tsz-Nga Wong"
-        ],
-        "year": 2025,
-        "journal": "Journal of Political Economy",
-        "volume": "133",
-        "issue": "10",
-        "pages": "3132–3166",
-        "doi": "10.1086/737236",
-        "url": "https://doi.org/10.1086/737236",
-        "verified": true,
-        "note": ""
-      },
-      {
-        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
-        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
-        "authors": [
-          "Eric Brunner",
-          "Ben Hoen",
-          "Joshua Hyman"
-        ],
-        "year": 2022,
-        "journal": "Journal of Public Economics",
-        "volume": "206",
-        "issue": "",
-        "pages": "104586",
-        "doi": "10.1016/j.jpubeco.2021.104586",
-        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "2.4.20",
+    "id": "2.4.18",
     "title": "BEA 行业层面综合生产账户（KLEMS）",
     "links": [
       {
@@ -11882,7 +11656,7 @@
     ]
   },
   {
-    "id": "2.4.21",
+    "id": "2.4.19",
     "title": "BLS 生产者价格指数（Producer Price Index，PPI）",
     "links": [
       {
@@ -11938,7 +11712,7 @@
     ]
   },
   {
-    "id": "2.4.22",
+    "id": "2.4.20",
     "title": "加州州审计长办公室地方政府财务报告（Cities Financial Transactions）",
     "links": [
       {
@@ -11976,7 +11750,7 @@
     ]
   },
   {
-    "id": "2.4.23",
+    "id": "2.4.21",
     "title": "通勤区（Commuting Zones）及 Autor-Dorn 地理对照文件",
     "links": [
       {
@@ -12014,7 +11788,7 @@
     ]
   },
   {
-    "id": "2.4.24",
+    "id": "2.4.22",
     "title": "IRS SOI 县级个人所得税统计（County Data）",
     "links": [
       {
@@ -12053,7 +11827,7 @@
     ]
   },
   {
-    "id": "2.4.25",
+    "id": "2.4.23",
     "title": "BLS 消费者价格指数（Consumer Price Index，CPI）",
     "links": [
       {
@@ -12157,46 +11931,7 @@
     ]
   },
   {
-    "id": "2.4.26",
-    "title": "德州教育局学业表现报告（TAPR / AEIS）",
-    "links": [
-      {
-        "label": "TEA TAPR",
-        "url": "https://tea.texas.gov/texas-schools/accountability/academic-accountability/performance-reporting/texas-academic-performance-reports"
-      }
-    ],
-    "summary": "德州教育局发布的全州学区和学校层面学生成绩、人口构成、教职工和财务年度报告，1990 年代起（早期称 AEIS）。",
-    "regions": [
-      "美国数据"
-    ],
-    "topics": [
-      "区域经济数据"
-    ],
-    "introduction": "德州学业表现报告（Texas Academic Performance Reports，TAPR）由德州教育局（Texas Education Agency，TEA）每年发布，2012—2013 学年以前称学业卓越指标系统（Academic Excellence Indicator System，AEIS），提供州、地区、学区和学校层面的州统考（TAAS、TAKS、STAAR）通过率、毕业率和辍学率、学生人数和人口构成（种族、经济弱势、英语学习者）、教职工人数和薪酬以及学区财务数据。报告和数据文件可在 TEA 网站免费下载。\n\n数据常用于研究德州学区财政和教育产出，例如研究风电场带来的财产税基增加对学区支出和学生成绩的影响。各年考试体系不同，成绩指标跨期不可直接比较。",
-    "source": "TEA 网站免费下载。",
-    "references": [
-      {
-        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
-        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
-        "authors": [
-          "Eric Brunner",
-          "Ben Hoen",
-          "Joshua Hyman"
-        ],
-        "year": 2022,
-        "journal": "Journal of Public Economics",
-        "volume": "206",
-        "issue": "",
-        "pages": "104586",
-        "doi": "10.1016/j.jpubeco.2021.104586",
-        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "2.4.27",
+    "id": "2.4.24",
     "title": "IRS SOI 个人所得税申报统计与公共使用文件（Individual Income Tax Statistics、PUF）",
     "links": [
       {
@@ -12235,7 +11970,7 @@
     ]
   },
   {
-    "id": "2.4.28",
+    "id": "2.4.25",
     "title": "C2ER 生活成本指数（Cost of Living Index）",
     "links": [
       {
@@ -32597,6 +32332,279 @@
     ]
   },
   {
+    "id": "2.16.1",
+    "title": "综合高等教育数据系统（IPEDS）",
+    "links": [
+      {
+        "label": "IPEDS 官网",
+        "url": "https://nces.ed.gov/ipeds/"
+      }
+    ],
+    "summary": "美国国家教育统计中心（NCES）对所有参与联邦学生资助项目的高等院校开展的年度调查，提供招生、学位授予、学费、财务和教职员信息。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "综合高等教育数据系统（Integrated Postsecondary Education Data System，IPEDS）由美国教育部国家教育统计中心（NCES）运行，所有参与联邦学生资助（Title IV）项目的高等院校须每年填报。调查内容包括机构特征、招生录取（申请人数、录取率、SAT/ACT 分数分位数）、在校生规模与构成、学位与证书授予、毕业率和保留率、学费与学生资助、机构财务收支，以及教职员人数和薪酬。\n\n数据以院校-年份为观测单位，覆盖时间较长，常用于研究高等教育成本、在线教育、录取政策（如考试可选政策）对生源质量和多样性的影响。\n\n各调查模块的起始年份和定义多次调整，财务数据因会计准则不同（公立院校与私立院校）不可直接比较；院校合并、分校区汇报方式变化也会影响面板构建。",
+    "source": "NCES 网站免费公开提供在线查询工具和完整数据文件下载。",
+    "references": [
+      {
+        "raw": "Can Online Learning Bend the Higher Education Cost Curve",
+        "title": "Can Online Learning Bend the Higher Education Cost Curve?",
+        "authors": [
+          "David J. Deming",
+          "Claudia Goldin",
+          "Lawrence F. Katz",
+          "Noam Yuchtman"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "5",
+        "pages": "496-501",
+        "doi": "10.1257/aer.p20151024",
+        "url": "https://doi.org/10.1257/aer.p20151024",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "SAT optional policies Do they influence graduate quality selectivity or diversity",
+        "title": "SAT optional policies: Do they influence graduate quality, selectivity or diversity?",
+        "authors": [
+          "Matt Saboe",
+          "Sabrina Terrizzi"
+        ],
+        "year": 2019,
+        "journal": "Economics Letters",
+        "volume": "174",
+        "issue": "",
+        "pages": "13-17",
+        "doi": "10.1016/j.econlet.2018.10.017",
+        "url": "https://doi.org/10.1016/j.econlet.2018.10.017",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.2",
+    "title": "全国教育进展评估（NAEP）",
+    "links": [
+      {
+        "label": "NAEP Research Center",
+        "url": "https://nces.ed.gov/nationsreportcard/researchcenter/"
+      }
+    ],
+    "summary": "美国国家教育统计中心开展的全国和州层面学生学业成绩评估，被称为“国家成绩单”，限制使用的学生层面微观数据需申请许可。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "全国教育进展评估（National Assessment of Educational Progress，NAEP）由美国国家教育统计中心（NCES）组织，自 1969 年起对全国有代表性的 4、8、12 年级学生开展数学、阅读、科学、写作等学科测试，1990 年起按州抽样，并对部分大城市学区单独报告；同时收集学生、教师和学校问卷。汇总结果通过 NAEP Data Explorer 免费查询，学生层面的限制使用数据需向 NCES 申请许可，在安全环境中使用。\n\n数据常用于研究教育资源与学业成绩的关系，例如研究风电带来的学区收入增加是否提高学生成绩。NAEP 采用矩阵抽样，每名学生只回答部分题目，分析时需要使用合理值（plausible values）。",
+    "source": "NAEP Data Explorer 免费查询；限制使用数据需申请 NCES 许可。",
+    "references": [
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.3",
+    "title": "NCES 共同核心数据（Common Core of Data，CCD）",
+    "links": [
+      {
+        "label": "NCES CCD",
+        "url": "https://nces.ed.gov/ccd/"
+      }
+    ],
+    "summary": "美国国家教育统计中心收集的全美公立中小学和学区年度行政数据，含学生人数、教师、财政和学校特征。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "区域经济数据"
+    ],
+    "introduction": "共同核心数据（Common Core of Data，CCD）由美国教育部国家教育统计中心（NCES）每年从各州教育部门收集，覆盖全美所有公立中小学和学区，记录学校位置、类型、年级、学生人数（按年级、种族和性别）、免费午餐资格学生数、教师人数，以及学区层面的收入和支出等财政数据，序列始于 1980 年代中期。\n\n数据常用于研究学校质量与住房价格、学区财政、地方公共品和人口分选。数据由各州报送，个别州的变量定义和完整程度不同；学生成绩不在 CCD 中，需另行匹配。",
+    "source": "NCES 网站公开提供下载。",
+    "references": [
+      {
+        "raw": "Land Use Regulation and Welfare",
+        "title": "Land Use Regulation and Welfare",
+        "authors": [
+          "Matthew A. Turner",
+          "Andrew Haughwout",
+          "Wilbert van der Klaauw"
+        ],
+        "year": 2014,
+        "journal": "Econometrica",
+        "volume": "82",
+        "issue": "4",
+        "pages": "1341–1403",
+        "doi": "10.3982/ECTA9823",
+        "url": "https://doi.org/10.3982/ECTA9823",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Local Economic and Welfare Consequences of Hydraulic Fracturing",
+        "title": "The Local Economic and Welfare Consequences of Hydraulic Fracturing",
+        "authors": [
+          "Alexander W. Bartik",
+          "Janet Currie",
+          "Michael Greenstone",
+          "Christopher R. Knittel"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "4",
+        "pages": "105–155",
+        "doi": "10.1257/app.20170487",
+        "url": "https://doi.org/10.1257/app.20170487",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.4",
+    "title": "斯坦福教育数据档案（SEDA）",
+    "links": [
+      {
+        "label": "Educational Opportunity Project",
+        "url": "https://edopportunity.org/"
+      }
+    ],
+    "summary": "斯坦福大学教育机会项目基于全美州统考成绩构建的学区、县和学校层面 3–8 年级学业成绩可比数据，覆盖 2008/09 学年以来。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "区域经济数据"
+    ],
+    "introduction": "斯坦福教育数据档案（Stanford Education Data Archive，SEDA）由斯坦福大学 Sean Reardon 领衔的教育机会项目（Educational Opportunity Project）构建，利用各州 3–8 年级数学和英语统考的汇总结果，借助全国教育进展评估（NAEP）把各州成绩转换到统一尺度，提供学校、学区、县、通勤区和州层面按年级、学年和学生群体（种族、性别、经济弱势）划分的平均成绩、成绩增长和成绩差距，并附有社会经济协变量，可在项目网站免费下载。\n\n数据常用于研究地区教育质量和教育不平等，例如作为县级人力资本或社会经济特征的控制变量。成绩是由汇总分布推算的估计值，小单元的估计误差较大。",
+    "source": "项目网站免费下载。",
+    "references": [
+      {
+        "raw": "Leveraging the Disagreement on Climate Change: Theory and Evidence",
+        "title": "Leveraging the Disagreement on Climate Change: Theory and Evidence",
+        "authors": [
+          "Laura Bakkensen",
+          "Toàn Phan",
+          "Tsz-Nga Wong"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "10",
+        "pages": "3132–3166",
+        "doi": "10.1086/737236",
+        "url": "https://doi.org/10.1086/737236",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.5",
+    "title": "德州教育局学业表现报告（TAPR / AEIS）",
+    "links": [
+      {
+        "label": "TEA TAPR",
+        "url": "https://tea.texas.gov/texas-schools/accountability/academic-accountability/performance-reporting/texas-academic-performance-reports"
+      }
+    ],
+    "summary": "德州教育局发布的全州学区和学校层面学生成绩、人口构成、教职工和财务年度报告，1990 年代起（早期称 AEIS）。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "区域经济数据"
+    ],
+    "introduction": "德州学业表现报告（Texas Academic Performance Reports，TAPR）由德州教育局（Texas Education Agency，TEA）每年发布，2012—2013 学年以前称学业卓越指标系统（Academic Excellence Indicator System，AEIS），提供州、地区、学区和学校层面的州统考（TAAS、TAKS、STAAR）通过率、毕业率和辍学率、学生人数和人口构成（种族、经济弱势、英语学习者）、教职工人数和薪酬以及学区财务数据。报告和数据文件可在 TEA 网站免费下载。\n\n数据常用于研究德州学区财政和教育产出，例如研究风电场带来的财产税基增加对学区支出和学生成绩的影响。各年考试体系不同，成绩指标跨期不可直接比较。",
+    "source": "TEA 网站免费下载。",
+    "references": [
+      {
+        "raw": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "title": "School district revenue shocks, resource allocations, and student achievement: Evidence from the universe of U.S. wind energy installations",
+        "authors": [
+          "Eric Brunner",
+          "Ben Hoen",
+          "Joshua Hyman"
+        ],
+        "year": 2022,
+        "journal": "Journal of Public Economics",
+        "volume": "206",
+        "issue": "",
+        "pages": "104586",
+        "doi": "10.1016/j.jpubeco.2021.104586",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -32611,7 +32619,8 @@
     ],
     "topics": [
       "普查数据",
-      "微观调查数据"
+      "微观调查数据",
+      "教育数据"
     ],
     "introduction": "瑞典统计局（Statistics Sweden，SCB）基于个人身份号码维护多套全人口登记，包括总人口登记、多代登记（链接父母与子女）、教育登记、收入与税收登记和劳动力市场登记（如 LOUISE/LISA 数据库，1990 年起覆盖 16 岁以上全部居民），以及九年级全国统考成绩和征兵测试等可链接的行政记录，居住地可精确到 SAMS 小区。研究者须通过所在机构向 SCB 申请，经伦理审查后在 MONA 远程平台上使用去标识化的微观数据。\n\n数据常用于研究早期环境暴露的长期效果，例如把各市镇饮用水氟含量与个人的认知测试、成绩和成年收入链接，估计饮用水氟化的影响。数据只能远程访问，输出需经过保密审查。",
     "source": "受限数据，需向 SCB 申请，通过 MONA 远程平台使用。",
@@ -39341,43 +39350,6 @@
     ]
   },
   {
-    "id": "5.1.4",
-    "title": "巴西基础教育普查与基础教育发展指数（INEP Censo Escolar / IDEB）",
-    "links": [
-      {
-        "label": "INEP Censo Escolar",
-        "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar"
-      }
-    ],
-    "summary": "巴西国家教育研究所每年对全国所有学校开展的基础教育普查，以及结合升级率和标准化考试成绩计算的学校和市镇基础教育发展指数。",
-    "regions": [
-      "拉美数据"
-    ],
-    "topics": [
-      "普查数据"
-    ],
-    "introduction": "基础教育普查（Censo Escolar）由巴西国家教育研究和研究所（INEP）每年开展，覆盖全国约 18 万所公立和私立中小学，记录学校基础设施、教师、班级和学生入学、升级、留级和辍学情况，微观数据免费下载；基础教育发展指数（IDEB）自 2005 年起每两年发布一次，综合学生升级率和巴西国家基础教育评估（SAEB/Prova Brasil）成绩，给出学校、市镇、州和全国层面的教育质量指标。数据可在 INEP 网站免费获取。\n\n数据常用于研究巴西地方公共服务，例如研究石油发现和特许权收入对市镇教育投入和质量的影响。IDEB 每两年一次，部分小学校缺少成绩数据。",
-    "source": "INEP 网站免费下载。",
-    "references": [
-      {
-        "raw": "Winning and losing the resource lottery: Governance after uncertain oil discoveries",
-        "title": "Winning and losing the resource lottery: Governance after uncertain oil discoveries",
-        "authors": [
-          "Erik S. Katovich"
-        ],
-        "year": 2024,
-        "journal": "Journal of Development Economics",
-        "volume": "166",
-        "issue": "",
-        "pages": "103204",
-        "doi": "10.1016/j.jdeveco.2023.103204",
-        "url": "https://doi.org/10.1016/j.jdeveco.2023.103204",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
     "id": "5.2.1",
     "title": "巴西全国住户抽样调查（PNAD）",
     "links": [],
@@ -41788,6 +41760,44 @@
     ]
   },
   {
+    "id": "5.16.1",
+    "title": "巴西基础教育普查与基础教育发展指数（INEP Censo Escolar / IDEB）",
+    "links": [
+      {
+        "label": "INEP Censo Escolar",
+        "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar"
+      }
+    ],
+    "summary": "巴西国家教育研究所每年对全国所有学校开展的基础教育普查，以及结合升级率和标准化考试成绩计算的学校和市镇基础教育发展指数。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "教育数据",
+      "普查数据"
+    ],
+    "introduction": "基础教育普查（Censo Escolar）由巴西国家教育研究和研究所（INEP）每年开展，覆盖全国约 18 万所公立和私立中小学，记录学校基础设施、教师、班级和学生入学、升级、留级和辍学情况，微观数据免费下载；基础教育发展指数（IDEB）自 2005 年起每两年发布一次，综合学生升级率和巴西国家基础教育评估（SAEB/Prova Brasil）成绩，给出学校、市镇、州和全国层面的教育质量指标。数据可在 INEP 网站免费获取。\n\n数据常用于研究巴西地方公共服务，例如研究石油发现和特许权收入对市镇教育投入和质量的影响。IDEB 每两年一次，部分小学校缺少成绩数据。",
+    "source": "INEP 网站免费下载。",
+    "references": [
+      {
+        "raw": "Winning and losing the resource lottery: Governance after uncertain oil discoveries",
+        "title": "Winning and losing the resource lottery: Governance after uncertain oil discoveries",
+        "authors": [
+          "Erik S. Katovich"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "166",
+        "issue": "",
+        "pages": "103204",
+        "doi": "10.1016/j.jdeveco.2023.103204",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103204",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.1.1",
     "title": "乌干达人口与住房普查",
     "links": [
@@ -43856,26 +43866,6 @@
   },
   {
     "id": "7.2.5",
-    "title": "国际学生评估项目（PISA）",
-    "links": [
-      {
-        "label": "PISA 2022 数据库",
-        "url": "https://www.oecd.org/en/data/datasets/pisa-2022-database.html"
-      }
-    ],
-    "summary": "OECD 组织的 15 岁学生阅读、数学和科学能力跨国抽样测评，2000 年起约每三年一轮，公开学生和学校层面微观数据。",
-    "regions": [
-      "全球数据"
-    ],
-    "topics": [
-      "微观调查数据"
-    ],
-    "introduction": "国际学生评估项目（Programme for International Student Assessment，PISA）由经济合作与发展组织（OECD）组织，自 2000 年起约每三年开展一轮（2021 年一轮因疫情推迟到 2022 年），对各参与国家和地区的 15 岁在校学生进行阅读、数学和科学能力测评，每轮侧重一个领域，并附有学生、学校、部分轮次的教师和家长问卷。参与经济体从最初的约 40 个扩大到 80 个左右。\n\n公开数据包括学生和学校层面的微观文件、问卷、编码手册和技术报告，常用于比较各国教育产出、研究教育制度、学校资源和家庭背景对学生成绩的影响。\n\n学生成绩以多个可能值（plausible values）给出，分析时需使用可能值和重复权重，不能直接当作单一测验分数；各轮测评框架和参与经济体有变化，跨轮比较应使用官方的趋势链接方法。",
-    "source": "OECD 网站按轮次免费公开提供数据文件下载。",
-    "references": []
-  },
-  {
-    "id": "7.2.6",
     "title": "世界银行全球消费数据库",
     "links": [
       {
@@ -43914,7 +43904,7 @@
     ]
   },
   {
-    "id": "7.2.7",
+    "id": "7.2.6",
     "title": "世界银行企业调查（Enterprise Surveys）",
     "links": [
       {
@@ -43989,7 +43979,7 @@
     ]
   },
   {
-    "id": "7.2.8",
+    "id": "7.2.7",
     "title": "盖洛普世界民意调查（Gallup World Poll）",
     "links": [
       {
@@ -44051,7 +44041,7 @@
     ]
   },
   {
-    "id": "7.2.9",
+    "id": "7.2.8",
     "title": "世界新闻业研究（Worlds of Journalism Study，WJS）",
     "links": [
       {
@@ -44088,46 +44078,7 @@
     ]
   },
   {
-    "id": "7.2.10",
-    "title": "Barro-Lee 教育程度数据集",
-    "links": [
-      {
-        "label": "Barro-Lee Dataset",
-        "url": "https://barrolee.github.io/BarroLeeDataSet/"
-      }
-    ],
-    "summary": "Barro 和 Lee 构建的 146 个国家 1950—2015 年每五年 15 岁以上和 25 岁以上人口的受教育年限和各级教育完成比例。",
-    "regions": [
-      "全球数据"
-    ],
-    "topics": [
-      "微观调查数据",
-      "区域经济数据"
-    ],
-    "introduction": "Barro-Lee 教育程度数据集由 Robert Barro 和 Jong-Wha Lee 构建，最新版本发表于 2013 年《发展经济学杂志》并持续更新，利用各国人口普查和调查数据以及教育入学率的永续盘存法，估算 146 个国家 1950—2015 年每五年分性别、分年龄组（15—64、25—64 岁等）的平均受教育年限，以及未受教育、小学、中学和高等教育的完成比例；另有 1870—2040 年的长期估计和预测。数据可在网站免费下载。\n\n数据常用于跨国增长和发展研究中的人力资本度量，例如在研究热带气旋对经济增长的影响时控制人力资本。部分国家缺少普查数据，估计值依赖插补。",
-    "source": "Barro-Lee 网站免费下载。",
-    "references": [
-      {
-        "raw": "Climate Shocks, Cyclones and Economic Growth: Bridging the Micro-Macro Gap",
-        "title": "Climate Shocks, Cyclones and Economic Growth: Bridging the Micro-Macro Gap",
-        "authors": [
-          "Laura A. Bakkensen",
-          "Lint Barrage"
-        ],
-        "year": 2025,
-        "journal": "The Economic Journal",
-        "volume": "136",
-        "issue": "673",
-        "pages": "279–310",
-        "doi": "10.1093/ej/ueaf050",
-        "url": "https://doi.org/10.1093/ej/ueaf050",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "7.2.11",
+    "id": "7.2.9",
     "title": "国际社会调查项目（International Social Survey Programme，ISSP）",
     "links": [
       {
@@ -58871,6 +58822,66 @@
         "pages": "103258",
         "doi": "10.1016/j.jeem.2025.103258",
         "url": "https://doi.org/10.1016/j.jeem.2025.103258",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.1",
+    "title": "国际学生评估项目（PISA）",
+    "links": [
+      {
+        "label": "PISA 2022 数据库",
+        "url": "https://www.oecd.org/en/data/datasets/pisa-2022-database.html"
+      }
+    ],
+    "summary": "OECD 组织的 15 岁学生阅读、数学和科学能力跨国抽样测评，2000 年起约每三年一轮，公开学生和学校层面微观数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "国际学生评估项目（Programme for International Student Assessment，PISA）由经济合作与发展组织（OECD）组织，自 2000 年起约每三年开展一轮（2021 年一轮因疫情推迟到 2022 年），对各参与国家和地区的 15 岁在校学生进行阅读、数学和科学能力测评，每轮侧重一个领域，并附有学生、学校、部分轮次的教师和家长问卷。参与经济体从最初的约 40 个扩大到 80 个左右。\n\n公开数据包括学生和学校层面的微观文件、问卷、编码手册和技术报告，常用于比较各国教育产出、研究教育制度、学校资源和家庭背景对学生成绩的影响。\n\n学生成绩以多个可能值（plausible values）给出，分析时需使用可能值和重复权重，不能直接当作单一测验分数；各轮测评框架和参与经济体有变化，跨轮比较应使用官方的趋势链接方法。",
+    "source": "OECD 网站按轮次免费公开提供数据文件下载。",
+    "references": []
+  },
+  {
+    "id": "7.16.2",
+    "title": "Barro-Lee 教育程度数据集",
+    "links": [
+      {
+        "label": "Barro-Lee Dataset",
+        "url": "https://barrolee.github.io/BarroLeeDataSet/"
+      }
+    ],
+    "summary": "Barro 和 Lee 构建的 146 个国家 1950—2015 年每五年 15 岁以上和 25 岁以上人口的受教育年限和各级教育完成比例。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据",
+      "区域经济数据"
+    ],
+    "introduction": "Barro-Lee 教育程度数据集由 Robert Barro 和 Jong-Wha Lee 构建，最新版本发表于 2013 年《发展经济学杂志》并持续更新，利用各国人口普查和调查数据以及教育入学率的永续盘存法，估算 146 个国家 1950—2015 年每五年分性别、分年龄组（15—64、25—64 岁等）的平均受教育年限，以及未受教育、小学、中学和高等教育的完成比例；另有 1870—2040 年的长期估计和预测。数据可在网站免费下载。\n\n数据常用于跨国增长和发展研究中的人力资本度量，例如在研究热带气旋对经济增长的影响时控制人力资本。部分国家缺少普查数据，估计值依赖插补。",
+    "source": "Barro-Lee 网站免费下载。",
+    "references": [
+      {
+        "raw": "Climate Shocks, Cyclones and Economic Growth: Bridging the Micro-Macro Gap",
+        "title": "Climate Shocks, Cyclones and Economic Growth: Bridging the Micro-Macro Gap",
+        "authors": [
+          "Laura A. Bakkensen",
+          "Lint Barrage"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "673",
+        "pages": "279–310",
+        "doi": "10.1093/ej/ueaf050",
+        "url": "https://doi.org/10.1093/ej/ueaf050",
         "verified": true,
         "note": ""
       }

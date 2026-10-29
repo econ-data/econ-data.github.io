@@ -1,7 +1,7 @@
 const $ = selector => document.querySelector(selector);
 // 编号体系：第一层为国家/地区，第二层为数据类型；条目编号 = 地区.类型.序号（多标签时取最小编号）
 const REGIONS = ['中国数据','美国数据','欧洲数据','亚洲数据','拉美数据','其他国家数据','全球数据'];
-const TOPICS = ['普查数据','微观调查数据','微观企业数据','区域经济数据','地理数据','环境数据','能源数据','健康数据','交通数据','政治数据','房地产数据','金融数据','商业数据','农业数据','贸易数据'];
+const TOPICS = ['普查数据','微观调查数据','微观企业数据','区域经济数据','地理数据','环境数据','能源数据','健康数据','交通数据','政治数据','房地产数据','金融数据','商业数据','农业数据','贸易数据','教育数据'];
 let data = [], region = '全部', category = '全部', page = 1;
 const size = 12;
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -62,4 +62,4 @@ window.addEventListener('hashchange',openDetail);
 ['search','sort','withlinks'].forEach(id=>$('#'+id).addEventListener(id==='search'?'input':'change',()=>{page=1;render()}));
 $('#reset').onclick=()=>{region=category='全部';page=1;$('#search').value='';$('#sort').value='original';$('#withlinks').checked=false;tabs();categories();render()};
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)&&!$('#detail').open){e.preventDefault();$('#search').focus()}});
-fetch('data.json?v=6').then(r=>{if(!r.ok)throw Error('data');return r.json()}).then(rows=>{data=rows;$('#total').textContent=data.length;$('#groups').textContent=REGIONS.length;$('#links').textContent=TOPICS.length;tabs();categories();render();openDetail()}).catch(()=>{$('#results').innerHTML='<div class="empty">目录加载失败，请刷新页面重试。</div>'});
+fetch('data.json?v=7').then(r=>{if(!r.ok)throw Error('data');return r.json()}).then(rows=>{data=rows;$('#total').textContent=data.length;$('#groups').textContent=REGIONS.length;$('#links').textContent=TOPICS.length;tabs();categories();render();openDetail()}).catch(()=>{$('#results').innerHTML='<div class="empty">目录加载失败，请刷新页面重试。</div>'});
