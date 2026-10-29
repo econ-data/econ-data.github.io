@@ -907,6 +907,23 @@
         "url": "https://doi.org/10.3368/jhr.0421-11629r2",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Are Saving Rates of Urban Households in China Rising?",
+        "title": "Why Are Saving Rates of Urban Households in China Rising?",
+        "authors": [
+          "Marcos D. Chamon",
+          "Eswar S. Prasad"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "1",
+        "pages": "93–130",
+        "doi": "10.1257/mac.2.1.93",
+        "url": "https://doi.org/10.1257/mac.2.1.93",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2908,6 +2925,23 @@
         "pages": "289–325",
         "doi": "10.3368/jhr.0421-11629r2",
         "url": "https://doi.org/10.3368/jhr.0421-11629r2",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Are Saving Rates of Urban Households in China Rising?",
+        "title": "Why Are Saving Rates of Urban Households in China Rising?",
+        "authors": [
+          "Marcos D. Chamon",
+          "Eswar S. Prasad"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "1",
+        "pages": "93–130",
+        "doi": "10.1257/mac.2.1.93",
+        "url": "https://doi.org/10.1257/mac.2.1.93",
         "verified": true,
         "note": ""
       }
@@ -5665,6 +5699,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103547",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Exports and Multinational Activity Under Credit Constraints",
+        "title": "Firm Exports and Multinational Activity Under Credit Constraints",
+        "authors": [
+          "Kalina Manova",
+          "Shang-Jin Wei",
+          "Zhiwei Zhang"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "97",
+        "issue": "3",
+        "pages": "574–588",
+        "doi": "10.1162/rest_a_00480",
+        "url": "https://doi.org/10.1162/rest_a_00480",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6938,6 +6990,40 @@
         "url": "https://doi.org/10.1162/qjec.122.2.775",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "title": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "authors": [
+          "Hoai-Luu Q. Nguyen"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "1–32",
+        "doi": "10.1257/app.20170543",
+        "url": "https://doi.org/10.1257/app.20170543",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "title": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "authors": [
+          "Atif Mian",
+          "Kamalesh Rao",
+          "Amir Sufi"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1687–1726",
+        "doi": "10.1093/qje/qjt020",
+        "url": "https://doi.org/10.1093/qje/qjt020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7496,6 +7582,22 @@
         "pages": "1429–1460",
         "doi": "10.1093/rfs/hhm019",
         "url": "https://doi.org/10.1093/rfs/hhm019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Proximity and Investment: Evidence from Plant-Level Data",
+        "title": "Proximity and Investment: Evidence from Plant-Level Data",
+        "authors": [
+          "Xavier Giroud"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "2",
+        "pages": "861–915",
+        "doi": "10.1093/qje/qjs073",
+        "url": "https://doi.org/10.1093/qje/qjs073",
         "verified": true,
         "note": ""
       }
@@ -9288,6 +9390,42 @@
         "url": "https://doi.org/10.1093/qje/qjae045",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Sensitivity of Consumption to Transitory Income: Estimates from Panel Data on Households",
+        "title": "The Sensitivity of Consumption to Transitory Income: Estimates from Panel Data on Households",
+        "authors": [
+          "Robert E. Hall",
+          "Frederic S. Mishkin"
+        ],
+        "year": 1982,
+        "journal": "Econometrica",
+        "volume": "50",
+        "issue": "2",
+        "pages": "461–481",
+        "doi": "10.2307/1912638",
+        "url": "https://doi.org/10.2307/1912638",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices and Consumer Spending",
+        "title": "House Prices and Consumer Spending",
+        "authors": [
+          "David Berger",
+          "Veronica Guerrieri",
+          "Guido Lorenzoni",
+          "Joseph Vavra"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economic Studies",
+        "volume": "85",
+        "issue": "3",
+        "pages": "1502–1542",
+        "doi": "10.1093/restud/rdx060",
+        "url": "https://doi.org/10.1093/restud/rdx060",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9377,6 +9515,74 @@
         "pages": "191–234",
         "doi": "10.1086/685597",
         "url": "https://doi.org/10.1086/685597",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Windfall Income and Consumption",
+        "title": "Windfall Income and Consumption",
+        "authors": [
+          "Ronald Bodkin"
+        ],
+        "year": 1959,
+        "journal": "American Economic Review",
+        "volume": "49",
+        "issue": "4",
+        "pages": "602–614",
+        "doi": "",
+        "url": "",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Household Expenditure and the Income Tax Rebates of 2001",
+        "title": "Household Expenditure and the Income Tax Rebates of 2001",
+        "authors": [
+          "David S. Johnson",
+          "Jonathan A. Parker",
+          "Nicholas S. Souleles"
+        ],
+        "year": 2006,
+        "journal": "American Economic Review",
+        "volume": "96",
+        "issue": "5",
+        "pages": "1589–1610",
+        "doi": "10.1257/aer.96.5.1589",
+        "url": "https://doi.org/10.1257/aer.96.5.1589",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Wealth and Consumption: Evidence from Geographically-Linked Microdata",
+        "title": "Housing Wealth and Consumption: Evidence from Geographically-Linked Microdata",
+        "authors": [
+          "Aditya Aladangady"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "11",
+        "pages": "3415–3446",
+        "doi": "10.1257/aer.20150491",
+        "url": "https://doi.org/10.1257/aer.20150491",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
         "verified": true,
         "note": ""
       }
@@ -9932,6 +10138,43 @@
         "pages": "2023–2073",
         "doi": "10.1086/740224",
         "url": "https://doi.org/10.1086/740224",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices and Consumer Spending",
+        "title": "House Prices and Consumer Spending",
+        "authors": [
+          "David Berger",
+          "Veronica Guerrieri",
+          "Guido Lorenzoni",
+          "Joseph Vavra"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economic Studies",
+        "volume": "85",
+        "issue": "3",
+        "pages": "1502–1542",
+        "doi": "10.1093/restud/rdx060",
+        "url": "https://doi.org/10.1093/restud/rdx060",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
         "verified": true,
         "note": ""
       }
@@ -11646,6 +11889,22 @@
         "url": "https://doi.org/10.1257/pol.2.3.32",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "title": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "authors": [
+          "Hoai-Luu Q. Nguyen"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "1–32",
+        "doi": "10.1257/app.20170543",
+        "url": "https://doi.org/10.1257/app.20170543",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11758,6 +12017,22 @@
         "pages": "608–633",
         "doi": "10.1016/j.jfineco.2018.09.010",
         "url": "https://doi.org/10.1016/j.jfineco.2018.09.010",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Proximity and Investment: Evidence from Plant-Level Data",
+        "title": "Proximity and Investment: Evidence from Plant-Level Data",
+        "authors": [
+          "Xavier Giroud"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "2",
+        "pages": "861–915",
+        "doi": "10.1093/qje/qjs073",
+        "url": "https://doi.org/10.1093/qje/qjs073",
         "verified": true,
         "note": ""
       }
@@ -12390,6 +12665,24 @@
         "url": "https://doi.org/10.1086/732516",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12482,6 +12775,24 @@
         "pages": "102550",
         "doi": "10.1016/j.jeem.2021.102550",
         "url": "https://doi.org/10.1016/j.jeem.2021.102550",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
         "verified": true,
         "note": ""
       }
@@ -12756,6 +13067,22 @@
         "pages": "1986–2012",
         "doi": "10.1111/j.1468-0297.2008.02199.x",
         "url": "https://doi.org/10.1111/j.1468-0297.2008.02199.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Proximity and Investment: Evidence from Plant-Level Data",
+        "title": "Proximity and Investment: Evidence from Plant-Level Data",
+        "authors": [
+          "Xavier Giroud"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "2",
+        "pages": "861–915",
+        "doi": "10.1093/qje/qjs073",
+        "url": "https://doi.org/10.1093/qje/qjs073",
         "verified": true,
         "note": ""
       }
@@ -13067,6 +13394,24 @@
         "pages": "385–404",
         "doi": "10.1016/j.jue.2007.12.002",
         "url": "https://doi.org/10.1016/j.jue.2007.12.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "title": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "authors": [
+          "Atif Mian",
+          "Kamalesh Rao",
+          "Amir Sufi"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1687–1726",
+        "doi": "10.1093/qje/qjt020",
+        "url": "https://doi.org/10.1093/qje/qjt020",
         "verified": true,
         "note": ""
       }
@@ -13712,6 +14057,24 @@
         "url": "https://doi.org/10.3368/jhr.47.3.826",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14033,6 +14396,22 @@
         "pages": "1025–1058",
         "doi": "10.1111/j.1542-4774.2012.01075.x",
         "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Proximity and Investment: Evidence from Plant-Level Data",
+        "title": "Proximity and Investment: Evidence from Plant-Level Data",
+        "authors": [
+          "Xavier Giroud"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "2",
+        "pages": "861–915",
+        "doi": "10.1093/qje/qjs073",
+        "url": "https://doi.org/10.1093/qje/qjs073",
         "verified": true,
         "note": ""
       }
@@ -14485,6 +14864,61 @@
         "pages": "41–60",
         "doi": "10.1017/S0022050700010251",
         "url": "https://doi.org/10.1017/S0022050700010251",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Collateralizability Premium",
+        "title": "The Collateralizability Premium",
+        "authors": [
+          "Hengjie Ai",
+          "Jun E. Li",
+          "Kai Li",
+          "Christian Schlag"
+        ],
+        "year": 2020,
+        "journal": "The Review of Financial Studies",
+        "volume": "33",
+        "issue": "12",
+        "pages": "5821–5855",
+        "doi": "10.1093/rfs/hhaa063",
+        "url": "https://doi.org/10.1093/rfs/hhaa063",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices and Consumer Spending",
+        "title": "House Prices and Consumer Spending",
+        "authors": [
+          "David Berger",
+          "Veronica Guerrieri",
+          "Guido Lorenzoni",
+          "Joseph Vavra"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economic Studies",
+        "volume": "85",
+        "issue": "3",
+        "pages": "1502–1542",
+        "doi": "10.1093/restud/rdx060",
+        "url": "https://doi.org/10.1093/restud/rdx060",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The \"Life Cycle\" Hypothesis of Saving: Aggregate Implications and Tests",
+        "title": "The \"Life Cycle\" Hypothesis of Saving: Aggregate Implications and Tests",
+        "authors": [
+          "Albert Ando",
+          "Franco Modigliani"
+        ],
+        "year": 1963,
+        "journal": "American Economic Review",
+        "volume": "53",
+        "issue": "1",
+        "pages": "55–84",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/1823892",
         "verified": true,
         "note": ""
       }
@@ -15380,6 +15814,24 @@
         "url": "https://doi.org/10.1162/rest_a_01575",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15849,6 +16301,42 @@
         "url": "https://doi.org/10.1257/aer.20151326",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "title": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "authors": [
+          "Atif Mian",
+          "Kamalesh Rao",
+          "Amir Sufi"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1687–1726",
+        "doi": "10.1093/qje/qjt020",
+        "url": "https://doi.org/10.1093/qje/qjt020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15986,6 +16474,23 @@
         "pages": "672–701",
         "doi": "10.1111/jeea.12071",
         "url": "https://doi.org/10.1111/jeea.12071",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Sensitivity of Consumption to Transitory Income: Estimates from Panel Data on Households",
+        "title": "The Sensitivity of Consumption to Transitory Income: Estimates from Panel Data on Households",
+        "authors": [
+          "Robert E. Hall",
+          "Frederic S. Mishkin"
+        ],
+        "year": 1982,
+        "journal": "Econometrica",
+        "volume": "50",
+        "issue": "2",
+        "pages": "461–481",
+        "doi": "10.2307/1912638",
+        "url": "https://doi.org/10.2307/1912638",
         "verified": true,
         "note": ""
       }
@@ -16550,6 +17055,24 @@
         "pages": "908–932",
         "doi": "10.1016/j.jfineco.2021.06.035",
         "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "title": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "authors": [
+          "Atif Mian",
+          "Kamalesh Rao",
+          "Amir Sufi"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1687–1726",
+        "doi": "10.1093/qje/qjt020",
+        "url": "https://doi.org/10.1093/qje/qjt020",
         "verified": true,
         "note": ""
       }
@@ -35691,6 +36214,24 @@
         "url": "https://doi.org/10.1086/732516",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "title": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "authors": [
+          "Atif Mian",
+          "Kamalesh Rao",
+          "Amir Sufi"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1687–1726",
+        "doi": "10.1093/qje/qjt020",
+        "url": "https://doi.org/10.1093/qje/qjt020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -35863,6 +36404,43 @@
         "pages": "S65–S94",
         "doi": "10.1086/701188",
         "url": "https://doi.org/10.1086/701188",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.9.16",
+    "title": "BTS 航空航段与市场数据（T-100）",
+    "links": [
+      {
+        "label": "BTS TranStats: T-100",
+        "url": "https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FIM"
+      }
+    ],
+    "summary": "美国交通统计局根据航空公司 41 号表（Form 41）报送整理的国内和国际航班航段及市场统计，记录每对机场间每月的航班数、座位数、客运量、货运量和航程，1990 年起免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "T-100 数据由美国交通部交通统计局（BTS）发布，来自美国和外国航空公司按月报送的 Form 41 第 T-100 表，分为航段（Segment）和市场（Market）两类：航段数据记录每家航空公司在每对机场间每月的计划和实际执飞航班数、可用座位、旅客、货物和邮件运量、机型和飞行时间；市场数据按起止机场记录旅客和货运量。国内数据从 1990 年开始，之前的航段数据（ER-586 表）由民用航空委员会收集。数据在 BTS TranStats 网站免费下载。\n\n数据常用于研究航空网络和地区间联系，例如以新开直飞航线缩短公司总部与工厂之间的出行时间，研究总部监管便利程度对工厂投资和生产率的影响，或研究航空市场竞争与票价。只覆盖商业航空公司，不含公务机和通用航空。",
+    "source": "BTS TranStats 免费下载。",
+    "references": [
+      {
+        "raw": "Proximity and Investment: Evidence from Plant-Level Data",
+        "title": "Proximity and Investment: Evidence from Plant-Level Data",
+        "authors": [
+          "Xavier Giroud"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "2",
+        "pages": "861–915",
+        "doi": "10.1093/qje/qjs073",
+        "url": "https://doi.org/10.1093/qje/qjs073",
         "verified": true,
         "note": ""
       }
@@ -37195,6 +37773,24 @@
         "url": "https://doi.org/10.1257/pol.20200378",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Home Price Expectations and Spending: Evidence from a Field Experiment",
+        "title": "Home Price Expectations and Spending: Evidence from a Field Experiment",
+        "authors": [
+          "Felix Chopra",
+          "Christopher Roth",
+          "Johannes Wohlfart"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "7",
+        "pages": "2267–2305",
+        "doi": "10.1257/aer.20240022",
+        "url": "https://doi.org/10.1257/aer.20240022",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37431,6 +38027,40 @@
         "pages": "5–53",
         "doi": "10.1111/jofi.12740",
         "url": "https://doi.org/10.1111/jofi.12740",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "title": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "authors": [
+          "Atif Mian",
+          "Kamalesh Rao",
+          "Amir Sufi"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1687–1726",
+        "doi": "10.1093/qje/qjt020",
+        "url": "https://doi.org/10.1093/qje/qjt020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Wealth and Consumption: Evidence from Geographically-Linked Microdata",
+        "title": "Housing Wealth and Consumption: Evidence from Geographically-Linked Microdata",
+        "authors": [
+          "Aditya Aladangady"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "11",
+        "pages": "3415–3446",
+        "doi": "10.1257/aer.20150491",
+        "url": "https://doi.org/10.1257/aer.20150491",
         "verified": true,
         "note": ""
       }
@@ -37735,6 +38365,22 @@
         "url": "https://doi.org/10.1086/522381",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "title": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "authors": [
+          "Hoai-Luu Q. Nguyen"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "1–32",
+        "doi": "10.1257/app.20170543",
+        "url": "https://doi.org/10.1257/app.20170543",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37777,6 +38423,22 @@
         "pages": "",
         "doi": "",
         "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4674279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Wealth and Consumption: Evidence from Geographically-Linked Microdata",
+        "title": "Housing Wealth and Consumption: Evidence from Geographically-Linked Microdata",
+        "authors": [
+          "Aditya Aladangady"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "11",
+        "pages": "3415–3446",
+        "doi": "10.1257/aer.20150491",
+        "url": "https://doi.org/10.1257/aer.20150491",
         "verified": true,
         "note": ""
       }
@@ -37926,6 +38588,25 @@
         "pages": "2381–2409",
         "doi": "10.1257/aer.102.6.2381",
         "url": "https://doi.org/10.1257/aer.102.6.2381",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices and Consumer Spending",
+        "title": "House Prices and Consumer Spending",
+        "authors": [
+          "David Berger",
+          "Veronica Guerrieri",
+          "Guido Lorenzoni",
+          "Joseph Vavra"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economic Studies",
+        "volume": "85",
+        "issue": "3",
+        "pages": "1502–1542",
+        "doi": "10.1093/restud/rdx060",
+        "url": "https://doi.org/10.1093/restud/rdx060",
         "verified": true,
         "note": ""
       }
@@ -39746,6 +40427,61 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Exports and Multinational Activity Under Credit Constraints",
+        "title": "Firm Exports and Multinational Activity Under Credit Constraints",
+        "authors": [
+          "Kalina Manova",
+          "Shang-Jin Wei",
+          "Zhiwei Zhang"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "97",
+        "issue": "3",
+        "pages": "574–588",
+        "doi": "10.1162/rest_a_00480",
+        "url": "https://doi.org/10.1162/rest_a_00480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Collateralizability Premium",
+        "title": "The Collateralizability Premium",
+        "authors": [
+          "Hengjie Ai",
+          "Jun E. Li",
+          "Kai Li",
+          "Christian Schlag"
+        ],
+        "year": 2020,
+        "journal": "The Review of Financial Studies",
+        "volume": "33",
+        "issue": "12",
+        "pages": "5821–5855",
+        "doi": "10.1093/rfs/hhaa063",
+        "url": "https://doi.org/10.1093/rfs/hhaa063",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial constraints, cash flow timing patterns, and asset prices",
+        "title": "Financial constraints, cash flow timing patterns, and asset prices",
+        "authors": [
+          "Weiping Hu",
+          "Kai Li",
+          "Xiao Zhang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "157",
+        "issue": "",
+        "pages": "103855",
+        "doi": "10.1016/j.jfineco.2024.103855",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103855",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39835,6 +40571,61 @@
         "pages": "3386–3430",
         "doi": "10.1093/rfs/hhae042",
         "url": "https://doi.org/10.1093/rfs/hhae042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Collateralizability Premium",
+        "title": "The Collateralizability Premium",
+        "authors": [
+          "Hengjie Ai",
+          "Jun E. Li",
+          "Kai Li",
+          "Christian Schlag"
+        ],
+        "year": 2020,
+        "journal": "The Review of Financial Studies",
+        "volume": "33",
+        "issue": "12",
+        "pages": "5821–5855",
+        "doi": "10.1093/rfs/hhaa063",
+        "url": "https://doi.org/10.1093/rfs/hhaa063",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial constraints, cash flow timing patterns, and asset prices",
+        "title": "Financial constraints, cash flow timing patterns, and asset prices",
+        "authors": [
+          "Weiping Hu",
+          "Kai Li",
+          "Xiao Zhang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "157",
+        "issue": "",
+        "pages": "103855",
+        "doi": "10.1016/j.jfineco.2024.103855",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103855",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
         "verified": true,
         "note": ""
       }
@@ -40050,6 +40841,43 @@
         "url": "https://doi.org/10.1093/rfs/hhae042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Collateralizability Premium",
+        "title": "The Collateralizability Premium",
+        "authors": [
+          "Hengjie Ai",
+          "Jun E. Li",
+          "Kai Li",
+          "Christian Schlag"
+        ],
+        "year": 2020,
+        "journal": "The Review of Financial Studies",
+        "volume": "33",
+        "issue": "12",
+        "pages": "5821–5855",
+        "doi": "10.1093/rfs/hhaa063",
+        "url": "https://doi.org/10.1093/rfs/hhaa063",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial constraints, cash flow timing patterns, and asset prices",
+        "title": "Financial constraints, cash flow timing patterns, and asset prices",
+        "authors": [
+          "Weiping Hu",
+          "Kai Li",
+          "Xiao Zhang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "157",
+        "issue": "",
+        "pages": "103855",
+        "doi": "10.1016/j.jfineco.2024.103855",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103855",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40134,6 +40962,22 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "title": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "authors": [
+          "Hoai-Luu Q. Nguyen"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "1–32",
+        "doi": "10.1257/app.20170543",
+        "url": "https://doi.org/10.1257/app.20170543",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40171,6 +41015,22 @@
         "pages": "5–53",
         "doi": "10.1111/jofi.12740",
         "url": "https://doi.org/10.1111/jofi.12740",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "title": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "authors": [
+          "Hoai-Luu Q. Nguyen"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "1–32",
+        "doi": "10.1257/app.20170543",
+        "url": "https://doi.org/10.1257/app.20170543",
         "verified": true,
         "note": ""
       }
@@ -40252,6 +41112,203 @@
         "pages": "908–932",
         "doi": "10.1016/j.jfineco.2021.06.035",
         "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.28",
+    "title": "FDIC 银行机构与分支数据（存款摘要 SOD、BankFind 机构变动记录）",
+    "links": [
+      {
+        "label": "FDIC BankFind Suite: Summary of Deposits",
+        "url": "https://banks.data.fdic.gov/bankfind-suite/SOD"
+      },
+      {
+        "label": "FDIC Data Tools",
+        "url": "https://www.fdic.gov/resources/data-tools"
+      }
+    ],
+    "summary": "美国联邦存款保险公司发布的全部受保银行分支机构年度存款数据（Summary of Deposits，1994 年起）以及银行设立、并购、分支开设和关闭的历史记录，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "存款摘要（Summary of Deposits，SOD）是联邦存款保险公司（FDIC）对所有受保存款机构每年 6 月 30 日分支机构存款的调查，1994 年起记录每个分支网点的地址和坐标、所属银行和控股公司、网点类型及存款余额；BankFind Suite 同时提供每家机构的历史沿革和结构变动记录（Report of Changes / Institution History），包括银行设立、合并收购、分支开设、关闭和迁址的日期。两者均在 FDIC 网站免费检索和批量下载。\n\n数据常用于研究银行网点布局和地方信贷市场，例如利用银行并购后分支关闭作为冲击，研究网点关闭对周边小企业贷款和就业的影响，或衡量各县银行市场集中度。SOD 只记录存款而非贷款，且存款按网点登记位置归属，可能与实际客户地理分布不一致。",
+    "source": "FDIC 网站免费下载。",
+    "references": [
+      {
+        "raw": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "title": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "authors": [
+          "Hoai-Luu Q. Nguyen"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "1–32",
+        "doi": "10.1257/app.20170543",
+        "url": "https://doi.org/10.1257/app.20170543",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.29",
+    "title": "SBA 7(a) 与 504 贷款 FOIA 数据",
+    "links": [
+      {
+        "label": "SBA: 7(a) & 504 FOIA",
+        "url": "https://data.sba.gov/dataset/7a-504-foia"
+      }
+    ],
+    "summary": "美国小企业管理局依据信息公开法发布的 7(a) 和 504 担保贷款逐笔数据，1991 年起，记录借款企业、地址、行业、贷款金额、担保比例、贷款银行和违约核销情况。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "7(a) 贷款计划是小企业管理局（SBA）最主要的小企业贷款担保项目，504 计划为固定资产融资提供担保。SBA 依据信息公开法（FOIA）在数据门户发布 1991 财年以来的逐笔贷款记录，包括借款企业名称和地址、NAICS 行业、企业类型、批准日期、贷款总额和 SBA 担保金额、期限、发放贷款的银行及其地址、贷款状态（正常、还清、核销）和核销金额，免费下载。\n\n数据常用于研究小企业信贷，例如衡量各地区小企业对 SBA 担保贷款的依赖，研究银行网点关闭或银行冲击对小企业信贷供给的影响，或评估担保政策的效果。只覆盖 SBA 担保贷款，不代表全部小企业信贷。",
+    "source": "SBA 数据门户免费下载。",
+    "references": [
+      {
+        "raw": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "title": "Are Credit Markets Still Local? Evidence from Bank Branch Closings",
+        "authors": [
+          "Hoai-Luu Q. Nguyen"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "1–32",
+        "doi": "10.1257/app.20170543",
+        "url": "https://doi.org/10.1257/app.20170543",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.30",
+    "title": "美联储美国金融账户（Financial Accounts of the United States，Z.1 资金流量表）",
+    "links": [
+      {
+        "label": "Federal Reserve: Z.1 Financial Accounts",
+        "url": "https://www.federalreserve.gov/releases/z1/"
+      }
+    ],
+    "summary": "美联储理事会按季度发布的美国资金流量和部门资产负债表统计（Z.1），1945 年起，记录家庭、企业、政府、金融机构和国外部门的金融资产、负债、净值和资金流动。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "区域经济数据"
+    ],
+    "introduction": "美国金融账户（原资金流量账户，Flow of Funds Accounts）由美联储理事会编制，按季度发布（统计公报 Z.1），记录家庭和非营利机构、非金融企业、联邦和州地方政府、各类金融机构及国外部门的金融资产与负债存量、交易流量、重估值和其他变动，以及家庭和企业的资产负债表与净值（含房地产和股权），年度数据回溯至 1945 年；另有分布式金融账户（DFA）按收入和财富分组拆分家庭财富。数据在美联储网站和 FRED 免费下载。\n\n数据常用于研究家庭财富和信贷周期，例如计算家庭杠杆率和股票、住房财富占比，研究 2006—2009 年家庭资产负债表恶化对消费的影响，或校准宏观金融模型。部门划分中家庭部门包括非营利机构，部分项目为余额推算。",
+    "source": "美联储网站免费下载。",
+    "references": [
+      {
+        "raw": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "title": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "authors": [
+          "Atif Mian",
+          "Kamalesh Rao",
+          "Amir Sufi"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1687–1726",
+        "doi": "10.1093/qje/qjt020",
+        "url": "https://doi.org/10.1093/qje/qjt020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "title": "Stock Market Wealth and the Real Economy: A Local Labor Market Approach",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Plamen T. Nenov",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "5",
+        "pages": "1613–1657",
+        "doi": "10.1257/aer.20200208",
+        "url": "https://doi.org/10.1257/aer.20200208",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.31",
+    "title": "Equifax 消费者信贷数据（含纽约联储消费者信用面板 CCP）",
+    "links": [
+      {
+        "label": "New York Fed: Household Debt and Credit",
+        "url": "https://www.newyorkfed.org/microeconomics/hhdc"
+      },
+      {
+        "label": "Equifax",
+        "url": "https://www.equifax.com/business/"
+      }
+    ],
+    "summary": "美国三大征信机构之一 Equifax 的个人信用报告数据，以及纽约联储基于 Equifax 构建的 5% 匿名个人信用面板（CCP，1999 年起），记录抵押贷款、信用卡、车贷、学生贷款的余额和还款状态。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观调查数据"
+    ],
+    "introduction": "Equifax 是美国三大消费者征信机构之一，其信用报告记录个人名下每一笔信贷账户的类型、额度、余额、还款状态、逾期和催收、破产、查询记录及信用评分。纽约联储与 Equifax 合作构建的消费者信用面板（New York Fed Consumer Credit Panel，CCP）自 1999 年起每季度抽取所有有信用记录个人的 5% 随机样本及其同住家庭成员，提供匿名化的个人信贷面板，纽约联储据此发布《家庭债务与信贷报告》；微观数据只供美联储研究人员及合作者使用。Equifax 也向研究者出售按邮编或县汇总的信贷数据和分析产品；CFPB 另有类似的消费者信用面板（基于另一家征信机构）。\n\n数据常用于研究家庭债务，例如构建各县 2006 年家庭债务收入比，研究房价下跌通过家庭资产负债表影响消费，或研究抵押贷款违约和信用卡借贷行为。征信数据不含收入和资产信息，需与其他数据结合。",
+    "source": "汇总报告免费；微观数据经美联储合作或向 Equifax 付费获取。",
+    "references": [
+      {
+        "raw": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "title": "Household Balance Sheets, Consumption, and the Economic Slump",
+        "authors": [
+          "Atif Mian",
+          "Kamalesh Rao",
+          "Amir Sufi"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "4",
+        "pages": "1687–1726",
+        "doi": "10.1093/qje/qjt020",
+        "url": "https://doi.org/10.1093/qje/qjt020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Wealth and Consumption: Evidence from Geographically-Linked Microdata",
+        "title": "Housing Wealth and Consumption: Evidence from Geographically-Linked Microdata",
+        "authors": [
+          "Aditya Aladangady"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "11",
+        "pages": "3415–3446",
+        "doi": "10.1257/aer.20150491",
+        "url": "https://doi.org/10.1257/aer.20150491",
         "verified": true,
         "note": ""
       }
@@ -40348,6 +41405,24 @@
         "pages": "2537–2577",
         "doi": "10.1093/restud/rdae090",
         "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Home Price Expectations and Spending: Evidence from a Field Experiment",
+        "title": "Home Price Expectations and Spending: Evidence from a Field Experiment",
+        "authors": [
+          "Felix Chopra",
+          "Christopher Roth",
+          "Johannes Wohlfart"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "7",
+        "pages": "2267–2305",
+        "doi": "10.1257/aer.20240022",
+        "url": "https://doi.org/10.1257/aer.20240022",
         "verified": true,
         "note": ""
       }
@@ -44412,6 +45487,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w31221",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Response of Expenditures to Anticipated Income Changes: Panel Data Estimates",
+        "title": "The Response of Expenditures to Anticipated Income Changes: Panel Data Estimates",
+        "authors": [
+          "Martin Browning",
+          "M. Dolores Collado"
+        ],
+        "year": 2001,
+        "journal": "American Economic Review",
+        "volume": "91",
+        "issue": "3",
+        "pages": "681–692",
+        "doi": "10.1257/aer.91.3.681",
+        "url": "https://doi.org/10.1257/aer.91.3.681",
         "verified": true,
         "note": ""
       }
@@ -59420,6 +60512,26 @@
         "url": "https://doi.org/10.1257/aer.104.8.2482",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Small firms and the pandemic: Evidence from Latin America",
+        "title": "Small firms and the pandemic: Evidence from Latin America",
+        "authors": [
+          "Maria Elena Guerrero-Amezaga",
+          "John Eric Humphries",
+          "Christopher A. Neilson",
+          "Naomi Shimberg",
+          "Gabriel Ulyssea"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "155",
+        "issue": "",
+        "pages": "102775",
+        "doi": "10.1016/j.jdeveco.2021.102775",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102775",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59614,6 +60726,23 @@
         "pages": "1145–1197",
         "doi": "10.1093/jeea/jvab054",
         "url": "https://doi.org/10.1093/jeea/jvab054",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Are Saving Rates of Urban Households in China Rising?",
+        "title": "Why Are Saving Rates of Urban Households in China Rising?",
+        "authors": [
+          "Marcos D. Chamon",
+          "Eswar S. Prasad"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "1",
+        "pages": "93–130",
+        "doi": "10.1257/mac.2.1.93",
+        "url": "https://doi.org/10.1257/mac.2.1.93",
         "verified": true,
         "note": ""
       }
@@ -69001,6 +70130,26 @@
         "url": "https://doi.org/10.1093/restud/rdad058",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Small firms and the pandemic: Evidence from Latin America",
+        "title": "Small firms and the pandemic: Evidence from Latin America",
+        "authors": [
+          "Maria Elena Guerrero-Amezaga",
+          "John Eric Humphries",
+          "Christopher A. Neilson",
+          "Naomi Shimberg",
+          "Gabriel Ulyssea"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "155",
+        "issue": "",
+        "pages": "102775",
+        "doi": "10.1016/j.jdeveco.2021.102775",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102775",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69052,6 +70201,47 @@
         "pages": "1025–1058",
         "doi": "10.1111/j.1542-4774.2012.01075.x",
         "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.6",
+    "title": "人类死亡率数据库（Human Mortality Database，HMD）",
+    "links": [
+      {
+        "label": "Human Mortality Database",
+        "url": "https://www.mortality.org/"
+      }
+    ],
+    "summary": "加州大学伯克利分校与马克斯·普朗克人口研究所联合维护的约 40 个国家和地区分年龄、性别的死亡率和生命表数据库，部分国家从 18 世纪开始，另有短期死亡率波动（STMF）周度数据，注册后免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "人类死亡率数据库（HMD）由加州大学伯克利分校和德国马克斯·普朗克人口研究所共同维护，依据各国出生、死亡登记和人口普查数据，以统一方法计算约 40 个国家和地区的分年龄、性别和年份的死亡人数、暴露人口、死亡率、生命表和预期寿命，瑞典等国数据从 1751 年开始；2020 年起新增短期死亡率波动（STMF）系列，提供各国周度死亡人数，用于计算新冠疫情期间的超额死亡。数据注册后免费下载。世界死亡率数据集（World Mortality Dataset，Karlinsky 和 Kobak）在此基础上覆盖了更多国家的超额死亡。\n\n数据常用于人口学和健康经济学研究，例如计算疫情期间各国的超额死亡率，或研究长期死亡率下降和预期寿命变化。只覆盖登记质量高的国家，以高收入国家为主。",
+    "source": "注册后免费下载。",
+    "references": [
+      {
+        "raw": "Small firms and the pandemic: Evidence from Latin America",
+        "title": "Small firms and the pandemic: Evidence from Latin America",
+        "authors": [
+          "Maria Elena Guerrero-Amezaga",
+          "John Eric Humphries",
+          "Christopher A. Neilson",
+          "Naomi Shimberg",
+          "Gabriel Ulyssea"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "155",
+        "issue": "",
+        "pages": "102775",
+        "doi": "10.1016/j.jdeveco.2021.102775",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102775",
         "verified": true,
         "note": ""
       }
@@ -70111,6 +71301,46 @@
     ]
   },
   {
+    "id": "7.10.17",
+    "title": "世界银行营商环境报告数据（Doing Business）",
+    "links": [
+      {
+        "label": "World Bank Doing Business archive",
+        "url": "https://archive.doingbusiness.org/en/doingbusiness"
+      }
+    ],
+    "summary": "世界银行 2003—2020 年发布的 190 个经济体营商监管指标，涵盖开办企业、办理施工许可、获得信贷、跨境贸易、执行合同和办理破产等方面的时间、成本和程序，2021 年停止发布，历史数据存档免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据",
+      "商业数据"
+    ],
+    "introduction": "营商环境报告（Doing Business）由世界银行自 2003 年起每年发布，以各国最大商业城市的标准化案例为基础，衡量企业在开办企业、办理施工许可、获得电力、登记财产、获得信贷、保护少数投资者、纳税、跨境贸易（出口和进口所需的时间、文件和成本）、执行合同和办理破产等十个方面所需的程序、时间和成本，并汇总为便利度排名。2021 年因数据违规问题停止发布，历史数据在存档网站免费下载，后续由 B-READY 项目接替。\n\n数据常用于衡量各国制度和监管环境，例如用跨境贸易所需时间衡量出口固定成本，研究信贷约束和贸易成本对企业出口和跨国经营的影响。指标基于标准化假设案例和专家问卷，不一定反映实际企业的经历，部分年份存在被操纵的争议。",
+    "source": "存档网站免费下载。",
+    "references": [
+      {
+        "raw": "Firm Exports and Multinational Activity Under Credit Constraints",
+        "title": "Firm Exports and Multinational Activity Under Credit Constraints",
+        "authors": [
+          "Kalina Manova",
+          "Shang-Jin Wei",
+          "Zhiwei Zhang"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "97",
+        "issue": "3",
+        "pages": "574–588",
+        "doi": "10.1162/rest_a_00480",
+        "url": "https://doi.org/10.1162/rest_a_00480",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.12.1",
     "title": "Bloomberg 金融市场数据",
     "links": [
@@ -70768,6 +71998,23 @@
         "pages": "1243–1290",
         "doi": "10.1093/restud/rdad058",
         "url": "https://doi.org/10.1093/restud/rdad058",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Are Saving Rates of Urban Households in China Rising?",
+        "title": "Why Are Saving Rates of Urban Households in China Rising?",
+        "authors": [
+          "Marcos D. Chamon",
+          "Eswar S. Prasad"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "1",
+        "pages": "93–130",
+        "doi": "10.1257/mac.2.1.93",
+        "url": "https://doi.org/10.1257/mac.2.1.93",
         "verified": true,
         "note": ""
       }
@@ -73262,6 +74509,24 @@
         "pages": "831–886",
         "doi": "10.1093/qje/qjaa042",
         "url": "https://doi.org/10.1093/qje/qjaa042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Exports and Multinational Activity Under Credit Constraints",
+        "title": "Firm Exports and Multinational Activity Under Credit Constraints",
+        "authors": [
+          "Kalina Manova",
+          "Shang-Jin Wei",
+          "Zhiwei Zhang"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "97",
+        "issue": "3",
+        "pages": "574–588",
+        "doi": "10.1162/rest_a_00480",
+        "url": "https://doi.org/10.1162/rest_a_00480",
         "verified": true,
         "note": ""
       }
