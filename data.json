@@ -4315,6 +4315,25 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103581",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Digital Distractions with Peer Influence: The Impact of Mobile App Usage on Academic and Labor Market Outcomes",
+        "title": "Digital Distractions with Peer Influence: The Impact of Mobile App Usage on Academic and Labor Market Outcomes",
+        "authors": [
+          "Panle Jia Barwick",
+          "Siyu Chen",
+          "Chao Fu",
+          "Teng Li"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "1",
+        "pages": "1–49",
+        "doi": "10.1093/qje/qjaf048",
+        "url": "https://doi.org/10.1093/qje/qjaf048",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5766,6 +5785,40 @@
         "url": "https://doi.org/10.1257/app.2.3.129",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Preschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study",
+        "title": "Preschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2008,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "123",
+        "issue": "1",
+        "pages": "279–323",
+        "doi": "10.1162/qjec.2008.123.1.279",
+        "url": "https://doi.org/10.1162/qjec.2008.123.1.279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "title": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "authors": [
+          "Melissa S. Kearney",
+          "Phillip B. Levine"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "318–350",
+        "doi": "10.1257/app.20170300",
+        "url": "https://doi.org/10.1257/app.20170300",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6283,6 +6336,23 @@
         "pages": "1–14",
         "doi": "10.1016/j.jeem.2008.08.004",
         "url": "https://doi.org/10.1016/j.jeem.2008.08.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "title": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "authors": [
+          "Melissa S. Kearney",
+          "Phillip B. Levine"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "318–350",
+        "doi": "10.1257/app.20170300",
+        "url": "https://doi.org/10.1257/app.20170300",
         "verified": true,
         "note": ""
       }
@@ -8479,6 +8549,23 @@
         "url": "https://doi.org/10.1016/j.jue.2014.01.005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "title": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "authors": [
+          "Melissa S. Kearney",
+          "Phillip B. Levine"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "318–350",
+        "doi": "10.1257/app.20170300",
+        "url": "https://doi.org/10.1257/app.20170300",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8648,6 +8735,22 @@
         "url": "https://doi.org/10.1257/app.20200447",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+        "title": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+        "authors": [
+          "Michel Grosz"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "1",
+        "pages": "226–253",
+        "doi": "10.1257/pol.20170506",
+        "url": "https://doi.org/10.1257/pol.20170506",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8688,6 +8791,44 @@
         "pages": "778–806",
         "doi": "10.1257/aer.20141757",
         "url": "https://doi.org/10.1257/aer.20141757",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.27",
+    "title": "职业就业与工资统计（Occupational Employment and Wage Statistics，OEWS / OES）",
+    "links": [
+      {
+        "label": "BLS OEWS",
+        "url": "https://www.bls.gov/oes/"
+      }
+    ],
+    "summary": "美国劳工统计局对约 110 万个企业单位的半年度调查，发布约 800 个职业在全国、州、都市区和行业层面的就业人数和工资分布。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "区域经济数据"
+    ],
+    "introduction": "职业就业与工资统计（OEWS，2021 年前称 OES）由美国劳工统计局（BLS）与各州劳动部门合作开展，每半年调查约 18 万个非农企业单位，三年滚动形成约 110 万个单位的样本，按标准职业分类（SOC）统计各职业的就业人数、平均工资和工资分位数，发布全国、州、都市区和非都市区以及按 NAICS 行业的估计，1997 年起统一口径。数据在 BLS 网站免费下载。\n\n数据常用于获取职业层面的工资和就业结构，例如用注册护士等职业的地区工资估计社区学院职业项目的预期回报。三年滚动样本不适合做逐年时间序列比较，自雇者不在调查范围内。",
+    "source": "BLS 网站免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+        "title": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+        "authors": [
+          "Michel Grosz"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "1",
+        "pages": "226–253",
+        "doi": "10.1257/pol.20170506",
+        "url": "https://doi.org/10.1257/pol.20170506",
         "verified": true,
         "note": ""
       }
@@ -11180,6 +11321,24 @@
         "pages": "105–155",
         "doi": "10.1257/app.20170487",
         "url": "https://doi.org/10.1257/app.20170487",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "title": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "authors": [
+          "Barbara Biasi",
+          "Julien M. Lafortune",
+          "David Schönholzer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2329–2379",
+        "doi": "10.1093/qje/qjaf013",
+        "url": "https://doi.org/10.1093/qje/qjaf013",
         "verified": true,
         "note": ""
       }
@@ -31330,6 +31489,24 @@
         "url": "https://doi.org/10.1086/660775",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "title": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "authors": [
+          "Barbara Biasi",
+          "Julien M. Lafortune",
+          "David Schönholzer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2329–2379",
+        "doi": "10.1093/qje/qjaf013",
+        "url": "https://doi.org/10.1093/qje/qjaf013",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32401,6 +32578,45 @@
     ]
   },
   {
+    "id": "2.12.11",
+    "title": "Mergent 市政债券数据库",
+    "links": [
+      {
+        "label": "FTSE Russell Municipal Bonds",
+        "url": "https://www.ftserussell.com/data/municipal-bonds"
+      }
+    ],
+    "summary": "Mergent（现属 FTSE Russell / LSEG）提供的美国市政债券发行信息数据库，记录发行主体、规模、期限、票息、评级、用途和赎回条款。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Mergent 市政债券数据库收录美国州、地方政府、学区和特别区等发行的市政债券，记录发行人、发行日期、发行规模、每期到期金额和票息、发行收益率、评级、债券用途、担保方式（一般责任或收益债）和赎回条款，可回溯到 1990 年代以前。Mergent 已被伦敦证券交易所集团收购，数据通过 FTSE Russell 和 Mergent 平台付费订阅，部分大学经 WRDS 等渠道提供。\n\n数据常用于研究地方政府融资和市政债券市场，例如核实学区债券公投通过后的实际发行情况和资金用途，研究学校基建投资的效果。数据库以发行信息为主，二级市场交易需结合 MSRB EMMA 数据。",
+    "source": "付费商业（FTSE Russell / Mergent 订阅）。",
+    "references": [
+      {
+        "raw": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "title": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "authors": [
+          "Barbara Biasi",
+          "Julien M. Lafortune",
+          "David Schönholzer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2329–2379",
+        "doi": "10.1093/qje/qjaf013",
+        "url": "https://doi.org/10.1093/qje/qjaf013",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.13.1",
     "title": "Nielsen 零售扫描数据",
     "links": [
@@ -32510,6 +32726,56 @@
         "pages": "539–578",
         "doi": "10.1086/684750",
         "url": "https://doi.org/10.1086/684750",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.4",
+    "title": "《电视与有线电视年鉴》（Television & Cable Factbook）",
+    "links": [],
+    "summary": "Warren Communications 自 1940 年代起出版的美国电视业年鉴，记录每座电视台的开播日期、频道、发射功率、天线高度和覆盖区域，以及有线电视系统信息。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "《Television Factbook》（后称 Television & Cable Factbook）由 Television Digest / Warren Communications 自 1945 年起逐年出版，收录美国每座商业和教育电视台的呼号、所在地、频道（VHF/UHF）、开播日期、网络附属关系、发射功率和天线高度，以及各市场的电视家庭数估计，后增加有线电视系统的覆盖社区和用户数。历史版本为印刷出版物，可在图书馆查阅，部分年份已由广播史数字档案扫描。\n\n数据常用于重建电视普及的时间和空间分布，例如用电视台开播时间和信号覆盖研究学前看电视对青少年考试成绩的影响，或用 UHF 信号覆盖研究《芝麻街》对儿童教育的影响。早期年份的覆盖区域需结合发射参数和地形模型估算。",
+    "source": "印刷出版物，图书馆或数字档案查阅。",
+    "references": [
+      {
+        "raw": "Preschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study",
+        "title": "Preschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2008,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "123",
+        "issue": "1",
+        "pages": "279–323",
+        "doi": "10.1162/qjec.2008.123.1.279",
+        "url": "https://doi.org/10.1162/qjec.2008.123.1.279",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "title": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "authors": [
+          "Melissa S. Kearney",
+          "Phillip B. Levine"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "318–350",
+        "doi": "10.1257/app.20170300",
+        "url": "https://doi.org/10.1257/app.20170300",
         "verified": true,
         "note": ""
       }
@@ -33669,6 +33935,24 @@
         "url": "https://www.nber.org/papers/w31553",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "title": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "authors": [
+          "Barbara Biasi",
+          "Julien M. Lafortune",
+          "David Schönholzer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2329–2379",
+        "doi": "10.1093/qje/qjaf013",
+        "url": "https://doi.org/10.1093/qje/qjaf013",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33725,6 +34009,24 @@
         "pages": "104586",
         "doi": "10.1016/j.jpubeco.2021.104586",
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "title": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "authors": [
+          "Barbara Biasi",
+          "Julien M. Lafortune",
+          "David Schönholzer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2329–2379",
+        "doi": "10.1093/qje/qjaf013",
+        "url": "https://doi.org/10.1093/qje/qjaf013",
         "verified": true,
         "note": ""
       }
@@ -33804,6 +34106,22 @@
         "pages": "1–40",
         "doi": "10.1086/261805",
         "url": "https://doi.org/10.1086/261805",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+        "title": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+        "authors": [
+          "Michel Grosz"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "1",
+        "pages": "226–253",
+        "doi": "10.1257/pol.20170506",
+        "url": "https://doi.org/10.1257/pol.20170506",
         "verified": true,
         "note": ""
       }
@@ -34545,6 +34863,23 @@
         "url": "https://doi.org/10.1257/app.2.3.129",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "title": "Early Childhood Education by Television: Lessons from Sesame Street",
+        "authors": [
+          "Melissa S. Kearney",
+          "Phillip B. Levine"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "1",
+        "pages": "318–350",
+        "doi": "10.1257/app.20170300",
+        "url": "https://doi.org/10.1257/app.20170300",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34585,6 +34920,25 @@
         "pages": "778–806",
         "doi": "10.1257/aer.20141757",
         "url": "https://doi.org/10.1257/aer.20141757",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Virtual Classrooms: How Online College Courses Affect Student Success",
+        "title": "Virtual Classrooms: How Online College Courses Affect Student Success",
+        "authors": [
+          "Eric P. Bettinger",
+          "Lindsay Fox",
+          "Susanna Loeb",
+          "Eric S. Taylor"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "9",
+        "pages": "2855–2875",
+        "doi": "10.1257/aer.20151193",
+        "url": "https://doi.org/10.1257/aer.20151193",
         "verified": true,
         "note": ""
       }
@@ -34643,6 +34997,24 @@
         "pages": "4075–4103",
         "doi": "10.1257/aer.20240669",
         "url": "https://doi.org/10.1257/aer.20240669",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Global Distribution of College Graduate Quality",
+        "title": "The Global Distribution of College Graduate Quality",
+        "authors": [
+          "Paolo Martellini",
+          "Todd Schoellman",
+          "Jason Sockin"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "2",
+        "pages": "434–483",
+        "doi": "10.1086/726234",
+        "url": "https://doi.org/10.1086/726234",
         "verified": true,
         "note": ""
       }
@@ -34987,6 +35359,179 @@
     ]
   },
   {
+    "id": "2.16.25",
+    "title": "教育机会平等调查（Equality of Educational Opportunity Survey，科尔曼报告数据）",
+    "links": [
+      {
+        "label": "ICPSR 6389",
+        "url": "https://www.icpsr.umich.edu/web/ICPSR/studies/6389"
+      }
+    ],
+    "summary": "1965 年美国教育办公室按《民权法案》要求开展的全国学校调查，覆盖约 60 万名学生和 4,000 所学校的考试成绩、家庭背景和学校资源，是《科尔曼报告》的数据基础。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "教育机会平等调查（EEO）由美国教育办公室在社会学家 James Coleman 主持下于 1965 年秋季实施，对一、三、六、九、十二年级约 60 万名学生进行语言、阅读和数学等标准化测试和问卷调查，并收集约 6 万名教师和 4,000 所学校校长的问卷，记录学生家庭背景（包括学前是否看电视等）、学校设施、师资和同学构成。1966 年发表的《科尔曼报告》据此得出家庭背景比学校资源更能解释成绩差异的结论。数据保存在 ICPSR（研究 6389），注册后可下载。\n\n数据常用于教育生产函数和学校效果的历史研究，例如结合各地电视开播时间研究学前看电视对青少年考试成绩的影响。原始数据存在编码和缺失问题，地理标识有限。",
+    "source": "ICPSR 注册下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Preschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study",
+        "title": "Preschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2008,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "123",
+        "issue": "1",
+        "pages": "279–323",
+        "doi": "10.1162/qjec.2008.123.1.279",
+        "url": "https://doi.org/10.1162/qjec.2008.123.1.279",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.26",
+    "title": "加州社区学院校长办公室数据（CCCCO Data Mart 与学生记录）",
+    "links": [
+      {
+        "label": "CCCCO Data Mart",
+        "url": "https://datamart.cccco.edu/"
+      }
+    ],
+    "summary": "加州社区学院系统 116 所学院的入学、课程、学位证书和学生成果统计，汇总数据在 Data Mart 免费查询，学生层面记录（可与州工资记录匹配）需申请。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "加州社区学院校长办公室（California Community Colleges Chancellor's Office，CCCCO）管理全美最大的高等教育系统，通过管理信息系统（MIS）收集各学院学生的人口特征、注册、选课和成绩、获得的副学士学位和证书、转学等记录，并与加州就业发展局（EDD）的失业保险工资记录匹配，用于衡量职业项目的就业和收入结果。按学院、学期和项目汇总的统计在 Data Mart 网站免费查询；学生层面数据需与 CCCCO 签订研究数据协议。\n\n数据常用于研究社区学院的作用，例如利用护理专业招生抽签研究社区学院职业项目的收入回报，或研究公共补贴对两年制院校市场的挤出效应。学生记录不含高中成绩，跨系统追踪需另行匹配。",
+    "source": "Data Mart 免费查询；学生层面数据需协议。",
+    "references": [
+      {
+        "raw": "Crowded Colleges and College Crowd-Out: The Impact of Public Subsidies on the Two-Year College Market",
+        "title": "Crowded Colleges and College Crowd-Out: The Impact of Public Subsidies on the Two-Year College Market",
+        "authors": [
+          "Stephanie Riegg Cellini"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "1",
+        "issue": "2",
+        "pages": "1–30",
+        "doi": "10.1257/pol.1.2.1",
+        "url": "https://doi.org/10.1257/pol.1.2.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+        "title": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+        "authors": [
+          "Michel Grosz"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "1",
+        "pages": "226–253",
+        "doi": "10.1257/pol.20170506",
+        "url": "https://doi.org/10.1257/pol.20170506",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.27",
+    "title": "康涅狄格州教育厅学校与学区数据（CSDE / EdSight）",
+    "links": [
+      {
+        "label": "CT EdSight",
+        "url": "https://edsight.ct.gov/"
+      },
+      {
+        "label": "CT State Department of Education",
+        "url": "https://portal.ct.gov/sde"
+      }
+    ],
+    "summary": "康涅狄格州教育厅发布的各学区和学校的入学人数、班级规模、学生构成和州统考成绩，现集中在 EdSight 数据门户。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "康涅狄格州教育厅（Connecticut State Department of Education，CSDE）长期按学校、年级统计入学人数和班级规模，并按学区公布康涅狄格掌握测验（CMT）、康涅狄格学业表现测验（CAPT）及现行 Smarter Balanced 考试的成绩；州政府还每年统计各镇学龄儿童数量。现行数据集中在 EdSight 门户，免费查询和下载，早期年份数据见州教育厅历年报告。\n\n数据常用于教育政策研究，例如利用各镇出生人数的随机波动造成的班级规模差异，估计班级规模对学生成绩的影响。早期年份数据需从历史报告中整理，与现行数据口径不同。",
+    "source": "EdSight 免费查询下载；早期数据见历史报告。",
+    "references": [
+      {
+        "raw": "The Effects of Class Size on Student Achievement: New Evidence from Population Variation",
+        "title": "The Effects of Class Size on Student Achievement: New Evidence from Population Variation",
+        "authors": [
+          "Caroline M. Hoxby"
+        ],
+        "year": 2000,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "115",
+        "issue": "4",
+        "pages": "1239–1285",
+        "doi": "10.1162/003355300555060",
+        "url": "https://doi.org/10.1162/003355300555060",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.28",
+    "title": "NCES 教育人口与地理估计（EDGE）学区边界与地理数据",
+    "links": [
+      {
+        "label": "NCES EDGE",
+        "url": "https://nces.ed.gov/programs/edge"
+      }
+    ],
+    "summary": "美国国家教育统计中心的教育地理项目，提供全国学区边界、学校地理坐标、学区层面的 ACS 人口统计和邻里贫困估计。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "地理数据"
+    ],
+    "introduction": "教育人口与地理估计项目（Education Demographic and Geographic Estimates，EDGE）由美国国家教育统计中心（NCES）与人口普查局合作，提供与教育统计配套的地理数据：基于人口普查局学区边界调查的历年学区边界矢量文件，公立和私立学校及高校的地理坐标，按学区重新汇总的美国社区调查（ACS）人口、收入和住房特征，以及学校邻里收入估计等。数据在 NCES 网站免费下载。\n\n数据常用于把学区和学校与其他地理数据连接，例如把房价指数和人口普查区特征汇总到学区层面，研究学校基建投资对房价和学生成绩的影响。学区边界每两年左右更新一次，年内变动可能没有反映。",
+    "source": "NCES 网站免费下载。",
+    "references": [
+      {
+        "raw": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "title": "What Works and for Whom? Effectiveness and Efficiency of School Capital Investments Across the U.S.",
+        "authors": [
+          "Barbara Biasi",
+          "Julien M. Lafortune",
+          "David Schönholzer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2329–2379",
+        "doi": "10.1093/qje/qjaf013",
+        "url": "https://doi.org/10.1093/qje/qjaf013",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -35077,6 +35622,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105491",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Political Legacy of Entertainment TV",
+        "title": "The Political Legacy of Entertainment TV",
+        "authors": [
+          "Ruben Durante",
+          "Paolo Pinotti",
+          "Andrea Tesei"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2497–2530",
+        "doi": "10.1257/aer.20150958",
+        "url": "https://doi.org/10.1257/aer.20150958",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -35156,6 +35719,24 @@
         "pages": "1057–1111",
         "doi": "10.1093/qje/qjw019",
         "url": "https://doi.org/10.1093/qje/qjw019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Television, Cognitive Ability, and High School Completion",
+        "title": "Television, Cognitive Ability, and High School Completion",
+        "authors": [
+          "Øystein Hernæs",
+          "Simen Markussen",
+          "Knut Røed"
+        ],
+        "year": 2017,
+        "journal": "Journal of Human Resources",
+        "volume": "54",
+        "issue": "2",
+        "pages": "371–400",
+        "doi": "10.3368/jhr.54.2.0316.7819r1",
+        "url": "https://doi.org/10.3368/jhr.54.2.0316.7819r1",
         "verified": true,
         "note": ""
       }
@@ -35704,6 +36285,43 @@
         "pages": "105167",
         "doi": "10.1016/j.jpubeco.2024.105167",
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105167",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.13",
+    "title": "英国家庭纵向研究（Understanding Society，UKHLS）",
+    "links": [
+      {
+        "label": "Understanding Society",
+        "url": "https://www.understandingsociety.ac.uk/"
+      }
+    ],
+    "summary": "英国约 4 万户家庭的年度追踪调查，2009 年起接续英国家庭面板调查（BHPS），记录收入、就业、教育、健康、家庭关系和时间使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "Understanding Society（UK Household Longitudinal Study，UKHLS）由埃塞克斯大学社会经济研究所主持、英国经济与社会研究理事会资助，2009 年起每年访问约 4 万户家庭的全部成员（10—15 岁儿童另有青少年问卷），并纳入 1991 年起的英国家庭面板调查（BHPS）样本。问卷涵盖收入和福利、就业、受教育程度、健康和幸福感、家庭构成、价值观和媒体使用等，部分波次附有生物标志物。标准版经 UK Data Service 注册免费下载，含详细地理标识（如 LSOA）的版本需特别许可或安全访问。\n\n数据常用于英国家庭和个人行为研究，例如利用数字电视转换时间差异研究儿童看电视时间与学业表现的关系。各波次专题模块轮换，部分变量不是每年都有。",
+    "source": "UK Data Service 注册免费下载；详细地理需特别许可（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Television and Academic Achievement: Evidence from the Digital Television Transition in the UK",
+        "title": "Television and Academic Achievement: Evidence from the Digital Television Transition in the UK",
+        "authors": [
+          "Adrián Nieto Castro"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "666",
+        "pages": "611–636",
+        "doi": "10.1093/ej/ueae091",
+        "url": "https://doi.org/10.1093/ej/ueae091",
         "verified": true,
         "note": ""
       }
@@ -36385,6 +37003,23 @@
         "url": "https://doi.org/10.1086/732801",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Healthy school meals and educational outcomes",
+        "title": "Healthy school meals and educational outcomes",
+        "authors": [
+          "Michèle Belot",
+          "Jonathan James"
+        ],
+        "year": 2011,
+        "journal": "Journal of Health Economics",
+        "volume": "30",
+        "issue": "3",
+        "pages": "489–504",
+        "doi": "10.1016/j.jhealeco.2011.02.003",
+        "url": "https://doi.org/10.1016/j.jhealeco.2011.02.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -36459,6 +37094,22 @@
         "pages": "983–1022",
         "doi": "10.1086/732801",
         "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Television and Academic Achievement: Evidence from the Digital Television Transition in the UK",
+        "title": "Television and Academic Achievement: Evidence from the Digital Television Transition in the UK",
+        "authors": [
+          "Adrián Nieto Castro"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "666",
+        "pages": "611–636",
+        "doi": "10.1093/ej/ueae091",
+        "url": "https://doi.org/10.1093/ej/ueae091",
         "verified": true,
         "note": ""
       }
@@ -38791,6 +39442,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105491",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Political Legacy of Entertainment TV",
+        "title": "The Political Legacy of Entertainment TV",
+        "authors": [
+          "Ruben Durante",
+          "Paolo Pinotti",
+          "Andrea Tesei"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2497–2530",
+        "doi": "10.1257/aer.20150958",
+        "url": "https://doi.org/10.1257/aer.20150958",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38940,6 +39609,41 @@
         "pages": "104964",
         "doi": "10.1016/j.jpubeco.2023.104964",
         "url": "https://doi.org/10.1016/j.jpubeco.2023.104964",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.10.5",
+    "title": "意大利全国选举研究（ITANES）",
+    "links": [],
+    "summary": "意大利全国选举研究项目自 1968 年起在每次全国大选后开展的选民调查，记录投票选择、政治态度、媒体使用和社会经济特征。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据",
+      "微观调查数据"
+    ],
+    "introduction": "意大利全国选举研究（Italian National Election Studies，ITANES）由意大利多所大学的研究者组成，前身为 Cattaneo 研究所的选举调查，在每次众议院选举前后对全国代表性选民样本进行访问，记录投票选择、政党认同、对领导人的评价、政治知识、电视和报纸使用以及受教育程度等社会经济特征；Cattaneo 研究所还整理了基于选民名册抽样的投票率档案。数据可通过 ITANES 网站和意大利社会科学数据档案申请获取。\n\n数据常用于意大利政治行为研究，例如利用 Mediaset 商业电视信号覆盖的差异研究娱乐电视对选民认知能力和投票给民粹政党的长期影响。每次调查样本量约 2,000—3,000 人，市镇层面的分析精度有限。",
+    "source": "ITANES 网站申请获取。",
+    "references": [
+      {
+        "raw": "The Political Legacy of Entertainment TV",
+        "title": "The Political Legacy of Entertainment TV",
+        "authors": [
+          "Ruben Durante",
+          "Paolo Pinotti",
+          "Andrea Tesei"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2497–2530",
+        "doi": "10.1257/aer.20150958",
+        "url": "https://doi.org/10.1257/aer.20150958",
         "verified": true,
         "note": ""
       }
@@ -39143,6 +39847,64 @@
         "pages": "1289–1324",
         "doi": "10.1257/aer.103.4.1289",
         "url": "https://doi.org/10.1257/aer.103.4.1289",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.16.3",
+    "title": "英格兰国家学生数据库（NPD）与教育部学校统计",
+    "links": [
+      {
+        "label": "DfE National Pupil Database",
+        "url": "https://www.gov.uk/government/collections/national-pupil-database"
+      },
+      {
+        "label": "Explore Education Statistics",
+        "url": "https://explore-education-statistics.service.gov.uk/"
+      }
+    ],
+    "summary": "英格兰教育部的学生层面行政数据库，汇集学校普查（学生特征、免费校餐资格）和各关键阶段考试成绩；学校层面成绩和学校统计在 Explore Education Statistics 公开。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "国家学生数据库（National Pupil Database，NPD）由英格兰教育部（DfE）维护，以唯一学生号连接学校普查（School Census，原 PLASC）记录的学生性别、族裔、母语、特殊教育需求、免费校餐资格、就读学校和住址邮编，以及从早期基础阶段到关键阶段 2（KS2）、GCSE 和 A-level 的各次考试成绩，2002 年起逐年覆盖英格兰公立学校学生。学生层面数据需通过 DfE 申请，经批准后在 ONS 安全研究服务或类似平台使用；学校层面的 KS2 等成绩、学校特征和缺勤统计在 Explore Education Statistics 和学校表现网站免费下载。\n\n数据常用于英格兰教育政策研究，例如评估学校健康午餐改革对考试成绩和缺勤的影响，或用数字电视转换时间研究看电视对学业成绩的影响。私立学校学生基本不在数据库中。",
+    "source": "学生层面受限（向 DfE 申请）；学校层面统计免费下载。",
+    "references": [
+      {
+        "raw": "Television and Academic Achievement: Evidence from the Digital Television Transition in the UK",
+        "title": "Television and Academic Achievement: Evidence from the Digital Television Transition in the UK",
+        "authors": [
+          "Adrián Nieto Castro"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "135",
+        "issue": "666",
+        "pages": "611–636",
+        "doi": "10.1093/ej/ueae091",
+        "url": "https://doi.org/10.1093/ej/ueae091",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Healthy school meals and educational outcomes",
+        "title": "Healthy school meals and educational outcomes",
+        "authors": [
+          "Michèle Belot",
+          "Jonathan James"
+        ],
+        "year": 2011,
+        "journal": "Journal of Health Economics",
+        "volume": "30",
+        "issue": "3",
+        "pages": "489–504",
+        "doi": "10.1016/j.jhealeco.2011.02.003",
+        "url": "https://doi.org/10.1016/j.jhealeco.2011.02.003",
         "verified": true,
         "note": ""
       }
@@ -45989,6 +46751,23 @@
         "url": "https://doi.org/10.1093/restud/rdaa074",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Preschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study",
+        "title": "Preschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2008,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "123",
+        "issue": "1",
+        "pages": "279–323",
+        "doi": "10.1162/qjec.2008.123.1.279",
+        "url": "https://doi.org/10.1162/qjec.2008.123.1.279",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48347,6 +49126,24 @@
         "pages": "948–980",
         "doi": "10.1257/aer.103.2.948",
         "url": "https://doi.org/10.1257/aer.103.2.948",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Global Distribution of College Graduate Quality",
+        "title": "The Global Distribution of College Graduate Quality",
+        "authors": [
+          "Paolo Martellini",
+          "Todd Schoellman",
+          "Jason Sockin"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "2",
+        "pages": "434–483",
+        "doi": "10.1086/726234",
+        "url": "https://doi.org/10.1086/726234",
         "verified": true,
         "note": ""
       }
@@ -59039,6 +59836,45 @@
     ]
   },
   {
+    "id": "7.13.5",
+    "title": "Glassdoor 薪酬与简历数据",
+    "links": [
+      {
+        "label": "Glassdoor Economic Research",
+        "url": "https://www.glassdoor.com/research/"
+      }
+    ],
+    "summary": "求职网站 Glassdoor 用户自愿提交的薪酬报告、公司评价和简历记录，覆盖全球大量雇主和职位，研究者需与 Glassdoor 合作获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "Glassdoor 是 2007 年成立的求职和雇主评价平台（现属 Recruit Holdings），用户匿名提交所在公司的职位、基本工资和奖金、工作年限、教育背景以及对雇主的评价，平台还保存用户上传的简历，记录毕业院校、学位和工作经历。网站可公开浏览公司层面的薪酬和评价汇总；个人层面数据不公开，研究者需与 Glassdoor 经济研究团队合作并签订协议。\n\n数据常用于研究工资和劳动力市场，例如利用多国毕业生的简历和薪酬记录，比较全球各高校毕业生的“质量”（按迁移到同一国家后的工资衡量）。数据由用户自愿提交，样本偏向白领和年轻求职者。",
+    "source": "个体数据需与 Glassdoor 合作获取（网站对自动访问返回 403，链接经搜索确认）。",
+    "references": [
+      {
+        "raw": "The Global Distribution of College Graduate Quality",
+        "title": "The Global Distribution of College Graduate Quality",
+        "authors": [
+          "Paolo Martellini",
+          "Todd Schoellman",
+          "Jason Sockin"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "2",
+        "pages": "434–483",
+        "doi": "10.1086/726234",
+        "url": "https://doi.org/10.1086/726234",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.14.1",
     "title": "全球棕榈油厂位置数据（Universal Mill List）",
     "links": [
@@ -61516,6 +62352,125 @@
         "pages": "279–310",
         "doi": "10.1093/ej/ueaf050",
         "url": "https://doi.org/10.1093/ej/ueaf050",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.3",
+    "title": "世界高等教育数据库（World Higher Education Database，WHED）",
+    "links": [
+      {
+        "label": "WHED",
+        "url": "https://whed.net/home.php"
+      }
+    ],
+    "summary": "国际大学协会维护的全球约 2 万所高等院校名录，记录院校类型、所在地、成立年份、学位和学科设置，按国家介绍高等教育体系。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "世界高等教育数据库（WHED）由国际大学协会（International Association of Universities，IAU）与联合国教科文组织合作维护，收录全球约 190 个国家和地区、约 2 万所授予学士及以上学位或四年制文凭的高等院校，记录院校名称、所在地、公私属性、成立年份、学科领域、授予学位、学生和教师规模等，并提供各国高等教育体系和学历资格的说明。网站可免费检索，批量数据需与 IAU 联系。\n\n数据常用于构建跨国院校样本，例如在研究全球毕业生质量时识别各国高校的类型和成立年份。各院校信息由国家机构提供，更新频率和完整性不一。",
+    "source": "网站免费检索；批量数据需联系 IAU。",
+    "references": [
+      {
+        "raw": "The Global Distribution of College Graduate Quality",
+        "title": "The Global Distribution of College Graduate Quality",
+        "authors": [
+          "Paolo Martellini",
+          "Todd Schoellman",
+          "Jason Sockin"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "2",
+        "pages": "434–483",
+        "doi": "10.1086/726234",
+        "url": "https://doi.org/10.1086/726234",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.4",
+    "title": "世界大学排名中心（Center for World University Rankings，CWUR）",
+    "links": [
+      {
+        "label": "CWUR",
+        "url": "https://cwur.org/"
+      }
+    ],
+    "summary": "按教育质量、校友就业、师资和科研产出指标对全球约 2,000 所大学进行年度排名的独立机构，2012 年起发布。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "世界大学排名中心（CWUR）2012 年起发布全球大学排名，2014 年起扩展至前 1,000 名、后增至 2,000 名，评分指标包括教育质量（校友获得重大国际奖项）、校友就业（校友在大型公司任高管）、师资质量（教师获重大奖项）以及科研产出、高质量论文和被引频次。排名在 CWUR 网站免费查看。\n\n数据常用于衡量院校声望和质量，例如在跨国研究中把毕业生收入与高校排名对照，研究高校质量的全球分布。排名指标偏重科研和顶尖奖项，对教学型院校区分度较低。",
+    "source": "CWUR 网站免费查看。",
+    "references": [
+      {
+        "raw": "The Global Distribution of College Graduate Quality",
+        "title": "The Global Distribution of College Graduate Quality",
+        "authors": [
+          "Paolo Martellini",
+          "Todd Schoellman",
+          "Jason Sockin"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "2",
+        "pages": "434–483",
+        "doi": "10.1086/726234",
+        "url": "https://doi.org/10.1086/726234",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.5",
+    "title": "OECD 国际成人能力评估项目（PIAAC）",
+    "links": [
+      {
+        "label": "OECD PIAAC",
+        "url": "https://www.oecd.org/en/about/programmes/piaac.html"
+      }
+    ],
+    "summary": "OECD 组织的成人技能调查，测量 16—65 岁成人的读写、计算和数字环境问题解决能力，第一轮 2011—2017 年覆盖约 40 个国家，2022—2023 年开展第二轮。",
+    "regions": [
+      "全球数据",
+      "欧洲数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "国际成人能力评估项目（Programme for the International Assessment of Adult Competencies，PIAAC）由 OECD 组织，第一轮在 2011—2012 年及 2014—2015、2017 年分三批覆盖约 40 个国家和地区，每国抽取数千名 16—65 岁成人，通过计算机或纸笔测试测量读写能力、计算能力和技术环境中的问题解决能力，并调查受教育程度、就业、收入和工作中的技能使用；第二轮于 2022—2023 年在 31 个国家开展。公开使用微观数据在 OECD 网站免费下载，含细地理代码或详细变量的受限版本需向各国机构申请。\n\n数据常用于比较各国成人技能和技能回报，例如用意大利 PIAAC 受限版（含市镇代码）研究童年接触娱乐电视对成年认知能力的影响。各国样本量有限，部分国家未公开年龄和收入的连续变量。",
+    "source": "OECD 网站免费下载（公开版）；受限版需申请（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "The Political Legacy of Entertainment TV",
+        "title": "The Political Legacy of Entertainment TV",
+        "authors": [
+          "Ruben Durante",
+          "Paolo Pinotti",
+          "Andrea Tesei"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2497–2530",
+        "doi": "10.1257/aer.20150958",
+        "url": "https://doi.org/10.1257/aer.20150958",
         "verified": true,
         "note": ""
       }
