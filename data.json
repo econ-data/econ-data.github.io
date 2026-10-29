@@ -41271,6 +41271,47 @@
     ]
   },
   {
+    "id": "2.16.34",
+    "title": "威斯康星州公共教育厅数据（WISEdash、教职工全员文件与学生考试数据）",
+    "links": [
+      {
+        "label": "WISEdash Public Portal",
+        "url": "https://wisedash.dpi.wi.gov/"
+      },
+      {
+        "label": "Wisconsin DPI Data Requests",
+        "url": "https://dpi.wi.gov/wise/data-requests"
+      }
+    ],
+    "summary": "威斯康星州公共教育厅发布的学校和学区层面成绩、招生和财务数据（WISEdash），以及经数据申请获取的全州教职工年度报告和学生层面考试记录。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "威斯康星州公共教育厅（Wisconsin Department of Public Instruction，DPI）通过 WISEdash 公开学校和学区层面的学生人数和构成、州统考成绩（WKCE、Badger 考试、Forward 考试）、毕业率、出勤和纪律、教职工数量以及学区财务（收入、支出、均衡财产价值）数据，可免费下载；全州公立学校教职工年度报告（PI-1202 Fall Staff Report，记录每名教职工的岗位、任职学校、学历、经验、工资和福利）和学生层面考试记录需通过 DPI 数据请求程序申请，签订协议后获取。\n\n数据常用于研究教师劳动力市场，例如利用 2011 年第 10 号法案（Act 10）削弱教师集体谈判后部分学区改用灵活工资制度，研究绩效相关工资对教师流动、质量和学生成绩的影响。学生和教师层面数据的获取需较长审批时间。",
+    "source": "WISEdash 免费下载；个人层面数据经 DPI 数据请求申请。",
+    "references": [
+      {
+        "raw": "The Labor Market for Teachers under Different Pay Schemes",
+        "title": "The Labor Market for Teachers under Different Pay Schemes",
+        "authors": [
+          "Barbara Biasi"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "13",
+        "issue": "3",
+        "pages": "63–102",
+        "doi": "10.1257/pol.20200295",
+        "url": "https://doi.org/10.1257/pol.20200295",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -41393,6 +41434,23 @@
         "pages": "2497–2530",
         "doi": "10.1257/aer.20150958",
         "url": "https://doi.org/10.1257/aer.20150958",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Better Paid Politicians Perform Better? Disentangling Incentives from Selection",
+        "title": "Do Better Paid Politicians Perform Better? Disentangling Incentives from Selection",
+        "authors": [
+          "Stefano Gagliarducci",
+          "Tommaso Nannicini"
+        ],
+        "year": 2013,
+        "journal": "Journal of the European Economic Association",
+        "volume": "11",
+        "issue": "2",
+        "pages": "369–398",
+        "doi": "10.1111/jeea.12002",
+        "url": "https://doi.org/10.1111/jeea.12002",
         "verified": true,
         "note": ""
       }
@@ -41821,6 +41879,23 @@
         "url": "https://www.nber.org/papers/w31221",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Can Pay Regulation Kill? Panel Data Evidence on the Effect of Labor Markets on Hospital Performance",
+        "title": "Can Pay Regulation Kill? Panel Data Evidence on the Effect of Labor Markets on Hospital Performance",
+        "authors": [
+          "Carol Propper",
+          "John Van Reenen"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "2",
+        "pages": "222–273",
+        "doi": "10.1086/653137",
+        "url": "https://doi.org/10.1086/653137",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -42215,6 +42290,23 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105167",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Can Pay Regulation Kill? Panel Data Evidence on the Effect of Labor Markets on Hospital Performance",
+        "title": "Can Pay Regulation Kill? Panel Data Evidence on the Effect of Labor Markets on Hospital Performance",
+        "authors": [
+          "Carol Propper",
+          "John Van Reenen"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "2",
+        "pages": "222–273",
+        "doi": "10.1086/653137",
+        "url": "https://doi.org/10.1086/653137",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -42306,6 +42398,45 @@
         "pages": "1–28",
         "doi": "10.1016/j.jhealeco.2009.10.003",
         "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.15",
+    "title": "意大利银行家庭收入与财富调查（Survey on Household Income and Wealth，SHIW）",
+    "links": [
+      {
+        "label": "Banca d'Italia: Indagine sui bilanci delle famiglie",
+        "url": "https://www.bancaditalia.it/statistiche/tematiche/indagini-famiglie-imprese/bilanci-famiglie/"
+      }
+    ],
+    "summary": "意大利银行自 1960 年代起开展的全国代表性住户调查，1987 年起每两年一次，记录家庭收入、消费、储蓄、金融和实物资产以及负债，部分样本为追踪面板。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "金融数据"
+    ],
+    "introduction": "家庭收入与财富调查（Indagine sui bilanci delle famiglie italiane，SHIW）由意大利银行组织，1965 年起开展，1987 年起基本每两年一次，每轮访问约 8,000 户家庭（约 2 万人），记录家庭成员的人口和就业特征、各来源收入、消费支出、储蓄、住房和其他实物资产、银行存款和证券等金融资产、负债和支付方式，约一半样本为追踪面板。历史数据档案（1977 年起）的微观数据在意大利银行网站免费下载，是欧元区家庭金融与消费调查（HFCS）的意大利部分。\n\n数据常用于研究意大利的家庭收入、财富和消费，例如在研究地方政治人物薪酬与能力时，用 SHIW 计算同类职业和教育程度人群的市场收入作为比较基准。高收入家庭存在拒访和少报，顶端财富分布低估。",
+    "source": "意大利银行网站免费下载。",
+    "references": [
+      {
+        "raw": "Do Better Paid Politicians Perform Better? Disentangling Incentives from Selection",
+        "title": "Do Better Paid Politicians Perform Better? Disentangling Incentives from Selection",
+        "authors": [
+          "Stefano Gagliarducci",
+          "Tommaso Nannicini"
+        ],
+        "year": 2013,
+        "journal": "Journal of the European Economic Association",
+        "volume": "11",
+        "issue": "2",
+        "pages": "369–398",
+        "doi": "10.1111/jeea.12002",
+        "url": "https://doi.org/10.1111/jeea.12002",
         "verified": true,
         "note": ""
       }
@@ -42437,6 +42568,23 @@
         "pages": "16–32",
         "doi": "10.1016/j.jpubeco.2018.01.011",
         "url": "https://doi.org/10.1016/j.jpubeco.2018.01.011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Pay Regulation Kill? Panel Data Evidence on the Effect of Labor Markets on Hospital Performance",
+        "title": "Can Pay Regulation Kill? Panel Data Evidence on the Effect of Labor Markets on Hospital Performance",
+        "authors": [
+          "Carol Propper",
+          "John Van Reenen"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "2",
+        "pages": "222–273",
+        "doi": "10.1086/653137",
+        "url": "https://doi.org/10.1086/653137",
         "verified": true,
         "note": ""
       }
@@ -43095,6 +43243,46 @@
         "pages": "55–77",
         "doi": "10.1016/j.jpubeco.2014.12.010",
         "url": "https://doi.org/10.1016/j.jpubeco.2014.12.010",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.10",
+    "title": "ifo 普鲁士经济史数据库（iPEHD）",
+    "links": [
+      {
+        "label": "ifo iPEHD",
+        "url": "https://www.ifo.de/en/ipehd"
+      }
+    ],
+    "summary": "ifo 研究所整理的 19 世纪至 20 世纪初普鲁士县级历史统计数据库，数字化了 1816—1905 年各次人口普查、工厂普查、职业普查、教育和宗教统计。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "普查数据"
+    ],
+    "introduction": "ifo 普鲁士经济史数据库（ifo Prussian Economic History Database，iPEHD）由 Sascha Becker、Erik Hornung、Ludger Woessmann 等在 ifo 研究所建立，把普鲁士统计局出版的历史统计资料数字化为县（Kreis）层面的面板，内容包括 1816 年以来的人口普查（人口、宗教、识字和教育）、1849 年工厂普查（各类工厂、机器和工人）、1819 年经营设施调查、1882 和 1895 年职业普查、学校统计、农业和土地统计以及选举结果，并提供跨时期统一的县边界。数据在 ifo 网站免费申请下载。\n\n数据常用于研究普鲁士的经济发展和历史制度影响，例如研究 1849 年前后的教育水平是否促进了工业化和技术追赶，或研究新教与识字率、经济繁荣的关系。早期普查的口径和县边界变化较大，跨期比较需使用数据库提供的统一边界。",
+    "source": "ifo 网站免费申请下载。",
+    "references": [
+      {
+        "raw": "Education and Catch-Up in the Industrial Revolution",
+        "title": "Education and Catch-Up in the Industrial Revolution",
+        "authors": [
+          "Sascha O. Becker",
+          "Erik Hornung",
+          "Ludger Woessmann"
+        ],
+        "year": 2011,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "3",
+        "issue": "3",
+        "pages": "92–126",
+        "doi": "10.1257/mac.3.3.92",
+        "url": "https://doi.org/10.1257/mac.3.3.92",
         "verified": true,
         "note": ""
       }
@@ -45671,6 +45859,44 @@
     ]
   },
   {
+    "id": "3.8.10",
+    "title": "英格兰医院事件统计（Hospital Episode Statistics，HES）",
+    "links": [
+      {
+        "label": "NHS England: Hospital Episode Statistics",
+        "url": "https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics"
+      }
+    ],
+    "summary": "NHS England（原 NHS Digital）收集的英格兰所有 NHS 医院住院、门诊和急诊就诊的病例级记录，含诊断、手术、患者特征和医院，研究使用需申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "医院事件统计（HES）由 NHS England（原 NHS Digital、Health and Social Care Information Centre）维护，自 1989/90 财年起记录英格兰 NHS 医院（及 NHS 付费的私立医院）的每一个住院病例（Admitted Patient Care），2003 年起增加门诊、2007 年起增加急诊记录，内容包括患者年龄、性别、居住地和族裔，入院方式和来源，主次诊断（ICD-10）和手术操作（OPCS-4），住院时长、出院去向和医院信托，可与 ONS 死亡登记链接。汇总统计在网站免费发布；病例级数据需通过 NHS England 数据访问请求服务（DARS）申请并签订数据共享协议。\n\n数据常用于研究英国医院绩效和医疗市场，例如计算各医院急性心肌梗死入院后的 30 天死亡率，研究受全国统一工资管制影响的地区劳动力市场对医院质量的影响。早期年份的诊断编码质量较差，跨医院比较需做病例组合调整。",
+    "source": "汇总统计免费；病例级数据需经 NHS England DARS 申请（官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Can Pay Regulation Kill? Panel Data Evidence on the Effect of Labor Markets on Hospital Performance",
+        "title": "Can Pay Regulation Kill? Panel Data Evidence on the Effect of Labor Markets on Hospital Performance",
+        "authors": [
+          "Carol Propper",
+          "John Van Reenen"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "2",
+        "pages": "222–273",
+        "doi": "10.1086/653137",
+        "url": "https://doi.org/10.1086/653137",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.9.1",
     "title": "法国全国交通与出行调查（ENTD / EMP）",
     "links": [
@@ -45952,6 +46178,48 @@
     ]
   },
   {
+    "id": "3.10.6",
+    "title": "意大利地方行政人员登记（Anagrafe degli amministratori locali e regionali）",
+    "links": [
+      {
+        "label": "Ministero dell'Interno: Anagrafe amministratori",
+        "url": "https://dait.interno.gov.it/elezioni/anagrafe-amministratori"
+      },
+      {
+        "label": "Ministero dell'Interno: Open data elezioni",
+        "url": "https://dait.interno.gov.it/elezioni/open-data"
+      }
+    ],
+    "summary": "意大利内政部维护的全部市镇、省和大区当选官员和行政人员名册，记录市长、议员的姓名、性别、出生日期、学历、职业、职务和任期，以开放数据免费下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "地方和大区行政人员登记（Anagrafe degli amministratori locali e regionali）由意大利内政部中央选举服务处维护，记录 1985 年前后以来全部市镇、省、大区和山区共同体的当选官员和行政人员（市长、市议员、议会主席、副市长等），包括姓名、性别、出生日期和出生地、学历、选举前职业、所属政党或名单、职务及任职起止日期；内政部还在 Eligendo 档案中发布各次选举的候选人和得票结果。数据以开放数据形式在内政部网站免费下载。\n\n数据常用于研究地方政治人物的选拔和表现，例如利用意大利市长薪酬随市镇人口规模门槛跳跃的规定，做断点回归研究更高薪酬是否吸引更高学历的候选人并提高施政效率。早期年份学历和职业字段缺失较多，部分记录需与选举档案交叉核对。",
+    "source": "内政部网站开放数据免费下载。",
+    "references": [
+      {
+        "raw": "Do Better Paid Politicians Perform Better? Disentangling Incentives from Selection",
+        "title": "Do Better Paid Politicians Perform Better? Disentangling Incentives from Selection",
+        "authors": [
+          "Stefano Gagliarducci",
+          "Tommaso Nannicini"
+        ],
+        "year": 2013,
+        "journal": "Journal of the European Economic Association",
+        "volume": "11",
+        "issue": "2",
+        "pages": "369–398",
+        "doi": "10.1111/jeea.12002",
+        "url": "https://doi.org/10.1111/jeea.12002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.11.1",
     "title": "法国住房调查（Insee Enquête Logement）",
     "links": [
@@ -46170,6 +46438,48 @@
         "pages": "832–867",
         "doi": "10.1257/aer.104.3.832",
         "url": "https://doi.org/10.1257/aer.104.3.832",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.14.1",
+    "title": "洛桑试验站长期田间试验（Rothamsted Long-Term Experiments，e-RA）",
+    "links": [
+      {
+        "label": "Rothamsted Long-Term Experiments",
+        "url": "https://www.rothamsted.ac.uk/long-term-experiments"
+      },
+      {
+        "label": "e-RA",
+        "url": "https://www.era.rothamsted.ac.uk/"
+      }
+    ],
+    "summary": "英国洛桑研究所自 1843 年起持续进行的 Broadbalk 小麦、Park Grass 等长期田间试验，记录不同施肥处理下的作物产量和土壤成分，数据通过 e-RA 电子档案库提供。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "农业数据",
+      "环境数据"
+    ],
+    "introduction": "洛桑研究所（Rothamsted Research）的经典长期田间试验始于 1843 年，包括 Broadbalk 冬小麦、Hoosfield 春大麦、Park Grass 草地等试验，在同一地块上长期比较无肥、厩肥、不同氮磷钾化肥及轮作处理下的作物产量、品质和土壤养分，部分试验已持续 180 年，是世界上最长的农业试验之一。试验产量、施肥、土壤、气象等数据和元数据通过电子洛桑档案库（e-RA）提供，注册后可下载，商业用途需另行协议。\n\n数据常用于农业史和农业科学研究，例如用无化肥处理下的小麦和大麦产量校准生物学模型，检验豆科作物固氮能否解释英国农业革命期间的产量增长。试验地块的土壤和气候条件特定，外推到其他地区需谨慎。",
+    "source": "e-RA 档案库注册后下载。",
+    "references": [
+      {
+        "raw": "The Nitrogen Hypothesis and the English Agricultural Revolution: A Biological Analysis",
+        "title": "The Nitrogen Hypothesis and the English Agricultural Revolution: A Biological Analysis",
+        "authors": [
+          "Robert C. Allen"
+        ],
+        "year": 2008,
+        "journal": "The Journal of Economic History",
+        "volume": "68",
+        "issue": "1",
+        "pages": "182–210",
+        "doi": "10.1017/S0022050708000065",
+        "url": "https://doi.org/10.1017/S0022050708000065",
         "verified": true,
         "note": ""
       }
@@ -47079,6 +47389,46 @@
         "pages": "102378",
         "doi": "10.1016/j.jdeveco.2019.102378",
         "url": "https://doi.org/10.1016/j.jdeveco.2019.102378",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.2.7",
+    "title": "印度尼西亚全国劳动力调查（Survei Angkatan Kerja Nasional，Sakernas）",
+    "links": [
+      {
+        "label": "BPS Statistics Indonesia",
+        "url": "https://www.bps.go.id/"
+      }
+    ],
+    "summary": "印尼中央统计局开展的全国劳动力调查，1976 年起实施，现每年两次（2 月和 8 月），记录就业、失业、工时、收入、行业和职业，是印尼官方劳动力统计的来源。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "全国劳动力调查（Sakernas）由印度尼西亚中央统计局（BPS）实施，1976 年起开展，频率几经调整，目前每年 2 月和 8 月各一轮（8 月轮样本约 30 万户，可提供县级估计），记录 15 岁以上人口的就业状态、主要和次要工作、职业和行业、工时、工资和收入、受教育程度和求职情况，是印尼失业率和就业结构等官方统计的来源。微观数据通过 BPS 数据服务（Silastik）付费或申请获取。\n\n数据常用于研究印尼劳动力市场，例如用 Sakernas 计算同等学历劳动者的工资分布，与教师工资比较以评估教师认证加薪的相对水平。各轮调查的抽样框和问卷有调整，跨期比较需注意口径。",
+    "source": "经 BPS 数据服务申请（官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Double for Nothing? Experimental Evidence on an Unconditional Teacher Salary Increase in Indonesia",
+        "title": "Double for Nothing? Experimental Evidence on an Unconditional Teacher Salary Increase in Indonesia",
+        "authors": [
+          "Joppe de Ree",
+          "Karthik Muralidharan",
+          "Menno Pradhan",
+          "Halsey Rogers"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "2",
+        "pages": "993–1039",
+        "doi": "10.1093/qje/qjx040",
+        "url": "https://doi.org/10.1093/qje/qjx040",
         "verified": true,
         "note": ""
       }
@@ -55607,6 +55957,23 @@
         "url": "https://doi.org/10.1257/app.20160469",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Public and private enforcement of securities laws: Resource-based evidence",
+        "title": "Public and private enforcement of securities laws: Resource-based evidence",
+        "authors": [
+          "Howell E. Jackson",
+          "Mark J. Roe"
+        ],
+        "year": 2009,
+        "journal": "Journal of Financial Economics",
+        "volume": "93",
+        "issue": "2",
+        "pages": "207–238",
+        "doi": "10.1016/j.jfineco.2008.08.006",
+        "url": "https://doi.org/10.1016/j.jfineco.2008.08.006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -57381,6 +57748,23 @@
         "pages": "41–88",
         "doi": "10.3982/ECTA10217",
         "url": "https://doi.org/10.3982/ECTA10217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public and private enforcement of securities laws: Resource-based evidence",
+        "title": "Public and private enforcement of securities laws: Resource-based evidence",
+        "authors": [
+          "Howell E. Jackson",
+          "Mark J. Roe"
+        ],
+        "year": 2009,
+        "journal": "Journal of Financial Economics",
+        "volume": "93",
+        "issue": "2",
+        "pages": "207–238",
+        "doi": "10.1016/j.jfineco.2008.08.006",
+        "url": "https://doi.org/10.1016/j.jfineco.2008.08.006",
         "verified": true,
         "note": ""
       }
@@ -66406,6 +66790,23 @@
         "pages": "279–310",
         "doi": "10.1093/ej/ueaf050",
         "url": "https://doi.org/10.1093/ej/ueaf050",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public and private enforcement of securities laws: Resource-based evidence",
+        "title": "Public and private enforcement of securities laws: Resource-based evidence",
+        "authors": [
+          "Howell E. Jackson",
+          "Mark J. Roe"
+        ],
+        "year": 2009,
+        "journal": "Journal of Financial Economics",
+        "volume": "93",
+        "issue": "2",
+        "pages": "207–238",
+        "doi": "10.1016/j.jfineco.2008.08.006",
+        "url": "https://doi.org/10.1016/j.jfineco.2008.08.006",
         "verified": true,
         "note": ""
       }
