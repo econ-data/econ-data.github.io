@@ -2772,6 +2772,23 @@
         "url": "https://doi.org/10.1162/rest_a_00458",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nonrandom Exposure to Exogenous Shocks",
+        "title": "Nonrandom Exposure to Exogenous Shocks",
+        "authors": [
+          "Kirill Borusyak",
+          "Peter Hull"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "6",
+        "pages": "2155–2185",
+        "doi": "10.3982/ECTA19367",
+        "url": "https://doi.org/10.3982/ECTA19367",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7328,6 +7345,73 @@
         "url": "https://doi.org/10.1093/qje/qjt020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Instrumental Variables Regression with Weak Instruments",
+        "title": "Instrumental Variables Regression with Weak Instruments",
+        "authors": [
+          "Douglas Staiger",
+          "James H. Stock"
+        ],
+        "year": 1997,
+        "journal": "Econometrica",
+        "volume": "65",
+        "issue": "3",
+        "pages": "557–586",
+        "doi": "10.2307/2171753",
+        "url": "https://doi.org/10.2307/2171753",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Immigrant Inflows, Native Outflows, and the Local Labor Market Impacts of Higher Immigration",
+        "title": "Immigrant Inflows, Native Outflows, and the Local Labor Market Impacts of Higher Immigration",
+        "authors": [
+          "David Card"
+        ],
+        "year": 2001,
+        "journal": "Journal of Labor Economics",
+        "volume": "19",
+        "issue": "1",
+        "pages": "22–64",
+        "doi": "10.1086/209979",
+        "url": "https://doi.org/10.1086/209979",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Difference-in-Differences Hedonics",
+        "title": "Difference-in-Differences Hedonics",
+        "authors": [
+          "H. Spencer Banzhaf"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "8",
+        "pages": "2385–2414",
+        "doi": "10.1086/714442",
+        "url": "https://doi.org/10.1086/714442",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Cautionary Tale about the Use of Administrative Data: Evidence from Age of Marriage Laws",
+        "title": "A Cautionary Tale about the Use of Administrative Data: Evidence from Age of Marriage Laws",
+        "authors": [
+          "Rebecca M. Blank",
+          "Kerwin Kofi Charles",
+          "James M. Sallee"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "128–149",
+        "doi": "10.1257/app.1.2.128",
+        "url": "https://doi.org/10.1257/app.1.2.128",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9164,6 +9248,43 @@
         "url": "https://doi.org/10.1016/j.jfineco.2026.104292",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Structural Estimation Under Misspecification: Theory and Implications for Practice",
+        "title": "Structural Estimation Under Misspecification: Theory and Implications for Practice",
+        "authors": [
+          "Isaiah Andrews",
+          "Nano Barahona",
+          "Matthew Gentzkow",
+          "Ashesh Rambachan",
+          "Jesse M Shapiro"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "1801–1855",
+        "doi": "10.1093/qje/qjaf018",
+        "url": "https://doi.org/10.1093/qje/qjaf018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A More Credible Approach to Parallel Trends",
+        "title": "A More Credible Approach to Parallel Trends",
+        "authors": [
+          "Ashesh Rambachan",
+          "Jonathan Roth"
+        ],
+        "year": 2023,
+        "journal": "Review of Economic Studies",
+        "volume": "90",
+        "issue": "5",
+        "pages": "2555–2591",
+        "doi": "10.1093/restud/rdad018",
+        "url": "https://doi.org/10.1093/restud/rdad018",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9636,6 +9757,130 @@
         "url": "https://doi.org/10.3386/w32948",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Using the Longitudinal Structure of Earnings to Estimate the Effect of Training Programs",
+        "title": "Using the Longitudinal Structure of Earnings to Estimate the Effect of Training Programs",
+        "authors": [
+          "Orley Ashenfelter",
+          "David Card"
+        ],
+        "year": 1985,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "67",
+        "issue": "4",
+        "pages": "648–660",
+        "doi": "10.2307/1924810",
+        "url": "https://doi.org/10.2307/1924810",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Evaluating the Econometric Evaluations of Training Programs with Experimental Data",
+        "title": "Evaluating the Econometric Evaluations of Training Programs with Experimental Data",
+        "authors": [
+          "Robert J. LaLonde"
+        ],
+        "year": 1986,
+        "journal": "The American Economic Review",
+        "volume": "76",
+        "issue": "4",
+        "pages": "604–620",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/1806062",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania",
+        "title": "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania",
+        "authors": [
+          "David Card",
+          "Alan B. Krueger"
+        ],
+        "year": 1994,
+        "journal": "The American Economic Review",
+        "volume": "84",
+        "issue": "4",
+        "pages": "772–793",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w4509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pre-Event Trends in the Panel Event-Study Design",
+        "title": "Pre-Event Trends in the Panel Event-Study Design",
+        "authors": [
+          "Simon Freyaldenhoven",
+          "Christian Hansen",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "9",
+        "pages": "3307–3338",
+        "doi": "10.1257/aer.20180609",
+        "url": "https://doi.org/10.1257/aer.20180609",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Synthetic Difference-in-Differences",
+        "title": "Synthetic Difference-in-Differences",
+        "authors": [
+          "Dmitry Arkhangelsky",
+          "Susan Athey",
+          "David A. Hirshberg",
+          "Guido W. Imbens",
+          "Stefan Wager"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "12",
+        "pages": "4088–4118",
+        "doi": "10.1257/aer.20190159",
+        "url": "https://doi.org/10.1257/aer.20190159",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Institutions and the Distribution of Wages, 1973-1992: A Semiparametric Approach",
+        "title": "Labor Market Institutions and the Distribution of Wages, 1973-1992: A Semiparametric Approach",
+        "authors": [
+          "John DiNardo",
+          "Nicole M. Fortin",
+          "Thomas Lemieux"
+        ],
+        "year": 1996,
+        "journal": "Econometrica",
+        "volume": "64",
+        "issue": "5",
+        "pages": "1001–1044",
+        "doi": "10.2307/2171954",
+        "url": "https://doi.org/10.2307/2171954",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unconditional Quantile Regressions",
+        "title": "Unconditional Quantile Regressions",
+        "authors": [
+          "Sergio Firpo",
+          "Nicole M. Fortin",
+          "Thomas Lemieux"
+        ],
+        "year": 2009,
+        "journal": "Econometrica",
+        "volume": "77",
+        "issue": "3",
+        "pages": "953–973",
+        "doi": "10.3982/ECTA6822",
+        "url": "https://doi.org/10.3982/ECTA6822",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9885,6 +10130,22 @@
         "pages": "1001–1065",
         "doi": "10.1093/qje/qjac040",
         "url": "https://doi.org/10.1093/qje/qjac040",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Evaluating the Econometric Evaluations of Training Programs with Experimental Data",
+        "title": "Evaluating the Econometric Evaluations of Training Programs with Experimental Data",
+        "authors": [
+          "Robert J. LaLonde"
+        ],
+        "year": 1986,
+        "journal": "The American Economic Review",
+        "volume": "76",
+        "issue": "4",
+        "pages": "604–620",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/1806062",
         "verified": true,
         "note": ""
       }
@@ -11666,6 +11927,23 @@
         "url": "https://doi.org/10.1093/qje/qjw044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects",
+        "title": "Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects",
+        "authors": [
+          "Clément de Chaisemartin",
+          "Xavier D'Haultfœuille"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "9",
+        "pages": "2964–2996",
+        "doi": "10.1257/aer.20181169",
+        "url": "https://doi.org/10.1257/aer.20181169",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12521,6 +12799,82 @@
         "pages": "963–1018",
         "doi": "10.1093/qje/qjw044",
         "url": "https://doi.org/10.1093/qje/qjw044",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.35",
+    "title": "全国支持性就业示范项目（NSW）实验数据（LaLonde / Dehejia-Wahba 样本）",
+    "links": [
+      {
+        "label": "Dehejia: NSW data",
+        "url": "https://users.nber.org/~rdehejia/nswdata.html"
+      }
+    ],
+    "summary": "美国 1975–1979 年全国支持性就业示范项目（National Supported Work Demonstration）的随机实验样本，含处理组和对照组的人口特征与 1974–1978 年收入，是检验非实验评估方法的经典基准数据，Dehejia 主页免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "NSW 是 MDRC 在美国 10 个城市实施的就业培训项目，把长期失业的妇女、前吸毒者、前罪犯和辍学青年随机分配到为期 9–18 个月的有补贴的工作岗位或对照组，并通过回访调查记录参与者此后的收入。LaLonde（1986）用该实验的男性样本作为基准，将实验估计与用 PSID、CPS 构造的非实验比较组得到的估计对比；Dehejia 和 Wahba（1999、2002）整理出带 1974 年收入的子样本，连同 PSID 和 CPS 比较组样本一起在 Dehejia 的 NBER 主页公开，变量包括年龄、受教育年限、种族、婚姻状况、是否高中毕业以及 1974、1975、1978 年实际收入。\n\n数据是计量经济学和因果推断领域使用最广的教学与方法检验数据，用于比较回归、匹配、倾向得分、双重稳健和机器学习估计量能否复原实验基准。样本量小（处理组 185 人至 297 人，视子样本而定），研究结论对样本选取和比较组构造较敏感。",
+    "source": "公开下载（Dehejia NBER 主页，含实验样本和 PSID/CPS 比较组）。",
+    "references": [
+      {
+        "raw": "Evaluating the Econometric Evaluations of Training Programs with Experimental Data",
+        "title": "Evaluating the Econometric Evaluations of Training Programs with Experimental Data",
+        "authors": [
+          "Robert J. LaLonde"
+        ],
+        "year": 1986,
+        "journal": "The American Economic Review",
+        "volume": "76",
+        "issue": "4",
+        "pages": "604–620",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/1806062",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.36",
+    "title": "全国 JTPA 研究（National JTPA Study）实验数据",
+    "links": [
+      {
+        "label": "Upjohn: National JTPA Study",
+        "url": "https://www.upjohn.org/data-tools/employment-research-data-center/national-jtpa-study"
+      }
+    ],
+    "summary": "美国劳工部委托开展的《职业培训合作法》（JTPA）培训项目随机实验，1987–1989 年在 16 个服务区随机分配约 2 万名申请者，记录基线特征、培训服务和 30 个月随访收入，公共使用文件由 Upjohn 研究所提供。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "全国 JTPA 研究（National JTPA Study，NJS）由 Abt Associates 和 MDRC 为美国劳工部实施，在 16 个地方服务区把通过资格审核的培训申请者随机分为可接受 JTPA 服务的处理组和三分之一比例的对照组，涉及成年男性、成年女性和青年，数据包括基线调查（人口特征、就业和福利史）、项目登记与服务记录、随访调查收入以及部分州的失业保险工资记录。部分服务区还调查了符合资格但未申请的人群（Eligible Non-Participants），用于构造非实验比较组。公共使用文件由 W.E. Upjohn 就业研究所发布。\n\n数据常用于培训项目效果评估和计量方法研究，例如 Heckman、Ichimura 和 Todd 用实验对照组与未参与者比较组检验匹配估计量的偏差来源，或研究处理效应异质性和分位数处理效应。服务区不是全国随机抽样，参与者中有相当比例在对照组也获得了替代培训。",
+    "source": "公开下载（Upjohn 研究所 Employment Research Data Center）。",
+    "references": [
+      {
+        "raw": "Matching As An Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme",
+        "title": "Matching As An Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme",
+        "authors": [
+          "James J. Heckman",
+          "Hidehiko Ichimura",
+          "Petra E. Todd"
+        ],
+        "year": 1997,
+        "journal": "The Review of Economic Studies",
+        "volume": "64",
+        "issue": "4",
+        "pages": "605–654",
+        "doi": "10.2307/2971733",
+        "url": "https://doi.org/10.2307/2971733",
         "verified": true,
         "note": ""
       }
@@ -13882,6 +14236,45 @@
     ]
   },
   {
+    "id": "2.3.18",
+    "title": "BLS 地方失业统计（Local Area Unemployment Statistics，LAUS）",
+    "links": [
+      {
+        "label": "BLS: LAUS",
+        "url": "https://www.bls.gov/lau/"
+      }
+    ],
+    "summary": "美国劳工统计局与各州合作编制的州、都市区、县和部分城市月度和年度劳动力、就业、失业人数与失业率，1976 年起（县级 1990 年起），免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "地方失业统计（LAUS）由美国劳工统计局（BLS）和各州劳动力市场信息机构合作编制，综合当前人口调查（CPS）、就业与工资季度普查（QCEW）、当前就业统计（CES）和失业保险申领数据，用时间序列模型估计州和大都市区的劳动力、就业、失业和失业率，再分配到县、城市和劳动力市场区。州级数据始于 1976 年，县级数据始于 1990 年，按月发布并每年修订，提供季节调整和未调整两种序列。\n\n数据常用于衡量地方劳动力市场景气，例如作为培训项目评估中的地方失业率控制变量，或研究失业对健康、犯罪、迁移和财政的影响。县级小地区估计依赖模型，误差较大，年度修订可能改变历史数值。",
+    "source": "公开下载（BLS 官网；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Matching As An Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme",
+        "title": "Matching As An Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme",
+        "authors": [
+          "James J. Heckman",
+          "Hidehiko Ichimura",
+          "Petra E. Todd"
+        ],
+        "year": 1997,
+        "journal": "The Review of Economic Studies",
+        "volume": "64",
+        "issue": "4",
+        "pages": "605–654",
+        "doi": "10.2307/2971733",
+        "url": "https://doi.org/10.2307/2971733",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.4.1",
     "title": "NBER-CES 制造业行业数据库",
     "links": [
@@ -14372,6 +14765,78 @@
         "pages": "1687–1726",
         "doi": "10.1093/qje/qjt020",
         "url": "https://doi.org/10.1093/qje/qjt020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "title": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2121–2168",
+        "doi": "10.1257/aer.103.6.2121",
+        "url": "https://doi.org/10.1257/aer.103.6.2121",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Shift-Share Designs: Theory and Inference",
+        "title": "Shift-Share Designs: Theory and Inference",
+        "authors": [
+          "Rodrigo Adão",
+          "Michal Kolesár",
+          "Eduardo Morales"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "4",
+        "pages": "1949–2010",
+        "doi": "10.1093/qje/qjz025",
+        "url": "https://doi.org/10.1093/qje/qjz025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bartik Instruments: What, When, Why, and How",
+        "title": "Bartik Instruments: What, When, Why, and How",
+        "authors": [
+          "Paul Goldsmith-Pinkham",
+          "Isaac Sorkin",
+          "Henry Swift"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "8",
+        "pages": "2586–2624",
+        "doi": "10.1257/aer.20181047",
+        "url": "https://doi.org/10.1257/aer.20181047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quasi-Experimental Shift-Share Research Designs",
+        "title": "Quasi-Experimental Shift-Share Research Designs",
+        "authors": [
+          "Kirill Borusyak",
+          "Peter Hull",
+          "Xavier Jaravel"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "181–213",
+        "doi": "10.1093/restud/rdab030",
+        "url": "https://doi.org/10.1093/restud/rdab030",
         "verified": true,
         "note": ""
       }
@@ -15068,6 +15533,24 @@
         "pages": "1818–1856",
         "doi": "10.1257/aer.20200374",
         "url": "https://doi.org/10.1257/aer.20200374",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "title": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2121–2168",
+        "doi": "10.1257/aer.103.6.2121",
+        "url": "https://doi.org/10.1257/aer.103.6.2121",
         "verified": true,
         "note": ""
       }
@@ -15988,6 +16471,40 @@
         "pages": "",
         "doi": "10.3386/w32948",
         "url": "https://doi.org/10.3386/w32948",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimation and Inference of Impulse Responses by Local Projections",
+        "title": "Estimation and Inference of Impulse Responses by Local Projections",
+        "authors": [
+          "Òscar Jordà"
+        ],
+        "year": 2005,
+        "journal": "American Economic Review",
+        "volume": "95",
+        "issue": "1",
+        "pages": "161–182",
+        "doi": "10.1257/0002828053828518",
+        "url": "https://doi.org/10.1257/0002828053828518",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Institutions and the Distribution of Wages, 1973-1992: A Semiparametric Approach",
+        "title": "Labor Market Institutions and the Distribution of Wages, 1973-1992: A Semiparametric Approach",
+        "authors": [
+          "John DiNardo",
+          "Nicole M. Fortin",
+          "Thomas Lemieux"
+        ],
+        "year": 1996,
+        "journal": "Econometrica",
+        "volume": "64",
+        "issue": "5",
+        "pages": "1001–1044",
+        "doi": "10.2307/2171954",
+        "url": "https://doi.org/10.2307/2171954",
         "verified": true,
         "note": ""
       }
@@ -17424,6 +17941,78 @@
         "url": "https://doi.org/10.1086/728887",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "title": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2121–2168",
+        "doi": "10.1257/aer.103.6.2121",
+        "url": "https://doi.org/10.1257/aer.103.6.2121",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Shift-Share Designs: Theory and Inference",
+        "title": "Shift-Share Designs: Theory and Inference",
+        "authors": [
+          "Rodrigo Adão",
+          "Michal Kolesár",
+          "Eduardo Morales"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "4",
+        "pages": "1949–2010",
+        "doi": "10.1093/qje/qjz025",
+        "url": "https://doi.org/10.1093/qje/qjz025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bartik Instruments: What, When, Why, and How",
+        "title": "Bartik Instruments: What, When, Why, and How",
+        "authors": [
+          "Paul Goldsmith-Pinkham",
+          "Isaac Sorkin",
+          "Henry Swift"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "8",
+        "pages": "2586–2624",
+        "doi": "10.1257/aer.20181047",
+        "url": "https://doi.org/10.1257/aer.20181047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quasi-Experimental Shift-Share Research Designs",
+        "title": "Quasi-Experimental Shift-Share Research Designs",
+        "authors": [
+          "Kirill Borusyak",
+          "Peter Hull",
+          "Xavier Jaravel"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "181–213",
+        "doi": "10.1093/restud/rdab030",
+        "url": "https://doi.org/10.1093/restud/rdab030",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17783,6 +18372,22 @@
         "pages": "515–573",
         "doi": "10.1093/qje/qjac033",
         "url": "https://doi.org/10.1093/qje/qjac033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Taxpayers Bunch at Kink Points?",
+        "title": "Do Taxpayers Bunch at Kink Points?",
+        "authors": [
+          "Emmanuel Saez"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "3",
+        "pages": "180–212",
+        "doi": "10.1257/pol.2.3.180",
+        "url": "https://doi.org/10.1257/pol.2.3.180",
         "verified": true,
         "note": ""
       }
@@ -21678,6 +22283,22 @@
         "url": "https://doi.org/10.1111/jofi.13217",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Difference-in-Differences Hedonics",
+        "title": "Difference-in-Differences Hedonics",
+        "authors": [
+          "H. Spencer Banzhaf"
+        ],
+        "year": 2021,
+        "journal": "Journal of Political Economy",
+        "volume": "129",
+        "issue": "8",
+        "pages": "2385–2414",
+        "doi": "10.1086/714442",
+        "url": "https://doi.org/10.1086/714442",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21846,6 +22467,25 @@
         "pages": "1343–1392",
         "doi": "10.1111/jofi.13217",
         "url": "https://doi.org/10.1111/jofi.13217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water",
+        "title": "Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water",
+        "authors": [
+          "Tihitina Andarge",
+          "Dalia Ghanem",
+          "David A. Keiser",
+          "Gabriel E. Lade"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review: Insights",
+        "volume": "7",
+        "issue": "3",
+        "pages": "285–305",
+        "doi": "10.1257/aeri.20240258",
+        "url": "https://doi.org/10.1257/aeri.20240258",
         "verified": true,
         "note": ""
       }
@@ -34002,6 +34642,42 @@
         "url": "https://doi.org/10.1257/aer.20201480",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unconditional Quantile Regressions",
+        "title": "Unconditional Quantile Regressions",
+        "authors": [
+          "Sergio Firpo",
+          "Nicole M. Fortin",
+          "Thomas Lemieux"
+        ],
+        "year": 2009,
+        "journal": "Econometrica",
+        "volume": "77",
+        "issue": "3",
+        "pages": "953–973",
+        "doi": "10.3982/ECTA6822",
+        "url": "https://doi.org/10.3982/ECTA6822",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Cautionary Tale about the Use of Administrative Data: Evidence from Age of Marriage Laws",
+        "title": "A Cautionary Tale about the Use of Administrative Data: Evidence from Age of Marriage Laws",
+        "authors": [
+          "Rebecca M. Blank",
+          "Kerwin Kofi Charles",
+          "James M. Sallee"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "128–149",
+        "doi": "10.1257/app.1.2.128",
+        "url": "https://doi.org/10.1257/app.1.2.128",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39154,6 +39830,24 @@
         "url": "https://doi.org/10.1257/pol.20230070",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Endogenous Social Interactions with Unobserved Networks",
+        "title": "Endogenous Social Interactions with Unobserved Networks",
+        "authors": [
+          "Marco Battaglini",
+          "Eleonora Patacchini",
+          "Edoardo Rainone"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "4",
+        "pages": "1694–1747",
+        "doi": "10.1093/restud/rdab058",
+        "url": "https://doi.org/10.1093/restud/rdab058",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39482,6 +40176,45 @@
         "pages": "158–180",
         "doi": "10.1016/j.jfineco.2013.10.002",
         "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.22",
+    "title": "美国国会议员立法有效性得分（Legislative Effectiveness Scores，LES）",
+    "links": [
+      {
+        "label": "Center for Effective Lawmaking: Data",
+        "url": "https://thelawmakers.org/data-download"
+      }
+    ],
+    "summary": "Volden 和 Wiseman 主持的有效立法中心发布的美国国会众议员和参议员立法有效性得分，1973 年（第 93 届国会）起，按法案提出、委员会行动、院会通过和成为法律等阶段加权计算，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "立法有效性得分（LES）由 Craig Volden 和 Alan Wiseman 创建，现由弗吉尼亚大学和范德堡大学合办的有效立法中心（Center for Effective Lawmaking）维护。得分基于每位议员提出的所有法案在立法过程中走多远（提出、在委员会获得行动、在委员会之外获得行动、通过本院、成为法律）并按法案重要性（纪念性、实质性、重大实质性）加权，再按国会届次标准化，使平均值为 1。数据覆盖众议院（第 93 届起）和参议院，附带议员党派、资历、委员会主席、多数党身份、选区特征等变量，也有州议会版本。\n\n数据常用于政治经济学研究，例如研究议员的立法产出与选举、性别、资历和党派的关系，或在网络同群效应模型中作为议员行为的结果变量。得分只反映法案推进程度，不反映修正案、预算谈判和非正式影响力。",
+    "source": "公开下载（有效立法中心官网）。",
+    "references": [
+      {
+        "raw": "Endogenous Social Interactions with Unobserved Networks",
+        "title": "Endogenous Social Interactions with Unobserved Networks",
+        "authors": [
+          "Marco Battaglini",
+          "Eleonora Patacchini",
+          "Edoardo Rainone"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "4",
+        "pages": "1694–1747",
+        "doi": "10.1093/restud/rdab058",
+        "url": "https://doi.org/10.1093/restud/rdab058",
         "verified": true,
         "note": ""
       }
@@ -42243,6 +42976,22 @@
         "pages": "515–573",
         "doi": "10.1093/qje/qjac033",
         "url": "https://doi.org/10.1093/qje/qjac033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimation and Inference of Impulse Responses by Local Projections",
+        "title": "Estimation and Inference of Impulse Responses by Local Projections",
+        "authors": [
+          "Òscar Jordà"
+        ],
+        "year": 2005,
+        "journal": "American Economic Review",
+        "volume": "95",
+        "issue": "1",
+        "pages": "161–182",
+        "doi": "10.1257/0002828053828518",
+        "url": "https://doi.org/10.1257/0002828053828518",
         "verified": true,
         "note": ""
       }
@@ -45585,6 +46334,24 @@
         "pages": "2267–2305",
         "doi": "10.1257/aer.20240022",
         "url": "https://doi.org/10.1257/aer.20240022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Event-Study Designs: Robust and Efficient Estimation",
+        "title": "Revisiting Event-Study Designs: Robust and Efficient Estimation",
+        "authors": [
+          "Kirill Borusyak",
+          "Xavier Jaravel",
+          "Jann Spiess"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "6",
+        "pages": "3253–3285",
+        "doi": "10.1093/restud/rdae007",
+        "url": "https://doi.org/10.1093/restud/rdae007",
         "verified": true,
         "note": ""
       }
@@ -55825,6 +56592,63 @@
     ]
   },
   {
+    "id": "4.2.8",
+    "title": "印度卡纳塔克邦村庄社会网络数据（Banerjee-Chandrasekhar-Duflo-Jackson 微型金融扩散数据）",
+    "links": [
+      {
+        "label": "Harvard Dataverse: The Diffusion of Microfinance",
+        "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U3BIHX"
+      }
+    ],
+    "summary": "2006 年在印度卡纳塔克邦 75 个村庄开展的全村户籍普查和个人社会网络调查，记录借贷、拜访、建议、亲属等 12 类关系，以及 BSS 微型金融项目的进入和参与，Harvard Dataverse 免费下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "数据由 Banerjee、Chandrasekhar、Duflo 和 Jackson 在印度卡纳塔克邦农村收集：先对 75 个村庄做全户普查（住房、厕所、电力、种姓、宗教等），再对约一半家庭的成年人开展个人调查，询问其向谁借钱、借给谁米或煤油、向谁寻求建议、与谁互访、亲属关系、一同去寺庙等 12 类联系，从而得到完整的村庄级多层社会网络；数据还记录了微型金融机构 Bharatha Swamukti Samsthe（BSS）进入村庄时首先通知的“领导者”以及此后各家庭的贷款参与。数据和代码发布在 Harvard Dataverse，2012 年后又补充了部分村庄的第二轮调查。\n\n数据是发展经济学和网络经济学最常用的公开网络数据，用于研究信息扩散、“扩散中心性”与种子选择、社会网络中的风险分担和信任、储蓄监督人的作用，以及在网络未完全观测时的同群效应估计方法。数据只覆盖卡纳塔克邦部分村庄，网络关系来自自报，可能遗漏弱联系。",
+    "source": "公开下载（Harvard Dataverse）。",
+    "references": [
+      {
+        "raw": "Social Networks, Reputation, and Commitment: Evidence From a Savings Monitors Experiment",
+        "title": "Social Networks, Reputation, and Commitment: Evidence From a Savings Monitors Experiment",
+        "authors": [
+          "Emily Breza",
+          "Arun G. Chandrasekhar"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "1",
+        "pages": "175–216",
+        "doi": "10.3982/ECTA13683",
+        "url": "https://doi.org/10.3982/ECTA13683",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Using Aggregated Relational Data to Feasibly Identify Network Structure without Network Data",
+        "title": "Using Aggregated Relational Data to Feasibly Identify Network Structure without Network Data",
+        "authors": [
+          "Emily Breza",
+          "Arun G. Chandrasekhar",
+          "Tyler H. McCormick",
+          "Mengjie Pan"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "8",
+        "pages": "2454–2484",
+        "doi": "10.1257/aer.20170861",
+        "url": "https://doi.org/10.1257/aer.20170861",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.3.1",
     "title": "印度年度工业调查（ASI）",
     "links": [
@@ -62616,6 +63440,78 @@
         "url": "https://doi.org/10.1017/s0022050715001527",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "title": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2121–2168",
+        "doi": "10.1257/aer.103.6.2121",
+        "url": "https://doi.org/10.1257/aer.103.6.2121",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Shift-Share Designs: Theory and Inference",
+        "title": "Shift-Share Designs: Theory and Inference",
+        "authors": [
+          "Rodrigo Adão",
+          "Michal Kolesár",
+          "Eduardo Morales"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "4",
+        "pages": "1949–2010",
+        "doi": "10.1093/qje/qjz025",
+        "url": "https://doi.org/10.1093/qje/qjz025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bartik Instruments: What, When, Why, and How",
+        "title": "Bartik Instruments: What, When, Why, and How",
+        "authors": [
+          "Paul Goldsmith-Pinkham",
+          "Isaac Sorkin",
+          "Henry Swift"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "8",
+        "pages": "2586–2624",
+        "doi": "10.1257/aer.20181047",
+        "url": "https://doi.org/10.1257/aer.20181047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quasi-Experimental Shift-Share Research Designs",
+        "title": "Quasi-Experimental Shift-Share Research Designs",
+        "authors": [
+          "Kirill Borusyak",
+          "Peter Hull",
+          "Xavier Jaravel"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "181–213",
+        "doi": "10.1093/restud/rdab030",
+        "url": "https://doi.org/10.1093/restud/rdab030",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65260,6 +66156,26 @@
         "url": "https://doi.org/10.1111/jeea.12071",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Synthetic Difference-in-Differences",
+        "title": "Synthetic Difference-in-Differences",
+        "authors": [
+          "Dmitry Arkhangelsky",
+          "Susan Athey",
+          "David A. Hirshberg",
+          "Guido W. Imbens",
+          "Stefan Wager"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "12",
+        "pages": "4088–4118",
+        "doi": "10.1257/aer.20190159",
+        "url": "https://doi.org/10.1257/aer.20190159",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66661,6 +67577,23 @@
         "pages": "60–82",
         "doi": "10.1016/j.jdeveco.2016.09.001",
         "url": "https://doi.org/10.1016/j.jdeveco.2016.09.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Nonrandom Exposure to Exogenous Shocks",
+        "title": "Nonrandom Exposure to Exogenous Shocks",
+        "authors": [
+          "Kirill Borusyak",
+          "Peter Hull"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "6",
+        "pages": "2155–2185",
+        "doi": "10.3982/ECTA19367",
+        "url": "https://doi.org/10.3982/ECTA19367",
         "verified": true,
         "note": ""
       }
@@ -76753,6 +77686,46 @@
     ]
   },
   {
+    "id": "7.10.18",
+    "title": "比较议程项目（Comparative Agendas Project）与美国政策议程项目议题编码数据",
+    "links": [
+      {
+        "label": "Comparative Agendas Project: Datasets",
+        "url": "https://www.comparativeagendas.net/datasets_codebooks"
+      }
+    ],
+    "summary": "比较议程项目统一按约 20 个主议题和 200 多个子议题对美国及 20 多个国家的法案、听证、行政命令、预算、媒体报道和政党纲领编码，美国部分含国会法案项目（Congressional Bills Project）数据，免费下载。",
+    "regions": [
+      "全球数据",
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "比较议程项目（CAP）起源于 Baumgartner 和 Jones 的美国政策议程项目（Policy Agendas Project），用统一的议题编码体系（宏观经济、民权、健康、农业、劳工、教育、环境、能源等约 20 个主议题和 200 多个子议题）对政策活动编码。美国数据包括 1947 年以来的国会法案（由 Adler 和 Wilkerson 的国会法案项目整理）、国会听证、公法、总统国情咨文和行政命令、联邦预算、最高法院判决、盖洛普“最重要问题”民调和《纽约时报》报道；欧洲、加拿大、澳大利亚等 20 多个国家团队按同一体系编码本国议会、政府和媒体活动。数据和编码手册在项目网站免费下载。\n\n数据常用于研究政策议程设定、注意力分配和立法行为，例如把法案按议题分类以构造议员在不同领域的立法活动，或比较各国政府在不同议题上的注意力随时间的变化。各国团队的覆盖年份和数据类型差异较大，编码依赖人工判断。",
+    "source": "公开下载（Comparative Agendas Project 官网）。",
+    "references": [
+      {
+        "raw": "Endogenous Social Interactions with Unobserved Networks",
+        "title": "Endogenous Social Interactions with Unobserved Networks",
+        "authors": [
+          "Marco Battaglini",
+          "Eleonora Patacchini",
+          "Edoardo Rainone"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "4",
+        "pages": "1694–1747",
+        "doi": "10.1093/restud/rdab058",
+        "url": "https://doi.org/10.1093/restud/rdab058",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.12.1",
     "title": "Bloomberg 金融市场数据",
     "links": [
@@ -80841,6 +81814,78 @@
         "pages": "1064–1082",
         "doi": "10.1162/rest_a_01194",
         "url": "https://doi.org/10.1162/rest_a_01194",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "title": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2121–2168",
+        "doi": "10.1257/aer.103.6.2121",
+        "url": "https://doi.org/10.1257/aer.103.6.2121",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Shift-Share Designs: Theory and Inference",
+        "title": "Shift-Share Designs: Theory and Inference",
+        "authors": [
+          "Rodrigo Adão",
+          "Michal Kolesár",
+          "Eduardo Morales"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "4",
+        "pages": "1949–2010",
+        "doi": "10.1093/qje/qjz025",
+        "url": "https://doi.org/10.1093/qje/qjz025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bartik Instruments: What, When, Why, and How",
+        "title": "Bartik Instruments: What, When, Why, and How",
+        "authors": [
+          "Paul Goldsmith-Pinkham",
+          "Isaac Sorkin",
+          "Henry Swift"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "8",
+        "pages": "2586–2624",
+        "doi": "10.1257/aer.20181047",
+        "url": "https://doi.org/10.1257/aer.20181047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quasi-Experimental Shift-Share Research Designs",
+        "title": "Quasi-Experimental Shift-Share Research Designs",
+        "authors": [
+          "Kirill Borusyak",
+          "Peter Hull",
+          "Xavier Jaravel"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "1",
+        "pages": "181–213",
+        "doi": "10.1093/restud/rdab030",
+        "url": "https://doi.org/10.1093/restud/rdab030",
         "verified": true,
         "note": ""
       }
