@@ -7394,6 +7394,23 @@
         "url": "https://doi.org/10.1162/qjec.122.2.775",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financial Constraints, Asset Tangibility, and Corporate Investment",
+        "title": "Financial Constraints, Asset Tangibility, and Corporate Investment",
+        "authors": [
+          "Heitor Almeida",
+          "Murillo Campello"
+        ],
+        "year": 2007,
+        "journal": "Review of Financial Studies",
+        "volume": "20",
+        "issue": "5",
+        "pages": "1429–1460",
+        "doi": "10.1093/rfs/hhm019",
+        "url": "https://doi.org/10.1093/rfs/hhm019",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16133,6 +16150,44 @@
         "pages": "1–34",
         "doi": "10.2307/2118322",
         "url": "https://doi.org/10.2307/2118322",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.31",
+    "title": "NBER 美国经济周期扩张与收缩日期",
+    "links": [
+      {
+        "label": "NBER Business Cycle Dates",
+        "url": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions"
+      }
+    ],
+    "summary": "美国国家经济研究局经济周期测定委员会公布的美国经济周期波峰和波谷月份及季度，1854 年以来，是美国衰退期的官方参考划分。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "NBER 经济周期测定委员会（Business Cycle Dating Committee）根据实际收入、就业、工业生产、消费和销售等多项指标，事后确定美国经济活动的波峰和波谷，发布 1854 年 12 月以来的月度和季度周期转折日期以及各次扩张和收缩的持续时间，衰退期即波峰到波谷的区间。日期表在 NBER 网站免费下载，FRED 也提供衰退期指示变量。\n\n数据常用于划分经济衰退期，例如检验多元化企业的估值折价是否随经济周期变化，或研究衰退期间企业投资和融资约束的变化。周期日期通常在转折点过去一年左右才公布，实时分析中需注意信息可得性。",
+    "source": "NBER 网站免费下载。",
+    "references": [
+      {
+        "raw": "Explaining the Diversification Discount",
+        "title": "Explaining the Diversification Discount",
+        "authors": [
+          "Jose Manuel Campa",
+          "Simi Kedia"
+        ],
+        "year": 2002,
+        "journal": "The Journal of Finance",
+        "volume": "57",
+        "issue": "4",
+        "pages": "1731–1762",
+        "doi": "10.1111/1540-6261.00476",
+        "url": "https://doi.org/10.1111/1540-6261.00476",
         "verified": true,
         "note": ""
       }
@@ -37412,6 +37467,24 @@
         "url": "https://doi.org/10.1257/aer.20201073",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Collateral Channel: How Real Estate Shocks Affect Corporate Investment",
+        "title": "The Collateral Channel: How Real Estate Shocks Affect Corporate Investment",
+        "authors": [
+          "Thomas Chaney",
+          "David Sraer",
+          "David Thesmar"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "6",
+        "pages": "2381–2409",
+        "doi": "10.1257/aer.102.6.2381",
+        "url": "https://doi.org/10.1257/aer.102.6.2381",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37821,6 +37894,193 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Investment-Cash Flow Sensitivities Provide Useful Measures of Financing Constraints?",
+        "title": "Do Investment-Cash Flow Sensitivities Provide Useful Measures of Financing Constraints?",
+        "authors": [
+          "Steven N. Kaplan",
+          "Luigi Zingales"
+        ],
+        "year": 1997,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "112",
+        "issue": "1",
+        "pages": "169–215",
+        "doi": "10.1162/003355397555163",
+        "url": "https://doi.org/10.1162/003355397555163",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Relationship between Firm Investment and Financial Status",
+        "title": "The Relationship between Firm Investment and Financial Status",
+        "authors": [
+          "Sean Cleary"
+        ],
+        "year": 1999,
+        "journal": "The Journal of Finance",
+        "volume": "54",
+        "issue": "2",
+        "pages": "673–692",
+        "doi": "10.1111/0022-1082.00121",
+        "url": "https://doi.org/10.1111/0022-1082.00121",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measurement Error and the Relationship between Investment and q",
+        "title": "Measurement Error and the Relationship between Investment and q",
+        "authors": [
+          "Timothy Erickson",
+          "Toni M. Whited"
+        ],
+        "year": 2000,
+        "journal": "Journal of Political Economy",
+        "volume": "108",
+        "issue": "5",
+        "pages": "1027–1057",
+        "doi": "10.1086/317670",
+        "url": "https://doi.org/10.1086/317670",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing Investment",
+        "title": "Financing Investment",
+        "authors": [
+          "João F. Gomes"
+        ],
+        "year": 2001,
+        "journal": "American Economic Review",
+        "volume": "91",
+        "issue": "5",
+        "pages": "1263–1285",
+        "doi": "10.1257/aer.91.5.1263",
+        "url": "https://doi.org/10.1257/aer.91.5.1263",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When Does the Market Matter? Stock Prices and the Investment of Equity-Dependent Firms",
+        "title": "When Does the Market Matter? Stock Prices and the Investment of Equity-Dependent Firms",
+        "authors": [
+          "Malcolm Baker",
+          "Jeremy C. Stein",
+          "Jeffrey Wurgler"
+        ],
+        "year": 2003,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "118",
+        "issue": "3",
+        "pages": "969–1005",
+        "doi": "10.1162/00335530360698478",
+        "url": "https://doi.org/10.1162/00335530360698478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Constraints, Asset Tangibility, and Corporate Investment",
+        "title": "Financial Constraints, Asset Tangibility, and Corporate Investment",
+        "authors": [
+          "Heitor Almeida",
+          "Murillo Campello"
+        ],
+        "year": 2007,
+        "journal": "Review of Financial Studies",
+        "volume": "20",
+        "issue": "5",
+        "pages": "1429–1460",
+        "doi": "10.1093/rfs/hhm019",
+        "url": "https://doi.org/10.1093/rfs/hhm019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The real effects of financial constraints: Evidence from a financial crisis",
+        "title": "The real effects of financial constraints: Evidence from a financial crisis",
+        "authors": [
+          "Murillo Campello",
+          "John R. Graham",
+          "Campbell R. Harvey"
+        ],
+        "year": 2010,
+        "journal": "Journal of Financial Economics",
+        "volume": "97",
+        "issue": "3",
+        "pages": "470–487",
+        "doi": "10.1016/j.jfineco.2010.02.009",
+        "url": "https://doi.org/10.1016/j.jfineco.2010.02.009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Collateral Channel: How Real Estate Shocks Affect Corporate Investment",
+        "title": "The Collateral Channel: How Real Estate Shocks Affect Corporate Investment",
+        "authors": [
+          "Thomas Chaney",
+          "David Sraer",
+          "David Thesmar"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "6",
+        "pages": "2381–2409",
+        "doi": "10.1257/aer.102.6.2381",
+        "url": "https://doi.org/10.1257/aer.102.6.2381",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Debt, Liquidity Constraints, and Corporate Investment: Evidence from Panel Data",
+        "title": "Debt, Liquidity Constraints, and Corporate Investment: Evidence from Panel Data",
+        "authors": [
+          "Toni M. Whited"
+        ],
+        "year": 1992,
+        "journal": "The Journal of Finance",
+        "volume": "47",
+        "issue": "4",
+        "pages": "1425–1460",
+        "doi": "10.1111/j.1540-6261.1992.tb04664.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.1992.tb04664.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Diversification's effect on firm value",
+        "title": "Diversification's effect on firm value",
+        "authors": [
+          "Philip G. Berger",
+          "Eli Ofek"
+        ],
+        "year": 1995,
+        "journal": "Journal of Financial Economics",
+        "volume": "37",
+        "issue": "1",
+        "pages": "39–65",
+        "doi": "10.1016/0304-405x(94)00798-6",
+        "url": "https://doi.org/10.1016/0304-405x(94)00798-6",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining the Diversification Discount",
+        "title": "Explaining the Diversification Discount",
+        "authors": [
+          "Jose Manuel Campa",
+          "Simi Kedia"
+        ],
+        "year": 2002,
+        "journal": "The Journal of Finance",
+        "volume": "57",
+        "issue": "4",
+        "pages": "1731–1762",
+        "doi": "10.1111/1540-6261.00476",
+        "url": "https://doi.org/10.1111/1540-6261.00476",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37895,6 +38155,41 @@
         "pages": "72–112",
         "doi": "10.1257/pol.1.2.72",
         "url": "https://doi.org/10.1257/pol.1.2.72",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Investment-Cash Flow Sensitivities Provide Useful Measures of Financing Constraints?",
+        "title": "Do Investment-Cash Flow Sensitivities Provide Useful Measures of Financing Constraints?",
+        "authors": [
+          "Steven N. Kaplan",
+          "Luigi Zingales"
+        ],
+        "year": 1997,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "112",
+        "issue": "1",
+        "pages": "169–215",
+        "doi": "10.1162/003355397555163",
+        "url": "https://doi.org/10.1162/003355397555163",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Collateral Channel: How Real Estate Shocks Affect Corporate Investment",
+        "title": "The Collateral Channel: How Real Estate Shocks Affect Corporate Investment",
+        "authors": [
+          "Thomas Chaney",
+          "David Sraer",
+          "David Thesmar"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "6",
+        "pages": "2381–2409",
+        "doi": "10.1257/aer.102.6.2381",
+        "url": "https://doi.org/10.1257/aer.102.6.2381",
         "verified": true,
         "note": ""
       }
@@ -38690,6 +38985,255 @@
         "pages": "757–784",
         "doi": "10.1017/S002205070001189X",
         "url": "https://doi.org/10.1017/S002205070001189X",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.16",
+    "title": "标普 Compustat 公司财务数据库",
+    "links": [
+      {
+        "label": "S&P Global: Compustat Financials",
+        "url": "https://www.spglobal.com/marketintelligence/en/solutions/products/compustat-financials"
+      }
+    ],
+    "summary": "标普全球市场财智旗下的上市公司财务报表数据库，北美部分覆盖 1950 年代以来美国和加拿大上市公司的年度和季度资产负债表、利润表、现金流量表及业务分部数据，是公司金融实证研究最常用的数据。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "Compustat 由标准普尔（现 S&P Global Market Intelligence）于 1962 年推出，北美数据库（Compustat North America）收录美国和加拿大上市公司（含已退市公司）的标准化财务数据，年度数据可回溯至 1950 年，季度数据至 1960 年代，包括数百个资产负债表、利润表和现金流量表项目、股价和股本、信用评级，以及按业务和地区分部的销售、利润和资本支出（Segments 数据库）；Compustat Global 覆盖其他国家上市公司。数据为付费商业产品，学术研究通常通过 WRDS 机构订阅访问，可用 CCM 链接表与 CRSP 股价数据合并。\n\n数据常用于研究企业投资、融资和多元化，例如检验投资对现金流的敏感度能否衡量融资约束、估计托宾 q 与投资的关系，或用业务分部数据测算多元化折价。Compustat 对财务项目做了标准化调整，与公司原始报表不完全一致，早期年份存在回填带来的幸存者偏差。",
+    "source": "付费商业（通常经 WRDS 机构订阅；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Do Investment-Cash Flow Sensitivities Provide Useful Measures of Financing Constraints?",
+        "title": "Do Investment-Cash Flow Sensitivities Provide Useful Measures of Financing Constraints?",
+        "authors": [
+          "Steven N. Kaplan",
+          "Luigi Zingales"
+        ],
+        "year": 1997,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "112",
+        "issue": "1",
+        "pages": "169–215",
+        "doi": "10.1162/003355397555163",
+        "url": "https://doi.org/10.1162/003355397555163",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Relationship between Firm Investment and Financial Status",
+        "title": "The Relationship between Firm Investment and Financial Status",
+        "authors": [
+          "Sean Cleary"
+        ],
+        "year": 1999,
+        "journal": "The Journal of Finance",
+        "volume": "54",
+        "issue": "2",
+        "pages": "673–692",
+        "doi": "10.1111/0022-1082.00121",
+        "url": "https://doi.org/10.1111/0022-1082.00121",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measurement Error and the Relationship between Investment and q",
+        "title": "Measurement Error and the Relationship between Investment and q",
+        "authors": [
+          "Timothy Erickson",
+          "Toni M. Whited"
+        ],
+        "year": 2000,
+        "journal": "Journal of Political Economy",
+        "volume": "108",
+        "issue": "5",
+        "pages": "1027–1057",
+        "doi": "10.1086/317670",
+        "url": "https://doi.org/10.1086/317670",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing Investment",
+        "title": "Financing Investment",
+        "authors": [
+          "João F. Gomes"
+        ],
+        "year": 2001,
+        "journal": "American Economic Review",
+        "volume": "91",
+        "issue": "5",
+        "pages": "1263–1285",
+        "doi": "10.1257/aer.91.5.1263",
+        "url": "https://doi.org/10.1257/aer.91.5.1263",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When Does the Market Matter? Stock Prices and the Investment of Equity-Dependent Firms",
+        "title": "When Does the Market Matter? Stock Prices and the Investment of Equity-Dependent Firms",
+        "authors": [
+          "Malcolm Baker",
+          "Jeremy C. Stein",
+          "Jeffrey Wurgler"
+        ],
+        "year": 2003,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "118",
+        "issue": "3",
+        "pages": "969–1005",
+        "doi": "10.1162/00335530360698478",
+        "url": "https://doi.org/10.1162/00335530360698478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Constraints, Asset Tangibility, and Corporate Investment",
+        "title": "Financial Constraints, Asset Tangibility, and Corporate Investment",
+        "authors": [
+          "Heitor Almeida",
+          "Murillo Campello"
+        ],
+        "year": 2007,
+        "journal": "Review of Financial Studies",
+        "volume": "20",
+        "issue": "5",
+        "pages": "1429–1460",
+        "doi": "10.1093/rfs/hhm019",
+        "url": "https://doi.org/10.1093/rfs/hhm019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The real effects of financial constraints: Evidence from a financial crisis",
+        "title": "The real effects of financial constraints: Evidence from a financial crisis",
+        "authors": [
+          "Murillo Campello",
+          "John R. Graham",
+          "Campbell R. Harvey"
+        ],
+        "year": 2010,
+        "journal": "Journal of Financial Economics",
+        "volume": "97",
+        "issue": "3",
+        "pages": "470–487",
+        "doi": "10.1016/j.jfineco.2010.02.009",
+        "url": "https://doi.org/10.1016/j.jfineco.2010.02.009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Collateral Channel: How Real Estate Shocks Affect Corporate Investment",
+        "title": "The Collateral Channel: How Real Estate Shocks Affect Corporate Investment",
+        "authors": [
+          "Thomas Chaney",
+          "David Sraer",
+          "David Thesmar"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "6",
+        "pages": "2381–2409",
+        "doi": "10.1257/aer.102.6.2381",
+        "url": "https://doi.org/10.1257/aer.102.6.2381",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Debt, Liquidity Constraints, and Corporate Investment: Evidence from Panel Data",
+        "title": "Debt, Liquidity Constraints, and Corporate Investment: Evidence from Panel Data",
+        "authors": [
+          "Toni M. Whited"
+        ],
+        "year": 1992,
+        "journal": "The Journal of Finance",
+        "volume": "47",
+        "issue": "4",
+        "pages": "1425–1460",
+        "doi": "10.1111/j.1540-6261.1992.tb04664.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.1992.tb04664.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Diversification's effect on firm value",
+        "title": "Diversification's effect on firm value",
+        "authors": [
+          "Philip G. Berger",
+          "Eli Ofek"
+        ],
+        "year": 1995,
+        "journal": "Journal of Financial Economics",
+        "volume": "37",
+        "issue": "1",
+        "pages": "39–65",
+        "doi": "10.1016/0304-405x(94)00798-6",
+        "url": "https://doi.org/10.1016/0304-405x(94)00798-6",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining the Diversification Discount",
+        "title": "Explaining the Diversification Discount",
+        "authors": [
+          "Jose Manuel Campa",
+          "Simi Kedia"
+        ],
+        "year": 2002,
+        "journal": "The Journal of Finance",
+        "volume": "57",
+        "issue": "4",
+        "pages": "1731–1762",
+        "doi": "10.1111/1540-6261.00476",
+        "url": "https://doi.org/10.1111/1540-6261.00476",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.17",
+    "title": "CRSP 美国证券价格研究中心数据库",
+    "links": [
+      {
+        "label": "CRSP",
+        "url": "https://www.crsp.org/"
+      }
+    ],
+    "summary": "芝加哥大学证券价格研究中心编制的美国股票日度和月度价格、收益率、股本和公司行为数据库，覆盖 1925 年以来 NYSE、AMEX 和 NASDAQ 上市证券，是资产定价研究的基准数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "CRSP（Center for Research in Security Prices）由芝加哥大学布斯商学院于 1960 年建立，美国股票数据库收录 1925 年以来纽约证券交易所、1962 年以来美国证券交易所和 1972 年以来纳斯达克上市普通股的日度和月度价格、含股息收益率、成交量、流通股本、股息和拆股等公司行为及退市收益，另有市场指数、美国国债、共同基金和房地产投资信托数据库。数据为付费商业产品，学术研究通常通过 WRDS 机构订阅访问，并可用 CCM 链接表与 Compustat 合并。\n\n数据常用于资产定价和公司金融研究，例如用股价计算市场价值和托宾 q，研究股价对依赖股权融资企业投资的影响，或构造事件研究中的超额收益。使用时需正确处理退市收益和股票代码（PERMNO）的变化。",
+    "source": "付费商业（通常经 WRDS 机构订阅）。",
+    "references": [
+      {
+        "raw": "When Does the Market Matter? Stock Prices and the Investment of Equity-Dependent Firms",
+        "title": "When Does the Market Matter? Stock Prices and the Investment of Equity-Dependent Firms",
+        "authors": [
+          "Malcolm Baker",
+          "Jeremy C. Stein",
+          "Jeffrey Wurgler"
+        ],
+        "year": 2003,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "118",
+        "issue": "3",
+        "pages": "969–1005",
+        "doi": "10.1162/00335530360698478",
+        "url": "https://doi.org/10.1162/00335530360698478",
         "verified": true,
         "note": ""
       }
@@ -43740,6 +44284,24 @@
         "url": "https://doi.org/10.1093/restud/rdae055",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dynamic Consequences of State Building: Evidence from the French Revolution",
+        "title": "The Dynamic Consequences of State Building: Evidence from the French Revolution",
+        "authors": [
+          "Cédric Chambru",
+          "Emeric Henry",
+          "Benjamin Marx"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "11",
+        "pages": "3578–3622",
+        "doi": "10.1257/aer.20220110",
+        "url": "https://doi.org/10.1257/aer.20220110",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -47629,6 +48191,45 @@
     ]
   },
   {
+    "id": "3.13.3",
+    "title": "法国国家工业产权局 19 世纪专利开放数据（INPI）",
+    "links": [
+      {
+        "label": "INPI: Open data brevets du 19e siècle",
+        "url": "https://www.inpi.fr/fr/open-data-brevets-19eme"
+      }
+    ],
+    "summary": "法国国家工业产权局公开的 1791—1902 年法国专利数字化档案和元数据，记录发明人、地址、技术领域和授予日期，免费下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "法国国家工业产权局（INPI）把 1791 年专利法实施以来至 1902 年间授予的约 30 万件法国发明专利（brevets d'invention）及其附图、说明书进行了数字化，并以开放数据形式发布元数据，包括专利号、发明人或申请人姓名、职业和地址（可定位到市镇）、发明名称、技术类别和授予日期，可在 INPI 网站免费下载。\n\n数据常用于研究 19 世纪法国的创新和区域发展，例如以各市镇的专利数衡量创新活动，研究法国大革命期间国家能力建设和公共品供给对长期经济发展的影响。早期专利需付费申请，专利数反映的是有能力申请专利的发明者。",
+    "source": "INPI 网站开放数据免费下载。",
+    "references": [
+      {
+        "raw": "The Dynamic Consequences of State Building: Evidence from the French Revolution",
+        "title": "The Dynamic Consequences of State Building: Evidence from the French Revolution",
+        "authors": [
+          "Cédric Chambru",
+          "Emeric Henry",
+          "Benjamin Marx"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "11",
+        "pages": "3578–3622",
+        "doi": "10.1257/aer.20220110",
+        "url": "https://doi.org/10.1257/aer.20220110",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.14.1",
     "title": "洛桑试验站长期田间试验（Rothamsted Long-Term Experiments，e-RA）",
     "links": [
@@ -50113,6 +50714,46 @@
         "pages": "102488",
         "doi": "10.1016/j.jhealeco.2021.102488",
         "url": "https://doi.org/10.1016/j.jhealeco.2021.102488",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.12.1",
+    "title": "日经 NEEDS 企业财务数据（Nikkei NEEDS-Financial QUEST）",
+    "links": [
+      {
+        "label": "Nikkei NEEDS",
+        "url": "https://needs.nikkei.co.jp/"
+      }
+    ],
+    "summary": "日本经济新闻社数据库提供的日本上市公司财务报表、股价和企业属性数据，1960 年代起，是日本公司金融研究的主要数据来源。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "日经 NEEDS（Nikkei Economic Electronic Databank System）由日本经济新闻社自 1970 年前后建立，其企业财务数据（原 Nikkei Financial Data Tapes，现通过 NEEDS-Financial QUEST 等产品提供）收录日本上市公司（及部分非上市公司）1960 年代以来的资产负债表、利润表、现金流和附注项目，以及股价、股东构成、银行借款明细和董事信息，另有宏观经济和行业数据库。数据为付费商业产品，日本和海外大学多通过机构订阅获取。\n\n数据常用于研究日本企业的投资和融资，例如结合企业集团（系列）归属信息，研究与主银行关系密切的企业投资对现金流是否不那么敏感。会计准则在 2000 年前后有较大调整，跨期比较需注意口径变化。",
+    "source": "付费商业（日经 NEEDS 订阅）。",
+    "references": [
+      {
+        "raw": "Corporate Structure, Liquidity, and Investment: Evidence from Japanese Industrial Groups",
+        "title": "Corporate Structure, Liquidity, and Investment: Evidence from Japanese Industrial Groups",
+        "authors": [
+          "Takeo Hoshi",
+          "Anil Kashyap",
+          "David Scharfstein"
+        ],
+        "year": 1991,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "106",
+        "issue": "1",
+        "pages": "33–60",
+        "doi": "10.2307/2937905",
+        "url": "https://doi.org/10.2307/2937905",
         "verified": true,
         "note": ""
       }
@@ -59248,6 +59889,25 @@
         "url": "https://doi.org/10.1017/S0022050712000629",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Consequences of Radical Reform: The French Revolution",
+        "title": "The Consequences of Radical Reform: The French Revolution",
+        "authors": [
+          "Daron Acemoglu",
+          "Davide Cantoni",
+          "Simon Johnson",
+          "James A. Robinson"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "3286–3307",
+        "doi": "10.1257/aer.101.7.3286",
+        "url": "https://doi.org/10.1257/aer.101.7.3286",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59391,6 +60051,25 @@
         "pages": "593–650",
         "doi": "10.1093/qje/qjr009",
         "url": "https://doi.org/10.1093/qje/qjr009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consequences of Radical Reform: The French Revolution",
+        "title": "The Consequences of Radical Reform: The French Revolution",
+        "authors": [
+          "Daron Acemoglu",
+          "Davide Cantoni",
+          "Simon Johnson",
+          "James A. Robinson"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "3286–3307",
+        "doi": "10.1257/aer.101.7.3286",
+        "url": "https://doi.org/10.1257/aer.101.7.3286",
         "verified": true,
         "note": ""
       }
@@ -69035,6 +69714,44 @@
         "pages": "1243–1290",
         "doi": "10.1093/restud/rdad058",
         "url": "https://doi.org/10.1093/restud/rdad058",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.12",
+    "title": "SDC Platinum 并购、发行与融资交易数据库（LSEG Deals）",
+    "links": [
+      {
+        "label": "LSEG Deals Data (SDC)",
+        "url": "https://www.lseg.com/en/data-analytics/financial-data/deals-data"
+      }
+    ],
+    "summary": "原汤森路透（现伦敦证券交易所集团 LSEG）的全球金融交易数据库，记录 1970 年代以来的并购、股票和债券发行、IPO、银团贷款和风险投资交易。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "SDC Platinum（Securities Data Company）现为 LSEG Deals 数据产品，记录全球并购交易（宣告日、交易双方、交易价值、支付方式、结果）、新股发行和增发、公司债和市政债发行、银团贷款、风险投资和私募股权交易，美国并购数据可回溯至 1979 年前后，发行数据回溯至 1970 年代，每笔交易包含承销商和顾问信息。数据为付费商业产品，通过 LSEG Workspace 或机构订阅获取，部分高校通过 WRDS 提供 SDC 子集。\n\n数据常用于研究公司并购和融资，例如识别企业的并购和剥离事件，作为多元化折价研究中企业多元化决策的辅助数据，或研究 IPO 定价和承销商声誉。小型和私人公司交易的覆盖不完整，交易价值字段缺失较多。",
+    "source": "付费商业（LSEG 订阅或机构订阅）。",
+    "references": [
+      {
+        "raw": "Explaining the Diversification Discount",
+        "title": "Explaining the Diversification Discount",
+        "authors": [
+          "Jose Manuel Campa",
+          "Simi Kedia"
+        ],
+        "year": 2002,
+        "journal": "The Journal of Finance",
+        "volume": "57",
+        "issue": "4",
+        "pages": "1731–1762",
+        "doi": "10.1111/1540-6261.00476",
+        "url": "https://doi.org/10.1111/1540-6261.00476",
         "verified": true,
         "note": ""
       }
