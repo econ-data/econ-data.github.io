@@ -525,6 +525,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2011.02.002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Size Distribution of Firms and Industrial Water Pollution: A Quantitative Analysis of China",
+        "title": "The Size Distribution of Firms and Industrial Water Pollution: A Quantitative Analysis of China",
+        "authors": [
+          "Ji Qi",
+          "Xin Tang",
+          "Xican Xi"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "13",
+        "issue": "1",
+        "pages": "151–183",
+        "doi": "10.1257/mac.20180227",
+        "url": "https://doi.org/10.1257/mac.20180227",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1956,6 +1974,23 @@
         "url": "https://doi.org/10.1111/jofi.12966",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Sources of Capital Misallocation",
+        "title": "The Sources of Capital Misallocation",
+        "authors": [
+          "Joel M. David",
+          "Venky Venkateswaran"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2531–2567",
+        "doi": "10.1257/aer.20180336",
+        "url": "https://doi.org/10.1257/aer.20180336",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2196,6 +2231,24 @@
         "pages": "102683",
         "doi": "10.1016/j.jdeveco.2021.102683",
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102683",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Size Distribution of Firms and Industrial Water Pollution: A Quantitative Analysis of China",
+        "title": "The Size Distribution of Firms and Industrial Water Pollution: A Quantitative Analysis of China",
+        "authors": [
+          "Ji Qi",
+          "Xin Tang",
+          "Xican Xi"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "13",
+        "issue": "1",
+        "pages": "151–183",
+        "doi": "10.1257/mac.20180227",
+        "url": "https://doi.org/10.1257/mac.20180227",
         "verified": true,
         "note": ""
       }
@@ -3166,6 +3219,23 @@
         "pages": "2855–2898",
         "doi": "10.1111/jofi.12966",
         "url": "https://doi.org/10.1111/jofi.12966",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Manufacturing TFP in China and India",
+        "title": "Misallocation and Manufacturing TFP in China and India",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "4",
+        "pages": "1403–1448",
+        "doi": "10.1162/qjec.2009.124.4.1403",
+        "url": "https://doi.org/10.1162/qjec.2009.124.4.1403",
         "verified": true,
         "note": ""
       }
@@ -7859,6 +7929,40 @@
         "url": "https://doi.org/10.1093/qje/qjae031",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Explanation of Productivity Change",
+        "title": "The Explanation of Productivity Change",
+        "authors": [
+          "Dale W. Jorgenson",
+          "Zvi Griliches"
+        ],
+        "year": 1967,
+        "journal": "The Review of Economic Studies",
+        "volume": "34",
+        "issue": "3",
+        "pages": "249–283",
+        "doi": "10.2307/2296675",
+        "url": "https://doi.org/10.2307/2296675",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8816,6 +8920,128 @@
         "pages": "43–74",
         "doi": "10.1086/733979",
         "url": "https://doi.org/10.1086/733979",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Life Cycle of Plants in India and Mexico",
+        "title": "The Life Cycle of Plants in India and Mexico",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "3",
+        "pages": "1035–1084",
+        "doi": "10.1093/qje/qju014",
+        "url": "https://doi.org/10.1093/qje/qju014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Explanation of Productivity Change",
+        "title": "The Explanation of Productivity Change",
+        "authors": [
+          "Dale W. Jorgenson",
+          "Zvi Griliches"
+        ],
+        "year": 1967,
+        "journal": "The Review of Economic Studies",
+        "volume": "34",
+        "issue": "3",
+        "pages": "249–283",
+        "doi": "10.2307/2296675",
+        "url": "https://doi.org/10.2307/2296675",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Selection, Reallocation, and Restructuring in the U.S. Retail Trade Sector in the 1990s",
+        "title": "Market Selection, Reallocation, and Restructuring in the U.S. Retail Trade Sector in the 1990s",
+        "authors": [
+          "Lucia Foster",
+          "John Haltiwanger",
+          "C. J. Krizan"
+        ],
+        "year": 2006,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "88",
+        "issue": "4",
+        "pages": "748–758",
+        "doi": "10.1162/rest.88.4.748",
+        "url": "https://doi.org/10.1162/rest.88.4.748",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Manufacturing TFP in China and India",
+        "title": "Misallocation and Manufacturing TFP in China and India",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "4",
+        "pages": "1403–1448",
+        "doi": "10.1162/qjec.2009.124.4.1403",
+        "url": "https://doi.org/10.1162/qjec.2009.124.4.1403",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Inputs and Resource (Mis)Allocation",
+        "title": "Dynamic Inputs and Resource (Mis)Allocation",
+        "authors": [
+          "John Asker",
+          "Allan Collard-Wexler",
+          "Jan De Loecker"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "5",
+        "pages": "1013–1063",
+        "doi": "10.1086/677072",
+        "url": "https://doi.org/10.1086/677072",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Finance and Development: A Tale of Two Sectors",
+        "title": "Finance and Development: A Tale of Two Sectors",
+        "authors": [
+          "Francisco J. Buera",
+          "Joseph P. Kaboski",
+          "Yongseok Shin"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1964–2002",
+        "doi": "10.1257/aer.101.5.1964",
+        "url": "https://doi.org/10.1257/aer.101.5.1964",
         "verified": true,
         "note": ""
       }
@@ -11267,6 +11493,43 @@
         "pages": "459–520",
         "doi": "10.1093/qje/qjae031",
         "url": "https://doi.org/10.1093/qje/qjae031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Occupational Exposure to Capital-Embodied Technical Change",
+        "title": "Occupational Exposure to Capital-Embodied Technical Change",
+        "authors": [
+          "Julieta Caunedo",
+          "David Jaume",
+          "Elisa Keller"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "6",
+        "pages": "1642–1685",
+        "doi": "10.1257/aer.20211478",
+        "url": "https://doi.org/10.1257/aer.20211478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
         "verified": true,
         "note": ""
       }
@@ -14355,6 +14618,24 @@
         "url": "https://doi.org/10.3386/w32948",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Occupational Exposure to Capital-Embodied Technical Change",
+        "title": "Occupational Exposure to Capital-Embodied Technical Change",
+        "authors": [
+          "Julieta Caunedo",
+          "David Jaume",
+          "Elisa Keller"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "6",
+        "pages": "1642–1685",
+        "doi": "10.1257/aer.20211478",
+        "url": "https://doi.org/10.1257/aer.20211478",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14756,6 +15037,24 @@
         "url": "https://doi.org/10.1093/qje/qjw044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Occupational Exposure to Capital-Embodied Technical Change",
+        "title": "Occupational Exposure to Capital-Embodied Technical Change",
+        "authors": [
+          "Julieta Caunedo",
+          "David Jaume",
+          "Elisa Keller"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "6",
+        "pages": "1642–1685",
+        "doi": "10.1257/aer.20211478",
+        "url": "https://doi.org/10.1257/aer.20211478",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15015,6 +15314,23 @@
         "url": "https://doi.org/10.1162/rest_a_01275",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15086,6 +15402,22 @@
         "pages": "167–201",
         "doi": "10.1257/aer.102.1.167",
         "url": "https://doi.org/10.1257/aer.102.1.167",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On the Mechanics of Firm Growth",
+        "title": "On the Mechanics of Firm Growth",
+        "authors": [
+          "Erzo G. J. Luttmer"
+        ],
+        "year": 2011,
+        "journal": "The Review of Economic Studies",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1042–1068",
+        "doi": "10.1093/restud/rdq028",
+        "url": "https://doi.org/10.1093/restud/rdq028",
         "verified": true,
         "note": ""
       }
@@ -15479,6 +15811,23 @@
         "pages": "459–520",
         "doi": "10.1093/qje/qjae031",
         "url": "https://doi.org/10.1093/qje/qjae031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
         "verified": true,
         "note": ""
       }
@@ -16561,6 +16910,58 @@
         "url": "https://doi.org/10.1162/qjec.122.3.1103",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "On the Mechanics of Firm Growth",
+        "title": "On the Mechanics of Firm Growth",
+        "authors": [
+          "Erzo G. J. Luttmer"
+        ],
+        "year": 2011,
+        "journal": "The Review of Economic Studies",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1042–1068",
+        "doi": "10.1093/restud/rdq028",
+        "url": "https://doi.org/10.1093/restud/rdq028",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Size Distribution of Firms and Industrial Water Pollution: A Quantitative Analysis of China",
+        "title": "The Size Distribution of Firms and Industrial Water Pollution: A Quantitative Analysis of China",
+        "authors": [
+          "Ji Qi",
+          "Xin Tang",
+          "Xican Xi"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "13",
+        "issue": "1",
+        "pages": "151–183",
+        "doi": "10.1257/mac.20180227",
+        "url": "https://doi.org/10.1257/mac.20180227",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing Development: The Role of Information Costs",
+        "title": "Financing Development: The Role of Information Costs",
+        "authors": [
+          "Jeremy Greenwood",
+          "Juan M. Sanchez",
+          "Cheng Wang"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "4",
+        "pages": "1875–1891",
+        "doi": "10.1257/aer.100.4.1875",
+        "url": "https://doi.org/10.1257/aer.100.4.1875",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17221,6 +17622,75 @@
         "pages": "394–425",
         "doi": "10.1257/aer.98.1.394",
         "url": "https://doi.org/10.1257/aer.98.1.394",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Manufacturing TFP in China and India",
+        "title": "Misallocation and Manufacturing TFP in China and India",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "4",
+        "pages": "1403–1448",
+        "doi": "10.1162/qjec.2009.124.4.1403",
+        "url": "https://doi.org/10.1162/qjec.2009.124.4.1403",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Inputs and Resource (Mis)Allocation",
+        "title": "Dynamic Inputs and Resource (Mis)Allocation",
+        "authors": [
+          "John Asker",
+          "Allan Collard-Wexler",
+          "Jan De Loecker"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "5",
+        "pages": "1013–1063",
+        "doi": "10.1086/677072",
+        "url": "https://doi.org/10.1086/677072",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Sources of Capital Misallocation",
+        "title": "The Sources of Capital Misallocation",
+        "authors": [
+          "Joel M. David",
+          "Venky Venkateswaran"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2531–2567",
+        "doi": "10.1257/aer.20180336",
+        "url": "https://doi.org/10.1257/aer.20180336",
         "verified": true,
         "note": ""
       }
@@ -19033,6 +19503,23 @@
         "url": "https://doi.org/10.1086/674633",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Sources of Capital Misallocation",
+        "title": "The Sources of Capital Misallocation",
+        "authors": [
+          "Joel M. David",
+          "Venky Venkateswaran"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2531–2567",
+        "doi": "10.1257/aer.20180336",
+        "url": "https://doi.org/10.1257/aer.20180336",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20221,6 +20708,110 @@
         "url": "https://doi.org/10.1257/aer.98.1.394",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Occupational Exposure to Capital-Embodied Technical Change",
+        "title": "Occupational Exposure to Capital-Embodied Technical Change",
+        "authors": [
+          "Julieta Caunedo",
+          "David Jaume",
+          "Elisa Keller"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "6",
+        "pages": "1642–1685",
+        "doi": "10.1257/aer.20211478",
+        "url": "https://doi.org/10.1257/aer.20211478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Explanation of Productivity Change",
+        "title": "The Explanation of Productivity Change",
+        "authors": [
+          "Dale W. Jorgenson",
+          "Zvi Griliches"
+        ],
+        "year": 1967,
+        "journal": "The Review of Economic Studies",
+        "volume": "34",
+        "issue": "3",
+        "pages": "249–283",
+        "doi": "10.2307/2296675",
+        "url": "https://doi.org/10.2307/2296675",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "title": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "authors": [
+          "Diego Anzoategui",
+          "Diego Comin",
+          "Mark Gertler",
+          "Joseba Martinez"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "67–110",
+        "doi": "10.1257/mac.20170269",
+        "url": "https://doi.org/10.1257/mac.20170269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Credit Shocks and Aggregate Fluctuations in an Economy with Production Heterogeneity",
+        "title": "Credit Shocks and Aggregate Fluctuations in an Economy with Production Heterogeneity",
+        "authors": [
+          "Aubhik Khan",
+          "Julia K. Thomas"
+        ],
+        "year": 2013,
+        "journal": "Journal of Political Economy",
+        "volume": "121",
+        "issue": "6",
+        "pages": "1055–1107",
+        "doi": "10.1086/674142",
+        "url": "https://doi.org/10.1086/674142",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leverage and productivity",
+        "title": "Leverage and productivity",
+        "authors": [
+          "Huiyu Li"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "102752",
+        "doi": "10.1016/j.jdeveco.2021.102752",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20478,6 +21069,44 @@
         "pages": "1375–1409",
         "doi": "10.1257/aer.101.4.1375",
         "url": "https://doi.org/10.1257/aer.101.4.1375",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "title": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "authors": [
+          "Diego Anzoategui",
+          "Diego Comin",
+          "Mark Gertler",
+          "Joseba Martinez"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "67–110",
+        "doi": "10.1257/mac.20170269",
+        "url": "https://doi.org/10.1257/mac.20170269",
         "verified": true,
         "note": ""
       }
@@ -21518,6 +22147,79 @@
         "url": "https://doi.org/10.1257/pol.20160465",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Selection, Reallocation, and Restructuring in the U.S. Retail Trade Sector in the 1990s",
+        "title": "Market Selection, Reallocation, and Restructuring in the U.S. Retail Trade Sector in the 1990s",
+        "authors": [
+          "Lucia Foster",
+          "John Haltiwanger",
+          "C. J. Krizan"
+        ],
+        "year": 2006,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "88",
+        "issue": "4",
+        "pages": "748–758",
+        "doi": "10.1162/rest.88.4.748",
+        "url": "https://doi.org/10.1162/rest.88.4.748",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "title": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "authors": [
+          "Diego Anzoategui",
+          "Diego Comin",
+          "Mark Gertler",
+          "Joseba Martinez"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "67–110",
+        "doi": "10.1257/mac.20170269",
+        "url": "https://doi.org/10.1257/mac.20170269",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22293,6 +22995,23 @@
         "pages": "1200–1227",
         "doi": "10.1086/261968",
         "url": "https://doi.org/10.1086/261968",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Explanation of Productivity Change",
+        "title": "The Explanation of Productivity Change",
+        "authors": [
+          "Dale W. Jorgenson",
+          "Zvi Griliches"
+        ],
+        "year": 1967,
+        "journal": "The Review of Economic Studies",
+        "volume": "34",
+        "issue": "3",
+        "pages": "249–283",
+        "doi": "10.2307/2296675",
+        "url": "https://doi.org/10.2307/2296675",
         "verified": true,
         "note": ""
       }
@@ -24027,6 +24746,43 @@
         "pages": "2376–2413",
         "doi": "10.1257/aer.20231278",
         "url": "https://doi.org/10.1257/aer.20231278",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Low Interest Rates, Market Power, and Productivity Growth",
+        "title": "Low Interest Rates, Market Power, and Productivity Growth",
+        "authors": [
+          "Ernest Liu",
+          "Atif Mian",
+          "Amir Sufi"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "1",
+        "pages": "193–221",
+        "doi": "10.3982/ecta17408",
+        "url": "https://doi.org/10.3982/ecta17408",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "title": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "authors": [
+          "Diego Anzoategui",
+          "Diego Comin",
+          "Mark Gertler",
+          "Joseba Martinez"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "67–110",
+        "doi": "10.1257/mac.20170269",
+        "url": "https://doi.org/10.1257/mac.20170269",
         "verified": true,
         "note": ""
       }
@@ -49959,6 +50715,63 @@
         "url": "https://doi.org/10.1093/qje/qjq002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Balanced Growth Despite Uzawa",
+        "title": "Balanced Growth Despite Uzawa",
+        "authors": [
+          "Gene M. Grossman",
+          "Elhanan Helpman",
+          "Ezra Oberfield",
+          "Thomas Sampson"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "1293–1312",
+        "doi": "10.1257/aer.20151739",
+        "url": "https://doi.org/10.1257/aer.20151739",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "title": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "authors": [
+          "Diego Anzoategui",
+          "Diego Comin",
+          "Mark Gertler",
+          "Joseba Martinez"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "67–110",
+        "doi": "10.1257/mac.20170269",
+        "url": "https://doi.org/10.1257/mac.20170269",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -51443,6 +52256,130 @@
         "url": "https://doi.org/10.1086/726704",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "On the Mechanics of Firm Growth",
+        "title": "On the Mechanics of Firm Growth",
+        "authors": [
+          "Erzo G. J. Luttmer"
+        ],
+        "year": 2011,
+        "journal": "The Review of Economic Studies",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1042–1068",
+        "doi": "10.1093/restud/rdq028",
+        "url": "https://doi.org/10.1093/restud/rdq028",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Low Interest Rates, Market Power, and Productivity Growth",
+        "title": "Low Interest Rates, Market Power, and Productivity Growth",
+        "authors": [
+          "Ernest Liu",
+          "Atif Mian",
+          "Amir Sufi"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "1",
+        "pages": "193–221",
+        "doi": "10.3982/ecta17408",
+        "url": "https://doi.org/10.3982/ecta17408",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Sources of Capital Misallocation",
+        "title": "The Sources of Capital Misallocation",
+        "authors": [
+          "Joel M. David",
+          "Venky Venkateswaran"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2531–2567",
+        "doi": "10.1257/aer.20180336",
+        "url": "https://doi.org/10.1257/aer.20180336",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Finance and Development: A Tale of Two Sectors",
+        "title": "Finance and Development: A Tale of Two Sectors",
+        "authors": [
+          "Francisco J. Buera",
+          "Joseph P. Kaboski",
+          "Yongseok Shin"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1964–2002",
+        "doi": "10.1257/aer.101.5.1964",
+        "url": "https://doi.org/10.1257/aer.101.5.1964",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adverse selection, slow-moving capital, and misallocation",
+        "title": "Adverse selection, slow-moving capital, and misallocation",
+        "authors": [
+          "William Fuchs",
+          "Brett Green",
+          "Dimitris Papanikolaou"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "120",
+        "issue": "2",
+        "pages": "286–308",
+        "doi": "10.1016/j.jfineco.2016.01.001",
+        "url": "https://doi.org/10.1016/j.jfineco.2016.01.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor demand, firm investment, and capital misallocation",
+        "title": "Investor demand, firm investment, and capital misallocation",
+        "authors": [
+          "Jaewon Choi",
+          "Xu Tian",
+          "Yufeng Wu",
+          "Mahyar Kargar"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "168",
+        "issue": "",
+        "pages": "104039",
+        "doi": "10.1016/j.jfineco.2025.104039",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Information, Misallocation, and Aggregate Productivity",
+        "title": "Information, Misallocation, and Aggregate Productivity",
+        "authors": [
+          "Joel M. David",
+          "Hugo A. Hopenhayn",
+          "Venky Venkateswaran"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "2",
+        "pages": "943–1005",
+        "doi": "10.1093/qje/qjw006",
+        "url": "https://doi.org/10.1093/qje/qjw006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -52116,6 +53053,61 @@
         "url": "https://doi.org/10.3982/ECTA10528",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financing Development: The Role of Information Costs",
+        "title": "Financing Development: The Role of Information Costs",
+        "authors": [
+          "Jeremy Greenwood",
+          "Juan M. Sanchez",
+          "Cheng Wang"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "4",
+        "pages": "1875–1891",
+        "doi": "10.1257/aer.100.4.1875",
+        "url": "https://doi.org/10.1257/aer.100.4.1875",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Adverse selection, slow-moving capital, and misallocation",
+        "title": "Adverse selection, slow-moving capital, and misallocation",
+        "authors": [
+          "William Fuchs",
+          "Brett Green",
+          "Dimitris Papanikolaou"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "120",
+        "issue": "2",
+        "pages": "286–308",
+        "doi": "10.1016/j.jfineco.2016.01.001",
+        "url": "https://doi.org/10.1016/j.jfineco.2016.01.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor demand, firm investment, and capital misallocation",
+        "title": "Investor demand, firm investment, and capital misallocation",
+        "authors": [
+          "Jaewon Choi",
+          "Xu Tian",
+          "Yufeng Wu",
+          "Mahyar Kargar"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "168",
+        "issue": "",
+        "pages": "104039",
+        "doi": "10.1016/j.jfineco.2025.104039",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -52422,6 +53414,25 @@
         "pages": "975–1018",
         "doi": "10.1257/aer.20230505",
         "url": "https://doi.org/10.1257/aer.20230505",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor demand, firm investment, and capital misallocation",
+        "title": "Investor demand, firm investment, and capital misallocation",
+        "authors": [
+          "Jaewon Choi",
+          "Xu Tian",
+          "Yufeng Wu",
+          "Mahyar Kargar"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "168",
+        "issue": "",
+        "pages": "104039",
+        "doi": "10.1016/j.jfineco.2025.104039",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104039",
         "verified": true,
         "note": ""
       }
@@ -53503,6 +54514,41 @@
         "url": "https://doi.org/10.3982/ECTA10528",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financing Development: The Role of Information Costs",
+        "title": "Financing Development: The Role of Information Costs",
+        "authors": [
+          "Jeremy Greenwood",
+          "Juan M. Sanchez",
+          "Cheng Wang"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "4",
+        "pages": "1875–1891",
+        "doi": "10.1257/aer.100.4.1875",
+        "url": "https://doi.org/10.1257/aer.100.4.1875",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Credit Shocks and Aggregate Fluctuations in an Economy with Production Heterogeneity",
+        "title": "Credit Shocks and Aggregate Fluctuations in an Economy with Production Heterogeneity",
+        "authors": [
+          "Aubhik Khan",
+          "Julia K. Thomas"
+        ],
+        "year": 2013,
+        "journal": "Journal of Political Economy",
+        "volume": "121",
+        "issue": "6",
+        "pages": "1055–1107",
+        "doi": "10.1086/674142",
+        "url": "https://doi.org/10.1086/674142",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54373,6 +55419,25 @@
         "url": "https://doi.org/10.1093/restud/rdaa019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54414,6 +55479,85 @@
         "pages": "1199–1239",
         "doi": "10.3982/ECTA10528",
         "url": "https://doi.org/10.3982/ECTA10528",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.47",
+    "title": "Jay Ritter IPO 数据（美国 IPO 统计与企业成立年份）",
+    "links": [
+      {
+        "label": "Jay R. Ritter: IPO Data",
+        "url": "https://site.warrington.ufl.edu/ritter/ipo-data/"
+      }
+    ],
+    "summary": "佛罗里达大学 Jay Ritter 整理并持续更新的美国首次公开发行（IPO）数据，包括 1960 年以来的 IPO 数量、首日收益、募资额和长期表现统计，以及 1975 年以来 IPO 企业的成立年份，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Jay R. Ritter 在其佛罗里达大学主页上发布多个 IPO 相关数据集：按年和月统计的 IPO 数量、平均首日收益和募资总额（1960 年起），按行业、规模和风险投资背景分类的 IPO 统计，IPO 企业的长期收益，以及 Field-Ritter 整理的 1975 年以来美国 IPO 企业的成立年份（founding dates），并提供承销商声誉排名。数据以 Excel 和 PDF 文件免费下载，每年更新。\n\n数据常用于研究 IPO 抑价和热市、IPO 周期、企业上市年龄和创业动态，例如用企业成立到上市的时间衡量企业成长速度。成立年份数据只覆盖上市企业，部分记录来自招股说明书的人工整理。",
+    "source": "公开下载（Jay Ritter 主页）。",
+    "references": [
+      {
+        "raw": "Adverse selection, slow-moving capital, and misallocation",
+        "title": "Adverse selection, slow-moving capital, and misallocation",
+        "authors": [
+          "William Fuchs",
+          "Brett Green",
+          "Dimitris Papanikolaou"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "120",
+        "issue": "2",
+        "pages": "286–308",
+        "doi": "10.1016/j.jfineco.2016.01.001",
+        "url": "https://doi.org/10.1016/j.jfineco.2016.01.001",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.48",
+    "title": "Chen-Zimmermann 开源横截面资产定价数据（Open Source Asset Pricing）",
+    "links": [
+      {
+        "label": "Open Source Asset Pricing",
+        "url": "https://www.openassetpricing.com/"
+      }
+    ],
+    "summary": "Andrew Chen 和 Tom Zimmermann 复现的 200 多个股票收益横截面预测变量（异象信号）及对应的多空组合收益，基于 CRSP、Compustat 和 IBES 构建，代码和组合收益免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "开源资产定价项目（Chen 和 Zimmermann，2022，Critical Finance Review）复现了文献中 300 多个股票收益预测信号，其中约 200 个在原论文中有显著预测力，提供各信号的构造代码（Stata、SAS、R、Python）、公司-月度信号面板和按十分位、五分位等方式构建的多空组合月度收益，以及与原论文结果的对比。组合收益和不需要 WRDS 许可的数据在 openassetpricing.com 免费下载，信号面板需要用户自有的 CRSP 和 Compustat 权限复现。数据定期更新。\n\n数据常用于研究异象的复现性和发表偏差、因子动物园和多重检验、机器学习收益预测，以及机构投资者是否交易异象。不同信号的构造细节可能与原论文略有差异。",
+    "source": "公开下载（openassetpricing.com；信号面板需 WRDS 权限复现）。",
+    "references": [
+      {
+        "raw": "Investor demand, firm investment, and capital misallocation",
+        "title": "Investor demand, firm investment, and capital misallocation",
+        "authors": [
+          "Jaewon Choi",
+          "Xu Tian",
+          "Yufeng Wu",
+          "Mahyar Kargar"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "168",
+        "issue": "",
+        "pages": "104039",
+        "doi": "10.1016/j.jfineco.2025.104039",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104039",
         "verified": true,
         "note": ""
       }
@@ -54906,6 +56050,25 @@
         "pages": "1648–1683",
         "doi": "10.1257/aer.20170491",
         "url": "https://doi.org/10.1257/aer.20170491",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "title": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "authors": [
+          "Diego Anzoategui",
+          "Diego Comin",
+          "Mark Gertler",
+          "Joseba Martinez"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "67–110",
+        "doi": "10.1257/mac.20170269",
+        "url": "https://doi.org/10.1257/mac.20170269",
         "verified": true,
         "note": ""
       }
@@ -59407,6 +60570,23 @@
         "url": "https://doi.org/10.1257/aer.20231067",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "An Empirical Model of Growth Through Product Innovation",
+        "title": "An Empirical Model of Growth Through Product Innovation",
+        "authors": [
+          "Rasmus Lentz",
+          "Dale T. Mortensen"
+        ],
+        "year": 2008,
+        "journal": "Econometrica",
+        "volume": "76",
+        "issue": "6",
+        "pages": "1317–1373",
+        "doi": "10.3982/ecta5997",
+        "url": "https://doi.org/10.3982/ecta5997",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -60556,6 +61736,107 @@
         "url": "https://doi.org/10.1093/rfs/hhab083",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.21",
+    "title": "葡萄牙 Quadros de Pessoal 雇主-雇员匹配数据",
+    "links": [
+      {
+        "label": "GEP / MTSSS",
+        "url": "https://www.gep.mtsss.gov.pt/"
+      },
+      {
+        "label": "Banco de Portugal: BPLIM",
+        "url": "https://bplim.bportugal.pt/"
+      }
+    ],
+    "summary": "葡萄牙劳动部门依法要求所有雇佣员工的私营企业每年申报的雇员普查数据，1985 年起，覆盖企业、机构和每名雇员的工资、工时、职业、教育、合同类型和集体协议，经葡萄牙劳动部统计局（GEP）或 BPLIM 申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "微观企业数据"
+    ],
+    "introduction": "Quadros de Pessoal（人员配置表）是葡萄牙劳动、团结与社会保障部依法收集的年度行政数据，所有至少雇佣一名员工的私营企业须在每年 10 月申报：企业层面包括行业、地点、雇员人数、销售额和所有权；机构层面包括地址和雇员数；雇员层面包括性别、年龄、教育、职业、资历、入职日期、基本工资和其他报酬、正常和加班工时、合同类型和适用的集体谈判协议。企业和员工有唯一识别码，可构建 1985 年以来的雇主-雇员匹配面板（2010 年后由 Relatório Único 接续）。研究者经劳动部统计局（GEP/MTSSS）申请使用，葡萄牙央行 BPLIM 也提供与信贷和资产负债表数据关联的版本。\n\n数据常用于研究工资决定和集体谈判、企业和工人的匹配、管理者与企业绩效、最低工资以及劳动力市场摩擦，例如分解工资差异中的企业固定效应和工人固定效应。公共部门和个体经营者不在覆盖范围内，2002 年和 2001 年部分变量缺失。",
+    "source": "受限（经葡萄牙劳动部统计局 GEP 或 BPLIM 申请）。",
+    "references": [
+      {
+        "raw": "Entrepreneurial Human Capital and Firm Dynamics",
+        "title": "Entrepreneurial Human Capital and Firm Dynamics",
+        "authors": [
+          "Francisco Queiro"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "4",
+        "pages": "2061–2100",
+        "doi": "10.1093/restud/rdab070",
+        "url": "https://doi.org/10.1093/restud/rdab070",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.22",
+    "title": "欧盟劳动力调查（European Union Labour Force Survey，EU-LFS）",
+    "links": [
+      {
+        "label": "Eurostat: EU-LFS microdata",
+        "url": "https://ec.europa.eu/eurostat/web/microdata/european-union-labour-force-survey"
+      }
+    ],
+    "summary": "欧盟统计局协调各成员国按统一定义开展的季度住户劳动力调查，1983 年起，覆盖欧盟、EFTA 和候选国，记录就业状态、职业、行业、工时、教育和人口特征，汇总数据免费下载，匿名化微观数据经 Eurostat 研究申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "EU-LFS 由欧盟统计局（Eurostat）协调，各国统计局依据欧盟法规按国际劳工组织（ILO）定义每季度访谈约 150 万人（含 15 岁及以上住户成员），记录就业、失业和非劳动力状态，职业（ISCO）、行业（NACE）、雇佣身份、合同类型、全职或兼职、通常和实际工时、第二职业、求职方式，以及受教育程度、培训、年龄、性别、国籍和出生国、地区（NUTS 2）。部分年份附带专题模块（如工作安排、移民、残疾）。汇总统计在 Eurostat 数据库免费下载，匿名化微观数据（年度和季度文件）由研究机构向 Eurostat 申请。\n\n数据常用于跨国比较就业、失业、劳动参与、工时、技能和职业结构，研究移民、技术变革对职业的影响和劳动力市场制度。国家间问卷实施细节和访谈方式不完全一致，微观数据中地区和年龄等变量有粗化处理。",
+    "source": "汇总数据公开下载；微观数据经 Eurostat 研究申请。",
+    "references": [
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -60908,6 +62189,59 @@
         "url": "https://doi.org/10.1162/rest_a_01275",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dynamic Inputs and Resource (Mis)Allocation",
+        "title": "Dynamic Inputs and Resource (Mis)Allocation",
+        "authors": [
+          "John Asker",
+          "Allan Collard-Wexler",
+          "Jan De Loecker"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "5",
+        "pages": "1013–1063",
+        "doi": "10.1086/677072",
+        "url": "https://doi.org/10.1086/677072",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Capital Allocation and Productivity in South Europe",
+        "title": "Capital Allocation and Productivity in South Europe",
+        "authors": [
+          "Gita Gopinath",
+          "Şebnem Kalemli-Özcan",
+          "Loukas Karabarbounis",
+          "Carolina Villegas-Sanchez"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1915–1967",
+        "doi": "10.1093/qje/qjx024",
+        "url": "https://doi.org/10.1093/qje/qjx024",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leverage and productivity",
+        "title": "Leverage and productivity",
+        "authors": [
+          "Huiyu Li"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "102752",
+        "doi": "10.1016/j.jdeveco.2021.102752",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -61058,6 +62392,23 @@
         "pages": "1151–1199",
         "doi": "10.1086/657949",
         "url": "https://doi.org/10.1086/657949",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How to Use Natural Experiments to Estimate Misallocation",
+        "title": "How to Use Natural Experiments to Estimate Misallocation",
+        "authors": [
+          "David Sraer",
+          "David Thesmar"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "4",
+        "pages": "906–938",
+        "doi": "10.1257/aer.20190609",
+        "url": "https://doi.org/10.1257/aer.20190609",
         "verified": true,
         "note": ""
       }
@@ -61847,6 +63198,63 @@
         "pages": "3451–3486",
         "doi": "10.1257/aer.20231167",
         "url": "https://doi.org/10.1257/aer.20231167",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "title": "Endogenous Technology Adoption and R&D as Sources of Business Cycle Persistence",
+        "authors": [
+          "Diego Anzoategui",
+          "Diego Comin",
+          "Mark Gertler",
+          "Joseba Martinez"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "67–110",
+        "doi": "10.1257/mac.20170269",
+        "url": "https://doi.org/10.1257/mac.20170269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Capital Allocation and Productivity in South Europe",
+        "title": "Capital Allocation and Productivity in South Europe",
+        "authors": [
+          "Gita Gopinath",
+          "Şebnem Kalemli-Özcan",
+          "Loukas Karabarbounis",
+          "Carolina Villegas-Sanchez"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1915–1967",
+        "doi": "10.1093/qje/qjx024",
+        "url": "https://doi.org/10.1093/qje/qjx024",
         "verified": true,
         "note": ""
       }
@@ -66384,6 +67792,23 @@
         "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Life Cycle of Plants in India and Mexico",
+        "title": "The Life Cycle of Plants in India and Mexico",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "3",
+        "pages": "1035–1084",
+        "doi": "10.1093/qje/qju014",
+        "url": "https://doi.org/10.1093/qje/qju014",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66899,6 +68324,74 @@
         "url": "https://doi.org/10.1086/720465",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Life Cycle of Plants in India and Mexico",
+        "title": "The Life Cycle of Plants in India and Mexico",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "3",
+        "pages": "1035–1084",
+        "doi": "10.1093/qje/qju014",
+        "url": "https://doi.org/10.1093/qje/qju014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Manufacturing TFP in China and India",
+        "title": "Misallocation and Manufacturing TFP in China and India",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "4",
+        "pages": "1403–1448",
+        "doi": "10.1162/qjec.2009.124.4.1403",
+        "url": "https://doi.org/10.1162/qjec.2009.124.4.1403",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Capital Market Integration: Evidence From India",
+        "title": "Misallocation and Capital Market Integration: Evidence From India",
+        "authors": [
+          "Natalie Bau",
+          "Adrien Matray"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "1",
+        "pages": "67–106",
+        "doi": "10.3982/ecta19039",
+        "url": "https://doi.org/10.3982/ecta19039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67066,6 +68559,41 @@
         "url": "https://doi.org/10.3982/ECTA19872",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dynamic Inputs and Resource (Mis)Allocation",
+        "title": "Dynamic Inputs and Resource (Mis)Allocation",
+        "authors": [
+          "John Asker",
+          "Allan Collard-Wexler",
+          "Jan De Loecker"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "5",
+        "pages": "1013–1063",
+        "doi": "10.1086/677072",
+        "url": "https://doi.org/10.1086/677072",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Capital Market Integration: Evidence From India",
+        "title": "Misallocation and Capital Market Integration: Evidence From India",
+        "authors": [
+          "Natalie Bau",
+          "Adrien Matray"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "1",
+        "pages": "67–106",
+        "doi": "10.3982/ecta19039",
+        "url": "https://doi.org/10.3982/ecta19039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67135,6 +68663,45 @@
         "pages": "1611–1638",
         "doi": "10.1257/aer.97.5.1611",
         "url": "https://doi.org/10.1257/aer.97.5.1611",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.3.6",
+    "title": "CMIE CapEx 印度投资项目数据库",
+    "links": [
+      {
+        "label": "CMIE CapEx",
+        "url": "https://capex.cmie.com/"
+      }
+    ],
+    "summary": "印度经济监测中心（CMIE）跟踪的印度新建和扩建投资项目数据库，1995 年起，记录约 5 万多个公共和私营项目的投资额、所在地区、行业、所有者和实施阶段（公告、在建、完工、搁置），付费订阅。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "商业数据"
+    ],
+    "introduction": "CapEx 是印度经济监测中心（CMIE）的项目级数据库，从公司公告、监管文件、媒体和政府来源收集印度境内投资额超过一定门槛（约 1 千万卢比）的新建、扩建和改造项目，记录项目名称、发起企业（可与 CMIE Prowess 企业数据关联）、所有权（私营、公共、外资）、行业、所在邦和地区、计划和修订后的投资额、产能，以及项目在公告、在建、完工、搁置和放弃等阶段的时间。数据按季度更新，为付费订阅产品。\n\n数据常用于研究印度投资周期和项目停滞、外资开放与资本形成、基础设施和产业政策的地区效应，例如利用项目所在邦研究信贷供给对投资的影响。项目投资额多为计划值，完工信息更新存在滞后。",
+    "source": "付费商业（CMIE 订阅）。",
+    "references": [
+      {
+        "raw": "Misallocation and Capital Market Integration: Evidence From India",
+        "title": "Misallocation and Capital Market Integration: Evidence From India",
+        "authors": [
+          "Natalie Bau",
+          "Adrien Matray"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "1",
+        "pages": "67–106",
+        "doi": "10.3982/ecta19039",
+        "url": "https://doi.org/10.3982/ecta19039",
         "verified": true,
         "note": ""
       }
@@ -67276,6 +68843,43 @@
         "pages": "377–414",
         "doi": "10.1257/app.20200505",
         "url": "https://doi.org/10.1257/app.20200505",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.4.4",
+    "title": "日本产业生产率数据库（Japan Industrial Productivity Database，JIP）",
+    "links": [
+      {
+        "label": "RIETI: JIP Database 2021",
+        "url": "https://www.rieti.go.jp/en/database/JIP2021/index.html"
+      }
+    ],
+    "summary": "日本经济产业研究所（RIETI）与一桥大学构建的日本约 100 个行业 1970 年代以来的产出、中间投入、资本服务、劳动投入（按质量调整）和全要素生产率增长核算数据库，最新版本为 JIP 2021，免费下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "JIP 数据库由 RIETI 和一桥大学深尾京司（Kyoji Fukao）、宫川努等领衔构建，是 EU KLEMS 和 World KLEMS 的日本组成部分，按约 100 个行业（含 52 个制造业行业）提供 1970 年代以来的名义和实际产出、中间投入（能源、材料、服务）、按资产类型的资本存量和资本服务、按性别、年龄、学历和就业形态区分的劳动投入，以及基于增长核算的全要素生产率增长，还包括投入产出表、无形资产和进出口数据。JIP 2021 覆盖 1994–2018 年，早期版本覆盖 1970 年起，数据在 RIETI 网站免费下载。\n\n数据常用于研究日本“失去的数十年”生产率放缓、ICT 和无形资产投资、行业间资源配置和僵尸企业，以及与美欧的生产率比较。不同版本的行业分类和基准年不同，跨版本拼接需要注意。",
+    "source": "公开下载（RIETI 网站）。",
+    "references": [
+      {
+        "raw": "Leverage and productivity",
+        "title": "Leverage and productivity",
+        "authors": [
+          "Huiyu Li"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "102752",
+        "doi": "10.1016/j.jdeveco.2021.102752",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
         "verified": true,
         "note": ""
       }
@@ -68433,6 +70037,23 @@
         "pages": "1447–1497",
         "doi": "10.1093/qje/qjab016",
         "url": "https://doi.org/10.1093/qje/qjab016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Capital Market Integration: Evidence From India",
+        "title": "Misallocation and Capital Market Integration: Evidence From India",
+        "authors": [
+          "Natalie Bau",
+          "Adrien Matray"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "1",
+        "pages": "67–106",
+        "doi": "10.3982/ecta19039",
+        "url": "https://doi.org/10.3982/ecta19039",
         "verified": true,
         "note": ""
       }
@@ -69594,6 +71215,76 @@
         "url": "https://doi.org/10.1257/aeri.20210201",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Life Cycle of Plants in India and Mexico",
+        "title": "The Life Cycle of Plants in India and Mexico",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "3",
+        "pages": "1035–1084",
+        "doi": "10.1093/qje/qju014",
+        "url": "https://doi.org/10.1093/qje/qju014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Finance and Development: A Tale of Two Sectors",
+        "title": "Finance and Development: A Tale of Two Sectors",
+        "authors": [
+          "Francisco J. Buera",
+          "Joseph P. Kaboski",
+          "Yongseok Shin"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1964–2002",
+        "doi": "10.1257/aer.101.5.1964",
+        "url": "https://doi.org/10.1257/aer.101.5.1964",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Inputs and Resource (Mis)Allocation",
+        "title": "Dynamic Inputs and Resource (Mis)Allocation",
+        "authors": [
+          "John Asker",
+          "Allan Collard-Wexler",
+          "Jan De Loecker"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "5",
+        "pages": "1013–1063",
+        "doi": "10.1086/677072",
+        "url": "https://doi.org/10.1086/677072",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Sources of Capital Misallocation",
+        "title": "The Sources of Capital Misallocation",
+        "authors": [
+          "Joel M. David",
+          "Venky Venkateswaran"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2531–2567",
+        "doi": "10.1257/aer.20180336",
+        "url": "https://doi.org/10.1257/aer.20180336",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69637,6 +71328,166 @@
         "pages": "107–130",
         "doi": "10.1016/j.jfineco.2021.05.045",
         "url": "https://doi.org/10.1016/j.jfineco.2021.05.045",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.3.3",
+    "title": "智利全国年度工业调查（Encuesta Nacional Industrial Anual，ENIA）",
+    "links": [
+      {
+        "label": "INE Chile: ENIA",
+        "url": "https://www.ine.gob.cl/estadisticas/economia/industria-manufacturera/encuesta-nacional-industrial-anual"
+      }
+    ],
+    "summary": "智利国家统计局（INE）对雇佣 10 人以上制造业工厂的年度普查式调查，1979 年起，记录产出、投入、就业、工资、投资和资本存量，是研究生产率和贸易自由化的经典工厂面板，汇总结果公开，微观数据经 INE 申请。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "ENIA 由智利国家统计局（INE）实施，覆盖全部雇佣 10 名及以上工人的制造业机构，记录总产值和销售额、中间投入（原材料、能源、电力）、分技能雇员人数和工资、固定资产投资和处置、存货、出口和产品构成，每家工厂有固定识别码，可构建 1979 年以来的面板。经济学研究中常用的是 1979–1996 年版本（经 Tybout、Liu 等整理），智利国家统计局近年按年发布汇总结果并提供匿名化微观数据申请。\n\n数据常用于研究贸易自由化与生产率、资源错配、工厂进入退出和投资的不可逆性，例如 Pavcnik（2002）、Hsieh-Klenow 类错配测算及 Midrigan-Xu 类融资约束研究。小于 10 人的工厂不在覆盖范围内，资本存量需要研究者用永续盘存法构造。",
+    "source": "汇总结果公开；微观数据经 INE 申请。",
+    "references": [
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dynamic Inputs and Resource (Mis)Allocation",
+        "title": "Dynamic Inputs and Resource (Mis)Allocation",
+        "authors": [
+          "John Asker",
+          "Allan Collard-Wexler",
+          "Jan De Loecker"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "5",
+        "pages": "1013–1063",
+        "doi": "10.1086/677072",
+        "url": "https://doi.org/10.1086/677072",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?",
+        "title": "Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?",
+        "authors": [
+          "Benjamin Moll"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3186–3221",
+        "doi": "10.1257/aer.104.10.3186",
+        "url": "https://doi.org/10.1257/aer.104.10.3186",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.3.4",
+    "title": "哥伦比亚年度制造业调查（Encuesta Anual Manufacturera，EAM）",
+    "links": [
+      {
+        "label": "DANE: Encuesta Anual Manufacturera",
+        "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/industria/encuesta-anual-manufacturera-enam"
+      }
+    ],
+    "summary": "哥伦比亚国家统计局（DANE）对雇佣 10 人以上或产值超过门槛的制造业工厂的年度调查，1970 年代起，记录产出、投入、就业、工资、投资和能源消耗，汇总表公开，微观数据经 DANE 申请。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "EAM 由哥伦比亚国家统计局（DANE）实施，覆盖雇佣 10 名及以上员工或年产值超过规定门槛的全部制造业机构，记录总产值、产品和原材料的数量与价格、中间消耗、电力和燃料、分类别就业和薪酬、固定资产存量和投资，每年约 7,000–10,000 家工厂，可构建工厂面板。研究中广泛使用的 1977–1991 年版本由 Roberts 和 Tybout 整理，DANE 在官网发布年度汇总结果，匿名化微观数据可通过 DANE 微观数据门户或数据实验室申请。\n\n数据常用于研究生产率离散与资源错配、出口进入的沉没成本、价格与需求冲击分离（利用产品层面价格）和工厂动态，例如 Roberts-Tybout（1997）、Foster-Haltiwanger-Syverson 类需求和效率分解。小工厂不在覆盖范围内，资本存量口径在各年间有调整。",
+    "source": "汇总结果公开；微观数据经 DANE 申请。",
+    "references": [
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Sources of Capital Misallocation",
+        "title": "The Sources of Capital Misallocation",
+        "authors": [
+          "Joel M. David",
+          "Venky Venkateswaran"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "7",
+        "pages": "2531–2567",
+        "doi": "10.1257/aer.20180336",
+        "url": "https://doi.org/10.1257/aer.20180336",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?",
+        "title": "Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?",
+        "authors": [
+          "Benjamin Moll"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3186–3221",
+        "doi": "10.1257/aer.104.10.3186",
+        "url": "https://doi.org/10.1257/aer.104.10.3186",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Finance and Misallocation: Evidence from Plant-Level Data",
+        "title": "Finance and Misallocation: Evidence from Plant-Level Data",
+        "authors": [
+          "Virgiliu Midrigan",
+          "Daniel Yi Xu"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "422–458",
+        "doi": "10.1257/aer.104.2.422",
+        "url": "https://doi.org/10.1257/aer.104.2.422",
         "verified": true,
         "note": ""
       }
@@ -74801,6 +76652,24 @@
         "url": "https://doi.org/10.1257/mac.20210248",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dynamic Inputs and Resource (Mis)Allocation",
+        "title": "Dynamic Inputs and Resource (Mis)Allocation",
+        "authors": [
+          "John Asker",
+          "Allan Collard-Wexler",
+          "Jan De Loecker"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "5",
+        "pages": "1013–1063",
+        "doi": "10.1086/677072",
+        "url": "https://doi.org/10.1086/677072",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -75114,6 +76983,46 @@
         "pages": "1325–1369",
         "doi": "10.1086/705331",
         "url": "https://doi.org/10.1086/705331",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.3.3",
+    "title": "OECD 结构与人口企业统计（Structural and Demographic Business Statistics，SDBS）",
+    "links": [
+      {
+        "label": "OECD: Structural and Demographic Business Statistics",
+        "url": "https://www.oecd.org/en/data/datasets/structural-and-demographic-business-statistics.html"
+      }
+    ],
+    "summary": "OECD 汇总成员国企业普查和登记数据编制的按行业和企业规模分组的企业数量、就业、营业额、增加值和企业出生死亡统计，1990 年代起，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "区域经济数据"
+    ],
+    "introduction": "SDBS（早期称工业与服务业结构统计 SSIS）由 OECD 根据各国统计局的企业普查、调查和商业登记数据编制，按 ISIC 行业和雇员规模组（1–9、10–19、20–49、50–249、250 人以上）提供企业和机构数量、就业人数、雇员人数、营业额、增加值、生产成本和人员成本，以及企业人口统计（新设、退出、存活率和高增长企业）。数据覆盖 OECD 成员国和部分伙伴国，多数从 1990 年代或 2000 年代开始，在 OECD Data Explorer 免费下载。\n\n数据常用于跨国比较企业规模分布、小企业就业份额、行业集中度和企业动态，例如为校准企业规模分布和金融摩擦模型提供目标矩。各国企业登记口径和规模门槛不同，部分国家数据缺失或有保密处理。",
+    "source": "公开下载（OECD Data Explorer；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Finance and Development: A Tale of Two Sectors",
+        "title": "Finance and Development: A Tale of Two Sectors",
+        "authors": [
+          "Francisco J. Buera",
+          "Joseph P. Kaboski",
+          "Yongseok Shin"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1964–2002",
+        "doi": "10.1257/aer.101.5.1964",
+        "url": "https://doi.org/10.1257/aer.101.5.1964",
         "verified": true,
         "note": ""
       }
@@ -76628,6 +78537,41 @@
         "url": "https://doi.org/10.1257/000282803769206296",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Capital Allocation and Productivity in South Europe",
+        "title": "Capital Allocation and Productivity in South Europe",
+        "authors": [
+          "Gita Gopinath",
+          "Şebnem Kalemli-Özcan",
+          "Loukas Karabarbounis",
+          "Carolina Villegas-Sanchez"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1915–1967",
+        "doi": "10.1093/qje/qjx024",
+        "url": "https://doi.org/10.1093/qje/qjx024",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leverage and productivity",
+        "title": "Leverage and productivity",
+        "authors": [
+          "Huiyu Li"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "102752",
+        "doi": "10.1016/j.jdeveco.2021.102752",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -77244,6 +79188,91 @@
         "pages": "55–102",
         "doi": "10.1093/qje/qjw038",
         "url": "https://doi.org/10.1093/qje/qjw038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Entrepreneurial Human Capital and Firm Dynamics",
+        "title": "Entrepreneurial Human Capital and Firm Dynamics",
+        "authors": [
+          "Francisco Queiro"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "4",
+        "pages": "2061–2100",
+        "doi": "10.1093/restud/rdab070",
+        "url": "https://doi.org/10.1093/restud/rdab070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Manufacturing TFP in China and India",
+        "title": "Misallocation and Manufacturing TFP in China and India",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "4",
+        "pages": "1403–1448",
+        "doi": "10.1162/qjec.2009.124.4.1403",
+        "url": "https://doi.org/10.1162/qjec.2009.124.4.1403",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing Development: The Role of Information Costs",
+        "title": "Financing Development: The Role of Information Costs",
+        "authors": [
+          "Jeremy Greenwood",
+          "Juan M. Sanchez",
+          "Cheng Wang"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "4",
+        "pages": "1875–1891",
+        "doi": "10.1257/aer.100.4.1875",
+        "url": "https://doi.org/10.1257/aer.100.4.1875",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Finance and Development: A Tale of Two Sectors",
+        "title": "Finance and Development: A Tale of Two Sectors",
+        "authors": [
+          "Francisco J. Buera",
+          "Joseph P. Kaboski",
+          "Yongseok Shin"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1964–2002",
+        "doi": "10.1257/aer.101.5.1964",
+        "url": "https://doi.org/10.1257/aer.101.5.1964",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leverage and productivity",
+        "title": "Leverage and productivity",
+        "authors": [
+          "Huiyu Li"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "102752",
+        "doi": "10.1016/j.jdeveco.2021.102752",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
         "verified": true,
         "note": ""
       }
@@ -78253,6 +80282,23 @@
         "url": "https://doi.org/10.1093/restud/rdaa019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Micro Data and Macro Technology",
+        "title": "Micro Data and Macro Technology",
+        "authors": [
+          "Ezra Oberfield",
+          "Devesh Raval"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "703–732",
+        "doi": "10.3982/ECTA12807",
+        "url": "https://doi.org/10.3982/ECTA12807",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -78374,6 +80420,25 @@
         "pages": "3451–3486",
         "doi": "10.1257/aer.20231167",
         "url": "https://doi.org/10.1257/aer.20231167",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
         "verified": true,
         "note": ""
       }
@@ -78552,6 +80617,23 @@
         "pages": "1268–1290",
         "doi": "10.1257/000282803769206296",
         "url": "https://doi.org/10.1257/000282803769206296",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Finance and Misallocation: Evidence from Plant-Level Data",
+        "title": "Finance and Misallocation: Evidence from Plant-Level Data",
+        "authors": [
+          "Virgiliu Midrigan",
+          "Daniel Yi Xu"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "422–458",
+        "doi": "10.1257/aer.104.2.422",
+        "url": "https://doi.org/10.1257/aer.104.2.422",
         "verified": true,
         "note": ""
       }
@@ -79221,6 +81303,60 @@
         "pages": "2289–2327",
         "doi": "10.1086/724314",
         "url": "https://doi.org/10.1086/724314",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Entrepreneurial Human Capital and Firm Dynamics",
+        "title": "Entrepreneurial Human Capital and Firm Dynamics",
+        "authors": [
+          "Francisco Queiro"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "4",
+        "pages": "2061–2100",
+        "doi": "10.1093/restud/rdab070",
+        "url": "https://doi.org/10.1093/restud/rdab070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Capital Allocation and Productivity in South Europe",
+        "title": "Capital Allocation and Productivity in South Europe",
+        "authors": [
+          "Gita Gopinath",
+          "Şebnem Kalemli-Özcan",
+          "Loukas Karabarbounis",
+          "Carolina Villegas-Sanchez"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1915–1967",
+        "doi": "10.1093/qje/qjx024",
+        "url": "https://doi.org/10.1093/qje/qjx024",
         "verified": true,
         "note": ""
       }
@@ -89891,6 +92027,24 @@
         "url": "https://doi.org/10.1257/aer.102.1.167",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dynamic Inputs and Resource (Mis)Allocation",
+        "title": "Dynamic Inputs and Resource (Mis)Allocation",
+        "authors": [
+          "John Asker",
+          "Allan Collard-Wexler",
+          "Jan De Loecker"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "5",
+        "pages": "1013–1063",
+        "doi": "10.1086/677072",
+        "url": "https://doi.org/10.1086/677072",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -90365,6 +92519,91 @@
         "pages": "347–368",
         "doi": "10.1162/rest.90.2.347",
         "url": "https://doi.org/10.1162/rest.90.2.347",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing Development: The Role of Information Costs",
+        "title": "Financing Development: The Role of Information Costs",
+        "authors": [
+          "Jeremy Greenwood",
+          "Juan M. Sanchez",
+          "Cheng Wang"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "4",
+        "pages": "1875–1891",
+        "doi": "10.1257/aer.100.4.1875",
+        "url": "https://doi.org/10.1257/aer.100.4.1875",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Finance and Development: A Tale of Two Sectors",
+        "title": "Finance and Development: A Tale of Two Sectors",
+        "authors": [
+          "Francisco J. Buera",
+          "Joseph P. Kaboski",
+          "Yongseok Shin"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "5",
+        "pages": "1964–2002",
+        "doi": "10.1257/aer.101.5.1964",
+        "url": "https://doi.org/10.1257/aer.101.5.1964",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?",
+        "title": "Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?",
+        "authors": [
+          "Benjamin Moll"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3186–3221",
+        "doi": "10.1257/aer.104.10.3186",
+        "url": "https://doi.org/10.1257/aer.104.10.3186",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Finance and Misallocation: Evidence from Plant-Level Data",
+        "title": "Finance and Misallocation: Evidence from Plant-Level Data",
+        "authors": [
+          "Virgiliu Midrigan",
+          "Daniel Yi Xu"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "422–458",
+        "doi": "10.1257/aer.104.2.422",
+        "url": "https://doi.org/10.1257/aer.104.2.422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Leverage and productivity",
+        "title": "Leverage and productivity",
+        "authors": [
+          "Huiyu Li"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "102752",
+        "doi": "10.1016/j.jdeveco.2021.102752",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
         "verified": true,
         "note": ""
       }
@@ -91033,6 +93272,25 @@
         "pages": "2754–2776",
         "doi": "10.1093/restud/rdaa019",
         "url": "https://doi.org/10.1093/restud/rdaa019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
         "verified": true,
         "note": ""
       }
@@ -92152,6 +94410,25 @@
         "url": "https://doi.org/10.1093/rfs/hhab083",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92457,6 +94734,43 @@
         "pages": "2754–2776",
         "doi": "10.1093/restud/rdaa019",
         "url": "https://doi.org/10.1093/restud/rdaa019",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.30",
+    "title": "BIS 非金融部门信贷统计（Credit to the Non-financial Sector）",
+    "links": [
+      {
+        "label": "BIS: Credit to the non-financial sector",
+        "url": "https://data.bis.org/topics/TOTAL_CREDIT"
+      }
+    ],
+    "summary": "国际清算银行编制的 40 多个经济体家庭、非金融企业和政府部门的总信贷（银行贷款和债券）长期季度序列，部分国家始于 1940 年代，含信贷与 GDP 比率和信贷缺口，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "BIS 非金融部门信贷统计汇集各国央行和统计机构数据，按借款部门（家庭及为家庭服务的非营利机构、非金融企业、一般政府）和贷款来源（国内银行、全部部门含非银行和境外贷款、债券）提供信贷存量的季度序列，覆盖 40 多个发达和新兴经济体，最长可追溯到 1940 年代，同时发布信贷占 GDP 比率、信贷与 GDP 缺口（巴塞尔协议 III 逆周期资本缓冲参考指标）和偿债比率。数据在 BIS 数据门户免费下载。\n\n数据常用于研究信贷繁荣与金融危机、家庭债务与经济衰退、企业杠杆和宏观审慎政策，例如测算家庭债务对消费和增长的影响。各国口径经 BIS 调整以提高可比性，但早期序列和新兴经济体数据存在拼接。",
+    "source": "公开下载（BIS 数据门户）。",
+    "references": [
+      {
+        "raw": "Leverage and productivity",
+        "title": "Leverage and productivity",
+        "authors": [
+          "Huiyu Li"
+        ],
+        "year": 2022,
+        "journal": "Journal of Development Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "102752",
+        "doi": "10.1016/j.jdeveco.2021.102752",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
         "verified": true,
         "note": ""
       }
@@ -94784,6 +97098,25 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.05.045",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "title": "Revisiting Productivity Dynamics in Europe: A New Measure of Utilization-Adjusted TFP Growth",
+        "authors": [
+          "Diego Comin",
+          "Javier Quintana",
+          "Tom Schmitz",
+          "Antonella Trigari"
+        ],
+        "year": 2025,
+        "journal": "Journal of the European Economic Association",
+        "volume": "23",
+        "issue": "4",
+        "pages": "1598–1633",
+        "doi": "10.1093/jeea/jvaf003",
+        "url": "https://doi.org/10.1093/jeea/jvaf003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -96238,6 +98571,39 @@
         "pages": "347–368",
         "doi": "10.1162/rest.90.2.347",
         "url": "https://doi.org/10.1162/rest.90.2.347",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Entrepreneurial Human Capital and Firm Dynamics",
+        "title": "Entrepreneurial Human Capital and Firm Dynamics",
+        "authors": [
+          "Francisco Queiro"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "4",
+        "pages": "2061–2100",
+        "doi": "10.1093/restud/rdab070",
+        "url": "https://doi.org/10.1093/restud/rdab070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Manufacturing TFP in China and India",
+        "title": "Misallocation and Manufacturing TFP in China and India",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "4",
+        "pages": "1403–1448",
+        "doi": "10.1162/qjec.2009.124.4.1403",
+        "url": "https://doi.org/10.1162/qjec.2009.124.4.1403",
         "verified": true,
         "note": ""
       }
