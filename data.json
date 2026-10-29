@@ -2102,6 +2102,43 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2023.103218",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Global View of Creative Destruction",
+        "title": "A Global View of Creative Destruction",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow",
+          "Ishan Nath"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "243–275",
+        "doi": "10.1086/724833",
+        "url": "https://doi.org/10.1086/724833",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From Imitation to Innovation: Where Is All That Chinese R&D Going?",
+        "title": "From Imitation to Innovation: Where Is All That Chinese R&D Going?",
+        "authors": [
+          "Michael König",
+          "Kjetil Storesletten",
+          "Zheng Song",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "4",
+        "pages": "1615–1654",
+        "doi": "10.3982/ECTA18586",
+        "url": "https://doi.org/10.3982/ECTA18586",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2533,6 +2570,25 @@
         "pages": "3825–3852",
         "doi": "10.1257/aer.20221501",
         "url": "https://doi.org/10.1257/aer.20221501",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From Imitation to Innovation: Where Is All That Chinese R&D Going?",
+        "title": "From Imitation to Innovation: Where Is All That Chinese R&D Going?",
+        "authors": [
+          "Michael König",
+          "Kjetil Storesletten",
+          "Zheng Song",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "4",
+        "pages": "1615–1654",
+        "doi": "10.3982/ECTA18586",
+        "url": "https://doi.org/10.3982/ECTA18586",
         "verified": true,
         "note": ""
       }
@@ -9303,6 +9359,131 @@
         "url": "https://doi.org/10.1257/mac.20160353",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "title": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "authors": [
+          "Christoph E. Boehm",
+          "Aaron Flaaen",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "101",
+        "issue": "1",
+        "pages": "60–75",
+        "doi": "10.1162/rest_a_00750",
+        "url": "https://doi.org/10.1162/rest_a_00750",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Global View of Creative Destruction",
+        "title": "A Global View of Creative Destruction",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow",
+          "Ishan Nath"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "243–275",
+        "doi": "10.1086/724833",
+        "url": "https://doi.org/10.1086/724833",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Growth from Creative Destruction",
+        "title": "Missing Growth from Creative Destruction",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "Timo Boppart",
+          "Peter J. Klenow",
+          "Huiyu Li"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "8",
+        "pages": "2795–2822",
+        "doi": "10.1257/aer.20171745",
+        "url": "https://doi.org/10.1257/aer.20171745",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation, Reallocation, and Growth",
+        "title": "Innovation, Reallocation, and Growth",
+        "authors": [
+          "Daron Acemoglu",
+          "Ufuk Akcigit",
+          "Harun Alp",
+          "Nicholas Bloom",
+          "William Kerr"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "11",
+        "pages": "3450–3491",
+        "doi": "10.1257/aer.20130470",
+        "url": "https://doi.org/10.1257/aer.20130470",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Growth through Heterogeneous Innovations",
+        "title": "Growth through Heterogeneous Innovations",
+        "authors": [
+          "Ufuk Akcigit",
+          "William R. Kerr"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "4",
+        "pages": "1374–1443",
+        "doi": "10.1086/697901",
+        "url": "https://doi.org/10.1086/697901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Competition on Wages and Productivity: Evidence from the United Kingdom",
+        "title": "The Effect of Competition on Wages and Productivity: Evidence from the United Kingdom",
+        "authors": [
+          "George Symeonidis"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "1",
+        "pages": "134–146",
+        "doi": "10.1162/rest.90.1.134",
+        "url": "https://doi.org/10.1162/rest.90.1.134",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Is Productivity Correlated with Competition?",
+        "title": "Why Is Productivity Correlated with Competition?",
+        "authors": [
+          "Matthew Backus"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "6",
+        "pages": "2415–2444",
+        "doi": "10.3982/ECTA12926",
+        "url": "https://doi.org/10.3982/ECTA12926",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10921,6 +11102,24 @@
         "url": "https://doi.org/10.1257/mac.20170388",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Aggregate Implications of Regional Business Cycles",
+        "title": "The Aggregate Implications of Regional Business Cycles",
+        "authors": [
+          "Martin Beraja",
+          "Erik Hurst",
+          "Juan Ospina"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "6",
+        "pages": "1789–1833",
+        "doi": "10.3982/ECTA14243",
+        "url": "https://doi.org/10.3982/ECTA14243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11842,6 +12041,60 @@
         "pages": "1–39",
         "doi": "10.1257/mac.20170388",
         "url": "https://doi.org/10.1257/mac.20170388",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Aggregate Implications of Regional Business Cycles",
+        "title": "The Aggregate Implications of Regional Business Cycles",
+        "authors": [
+          "Martin Beraja",
+          "Erik Hurst",
+          "Juan Ospina"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "6",
+        "pages": "1789–1833",
+        "doi": "10.3982/ECTA14243",
+        "url": "https://doi.org/10.3982/ECTA14243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does AMD Spur Intel to Innovate More?",
+        "title": "Does AMD Spur Intel to Innovate More?",
+        "authors": [
+          "Ronald L. Goettler",
+          "Brett R. Gordon"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "6",
+        "pages": "1141–1200",
+        "doi": "10.1086/664615",
+        "url": "https://doi.org/10.1086/664615",
         "verified": true,
         "note": ""
       }
@@ -15681,6 +15934,24 @@
         "url": "https://doi.org/10.3982/ECTA12807",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "title": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "authors": [
+          "Christoph E. Boehm",
+          "Aaron Flaaen",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "101",
+        "issue": "1",
+        "pages": "60–75",
+        "doi": "10.1162/rest_a_00750",
+        "url": "https://doi.org/10.1162/rest_a_00750",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16196,6 +16467,81 @@
         "url": "https://doi.org/10.3982/ECTA12807",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "title": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "authors": [
+          "Christoph E. Boehm",
+          "Aaron Flaaen",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "101",
+        "issue": "1",
+        "pages": "60–75",
+        "doi": "10.1162/rest_a_00750",
+        "url": "https://doi.org/10.1162/rest_a_00750",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Growth from Creative Destruction",
+        "title": "Missing Growth from Creative Destruction",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "Timo Boppart",
+          "Peter J. Klenow",
+          "Huiyu Li"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "8",
+        "pages": "2795–2822",
+        "doi": "10.1257/aer.20171745",
+        "url": "https://doi.org/10.1257/aer.20171745",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation, Reallocation, and Growth",
+        "title": "Innovation, Reallocation, and Growth",
+        "authors": [
+          "Daron Acemoglu",
+          "Ufuk Akcigit",
+          "Harun Alp",
+          "Nicholas Bloom",
+          "William Kerr"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "11",
+        "pages": "3450–3491",
+        "doi": "10.1257/aer.20130470",
+        "url": "https://doi.org/10.1257/aer.20130470",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Growth through Heterogeneous Innovations",
+        "title": "Growth through Heterogeneous Innovations",
+        "authors": [
+          "Ufuk Akcigit",
+          "William R. Kerr"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "4",
+        "pages": "1374–1443",
+        "doi": "10.1086/697901",
+        "url": "https://doi.org/10.1086/697901",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16339,6 +16685,23 @@
         "pages": "43–74",
         "doi": "10.1086/733979",
         "url": "https://doi.org/10.1086/733979",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Large Firm Dynamics and the Business Cycle",
+        "title": "Large Firm Dynamics and the Business Cycle",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Basile Grassi"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "4",
+        "pages": "1375–1425",
+        "doi": "10.1257/aer.20151317",
+        "url": "https://doi.org/10.1257/aer.20151317",
         "verified": true,
         "note": ""
       }
@@ -17185,6 +17548,24 @@
         "url": "https://doi.org/10.1093/qje/qjac010",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Aggregate Implications of Regional Business Cycles",
+        "title": "The Aggregate Implications of Regional Business Cycles",
+        "authors": [
+          "Martin Beraja",
+          "Erik Hurst",
+          "Juan Ospina"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "6",
+        "pages": "1789–1833",
+        "doi": "10.3982/ECTA14243",
+        "url": "https://doi.org/10.3982/ECTA14243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17656,6 +18037,22 @@
         "pages": "1648–1683",
         "doi": "10.1257/aer.20170491",
         "url": "https://doi.org/10.1257/aer.20170491",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Is Productivity Correlated with Competition?",
+        "title": "Why Is Productivity Correlated with Competition?",
+        "authors": [
+          "Matthew Backus"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "6",
+        "pages": "2415–2444",
+        "doi": "10.3982/ECTA12926",
+        "url": "https://doi.org/10.3982/ECTA12926",
         "verified": true,
         "note": ""
       }
@@ -18163,6 +18560,55 @@
         "pages": "54–108",
         "doi": "10.1257/aer.20151086",
         "url": "https://doi.org/10.1257/aer.20151086",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Large Firm Dynamics and the Business Cycle",
+        "title": "Large Firm Dynamics and the Business Cycle",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Basile Grassi"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "4",
+        "pages": "1375–1425",
+        "doi": "10.1257/aer.20151317",
+        "url": "https://doi.org/10.1257/aer.20151317",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Competition on Wages and Productivity: Evidence from the United Kingdom",
+        "title": "The Effect of Competition on Wages and Productivity: Evidence from the United Kingdom",
+        "authors": [
+          "George Symeonidis"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "1",
+        "pages": "134–146",
+        "doi": "10.1162/rest.90.1.134",
+        "url": "https://doi.org/10.1162/rest.90.1.134",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Is Productivity Correlated with Competition?",
+        "title": "Why Is Productivity Correlated with Competition?",
+        "authors": [
+          "Matthew Backus"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "6",
+        "pages": "2415–2444",
+        "doi": "10.3982/ECTA12926",
+        "url": "https://doi.org/10.3982/ECTA12926",
         "verified": true,
         "note": ""
       }
@@ -19550,6 +19996,24 @@
         "url": "https://doi.org/10.1086/733979",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Aggregate Implications of Regional Business Cycles",
+        "title": "The Aggregate Implications of Regional Business Cycles",
+        "authors": [
+          "Martin Beraja",
+          "Erik Hurst",
+          "Juan Ospina"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "6",
+        "pages": "1789–1833",
+        "doi": "10.3982/ECTA14243",
+        "url": "https://doi.org/10.3982/ECTA14243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20164,6 +20628,78 @@
         "pages": "54–108",
         "doi": "10.1257/aer.20151086",
         "url": "https://doi.org/10.1257/aer.20151086",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cascading Failures in Production Networks",
+        "title": "Cascading Failures in Production Networks",
+        "authors": [
+          "David Rezza Baqaee"
+        ],
+        "year": 2018,
+        "journal": "Econometrica",
+        "volume": "86",
+        "issue": "5",
+        "pages": "1819–1838",
+        "doi": "10.3982/ECTA15280",
+        "url": "https://doi.org/10.3982/ECTA15280",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Volatility in Granular Networks",
+        "title": "Firm Volatility in Granular Networks",
+        "authors": [
+          "Bernard Herskovic",
+          "Bryan Kelly",
+          "Hanno Lustig",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "11",
+        "pages": "4097–4162",
+        "doi": "10.1086/710345",
+        "url": "https://doi.org/10.1086/710345",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sectoral Media Focus and Aggregate Fluctuations",
+        "title": "Sectoral Media Focus and Aggregate Fluctuations",
+        "authors": [
+          "Ryan Chahrour",
+          "Kristoffer Nimark",
+          "Stefan Pitschner"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "12",
+        "pages": "3872–3922",
+        "doi": "10.1257/aer.20191895",
+        "url": "https://doi.org/10.1257/aer.20191895",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endogenous Production Networks under Supply Chain Uncertainty",
+        "title": "Endogenous Production Networks under Supply Chain Uncertainty",
+        "authors": [
+          "Alexandr Kopytov",
+          "Bineet Mishra",
+          "Kristoffer Nimark",
+          "Mathieu Taschereau-Dumouchel"
+        ],
+        "year": 2024,
+        "journal": "Econometrica",
+        "volume": "92",
+        "issue": "5",
+        "pages": "1621–1659",
+        "doi": "10.3982/ECTA20629",
+        "url": "https://doi.org/10.3982/ECTA20629",
         "verified": true,
         "note": ""
       }
@@ -21509,6 +22045,41 @@
         "url": "https://doi.org/10.1257/aer.20151086",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Research, Patenting, and Technological Change",
+        "title": "Research, Patenting, and Technological Change",
+        "authors": [
+          "Samuel S. Kortum"
+        ],
+        "year": 1997,
+        "journal": "Econometrica",
+        "volume": "65",
+        "issue": "6",
+        "pages": "1389–1419",
+        "doi": "10.2307/2171741",
+        "url": "https://doi.org/10.2307/2171741",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21839,6 +22410,24 @@
         "pages": "1543–1592",
         "doi": "10.1093/qje/qjw018",
         "url": "https://doi.org/10.1093/qje/qjw018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "title": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "authors": [
+          "Christoph E. Boehm",
+          "Aaron Flaaen",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "101",
+        "issue": "1",
+        "pages": "60–75",
+        "doi": "10.1162/rest_a_00750",
+        "url": "https://doi.org/10.1162/rest_a_00750",
         "verified": true,
         "note": ""
       }
@@ -22985,6 +23574,97 @@
         "url": "https://doi.org/10.3982/ECTA8769",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Aggregate Implications of Regional Business Cycles",
+        "title": "The Aggregate Implications of Regional Business Cycles",
+        "authors": [
+          "Martin Beraja",
+          "Erik Hurst",
+          "Juan Ospina"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "6",
+        "pages": "1789–1833",
+        "doi": "10.3982/ECTA14243",
+        "url": "https://doi.org/10.3982/ECTA14243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Global View of Creative Destruction",
+        "title": "A Global View of Creative Destruction",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow",
+          "Ishan Nath"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "243–275",
+        "doi": "10.1086/724833",
+        "url": "https://doi.org/10.1086/724833",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Growth from Creative Destruction",
+        "title": "Missing Growth from Creative Destruction",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "Timo Boppart",
+          "Peter J. Klenow",
+          "Huiyu Li"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "8",
+        "pages": "2795–2822",
+        "doi": "10.1257/aer.20171745",
+        "url": "https://doi.org/10.1257/aer.20171745",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Research, Patenting, and Technological Change",
+        "title": "Research, Patenting, and Technological Change",
+        "authors": [
+          "Samuel S. Kortum"
+        ],
+        "year": 1997,
+        "journal": "Econometrica",
+        "volume": "65",
+        "issue": "6",
+        "pages": "1389–1419",
+        "doi": "10.2307/2171741",
+        "url": "https://doi.org/10.2307/2171741",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23602,6 +24282,24 @@
         "pages": "105–163",
         "doi": "10.1093/qje/qjz030",
         "url": "https://doi.org/10.1093/qje/qjz030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sectoral Media Focus and Aggregate Fluctuations",
+        "title": "Sectoral Media Focus and Aggregate Fluctuations",
+        "authors": [
+          "Ryan Chahrour",
+          "Kristoffer Nimark",
+          "Stefan Pitschner"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "12",
+        "pages": "3872–3922",
+        "doi": "10.1257/aer.20191895",
+        "url": "https://doi.org/10.1257/aer.20191895",
         "verified": true,
         "note": ""
       }
@@ -24556,6 +25254,44 @@
         "url": "https://doi.org/10.1257/aer.104.3.753",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Missing Growth from Creative Destruction",
+        "title": "Missing Growth from Creative Destruction",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "Timo Boppart",
+          "Peter J. Klenow",
+          "Huiyu Li"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "8",
+        "pages": "2795–2822",
+        "doi": "10.1257/aer.20171745",
+        "url": "https://doi.org/10.1257/aer.20171745",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Induced Innovation Hypothesis and Energy-Saving Technological Change",
+        "title": "The Induced Innovation Hypothesis and Energy-Saving Technological Change",
+        "authors": [
+          "Richard G. Newell",
+          "Adam B. Jaffe",
+          "Robert N. Stavins"
+        ],
+        "year": 1999,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "114",
+        "issue": "3",
+        "pages": "941–975",
+        "doi": "10.1162/003355399556188",
+        "url": "https://doi.org/10.1162/003355399556188",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24951,6 +25687,25 @@
         "url": "https://doi.org/10.1093/qje/qjae031",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "title": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "authors": [
+          "Patrick Kline",
+          "Neviana Petkova",
+          "Heidi Williams",
+          "Owen Zidar"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1343–1404",
+        "doi": "10.1093/qje/qjz011",
+        "url": "https://doi.org/10.1093/qje/qjz011",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25272,6 +26027,25 @@
         "url": "https://doi.org/10.1093/rfs/hhac018",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25567,6 +26341,23 @@
         "pages": "67–110",
         "doi": "10.1257/mac.20170269",
         "url": "https://doi.org/10.1257/mac.20170269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Large Firm Dynamics and the Business Cycle",
+        "title": "Large Firm Dynamics and the Business Cycle",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Basile Grassi"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "4",
+        "pages": "1375–1425",
+        "doi": "10.1257/aer.20151317",
+        "url": "https://doi.org/10.1257/aer.20151317",
         "verified": true,
         "note": ""
       }
@@ -37863,6 +38654,22 @@
         "url": "https://doi.org/10.1086/730267",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Induced Innovation and Energy Prices",
+        "title": "Induced Innovation and Energy Prices",
+        "authors": [
+          "David Popp"
+        ],
+        "year": 2002,
+        "journal": "American Economic Review",
+        "volume": "92",
+        "issue": "1",
+        "pages": "160–180",
+        "doi": "10.1257/000282802760015658",
+        "url": "https://doi.org/10.1257/000282802760015658",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40103,6 +40910,23 @@
         "pages": "1757–1795",
         "doi": "10.1086/734779",
         "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Product Market Competition and Upstream Innovation: Evidence from the U.S. Electricity Market Deregulation",
+        "title": "Product Market Competition and Upstream Innovation: Evidence from the U.S. Electricity Market Deregulation",
+        "authors": [
+          "Paroma Sanyal",
+          "Suman Ghosh"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "1",
+        "pages": "237–254",
+        "doi": "10.1162/rest_a_00255",
+        "url": "https://doi.org/10.1162/rest_a_00255",
         "verified": true,
         "note": ""
       }
@@ -44585,6 +45409,25 @@
         "url": "https://doi.org/10.1257/aer.20201480",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -45111,6 +45954,25 @@
         "pages": "1400–1438",
         "doi": "10.1257/aer.20220276",
         "url": "https://doi.org/10.1257/aer.20220276",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
         "verified": true,
         "note": ""
       }
@@ -46171,6 +47033,24 @@
         "pages": "779–795",
         "doi": "10.1162/rest_a_00419",
         "url": "https://doi.org/10.1162/rest_a_00419",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "title": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "authors": [
+          "Christoph E. Boehm",
+          "Aaron Flaaen",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "101",
+        "issue": "1",
+        "pages": "60–75",
+        "doi": "10.1162/rest_a_00750",
+        "url": "https://doi.org/10.1162/rest_a_00750",
         "verified": true,
         "note": ""
       }
@@ -49486,6 +50366,24 @@
         "url": "https://doi.org/10.1086/708816",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Aggregate Implications of Regional Business Cycles",
+        "title": "The Aggregate Implications of Regional Business Cycles",
+        "authors": [
+          "Martin Beraja",
+          "Erik Hurst",
+          "Juan Ospina"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "6",
+        "pages": "1789–1833",
+        "doi": "10.3982/ECTA14243",
+        "url": "https://doi.org/10.3982/ECTA14243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -49745,6 +50643,22 @@
         "pages": "105–155",
         "doi": "10.1257/app.20170487",
         "url": "https://doi.org/10.1257/app.20170487",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Is Productivity Correlated with Competition?",
+        "title": "Why Is Productivity Correlated with Competition?",
+        "authors": [
+          "Matthew Backus"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "6",
+        "pages": "2415–2444",
+        "doi": "10.3982/ECTA12926",
+        "url": "https://doi.org/10.3982/ECTA12926",
         "verified": true,
         "note": ""
       }
@@ -51648,6 +52562,23 @@
         "url": "https://doi.org/10.1257/aer.103.5.1697",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Large Firm Dynamics and the Business Cycle",
+        "title": "Large Firm Dynamics and the Business Cycle",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Basile Grassi"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "4",
+        "pages": "1375–1425",
+        "doi": "10.1257/aer.20151317",
+        "url": "https://doi.org/10.1257/aer.20151317",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53323,6 +54254,96 @@
         "url": "https://doi.org/10.1093/qje/qjw018",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Large Firm Dynamics and the Business Cycle",
+        "title": "Large Firm Dynamics and the Business Cycle",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Basile Grassi"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "4",
+        "pages": "1375–1425",
+        "doi": "10.1257/aer.20151317",
+        "url": "https://doi.org/10.1257/aer.20151317",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Volatility in Granular Networks",
+        "title": "Firm Volatility in Granular Networks",
+        "authors": [
+          "Bernard Herskovic",
+          "Bryan Kelly",
+          "Hanno Lustig",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "11",
+        "pages": "4097–4162",
+        "doi": "10.1086/710345",
+        "url": "https://doi.org/10.1086/710345",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sectoral Media Focus and Aggregate Fluctuations",
+        "title": "Sectoral Media Focus and Aggregate Fluctuations",
+        "authors": [
+          "Ryan Chahrour",
+          "Kristoffer Nimark",
+          "Stefan Pitschner"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "12",
+        "pages": "3872–3922",
+        "doi": "10.1257/aer.20191895",
+        "url": "https://doi.org/10.1257/aer.20191895",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Product Market Competition and Upstream Innovation: Evidence from the U.S. Electricity Market Deregulation",
+        "title": "Product Market Competition and Upstream Innovation: Evidence from the U.S. Electricity Market Deregulation",
+        "authors": [
+          "Paroma Sanyal",
+          "Suman Ghosh"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "1",
+        "pages": "237–254",
+        "doi": "10.1162/rest_a_00255",
+        "url": "https://doi.org/10.1162/rest_a_00255",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54082,6 +55103,25 @@
         "pages": "1543–1592",
         "doi": "10.1093/qje/qjw018",
         "url": "https://doi.org/10.1093/qje/qjw018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Volatility in Granular Networks",
+        "title": "Firm Volatility in Granular Networks",
+        "authors": [
+          "Bernard Herskovic",
+          "Bryan Kelly",
+          "Hanno Lustig",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "11",
+        "pages": "4097–4162",
+        "doi": "10.1086/710345",
+        "url": "https://doi.org/10.1086/710345",
         "verified": true,
         "note": ""
       }
@@ -56970,6 +58010,24 @@
         "url": "https://doi.org/10.1086/718982",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Aggregate Implications of Regional Business Cycles",
+        "title": "The Aggregate Implications of Regional Business Cycles",
+        "authors": [
+          "Martin Beraja",
+          "Erik Hurst",
+          "Juan Ospina"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "6",
+        "pages": "1789–1833",
+        "doi": "10.3982/ECTA14243",
+        "url": "https://doi.org/10.3982/ECTA14243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -57100,6 +58158,59 @@
         "pages": "67–110",
         "doi": "10.1257/mac.20170269",
         "url": "https://doi.org/10.1257/mac.20170269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Research, Patenting, and Technological Change",
+        "title": "Research, Patenting, and Technological Change",
+        "authors": [
+          "Samuel S. Kortum"
+        ],
+        "year": 1997,
+        "journal": "Econometrica",
+        "volume": "65",
+        "issue": "6",
+        "pages": "1389–1419",
+        "doi": "10.2307/2171741",
+        "url": "https://doi.org/10.2307/2171741",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation, Reallocation, and Growth",
+        "title": "Innovation, Reallocation, and Growth",
+        "authors": [
+          "Daron Acemoglu",
+          "Ufuk Akcigit",
+          "Harun Alp",
+          "Nicholas Bloom",
+          "William Kerr"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "11",
+        "pages": "3450–3491",
+        "doi": "10.1257/aer.20130470",
+        "url": "https://doi.org/10.1257/aer.20130470",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Growth through Heterogeneous Innovations",
+        "title": "Growth through Heterogeneous Innovations",
+        "authors": [
+          "Ufuk Akcigit",
+          "William R. Kerr"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "4",
+        "pages": "1374–1443",
+        "doi": "10.1086/697901",
+        "url": "https://doi.org/10.1086/697901",
         "verified": true,
         "note": ""
       }
@@ -57617,6 +58728,180 @@
         "url": "https://doi.org/10.1257/aer.20131706",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Innovation, Reallocation, and Growth",
+        "title": "Innovation, Reallocation, and Growth",
+        "authors": [
+          "Daron Acemoglu",
+          "Ufuk Akcigit",
+          "Harun Alp",
+          "Nicholas Bloom",
+          "William Kerr"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "11",
+        "pages": "3450–3491",
+        "doi": "10.1257/aer.20130470",
+        "url": "https://doi.org/10.1257/aer.20130470",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Growth through Heterogeneous Innovations",
+        "title": "Growth through Heterogeneous Innovations",
+        "authors": [
+          "Ufuk Akcigit",
+          "William R. Kerr"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "4",
+        "pages": "1374–1443",
+        "doi": "10.1086/697901",
+        "url": "https://doi.org/10.1086/697901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "title": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "authors": [
+          "Patrick Kline",
+          "Neviana Petkova",
+          "Heidi Williams",
+          "Owen Zidar"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1343–1404",
+        "doi": "10.1093/qje/qjz011",
+        "url": "https://doi.org/10.1093/qje/qjz011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Burden of Knowledge and the “Death of the Renaissance Man”: Is Innovation Getting Harder?",
+        "title": "The Burden of Knowledge and the “Death of the Renaissance Man”: Is Innovation Getting Harder?",
+        "authors": [
+          "Benjamin F. Jones"
+        ],
+        "year": 2009,
+        "journal": "Review of Economic Studies",
+        "volume": "76",
+        "issue": "1",
+        "pages": "283–317",
+        "doi": "10.1111/j.1467-937X.2008.00531.x",
+        "url": "https://doi.org/10.1111/j.1467-937X.2008.00531.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Product Market Competition and Upstream Innovation: Evidence from the U.S. Electricity Market Deregulation",
+        "title": "Product Market Competition and Upstream Innovation: Evidence from the U.S. Electricity Market Deregulation",
+        "authors": [
+          "Paroma Sanyal",
+          "Suman Ghosh"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "1",
+        "pages": "237–254",
+        "doi": "10.1162/rest_a_00255",
+        "url": "https://doi.org/10.1162/rest_a_00255",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.11",
+    "title": "USPTO 经济研究数据集（专利审查 PatEx、专利转让等）",
+    "links": [
+      {
+        "label": "USPTO: Patent Examination Research Dataset",
+        "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/patent-examination-research-dataset-public-pair"
+      },
+      {
+        "label": "USPTO: Patent Assignment Dataset",
+        "url": "https://www.uspto.gov/ip-policy/economic-research/research-datasets/patent-assignment-dataset"
+      }
+    ],
+    "summary": "美国专利商标局首席经济学家办公室发布的专利研究数据集，包括来自 PAIR 系统的专利审查研究数据集（PatEx，2001 年起的申请和审查过程）、专利转让数据集（1970 年代以来的权利转让记录）、专利诉讼和商标数据集，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "USPTO 首席经济学家办公室整理了多项面向研究的数据集：专利审查研究数据集（PatEx）从公共 PAIR 系统提取 1,000 多万件申请的申请日、审查员和技术单元（art unit）、审查事件时间线、驳回和授权结果、延续申请关系和专利期限调整；专利转让数据集（Patent Assignment Dataset）记录 1970 年代以来约 1,000 万件专利和申请的所有权转让、担保和许可登记，包括转让方、受让方和转让类型；另有专利诉讼、专利权利要求、历史专利（1790 年起）和商标案件数据集。数据在 USPTO 网站免费下载并定期更新。\n\n数据常用于研究专利审查过程和审查员宽严程度（作为专利授权的工具变量）、专利交易和创新市场、企业并购中的专利转移，以及专利授权对企业融资、就业和创新的影响。审查数据只覆盖公开的申请，转让记录依赖当事人自愿登记。",
+    "source": "公开下载（USPTO 网站）。",
+    "references": [
+      {
+        "raw": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "title": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "authors": [
+          "Patrick Kline",
+          "Neviana Petkova",
+          "Heidi Williams",
+          "Owen Zidar"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1343–1404",
+        "doi": "10.1093/qje/qjz011",
+        "url": "https://doi.org/10.1093/qje/qjz011",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.12",
+    "title": "Kogan-Papanikolaou-Seru-Stoffman 专利经济价值数据（KPSS）",
+    "links": [
+      {
+        "label": "KPSS 2017 extended data (GitHub)",
+        "url": "https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data"
+      }
+    ],
+    "summary": "Kogan、Papanikolaou、Seru 和 Stoffman（2017，QJE）根据专利授权公告前后的股价反应估计的美国上市公司专利经济价值，覆盖 1926 年以来约 300 万件专利，并与 CRSP 公司代码匹配，作者在 GitHub 免费公开并持续更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "金融数据"
+    ],
+    "introduction": "KPSS 数据利用专利授权日附近三天窗口内持有该专利的上市公司的超额股票收益，剔除噪声后估计每件专利的私人经济价值（以美元计），并汇总为公司-年度层面的创新价值指标；数据涵盖 1926 年以来授予在 CRSP 上市公司的约 300 万件美国专利，提供专利号、授权日、CRSP PERMNO、名义和实际专利价值以及引用数。扩展版本延伸到 2020 年代，在作者的 GitHub 仓库免费下载。\n\n数据常用于衡量企业创新的经济价值和技术冲击，研究创新与企业增长、资源重配、生产率和资产价格的关系，或作为专利质量的替代指标。估值只适用于上市公司，依赖于股价对授权消息的反应。",
+    "source": "公开下载（作者 GitHub 仓库）。",
+    "references": [
+      {
+        "raw": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "title": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "authors": [
+          "Patrick Kline",
+          "Neviana Petkova",
+          "Heidi Williams",
+          "Owen Zidar"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1343–1404",
+        "doi": "10.1093/qje/qjz011",
+        "url": "https://doi.org/10.1093/qje/qjz011",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -57891,6 +59176,25 @@
         "pages": "105598",
         "doi": "10.1016/j.jpubeco.2026.105598",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105598",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
         "verified": true,
         "note": ""
       }
@@ -58439,6 +59743,46 @@
         "pages": "369–421",
         "doi": "10.1086/674633",
         "url": "https://doi.org/10.1086/674633",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.2",
+    "title": "纵向企业贸易交易数据库（Longitudinal Firm Trade Transactions Database，LFTTD）",
+    "links": [
+      {
+        "label": "Census CES: LFTTD",
+        "url": "https://www.census.gov/programs-surveys/ces/data/restricted-use-data/longitudinal-firm-trade-transaction-database.html"
+      }
+    ],
+    "summary": "美国人口普查局将海关逐笔进出口交易记录与企业登记（LBD）关联构建的企业层面贸易数据，1992 年起，记录每笔交易的产品（HS 10 位）、金额、数量、贸易伙伴国和关联方标识，经 FSRDC 申请使用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "微观企业数据"
+    ],
+    "introduction": "LFTTD 由人口普查局经济研究中心（CES）构建，来源是美国海关与边境保护局收集的出口申报（Shipper's Export Declaration / AES）和进口报关单，每条记录包含 HS 10 位产品代码、价值、数量、运输方式、贸易伙伴国、出入境口岸和交易双方是否关联方，通过雇主识别号（EIN）与商业登记和纵向商业数据库（LBD）中的企业关联，从而可得出口商和进口商的规模、行业、年龄和地点。数据始于 1992 年，年度更新，只能由获批项目在联邦统计研究数据中心（FSRDC）中使用。\n\n数据常用于研究出口商和进口商的特征（“少数大企业主导贸易”）、多国企业内部贸易、关税和贸易冲击（如中国冲击、2018 年关税）对企业的影响，以及供应链中断（如 2011 年日本地震）通过进口投入的传导。出口记录对小额交易和部分运输方式覆盖不完整，访问门槛高。",
+    "source": "受限（经 FSRDC 申请）。",
+    "references": [
+      {
+        "raw": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "title": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "authors": [
+          "Christoph E. Boehm",
+          "Aaron Flaaen",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "101",
+        "issue": "1",
+        "pages": "60–75",
+        "doi": "10.1162/rest_a_00750",
+        "url": "https://doi.org/10.1162/rest_a_00750",
         "verified": true,
         "note": ""
       }
@@ -62340,6 +63684,22 @@
         "url": "https://doi.org/10.1086/653137",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Competition on Wages and Productivity: Evidence from the United Kingdom",
+        "title": "The Effect of Competition on Wages and Productivity: Evidence from the United Kingdom",
+        "authors": [
+          "George Symeonidis"
+        ],
+        "year": 2008,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "90",
+        "issue": "1",
+        "pages": "134–146",
+        "doi": "10.1162/rest.90.1.134",
+        "url": "https://doi.org/10.1162/rest.90.1.134",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -64378,6 +65738,25 @@
         "pages": "4561–4586",
         "doi": "10.1093/rfs/hhac018",
         "url": "https://doi.org/10.1093/rfs/hhac018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "O-Ring Production Networks",
+        "title": "O-Ring Production Networks",
+        "authors": [
+          "Banu Demir",
+          "Ana Cecília Fieler",
+          "Daniel Yi Xu",
+          "Kelly Kaili Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "1",
+        "pages": "200–247",
+        "doi": "10.1086/725703",
+        "url": "https://doi.org/10.1086/725703",
         "verified": true,
         "note": ""
       }
@@ -68743,6 +70122,47 @@
     ]
   },
   {
+    "id": "4.1.5",
+    "title": "日本经济普查（Economic Census for Business Frame / Business Activity）",
+    "links": [
+      {
+        "label": "Statistics Bureau of Japan: Economic Census",
+        "url": "https://www.stat.go.jp/english/data/e-census/"
+      }
+    ],
+    "summary": "日本总务省统计局和经济产业省实施的全国全部事业所和企业普查，2009 年起（基础调查）和 2012 年起（活动调查），记录事业所的地点、行业、从业人数和企业的销售额与费用，汇总表在 e-Stat 公开，个体数据经申请使用。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "普查数据",
+      "微观企业数据"
+    ],
+    "introduction": "日本经济普查整合了此前的事业所与企业统计调查（1947 年起）等多项调查，分为两类：经济普查基础调查（Economic Census for Business Frame，2009、2014、2019 年）确定全部事业所和企业的名称、地址、行业、经营组织、从业人数和资本金，为统计调查提供抽样框；经济普查活动调查（Economic Census for Business Activity，2012、2016、2021 年）进一步收集销售额、费用、设备投资和分行业业务构成。普查覆盖除农林渔个体经营和部分公共部门外的全部事业所，汇总结果按市町村和细分行业在 e-Stat 免费下载，个体数据依据统计法经申请用于研究。\n\n数据常用于研究日本地区经济结构、企业规模分布和集聚，以及作为东日本大地震等冲击前企业所在地和规模的基准信息。基础调查不含销售额，两类调查年份交替，口径需注意。",
+    "source": "汇总表公开下载（统计局、e-Stat）；个体数据经申请。",
+    "references": [
+      {
+        "raw": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Makoto Nirei",
+          "Yukiko U. Saito",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "1255–1321",
+        "doi": "10.1093/qje/qjaa044",
+        "url": "https://doi.org/10.1093/qje/qjaa044",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.2.1",
     "title": "ICRISAT 村庄层面研究（VLS）面板调查",
     "links": [
@@ -70025,6 +71445,24 @@
         "url": "https://doi.org/10.1257/aer.97.5.1611",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Global View of Creative Destruction",
+        "title": "A Global View of Creative Destruction",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow",
+          "Ishan Nath"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "243–275",
+        "doi": "10.1086/724833",
+        "url": "https://doi.org/10.1086/724833",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -70102,6 +71540,25 @@
         "pages": "639–688",
         "doi": "10.1086/700764",
         "url": "https://doi.org/10.1086/700764",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Makoto Nirei",
+          "Yukiko U. Saito",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "1255–1321",
+        "doi": "10.1093/qje/qjaa044",
+        "url": "https://doi.org/10.1093/qje/qjaa044",
         "verified": true,
         "note": ""
       }
@@ -70324,6 +71781,25 @@
         "url": "https://doi.org/10.1257/app.20200505",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Makoto Nirei",
+          "Yukiko U. Saito",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "1255–1321",
+        "doi": "10.1093/qje/qjaa044",
+        "url": "https://doi.org/10.1093/qje/qjaa044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -70359,6 +71835,65 @@
         "pages": "102752",
         "doi": "10.1016/j.jdeveco.2021.102752",
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102752",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Makoto Nirei",
+          "Yukiko U. Saito",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "1255–1321",
+        "doi": "10.1093/qje/qjaa044",
+        "url": "https://doi.org/10.1093/qje/qjaa044",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.4.5",
+    "title": "日本投入产出表（Input-Output Tables for Japan）",
+    "links": [
+      {
+        "label": "MIC: Input-Output Tables for Japan",
+        "url": "https://www.soumu.go.jp/english/dgpp_ss/data/io/io11.htm"
+      }
+    ],
+    "summary": "日本总务省牵头、十个政府部门联合编制的基准年投入产出表，每五年一次（1951 年起），2011 年表约 500 个行部门和 400 个列部门，另有经产省延长表和地区投入产出表，免费下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "日本投入产出表由总务省协调内阁府、经济产业省、农林水产省等十个府省联合编制，基准年份为每五年（1951、1955、……、2011、2015 年），基本表细分为约 500 行、约 400 列部门，同时公布 190、108、37、13 部门的合并表，以及生产者价格和购买者价格评价、进口矩阵、雇佣表和固定资本形成矩阵等附表；经济产业省编制年度延长表，各地方经济产业局和都道府县编制地区间和县内投入产出表。数据在总务省网站和 e-Stat 免费下载。\n\n数据常用于测算行业间关联和冲击传导、生产网络的结构与乘数效应、贸易和环境的投入产出分析，例如校准东日本大地震供应链冲击的宏观影响。基准表每五年才更新一次，部门分类在各版本间有调整。",
+    "source": "公开下载（总务省、e-Stat）。",
+    "references": [
+      {
+        "raw": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Makoto Nirei",
+          "Yukiko U. Saito",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "1255–1321",
+        "doi": "10.1093/qje/qjaa044",
+        "url": "https://doi.org/10.1093/qje/qjaa044",
         "verified": true,
         "note": ""
       }
@@ -70909,6 +72444,47 @@
         "pages": "526–529",
         "doi": "10.1257/aer.p20171134",
         "url": "https://doi.org/10.1257/aer.p20171134",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.6.11",
+    "title": "日本地震危险性评估系统（J-SHIS）",
+    "links": [
+      {
+        "label": "J-SHIS",
+        "url": "https://www.j-shis.bosai.go.jp/en/"
+      }
+    ],
+    "summary": "日本防灾科学技术研究所（NIED）发布的全国概率地震危险性图和地震动预测图，按 250 米网格给出未来 30 年超过特定烈度的概率、场地放大系数和地下结构模型，免费在线浏览和下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "J-SHIS（Japan Seismic Hazard Information Station）由国立研究开发法人防灾科学技术研究所运营，发布日本政府地震调查研究推进本部的全国地震动预测图：概率地震危险性图给出每个 250 米网格在未来 30 年或 50 年内遭遇震度 5 弱、6 弱等以上地震动的概率；情景地震动图给出特定断层地震的预期烈度分布；另有活断层、震源模型、表层地基放大率和深部地下结构数据。数据可在网站地图浏览，并以 GIS 格式和 API 免费下载。\n\n数据常用于衡量地区和企业面临的地震风险，研究灾害风险对房价、企业选址和供应链布局的影响，或作为地震冲击的预期强度控制变量。概率评估依赖模型假设，每年随新研究更新，不同版本可比性有限。",
+    "source": "公开下载（NIED J-SHIS 网站）。",
+    "references": [
+      {
+        "raw": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+        "authors": [
+          "Vasco M. Carvalho",
+          "Makoto Nirei",
+          "Yukiko U. Saito",
+          "Alireza Tahbaz-Salehi"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "1255–1321",
+        "doi": "10.1093/qje/qjaa044",
+        "url": "https://doi.org/10.1093/qje/qjaa044",
         "verified": true,
         "note": ""
       }
@@ -72916,6 +74492,24 @@
         "url": "https://doi.org/10.1257/aer.104.10.3186",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Global View of Creative Destruction",
+        "title": "A Global View of Creative Destruction",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow",
+          "Ishan Nath"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "243–275",
+        "doi": "10.1086/724833",
+        "url": "https://doi.org/10.1086/724833",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73002,6 +74596,24 @@
         "pages": "422–458",
         "doi": "10.1257/aer.104.2.422",
         "url": "https://doi.org/10.1257/aer.104.2.422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Global View of Creative Destruction",
+        "title": "A Global View of Creative Destruction",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow",
+          "Ishan Nath"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "243–275",
+        "doi": "10.1086/724833",
+        "url": "https://doi.org/10.1086/724833",
         "verified": true,
         "note": ""
       }
@@ -80176,6 +81788,23 @@
         "url": "https://doi.org/10.1093/qje/qjt025",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Impact of Microeconomic Shocks: Beyond Hulten's Theorem",
+        "title": "The Macroeconomic Impact of Microeconomic Shocks: Beyond Hulten's Theorem",
+        "authors": [
+          "David Rezza Baqaee",
+          "Emmanuel Farhi"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "4",
+        "pages": "1155–1203",
+        "doi": "10.3982/ECTA15202",
+        "url": "https://doi.org/10.3982/ECTA15202",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82133,6 +83762,26 @@
         "url": "https://doi.org/10.1093/jeea/jvaf003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82345,6 +83994,26 @@
         "pages": "412–416",
         "doi": "10.1257/aer.102.3.412",
         "url": "https://doi.org/10.1257/aer.102.3.412",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
         "verified": true,
         "note": ""
       }
@@ -83119,6 +84788,44 @@
         "pages": "1697–1727",
         "doi": "10.1257/aer.103.5.1697",
         "url": "https://doi.org/10.1257/aer.103.5.1697",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Global View of Creative Destruction",
+        "title": "A Global View of Creative Destruction",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Peter J. Klenow",
+          "Ishan Nath"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy Macroeconomics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "243–275",
+        "doi": "10.1086/724833",
+        "url": "https://doi.org/10.1086/724833",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
         "verified": true,
         "note": ""
       }
@@ -83921,6 +85628,84 @@
         "pages": "1727–1785",
         "doi": "10.1093/qje/qjt025",
         "url": "https://doi.org/10.1093/qje/qjt025",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.42",
+    "title": "World KLEMS 世界增长与生产率数据库",
+    "links": [
+      {
+        "label": "World KLEMS",
+        "url": "https://www.worldklems.net/"
+      }
+    ],
+    "summary": "World KLEMS 倡议协调各国研究团队按统一方法构建的分行业产出、资本（K）、劳动（L）、能源（E）、材料（M）和服务（S）投入及生产率核算数据，覆盖美国、欧盟、日本、中国、印度、拉美等 40 多个经济体，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "World KLEMS 由哈佛大学 Dale Jorgenson 和格罗宁根大学 Marcel Timmer 等于 2010 年发起，在 EU KLEMS 的基础上把增长核算框架推广到欧洲以外：美国 KLEMS（BEA/BLS 与 Jorgenson 团队，1947 年起）、日本 JIP、中国 CIP（Harry Wu）、印度 KLEMS（印度储备银行）、拉美 LA-KLEMS、韩国、加拿大、俄罗斯等，各国按约 30–70 个行业提供总产出、增加值、中间投入、按资产类型的资本服务、按教育、年龄和性别调整质量的劳动投入，以及全要素生产率增长分解。各国数据在 World KLEMS 网站和各区域项目网站免费下载。\n\n数据常用于跨国比较行业生产率增长、研究 ICT 投资和结构变迁对增长的贡献，以及校准多部门宏观和生产网络模型。各国数据年份和行业分类不完全统一，部分国家更新滞后。",
+    "source": "公开下载（World KLEMS 及各国项目网站）。",
+    "references": [
+      {
+        "raw": "The Macroeconomic Impact of Microeconomic Shocks: Beyond Hulten's Theorem",
+        "title": "The Macroeconomic Impact of Microeconomic Shocks: Beyond Hulten's Theorem",
+        "authors": [
+          "David Rezza Baqaee",
+          "Emmanuel Farhi"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "4",
+        "pages": "1155–1203",
+        "doi": "10.3982/ECTA15202",
+        "url": "https://doi.org/10.3982/ECTA15202",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.43",
+    "title": "OECD 生产率数据库（OECD Productivity Statistics）",
+    "links": [
+      {
+        "label": "OECD Productivity Database",
+        "url": "https://www.oecd.org/en/data/datasets/oecd-productivity-database.html"
+      }
+    ],
+    "summary": "OECD 发布的成员国和主要伙伴国劳动生产率、多要素生产率、资本服务、单位劳动成本和工时统计，1970 年起，按全经济和行业分列，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "OECD 生产率数据库基于各国国民账户、劳动力统计和 OECD 资本服务估计，按统一方法提供每工时和每就业人员 GDP、劳动生产率增长、多要素生产率（MFP）增长及其分解（资本深化和劳动构成变化的贡献）、ICT 和非 ICT 资本服务、单位劳动成本和劳动收入份额，覆盖 OECD 成员国和部分伙伴国，多数序列始于 1970 年或 1985 年，并按行业提供部分指标。数据在 OECD Data Explorer 免费下载，每年随《OECD 生产率统计纲要》更新。\n\n数据常用于跨国比较生产率水平和增长、研究生产率放缓和要素收入份额，以及为宏观模型提供总量 TFP 序列。MFP 估计依赖各国资本存量和要素份额假设，跨国可比性有限。",
+    "source": "公开下载（OECD Data Explorer；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "The Impact of Regional and Sectoral Productivity Changes on the U.S. Economy",
+        "title": "The Impact of Regional and Sectoral Productivity Changes on the U.S. Economy",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Fernando Parro",
+          "Esteban Rossi-Hansberg",
+          "Pierre-Daniel Sarte"
+        ],
+        "year": 2018,
+        "journal": "The Review of Economic Studies",
+        "volume": "85",
+        "issue": "4",
+        "pages": "2042–2096",
+        "doi": "10.1093/restud/rdx082",
+        "url": "https://doi.org/10.1093/restud/rdx082",
         "verified": true,
         "note": ""
       }
@@ -91106,6 +92891,46 @@
     ]
   },
   {
+    "id": "7.6.65",
+    "title": "USGS ShakeMap 地震动强度图",
+    "links": [
+      {
+        "label": "USGS: ShakeMap",
+        "url": "https://earthquake.usgs.gov/data/shakemap/"
+      }
+    ],
+    "summary": "美国地质调查局为全球显著地震生成的近实时地震动栅格图，给出修正麦卡利烈度（MMI）、峰值地面加速度和速度、谱加速度的空间分布，可按事件下载 GIS 格式数据，免费获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "ShakeMap 由 USGS 地震灾害项目开发，结合地震台站记录、“你感觉到了吗”（Did You Feel It?）公众报告和地面运动预测方程，为美国及全球中等以上地震生成网格化的地震动参数图，包括修正麦卡利烈度、峰值地面加速度（PGA）、峰值地面速度（PGV）和不同周期的谱加速度，以及不确定性估计。每个事件的数据以栅格、等值线和 shapefile 等格式在 USGS 地震事件页面免费下载，历史事件也有回溯生成的版本（ShakeMap Atlas）。\n\n数据常用于测量企业、工厂或住户受地震冲击的强度，研究自然灾害对生产网络、劳动力市场、健康和人口迁移的影响，例如以 2011 年东日本大地震的烈度识别受灾企业。图件是基于观测和模型的估计，台站稀少地区的不确定性较大。",
+    "source": "公开下载（USGS 地震灾害项目）。",
+    "references": [
+      {
+        "raw": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "title": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 Tohoku Earthquake",
+        "authors": [
+          "Christoph E. Boehm",
+          "Aaron Flaaen",
+          "Nitya Pandalai-Nayar"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "101",
+        "issue": "1",
+        "pages": "60–75",
+        "doi": "10.1162/rest_a_00750",
+        "url": "https://doi.org/10.1162/rest_a_00750",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.7.1",
     "title": "全球实体经济活动与石油市场研究数据（Kilian、Baumeister）",
     "links": [
@@ -92247,6 +94072,25 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102775",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92680,6 +94524,26 @@
         "pages": "412–416",
         "doi": "10.1257/aer.102.3.412",
         "url": "https://doi.org/10.1257/aer.102.3.412",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
         "verified": true,
         "note": ""
       }
@@ -93434,6 +95298,26 @@
         "url": "https://doi.org/10.1257/aeri.20210014",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -93936,6 +95820,26 @@
         "url": "https://doi.org/10.1093/rfs/hhac018",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94059,6 +95963,89 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.3386/w32098",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.21",
+    "title": "比较宣言项目（Manifesto Project / Comparative Manifestos Project）",
+    "links": [
+      {
+        "label": "Manifesto Project Database",
+        "url": "https://manifesto-project.wzb.eu/"
+      }
+    ],
+    "summary": "柏林社会科学研究中心（WZB）主持的政党竞选纲领内容分析数据库，覆盖 1945 年以来 50 多个国家 1,000 多个政党的 4,000 多份竞选宣言，按 56 个政策类别编码并给出左右意识形态得分，注册后免费下载。",
+    "regions": [
+      "全球数据",
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "比较宣言项目始于 1979 年的宣言研究组（MRG），后由 WZB 维护，研究人员将各政党在议会选举中发布的竞选纲领逐句（准句）编码到 56 个政策类别（如福利扩张、自由市场经济、国有化、欧洲一体化、法律与秩序），计算各类别所占百分比，并据此构造 RILE 左右意识形态得分和其他维度指标，覆盖 OECD 国家、中东欧以及拉美的部分国家，1945 年至今。项目还提供宣言原文语料库。数据在项目网站注册后免费下载，每年更新。\n\n数据常用于测量政党和政府的政策立场，研究党派政治对财政政策、竞争政策、福利和监管的影响，以及政党意识形态的演变。宣言立场与实际执政政策可能存在差距，编码依赖人工判断。",
+    "source": "注册后免费下载（Manifesto Project 网站）。",
+    "references": [
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.22",
+    "title": "弗雷泽研究所世界经济自由度指数（Economic Freedom of the World，EFW）",
+    "links": [
+      {
+        "label": "Fraser Institute: Economic Freedom",
+        "url": "https://www.fraserinstitute.org/economic-freedom"
+      }
+    ],
+    "summary": "加拿大弗雷泽研究所发布的约 165 个国家和地区经济自由度指数，1970 年起（2000 年前每五年，之后年度），包括政府规模、法律体系与产权、稳健货币、国际贸易自由和监管五个领域及约 40 个分项，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "EFW 指数由弗雷泽研究所与 Gwartney、Lawson 和 Murphy 等编制，基于世界银行、IMF、世界经济论坛、国际国家风险指南（ICRG）等第三方数据，对五个领域打分（0–10）：政府规模（支出、转移、国企、税率）、法律体系与产权保护（司法独立、法院公正、合同执行）、稳健货币（货币增长、通胀及其波动、外币账户自由）、国际贸易自由（关税、非关税壁垒、资本管制）以及信贷、劳动和企业监管；总指数为五个领域的平均。数据在弗雷泽研究所网站免费下载，每年发布年度报告。\n\n数据常用于跨国研究制度质量、经济自由与增长、投资和收入水平的关系，以及作为法律体系和监管环境的控制变量（例如竞争政策效果的跨国研究）。指标综合了主观调查和客观数据，各期方法有修订。",
+    "source": "公开下载（弗雷泽研究所网站；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
         "verified": true,
         "note": ""
       }
@@ -95238,6 +97225,26 @@
         "pages": "1433–1466",
         "doi": "10.1093/ej/ueae119",
         "url": "https://doi.org/10.1093/ej/ueae119",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Competition and Innovation: an Inverted-U Relationship",
+        "title": "Competition and Innovation: an Inverted-U Relationship",
+        "authors": [
+          "Philippe Aghion",
+          "Nicholas Bloom",
+          "Richard Blundell",
+          "Rachel Griffith",
+          "Peter Howitt"
+        ],
+        "year": 2005,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "2",
+        "pages": "701–728",
+        "doi": "10.1093/qje/120.2.701",
+        "url": "https://doi.org/10.1093/qje/120.2.701",
         "verified": true,
         "note": ""
       }
@@ -96956,6 +98963,25 @@
         "url": "https://doi.org/10.1257/aeri.20210014",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Ideas Getting Harder to Find?",
+        "title": "Are Ideas Getting Harder to Find?",
+        "authors": [
+          "Nicholas Bloom",
+          "Charles I. Jones",
+          "John Van Reenen",
+          "Michael Webb"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "4",
+        "pages": "1104–1144",
+        "doi": "10.1257/aer.20180338",
+        "url": "https://doi.org/10.1257/aer.20180338",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97025,6 +99051,26 @@
         "pages": "539–578",
         "doi": "10.1086/684750",
         "url": "https://doi.org/10.1086/684750",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "title": "Competition Policy and Productivity Growth: An Empirical Assessment",
+        "authors": [
+          "Paolo Buccirossi",
+          "Lorenzo Ciari",
+          "Tomaso Duso",
+          "Giancarlo Spagnolo",
+          "Cristiana Vitale"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1324–1336",
+        "doi": "10.1162/rest_a_00304",
+        "url": "https://doi.org/10.1162/rest_a_00304",
         "verified": true,
         "note": ""
       }
@@ -97276,6 +99322,61 @@
         "url": "https://doi.org/10.1093/qje/qjw018",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "title": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+        "authors": [
+          "Patrick Kline",
+          "Neviana Petkova",
+          "Heidi Williams",
+          "Owen Zidar"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1343–1404",
+        "doi": "10.1093/qje/qjz011",
+        "url": "https://doi.org/10.1093/qje/qjz011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Competition and Innovation: an Inverted-U Relationship",
+        "title": "Competition and Innovation: an Inverted-U Relationship",
+        "authors": [
+          "Philippe Aghion",
+          "Nicholas Bloom",
+          "Richard Blundell",
+          "Rachel Griffith",
+          "Peter Howitt"
+        ],
+        "year": 2005,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "2",
+        "pages": "701–728",
+        "doi": "10.1093/qje/120.2.701",
+        "url": "https://doi.org/10.1093/qje/120.2.701",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Induced Innovation and Energy Prices",
+        "title": "Induced Innovation and Energy Prices",
+        "authors": [
+          "David Popp"
+        ],
+        "year": 2002,
+        "journal": "American Economic Review",
+        "volume": "92",
+        "issue": "1",
+        "pages": "160–180",
+        "doi": "10.1257/000282802760015658",
+        "url": "https://doi.org/10.1257/000282802760015658",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97416,6 +99517,61 @@
         "pages": "3105–3147",
         "doi": "10.1111/jofi.13377",
         "url": "https://doi.org/10.1111/jofi.13377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sectoral Media Focus and Aggregate Fluctuations",
+        "title": "Sectoral Media Focus and Aggregate Fluctuations",
+        "authors": [
+          "Ryan Chahrour",
+          "Kristoffer Nimark",
+          "Stefan Pitschner"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "12",
+        "pages": "3872–3922",
+        "doi": "10.1257/aer.20191895",
+        "url": "https://doi.org/10.1257/aer.20191895",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.10",
+    "title": "WIPO 知识产权统计数据中心（IP Statistics Data Center）",
+    "links": [
+      {
+        "label": "WIPO IP Statistics",
+        "url": "https://www.wipo.int/ipstats/en/"
+      }
+    ],
+    "summary": "世界知识产权组织汇总各国知识产权局数据发布的全球专利、实用新型、商标、工业设计和植物品种的申请、授权和有效数量统计，按申请人来源国、受理局和技术领域分列，1883 年起（部分序列），免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "WIPO 知识产权统计由世界知识产权组织每年向约 150 个国家和地区的知识产权局收集，提供专利申请和授权（按居民与非居民、申请人来源国、受理局、技术领域和 PCT 途径）、有效专利、实用新型、商标申请和注册（按尼斯分类）、工业设计和植物品种保护的年度统计，部分国家的专利序列可追溯到 19 世纪末。数据在 WIPO IP 统计数据中心在线查询并免费下载，配套发布《世界知识产权指标》报告。\n\n数据常用于跨国比较创新活动和知识产权保护、研究专利制度改革和国际技术扩散，以及构建国家层面的研发产出指标。各国专利制度和统计口径不同，专利数量与创新质量并不一一对应。",
+    "source": "公开下载（WIPO 网站）。",
+    "references": [
+      {
+        "raw": "Research, Patenting, and Technological Change",
+        "title": "Research, Patenting, and Technological Change",
+        "authors": [
+          "Samuel S. Kortum"
+        ],
+        "year": 1997,
+        "journal": "Econometrica",
+        "volume": "65",
+        "issue": "6",
+        "pages": "1389–1419",
+        "doi": "10.2307/2171741",
+        "url": "https://doi.org/10.2307/2171741",
         "verified": true,
         "note": ""
       }
@@ -99936,6 +102092,25 @@
         "pages": "412–416",
         "doi": "10.1257/aer.102.3.412",
         "url": "https://doi.org/10.1257/aer.102.3.412",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "O-Ring Production Networks",
+        "title": "O-Ring Production Networks",
+        "authors": [
+          "Banu Demir",
+          "Ana Cecília Fieler",
+          "Daniel Yi Xu",
+          "Kelly Kaili Yang"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "1",
+        "pages": "200–247",
+        "doi": "10.1086/725703",
+        "url": "https://doi.org/10.1086/725703",
         "verified": true,
         "note": ""
       }
