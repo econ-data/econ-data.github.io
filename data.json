@@ -11394,6 +11394,24 @@
         "url": "https://doi.org/10.1093/qje/120.2.467",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "title": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "authors": [
+          "Karl V. Lins",
+          "Henri Servaes",
+          "Ane Tamayo"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "4",
+        "pages": "1785–1824",
+        "doi": "10.1111/jofi.12505",
+        "url": "https://doi.org/10.1111/jofi.12505",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14461,6 +14479,23 @@
         "pages": "1613–1657",
         "doi": "10.1257/aer.20200208",
         "url": "https://doi.org/10.1257/aer.20200208",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
         "verified": true,
         "note": ""
       }
@@ -20828,6 +20863,24 @@
         "url": "https://doi.org/10.1111/jofi.13412",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Pollution Premium",
+        "title": "The Pollution Premium",
+        "authors": [
+          "Po-Hsuan Hsu",
+          "Kai Li",
+          "Chi-Yang Tsou"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1343–1392",
+        "doi": "10.1111/jofi.13217",
+        "url": "https://doi.org/10.1111/jofi.13217",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20978,6 +21031,24 @@
         "pages": "1296–1330",
         "doi": "10.1093/rfs/hhz079",
         "url": "https://doi.org/10.1093/rfs/hhz079",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Pollution Premium",
+        "title": "The Pollution Premium",
+        "authors": [
+          "Po-Hsuan Hsu",
+          "Kai Li",
+          "Chi-Yang Tsou"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1343–1392",
+        "doi": "10.1111/jofi.13217",
+        "url": "https://doi.org/10.1111/jofi.13217",
         "verified": true,
         "note": ""
       }
@@ -37659,6 +37730,41 @@
         "url": "https://doi.org/10.1257/pol.20230070",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Pollution Premium",
+        "title": "The Pollution Premium",
+        "authors": [
+          "Po-Hsuan Hsu",
+          "Kai Li",
+          "Chi-Yang Tsou"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1343–1392",
+        "doi": "10.1111/jofi.13217",
+        "url": "https://doi.org/10.1111/jofi.13217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38413,6 +38519,82 @@
         "pages": "608–633",
         "doi": "10.1016/j.jfineco.2018.09.010",
         "url": "https://doi.org/10.1016/j.jfineco.2018.09.010",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.20",
+    "title": "美国联邦选举委员会竞选财务数据（FEC）",
+    "links": [
+      {
+        "label": "FEC: Browse data",
+        "url": "https://www.fec.gov/data/browse-data/"
+      }
+    ],
+    "summary": "美国联邦选举委员会公开的联邦选举竞选财务数据，1980 年前后起，记录候选人、政党和政治行动委员会（PAC）的收入、支出以及 200 美元以上的个人政治献金明细，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "联邦选举委员会（FEC）依据《联邦竞选法》收集联邦候选人（总统、参议员、众议员）、政党委员会和政治行动委员会提交的财务报告，公开发布委员会和候选人汇总、单笔个人捐款（捐款人姓名、地址、雇主、职业、金额、日期和受捐委员会，门槛 200 美元）、委员会之间的转账、独立支出和竞选开支明细，1979—1980 选举周期以来的批量数据和 API 在 FEC 网站免费获取。OpenSecrets 和 DIME 在此基础上做了捐款人归并和意识形态打分。\n\n数据常用于衡量个人和企业的政治倾向，例如按雇主汇总高管和员工对共和党与民主党的捐款，研究公司领导层的政治倾向与企业社会责任表现的关系。个人捐款的雇主和职业字段为自填，需要清洗和归并。",
+    "source": "FEC 网站免费下载。",
+    "references": [
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.21",
+    "title": "Dave Leip 美国总统选举地图集（Atlas of U.S. Presidential Elections）",
+    "links": [
+      {
+        "label": "Dave Leip's Atlas of U.S. Elections",
+        "url": "https://uselectionatlas.org/"
+      }
+    ],
+    "summary": "David Leip 维护的美国总统、参议院、州长等选举结果数据库，按州和县记录 1789 年以来历次总统选举的各候选人得票，网站部分免费浏览，数据集需付费购买。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "Dave Leip's Atlas of U.S. Presidential Elections 是美国选举结果的综合数据库，收录 1789 年以来历次总统选举以及参议院、众议院和州长选举的全国、州、县（部分为市镇和国会选区）层面结果，包括各候选人和政党的得票数、得票率和投票率，数据经核对各州官方选举结果整理；网站可免费浏览汇总结果，县级等明细数据集需付费购买。\n\n数据常用于衡量地区政治倾向，例如以公司总部所在州的总统选举民主党得票率衡量当地政治环境，研究政治倾向与企业社会责任和环境政策的关系，或作为选举研究的县级结果来源。各选举年的县界变化需与人口普查县代码匹配。",
+    "source": "网站部分免费浏览；数据集付费购买（官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
         "verified": true,
         "note": ""
       }
@@ -40291,6 +40473,23 @@
         "url": "https://doi.org/10.1093/rfs/hhad094",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Agency Problems of Corporate Philanthropy",
+        "title": "Agency Problems of Corporate Philanthropy",
+        "authors": [
+          "Ronald W. Masulis",
+          "Syed Walid Reza"
+        ],
+        "year": 2015,
+        "journal": "Review of Financial Studies",
+        "volume": "28",
+        "issue": "2",
+        "pages": "592–636",
+        "doi": "10.1093/rfs/hhu082",
+        "url": "https://doi.org/10.1093/rfs/hhu082",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40374,6 +40573,187 @@
         "pages": "642–664",
         "doi": "10.1016/j.jfineco.2021.09.009",
         "url": "https://doi.org/10.1016/j.jfineco.2021.09.009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Pollution Premium",
+        "title": "The Pollution Premium",
+        "authors": [
+          "Po-Hsuan Hsu",
+          "Kai Li",
+          "Chi-Yang Tsou"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1343–1392",
+        "doi": "10.1111/jofi.13217",
+        "url": "https://doi.org/10.1111/jofi.13217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate ESG Profiles and Investor Horizons",
+        "title": "Corporate ESG Profiles and Investor Horizons",
+        "authors": [
+          "Laura T. Starks",
+          "Parth Venkat",
+          "Qifei Zhu"
+        ],
+        "year": 2026,
+        "journal": "The Journal of Finance",
+        "volume": "81",
+        "issue": "2",
+        "pages": "603–642",
+        "doi": "10.1111/jofi.70008",
+        "url": "https://doi.org/10.1111/jofi.70008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate goodness and shareholder wealth",
+        "title": "Corporate goodness and shareholder wealth",
+        "authors": [
+          "Philipp Krüger"
+        ],
+        "year": 2015,
+        "journal": "Journal of Financial Economics",
+        "volume": "115",
+        "issue": "2",
+        "pages": "304–329",
+        "doi": "10.1016/j.jfineco.2014.09.008",
+        "url": "https://doi.org/10.1016/j.jfineco.2014.09.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Socially responsible firms",
+        "title": "Socially responsible firms",
+        "authors": [
+          "Allen Ferrell",
+          "Hao Liang",
+          "Luc Renneboog"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "585–606",
+        "doi": "10.1016/j.jfineco.2015.12.003",
+        "url": "https://doi.org/10.1016/j.jfineco.2015.12.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do institutional investors drive corporate social responsibility? International evidence",
+        "title": "Do institutional investors drive corporate social responsibility? International evidence",
+        "authors": [
+          "Alexander Dyck",
+          "Karl V. Lins",
+          "Lukas Roth",
+          "Hannes F. Wagner"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "693–714",
+        "doi": "10.1016/j.jfineco.2018.08.013",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.08.013",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "title": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "authors": [
+          "Karl V. Lins",
+          "Henri Servaes",
+          "Ane Tamayo"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "4",
+        "pages": "1785–1824",
+        "doi": "10.1111/jofi.12505",
+        "url": "https://doi.org/10.1111/jofi.12505",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate immunity to the COVID-19 pandemic",
+        "title": "Corporate immunity to the COVID-19 pandemic",
+        "authors": [
+          "Wenzhi Ding",
+          "Ross Levine",
+          "Chen Lin",
+          "Wensi Xie"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "802–830",
+        "doi": "10.1016/j.jfineco.2021.03.005",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.03.005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG News, Future Cash Flows, and Firm Value",
+        "title": "ESG News, Future Cash Flows, and Firm Value",
+        "authors": [
+          "François Derrien",
+          "Philipp Krüger",
+          "Augustin Landier",
+          "Tianhao Yao"
+        ],
+        "year": 2025,
+        "journal": "The Journal of Finance",
+        "volume": "80",
+        "issue": "6",
+        "pages": "3499–3554",
+        "doi": "10.1111/jofi.13498",
+        "url": "https://doi.org/10.1111/jofi.13498",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG lending",
+        "title": "ESG lending",
+        "authors": [
+          "Sehoon Kim",
+          "Nitish Kumar",
+          "Jongsub Lee",
+          "Junho Oh"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "173",
+        "issue": "",
+        "pages": "104150",
+        "doi": "10.1016/j.jfineco.2025.104150",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104150",
         "verified": true,
         "note": ""
       }
@@ -41658,6 +42038,201 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.09.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Pollution Premium",
+        "title": "The Pollution Premium",
+        "authors": [
+          "Po-Hsuan Hsu",
+          "Kai Li",
+          "Chi-Yang Tsou"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1343–1392",
+        "doi": "10.1111/jofi.13217",
+        "url": "https://doi.org/10.1111/jofi.13217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "title": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "authors": [
+          "Alex Edmans"
+        ],
+        "year": 2011,
+        "journal": "Journal of Financial Economics",
+        "volume": "101",
+        "issue": "3",
+        "pages": "621–640",
+        "doi": "10.1016/j.jfineco.2011.03.021",
+        "url": "https://doi.org/10.1016/j.jfineco.2011.03.021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate goodness and shareholder wealth",
+        "title": "Corporate goodness and shareholder wealth",
+        "authors": [
+          "Philipp Krüger"
+        ],
+        "year": 2015,
+        "journal": "Journal of Financial Economics",
+        "volume": "115",
+        "issue": "2",
+        "pages": "304–329",
+        "doi": "10.1016/j.jfineco.2014.09.008",
+        "url": "https://doi.org/10.1016/j.jfineco.2014.09.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agency Problems of Corporate Philanthropy",
+        "title": "Agency Problems of Corporate Philanthropy",
+        "authors": [
+          "Ronald W. Masulis",
+          "Syed Walid Reza"
+        ],
+        "year": 2015,
+        "journal": "Review of Financial Studies",
+        "volume": "28",
+        "issue": "2",
+        "pages": "592–636",
+        "doi": "10.1093/rfs/hhu082",
+        "url": "https://doi.org/10.1093/rfs/hhu082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Socially responsible firms",
+        "title": "Socially responsible firms",
+        "authors": [
+          "Allen Ferrell",
+          "Hao Liang",
+          "Luc Renneboog"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "585–606",
+        "doi": "10.1016/j.jfineco.2015.12.003",
+        "url": "https://doi.org/10.1016/j.jfineco.2015.12.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Big Three and corporate carbon emissions around the world",
+        "title": "The Big Three and corporate carbon emissions around the world",
+        "authors": [
+          "José Azar",
+          "Miguel Duro",
+          "Igor Kadach",
+          "Gaizka Ormazabal"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "142",
+        "issue": "2",
+        "pages": "674–696",
+        "doi": "10.1016/j.jfineco.2021.05.007",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.05.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Active Ownership",
+        "title": "Active Ownership",
+        "authors": [
+          "Elroy Dimson",
+          "Oğuzhan Karakaş",
+          "Xi Li"
+        ],
+        "year": 2015,
+        "journal": "The Review of Financial Studies",
+        "volume": "28",
+        "issue": "12",
+        "pages": "3225–3268",
+        "doi": "10.1093/rfs/hhv044",
+        "url": "https://doi.org/10.1093/rfs/hhv044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "title": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "authors": [
+          "Karl V. Lins",
+          "Henri Servaes",
+          "Ane Tamayo"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "4",
+        "pages": "1785–1824",
+        "doi": "10.1111/jofi.12505",
+        "url": "https://doi.org/10.1111/jofi.12505",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG News, Future Cash Flows, and Firm Value",
+        "title": "ESG News, Future Cash Flows, and Firm Value",
+        "authors": [
+          "François Derrien",
+          "Philipp Krüger",
+          "Augustin Landier",
+          "Tianhao Yao"
+        ],
+        "year": 2025,
+        "journal": "The Journal of Finance",
+        "volume": "80",
+        "issue": "6",
+        "pages": "3499–3554",
+        "doi": "10.1111/jofi.13498",
+        "url": "https://doi.org/10.1111/jofi.13498",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG lending",
+        "title": "ESG lending",
+        "authors": [
+          "Sehoon Kim",
+          "Nitish Kumar",
+          "Jongsub Lee",
+          "Junho Oh"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "173",
+        "issue": "",
+        "pages": "104150",
+        "doi": "10.1016/j.jfineco.2025.104150",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104150",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41931,6 +42506,182 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.09.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Pollution Premium",
+        "title": "The Pollution Premium",
+        "authors": [
+          "Po-Hsuan Hsu",
+          "Kai Li",
+          "Chi-Yang Tsou"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1343–1392",
+        "doi": "10.1111/jofi.13217",
+        "url": "https://doi.org/10.1111/jofi.13217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate ESG Profiles and Investor Horizons",
+        "title": "Corporate ESG Profiles and Investor Horizons",
+        "authors": [
+          "Laura T. Starks",
+          "Parth Venkat",
+          "Qifei Zhu"
+        ],
+        "year": 2026,
+        "journal": "The Journal of Finance",
+        "volume": "81",
+        "issue": "2",
+        "pages": "603–642",
+        "doi": "10.1111/jofi.70008",
+        "url": "https://doi.org/10.1111/jofi.70008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "title": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "authors": [
+          "Alex Edmans"
+        ],
+        "year": 2011,
+        "journal": "Journal of Financial Economics",
+        "volume": "101",
+        "issue": "3",
+        "pages": "621–640",
+        "doi": "10.1016/j.jfineco.2011.03.021",
+        "url": "https://doi.org/10.1016/j.jfineco.2011.03.021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate goodness and shareholder wealth",
+        "title": "Corporate goodness and shareholder wealth",
+        "authors": [
+          "Philipp Krüger"
+        ],
+        "year": 2015,
+        "journal": "Journal of Financial Economics",
+        "volume": "115",
+        "issue": "2",
+        "pages": "304–329",
+        "doi": "10.1016/j.jfineco.2014.09.008",
+        "url": "https://doi.org/10.1016/j.jfineco.2014.09.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agency Problems of Corporate Philanthropy",
+        "title": "Agency Problems of Corporate Philanthropy",
+        "authors": [
+          "Ronald W. Masulis",
+          "Syed Walid Reza"
+        ],
+        "year": 2015,
+        "journal": "Review of Financial Studies",
+        "volume": "28",
+        "issue": "2",
+        "pages": "592–636",
+        "doi": "10.1093/rfs/hhu082",
+        "url": "https://doi.org/10.1093/rfs/hhu082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do institutional investors drive corporate social responsibility? International evidence",
+        "title": "Do institutional investors drive corporate social responsibility? International evidence",
+        "authors": [
+          "Alexander Dyck",
+          "Karl V. Lins",
+          "Lukas Roth",
+          "Hannes F. Wagner"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "693–714",
+        "doi": "10.1016/j.jfineco.2018.08.013",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.08.013",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Active Ownership",
+        "title": "Active Ownership",
+        "authors": [
+          "Elroy Dimson",
+          "Oğuzhan Karakaş",
+          "Xi Li"
+        ],
+        "year": 2015,
+        "journal": "The Review of Financial Studies",
+        "volume": "28",
+        "issue": "12",
+        "pages": "3225–3268",
+        "doi": "10.1093/rfs/hhv044",
+        "url": "https://doi.org/10.1093/rfs/hhv044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "title": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "authors": [
+          "Karl V. Lins",
+          "Henri Servaes",
+          "Ane Tamayo"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "4",
+        "pages": "1785–1824",
+        "doi": "10.1111/jofi.12505",
+        "url": "https://doi.org/10.1111/jofi.12505",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG News, Future Cash Flows, and Firm Value",
+        "title": "ESG News, Future Cash Flows, and Firm Value",
+        "authors": [
+          "François Derrien",
+          "Philipp Krüger",
+          "Augustin Landier",
+          "Tianhao Yao"
+        ],
+        "year": 2025,
+        "journal": "The Journal of Finance",
+        "volume": "80",
+        "issue": "6",
+        "pages": "3499–3554",
+        "doi": "10.1111/jofi.13498",
+        "url": "https://doi.org/10.1111/jofi.13498",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41985,6 +42736,23 @@
         "pages": "1–31",
         "doi": "10.1257/pol.2.3.1",
         "url": "https://doi.org/10.1257/pol.2.3.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agency Problems of Corporate Philanthropy",
+        "title": "Agency Problems of Corporate Philanthropy",
+        "authors": [
+          "Ronald W. Masulis",
+          "Syed Walid Reza"
+        ],
+        "year": 2015,
+        "journal": "Review of Financial Studies",
+        "volume": "28",
+        "issue": "2",
+        "pages": "592–636",
+        "doi": "10.1093/rfs/hhu082",
+        "url": "https://doi.org/10.1093/rfs/hhu082",
         "verified": true,
         "note": ""
       }
@@ -42081,6 +42849,93 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.09.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Pollution Premium",
+        "title": "The Pollution Premium",
+        "authors": [
+          "Po-Hsuan Hsu",
+          "Kai Li",
+          "Chi-Yang Tsou"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1343–1392",
+        "doi": "10.1111/jofi.13217",
+        "url": "https://doi.org/10.1111/jofi.13217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate ESG Profiles and Investor Horizons",
+        "title": "Corporate ESG Profiles and Investor Horizons",
+        "authors": [
+          "Laura T. Starks",
+          "Parth Venkat",
+          "Qifei Zhu"
+        ],
+        "year": 2026,
+        "journal": "The Journal of Finance",
+        "volume": "81",
+        "issue": "2",
+        "pages": "603–642",
+        "doi": "10.1111/jofi.70008",
+        "url": "https://doi.org/10.1111/jofi.70008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "title": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "authors": [
+          "Alex Edmans"
+        ],
+        "year": 2011,
+        "journal": "Journal of Financial Economics",
+        "volume": "101",
+        "issue": "3",
+        "pages": "621–640",
+        "doi": "10.1016/j.jfineco.2011.03.021",
+        "url": "https://doi.org/10.1016/j.jfineco.2011.03.021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Active Ownership",
+        "title": "Active Ownership",
+        "authors": [
+          "Elroy Dimson",
+          "Oğuzhan Karakaş",
+          "Xi Li"
+        ],
+        "year": 2015,
+        "journal": "The Review of Financial Studies",
+        "volume": "28",
+        "issue": "12",
+        "pages": "3225–3268",
+        "doi": "10.1093/rfs/hhv044",
+        "url": "https://doi.org/10.1093/rfs/hhv044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -42118,6 +42973,59 @@
         "pages": "1–31",
         "doi": "10.1257/pol.2.3.1",
         "url": "https://doi.org/10.1257/pol.2.3.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agency Problems of Corporate Philanthropy",
+        "title": "Agency Problems of Corporate Philanthropy",
+        "authors": [
+          "Ronald W. Masulis",
+          "Syed Walid Reza"
+        ],
+        "year": 2015,
+        "journal": "Review of Financial Studies",
+        "volume": "28",
+        "issue": "2",
+        "pages": "592–636",
+        "doi": "10.1093/rfs/hhu082",
+        "url": "https://doi.org/10.1093/rfs/hhu082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Active Ownership",
+        "title": "Active Ownership",
+        "authors": [
+          "Elroy Dimson",
+          "Oğuzhan Karakaş",
+          "Xi Li"
+        ],
+        "year": 2015,
+        "journal": "The Review of Financial Studies",
+        "volume": "28",
+        "issue": "12",
+        "pages": "3225–3268",
+        "doi": "10.1093/rfs/hhv044",
+        "url": "https://doi.org/10.1093/rfs/hhv044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "title": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "authors": [
+          "Karl V. Lins",
+          "Henri Servaes",
+          "Ane Tamayo"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "4",
+        "pages": "1785–1824",
+        "doi": "10.1111/jofi.12505",
+        "url": "https://doi.org/10.1111/jofi.12505",
         "verified": true,
         "note": ""
       }
@@ -42158,6 +43066,42 @@
         "pages": "3386–3430",
         "doi": "10.1093/rfs/hhae042",
         "url": "https://doi.org/10.1093/rfs/hhae042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG lending",
+        "title": "ESG lending",
+        "authors": [
+          "Sehoon Kim",
+          "Nitish Kumar",
+          "Jongsub Lee",
+          "Junho Oh"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "173",
+        "issue": "",
+        "pages": "104150",
+        "doi": "10.1016/j.jfineco.2025.104150",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104150",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "title": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "authors": [
+          "Jun Qian",
+          "Philip E. Strahan"
+        ],
+        "year": 2007,
+        "journal": "The Journal of Finance",
+        "volume": "62",
+        "issue": "6",
+        "pages": "2803–2834",
+        "doi": "10.1111/j.1540-6261.2007.01293.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.2007.01293.x",
         "verified": true,
         "note": ""
       }
@@ -42273,6 +43217,58 @@
         "pages": "642–664",
         "doi": "10.1016/j.jfineco.2021.09.009",
         "url": "https://doi.org/10.1016/j.jfineco.2021.09.009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Pollution Premium",
+        "title": "The Pollution Premium",
+        "authors": [
+          "Po-Hsuan Hsu",
+          "Kai Li",
+          "Chi-Yang Tsou"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "3",
+        "pages": "1343–1392",
+        "doi": "10.1111/jofi.13217",
+        "url": "https://doi.org/10.1111/jofi.13217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "title": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "authors": [
+          "Alex Edmans"
+        ],
+        "year": 2011,
+        "journal": "Journal of Financial Economics",
+        "volume": "101",
+        "issue": "3",
+        "pages": "621–640",
+        "doi": "10.1016/j.jfineco.2011.03.021",
+        "url": "https://doi.org/10.1016/j.jfineco.2011.03.021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "title": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "authors": [
+          "Karl V. Lins",
+          "Henri Servaes",
+          "Ane Tamayo"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "4",
+        "pages": "1785–1824",
+        "doi": "10.1111/jofi.12505",
+        "url": "https://doi.org/10.1111/jofi.12505",
         "verified": true,
         "note": ""
       }
@@ -42868,6 +43864,85 @@
     ]
   },
   {
+    "id": "2.12.35",
+    "title": "Audit Analytics 审计、财务重述与诉讼数据",
+    "links": [
+      {
+        "label": "Audit Analytics",
+        "url": "https://www.auditanalytics.com/"
+      }
+    ],
+    "summary": "Audit Analytics 根据 SEC 文件和法院记录整理的美国上市公司审计、内部控制、财务重述、审计师变更和诉讼数据，2000 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "Audit Analytics 由 Ives Group 编制，从 SEC EDGAR 文件、法院记录和新闻中收集美国上市公司的审计费用和审计意见、审计师变更、萨班斯法案 404 条款内部控制缺陷、财务重述、迟报和 SEC 意见函，以及公司作为被告或原告的诉讼（含集体诉讼、环境诉讼、产品责任等）和董事高管变动，数据多从 2000 年开始。数据为付费商业产品，学术研究多经 WRDS 订阅访问。\n\n数据常用于会计和公司治理研究，例如研究审计质量和财务重述的决定因素，或衡量企业社会责任参与前后公司面临的诉讼风险。只覆盖 SEC 注册公司，诉讼数据对州法院案件覆盖不完整。",
+    "source": "付费商业（经 WRDS 机构订阅）。",
+    "references": [
+      {
+        "raw": "Active Ownership",
+        "title": "Active Ownership",
+        "authors": [
+          "Elroy Dimson",
+          "Oğuzhan Karakaş",
+          "Xi Li"
+        ],
+        "year": 2015,
+        "journal": "The Review of Financial Studies",
+        "volume": "28",
+        "issue": "12",
+        "pages": "3225–3268",
+        "doi": "10.1093/rfs/hhv044",
+        "url": "https://doi.org/10.1093/rfs/hhv044",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.36",
+    "title": "Candid 基金会名录与企业捐赠数据（Foundation Directory Online）",
+    "links": [
+      {
+        "label": "Candid Foundation Directory",
+        "url": "https://fconline.foundationcenter.org/"
+      }
+    ],
+    "summary": "Candid（原 Foundation Center）维护的美国基金会和企业捐赠项目数据库，记录约 25 万家资助机构的资产、捐赠额、资助对象和领域，以及企业基金会和企业直接捐赠项目，需订阅。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "商业数据"
+    ],
+    "introduction": "Foundation Directory Online（FDO）由 Candid（2019 年由 Foundation Center 与 GuideStar 合并而成）维护，基于 IRS 990 和 990-PF 表、机构年报和网站，收录美国约 25 万家私人基金会、企业基金会、社区基金会和公共慈善机构的资产、年度捐赠总额、受资助机构名单和金额、资助领域和地域、理事和工作人员信息；早年的印刷版《全国企业捐赠名录》（National Directory of Corporate Giving）专门收录企业基金会和企业直接捐赠项目。数据库需付费订阅，部分图书馆提供免费访问。\n\n数据常用于研究慈善和企业捐赠，例如测度上市公司的慈善捐赠规模及其与 CEO 所关联慈善机构的关系，研究企业慈善中的代理问题。企业直接捐赠（非经基金会）的披露不完整。",
+    "source": "付费订阅（Candid；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Agency Problems of Corporate Philanthropy",
+        "title": "Agency Problems of Corporate Philanthropy",
+        "authors": [
+          "Ronald W. Masulis",
+          "Syed Walid Reza"
+        ],
+        "year": 2015,
+        "journal": "Review of Financial Studies",
+        "volume": "28",
+        "issue": "2",
+        "pages": "592–636",
+        "doi": "10.1093/rfs/hhu082",
+        "url": "https://doi.org/10.1093/rfs/hhu082",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.13.1",
     "title": "Nielsen 零售扫描数据",
     "links": [
@@ -43216,6 +44291,62 @@
         "pages": "1449–1498",
         "doi": "10.1111/jofi.13219",
         "url": "https://doi.org/10.1111/jofi.13219",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.7",
+    "title": "“最适宜工作的 100 家公司”榜单（Great Place to Work / Fortune）",
+    "links": [
+      {
+        "label": "Great Place to Work: 100 Best Companies",
+        "url": "https://www.greatplacetowork.com/best-workplaces/100-best"
+      }
+    ],
+    "summary": "卓越职场研究所（Great Place to Work）与《财富》杂志自 1998 年起每年发布的美国最佳雇主 100 强榜单，基于员工问卷和公司文化审计评选，常被用作员工满意度的衡量。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "微观企业数据"
+    ],
+    "introduction": "“美国最适宜工作的 100 家公司”榜单最早由 Levering 和 Moskowitz 于 1984 年和 1993 年出版成书，1998 年起由卓越职场研究所（Great Place to Work Institute）与《财富》杂志合作每年发布。评选以随机抽取员工填写的信任指数问卷（Trust Index，约占三分之二权重）和公司提交的文化审计材料为基础，衡量员工对管理层的信任、自豪感和同事关系。历年榜单及排名在《财富》和 Great Place to Work 网站公开，研究者通常手工整理成面板。\n\n榜单常用于衡量员工满意度和企业社会资本，例如检验入选公司的长期股票超额收益，研究员工满意度这类无形资产是否被市场充分定价。入选需公司自愿申请，样本存在选择性，只覆盖大中型公司。",
+    "source": "榜单在网站公开发布。",
+    "references": [
+      {
+        "raw": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "title": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "authors": [
+          "Alex Edmans"
+        ],
+        "year": 2011,
+        "journal": "Journal of Financial Economics",
+        "volume": "101",
+        "issue": "3",
+        "pages": "621–640",
+        "doi": "10.1016/j.jfineco.2011.03.021",
+        "url": "https://doi.org/10.1016/j.jfineco.2011.03.021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "title": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+        "authors": [
+          "Karl V. Lins",
+          "Henri Servaes",
+          "Ane Tamayo"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "4",
+        "pages": "1785–1824",
+        "doi": "10.1111/jofi.12505",
+        "url": "https://doi.org/10.1111/jofi.12505",
         "verified": true,
         "note": ""
       }
@@ -48012,6 +49143,24 @@
         "pages": "1065–1100",
         "doi": "10.1086/729013",
         "url": "https://doi.org/10.1086/729013",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Socially responsible firms",
+        "title": "Socially responsible firms",
+        "authors": [
+          "Allen Ferrell",
+          "Hao Liang",
+          "Luc Renneboog"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "585–606",
+        "doi": "10.1016/j.jfineco.2015.12.003",
+        "url": "https://doi.org/10.1016/j.jfineco.2015.12.003",
         "verified": true,
         "note": ""
       }
@@ -59884,6 +61033,25 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2017.12.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do institutional investors drive corporate social responsibility? International evidence",
+        "title": "Do institutional investors drive corporate social responsibility? International evidence",
+        "authors": [
+          "Alexander Dyck",
+          "Karl V. Lins",
+          "Lukas Roth",
+          "Hannes F. Wagner"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "693–714",
+        "doi": "10.1016/j.jfineco.2018.08.013",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.08.013",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -61807,6 +62975,117 @@
         "url": "https://doi.org/10.1086/684509",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Socially responsible firms",
+        "title": "Socially responsible firms",
+        "authors": [
+          "Allen Ferrell",
+          "Hao Liang",
+          "Luc Renneboog"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "585–606",
+        "doi": "10.1016/j.jfineco.2015.12.003",
+        "url": "https://doi.org/10.1016/j.jfineco.2015.12.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate immunity to the COVID-19 pandemic",
+        "title": "Corporate immunity to the COVID-19 pandemic",
+        "authors": [
+          "Wenzhi Ding",
+          "Ross Levine",
+          "Chen Lin",
+          "Wensi Xie"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "802–830",
+        "doi": "10.1016/j.jfineco.2021.03.005",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.03.005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Legal Determinants of External Finance",
+        "title": "Legal Determinants of External Finance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 1997,
+        "journal": "The Journal of Finance",
+        "volume": "52",
+        "issue": "3",
+        "pages": "1131–1150",
+        "doi": "10.1111/j.1540-6261.1997.tb02727.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.1997.tb02727.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Law and Finance",
+        "title": "Law and Finance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 1998,
+        "journal": "Journal of Political Economy",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1113–1155",
+        "doi": "10.1086/250042",
+        "url": "https://doi.org/10.1086/250042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "title": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "authors": [
+          "Jun Qian",
+          "Philip E. Strahan"
+        ],
+        "year": 2007,
+        "journal": "The Journal of Finance",
+        "volume": "62",
+        "issue": "6",
+        "pages": "2803–2834",
+        "doi": "10.1111/j.1540-6261.2007.01293.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.2007.01293.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Debt Enforcement around the World",
+        "title": "Debt Enforcement around the World",
+        "authors": [
+          "Simeon Djankov",
+          "Oliver Hart",
+          "Caralee McLiesh",
+          "Andrei Shleifer"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "6",
+        "pages": "1105–1149",
+        "doi": "10.1086/595015",
+        "url": "https://doi.org/10.1086/595015",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62943,6 +64222,44 @@
         "pages": "1025–1058",
         "doi": "10.1111/j.1542-4774.2012.01075.x",
         "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Legal Determinants of External Finance",
+        "title": "Legal Determinants of External Finance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 1997,
+        "journal": "The Journal of Finance",
+        "volume": "52",
+        "issue": "3",
+        "pages": "1131–1150",
+        "doi": "10.1111/j.1540-6261.1997.tb02727.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.1997.tb02727.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Debt Enforcement around the World",
+        "title": "Debt Enforcement around the World",
+        "authors": [
+          "Simeon Djankov",
+          "Oliver Hart",
+          "Caralee McLiesh",
+          "Andrei Shleifer"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "6",
+        "pages": "1105–1149",
+        "doi": "10.1086/595015",
+        "url": "https://doi.org/10.1086/595015",
         "verified": true,
         "note": ""
       }
@@ -69923,6 +71240,25 @@
         "url": "https://doi.org/10.1086/736818",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do institutional investors drive corporate social responsibility? International evidence",
+        "title": "Do institutional investors drive corporate social responsibility? International evidence",
+        "authors": [
+          "Alexander Dyck",
+          "Karl V. Lins",
+          "Lukas Roth",
+          "Hannes F. Wagner"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "693–714",
+        "doi": "10.1016/j.jfineco.2018.08.013",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.08.013",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71115,6 +72451,44 @@
         "url": "https://doi.org/10.1111/jofi.13219",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Big Three and corporate carbon emissions around the world",
+        "title": "The Big Three and corporate carbon emissions around the world",
+        "authors": [
+          "José Azar",
+          "Miguel Duro",
+          "Igor Kadach",
+          "Gaizka Ormazabal"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "142",
+        "issue": "2",
+        "pages": "674–696",
+        "doi": "10.1016/j.jfineco.2021.05.007",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.05.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG lending",
+        "title": "ESG lending",
+        "authors": [
+          "Sehoon Kim",
+          "Nitish Kumar",
+          "Jongsub Lee",
+          "Junho Oh"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "173",
+        "issue": "",
+        "pages": "104150",
+        "doi": "10.1016/j.jfineco.2025.104150",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104150",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72147,6 +73521,25 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102775",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Corporate immunity to the COVID-19 pandemic",
+        "title": "Corporate immunity to the COVID-19 pandemic",
+        "authors": [
+          "Wenzhi Ding",
+          "Ross Levine",
+          "Chen Lin",
+          "Wensi Xie"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "802–830",
+        "doi": "10.1016/j.jfineco.2021.03.005",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.03.005",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72388,6 +73781,25 @@
         "url": "https://doi.org/10.1086/729065",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Corporate immunity to the COVID-19 pandemic",
+        "title": "Corporate immunity to the COVID-19 pandemic",
+        "authors": [
+          "Wenzhi Ding",
+          "Ross Levine",
+          "Chen Lin",
+          "Wensi Xie"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "802–830",
+        "doi": "10.1016/j.jfineco.2021.03.005",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.03.005",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72423,6 +73835,23 @@
         "pages": "4152–4193",
         "doi": "10.1093/restud/rdaf012",
         "url": "https://doi.org/10.1093/restud/rdaf012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "title": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "authors": [
+          "Jun Qian",
+          "Philip E. Strahan"
+        ],
+        "year": 2007,
+        "journal": "The Journal of Finance",
+        "volume": "62",
+        "issue": "6",
+        "pages": "2803–2834",
+        "doi": "10.1111/j.1540-6261.2007.01293.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.2007.01293.x",
         "verified": true,
         "note": ""
       }
@@ -73255,6 +74684,99 @@
         "url": "https://doi.org/10.1016/j.jfineco.2008.08.006",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Legal Determinants of External Finance",
+        "title": "Legal Determinants of External Finance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 1997,
+        "journal": "The Journal of Finance",
+        "volume": "52",
+        "issue": "3",
+        "pages": "1131–1150",
+        "doi": "10.1111/j.1540-6261.1997.tb02727.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.1997.tb02727.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Law and Finance",
+        "title": "Law and Finance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 1998,
+        "journal": "Journal of Political Economy",
+        "volume": "106",
+        "issue": "6",
+        "pages": "1113–1155",
+        "doi": "10.1086/250042",
+        "url": "https://doi.org/10.1086/250042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor protection and corporate governance",
+        "title": "Investor protection and corporate governance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 2000,
+        "journal": "Journal of Financial Economics",
+        "volume": "58",
+        "issue": "1-2",
+        "pages": "3–27",
+        "doi": "10.1016/S0304-405X(00)00065-9",
+        "url": "https://doi.org/10.1016/S0304-405X(00)00065-9",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "title": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "authors": [
+          "Jun Qian",
+          "Philip E. Strahan"
+        ],
+        "year": 2007,
+        "journal": "The Journal of Finance",
+        "volume": "62",
+        "issue": "6",
+        "pages": "2803–2834",
+        "doi": "10.1111/j.1540-6261.2007.01293.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.2007.01293.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Debt Enforcement around the World",
+        "title": "Debt Enforcement around the World",
+        "authors": [
+          "Simeon Djankov",
+          "Oliver Hart",
+          "Caralee McLiesh",
+          "Andrei Shleifer"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "6",
+        "pages": "1105–1149",
+        "doi": "10.1086/595015",
+        "url": "https://doi.org/10.1086/595015",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73332,6 +74854,25 @@
         "pages": "574–588",
         "doi": "10.1162/rest_a_00480",
         "url": "https://doi.org/10.1162/rest_a_00480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Debt Enforcement around the World",
+        "title": "Debt Enforcement around the World",
+        "authors": [
+          "Simeon Djankov",
+          "Oliver Hart",
+          "Caralee McLiesh",
+          "Andrei Shleifer"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "6",
+        "pages": "1105–1149",
+        "doi": "10.1086/595015",
+        "url": "https://doi.org/10.1086/595015",
         "verified": true,
         "note": ""
       }
@@ -73598,6 +75139,23 @@
         "url": "https://doi.org/10.1093/restud/rdaf012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "title": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "authors": [
+          "Jun Qian",
+          "Philip E. Strahan"
+        ],
+        "year": 2007,
+        "journal": "The Journal of Finance",
+        "volume": "62",
+        "issue": "6",
+        "pages": "2803–2834",
+        "doi": "10.1111/j.1540-6261.2007.01293.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.2007.01293.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73730,6 +75288,43 @@
         "pages": "699–754",
         "doi": "10.1111/jofi.13412",
         "url": "https://doi.org/10.1111/jofi.13412",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Socially responsible firms",
+        "title": "Socially responsible firms",
+        "authors": [
+          "Allen Ferrell",
+          "Hao Liang",
+          "Luc Renneboog"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "585–606",
+        "doi": "10.1016/j.jfineco.2015.12.003",
+        "url": "https://doi.org/10.1016/j.jfineco.2015.12.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do institutional investors drive corporate social responsibility? International evidence",
+        "title": "Do institutional investors drive corporate social responsibility? International evidence",
+        "authors": [
+          "Alexander Dyck",
+          "Karl V. Lins",
+          "Lukas Roth",
+          "Hannes F. Wagner"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "693–714",
+        "doi": "10.1016/j.jfineco.2018.08.013",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.08.013",
         "verified": true,
         "note": ""
       }
@@ -74030,6 +75625,62 @@
         "url": "https://doi.org/10.1111/j.1467-937X.2007.00426.x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Socially responsible firms",
+        "title": "Socially responsible firms",
+        "authors": [
+          "Allen Ferrell",
+          "Hao Liang",
+          "Luc Renneboog"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "585–606",
+        "doi": "10.1016/j.jfineco.2015.12.003",
+        "url": "https://doi.org/10.1016/j.jfineco.2015.12.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Big Three and corporate carbon emissions around the world",
+        "title": "The Big Three and corporate carbon emissions around the world",
+        "authors": [
+          "José Azar",
+          "Miguel Duro",
+          "Igor Kadach",
+          "Gaizka Ormazabal"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "142",
+        "issue": "2",
+        "pages": "674–696",
+        "doi": "10.1016/j.jfineco.2021.05.007",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.05.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate immunity to the COVID-19 pandemic",
+        "title": "Corporate immunity to the COVID-19 pandemic",
+        "authors": [
+          "Wenzhi Ding",
+          "Ross Levine",
+          "Chen Lin",
+          "Wensi Xie"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "802–830",
+        "doi": "10.1016/j.jfineco.2021.03.005",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.03.005",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -74160,6 +75811,25 @@
         "url": "https://doi.org/10.1111/jofi.13412",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Legal Determinants of External Finance",
+        "title": "Legal Determinants of External Finance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 1997,
+        "journal": "The Journal of Finance",
+        "volume": "52",
+        "issue": "3",
+        "pages": "1131–1150",
+        "doi": "10.1111/j.1540-6261.1997.tb02727.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.1997.tb02727.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -74234,6 +75904,76 @@
         "pages": "642–664",
         "doi": "10.1016/j.jfineco.2021.09.009",
         "url": "https://doi.org/10.1016/j.jfineco.2021.09.009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "title": "Does the stock market fully value intangibles? Employee satisfaction and equity prices",
+        "authors": [
+          "Alex Edmans"
+        ],
+        "year": 2011,
+        "journal": "Journal of Financial Economics",
+        "volume": "101",
+        "issue": "3",
+        "pages": "621–640",
+        "doi": "10.1016/j.jfineco.2011.03.021",
+        "url": "https://doi.org/10.1016/j.jfineco.2011.03.021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Active Ownership",
+        "title": "Active Ownership",
+        "authors": [
+          "Elroy Dimson",
+          "Oğuzhan Karakaş",
+          "Xi Li"
+        ],
+        "year": 2015,
+        "journal": "The Review of Financial Studies",
+        "volume": "28",
+        "issue": "12",
+        "pages": "3225–3268",
+        "doi": "10.1093/rfs/hhv044",
+        "url": "https://doi.org/10.1093/rfs/hhv044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG News, Future Cash Flows, and Firm Value",
+        "title": "ESG News, Future Cash Flows, and Firm Value",
+        "authors": [
+          "François Derrien",
+          "Philipp Krüger",
+          "Augustin Landier",
+          "Tianhao Yao"
+        ],
+        "year": 2025,
+        "journal": "The Journal of Finance",
+        "volume": "80",
+        "issue": "6",
+        "pages": "3499–3554",
+        "doi": "10.1111/jofi.13498",
+        "url": "https://doi.org/10.1111/jofi.13498",
         "verified": true,
         "note": ""
       }
@@ -74315,6 +76055,389 @@
         "pages": "699–754",
         "doi": "10.1111/jofi.13412",
         "url": "https://doi.org/10.1111/jofi.13412",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do institutional investors drive corporate social responsibility? International evidence",
+        "title": "Do institutional investors drive corporate social responsibility? International evidence",
+        "authors": [
+          "Alexander Dyck",
+          "Karl V. Lins",
+          "Lukas Roth",
+          "Hannes F. Wagner"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "693–714",
+        "doi": "10.1016/j.jfineco.2018.08.013",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.08.013",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Big Three and corporate carbon emissions around the world",
+        "title": "The Big Three and corporate carbon emissions around the world",
+        "authors": [
+          "José Azar",
+          "Miguel Duro",
+          "Igor Kadach",
+          "Gaizka Ormazabal"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "142",
+        "issue": "2",
+        "pages": "674–696",
+        "doi": "10.1016/j.jfineco.2021.05.007",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.05.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate immunity to the COVID-19 pandemic",
+        "title": "Corporate immunity to the COVID-19 pandemic",
+        "authors": [
+          "Wenzhi Ding",
+          "Ross Levine",
+          "Chen Lin",
+          "Wensi Xie"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "802–830",
+        "doi": "10.1016/j.jfineco.2021.03.005",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.03.005",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.16",
+    "title": "Worldscope 全球上市公司财务数据库",
+    "links": [
+      {
+        "label": "LSEG: Worldscope Fundamentals",
+        "url": "https://www.lseg.com/en/data-analytics/financial-data/company-data/fundamentals-data/worldscope-fundamentals"
+      }
+    ],
+    "summary": "原汤森路透（现 LSEG）的全球上市公司标准化财务报表数据库，1980 年起覆盖 100 多个国家和地区的数万家公司，是跨国公司金融研究最常用的财务数据来源之一。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "Worldscope 由 Wright Investors' Service 于 1980 年代创建，后归属汤森路透，现为 LSEG 数据产品，收录全球 120 多个国家和地区现存及已退市上市公司的年度（部分为季度和半年度）资产负债表、利润表、现金流量表和每股数据，按统一模板对各国会计准则下的科目做了标准化处理，并提供行业分类、股本结构、大股东和员工人数等公司信息，美国以外公司覆盖从 1980 年代后期开始显著扩大。数据通过 LSEG Workspace、Datastream 或 WRDS 机构订阅获取。\n\n数据常用于跨国公司金融和治理研究，例如比较不同法律传统国家的公司估值和股利政策，研究机构投资者持股对各国公司社会责任和碳排放的影响，或在疫情期间比较各国公司的财务韧性。早期年份和小国覆盖不完整，跨国比较需注意会计准则差异。",
+    "source": "付费商业（LSEG 或经 WRDS 机构订阅）。",
+    "references": [
+      {
+        "raw": "Do institutional investors drive corporate social responsibility? International evidence",
+        "title": "Do institutional investors drive corporate social responsibility? International evidence",
+        "authors": [
+          "Alexander Dyck",
+          "Karl V. Lins",
+          "Lukas Roth",
+          "Hannes F. Wagner"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "693–714",
+        "doi": "10.1016/j.jfineco.2018.08.013",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.08.013",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Big Three and corporate carbon emissions around the world",
+        "title": "The Big Three and corporate carbon emissions around the world",
+        "authors": [
+          "José Azar",
+          "Miguel Duro",
+          "Igor Kadach",
+          "Gaizka Ormazabal"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "142",
+        "issue": "2",
+        "pages": "674–696",
+        "doi": "10.1016/j.jfineco.2021.05.007",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.05.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate immunity to the COVID-19 pandemic",
+        "title": "Corporate immunity to the COVID-19 pandemic",
+        "authors": [
+          "Wenzhi Ding",
+          "Ross Levine",
+          "Chen Lin",
+          "Wensi Xie"
+        ],
+        "year": 2021,
+        "journal": "Journal of Financial Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "802–830",
+        "doi": "10.1016/j.jfineco.2021.03.005",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.03.005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG lending",
+        "title": "ESG lending",
+        "authors": [
+          "Sehoon Kim",
+          "Nitish Kumar",
+          "Jongsub Lee",
+          "Junho Oh"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "173",
+        "issue": "",
+        "pages": "104150",
+        "doi": "10.1016/j.jfineco.2025.104150",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104150",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Legal Determinants of External Finance",
+        "title": "Legal Determinants of External Finance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 1997,
+        "journal": "The Journal of Finance",
+        "volume": "52",
+        "issue": "3",
+        "pages": "1131–1150",
+        "doi": "10.1111/j.1540-6261.1997.tb02727.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.1997.tb02727.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor protection and corporate governance",
+        "title": "Investor protection and corporate governance",
+        "authors": [
+          "Rafael La Porta",
+          "Florencio Lopez-de-Silanes",
+          "Andrei Shleifer",
+          "Robert W. Vishny"
+        ],
+        "year": 2000,
+        "journal": "Journal of Financial Economics",
+        "volume": "58",
+        "issue": "1-2",
+        "pages": "3–27",
+        "doi": "10.1016/S0304-405X(00)00065-9",
+        "url": "https://doi.org/10.1016/S0304-405X(00)00065-9",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "title": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "authors": [
+          "Jun Qian",
+          "Philip E. Strahan"
+        ],
+        "year": 2007,
+        "journal": "The Journal of Finance",
+        "volume": "62",
+        "issue": "6",
+        "pages": "2803–2834",
+        "doi": "10.1111/j.1540-6261.2007.01293.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.2007.01293.x",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.17",
+    "title": "BoardEx 董事与高管人际网络数据库",
+    "links": [
+      {
+        "label": "BoardEx",
+        "url": "https://www.boardex.com/"
+      }
+    ],
+    "summary": "BoardEx 收录的全球上市公司和大型私营机构董事、高管的履历、任职、教育和社会关系数据，2000 年前后起覆盖美国和英国，现覆盖全球数十万名个人。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "BoardEx 由英国 Management Diagnostics 公司于 1999 年创建（现属 Euromoney 旗下），从年报、委托书、新闻和公司网站收集上市公司、私营公司、非营利组织和政府机构的董事会成员和高管信息，记录每个人的职位和任期、教育背景、过往雇主、薪酬（部分市场）、其他董事职务、俱乐部和慈善组织成员身份，可据此构建个人之间的社会网络和董事兼任关系。美国和英国数据从 2000 年前后开始较完整，欧洲和其他地区随后扩展。数据为付费商业产品，学术研究多经 WRDS 机构订阅访问。\n\n数据常用于研究公司治理和人际网络，例如衡量董事会独立性、董事和高管的政治倾向与社会关系，研究 CEO 与董事的社交联系对公司决策和社会责任表现的影响。早期年份和小公司覆盖不完整，人名匹配需用 BoardEx 的个人 ID。",
+    "source": "付费商业（经 WRDS 机构订阅；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "title": "Are red or blue companies more likely to go green? Politics and corporate social responsibility",
+        "authors": [
+          "Alberta Di Giuli",
+          "Leonard Kostovetsky"
+        ],
+        "year": 2014,
+        "journal": "Journal of Financial Economics",
+        "volume": "111",
+        "issue": "1",
+        "pages": "158–180",
+        "doi": "10.1016/j.jfineco.2013.10.002",
+        "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Socially responsible firms",
+        "title": "Socially responsible firms",
+        "authors": [
+          "Allen Ferrell",
+          "Hao Liang",
+          "Luc Renneboog"
+        ],
+        "year": 2016,
+        "journal": "Journal of Financial Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "585–606",
+        "doi": "10.1016/j.jfineco.2015.12.003",
+        "url": "https://doi.org/10.1016/j.jfineco.2015.12.003",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.18",
+    "title": "标普 Capital IQ 公司数据（Key Developments、资本结构与信贷额度）",
+    "links": [
+      {
+        "label": "S&P Capital IQ",
+        "url": "https://www.capitaliq.com/"
+      }
+    ],
+    "summary": "标普全球市场财智 Capital IQ 平台提供的全球公司数据，包括公司重大事件（Key Developments）、资本结构明细（债务工具和信贷额度）、私营公司财务、并购交易和人员数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "S&P Capital IQ 是标普全球市场财智的金融数据平台，覆盖全球上市和非上市公司，主要数据集包括：Key Developments（2001 年前后起，按事件类型分类的公司重大事件，如高管变动、诉讼、产品发布、并购传闻、指引变化）；Capital Structure（逐笔债务工具和信贷额度的金额、利率、期限和已提取金额）；私营公司财务、并购和融资交易、人员和薪酬数据；Compustat 也已整合进该平台。数据为付费商业产品，学术研究通常经 WRDS 或 Capital IQ Pro 订阅获取。\n\n数据常用于识别公司事件和债务结构，例如构造公司重大负面事件和 ESG 相关新闻，研究疫情冲击期间企业对信贷额度的提取，或研究股东积极主义参与前后的公司事件。事件分类为供应商编码，早期年份覆盖较少。",
+    "source": "付费商业（经 WRDS 或 S&P 订阅；官网部分页面对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Active Ownership",
+        "title": "Active Ownership",
+        "authors": [
+          "Elroy Dimson",
+          "Oğuzhan Karakaş",
+          "Xi Li"
+        ],
+        "year": 2015,
+        "journal": "The Review of Financial Studies",
+        "volume": "28",
+        "issue": "12",
+        "pages": "3225–3268",
+        "doi": "10.1093/rfs/hhv044",
+        "url": "https://doi.org/10.1093/rfs/hhv044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG News, Future Cash Flows, and Firm Value",
+        "title": "ESG News, Future Cash Flows, and Firm Value",
+        "authors": [
+          "François Derrien",
+          "Philipp Krüger",
+          "Augustin Landier",
+          "Tianhao Yao"
+        ],
+        "year": 2025,
+        "journal": "The Journal of Finance",
+        "volume": "80",
+        "issue": "6",
+        "pages": "3499–3554",
+        "doi": "10.1111/jofi.13498",
+        "url": "https://doi.org/10.1111/jofi.13498",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ESG lending",
+        "title": "ESG lending",
+        "authors": [
+          "Sehoon Kim",
+          "Nitish Kumar",
+          "Jongsub Lee",
+          "Junho Oh"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial Economics",
+        "volume": "173",
+        "issue": "",
+        "pages": "104150",
+        "doi": "10.1016/j.jfineco.2025.104150",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104150",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.19",
+    "title": "BankFocus（原 Bankscope）全球银行财务数据库",
+    "links": [
+      {
+        "label": "BvD BankFocus",
+        "url": "https://www.bvdinfo.com/en-gb/our-products/data/international/bankfocus"
+      }
+    ],
+    "summary": "Bureau van Dijk（现属穆迪）编制的全球银行和金融机构财务报表数据库，原名 Bankscope（1990 年代至 2016 年），现为 BankFocus，覆盖约 4 万家银行。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Bankscope 由 Bureau van Dijk 与 Fitch 合作编制，收录全球约 3 万家银行 1990 年代以来的标准化资产负债表、利润表、监管资本比率、评级和所有权信息，2016 年停止更新后由 BankFocus（与穆迪分析合作）接替，覆盖约 4 万家银行和金融机构，并提供与 Orbis 一致的所有权链接。数据为付费商业产品，通过 BvD/穆迪订阅或 WRDS 获取。\n\n数据常用于跨国银行研究，例如获取各国银行的规模、盈利和资本结构，研究法律制度和债权人保护对银行贷款条件的影响，或研究银行冲击的跨境传导。合并报表与非合并报表并存，使用时需避免重复计算同一银行集团。",
+    "source": "付费商业（BvD/穆迪或经 WRDS 机构订阅）。",
+    "references": [
+      {
+        "raw": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "title": "How Laws and Institutions Shape Financial Contracts: The Case of Bank Loans",
+        "authors": [
+          "Jun Qian",
+          "Philip E. Strahan"
+        ],
+        "year": 2007,
+        "journal": "The Journal of Finance",
+        "volume": "62",
+        "issue": "6",
+        "pages": "2803–2834",
+        "doi": "10.1111/j.1540-6261.2007.01293.x",
+        "url": "https://doi.org/10.1111/j.1540-6261.2007.01293.x",
         "verified": true,
         "note": ""
       }
