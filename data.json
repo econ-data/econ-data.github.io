@@ -8640,6 +8640,23 @@
         "url": "https://doi.org/10.1093/qje/qjae031",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "title": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "12",
+        "pages": "3323–3356",
+        "doi": "10.1257/aer.20221365",
+        "url": "https://doi.org/10.1257/aer.20221365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9482,6 +9499,25 @@
         "pages": "2415–2444",
         "doi": "10.3982/ECTA12926",
         "url": "https://doi.org/10.3982/ECTA12926",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxation and Innovation in the Twentieth Century",
+        "title": "Taxation and Innovation in the Twentieth Century",
+        "authors": [
+          "Ufuk Akcigit",
+          "John Grigsby",
+          "Tom Nicholas",
+          "Stefanie Stantcheva"
+        ],
+        "year": 2022,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "329–385",
+        "doi": "10.1093/qje/qjab022",
+        "url": "https://doi.org/10.1093/qje/qjab022",
         "verified": true,
         "note": ""
       }
@@ -12097,6 +12133,41 @@
         "url": "https://doi.org/10.1086/664615",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "authors": [
+          "Daron Acemoglu",
+          "Joshua Linn"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "1049–1090",
+        "doi": "10.1162/0033553041502144",
+        "url": "https://doi.org/10.1162/0033553041502144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How do spatial and social proximity influence knowledge flows? Evidence from patent data",
+        "title": "How do spatial and social proximity influence knowledge flows? Evidence from patent data",
+        "authors": [
+          "Ajay Agrawal",
+          "Devesh Kapur",
+          "John McHale"
+        ],
+        "year": 2008,
+        "journal": "Journal of Urban Economics",
+        "volume": "64",
+        "issue": "2",
+        "pages": "258–269",
+        "doi": "10.1016/j.jue.2008.01.003",
+        "url": "https://doi.org/10.1016/j.jue.2008.01.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12995,6 +13066,39 @@
         "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Static and Dynamic Effects of Health Policy: Evidence from the Vaccine Industry",
+        "title": "Static and Dynamic Effects of Health Policy: Evidence from the Vaccine Industry",
+        "authors": [
+          "Amy Finkelstein"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "2",
+        "pages": "527–564",
+        "doi": "10.1162/0033553041382166",
+        "url": "https://doi.org/10.1162/0033553041382166",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "authors": [
+          "Daron Acemoglu",
+          "Joshua Linn"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "1049–1090",
+        "doi": "10.1162/0033553041502144",
+        "url": "https://doi.org/10.1162/0033553041502144",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13167,6 +13271,23 @@
         "pages": "494–533",
         "doi": "10.1257/aer.20201480",
         "url": "https://doi.org/10.1257/aer.20201480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "authors": [
+          "Daron Acemoglu",
+          "Joshua Linn"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "1049–1090",
+        "doi": "10.1162/0033553041502144",
+        "url": "https://doi.org/10.1162/0033553041502144",
         "verified": true,
         "note": ""
       }
@@ -14624,6 +14745,24 @@
         "url": "https://doi.org/10.1257/mac.20160241",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "University Research and the Market for Higher Education",
+        "title": "University Research and the Market for Higher Education",
+        "authors": [
+          "Titan Alon",
+          "Damien Capelle",
+          "Kazushige Matsuda"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "3",
+        "pages": "236–264",
+        "doi": "10.1257/mac.20240057",
+        "url": "https://doi.org/10.1257/mac.20240057",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16057,6 +16196,40 @@
         "url": "https://doi.org/10.3982/ECTA8769",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "title": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "12",
+        "pages": "3323–3356",
+        "doi": "10.1257/aer.20221365",
+        "url": "https://doi.org/10.1257/aer.20221365",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "University Innovation and the Professor's Privilege",
+        "title": "University Innovation and the Professor's Privilege",
+        "authors": [
+          "Hans K. Hvide",
+          "Benjamin F. Jones"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1860–1898",
+        "doi": "10.1257/aer.20160284",
+        "url": "https://doi.org/10.1257/aer.20160284",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16540,6 +16713,26 @@
         "pages": "1374–1443",
         "doi": "10.1086/697901",
         "url": "https://doi.org/10.1086/697901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "title": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "authors": [
+          "Tania Babina",
+          "Alex Xi He",
+          "Sabrina T Howell",
+          "Elisabeth Ruth Perlman",
+          "Joseph Staudt"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "2",
+        "pages": "895–954",
+        "doi": "10.1093/qje/qjac046",
+        "url": "https://doi.org/10.1093/qje/qjac046",
         "verified": true,
         "note": ""
       }
@@ -17365,6 +17558,26 @@
         "pages": "297–336",
         "doi": "10.1257/app.20220427",
         "url": "https://doi.org/10.1257/app.20220427",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "title": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "authors": [
+          "Tania Babina",
+          "Alex Xi He",
+          "Sabrina T Howell",
+          "Elisabeth Ruth Perlman",
+          "Joseph Staudt"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "2",
+        "pages": "895–954",
+        "doi": "10.1093/qje/qjac046",
+        "url": "https://doi.org/10.1093/qje/qjac046",
         "verified": true,
         "note": ""
       }
@@ -18611,6 +18824,24 @@
         "url": "https://doi.org/10.3982/ECTA12926",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Identifying Technology Spillovers and Product Market Rivalry",
+        "title": "Identifying Technology Spillovers and Product Market Rivalry",
+        "authors": [
+          "Nicholas Bloom",
+          "Mark Schankerman",
+          "John Van Reenen"
+        ],
+        "year": 2013,
+        "journal": "Econometrica",
+        "volume": "81",
+        "issue": "4",
+        "pages": "1347–1393",
+        "doi": "10.3982/ecta9466",
+        "url": "https://doi.org/10.3982/ecta9466",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19178,6 +19409,23 @@
         "pages": "1543–1592",
         "doi": "10.1093/qje/qjw018",
         "url": "https://doi.org/10.1093/qje/qjw018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "title": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "12",
+        "pages": "3323–3356",
+        "doi": "10.1257/aer.20221365",
+        "url": "https://doi.org/10.1257/aer.20221365",
         "verified": true,
         "note": ""
       }
@@ -20012,6 +20260,25 @@
         "pages": "1789–1833",
         "doi": "10.3982/ECTA14243",
         "url": "https://doi.org/10.3982/ECTA14243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxation and Innovation in the Twentieth Century",
+        "title": "Taxation and Innovation in the Twentieth Century",
+        "authors": [
+          "Ufuk Akcigit",
+          "John Grigsby",
+          "Tom Nicholas",
+          "Stefanie Stantcheva"
+        ],
+        "year": 2022,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "329–385",
+        "doi": "10.1093/qje/qjab022",
+        "url": "https://doi.org/10.1093/qje/qjab022",
         "verified": true,
         "note": ""
       }
@@ -26360,6 +26627,25 @@
         "url": "https://doi.org/10.1257/aer.20151317",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Technological Innovation, Resource Allocation, and Growth",
+        "title": "Technological Innovation, Resource Allocation, and Growth",
+        "authors": [
+          "Leonid Kogan",
+          "Dimitris Papanikolaou",
+          "Amit Seru",
+          "Noah Stoffman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "665–712",
+        "doi": "10.1093/qje/qjw040",
+        "url": "https://doi.org/10.1093/qje/qjw040",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26536,6 +26822,48 @@
         "pages": "1–39",
         "doi": "10.1257/mac.20170388",
         "url": "https://doi.org/10.1257/mac.20170388",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.39",
+    "title": "联邦审计信息交换所单一审计数据（Federal Audit Clearinghouse）",
+    "links": [
+      {
+        "label": "Federal Audit Clearinghouse",
+        "url": "https://app.fac.gov/"
+      }
+    ],
+    "summary": "美国联邦政府收集的州、地方政府、高校和非营利组织单一审计报告数据库，1997 年起，按联邦援助项目（ALN/CFDA 编号）记录每个接收机构的联邦支出、审计发现和问题，免费检索和下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "政治数据"
+    ],
+    "introduction": "依据《单一审计法》，每年支出联邦资金超过门槛（现为 75 万美元）的非联邦实体须提交单一审计报告，联邦审计信息交换所（FAC，2023 年起由 GSA 运营，此前由人口普查局运营）汇总这些报告中的数据：审计机构和被审计实体的识别信息、按联邦援助目录（CFDA/ALN）编号和资助机构列示的联邦奖励支出、是否为研发资金集群、直接或转拨资助、审计意见和发现事项。数据可在 FAC 网站检索并批量下载，1997 年以来的历史数据也公开提供。\n\n数据常用于测量大学和地方政府按项目分列的联邦资助支出，例如构建大学研发资金来源、研究联邦拨款的分配和地方财政的联邦依赖。数据以财年和接收实体汇总，不包含具体项目层面的支出明细。",
+    "source": "公开下载（FAC 网站）。",
+    "references": [
+      {
+        "raw": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "title": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "authors": [
+          "Tania Babina",
+          "Alex Xi He",
+          "Sabrina T Howell",
+          "Elisabeth Ruth Perlman",
+          "Joseph Staudt"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "2",
+        "pages": "895–954",
+        "doi": "10.1093/qje/qjac046",
+        "url": "https://doi.org/10.1093/qje/qjac046",
         "verified": true,
         "note": ""
       }
@@ -42696,6 +43024,24 @@
         "url": "https://doi.org/10.1086/733979",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Underinvest in Long-Term Research? Evidence from Cancer Clinical Trials",
+        "title": "Do Firms Underinvest in Long-Term Research? Evidence from Cancer Clinical Trials",
+        "authors": [
+          "Eric Budish",
+          "Benjamin N. Roin",
+          "Heidi Williams"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "7",
+        "pages": "2044–2085",
+        "doi": "10.1257/aer.20131176",
+        "url": "https://doi.org/10.1257/aer.20131176",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -45428,6 +45774,24 @@
         "url": "https://doi.org/10.1257/aer.20180338",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Underinvest in Long-Term Research? Evidence from Cancer Clinical Trials",
+        "title": "Do Firms Underinvest in Long-Term Research? Evidence from Cancer Clinical Trials",
+        "authors": [
+          "Eric Budish",
+          "Benjamin N. Roin",
+          "Heidi Williams"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "7",
+        "pages": "2044–2085",
+        "doi": "10.1257/aer.20131176",
+        "url": "https://doi.org/10.1257/aer.20131176",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -45559,6 +45923,25 @@
         "pages": "1400–1438",
         "doi": "10.1257/aer.20220276",
         "url": "https://doi.org/10.1257/aer.20220276",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules",
+        "title": "Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules",
+        "authors": [
+          "Pierre Azoulay",
+          "Joshua S Graff Zivin",
+          "Danielle Li",
+          "Bhaven N Sampat"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "1",
+        "pages": "117–152",
+        "doi": "10.1093/restud/rdy034",
+        "url": "https://doi.org/10.1093/restud/rdy034",
         "verified": true,
         "note": ""
       }
@@ -45975,6 +46358,41 @@
         "url": "https://doi.org/10.1257/aer.20180338",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "authors": [
+          "Daron Acemoglu",
+          "Joshua Linn"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "1049–1090",
+        "doi": "10.1162/0033553041502144",
+        "url": "https://doi.org/10.1162/0033553041502144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Underinvest in Long-Term Research? Evidence from Cancer Clinical Trials",
+        "title": "Do Firms Underinvest in Long-Term Research? Evidence from Cancer Clinical Trials",
+        "authors": [
+          "Eric Budish",
+          "Benjamin N. Roin",
+          "Heidi Williams"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "7",
+        "pages": "2044–2085",
+        "doi": "10.1257/aer.20131176",
+        "url": "https://doi.org/10.1257/aer.20131176",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -46161,6 +46579,45 @@
         "pages": "51–76",
         "doi": "10.1257/pol.2.1.51",
         "url": "https://doi.org/10.1257/pol.2.1.51",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.48",
+    "title": "全国门诊医疗调查（National Ambulatory Medical Care Survey，NAMCS）",
+    "links": [
+      {
+        "label": "CDC NCHS: Ambulatory Health Care Data",
+        "url": "https://www.cdc.gov/nchs/ahcd/"
+      }
+    ],
+    "summary": "美国国家卫生统计中心（NCHS）自 1973 年起开展的全国诊所门诊就诊抽样调查，记录就诊原因、诊断、开具药物、检查和治疗以及医生和诊所特征，公共使用文件免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "NAMCS 由 CDC 下属国家卫生统计中心实施，抽取在诊所执业的非联邦雇员医生（后扩展到社区卫生中心），请其在随机一周内对就诊病人逐例填写病例报告表，记录患者人口特征、就诊原因、诊断（ICD 编码）、开具或续用的药品（含通用名和药理分类）、检查、手术和咨询服务、转诊和就诊时长，以及医生专科、执业类型和电子病历使用情况。每年约 2–5 万条就诊记录，配套的全国医院门诊医疗调查（NHAMCS）覆盖医院急诊和门诊。公共使用微观数据和文档在 NCHS 网站免费下载。\n\n数据常用于研究处方行为和新药扩散、医生开药的地区和专科差异、门诊服务利用以及医疗技术采纳，例如衡量新药上市后在门诊中的使用。每年样本量有限，部分年份调整了抽样设计。",
+    "source": "公开下载（NCHS 网站；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "authors": [
+          "Daron Acemoglu",
+          "Joshua Linn"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "1049–1090",
+        "doi": "10.1162/0033553041502144",
+        "url": "https://doi.org/10.1162/0033553041502144",
         "verified": true,
         "note": ""
       }
@@ -52579,6 +53036,25 @@
         "url": "https://doi.org/10.1257/aer.20151317",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Technological Innovation, Resource Allocation, and Growth",
+        "title": "Technological Innovation, Resource Allocation, and Growth",
+        "authors": [
+          "Leonid Kogan",
+          "Dimitris Papanikolaou",
+          "Amit Seru",
+          "Noah Stoffman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "665–712",
+        "doi": "10.1093/qje/qjw040",
+        "url": "https://doi.org/10.1093/qje/qjw040",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54344,6 +54820,79 @@
         "url": "https://doi.org/10.1162/rest_a_00255",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Technological Innovation, Resource Allocation, and Growth",
+        "title": "Technological Innovation, Resource Allocation, and Growth",
+        "authors": [
+          "Leonid Kogan",
+          "Dimitris Papanikolaou",
+          "Amit Seru",
+          "Noah Stoffman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "665–712",
+        "doi": "10.1093/qje/qjw040",
+        "url": "https://doi.org/10.1093/qje/qjw040",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Identifying Technology Spillovers and Product Market Rivalry",
+        "title": "Identifying Technology Spillovers and Product Market Rivalry",
+        "authors": [
+          "Nicholas Bloom",
+          "Mark Schankerman",
+          "John Van Reenen"
+        ],
+        "year": 2013,
+        "journal": "Econometrica",
+        "volume": "81",
+        "issue": "4",
+        "pages": "1347–1393",
+        "doi": "10.3982/ecta9466",
+        "url": "https://doi.org/10.3982/ecta9466",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Radical and Incremental Innovation: The Roles of Firms, Managers, and Innovators",
+        "title": "Radical and Incremental Innovation: The Roles of Firms, Managers, and Innovators",
+        "authors": [
+          "Daron Acemoglu",
+          "Ufuk Akcigit",
+          "Murat Alp Celik"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "3",
+        "pages": "199–249",
+        "doi": "10.1257/mac.20170410",
+        "url": "https://doi.org/10.1257/mac.20170410",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Institutional Ownership",
+        "title": "Innovation and Institutional Ownership",
+        "authors": [
+          "Philippe Aghion",
+          "John Van Reenen",
+          "Luigi Zingales"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "277–304",
+        "doi": "10.1257/aer.103.1.277",
+        "url": "https://doi.org/10.1257/aer.103.1.277",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55124,6 +55673,25 @@
         "url": "https://doi.org/10.1086/710345",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Technological Innovation, Resource Allocation, and Growth",
+        "title": "Technological Innovation, Resource Allocation, and Growth",
+        "authors": [
+          "Leonid Kogan",
+          "Dimitris Papanikolaou",
+          "Amit Seru",
+          "Noah Stoffman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "665–712",
+        "doi": "10.1093/qje/qjw040",
+        "url": "https://doi.org/10.1093/qje/qjw040",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55212,6 +55780,42 @@
         "pages": "1351–1408",
         "doi": "10.1162/qjec.2007.122.4.1351",
         "url": "https://doi.org/10.1162/qjec.2007.122.4.1351",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Radical and Incremental Innovation: The Roles of Firms, Managers, and Innovators",
+        "title": "Radical and Incremental Innovation: The Roles of Firms, Managers, and Innovators",
+        "authors": [
+          "Daron Acemoglu",
+          "Ufuk Akcigit",
+          "Murat Alp Celik"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "3",
+        "pages": "199–249",
+        "doi": "10.1257/mac.20170410",
+        "url": "https://doi.org/10.1257/mac.20170410",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Institutional Ownership",
+        "title": "Innovation and Institutional Ownership",
+        "authors": [
+          "Philippe Aghion",
+          "John Van Reenen",
+          "Luigi Zingales"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "277–304",
+        "doi": "10.1257/aer.103.1.277",
+        "url": "https://doi.org/10.1257/aer.103.1.277",
         "verified": true,
         "note": ""
       }
@@ -55541,6 +56145,24 @@
         "pages": "1785–1824",
         "doi": "10.1111/jofi.12505",
         "url": "https://doi.org/10.1111/jofi.12505",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Institutional Ownership",
+        "title": "Innovation and Institutional Ownership",
+        "authors": [
+          "Philippe Aghion",
+          "John Van Reenen",
+          "Luigi Zingales"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "277–304",
+        "doi": "10.1257/aer.103.1.277",
+        "url": "https://doi.org/10.1257/aer.103.1.277",
         "verified": true,
         "note": ""
       }
@@ -56603,6 +57225,24 @@
         "url": "https://doi.org/10.1093/rfs/hhac018",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Innovation and Institutional Ownership",
+        "title": "Innovation and Institutional Ownership",
+        "authors": [
+          "Philippe Aghion",
+          "John Van Reenen",
+          "Luigi Zingales"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "277–304",
+        "doi": "10.1257/aer.103.1.277",
+        "url": "https://doi.org/10.1257/aer.103.1.277",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -57629,6 +58269,45 @@
         "pages": "104039",
         "doi": "10.1016/j.jfineco.2025.104039",
         "url": "https://doi.org/10.1016/j.jfineco.2025.104039",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.49",
+    "title": "Bushee 机构投资者分类数据",
+    "links": [
+      {
+        "label": "Brian Bushee: Institutional investor classification",
+        "url": "https://accounting-faculty.wharton.upenn.edu/bushee/"
+      }
+    ],
+    "summary": "沃顿商学院 Brian Bushee 基于 13F 持股的组合周转率和集中度对美国机构投资者的分类（准指数型、短期交易型、专注型），1981 年起按年更新，作者主页免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Bushee（1998，2001）用机构投资者的投资组合特征（持股周转率、组合集中度、对盈利敏感度等）进行因子和聚类分析，把提交 SEC 13F 报告的机构投资者分为三类：准指数型（quasi-indexer，分散持股、低周转）、短期交易型（transient，分散持股、高周转）和专注型（dedicated，集中持股、长期持有），并另给出法律类型分类。分类文件按机构代码（可与 Thomson Reuters 13F 数据关联）和年份提供，在 Bushee 的沃顿主页免费下载并定期更新。\n\n数据常用于研究机构投资者的投资期限和监督作用，例如短期投资者是否导致管理层短视、机构持股对企业研发与创新的影响，以及投资者构成与股价信息含量的关系。分类基于持股行为推断，同一家机构的不同基金被合并处理。",
+    "source": "公开下载（Bushee 主页）。",
+    "references": [
+      {
+        "raw": "Innovation and Institutional Ownership",
+        "title": "Innovation and Institutional Ownership",
+        "authors": [
+          "Philippe Aghion",
+          "John Van Reenen",
+          "Luigi Zingales"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "277–304",
+        "doi": "10.1257/aer.103.1.277",
+        "url": "https://doi.org/10.1257/aer.103.1.277",
         "verified": true,
         "note": ""
       }
@@ -58817,6 +59496,151 @@
         "url": "https://doi.org/10.1162/rest_a_00255",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Technological Innovation, Resource Allocation, and Growth",
+        "title": "Technological Innovation, Resource Allocation, and Growth",
+        "authors": [
+          "Leonid Kogan",
+          "Dimitris Papanikolaou",
+          "Amit Seru",
+          "Noah Stoffman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "665–712",
+        "doi": "10.1093/qje/qjw040",
+        "url": "https://doi.org/10.1093/qje/qjw040",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": [
+          "Bhaven Sampat",
+          "Heidi L. Williams"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "1",
+        "pages": "203–236",
+        "doi": "10.1257/aer.20151398",
+        "url": "https://doi.org/10.1257/aer.20151398",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Identifying Technology Spillovers and Product Market Rivalry",
+        "title": "Identifying Technology Spillovers and Product Market Rivalry",
+        "authors": [
+          "Nicholas Bloom",
+          "Mark Schankerman",
+          "John Van Reenen"
+        ],
+        "year": 2013,
+        "journal": "Econometrica",
+        "volume": "81",
+        "issue": "4",
+        "pages": "1347–1393",
+        "doi": "10.3982/ecta9466",
+        "url": "https://doi.org/10.3982/ecta9466",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "German Jewish Émigrés and US Invention",
+        "title": "German Jewish Émigrés and US Invention",
+        "authors": [
+          "Petra Moser",
+          "Alessandra Voena",
+          "Fabian Waldinger"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3222–3255",
+        "doi": "10.1257/aer.104.10.3222",
+        "url": "https://doi.org/10.1257/aer.104.10.3222",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How do spatial and social proximity influence knowledge flows? Evidence from patent data",
+        "title": "How do spatial and social proximity influence knowledge flows? Evidence from patent data",
+        "authors": [
+          "Ajay Agrawal",
+          "Devesh Kapur",
+          "John McHale"
+        ],
+        "year": 2008,
+        "journal": "Journal of Urban Economics",
+        "volume": "64",
+        "issue": "2",
+        "pages": "258–269",
+        "doi": "10.1016/j.jue.2008.01.003",
+        "url": "https://doi.org/10.1016/j.jue.2008.01.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Radical and Incremental Innovation: The Roles of Firms, Managers, and Innovators",
+        "title": "Radical and Incremental Innovation: The Roles of Firms, Managers, and Innovators",
+        "authors": [
+          "Daron Acemoglu",
+          "Ufuk Akcigit",
+          "Murat Alp Celik"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "3",
+        "pages": "199–249",
+        "doi": "10.1257/mac.20170410",
+        "url": "https://doi.org/10.1257/mac.20170410",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxation and Innovation in the Twentieth Century",
+        "title": "Taxation and Innovation in the Twentieth Century",
+        "authors": [
+          "Ufuk Akcigit",
+          "John Grigsby",
+          "Tom Nicholas",
+          "Stefanie Stantcheva"
+        ],
+        "year": 2022,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "329–385",
+        "doi": "10.1093/qje/qjab022",
+        "url": "https://doi.org/10.1093/qje/qjab022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Institutional Ownership",
+        "title": "Innovation and Institutional Ownership",
+        "authors": [
+          "Philippe Aghion",
+          "John Van Reenen",
+          "Luigi Zingales"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "277–304",
+        "doi": "10.1257/aer.103.1.277",
+        "url": "https://doi.org/10.1257/aer.103.1.277",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -58861,6 +59685,40 @@
         "url": "https://doi.org/10.1093/qje/qjz011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": [
+          "Bhaven Sampat",
+          "Heidi L. Williams"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "1",
+        "pages": "203–236",
+        "doi": "10.1257/aer.20151398",
+        "url": "https://doi.org/10.1257/aer.20151398",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "title": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "12",
+        "pages": "3323–3356",
+        "doi": "10.1257/aer.20221365",
+        "url": "https://doi.org/10.1257/aer.20221365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -58900,6 +59758,211 @@
         "pages": "1343–1404",
         "doi": "10.1093/qje/qjz011",
         "url": "https://doi.org/10.1093/qje/qjz011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxation and Innovation in the Twentieth Century",
+        "title": "Taxation and Innovation in the Twentieth Century",
+        "authors": [
+          "Ufuk Akcigit",
+          "John Grigsby",
+          "Tom Nicholas",
+          "Stefanie Stantcheva"
+        ],
+        "year": 2022,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "329–385",
+        "doi": "10.1093/qje/qjab022",
+        "url": "https://doi.org/10.1093/qje/qjab022",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.13",
+    "title": "NIH RePORTER / ExPORTER 科研资助数据库（含前身 CRISP）",
+    "links": [
+      {
+        "label": "NIH ExPORTER",
+        "url": "https://reporter.nih.gov/exporter"
+      }
+    ],
+    "summary": "美国国立卫生研究院发布的联邦资助生物医学研究项目数据库，1985 年起，记录每个资助项目的编号、机构、负责人、资助机制、金额、学科和摘要，并与论文、专利和临床研究关联，免费在线检索和批量下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "健康数据"
+    ],
+    "introduction": "NIH RePORTER（Research Portfolio Online Reporting Tools）取代了此前的 CRISP 数据库，收录 NIH 及 AHRQ、CDC、FDA、VA 等机构资助的校外和院内科研项目，提供项目编号（含 R01、K、P 等资助机制）、主要研究者（PI）及其唯一识别码、受资助机构及地点、资助所属研究所、财年和资助金额、研究摘要和 RCDC 支出类别，并通过链接表把项目与 PubMed 论文、专利和临床试验相关联；ExPORTER 提供 1985 年以来项目、摘要、论文链接和专利链接的批量 CSV 文件。NIH 内部的 IMPAC II 系统包含申请未获资助的记录和评审分数，只有经许可的研究者可用。\n\n数据常用于研究科研资助的分配和效果、同行评审偏差、资助对论文和专利产出的影响以及科学家职业发展，例如利用评审分数断点估计 NIH 资助对后续专利的影响。公开数据只包含获资助项目，申请和评审信息需特殊许可。",
+    "source": "公开下载（NIH RePORTER / ExPORTER）；申请与评审数据受限。",
+    "references": [
+      {
+        "raw": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "authors": [
+          "Daron Acemoglu",
+          "Joshua Linn"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "1049–1090",
+        "doi": "10.1162/0033553041502144",
+        "url": "https://doi.org/10.1162/0033553041502144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules",
+        "title": "Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules",
+        "authors": [
+          "Pierre Azoulay",
+          "Joshua S Graff Zivin",
+          "Danielle Li",
+          "Bhaven N Sampat"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "1",
+        "pages": "117–152",
+        "doi": "10.1093/restud/rdy034",
+        "url": "https://doi.org/10.1093/restud/rdy034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Science Advance One Funeral at a Time?",
+        "title": "Does Science Advance One Funeral at a Time?",
+        "authors": [
+          "Pierre Azoulay",
+          "Christian Fons-Rosen",
+          "Joshua S. Graff Zivin"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "8",
+        "pages": "2889–2920",
+        "doi": "10.1257/aer.20161574",
+        "url": "https://doi.org/10.1257/aer.20161574",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Expertise versus Bias in Evaluation: Evidence from the NIH",
+        "title": "Expertise versus Bias in Evaluation: Evidence from the NIH",
+        "authors": [
+          "Danielle Li"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "9",
+        "issue": "2",
+        "pages": "60–92",
+        "doi": "10.1257/app.20150421",
+        "url": "https://doi.org/10.1257/app.20150421",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Superstar Extinction",
+        "title": "Superstar Extinction",
+        "authors": [
+          "Pierre Azoulay",
+          "Joshua S. Graff Zivin",
+          "Jialan Wang"
+        ],
+        "year": 2010,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "125",
+        "issue": "2",
+        "pages": "549–589",
+        "doi": "10.1162/qjec.2010.125.2.549",
+        "url": "https://doi.org/10.1162/qjec.2010.125.2.549",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.14",
+    "title": "Lai 等美国专利发明人消歧与合作网络数据（Harvard Dataverse）",
+    "links": [
+      {
+        "label": "Harvard Dataverse: Patent inventor disambiguation (Lai et al.)",
+        "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/15705"
+      }
+    ],
+    "summary": "Lai、D'Amour、Yu、Sun 和 Fleming 对 1975–2010 年美国授权专利发明人进行姓名消歧后构建的发明人唯一标识、职业轨迹和合著网络数据，在 Harvard Dataverse 免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "该数据集（Disambiguation and Co-authorship Networks of the U.S. Patent Inventor Database）由哈佛大学和伯克利 Fung 研究所的 Ronald Lai、Lee Fleming 等构建，利用发明人姓名、地址、受让人、技术类别和合作者等信息，对 1975–2010 年 USPTO 授权专利中的约 800 万条发明人记录进行消歧，给出发明人唯一标识，可追踪发明人在企业和地区之间的流动及合作网络。数据在 Harvard Dataverse 免费下载；PatentsView 后来延续并更新了发明人消歧工作。\n\n数据常用于研究发明人流动和知识溢出、发明人的职业生涯与生产力、团队合作和突破性创新的关系。消歧存在一定误差，常见姓名的发明人更易被错误合并或拆分。",
+    "source": "公开下载（Harvard Dataverse）。",
+    "references": [
+      {
+        "raw": "Radical and Incremental Innovation: The Roles of Firms, Managers, and Innovators",
+        "title": "Radical and Incremental Innovation: The Roles of Firms, Managers, and Innovators",
+        "authors": [
+          "Daron Acemoglu",
+          "Ufuk Akcigit",
+          "Murat Alp Celik"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "3",
+        "pages": "199–249",
+        "doi": "10.1257/mac.20170410",
+        "url": "https://doi.org/10.1257/mac.20170410",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.15",
+    "title": "SBIR / STTR 小企业创新研究资助数据库（SBIR.gov）",
+    "links": [
+      {
+        "label": "SBIR.gov: Awards",
+        "url": "https://www.sbir.gov/awards"
+      }
+    ],
+    "summary": "美国小企业管理局维护的小企业创新研究（SBIR）和小企业技术转移（STTR）计划资助记录，1983 年起，记录 11 个联邦机构授予小企业的约 20 万项第一和第二阶段资助的企业、金额、主题和摘要，免费检索和下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "SBIR 计划依据 1982 年《小企业创新发展法》设立，要求研发预算较大的联邦机构（DoD、HHS/NIH、DOE、NASA、NSF 等）将一定比例的校外研发经费用于资助小企业，分为可行性研究的第一阶段和研发的第二阶段；STTR 计划要求小企业与研究机构合作。SBIR.gov 数据库收录 1983 年以来的资助记录，包括资助机构和项目、企业名称、地址和 DUNS/UEI 识别码、企业所有者特征（女性、少数族裔）、资助阶段、年份、金额、主题和摘要，可免费检索和批量下载；未获资助的申请和评审排名属于各机构内部数据。\n\n数据常用于研究政府研发补贴对小企业融资、专利、风险投资和成长的影响，例如利用 DOE 评审排名断点识别第一阶段资助的效果。公开数据只包括获资助企业，申请者信息需机构许可。",
+    "source": "公开下载（SBIR.gov）；申请与评审数据受限。",
+    "references": [
+      {
+        "raw": "Financing Innovation: Evidence from R&D Grants",
+        "title": "Financing Innovation: Evidence from R&D Grants",
+        "authors": [
+          "Sabrina T. Howell"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "1136–1164",
+        "doi": "10.1257/aer.20150808",
+        "url": "https://doi.org/10.1257/aer.20150808",
         "verified": true,
         "note": ""
       }
@@ -60041,6 +61104,44 @@
         "pages": "1113–1158",
         "doi": "10.3368/jhr.0123-12743r2",
         "url": "https://doi.org/10.3368/jhr.0123-12743r2",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "University Research and the Market for Higher Education",
+        "title": "University Research and the Market for Higher Education",
+        "authors": [
+          "Titan Alon",
+          "Damien Capelle",
+          "Kazushige Matsuda"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "3",
+        "pages": "236–264",
+        "doi": "10.1257/mac.20240057",
+        "url": "https://doi.org/10.1257/mac.20240057",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "title": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "authors": [
+          "Tania Babina",
+          "Alex Xi He",
+          "Sabrina T Howell",
+          "Elisabeth Ruth Perlman",
+          "Joseph Staudt"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "2",
+        "pages": "895–954",
+        "doi": "10.1093/qje/qjac046",
+        "url": "https://doi.org/10.1093/qje/qjac046",
         "verified": true,
         "note": ""
       }
@@ -61474,6 +62575,24 @@
         "url": "https://doi.org/10.1257/aer.20151193",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "University Research and the Market for Higher Education",
+        "title": "University Research and the Market for Higher Education",
+        "authors": [
+          "Titan Alon",
+          "Damien Capelle",
+          "Kazushige Matsuda"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "3",
+        "pages": "236–264",
+        "doi": "10.1257/mac.20240057",
+        "url": "https://doi.org/10.1257/mac.20240057",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62443,6 +63562,185 @@
     ]
   },
   {
+    "id": "2.16.35",
+    "title": "NSF 高等教育研发调查（Higher Education Research and Development Survey，HERD）",
+    "links": [
+      {
+        "label": "NCSES: HERD Survey",
+        "url": "https://ncses.nsf.gov/surveys/higher-education-research-development"
+      }
+    ],
+    "summary": "美国国家科学基金会国家科学与工程统计中心（NCSES）对年研发支出 15 万美元以上的高校开展的年度普查，1972 年起（前身为学术研发支出调查），按资金来源和学科记录研发支出，机构层面数据免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "商业数据"
+    ],
+    "introduction": "HERD 调查由 NCSES 每年实施，覆盖约 900 所研发支出达到门槛的美国学院和大学（另有小型机构简表），收集各机构按资金来源（联邦、州和地方政府、企业、机构自有资金、非营利组织）、联邦资助机构（NIH、NSF、DoD 等）和学科领域分列的研发支出，基础研究、应用研究和试验发展的构成，研发人员数量，以及外国资金和临床试验支出。前身为 1972–2009 年的学术研发支出调查（Survey of R&D Expenditures at Universities and Colleges）。机构层面数据和汇总表在 NCSES 网站免费下载。\n\n数据常用于研究大学科研投入的分布和变化、联邦资助对大学创新和地方经济的影响，以及大学研发与专利、技术转移和创业的关系。数据为机构层面汇总，不能区分具体项目或科研人员。",
+    "source": "公开下载（NCSES 网站）。",
+    "references": [
+      {
+        "raw": "University Research and the Market for Higher Education",
+        "title": "University Research and the Market for Higher Education",
+        "authors": [
+          "Titan Alon",
+          "Damien Capelle",
+          "Kazushige Matsuda"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "18",
+        "issue": "3",
+        "pages": "236–264",
+        "doi": "10.1257/mac.20240057",
+        "url": "https://doi.org/10.1257/mac.20240057",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.36",
+    "title": "博士学位获得者调查（Survey of Earned Doctorates，SED）",
+    "links": [
+      {
+        "label": "NCSES: Survey of Earned Doctorates",
+        "url": "https://ncses.nsf.gov/surveys/earned-doctorates/"
+      }
+    ],
+    "summary": "NSF 等联邦机构资助的对美国每年全部研究型博士毕业生的普查，1957 年起（并回溯整合 1920 年以来的博士授予记录），记录学科、院校、人口特征、资助来源和毕业去向，汇总表公开，个体数据经 NCSES 受限许可使用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "SED 由国家科学与工程统计中心（NCSES）与 NIH、教育部和 NEH 共同资助，在博士生完成学位时发放问卷，回答率超过 90%，记录博士学位的学科和授予院校、入学和毕业时间、性别、种族、公民身份、父母教育程度、本科和硕士院校、读博期间的主要资助来源（助研、助教、奖学金、个人资金）、债务以及毕业后的就业或博士后去向；其博士记录档案（Doctorate Records File）回溯整合了 1920 年以来的博士授予记录。汇总表和 NCSES 交互工具公开，个体数据经受限使用许可获取。\n\n数据常用于研究博士培养规模和学科结构、外国博士留美和人才流动、科研资助方式对博士生产出的影响，以及科学人力资源的长期变化。问卷只在毕业时收集，后续职业发展需与 SDR 等追踪调查关联。",
+    "source": "汇总表公开（NCSES）；个体数据经受限许可。",
+    "references": [
+      {
+        "raw": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "title": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "12",
+        "pages": "3323–3356",
+        "doi": "10.1257/aer.20221365",
+        "url": "https://doi.org/10.1257/aer.20221365",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.37",
+    "title": "IRIS UMETRICS 大学科研经费交易数据",
+    "links": [
+      {
+        "label": "IRIS: Institute for Research on Innovation & Science",
+        "url": "https://iris.isr.umich.edu/"
+      }
+    ],
+    "summary": "密歇根大学创新与科学研究所（IRIS）汇集参与大学科研项目的行政交易记录，覆盖 30 多所研究型大学约一半的美国学术研发支出，记录每个资助项目的人员工资支付（含研究生和博士后）、供应商采购和分包，经数据使用协议在安全环境使用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "商业数据"
+    ],
+    "introduction": "UMETRICS 起源于 STAR METRICS 和 CIC 大学联盟项目，由密歇根大学 IRIS 运营：参与大学提供科研资助项目的财务交易记录，包括每个项目每期向每名人员（教师、博士后、研究生、本科生和职员）支付的工资及其职位，向供应商的采购（可与企业数据关联）和对其他机构的分包，并与 NIH、NSF 资助记录、论文、专利和人口普查局的就业数据（经 FSRDC）相关联。数据覆盖 2001 年以来、30 多所大学，研究者须与 IRIS 签订数据使用协议，在虚拟数据环境中使用。\n\n数据常用于研究科研资助的经济影响，例如资助对研究生就业去向、科研团队结构、地方供应商和创业的影响，以及科研投入向知识产出的转化。只覆盖参与大学，数据访问需要审批。",
+    "source": "受限（经 IRIS 数据使用协议；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "title": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "authors": [
+          "Tania Babina",
+          "Alex Xi He",
+          "Sabrina T Howell",
+          "Elisabeth Ruth Perlman",
+          "Joseph Staudt"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "2",
+        "pages": "895–954",
+        "doi": "10.1093/qje/qjac046",
+        "url": "https://doi.org/10.1093/qje/qjac046",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.38",
+    "title": "美国医学院协会教师名册（AAMC Faculty Roster）",
+    "links": [
+      {
+        "label": "AAMC: Faculty Roster",
+        "url": "https://www.aamc.org/data-reports/faculty-institutions/report/faculty-roster"
+      }
+    ],
+    "summary": "美国医学院协会维护的全美认证医学院全职教师名册，1966 年起，记录教师的学位、专科、职称、聘任和晋升时间、部门和人口特征，汇总报告公开，个体数据经 AAMC 授权许可使用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "健康数据"
+    ],
+    "introduction": "AAMC 教师名册由各医学院按年度报告全职教师信息，覆盖美国和加拿大全部经认证的医学院，记录教师的学位（MD、PhD 等）和学位授予院校、毕业年份、专科或学科、所在部门、职称和终身教职状态、聘任、晋升和离职时间，以及性别、种族和出生年份，形成可追踪职业轨迹的纵向记录。AAMC 定期发布汇总报告和数据表，研究者可向 AAMC 申请授权许可，在签署保密协议后使用个体层面数据。\n\n数据常用于研究学术医学人才的流动和职业发展、性别和种族差异、科研资助（如 NIH 资助）对职业晋升的影响，以及明星科学家对同事的溢出效应。名册仅覆盖全职教师，个体数据访问有严格条件。",
+    "source": "汇总报告公开；个体数据经 AAMC 授权许可。",
+    "references": [
+      {
+        "raw": "Does Science Advance One Funeral at a Time?",
+        "title": "Does Science Advance One Funeral at a Time?",
+        "authors": [
+          "Pierre Azoulay",
+          "Christian Fons-Rosen",
+          "Joshua S. Graff Zivin"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "8",
+        "pages": "2889–2920",
+        "doi": "10.1257/aer.20161574",
+        "url": "https://doi.org/10.1257/aer.20161574",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Superstar Extinction",
+        "title": "Superstar Extinction",
+        "authors": [
+          "Pierre Azoulay",
+          "Joshua S. Graff Zivin",
+          "Jialan Wang"
+        ],
+        "year": 2010,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "125",
+        "issue": "2",
+        "pages": "549–589",
+        "doi": "10.1162/qjec.2010.125.2.549",
+        "url": "https://doi.org/10.1162/qjec.2010.125.2.549",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -62860,6 +64158,23 @@
         "pages": "115–170",
         "doi": "10.3982/ECTA14835",
         "url": "https://doi.org/10.3982/ECTA14835",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "University Innovation and the Professor's Privilege",
+        "title": "University Innovation and the Professor's Privilege",
+        "authors": [
+          "Hans K. Hvide",
+          "Benjamin F. Jones"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1860–1898",
+        "doi": "10.1257/aer.20160284",
+        "url": "https://doi.org/10.1257/aer.20160284",
         "verified": true,
         "note": ""
       }
@@ -64688,6 +66003,24 @@
         "url": "https://doi.org/10.1093/restud/rdaf080",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Identifying Technology Spillovers and Product Market Rivalry",
+        "title": "Identifying Technology Spillovers and Product Market Rivalry",
+        "authors": [
+          "Nicholas Bloom",
+          "Mark Schankerman",
+          "John Van Reenen"
+        ],
+        "year": 2013,
+        "journal": "Econometrica",
+        "volume": "81",
+        "issue": "4",
+        "pages": "1347–1393",
+        "doi": "10.3982/ecta9466",
+        "url": "https://doi.org/10.3982/ecta9466",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -64873,6 +66206,43 @@
         "pages": "1303–1340",
         "doi": "10.3982/ECTA11041",
         "url": "https://doi.org/10.3982/ECTA11041",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Heterogeneous Impact of Market Size on Innovation: Evidence from French Firm-Level Exports",
+        "title": "The Heterogeneous Impact of Market Size on Innovation: Evidence from French Firm-Level Exports",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "Matthieu Lequien",
+          "Marc J. Melitz"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "608–626",
+        "doi": "10.1162/rest_a_01199",
+        "url": "https://doi.org/10.1162/rest_a_01199",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Regulation on Innovation",
+        "title": "The Impact of Regulation on Innovation",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "John Van Reenen"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "11",
+        "pages": "2894–2936",
+        "doi": "10.1257/aer.20210107",
+        "url": "https://doi.org/10.1257/aer.20210107",
         "verified": true,
         "note": ""
       }
@@ -65203,6 +66573,44 @@
         "pages": "347–372",
         "doi": "10.1093/rfs/hht056",
         "url": "https://doi.org/10.1093/rfs/hht056",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.8",
+    "title": "挪威布伦内于松登记中心企业登记数据（Brønnøysund Register Centre）",
+    "links": [
+      {
+        "label": "Brønnøysund Register Centre",
+        "url": "https://www.brreg.no/"
+      }
+    ],
+    "summary": "挪威政府登记机构布伦内于松登记中心维护的企业登记、法人实体登记和年度账目登记，记录全部挪威企业的组织号码、行业、地址、董事和所有者以及年度财务报表，基础信息免费开放 API，研究用详细数据经申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "布伦内于松登记中心（Brønnøysundregistrene）运营挪威的中央协调登记（Enhetsregisteret）、企业登记（Foretaksregisteret）、年度账目登记（Regnskapsregisteret）和股东相关登记，记录每个法人实体的组织号码、名称、法律形式、行业（NACE）、地址、成立和注销日期、董事会成员、首席执行官和审计师，以及有限公司每年提交的资产负债表和损益表。基础登记信息通过开放数据 API 免费获取，年度账目可在线查询，研究中常经挪威统计局或商业数据提供商（如 Bisnode/D&B）获取与个人登记关联的面板数据。\n\n数据常用于研究挪威企业的创业、所有权、董事会构成和财务绩效，与挪威个人登记数据结合研究员工和创业者，例如研究大学教授专利权改革对学术创业的影响。研究用的关联数据需通过挪威统计局申请。",
+    "source": "基础信息公开（开放 API）；研究用详细数据经申请。",
+    "references": [
+      {
+        "raw": "University Innovation and the Professor's Privilege",
+        "title": "University Innovation and the Professor's Privilege",
+        "authors": [
+          "Hans K. Hvide",
+          "Benjamin F. Jones"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1860–1898",
+        "doi": "10.1257/aer.20160284",
+        "url": "https://doi.org/10.1257/aer.20160284",
         "verified": true,
         "note": ""
       }
@@ -65757,6 +67165,24 @@
         "pages": "200–247",
         "doi": "10.1086/725703",
         "url": "https://doi.org/10.1086/725703",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Policies and directed technological change",
+        "title": "Environmental Policies and directed technological change",
+        "authors": [
+          "Klaus Gugler",
+          "Florian Szücs",
+          "Thomas Wiedenhofer"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102916",
+        "doi": "10.1016/j.jeem.2023.102916",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102916",
         "verified": true,
         "note": ""
       }
@@ -79007,6 +80433,59 @@
         "url": "https://doi.org/10.1093/qje/qjae031",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Age and Great Invention",
+        "title": "Age and Great Invention",
+        "authors": [
+          "Benjamin F. Jones"
+        ],
+        "year": 2010,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "92",
+        "issue": "1",
+        "pages": "1–14",
+        "doi": "10.1162/rest.2009.11724",
+        "url": "https://doi.org/10.1162/rest.2009.11724",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxation and Innovation in the Twentieth Century",
+        "title": "Taxation and Innovation in the Twentieth Century",
+        "authors": [
+          "Ufuk Akcigit",
+          "John Grigsby",
+          "Tom Nicholas",
+          "Stefanie Stantcheva"
+        ],
+        "year": 2022,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "329–385",
+        "doi": "10.1093/qje/qjab022",
+        "url": "https://doi.org/10.1093/qje/qjab022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Cultural Diversity Drives Innovation: Surnames and Patents in U.S. History",
+        "title": "How Cultural Diversity Drives Innovation: Surnames and Patents in U.S. History",
+        "authors": [
+          "Max Posch",
+          "Jonathan Schulz",
+          "Joseph Henrich"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "4",
+        "pages": "1245–1305",
+        "doi": "10.1086/739323",
+        "url": "https://doi.org/10.1086/739323",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -83258,6 +84737,25 @@
         "url": "https://doi.org/10.3982/ECTA14835",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Taxation and Innovation in the Twentieth Century",
+        "title": "Taxation and Innovation in the Twentieth Century",
+        "authors": [
+          "Ufuk Akcigit",
+          "John Grigsby",
+          "Tom Nicholas",
+          "Stefanie Stantcheva"
+        ],
+        "year": 2022,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "329–385",
+        "doi": "10.1093/qje/qjab022",
+        "url": "https://doi.org/10.1093/qje/qjab022",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -85294,6 +86792,22 @@
         "pages": "593–650",
         "doi": "10.1093/qje/qjr009",
         "url": "https://doi.org/10.1093/qje/qjr009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Patent Laws Influence Innovation? Evidence from Nineteenth-Century World's Fairs",
+        "title": "How Do Patent Laws Influence Innovation? Evidence from Nineteenth-Century World's Fairs",
+        "authors": [
+          "Petra Moser"
+        ],
+        "year": 2005,
+        "journal": "American Economic Review",
+        "volume": "95",
+        "issue": "4",
+        "pages": "1214–1236",
+        "doi": "10.1257/0002828054825501",
+        "url": "https://doi.org/10.1257/0002828054825501",
         "verified": true,
         "note": ""
       }
@@ -93579,6 +95093,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105444",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Policies and directed technological change",
+        "title": "Environmental Policies and directed technological change",
+        "authors": [
+          "Klaus Gugler",
+          "Florian Szücs",
+          "Thomas Wiedenhofer"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102916",
+        "doi": "10.1016/j.jeem.2023.102916",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102916",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94129,6 +95661,248 @@
         "pages": "649–702",
         "doi": "10.1086/712506",
         "url": "https://doi.org/10.1086/712506",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": [
+          "Bhaven Sampat",
+          "Heidi L. Williams"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "1",
+        "pages": "203–236",
+        "doi": "10.1257/aer.20151398",
+        "url": "https://doi.org/10.1257/aer.20151398",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.8",
+    "title": "PubMed / MEDLINE 生物医学文献数据库",
+    "links": [
+      {
+        "label": "PubMed: Download",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/download/"
+      }
+    ],
+    "summary": "美国国家医学图书馆（NLM）维护的生物医学和生命科学文献数据库，收录 1940 年代以来 3,700 多万条文献记录，含 MeSH 主题词、作者、机构、资助编号和相关文献算法，可通过 E-utilities 和年度基线文件免费批量下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据",
+      "教育数据"
+    ],
+    "introduction": "PubMed 是美国国家医学图书馆下属国家生物技术信息中心（NCBI）提供的免费检索系统，核心是 MEDLINE 数据库（约 5,200 种期刊，1966 年起，部分回溯到 1940 年代），另收录 PubMed Central 全文和在版论文。每条记录包含标题、摘要、作者及其单位、期刊、发表日期、出版类型（如临床试验、综述）、人工标引的医学主题词（MeSH）、化学物质和基因名称、资助机构和资助编号，以及基于文本相似度的相关文献（PMRA）链接。数据可通过 E-utilities API 和每年发布的 XML 基线文件免费批量获取。\n\n数据常用于测量生物医学研究的产出和方向，研究科研资助、科学家流动和合作对论文产出的影响，以及科学知识与药物研发、临床试验和专利的关系，例如用 MeSH 主题统计各疾病领域的研究强度。PubMed 不含引用数据，需与 Web of Science 或 PubMed Central 引用链接结合。",
+    "source": "公开下载（NLM / NCBI，E-utilities 和基线文件）。",
+    "references": [
+      {
+        "raw": "Of Mice and Academics: Examining the Effect of Openness on Innovation",
+        "title": "Of Mice and Academics: Examining the Effect of Openness on Innovation",
+        "authors": [
+          "Fiona Murray",
+          "Philippe Aghion",
+          "Mathias Dewatripont",
+          "Julian Kolev",
+          "Scott Stern"
+        ],
+        "year": 2016,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "8",
+        "issue": "1",
+        "pages": "212–252",
+        "doi": "10.1257/pol.20140062",
+        "url": "https://doi.org/10.1257/pol.20140062",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules",
+        "title": "Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules",
+        "authors": [
+          "Pierre Azoulay",
+          "Joshua S Graff Zivin",
+          "Danielle Li",
+          "Bhaven N Sampat"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "1",
+        "pages": "117–152",
+        "doi": "10.1093/restud/rdy034",
+        "url": "https://doi.org/10.1093/restud/rdy034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Science Advance One Funeral at a Time?",
+        "title": "Does Science Advance One Funeral at a Time?",
+        "authors": [
+          "Pierre Azoulay",
+          "Christian Fons-Rosen",
+          "Joshua S. Graff Zivin"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "8",
+        "pages": "2889–2920",
+        "doi": "10.1257/aer.20161574",
+        "url": "https://doi.org/10.1257/aer.20161574",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Expertise versus Bias in Evaluation: Evidence from the NIH",
+        "title": "Expertise versus Bias in Evaluation: Evidence from the NIH",
+        "authors": [
+          "Danielle Li"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "9",
+        "issue": "2",
+        "pages": "60–92",
+        "doi": "10.1257/app.20150421",
+        "url": "https://doi.org/10.1257/app.20150421",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Superstar Extinction",
+        "title": "Superstar Extinction",
+        "authors": [
+          "Pierre Azoulay",
+          "Joshua S. Graff Zivin",
+          "Jialan Wang"
+        ],
+        "year": 2010,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "125",
+        "issue": "2",
+        "pages": "549–589",
+        "doi": "10.1162/qjec.2010.125.2.549",
+        "url": "https://doi.org/10.1162/qjec.2010.125.2.549",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.9",
+    "title": "NCBI 基因与序列数据库（Gene、RefSeq、遗传检测注册库 GTR）",
+    "links": [
+      {
+        "label": "NCBI Gene",
+        "url": "https://www.ncbi.nlm.nih.gov/gene"
+      },
+      {
+        "label": "NCBI Genetic Testing Registry",
+        "url": "https://www.ncbi.nlm.nih.gov/gtr/"
+      }
+    ],
+    "summary": "美国国家生物技术信息中心维护的基因注释数据库 Entrez Gene、参考序列数据库 RefSeq 和遗传检测注册库（GTR，前身 GeneTests），提供基因标识符、序列、功能注释和可提供的临床检测信息，FTP 免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "NCBI 是美国国家医学图书馆的下属机构，维护多个公开的生物信息数据库：Entrez Gene 为各物种基因提供唯一标识符、名称、染色体位置、功能注释和与文献、序列的链接；RefSeq 提供经人工整理的非冗余参考基因组、转录本和蛋白质序列，按版本定期发布；遗传检测注册库（GTR）收录全球实验室提供的遗传检测及其适应症，取代了此前华盛顿大学维护的 GeneTests.org 实验室名录。各数据库可在线检索，并通过 NCBI FTP 站点免费批量下载对照文件（如 gene2refseq、gene2pubmed）。\n\n数据常用于经济学中研究基因专利和知识产权对后续科研与商业化的影响（如 Celera 基因组 IP 和人类基因专利对遗传检测的影响），以及构建基因层面的科研产出面板。数据库持续更新，历史版本需要从 FTP 存档中获取。",
+    "source": "公开下载（NCBI FTP 和网站）。",
+    "references": [
+      {
+        "raw": "Intellectual Property Rights and Innovation: Evidence from the Human Genome",
+        "title": "Intellectual Property Rights and Innovation: Evidence from the Human Genome",
+        "authors": [
+          "Heidi L. Williams"
+        ],
+        "year": 2013,
+        "journal": "Journal of Political Economy",
+        "volume": "121",
+        "issue": "1",
+        "pages": "1–27",
+        "doi": "10.1086/669706",
+        "url": "https://doi.org/10.1086/669706",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": [
+          "Bhaven Sampat",
+          "Heidi L. Williams"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "1",
+        "pages": "203–236",
+        "doi": "10.1257/aer.20151398",
+        "url": "https://doi.org/10.1257/aer.20151398",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.10",
+    "title": "人类孟德尔遗传在线数据库（Online Mendelian Inheritance in Man，OMIM）",
+    "links": [
+      {
+        "label": "OMIM",
+        "url": "https://www.omim.org/"
+      }
+    ],
+    "summary": "约翰斯·霍普金斯大学维护的人类基因和遗传表型知识库，收录约 1.6 万个基因和 9,000 多种遗传表型的基因-疾病关系、临床特征和文献，学术用途在线免费检索，批量下载需注册申请。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "OMIM 源自 Victor McKusick 1966 年开始编纂的《人类孟德尔遗传》目录，现由约翰斯·霍普金斯大学医学院维护、NCBI 协助发布，为每个基因和遗传表型编写条目，记录基因的位置、功能、等位变异，表型的遗传方式、临床表现和已知致病基因，以及基因-表型对应关系（morbid map）和支持文献，条目随研究进展持续更新并保留修订日期。网站提供免费检索，学术研究者注册后可申请批量下载文件。\n\n数据常用于识别具有临床意义的基因（如已知与疾病相关的基因），在研究基因专利、科研资源公开和后续创新时作为基因重要性和临床相关性的度量。条目反映专家整理的已发表证据，对罕见病覆盖较全，对复杂疾病的遗传关联覆盖有限。",
+    "source": "学术免费检索；批量下载需注册申请（官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Intellectual Property Rights and Innovation: Evidence from the Human Genome",
+        "title": "Intellectual Property Rights and Innovation: Evidence from the Human Genome",
+        "authors": [
+          "Heidi L. Williams"
+        ],
+        "year": 2013,
+        "journal": "Journal of Political Economy",
+        "volume": "121",
+        "issue": "1",
+        "pages": "1–27",
+        "doi": "10.1086/669706",
+        "url": "https://doi.org/10.1086/669706",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": [
+          "Bhaven Sampat",
+          "Heidi L. Williams"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "1",
+        "pages": "203–236",
+        "doi": "10.1257/aer.20151398",
+        "url": "https://doi.org/10.1257/aer.20151398",
         "verified": true,
         "note": ""
       }
@@ -95240,6 +97014,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Policies and directed technological change",
+        "title": "Environmental Policies and directed technological change",
+        "authors": [
+          "Klaus Gugler",
+          "Florian Szücs",
+          "Thomas Wiedenhofer"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102916",
+        "doi": "10.1016/j.jeem.2023.102916",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102916",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -96046,6 +97838,46 @@
         "pages": "1324–1336",
         "doi": "10.1162/rest_a_00304",
         "url": "https://doi.org/10.1162/rest_a_00304",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.23",
+    "title": "IEA 政策与措施数据库（IEA Policies Database）",
+    "links": [
+      {
+        "label": "IEA: Policies database",
+        "url": "https://www.iea.org/policies"
+      }
+    ],
+    "summary": "国际能源署汇编的各国能源效率、可再生能源和气候变化相关政策与措施数据库，覆盖 1970 年代以来 150 多个国家的约 6,000 项政策，记录政策类型、部门、技术、状态和实施年份，免费在线检索。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据",
+      "能源数据"
+    ],
+    "introduction": "IEA 政策数据库整合了此前的能源效率、可再生能源和气候变化措施等多个数据库，由 IEA 秘书处根据各国政府提交和公开信息整理，每项政策记录国家、名称、生效年份和状态（计划、生效、终止）、政策类型（如经济工具、监管、信息与教育、研发与部署支持、目标）、覆盖部门和技术（如太阳能、风能、建筑、交通、工业），以及政策描述和来源。数据在 IEA 网站免费在线检索和导出。\n\n数据常用于构建国家层面环境和能源政策强度指标，研究政策对绿色创新（专利）、可再生能源部署和排放的影响，或作为 OECD EPS 指数的补充。政策条目以数量计，难以直接比较强度，记录完整性取决于各国报告。",
+    "source": "公开检索（IEA 网站；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Environmental Policies and directed technological change",
+        "title": "Environmental Policies and directed technological change",
+        "authors": [
+          "Klaus Gugler",
+          "Florian Szücs",
+          "Thomas Wiedenhofer"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102916",
+        "doi": "10.1016/j.jeem.2023.102916",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102916",
         "verified": true,
         "note": ""
       }
@@ -97245,6 +99077,24 @@
         "pages": "701–728",
         "doi": "10.1093/qje/120.2.701",
         "url": "https://doi.org/10.1093/qje/120.2.701",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Share, Market Value and Innovation in a Panel of British Manufacturing Firms",
+        "title": "Market Share, Market Value and Innovation in a Panel of British Manufacturing Firms",
+        "authors": [
+          "Richard Blundell",
+          "Rachel Griffith",
+          "John Van Reenen"
+        ],
+        "year": 1999,
+        "journal": "The Review of Economic Studies",
+        "volume": "66",
+        "issue": "3",
+        "pages": "529–554",
+        "doi": "10.1111/1467-937x.00097",
+        "url": "https://doi.org/10.1111/1467-937x.00097",
         "verified": true,
         "note": ""
       }
@@ -98517,6 +100367,22 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financing Innovation: Evidence from R&D Grants",
+        "title": "Financing Innovation: Evidence from R&D Grants",
+        "authors": [
+          "Sabrina T. Howell"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "1136–1164",
+        "doi": "10.1257/aer.20150808",
+        "url": "https://doi.org/10.1257/aer.20150808",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -98982,6 +100848,95 @@
         "url": "https://doi.org/10.1257/aer.20180338",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Heterogeneous Impact of Market Size on Innovation: Evidence from French Firm-Level Exports",
+        "title": "The Heterogeneous Impact of Market Size on Innovation: Evidence from French Firm-Level Exports",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "Matthieu Lequien",
+          "Marc J. Melitz"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "608–626",
+        "doi": "10.1162/rest_a_01199",
+        "url": "https://doi.org/10.1162/rest_a_01199",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "title": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "12",
+        "pages": "3323–3356",
+        "doi": "10.1257/aer.20221365",
+        "url": "https://doi.org/10.1257/aer.20221365",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Regulation on Innovation",
+        "title": "The Impact of Regulation on Innovation",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "John Van Reenen"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "11",
+        "pages": "2894–2936",
+        "doi": "10.1257/aer.20210107",
+        "url": "https://doi.org/10.1257/aer.20210107",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Policies and directed technological change",
+        "title": "Environmental Policies and directed technological change",
+        "authors": [
+          "Klaus Gugler",
+          "Florian Szücs",
+          "Thomas Wiedenhofer"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102916",
+        "doi": "10.1016/j.jeem.2023.102916",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102916",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "University Innovation and the Professor's Privilege",
+        "title": "University Innovation and the Professor's Privilege",
+        "authors": [
+          "Hans K. Hvide",
+          "Benjamin F. Jones"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1860–1898",
+        "doi": "10.1257/aer.20160284",
+        "url": "https://doi.org/10.1257/aer.20160284",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99377,6 +101332,166 @@
         "url": "https://doi.org/10.1257/000282802760015658",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Static and Dynamic Effects of Health Policy: Evidence from the Vaccine Industry",
+        "title": "Static and Dynamic Effects of Health Policy: Evidence from the Vaccine Industry",
+        "authors": [
+          "Amy Finkelstein"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "2",
+        "pages": "527–564",
+        "doi": "10.1162/0033553041382166",
+        "url": "https://doi.org/10.1162/0033553041382166",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Share, Market Value and Innovation in a Panel of British Manufacturing Firms",
+        "title": "Market Share, Market Value and Innovation in a Panel of British Manufacturing Firms",
+        "authors": [
+          "Richard Blundell",
+          "Rachel Griffith",
+          "John Van Reenen"
+        ],
+        "year": 1999,
+        "journal": "The Review of Economic Studies",
+        "volume": "66",
+        "issue": "3",
+        "pages": "529–554",
+        "doi": "10.1111/1467-937x.00097",
+        "url": "https://doi.org/10.1111/1467-937x.00097",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Technological Innovation, Resource Allocation, and Growth",
+        "title": "Technological Innovation, Resource Allocation, and Growth",
+        "authors": [
+          "Leonid Kogan",
+          "Dimitris Papanikolaou",
+          "Amit Seru",
+          "Noah Stoffman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "665–712",
+        "doi": "10.1093/qje/qjw040",
+        "url": "https://doi.org/10.1093/qje/qjw040",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Compulsory Licensing: Evidence from the Trading with the Enemy Act",
+        "title": "Compulsory Licensing: Evidence from the Trading with the Enemy Act",
+        "authors": [
+          "Petra Moser",
+          "Alessandra Voena"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "1",
+        "pages": "396–427",
+        "doi": "10.1257/aer.102.1.396",
+        "url": "https://doi.org/10.1257/aer.102.1.396",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": [
+          "Bhaven Sampat",
+          "Heidi L. Williams"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "1",
+        "pages": "203–236",
+        "doi": "10.1257/aer.20151398",
+        "url": "https://doi.org/10.1257/aer.20151398",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Effects of Copyrights on Science: Evidence from the WWII Book Republication Program",
+        "title": "Effects of Copyrights on Science: Evidence from the WWII Book Republication Program",
+        "authors": [
+          "Barbara Biasi",
+          "Petra Moser"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Microeconomics",
+        "volume": "13",
+        "issue": "4",
+        "pages": "218–260",
+        "doi": "10.1257/mic.20190113",
+        "url": "https://doi.org/10.1257/mic.20190113",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "German Jewish Émigrés and US Invention",
+        "title": "German Jewish Émigrés and US Invention",
+        "authors": [
+          "Petra Moser",
+          "Alessandra Voena",
+          "Fabian Waldinger"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "10",
+        "pages": "3222–3255",
+        "doi": "10.1257/aer.104.10.3222",
+        "url": "https://doi.org/10.1257/aer.104.10.3222",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "title": "Cutting the Innovation Engine: How Federal Funding Shocks Affect University Patenting, Entrepreneurship, and Publications",
+        "authors": [
+          "Tania Babina",
+          "Alex Xi He",
+          "Sabrina T Howell",
+          "Elisabeth Ruth Perlman",
+          "Joseph Staudt"
+        ],
+        "year": 2023,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "138",
+        "issue": "2",
+        "pages": "895–954",
+        "doi": "10.1093/qje/qjac046",
+        "url": "https://doi.org/10.1093/qje/qjac046",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Regulation on Innovation",
+        "title": "The Impact of Regulation on Innovation",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "John Van Reenen"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "11",
+        "pages": "2894–2936",
+        "doi": "10.1257/aer.20210107",
+        "url": "https://doi.org/10.1257/aer.20210107",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99572,6 +101687,293 @@
         "pages": "1389–1419",
         "doi": "10.2307/2171741",
         "url": "https://doi.org/10.2307/2171741",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.11",
+    "title": "Web of Science 引文索引数据库（Clarivate，原 ISI / Thomson Reuters）",
+    "links": [
+      {
+        "label": "Web of Science",
+        "url": "https://www.webofscience.com/"
+      }
+    ],
+    "summary": "Clarivate 运营的多学科学术文献与引文数据库，核心合集包括科学引文索引（SCIE，1900 年起）、社会科学引文索引（SSCI）和艺术与人文引文索引，记录论文的作者、机构、期刊、资助信息和完整引用关系，付费机构订阅。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据",
+      "教育数据"
+    ],
+    "introduction": "Web of Science 源自 Eugene Garfield 于 1960 年代创建的科学情报研究所（ISI）的科学引文索引，现由 Clarivate 运营。核心合集收录约 2.1 万种同行评议期刊以及会议录和图书，记录每篇文献的标题、作者及其地址和机构、期刊、发表年份、文献类型、关键词、摘要、资助机构和全部参考文献，可构建作者、机构、期刊和国家层面的引用网络；“科学世纪”回溯库把 SCIE 延伸至 1900 年。数据通过机构订阅在线检索，研究者可经许可获取批量数据或 API，Clarivate 还据此发布期刊影响因子和高被引科学家名单。\n\n数据常用于衡量科学家和机构的科研产出与影响力，研究科学知识的流动、合作网络、明星科学家去世或移民对同行的影响以及科研资助和政策的效果。覆盖以英文期刊为主，作者姓名消歧和机构标准化需要研究者额外处理。",
+    "source": "付费商业（Clarivate 机构订阅）。",
+    "references": [
+      {
+        "raw": "Of Mice and Academics: Examining the Effect of Openness on Innovation",
+        "title": "Of Mice and Academics: Examining the Effect of Openness on Innovation",
+        "authors": [
+          "Fiona Murray",
+          "Philippe Aghion",
+          "Mathias Dewatripont",
+          "Julian Kolev",
+          "Scott Stern"
+        ],
+        "year": 2016,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "8",
+        "issue": "1",
+        "pages": "212–252",
+        "doi": "10.1257/pol.20140062",
+        "url": "https://doi.org/10.1257/pol.20140062",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quality Matters: The Expulsion of Professors and the Consequences for PhD Student Outcomes in Nazi Germany",
+        "title": "Quality Matters: The Expulsion of Professors and the Consequences for PhD Student Outcomes in Nazi Germany",
+        "authors": [
+          "Fabian Waldinger"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "4",
+        "pages": "787–831",
+        "doi": "10.1086/655976",
+        "url": "https://doi.org/10.1086/655976",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Peer Effects in Science: Evidence from the Dismissal of Scientists in Nazi Germany",
+        "title": "Peer Effects in Science: Evidence from the Dismissal of Scientists in Nazi Germany",
+        "authors": [
+          "Fabian Waldinger"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economic Studies",
+        "volume": "79",
+        "issue": "2",
+        "pages": "838–861",
+        "doi": "10.1093/restud/rdr029",
+        "url": "https://doi.org/10.1093/restud/rdr029",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Frontier Knowledge and Scientific Production: Evidence from the Collapse of International Science",
+        "title": "Frontier Knowledge and Scientific Production: Evidence from the Collapse of International Science",
+        "authors": [
+          "Alessandro Iaria",
+          "Carlo Schwarz",
+          "Fabian Waldinger"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "2",
+        "pages": "927–991",
+        "doi": "10.1093/qje/qjx046",
+        "url": "https://doi.org/10.1093/qje/qjx046",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Do Editors Maximize? Evidence from Four Economics Journals",
+        "title": "What Do Editors Maximize? Evidence from Four Economics Journals",
+        "authors": [
+          "David Card",
+          "Stefano DellaVigna"
+        ],
+        "year": 2020,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "1",
+        "pages": "195–217",
+        "doi": "10.1162/rest_a_00839",
+        "url": "https://doi.org/10.1162/rest_a_00839",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Science Advance One Funeral at a Time?",
+        "title": "Does Science Advance One Funeral at a Time?",
+        "authors": [
+          "Pierre Azoulay",
+          "Christian Fons-Rosen",
+          "Joshua S. Graff Zivin"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "8",
+        "pages": "2889–2920",
+        "doi": "10.1257/aer.20161574",
+        "url": "https://doi.org/10.1257/aer.20161574",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Expertise versus Bias in Evaluation: Evidence from the NIH",
+        "title": "Expertise versus Bias in Evaluation: Evidence from the NIH",
+        "authors": [
+          "Danielle Li"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "9",
+        "issue": "2",
+        "pages": "60–92",
+        "doi": "10.1257/app.20150421",
+        "url": "https://doi.org/10.1257/app.20150421",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Which Peers Matter? The Relative Impacts of Collaborators, Colleagues, and Competitors",
+        "title": "Which Peers Matter? The Relative Impacts of Collaborators, Colleagues, and Competitors",
+        "authors": [
+          "George J. Borjas",
+          "Kirk B. Doran"
+        ],
+        "year": 2015,
+        "journal": "Review of Economics and Statistics",
+        "volume": "97",
+        "issue": "5",
+        "pages": "1104–1117",
+        "doi": "10.1162/rest_a_00472",
+        "url": "https://doi.org/10.1162/rest_a_00472",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "University Innovation and the Professor's Privilege",
+        "title": "University Innovation and the Professor's Privilege",
+        "authors": [
+          "Hans K. Hvide",
+          "Benjamin F. Jones"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "7",
+        "pages": "1860–1898",
+        "doi": "10.1257/aer.20160284",
+        "url": "https://doi.org/10.1257/aer.20160284",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.12",
+    "title": "Derwent Innovation / Derwent 世界专利索引（DWPI）",
+    "links": [
+      {
+        "label": "Clarivate: Derwent",
+        "url": "https://clarivate.com/derwent/"
+      }
+    ],
+    "summary": "Clarivate（原汤森路透）运营的专利信息平台，核心是 Derwent 世界专利索引（DWPI），对 50 多个专利局的专利文献重写摘要和标题、统一归并专利族并按技术领域编码，1963 年起，付费订阅。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "Derwent 世界专利索引由 Derwent 公司于 1963 年创建，现属 Clarivate，覆盖美国、欧洲、日本、中国等 50 多个专利发行机构的约 1 亿件专利文献，由技术专家为每个专利族编写英文标题和摘要（说明新颖性、用途和优势），归并跨国同族专利，并赋予 Derwent 分类代码和手工代码；平台（原 Thomson Innovation，现 Derwent Innovation）还提供专利引用、法律状态、受让人标准化和药物专利信息（如 Derwent Drug File）。数据为付费机构订阅。\n\n数据常用于构建跨国专利族、识别同一发明在多国的申请、研究制药和生物技术专利、知识产权保护和技术转移。订阅费用高，研究中常与 PATSTAT 或 PatentsView 互补使用。",
+    "source": "付费商业（Clarivate 订阅；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+        "authors": [
+          "Daron Acemoglu",
+          "Joshua Linn"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "1049–1090",
+        "doi": "10.1162/0033553041502144",
+        "url": "https://doi.org/10.1162/0033553041502144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": [
+          "Bhaven Sampat",
+          "Heidi L. Williams"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "1",
+        "pages": "203–236",
+        "doi": "10.1257/aer.20151398",
+        "url": "https://doi.org/10.1257/aer.20151398",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "title": "America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "12",
+        "pages": "3323–3356",
+        "doi": "10.1257/aer.20221365",
+        "url": "https://doi.org/10.1257/aer.20221365",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.13",
+    "title": "The Lens 开放专利与学术文献平台（含 Patent Lens 生物序列数据）",
+    "links": [
+      {
+        "label": "The Lens",
+        "url": "https://www.lens.org/"
+      }
+    ],
+    "summary": "非营利机构 Cambia 运营的开放平台，整合 100 多个司法管辖区的 1.5 亿多件专利文献和 2 亿多条学术文献记录及其相互引用，提供专利中生物序列的检索文件，免费在线检索和下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "The Lens（原 Patent Lens）由澳大利亚非营利组织 Cambia 创建，整合 USPTO、EPO、WIPO、IP Australia 等专利数据和 Crossref、PubMed、Microsoft Academic/OpenAlex 等学术文献数据，提供专利全文、法律状态、专利族、申请人和发明人、专利对科学文献的引用（PatCite）以及学术文献被专利引用的情况；其 PatSeq 工具提取专利权利要求和说明书中公开的 DNA 和蛋白质序列，可与基因组比对。平台免费检索，非商业用户可批量导出数据和使用 API。\n\n数据常用于研究科学与技术的联系（论文被专利引用）、基因专利的范围和影响、开放科学和专利景观分析。数据整合自多个来源，部分司法管辖区覆盖年份较短。",
+    "source": "公开检索；非商业批量导出和 API 需注册。",
+    "references": [
+      {
+        "raw": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+        "authors": [
+          "Bhaven Sampat",
+          "Heidi L. Williams"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "1",
+        "pages": "203–236",
+        "doi": "10.1257/aer.20151398",
+        "url": "https://doi.org/10.1257/aer.20151398",
         "verified": true,
         "note": ""
       }
@@ -102113,6 +104515,43 @@
         "url": "https://doi.org/10.1086/725703",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Heterogeneous Impact of Market Size on Innovation: Evidence from French Firm-Level Exports",
+        "title": "The Heterogeneous Impact of Market Size on Innovation: Evidence from French Firm-Level Exports",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "Matthieu Lequien",
+          "Marc J. Melitz"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "608–626",
+        "doi": "10.1162/rest_a_01199",
+        "url": "https://doi.org/10.1162/rest_a_01199",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Regulation on Innovation",
+        "title": "The Impact of Regulation on Innovation",
+        "authors": [
+          "Philippe Aghion",
+          "Antonin Bergeaud",
+          "John Van Reenen"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "11",
+        "pages": "2894–2936",
+        "doi": "10.1257/aer.20210107",
+        "url": "https://doi.org/10.1257/aer.20210107",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -103249,6 +105688,154 @@
         "pages": "263–314",
         "doi": "10.1093/qje/qjaf054",
         "url": "https://doi.org/10.1093/qje/qjaf054",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.8",
+    "title": "MathSciNet 数学评论数据库（美国数学会）",
+    "links": [
+      {
+        "label": "MathSciNet",
+        "url": "https://mathscinet.ams.org/"
+      }
+    ],
+    "summary": "美国数学会（AMS）出版的数学文献评论与索引数据库，收录 1940 年以来约 400 多万篇数学论文和著作，按数学主题分类（MSC）编码并经作者消歧，付费机构订阅。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "MathSciNet 是 AMS《数学评论》（Mathematical Reviews，1940 年创刊）的电子数据库，收录全球约 3,000 种期刊以及图书和会议录中的数学研究文献，每条记录包含经人工消歧的作者标识、机构、发表年份、数学学科分类（MSC 2020）、评论或摘要，以及 2000 年以来的参考文献和引用关系，并提供作者档案、合作者距离和期刊引用指标。数据库通过机构订阅访问，研究者可与 AMS 商定获取作者-年份-领域等明细数据。\n\n数据常用于研究数学家的科研产出、合作和领域选择，例如苏联解体后苏联数学家流入对美国数学家产出的影响、同行效应和知识溢出。覆盖局限于数学及相关领域，引用数据只在近年完整。",
+    "source": "付费商业（AMS 机构订阅）。",
+    "references": [
+      {
+        "raw": "Which Peers Matter? The Relative Impacts of Collaborators, Colleagues, and Competitors",
+        "title": "Which Peers Matter? The Relative Impacts of Collaborators, Colleagues, and Competitors",
+        "authors": [
+          "George J. Borjas",
+          "Kirk B. Doran"
+        ],
+        "year": 2015,
+        "journal": "Review of Economics and Statistics",
+        "volume": "97",
+        "issue": "5",
+        "pages": "1104–1117",
+        "doi": "10.1162/rest_a_00472",
+        "url": "https://doi.org/10.1162/rest_a_00472",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.9",
+    "title": "数学谱系项目（Mathematics Genealogy Project）",
+    "links": [
+      {
+        "label": "Mathematics Genealogy Project",
+        "url": "https://www.mathgenealogy.org/"
+      }
+    ],
+    "summary": "北达科他州立大学与美国数学会合作维护的全球数学博士及其导师关系数据库，收录 30 多万名数学家的博士学位、授予院校、年份、论文题目和导师-学生关系，免费在线检索。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "数学谱系项目始于 1996 年，由北达科他州立大学数学系运营并与美国数学会合作，通过学位记录、论文目录和用户提交收集全球数学（含统计、计算机科学、运筹学和部分物理、经济学）博士的信息：姓名、博士学位授予院校、年份、学位论文题目和数学学科分类，以及导师和学生关系，从而可追溯学术谱系，部分记录可追溯到中世纪。数据可在网站免费在线检索。\n\n数据常用于研究学术师承与科学家生产力、导师质量对学生职业的影响、科学人才的国际流动以及学科网络的演变，例如追踪纳粹德国驱逐学者对学生的影响。数据依赖自愿提交，近年和非英语国家的记录可能不完整。",
+    "source": "公开（网站在线检索）。",
+    "references": [
+      {
+        "raw": "Effects of Copyrights on Science: Evidence from the WWII Book Republication Program",
+        "title": "Effects of Copyrights on Science: Evidence from the WWII Book Republication Program",
+        "authors": [
+          "Barbara Biasi",
+          "Petra Moser"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Microeconomics",
+        "volume": "13",
+        "issue": "4",
+        "pages": "218–260",
+        "doi": "10.1257/mic.20190113",
+        "url": "https://doi.org/10.1257/mic.20190113",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Which Peers Matter? The Relative Impacts of Collaborators, Colleagues, and Competitors",
+        "title": "Which Peers Matter? The Relative Impacts of Collaborators, Colleagues, and Competitors",
+        "authors": [
+          "George J. Borjas",
+          "Kirk B. Doran"
+        ],
+        "year": 2015,
+        "journal": "Review of Economics and Statistics",
+        "volume": "97",
+        "issue": "5",
+        "pages": "1104–1117",
+        "doi": "10.1162/rest_a_00472",
+        "url": "https://doi.org/10.1162/rest_a_00472",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.10",
+    "title": "诺贝尔奖提名档案与得主数据（Nobel Prize Nomination Archive）",
+    "links": [
+      {
+        "label": "Nobel Prize: Nomination archive",
+        "url": "https://www.nobelprize.org/nomination/archive/"
+      }
+    ],
+    "summary": "诺贝尔基金会公开的诺贝尔奖提名数据库（物理、化学、生理学或医学、文学、和平奖，提名记录 50 年后解密，覆盖 1901 年至约 1970 年代）和历届得主名单与生平，免费在线检索。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "诺贝尔奖提名档案由诺贝尔基金会与各颁奖机构维护，提名在 50 年保密期满后公开，记录每次提名的年份、奖项类别、被提名人及其国籍和机构、提名人及其机构，以及提名理由摘要，覆盖物理、化学、生理学或医学、文学和和平奖；得主数据库给出 1901 年以来全部得主的获奖年份、获奖理由、出生年月和地点、获奖时所在机构及生平。数据在诺贝尔奖官网免费检索，也提供 API。\n\n数据常用于识别顶尖科学家和高质量科研、研究科学家的创造力年龄、科学人才的地理分布和国际流动，例如衡量一战后国际科学界抵制对德国科学家的影响。提名档案只对 50 年前开放，被提名人身份需要与其他名册匹配。",
+    "source": "公开（诺贝尔奖官网检索与 API）。",
+    "references": [
+      {
+        "raw": "Frontier Knowledge and Scientific Production: Evidence from the Collapse of International Science",
+        "title": "Frontier Knowledge and Scientific Production: Evidence from the Collapse of International Science",
+        "authors": [
+          "Alessandro Iaria",
+          "Carlo Schwarz",
+          "Fabian Waldinger"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "2",
+        "pages": "927–991",
+        "doi": "10.1093/qje/qjx046",
+        "url": "https://doi.org/10.1093/qje/qjx046",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age and Great Invention",
+        "title": "Age and Great Invention",
+        "authors": [
+          "Benjamin F. Jones"
+        ],
+        "year": 2010,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "92",
+        "issue": "1",
+        "pages": "1–14",
+        "doi": "10.1162/rest.2009.11724",
+        "url": "https://doi.org/10.1162/rest.2009.11724",
         "verified": true,
         "note": ""
       }
