@@ -5445,6 +5445,42 @@
         "url": "https://doi.org/10.1086/691978",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "title": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "authors": [
+          "Jonathan A. Libgober",
+          "Ruozi Song"
+        ],
+        "year": 2025,
+        "journal": "SSRN Working Paper",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.2139/ssrn.5219754",
+        "url": "https://doi.org/10.2139/ssrn.5219754",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6641,6 +6677,73 @@
         "pages": "1197–1234",
         "doi": "10.1086/719949",
         "url": "https://doi.org/10.1086/719949",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "title": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "authors": [
+          "Jonathan A. Libgober",
+          "Ruozi Song"
+        ],
+        "year": 2025,
+        "journal": "SSRN Working Paper",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.2139/ssrn.5219754",
+        "url": "https://doi.org/10.2139/ssrn.5219754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "title": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "authors": [
+          "Cody Nehiba"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102915",
+        "doi": "10.1016/j.jeem.2023.102915",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102915",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+        "title": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+        "authors": [
+          "Jackson Dorsey",
+          "Ashley Langer",
+          "Shaun McRae"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "1",
+        "pages": "362–400",
+        "doi": "10.1257/pol.20220130",
+        "url": "https://doi.org/10.1257/pol.20220130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Electric Cars and Solar Panels Complements?",
+        "title": "Are Electric Cars and Solar Panels Complements?",
+        "authors": [
+          "Xueying Lyu"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "1019–1057",
+        "doi": "10.1086/723494",
+        "url": "https://doi.org/10.1086/723494",
         "verified": true,
         "note": ""
       }
@@ -12034,6 +12137,22 @@
         "url": "https://doi.org/10.1257/pol.20170481",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Electric Cars and Solar Panels Complements?",
+        "title": "Are Electric Cars and Solar Panels Complements?",
+        "authors": [
+          "Xueying Lyu"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "1019–1057",
+        "doi": "10.1086/723494",
+        "url": "https://doi.org/10.1086/723494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12110,6 +12229,46 @@
         "pages": "191–234",
         "doi": "10.1086/685597",
         "url": "https://doi.org/10.1086/685597",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.28",
+    "title": "C2ER 生活成本指数（Cost of Living Index）",
+    "links": [
+      {
+        "label": "C2ER",
+        "url": "https://www.c2er.org/"
+      }
+    ],
+    "summary": "社区与经济研究理事会每季度发布的美国约 300 个城市地区的生活成本指数，以及住房、交通、杂货、医疗等约 60 种商品和服务的平均价格。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "生活成本指数（Cost of Living Index，前身为 ACCRA 指数）由社区与经济研究理事会（Council for Community and Economic Research，C2ER）自 1968 年起编制，每季度由各地商会和经济发展机构按统一规格采集约 300 个城市地区约 60 种商品和服务的价格，包括住房租金和房价、汽油、杂货、水电费、医疗和其他服务，计算以全国平均为 100 的综合和分项生活成本指数。数据需订阅或购买，历史数据可回溯到 1990 年代。\n\n数据常用于获取美国城市层面的商品价格，例如以都市区季度汽油价格研究电动车需求和充电站间接网络效应。样本城市由自愿参与的地方机构决定，部分城市存在缺期。",
+    "source": "C2ER 订阅或购买。",
+    "references": [
+      {
+        "raw": "The Market for Electric Vehicles: Indirect Network Effects and Policy Design",
+        "title": "The Market for Electric Vehicles: Indirect Network Effects and Policy Design",
+        "authors": [
+          "Shanjun Li",
+          "Lang Tong",
+          "Jianwei Xing",
+          "Yiyi Zhou"
+        ],
+        "year": 2017,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "4",
+        "issue": "1",
+        "pages": "89–133",
+        "doi": "10.1086/689702",
+        "url": "https://doi.org/10.1086/689702",
         "verified": true,
         "note": ""
       }
@@ -16729,6 +16888,22 @@
         "pages": "688–707",
         "doi": "10.1016/j.jeem.2013.03.004",
         "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "title": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "authors": [
+          "Cody Nehiba"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102915",
+        "doi": "10.1016/j.jeem.2023.102915",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102915",
         "verified": true,
         "note": ""
       }
@@ -21372,6 +21547,22 @@
         "url": "https://doi.org/10.1086/738139",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "title": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "authors": [
+          "Cody Nehiba"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102915",
+        "doi": "10.1016/j.jeem.2023.102915",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102915",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21857,6 +22048,22 @@
         "pages": "41–75",
         "doi": "10.1086/736763",
         "url": "https://doi.org/10.1086/736763",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "title": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "authors": [
+          "Cody Nehiba"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102915",
+        "doi": "10.1016/j.jeem.2023.102915",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102915",
         "verified": true,
         "note": ""
       }
@@ -22979,6 +23186,22 @@
         "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Electric Cars and Solar Panels Complements?",
+        "title": "Are Electric Cars and Solar Panels Complements?",
+        "authors": [
+          "Xueying Lyu"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "1019–1057",
+        "doi": "10.1086/723494",
+        "url": "https://doi.org/10.1086/723494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24061,6 +24284,39 @@
         "url": "https://doi.org/10.1257/000282802762024557",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "title": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "authors": [
+          "Jonathan A. Libgober",
+          "Ruozi Song"
+        ],
+        "year": 2025,
+        "journal": "SSRN Working Paper",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.2139/ssrn.5219754",
+        "url": "https://doi.org/10.2139/ssrn.5219754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Electric Cars and Solar Panels Complements?",
+        "title": "Are Electric Cars and Solar Panels Complements?",
+        "authors": [
+          "Xueying Lyu"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "1019–1057",
+        "doi": "10.1086/723494",
+        "url": "https://doi.org/10.1086/723494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24554,6 +24810,112 @@
         "pages": "S41–S69",
         "doi": "10.1086/732516",
         "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Market for Electric Vehicles: Indirect Network Effects and Policy Design",
+        "title": "The Market for Electric Vehicles: Indirect Network Effects and Policy Design",
+        "authors": [
+          "Shanjun Li",
+          "Lang Tong",
+          "Jianwei Xing",
+          "Yiyi Zhou"
+        ],
+        "year": 2017,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "4",
+        "issue": "1",
+        "pages": "89–133",
+        "doi": "10.1086/689702",
+        "url": "https://doi.org/10.1086/689702",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "title": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "authors": [
+          "Jonathan A. Libgober",
+          "Ruozi Song"
+        ],
+        "year": 2025,
+        "journal": "SSRN Working Paper",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.2139/ssrn.5219754",
+        "url": "https://doi.org/10.2139/ssrn.5219754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "title": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "authors": [
+          "Cody Nehiba"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102915",
+        "doi": "10.1016/j.jeem.2023.102915",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102915",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicles and the Energy Transition: Unintended Consequences of Time-of-Use Pricing",
+        "title": "Electric Vehicles and the Energy Transition: Unintended Consequences of Time-of-Use Pricing",
+        "authors": [
+          "Megan R. Bailey",
+          "David P. Brown",
+          "Erica Myers",
+          "Blake Shaffer",
+          "Frank A. Wolak"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review: Insights",
+        "volume": "7",
+        "issue": "4",
+        "pages": "550–566",
+        "doi": "10.1257/aeri.20240476",
+        "url": "https://doi.org/10.1257/aeri.20240476",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+        "title": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+        "authors": [
+          "Jackson Dorsey",
+          "Ashley Langer",
+          "Shaun McRae"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "1",
+        "pages": "362–400",
+        "doi": "10.1257/pol.20220130",
+        "url": "https://doi.org/10.1257/pol.20220130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Electric Cars and Solar Panels Complements?",
+        "title": "Are Electric Cars and Solar Panels Complements?",
+        "authors": [
+          "Xueying Lyu"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "1019–1057",
+        "doi": "10.1086/723494",
+        "url": "https://doi.org/10.1086/723494",
         "verified": true,
         "note": ""
       }
@@ -25560,6 +25922,22 @@
         "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Electric Cars and Solar Panels Complements?",
+        "title": "Are Electric Cars and Solar Panels Complements?",
+        "authors": [
+          "Xueying Lyu"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "1019–1057",
+        "doi": "10.1086/723494",
+        "url": "https://doi.org/10.1086/723494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25877,6 +26255,22 @@
         "pages": "80–110",
         "doi": "10.1257/pol.20190758",
         "url": "https://doi.org/10.1257/pol.20190758",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "title": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "authors": [
+          "Cody Nehiba"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102915",
+        "doi": "10.1016/j.jeem.2023.102915",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102915",
         "verified": true,
         "note": ""
       }
@@ -26336,6 +26730,22 @@
         "pages": "S85–S122",
         "doi": "10.1086/691978",
         "url": "https://doi.org/10.1086/691978",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Electric Cars and Solar Panels Complements?",
+        "title": "Are Electric Cars and Solar Panels Complements?",
+        "authors": [
+          "Xueying Lyu"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "1019–1057",
+        "doi": "10.1086/723494",
+        "url": "https://doi.org/10.1086/723494",
         "verified": true,
         "note": ""
       }
@@ -28374,6 +28784,142 @@
         "pages": "S41–S69",
         "doi": "10.1086/732516",
         "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "title": "Electric vehicle usage, pollution damages, and the electricity price elasticity of driving",
+        "authors": [
+          "Cody Nehiba"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "124",
+        "issue": "",
+        "pages": "102915",
+        "doi": "10.1016/j.jeem.2023.102915",
+        "url": "https://doi.org/10.1016/j.jeem.2023.102915",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.9.14",
+    "title": "加州空气资源委员会清洁车辆补贴数据（CVRP、Clean Cars 4 All）",
+    "links": [
+      {
+        "label": "CVRP Rebate Statistics",
+        "url": "https://cleanvehiclerebate.org/en/rebate-statistics"
+      },
+      {
+        "label": "CARB Clean Cars 4 All",
+        "url": "https://ww2.arb.ca.gov/our-work/programs/clean-cars-4-all"
+      }
+    ],
+    "summary": "加州空气资源委员会资助的清洁车辆退税项目（CVRP）和低收入车辆以旧换新项目（Clean Cars 4 All）的补贴发放记录，按车型、邮编、县和时间汇总。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据",
+      "能源数据"
+    ],
+    "introduction": "清洁车辆退税项目（Clean Vehicle Rebate Project，CVRP）由加州空气资源委员会（CARB）资助、可持续能源中心（CSE）管理，2010—2023 年向购买或租赁纯电、插电混动和燃料电池汽车的加州居民发放退税，其 Rebate Statistics 页面提供逐笔补贴记录（车型、车辆类别、发放日期、县和邮编、补贴金额、是否提高额度的低收入补贴）及申请者问卷汇总。Clean Cars 4 All 是 CARB 的车辆以旧换新项目，向低收入地区居民提供报废旧车并购买清洁车辆或出行补贴的激励，公布按地区和年度的参与数据。数据免费下载。\n\n数据常用于研究电动车补贴的效果和分布，例如研究电动车共享项目是否挤出或带动周边居民购买电动车，或研究补贴与城市空气污染分布的关系。CVRP 只覆盖申请退税的购车者，高收入者在 2016 年后被设上限排除。",
+    "source": "CVRP 和 CARB 网站免费下载。",
+    "references": [
+      {
+        "raw": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "title": "Electric Vehicle Sharing: Crowding Adoption Out or In?",
+        "authors": [
+          "Jonathan A. Libgober",
+          "Ruozi Song"
+        ],
+        "year": 2025,
+        "journal": "SSRN Working Paper",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.2139/ssrn.5219754",
+        "url": "https://doi.org/10.2139/ssrn.5219754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.9.15",
+    "title": "EPA 机动车排放模拟模型（MOVES）",
+    "links": [
+      {
+        "label": "EPA MOVES",
+        "url": "https://www.epa.gov/moves"
+      }
+    ],
+    "summary": "美国环保署的机动车排放模拟模型及其默认数据库，按县、车型、车龄和道路类型估计车辆行驶里程和各类污染物排放，是州实施计划和国家排放清单的标准工具。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据",
+      "环境数据"
+    ],
+    "introduction": "MOVES（MOtor Vehicle Emission Simulator）由美国环保署（EPA）交通与空气质量办公室开发，自 2010 年起取代 MOBILE6 模型，最新版本为 MOVES5。模型内置的默认数据库包含各县的车辆保有结构、车龄分布、按车型和道路类型分的车辆行驶里程（VMT）、行驶速度分布以及燃料和气象参数，可估计道路和非道路移动源在县、日和小时层面的 CO2、NOx、VOC、PM2.5 等排放和能耗。国家排放清单（NEI）的移动源部分即基于 MOVES 计算。模型和数据库免费下载。\n\n数据常用于估计车辆排放和行驶里程，例如用 MOVES 的县级 VMT 估计电动车替代燃油车带来的局地排放变化，研究电动车的环境效益是否因地区而异。默认数据库的县级输入多为推算值，各州提交的本地数据质量不一。",
+    "source": "EPA 网站免费下载。",
+    "references": [
+      {
+        "raw": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "title": "Are There Environmental Benefits from Driving Electric Vehicles? The Importance of Local Factors",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3700–3729",
+        "doi": "10.1257/aer.20150897",
+        "url": "https://doi.org/10.1257/aer.20150897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Distributional Effects of Air Pollution from Electric Vehicle Adoption",
+        "title": "Distributional Effects of Air Pollution from Electric Vehicle Adoption",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "S1",
+        "pages": "S65–S94",
+        "doi": "10.1086/701188",
+        "url": "https://doi.org/10.1086/701188",
         "verified": true,
         "note": ""
       }
@@ -31105,6 +31651,46 @@
         "pages": "105654",
         "doi": "10.1016/j.jpubeco.2026.105654",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.10",
+    "title": "OPIS 加油站零售油价数据",
+    "links": [
+      {
+        "label": "OPIS",
+        "url": "https://www.opis.com/"
+      }
+    ],
+    "summary": "石油价格信息服务公司收集的美国和加拿大约 13 万座加油站的日度零售汽油和柴油价格及加油站位置、品牌信息。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "商业数据"
+    ],
+    "introduction": "石油价格信息服务（Oil Price Information Service，OPIS，现属道琼斯旗下）通过车队加油卡交易和直接报告等渠道，收集美国和加拿大约 13 万座零售加油站的日度汽油（各标号）和柴油价格，并提供加油站坐标、品牌、所属零售商以及批发架价和现货价格。数据为付费商业产品，学术研究者可通过 OPIS 或 AAA 等渠道购买或申请授权。\n\n数据常用于研究零售燃料市场和消费者加油行为，例如结合车辆行驶轨迹研究司机如何选择加油站，推断对电动车充电站布局的含义。数据覆盖的加油站以使用车队卡的为主，小型独立加油站可能缺失。",
+    "source": "付费商业（链接经搜索确认，网站对自动访问返回验证页）。",
+    "references": [
+      {
+        "raw": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+        "title": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+        "authors": [
+          "Jackson Dorsey",
+          "Ashley Langer",
+          "Shaun McRae"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "1",
+        "pages": "362–400",
+        "doi": "10.1257/pol.20220130",
+        "url": "https://doi.org/10.1257/pol.20220130",
         "verified": true,
         "note": ""
       }
@@ -35503,6 +36089,44 @@
         "pages": "105722",
         "doi": "10.1016/j.jpubeco.2026.105722",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105722",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.20",
+    "title": "挪威 NOBIL 充电站数据库",
+    "links": [
+      {
+        "label": "NOBIL",
+        "url": "https://info.nobil.no/"
+      }
+    ],
+    "summary": "挪威电动车协会和挪威政府机构合作建立的全国公共充电站数据库，记录充电站位置、充电桩数量、功率、接口类型和开放时间，并提供开放 API。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据",
+      "交通数据"
+    ],
+    "introduction": "NOBIL 由挪威电动车协会（Norsk elbilforening）与原 Transnova（现 Enova）于 2010 年合作建立，是挪威公共充电基础设施的官方数据库，后扩展到瑞典和芬兰，记录每个公共充电站的位置坐标、所有者和运营商、充电桩数量、充电功率（普通和快充）、接口标准、开放时间和实时可用状态。数据通过 NOBIL 网站和开放 API 免费获取，部分实时数据需申请 API 密钥。\n\n数据常用于研究挪威电动车市场，例如研究双边市场中电动车购置补贴与充电站补贴的网络外部性和最优补贴结构。早期年份的充电站开放日期需从历史快照中整理。",
+    "source": "NOBIL 网站和 API 免费获取（部分需申请密钥）。",
+    "references": [
+      {
+        "raw": "Network Externality and Subsidy Structure in Two-Sided Markets: Evidence from Electric Vehicle Incentives",
+        "title": "Network Externality and Subsidy Structure in Two-Sided Markets: Evidence from Electric Vehicle Incentives",
+        "authors": [
+          "Katalin Springel"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "13",
+        "issue": "4",
+        "pages": "393–432",
+        "doi": "10.1257/pol.20190131",
+        "url": "https://doi.org/10.1257/pol.20190131",
         "verified": true,
         "note": ""
       }
@@ -41695,6 +42319,22 @@
         "pages": "873–900",
         "doi": "10.1086/709648",
         "url": "https://doi.org/10.1086/709648",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Network Externality and Subsidy Structure in Two-Sided Markets: Evidence from Electric Vehicle Incentives",
+        "title": "Network Externality and Subsidy Structure in Two-Sided Markets: Evidence from Electric Vehicle Incentives",
+        "authors": [
+          "Katalin Springel"
+        ],
+        "year": 2021,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "13",
+        "issue": "4",
+        "pages": "393–432",
+        "doi": "10.1257/pol.20190131",
+        "url": "https://doi.org/10.1257/pol.20190131",
         "verified": true,
         "note": ""
       }
@@ -47949,6 +48589,24 @@
         "pages": "983–1022",
         "doi": "10.1086/732801",
         "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+        "title": "Fueling Alternatives: Gas Station Choice and the Implications for Electric Charging",
+        "authors": [
+          "Jackson Dorsey",
+          "Ashley Langer",
+          "Shaun McRae"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "1",
+        "pages": "362–400",
+        "doi": "10.1257/pol.20220130",
+        "url": "https://doi.org/10.1257/pol.20220130",
         "verified": true,
         "note": ""
       }
