@@ -6030,6 +6030,24 @@
         "url": "https://doi.org/10.1162/qjec.121.1.73",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Information Networks and Collective Action: Evidence from the Women's Temperance Crusade",
+        "title": "Information Networks and Collective Action: Evidence from the Women's Temperance Crusade",
+        "authors": [
+          "Camilo García-Jimeno",
+          "Angel Iglesias",
+          "Pinar Yildirim"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "1",
+        "pages": "41–80",
+        "doi": "10.1257/aer.20180124",
+        "url": "https://doi.org/10.1257/aer.20180124",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7466,6 +7484,59 @@
         "url": "https://doi.org/10.1257/pol.20170570",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Good Are Treatment Effects Without Treatment? Mental Health and the Reluctance to Use Talk Therapy",
+        "title": "What Good Are Treatment Effects Without Treatment? Mental Health and the Reluctance to Use Talk Therapy",
+        "authors": [
+          "Christopher J. Cronin",
+          "Matthew P. Forsstrom",
+          "Nicholas W. Papageorge"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1699–1737",
+        "doi": "10.1093/restud/rdae061",
+        "url": "https://doi.org/10.1093/restud/rdae061",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+        "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "1",
+        "pages": "478–522",
+        "doi": "10.1086/738249",
+        "url": "https://doi.org/10.1086/738249",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The long-run impacts of adolescent drinking: Evidence from Zero Tolerance Laws",
+        "title": "The long-run impacts of adolescent drinking: Evidence from Zero Tolerance Laws",
+        "authors": [
+          "Tatiana Abboud",
+          "Andriana Bellou",
+          "Joshua Lewis"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "231",
+        "issue": "",
+        "pages": "105066",
+        "doi": "10.1016/j.jpubeco.2024.105066",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105066",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7791,6 +7862,42 @@
         "url": "https://doi.org/10.1093/qje/qjaa005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Workplace Smoking Bans Reduce Smoking?",
+        "title": "Do Workplace Smoking Bans Reduce Smoking?",
+        "authors": [
+          "William N. Evans",
+          "Matthew C. Farrelly",
+          "Edward Montgomery"
+        ],
+        "year": 1999,
+        "journal": "American Economic Review",
+        "volume": "89",
+        "issue": "4",
+        "pages": "728–747",
+        "doi": "10.1257/aer.89.4.728",
+        "url": "https://doi.org/10.1257/aer.89.4.728",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Playing with Fire: Cigarettes, Taxes, and Competition from the Internet",
+        "title": "Playing with Fire: Cigarettes, Taxes, and Competition from the Internet",
+        "authors": [
+          "Austan Goolsbee",
+          "Michael F. Lovenheim",
+          "Joel Slemrod"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "1",
+        "pages": "131–154",
+        "doi": "10.1257/pol.2.1.131",
+        "url": "https://doi.org/10.1257/pol.2.1.131",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8085,6 +8192,23 @@
         "url": "https://doi.org/10.1093/restud/rdae080",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Understanding differences in health behaviors by education",
+        "title": "Understanding differences in health behaviors by education",
+        "authors": [
+          "David M. Cutler",
+          "Adriana Lleras-Muney"
+        ],
+        "year": 2010,
+        "journal": "Journal of Health Economics",
+        "volume": "29",
+        "issue": "1",
+        "pages": "1–28",
+        "doi": "10.1016/j.jhealeco.2009.10.003",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8149,6 +8273,57 @@
         "url": "https://doi.org/10.1257/aer.103.2.948",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Workplace Smoking Bans Reduce Smoking?",
+        "title": "Do Workplace Smoking Bans Reduce Smoking?",
+        "authors": [
+          "William N. Evans",
+          "Matthew C. Farrelly",
+          "Edward Montgomery"
+        ],
+        "year": 1999,
+        "journal": "American Economic Review",
+        "volume": "89",
+        "issue": "4",
+        "pages": "728–747",
+        "doi": "10.1257/aer.89.4.728",
+        "url": "https://doi.org/10.1257/aer.89.4.728",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Behavior, Health Knowledge, and Schooling",
+        "title": "Health Behavior, Health Knowledge, and Schooling",
+        "authors": [
+          "Donald S. Kenkel"
+        ],
+        "year": 1991,
+        "journal": "Journal of Political Economy",
+        "volume": "99",
+        "issue": "2",
+        "pages": "287–305",
+        "doi": "10.1086/261751",
+        "url": "https://doi.org/10.1086/261751",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Understanding differences in health behaviors by education",
+        "title": "Understanding differences in health behaviors by education",
+        "authors": [
+          "David M. Cutler",
+          "Adriana Lleras-Muney"
+        ],
+        "year": 2010,
+        "journal": "Journal of Health Economics",
+        "volume": "29",
+        "issue": "1",
+        "pages": "1–28",
+        "doi": "10.1016/j.jhealeco.2009.10.003",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8209,6 +8384,24 @@
         "pages": "1987–2026",
         "doi": "10.1093/restud/rdae080",
         "url": "https://doi.org/10.1093/restud/rdae080",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Good Are Treatment Effects Without Treatment? Mental Health and the Reluctance to Use Talk Therapy",
+        "title": "What Good Are Treatment Effects Without Treatment? Mental Health and the Reluctance to Use Talk Therapy",
+        "authors": [
+          "Christopher J. Cronin",
+          "Matthew P. Forsstrom",
+          "Nicholas W. Papageorge"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1699–1737",
+        "doi": "10.1093/restud/rdae061",
+        "url": "https://doi.org/10.1093/restud/rdae061",
         "verified": true,
         "note": ""
       }
@@ -8423,6 +8616,42 @@
         "pages": "2269–2328",
         "doi": "10.1093/qje/qjaf023",
         "url": "https://doi.org/10.1093/qje/qjaf023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Playing with Fire: Cigarettes, Taxes, and Competition from the Internet",
+        "title": "Playing with Fire: Cigarettes, Taxes, and Competition from the Internet",
+        "authors": [
+          "Austan Goolsbee",
+          "Michael F. Lovenheim",
+          "Joel Slemrod"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "1",
+        "pages": "131–154",
+        "doi": "10.1257/pol.2.1.131",
+        "url": "https://doi.org/10.1257/pol.2.1.131",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The long-run impacts of adolescent drinking: Evidence from Zero Tolerance Laws",
+        "title": "The long-run impacts of adolescent drinking: Evidence from Zero Tolerance Laws",
+        "authors": [
+          "Tatiana Abboud",
+          "Andriana Bellou",
+          "Joshua Lewis"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "231",
+        "issue": "",
+        "pages": "105066",
+        "doi": "10.1016/j.jpubeco.2024.105066",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105066",
         "verified": true,
         "note": ""
       }
@@ -9042,6 +9271,23 @@
         "url": "https://doi.org/10.1016/j.jue.2007.12.002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Understanding differences in health behaviors by education",
+        "title": "Understanding differences in health behaviors by education",
+        "authors": [
+          "David M. Cutler",
+          "Adriana Lleras-Muney"
+        ],
+        "year": 2010,
+        "journal": "Journal of Health Economics",
+        "volume": "29",
+        "issue": "1",
+        "pages": "1–28",
+        "doi": "10.1016/j.jhealeco.2009.10.003",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9305,6 +9551,83 @@
         "pages": "226–253",
         "doi": "10.1257/pol.20170506",
         "url": "https://doi.org/10.1257/pol.20170506",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.28",
+    "title": "O*NET 职业信息网络数据库",
+    "links": [
+      {
+        "label": "O*NET Database",
+        "url": "https://www.onetcenter.org/database.html"
+      }
+    ],
+    "summary": "美国劳工部资助的职业特征数据库，为约 1,000 个职业提供所需技能、能力、知识、工作活动和工作环境的标准化评分，是职业任务研究的标准来源。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "O*NET（Occupational Information Network）由美国劳工部就业与培训管理局资助、北卡罗来纳州 O*NET 开发中心维护，2003 年起取代《职业名称词典》（DOT）。数据库以标准职业分类（O*NET-SOC）为单位，通过对在职者和职业分析师的调查，提供约 1,000 个职业在技能、能力、知识、工作活动、工作情境（如身体负荷、压力、与人接触）、教育培训要求和工作价值观等数百个维度的评分，每年更新部分职业。数据在 O*NET 资源中心免费下载。\n\n数据常用于衡量职业的任务构成，例如构造职业对认知能力、身体能力和心理压力的要求，研究心理健康状况与职业选择和劳动力市场轨迹的关系，或研究常规任务、远程办公可行性和自动化风险。职业评分为职业平均值，不反映同一职业内的岗位差异。",
+    "source": "O*NET 资源中心免费下载。",
+    "references": [
+      {
+        "raw": "A Structural Analysis of Mental Health and Labour Market Trajectories",
+        "title": "A Structural Analysis of Mental Health and Labour Market Trajectories",
+        "authors": [
+          "Grégory Jolivet",
+          "Fabien Postel-Vinay"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1920–1954",
+        "doi": "10.1093/restud/rdae071",
+        "url": "https://doi.org/10.1093/restud/rdae071",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.29",
+    "title": "美国中年发展全国调查（Midlife in the United States，MIDUS）",
+    "links": [
+      {
+        "label": "MIDUS",
+        "url": "https://www.midus.wisc.edu/"
+      }
+    ],
+    "summary": "1995 年起对美国 25—74 岁成人的全国追踪调查，记录身心健康、健康行为、心理社会因素和社会经济状况，部分样本含生物标志物和双胞胎、兄弟姐妹。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "MIDUS 由麦克阿瑟基金会发起、后由美国国家老龄研究所资助、威斯康星大学麦迪逊分校老龄研究所主持，1995—1996 年调查约 7,100 名 25—74 岁的全国代表性成人（含双胞胎和兄弟姐妹子样本），2004—2006 年（MIDUS 2）、2013—2014 年（MIDUS 3）追踪，并于 2011 年补充新样本（MIDUS Refresher）。问卷涵盖慢性病和自评健康、吸烟饮酒和运动、抑郁和幸福感、人格和控制感、社会支持、工作和收入，部分子样本有生物标志物、神经科学和认知测试数据。数据在 ICPSR 和 MIDUS 门户免费下载。\n\n数据常用于研究健康行为和健康不平等的成因，例如检验认知能力、控制感和社会网络等因素能在多大程度上解释不同教育程度人群的健康行为差异。样本相对年长且以白人为主，部分年龄段代表性较弱。",
+    "source": "ICPSR 和 MIDUS 门户免费下载。",
+    "references": [
+      {
+        "raw": "Understanding differences in health behaviors by education",
+        "title": "Understanding differences in health behaviors by education",
+        "authors": [
+          "David M. Cutler",
+          "Adriana Lleras-Muney"
+        ],
+        "year": 2010,
+        "journal": "Journal of Health Economics",
+        "volume": "29",
+        "issue": "1",
+        "pages": "1–28",
+        "doi": "10.1016/j.jhealeco.2009.10.003",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
         "verified": true,
         "note": ""
       }
@@ -12849,6 +13172,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105073",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Playing with Fire: Cigarettes, Taxes, and Competition from the Internet",
+        "title": "Playing with Fire: Cigarettes, Taxes, and Competition from the Internet",
+        "authors": [
+          "Austan Goolsbee",
+          "Michael F. Lovenheim",
+          "Joel Slemrod"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "1",
+        "pages": "131–154",
+        "doi": "10.1257/pol.2.1.131",
+        "url": "https://doi.org/10.1257/pol.2.1.131",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13871,6 +14212,24 @@
         "url": "https://doi.org/10.1162/003355399556070",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Heterogeneous Geographic and Socioeconomic Incidence of Cigarette Taxes: Evidence from Nielsen Homescan Data",
+        "title": "The Heterogeneous Geographic and Socioeconomic Incidence of Cigarette Taxes: Evidence from Nielsen Homescan Data",
+        "authors": [
+          "Matthew Harding",
+          "Ephraim Leibtag",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "4",
+        "issue": "4",
+        "pages": "169–198",
+        "doi": "10.1257/pol.4.4.169",
+        "url": "https://doi.org/10.1257/pol.4.4.169",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14786,6 +15145,46 @@
         "pages": "41–75",
         "doi": "10.1086/736763",
         "url": "https://doi.org/10.1086/736763",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.5.19",
+    "title": "Atack 美国历史铁路网与交通 GIS 数据",
+    "links": [
+      {
+        "label": "Jeremy Atack data downloads",
+        "url": "https://my.vanderbilt.edu/jeremyatack/data-downloads/"
+      }
+    ],
+    "summary": "范德堡大学 Jeremy Atack 整理的 1826—1911 年美国铁路网、运河和通航水道的逐年 GIS 矢量数据，以及县级交通可达性指标。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "交通数据"
+    ],
+    "introduction": "Jeremy Atack（范德堡大学）基于历史铁路地图和《官方铁路指南》等资料，数字化了 1826—1911 年美国铁路线路逐年的建成情况，并整理了运河、通航河流和蒸汽船航线的 GIS 图层，提供各县各年份是否通铁路、铁路里程等派生指标。数据在 Atack 个人网站免费下载。\n\n数据是美国经济史研究中衡量交通网络的标准来源，例如用 1870 年的铁路网络构造城镇之间的信息联系，研究妇女禁酒运动沿铁路和电报网络的扩散。早期年份的线路位置精度有限，部分支线可能缺失。",
+    "source": "作者网站免费下载。",
+    "references": [
+      {
+        "raw": "Information Networks and Collective Action: Evidence from the Women's Temperance Crusade",
+        "title": "Information Networks and Collective Action: Evidence from the Women's Temperance Crusade",
+        "authors": [
+          "Camilo García-Jimeno",
+          "Angel Iglesias",
+          "Pinar Yildirim"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "1",
+        "pages": "41–80",
+        "doi": "10.1257/aer.20180124",
+        "url": "https://doi.org/10.1257/aer.20180124",
         "verified": true,
         "note": ""
       }
@@ -29253,6 +29652,24 @@
         "url": "https://doi.org/10.1016/j.jue.2013.11.002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Good Are Treatment Effects Without Treatment? Mental Health and the Reluctance to Use Talk Therapy",
+        "title": "What Good Are Treatment Effects Without Treatment? Mental Health and the Reluctance to Use Talk Therapy",
+        "authors": [
+          "Christopher J. Cronin",
+          "Matthew P. Forsstrom",
+          "Nicholas W. Papageorge"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1699–1737",
+        "doi": "10.1093/restud/rdae061",
+        "url": "https://doi.org/10.1093/restud/rdae061",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29770,6 +30187,23 @@
         "url": "https://doi.org/10.1257/aer.20240226",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Understanding differences in health behaviors by education",
+        "title": "Understanding differences in health behaviors by education",
+        "authors": [
+          "David M. Cutler",
+          "Adriana Lleras-Muney"
+        ],
+        "year": 2010,
+        "journal": "Journal of Health Economics",
+        "volume": "29",
+        "issue": "1",
+        "pages": "1–28",
+        "doi": "10.1016/j.jhealeco.2009.10.003",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29807,6 +30241,24 @@
         "pages": "135–154",
         "doi": "10.1016/S0047-2727(98)00090-5",
         "url": "https://doi.org/10.1016/S0047-2727(98)00090-5",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Playing with Fire: Cigarettes, Taxes, and Competition from the Internet",
+        "title": "Playing with Fire: Cigarettes, Taxes, and Competition from the Internet",
+        "authors": [
+          "Austan Goolsbee",
+          "Michael F. Lovenheim",
+          "Joel Slemrod"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "1",
+        "pages": "131–154",
+        "doi": "10.1257/pol.2.1.131",
+        "url": "https://doi.org/10.1257/pol.2.1.131",
         "verified": true,
         "note": ""
       }
@@ -29978,6 +30430,121 @@
         "pages": "385–404",
         "doi": "10.1016/j.jue.2007.12.002",
         "url": "https://doi.org/10.1016/j.jue.2007.12.002",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.21",
+    "title": "蓝十字蓝盾 Axis 商业医疗保险理赔数据（BCBS Axis）",
+    "links": [],
+    "summary": "蓝十字蓝盾协会汇集各成员保险公司的商业医保理赔和参保数据，覆盖大量美国商业保险参保人，研究者通过 BCBS 研究合作项目以受限数据集形式使用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "商业数据"
+    ],
+    "introduction": "BCBS Axis 是蓝十字蓝盾协会（Blue Cross Blue Shield Association）建立的数据平台，汇总全国 30 多家 BCBS 成员公司的商业医疗保险参保信息和医疗、药品理赔记录，覆盖逾一亿名参保人，包括诊断和处方编码、门诊和住院服务、医生标识、费用和参保人居住地邮编。数据不公开，学术研究者需通过 BCBS 健康研究合作项目或合作机构申请，以去标识的受限数据集使用。\n\n数据常用于研究商业保险人群的医疗服务利用，例如比较青少年精神疾病的诊断和处方治疗，研究医生在指南规则与个人判断之间的差异。数据只覆盖 BCBS 商业参保人，不包括 Medicaid 和无保险人群。",
+    "source": "受限：通过 BCBS 研究合作项目申请。",
+    "references": [
+      {
+        "raw": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+        "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "1",
+        "pages": "478–522",
+        "doi": "10.1086/738249",
+        "url": "https://doi.org/10.1086/738249",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.22",
+    "title": "IQVIA 美国处方药数据（LRx 零售处方等）",
+    "links": [
+      {
+        "label": "IQVIA",
+        "url": "https://www.iqvia.com/"
+      }
+    ],
+    "summary": "IQVIA（原 IMS Health）从美国大部分零售药房收集的处方配药记录，可追踪患者和开方医生层面的药品使用，研究者需付费购买或经合作获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "商业数据"
+    ],
+    "introduction": "IQVIA（2016 年由 IMS Health 与 Quintiles 合并而成）通过与零售药房、邮购药房和长期护理药房的数据协议，收集覆盖美国约 90% 零售处方的配药记录（LRx），包括去标识的患者编号、药品、剂量和天数、开方医生的 NPI 和专科、支付方类型，以及国家处方审计（NPA）等汇总产品。数据为付费商业产品，学术研究者可通过 IQVIA 学术合作项目或机构购买使用。\n\n数据常用于研究处方行为和药品市场，例如描述不同地区医生对青少年精神药物的开方差异，或研究阿片类药物的处方模式。数据不含诊断信息，需与理赔数据结合判断用药原因。",
+    "source": "付费商业（IQVIA 学术合作或购买）。",
+    "references": [
+      {
+        "raw": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+        "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "1",
+        "pages": "478–522",
+        "doi": "10.1086/738249",
+        "url": "https://doi.org/10.1086/738249",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.23",
+    "title": "国家医疗服务提供者标识系统（NPPES / NPI Registry）",
+    "links": [
+      {
+        "label": "NPPES Downloadable File",
+        "url": "https://download.cms.gov/nppes/NPI_Files.html"
+      },
+      {
+        "label": "NPI Registry",
+        "url": "https://npiregistry.cms.hhs.gov/"
+      }
+    ],
+    "summary": "美国 CMS 管理的全部医疗服务提供者国家标识号（NPI）登记库，记录医生、机构的执业地址、专科分类和执照信息，全量文件每月免费公开。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "国家医疗服务提供者标识系统（National Plan and Provider Enumeration System，NPPES）由美国医疗保险和医疗补助服务中心（CMS）依据 HIPAA 于 2007 年起实施，为所有参与电子理赔的医生、护士、药房、医院等个人和机构分配唯一的国家提供者标识号（NPI），记录姓名、执业和通信地址、医疗服务提供者分类代码（专科）、执照号和发证州、登记和更新日期。全量 NPI 文件每月在 CMS 网站免费下载，并提供在线查询（NPI Registry）。\n\n数据常用于识别医生的专科和执业地点，并把理赔、处方数据中的医生 NPI 与其特征匹配，例如研究精神科医生和儿科医生对青少年精神疾病的不同治疗方式。专科分类由提供者自报，地址更新可能滞后。",
+    "source": "CMS 网站每月免费下载。",
+    "references": [
+      {
+        "raw": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+        "title": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "1",
+        "pages": "478–522",
+        "doi": "10.1086/738249",
+        "url": "https://doi.org/10.1086/738249",
         "verified": true,
         "note": ""
       }
@@ -30218,6 +30785,22 @@
         "pages": "106–134",
         "doi": "10.1257/pol.20230247",
         "url": "https://doi.org/10.1257/pol.20230247",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Punishment and Deterrence: Evidence from Drunk Driving",
+        "title": "Punishment and Deterrence: Evidence from Drunk Driving",
+        "authors": [
+          "Benjamin Hansen"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "4",
+        "pages": "1581–1617",
+        "doi": "10.1257/aer.20130189",
+        "url": "https://doi.org/10.1257/aer.20130189",
         "verified": true,
         "note": ""
       }
@@ -31693,6 +32276,24 @@
         "url": "https://doi.org/10.1016/j.jeem.2026.103310",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The long-run impacts of adolescent drinking: Evidence from Zero Tolerance Laws",
+        "title": "The long-run impacts of adolescent drinking: Evidence from Zero Tolerance Laws",
+        "authors": [
+          "Tatiana Abboud",
+          "Andriana Bellou",
+          "Joshua Lewis"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "231",
+        "issue": "",
+        "pages": "105066",
+        "doi": "10.1016/j.jpubeco.2024.105066",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105066",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32100,6 +32701,45 @@
         "pages": "292–324",
         "doi": "10.1257/pol.20170570",
         "url": "https://doi.org/10.1257/pol.20170570",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.17",
+    "title": "美国国会图书馆历史报纸数据库（Chronicling America）",
+    "links": [
+      {
+        "label": "Chronicling America",
+        "url": "https://chroniclingamerica.loc.gov/"
+      }
+    ],
+    "summary": "美国国会图书馆与国家人文基金会合作数字化的 1770—1963 年美国历史报纸全文库，含数千种报纸的版面图像和 OCR 文本，可免费检索和通过 API 批量下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "Chronicling America 是美国国会图书馆与国家人文基金会（NEH）的国家数字报纸项目（NDNP）成果，各州合作机构选取本州历史报纸进行数字化，目前收录 1770—1963 年约 4,000 种报纸、逾 2,000 万个版面，提供版面图像、OCR 全文和报纸名录（含出版地、出版周期和存续年份）。网站可免费全文检索，并提供 API 和批量下载。\n\n数据常用于用文本衡量历史事件和信息传播，例如统计 19 世纪各地报纸对妇女禁酒运动的报道，研究信息网络对集体行动扩散的作用。数字化范围取决于各州参与情况，OCR 质量参差不齐。",
+    "source": "网站和 API 免费获取（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Information Networks and Collective Action: Evidence from the Women's Temperance Crusade",
+        "title": "Information Networks and Collective Action: Evidence from the Women's Temperance Crusade",
+        "authors": [
+          "Camilo García-Jimeno",
+          "Angel Iglesias",
+          "Pinar Yildirim"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "1",
+        "pages": "41–80",
+        "doi": "10.1257/aer.20180124",
+        "url": "https://doi.org/10.1257/aer.20180124",
         "verified": true,
         "note": ""
       }
@@ -34029,7 +34669,26 @@
     ],
     "introduction": "Nielsen/NielsenIQ 的零售与消费数据在学术界主要通过芝加哥大学布斯商学院 Kilts 营销中心提供。主要产品包括 NielsenIQ Retail Scanner（2006 年起，来自 90 多家零售连锁的每周商品价格、销量及门店信息）和 NielsenIQ Consumer Panel（2004 年起，约 4 万至 6 万户家庭的日用消费品购买记录），另有 Nielsen Ad Intel 广告数据等。\n\n扫描数据、家庭面板和门店数据属于不同产品，观测单位分别为商品×门店×周和家庭×购买，覆盖范围与权重需分别说明。研究中常用于需求估计、价格设定、市场结构及政策（如税收、补贴）对消费和价格的影响。\n\n获取需机构与布斯商学院签订订阅合同，之后个人研究者注册，且仅限终身或长聘轨教员、博士生和博士后等。数据使用须符合提供方的引用与披露条款，不得公开原始门店、商品和家庭记录。",
     "source": "学术访问可核对芝加哥大学 Kilts Center 与供应方的正式订阅及资格安排，其他访问依相应商业合同。不得把机构订阅等同于团队外共享或公开原始门店、商品和家庭记录的许可。",
-    "references": []
+    "references": [
+      {
+        "raw": "The Heterogeneous Geographic and Socioeconomic Incidence of Cigarette Taxes: Evidence from Nielsen Homescan Data",
+        "title": "The Heterogeneous Geographic and Socioeconomic Incidence of Cigarette Taxes: Evidence from Nielsen Homescan Data",
+        "authors": [
+          "Matthew Harding",
+          "Ephraim Leibtag",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2012,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "4",
+        "issue": "4",
+        "pages": "169–198",
+        "doi": "10.1257/pol.4.4.169",
+        "url": "https://doi.org/10.1257/pol.4.4.169",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.13.2",
@@ -37721,6 +38380,24 @@
         "url": "https://doi.org/10.1257/aer.20231521",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Career Effects of Mental Health: Evidence from An Innovation in Treating Bipolar Disorder",
+        "title": "Career Effects of Mental Health: Evidence from An Innovation in Treating Bipolar Disorder",
+        "authors": [
+          "Barbara Biasi",
+          "Michael S. Dahl",
+          "Petra Moser"
+        ],
+        "year": 2027,
+        "journal": "American Economic Journal: Microeconomics (forthcoming)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/737572",
+        "url": "https://doi.org/10.1086/737572",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38304,6 +38981,62 @@
         "pages": "611–636",
         "doi": "10.1093/ej/ueae091",
         "url": "https://doi.org/10.1093/ej/ueae091",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Structural Analysis of Mental Health and Labour Market Trajectories",
+        "title": "A Structural Analysis of Mental Health and Labour Market Trajectories",
+        "authors": [
+          "Grégory Jolivet",
+          "Fabien Postel-Vinay"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1920–1954",
+        "doi": "10.1093/restud/rdae071",
+        "url": "https://doi.org/10.1093/restud/rdae071",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.14",
+    "title": "英国出生队列研究（NCDS 1958、BCS70 等，CLS）",
+    "links": [
+      {
+        "label": "UCL Centre for Longitudinal Studies",
+        "url": "https://cls.ucl.ac.uk/"
+      }
+    ],
+    "summary": "UCL 纵向研究中心管理的英国全国出生队列追踪调查，包括 1958 年出生的国家儿童发展研究（NCDS）和 1970 年英国队列研究（BCS70）等，从出生追踪至中老年。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "国家儿童发展研究（National Child Development Study，NCDS）追踪 1958 年 3 月某一周在英格兰、苏格兰和威尔士出生的约 17,000 人，1970 年英国队列研究（BCS70）追踪 1970 年某一周出生的约 17,000 人，二者由伦敦大学学院（UCL）纵向研究中心（CLS）管理，从出生时的围产期调查开始，在童年、青少年和成年阶段多次追访，记录认知测试成绩、学校教育、家庭背景、健康和健康行为、就业、收入和家庭形成。数据经 UK Data Service 注册后免费下载，部分敏感变量需特别许可。\n\n数据常用于研究早期因素对成年结果的长期影响，例如比较英美不同教育程度人群的健康行为差异及其成因。追踪数十年后样本流失明显，需使用权重或处理缺失。",
+    "source": "UK Data Service 注册免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Understanding differences in health behaviors by education",
+        "title": "Understanding differences in health behaviors by education",
+        "authors": [
+          "David M. Cutler",
+          "Adriana Lleras-Muney"
+        ],
+        "year": 2010,
+        "journal": "Journal of Health Economics",
+        "volume": "29",
+        "issue": "1",
+        "pages": "1–28",
+        "doi": "10.1016/j.jhealeco.2009.10.003",
+        "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
         "verified": true,
         "note": ""
       }
@@ -39002,6 +39735,22 @@
         "url": "https://doi.org/10.1016/j.jhealeco.2011.02.003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Obesity, Poverty and Public Policy",
+        "title": "Obesity, Poverty and Public Policy",
+        "authors": [
+          "Rachel Griffith"
+        ],
+        "year": 2022,
+        "journal": "The Economic Journal",
+        "volume": "132",
+        "issue": "644",
+        "pages": "1235–1258",
+        "doi": "10.1093/ej/ueac013",
+        "url": "https://doi.org/10.1093/ej/ueac013",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39039,6 +39788,44 @@
         "pages": "2137–2172",
         "doi": "10.1257/aer.20161343",
         "url": "https://doi.org/10.1257/aer.20161343",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.9",
+    "title": "德国区域数据库（Regionaldatenbank Deutschland）",
+    "links": [
+      {
+        "label": "Regionaldatenbank Deutschland",
+        "url": "https://www.regionalstatistik.de/"
+      }
+    ],
+    "summary": "德国联邦和各州统计局联合维护的县市级官方统计数据库，提供人口、就业和失业、GDP、教育、住房、交通事故等指标的年度数据。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "德国区域数据库（Regionaldatenbank Deutschland）由联邦统计局和各州统计局共同建设，基于 GENESIS 系统发布约 400 个县和县级市以及市镇层面的官方统计，涵盖人口和人口变动、劳动力市场和失业、国民经济核算（地区 GDP 和总增加值）、教育、社会救助、住房建设、农业、交通事故和选举结果等，多数指标可追溯到 1990 年代中期。数据可在线检索和免费下载，提供 API。\n\n数据常用于德国区域层面的控制变量，例如在研究巴登-符腾堡州夜间禁售酒类对酒精相关住院的影响时，控制各县人口、失业率和 GDP。行政区划调整导致部分县的时间序列需要换算。",
+    "source": "网站免费下载与 API。",
+    "references": [
+      {
+        "raw": "Reducing binge drinking? The effect of a ban on late-night off-premise alcohol sales on alcohol-related hospital stays in Germany",
+        "title": "Reducing binge drinking? The effect of a ban on late-night off-premise alcohol sales on alcohol-related hospital stays in Germany",
+        "authors": [
+          "Jan Marcus",
+          "Thomas Siedler"
+        ],
+        "year": 2015,
+        "journal": "Journal of Public Economics",
+        "volume": "123",
+        "issue": "",
+        "pages": "55–77",
+        "doi": "10.1016/j.jpubeco.2014.12.010",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.12.010",
         "verified": true,
         "note": ""
       }
@@ -41426,6 +42213,81 @@
     ]
   },
   {
+    "id": "3.8.5",
+    "title": "德国医院诊断统计（Krankenhausdiagnosestatistik，统计局研究数据中心）",
+    "links": [
+      {
+        "label": "FDZ 联邦与州统计局研究数据中心（健康）",
+        "url": "https://www.forschungsdatenzentrum.de/en/health"
+      }
+    ],
+    "summary": "德国联邦统计局对全国医院全部住院病例的年度统计，记录主要诊断、年龄、性别、住院时长和患者居住县，微观数据经联邦和州统计局研究数据中心提供。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "德国医院诊断统计由联邦统计局和各州统计局依据医院统计法收集，自 1993 年起覆盖全国所有医院的出院病例（每年约 1,900 万例），记录 ICD-10 主要诊断、患者年龄、性别、居住地县代码、入院和出院日期、住院天数和出院方式。研究者可通过联邦和州统计局研究数据中心（FDZ）申请微观数据，常用的是 70% 随机样本的科学用途文件，或在安全环境中远程分析全量数据；按诊断和地区汇总的统计在 GENESIS 数据库公开。\n\n数据常用于研究政策对健康的影响，例如利用巴登-符腾堡州 2010 年禁止夜间零售酒类，研究其对青少年和年轻人酒精中毒住院的影响。只包括住院病例，门诊和急诊未住院者不在其中。",
+    "source": "受限：向统计局研究数据中心申请；汇总统计公开。",
+    "references": [
+      {
+        "raw": "Reducing binge drinking? The effect of a ban on late-night off-premise alcohol sales on alcohol-related hospital stays in Germany",
+        "title": "Reducing binge drinking? The effect of a ban on late-night off-premise alcohol sales on alcohol-related hospital stays in Germany",
+        "authors": [
+          "Jan Marcus",
+          "Thomas Siedler"
+        ],
+        "year": 2015,
+        "journal": "Journal of Public Economics",
+        "volume": "123",
+        "issue": "",
+        "pages": "55–77",
+        "doi": "10.1016/j.jpubeco.2014.12.010",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.12.010",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.8.6",
+    "title": "英格兰全国儿童测量计划（NCMP）与 NHS Digital 肥胖统计",
+    "links": [
+      {
+        "label": "NCMP statistics",
+        "url": "https://digital.nhs.uk/data-and-information/publications/statistical/national-child-measurement-programme"
+      }
+    ],
+    "summary": "英格兰对公立小学学前班和六年级儿童每年测量身高体重的全国计划，以及 NHS Digital 汇编的肥胖、体育活动和饮食统计年报。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "全国儿童测量计划（National Child Measurement Programme，NCMP）自 2006/07 学年起每年测量英格兰公立小学学前班（4—5 岁）和六年级（10—11 岁）约 100 万名儿童的身高和体重，计算超重和肥胖比例，由 NHS Digital（现并入 NHS England）按地方政府、选区和剥夺程度发布统计；NHS Digital 还每年出版《肥胖、体育活动与饮食统计》，汇总英格兰健康调查等来源的成人和儿童指标。汇总数据免费下载，儿童层面的去标识数据需申请。\n\n数据常用于描述肥胖的社会经济梯度，例如比较不同剥夺程度地区儿童肥胖率的差异和变化，讨论肥胖、贫困与公共政策的关系。测量只覆盖两个年级，部分家长选择退出。",
+    "source": "NHS England 网站免费下载（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Obesity, Poverty and Public Policy",
+        "title": "Obesity, Poverty and Public Policy",
+        "authors": [
+          "Rachel Griffith"
+        ],
+        "year": 2022,
+        "journal": "The Economic Journal",
+        "volume": "132",
+        "issue": "644",
+        "pages": "1235–1258",
+        "doi": "10.1093/ej/ueac013",
+        "url": "https://doi.org/10.1093/ej/ueac013",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.9.1",
     "title": "法国全国交通与出行调查（ENTD / EMP）",
     "links": [
@@ -41831,6 +42693,43 @@
         "pages": "105722",
         "doi": "10.1016/j.jpubeco.2026.105722",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105722",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.13.1",
+    "title": "Kantar 英国家庭快消品购买面板（Kantar Worldpanel / FMCG Purchase Panel）",
+    "links": [
+      {
+        "label": "Kantar",
+        "url": "https://www.kantar.com/"
+      }
+    ],
+    "summary": "Kantar 在英国约 3 万户家庭中持续记录的食品饮料等快消品购买数据，家庭用手持扫描仪记录每次购买的商品条码、数量和价格。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "Kantar Worldpanel（现为 Worldpanel by Numerator）英国家庭面板由约 3 万户代表性家庭组成，家庭成员用手持扫描仪或手机应用记录带回家的所有食品、饮料和日用品购买，包括商品条码、数量、价格、商店和促销，可结合营养成分数据计算家庭的热量和营养摄入；另有记录在外消费的个人面板。数据为付费商业产品，学术研究者通常通过与 Kantar 的合作协议获取。\n\n数据常用于研究英国家庭的饮食结构和食品政策，例如描述不同收入家庭的热量和营养摄入差异，评估糖税和食品促销限制的效果。面板只记录带回家的购买，在外就餐需另行补充。",
+    "source": "付费商业（Kantar 合作协议）。",
+    "references": [
+      {
+        "raw": "Obesity, Poverty and Public Policy",
+        "title": "Obesity, Poverty and Public Policy",
+        "authors": [
+          "Rachel Griffith"
+        ],
+        "year": 2022,
+        "journal": "The Economic Journal",
+        "volume": "132",
+        "issue": "644",
+        "pages": "1235–1258",
+        "doi": "10.1093/ej/ueac013",
+        "url": "https://doi.org/10.1093/ej/ueac013",
         "verified": true,
         "note": ""
       }
@@ -49457,6 +50356,25 @@
         "pages": "781–820",
         "doi": "10.1111/ecoj.12186",
         "url": "https://doi.org/10.1111/ecoj.12186",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reducing Child Mortality in the Last Mile: Experimental Evidence on Community Health Promoters in Uganda",
+        "title": "Reducing Child Mortality in the Last Mile: Experimental Evidence on Community Health Promoters in Uganda",
+        "authors": [
+          "Martina Björkman Nyqvist",
+          "Andrea Guariso",
+          "Jakob Svensson",
+          "David Yanagizawa-Drott"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "155–192",
+        "doi": "10.1257/app.20170201",
+        "url": "https://doi.org/10.1257/app.20170201",
         "verified": true,
         "note": ""
       }
@@ -62301,6 +63219,22 @@
         "pages": "102901",
         "doi": "10.1016/j.jeem.2023.102901",
         "url": "https://doi.org/10.1016/j.jeem.2023.102901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Obesity, Poverty and Public Policy",
+        "title": "Obesity, Poverty and Public Policy",
+        "authors": [
+          "Rachel Griffith"
+        ],
+        "year": 2022,
+        "journal": "The Economic Journal",
+        "volume": "132",
+        "issue": "644",
+        "pages": "1235–1258",
+        "doi": "10.1093/ej/ueac013",
+        "url": "https://doi.org/10.1093/ej/ueac013",
         "verified": true,
         "note": ""
       }
