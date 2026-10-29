@@ -1262,6 +1262,23 @@
         "url": "https://doi.org/10.3368/jhr.0421-11629r2",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7624,6 +7641,42 @@
         "url": "https://doi.org/10.1257/aer.97.3.713",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Plants in Space",
+        "title": "Plants in Space",
+        "authors": [
+          "Ezra Oberfield",
+          "Esteban Rossi-Hansberg",
+          "Pierre-Daniel Sarte",
+          "Nicholas Trachter"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "3",
+        "pages": "867–909",
+        "doi": "10.1086/726907",
+        "url": "https://doi.org/10.1086/726907",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Life-Cycle Prices and Production",
+        "title": "Life-Cycle Prices and Production",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "American Economic Review",
+        "volume": "97",
+        "issue": "5",
+        "pages": "1533–1559",
+        "doi": "10.1257/aer.97.5.1533",
+        "url": "https://doi.org/10.1257/aer.97.5.1533",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8376,6 +8429,23 @@
         "pages": "1648–1683",
         "doi": "10.1257/aer.20170491",
         "url": "https://doi.org/10.1257/aer.20170491",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Customer Capital",
+        "title": "Customer Capital",
+        "authors": [
+          "François Gourio",
+          "Leena Rudanko"
+        ],
+        "year": 2014,
+        "journal": "The Review of Economic Studies",
+        "volume": "81",
+        "issue": "3",
+        "pages": "1102–1136",
+        "doi": "10.1093/restud/rdu007",
+        "url": "https://doi.org/10.1093/restud/rdu007",
         "verified": true,
         "note": ""
       }
@@ -9745,6 +9815,77 @@
         "url": "https://doi.org/10.1257/aer.20180071",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Plants in Space",
+        "title": "Plants in Space",
+        "authors": [
+          "Ezra Oberfield",
+          "Esteban Rossi-Hansberg",
+          "Pierre-Daniel Sarte",
+          "Nicholas Trachter"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "3",
+        "pages": "867–909",
+        "doi": "10.1086/726907",
+        "url": "https://doi.org/10.1086/726907",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Uniform Pricing in U.S. Retail Chains",
+        "title": "Uniform Pricing in U.S. Retail Chains",
+        "authors": [
+          "Stefano DellaVigna",
+          "Matthew Gentzkow"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "4",
+        "pages": "2011–2084",
+        "doi": "10.1093/qje/qjz019",
+        "url": "https://doi.org/10.1093/qje/qjz019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do National Firms Respond to Local Cost Shocks?",
+        "title": "How Do National Firms Respond to Local Cost Shocks?",
+        "authors": [
+          "R. Andrew Butters",
+          "Daniel W. Sacks",
+          "Boyoung Seo"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "5",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20201524",
+        "url": "https://doi.org/10.1257/aer.20201524",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices, Local Demand, and Retail Prices",
+        "title": "House Prices, Local Demand, and Retail Prices",
+        "authors": [
+          "Johannes Stroebel",
+          "Joseph Vavra"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1391–1436",
+        "doi": "10.1086/701422",
+        "url": "https://doi.org/10.1086/701422",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10445,6 +10586,25 @@
         "url": "https://doi.org/10.1257/aer.20190690",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Production and Learning in Teams",
+        "title": "Production and Learning in Teams",
+        "authors": [
+          "Kyle Herkenhoff",
+          "Jeremy Lise",
+          "Guido Menzio",
+          "Gordon M. Phillips"
+        ],
+        "year": 2024,
+        "journal": "Econometrica",
+        "volume": "92",
+        "issue": "2",
+        "pages": "467–504",
+        "doi": "10.3982/ecta16748",
+        "url": "https://doi.org/10.3982/ecta16748",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10712,6 +10872,23 @@
         "url": "https://www.jstor.org/stable/1806062",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Life-Cycle Prices and Production",
+        "title": "Life-Cycle Prices and Production",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "American Economic Review",
+        "volume": "97",
+        "issue": "5",
+        "pages": "1533–1559",
+        "doi": "10.1257/aer.97.5.1533",
+        "url": "https://doi.org/10.1257/aer.97.5.1533",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10955,6 +11132,40 @@
         "pages": "1118–1146",
         "doi": "10.1257/aer.20151260",
         "url": "https://doi.org/10.1257/aer.20151260",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Life-Cycle Prices and Production",
+        "title": "Life-Cycle Prices and Production",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "American Economic Review",
+        "volume": "97",
+        "issue": "5",
+        "pages": "1533–1559",
+        "doi": "10.1257/aer.97.5.1533",
+        "url": "https://doi.org/10.1257/aer.97.5.1533",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
       }
@@ -11475,6 +11686,23 @@
         "url": "https://doi.org/10.1093/restud/rdab086",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11687,6 +11915,23 @@
         "url": "https://doi.org/10.1093/restud/rdae103",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11758,6 +12003,40 @@
         "pages": "72–87",
         "doi": "10.1162/rest_a_00879",
         "url": "https://doi.org/10.1162/rest_a_00879",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Customer Capital",
+        "title": "Customer Capital",
+        "authors": [
+          "François Gourio",
+          "Leena Rudanko"
+        ],
+        "year": 2014,
+        "journal": "The Review of Economic Studies",
+        "volume": "81",
+        "issue": "3",
+        "pages": "1102–1136",
+        "doi": "10.1093/restud/rdu007",
+        "url": "https://doi.org/10.1093/restud/rdu007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Life-Cycle Prices and Production",
+        "title": "Life-Cycle Prices and Production",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "American Economic Review",
+        "volume": "97",
+        "issue": "5",
+        "pages": "1533–1559",
+        "doi": "10.1257/aer.97.5.1533",
+        "url": "https://doi.org/10.1257/aer.97.5.1533",
         "verified": true,
         "note": ""
       }
@@ -12125,6 +12404,39 @@
         "pages": "667–699",
         "doi": "10.1257/aer.99.3.667",
         "url": "https://doi.org/10.1257/aer.99.3.667",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Welfare Effects of Misperceived Product Costs: Data and Calibrations from the Automobile Market",
+        "title": "The Welfare Effects of Misperceived Product Costs: Data and Calibrations from the Automobile Market",
+        "authors": [
+          "Hunt Allcott"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "5",
+        "issue": "3",
+        "pages": "30–66",
+        "doi": "10.1257/pol.5.3.30",
+        "url": "https://doi.org/10.1257/pol.5.3.30",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
         "verified": true,
         "note": ""
       }
@@ -13004,6 +13316,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.3386/w28395",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Customer Capital",
+        "title": "Customer Capital",
+        "authors": [
+          "François Gourio",
+          "Leena Rudanko"
+        ],
+        "year": 2014,
+        "journal": "The Review of Economic Studies",
+        "volume": "81",
+        "issue": "3",
+        "pages": "1102–1136",
+        "doi": "10.1093/restud/rdu007",
+        "url": "https://doi.org/10.1093/restud/rdu007",
         "verified": true,
         "note": ""
       }
@@ -13920,6 +14249,25 @@
         "pages": "160–176",
         "doi": "10.1257/aeri.20230289",
         "url": "https://doi.org/10.1257/aeri.20230289",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Plants in Space",
+        "title": "Plants in Space",
+        "authors": [
+          "Ezra Oberfield",
+          "Esteban Rossi-Hansberg",
+          "Pierre-Daniel Sarte",
+          "Nicholas Trachter"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "3",
+        "pages": "867–909",
+        "doi": "10.1086/726907",
+        "url": "https://doi.org/10.1086/726907",
         "verified": true,
         "note": ""
       }
@@ -14861,6 +15209,25 @@
         "url": "https://doi.org/10.1257/aer.20200208",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Production and Learning in Teams",
+        "title": "Production and Learning in Teams",
+        "authors": [
+          "Kyle Herkenhoff",
+          "Jeremy Lise",
+          "Guido Menzio",
+          "Gordon M. Phillips"
+        ],
+        "year": 2024,
+        "journal": "Econometrica",
+        "volume": "92",
+        "issue": "2",
+        "pages": "467–504",
+        "doi": "10.3982/ecta16748",
+        "url": "https://doi.org/10.3982/ecta16748",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15004,6 +15371,23 @@
         "pages": "397–427",
         "doi": "10.1257/aer.20190690",
         "url": "https://doi.org/10.1257/aer.20190690",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices, Local Demand, and Retail Prices",
+        "title": "House Prices, Local Demand, and Retail Prices",
+        "authors": [
+          "Johannes Stroebel",
+          "Joseph Vavra"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1391–1436",
+        "doi": "10.1086/701422",
+        "url": "https://doi.org/10.1086/701422",
         "verified": true,
         "note": ""
       }
@@ -16048,6 +16432,23 @@
         "pages": "2563–2614",
         "doi": "10.1086/735509",
         "url": "https://doi.org/10.1086/735509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices, Local Demand, and Retail Prices",
+        "title": "House Prices, Local Demand, and Retail Prices",
+        "authors": [
+          "Johannes Stroebel",
+          "Joseph Vavra"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1391–1436",
+        "doi": "10.1086/701422",
+        "url": "https://doi.org/10.1086/701422",
         "verified": true,
         "note": ""
       }
@@ -17224,6 +17625,23 @@
         "url": "https://doi.org/10.1257/aer.90.3.458",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Capital Deepening and Nonbalanced Economic Growth",
+        "title": "Capital Deepening and Nonbalanced Economic Growth",
+        "authors": [
+          "Daron Acemoglu",
+          "Veronica Guerrieri"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "3",
+        "pages": "467–498",
+        "doi": "10.1086/589523",
+        "url": "https://doi.org/10.1086/589523",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18002,6 +18420,58 @@
         "url": "https://doi.org/10.1257/aer.20170491",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Learning by Necessity: Government Demand, Capacity Constraints, and Productivity Growth",
+        "title": "Learning by Necessity: Government Demand, Capacity Constraints, and Productivity Growth",
+        "authors": [
+          "Ethan Ilzetzki"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "8",
+        "pages": "2436–2471",
+        "doi": "10.1257/aer.20230033",
+        "url": "https://doi.org/10.1257/aer.20230033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heard the news? Environmental policy and clean investments",
+        "title": "Heard the news? Environmental policy and clean investments",
+        "authors": [
+          "Joëlle Noailly",
+          "Laura Nowzohour",
+          "Matthias van den Heuvel",
+          "Ireneu Pla"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "238",
+        "issue": "",
+        "pages": "105190",
+        "doi": "10.1016/j.jpubeco.2024.105190",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Capital Deepening and Nonbalanced Economic Growth",
+        "title": "Capital Deepening and Nonbalanced Economic Growth",
+        "authors": [
+          "Daron Acemoglu",
+          "Veronica Guerrieri"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "3",
+        "pages": "467–498",
+        "doi": "10.1086/589523",
+        "url": "https://doi.org/10.1086/589523",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18134,6 +18604,23 @@
         "pages": "1782–1817",
         "doi": "10.1257/aer.20180260",
         "url": "https://doi.org/10.1257/aer.20180260",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices, Local Demand, and Retail Prices",
+        "title": "House Prices, Local Demand, and Retail Prices",
+        "authors": [
+          "Johannes Stroebel",
+          "Joseph Vavra"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1391–1436",
+        "doi": "10.1086/701422",
+        "url": "https://doi.org/10.1086/701422",
         "verified": true,
         "note": ""
       }
@@ -18978,6 +19465,23 @@
         "pages": "1648–1683",
         "doi": "10.1257/aer.20170491",
         "url": "https://doi.org/10.1257/aer.20170491",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Framework for Economic Growth with Capital-Embodied Technical Change",
+        "title": "A Framework for Economic Growth with Capital-Embodied Technical Change",
+        "authors": [
+          "Benjamin F. Jones",
+          "Xiaojie Liu"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "5",
+        "pages": "1448–1487",
+        "doi": "10.1257/aer.20221180",
+        "url": "https://doi.org/10.1257/aer.20221180",
         "verified": true,
         "note": ""
       }
@@ -20206,6 +20710,74 @@
         "pages": "3123–3159",
         "doi": "10.1257/aer.20190913",
         "url": "https://doi.org/10.1257/aer.20190913",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices, Local Demand, and Retail Prices",
+        "title": "House Prices, Local Demand, and Retail Prices",
+        "authors": [
+          "Johannes Stroebel",
+          "Joseph Vavra"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1391–1436",
+        "doi": "10.1086/701422",
+        "url": "https://doi.org/10.1086/701422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Time to Build and Fluctuations in Bulk Shipping",
+        "title": "Time to Build and Fluctuations in Bulk Shipping",
+        "authors": [
+          "Myrto Kalouptsidi"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "564–608",
+        "doi": "10.1257/aer.104.2.564",
+        "url": "https://doi.org/10.1257/aer.104.2.564",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
         "verified": true,
         "note": ""
       }
@@ -32979,6 +33551,39 @@
         "url": "https://doi.org/10.1086/732516",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Welfare Effects of Misperceived Product Costs: Data and Calibrations from the Automobile Market",
+        "title": "The Welfare Effects of Misperceived Product Costs: Data and Calibrations from the Automobile Market",
+        "authors": [
+          "Hunt Allcott"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "5",
+        "issue": "3",
+        "pages": "30–66",
+        "doi": "10.1257/pol.5.3.30",
+        "url": "https://doi.org/10.1257/pol.5.3.30",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33637,6 +34242,23 @@
         "url": "https://doi.org/10.1257/aer.102.1.131",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34209,6 +34831,23 @@
         "pages": "1597–1644",
         "doi": "10.1093/qje/qjy005",
         "url": "https://doi.org/10.1093/qje/qjy005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
         "verified": true,
         "note": ""
       }
@@ -35252,6 +35891,24 @@
         "pages": "688–707",
         "doi": "10.1016/j.jeem.2013.03.004",
         "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "title": "Policy Uncertainty in the Market for Coal Electricity: The Case of Air Toxics Standards",
+        "authors": [
+          "Gautam Gowrisankaran",
+          "Ashley Langer",
+          "Wendan Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1757–1795",
+        "doi": "10.1086/734779",
+        "url": "https://doi.org/10.1086/734779",
         "verified": true,
         "note": ""
       }
@@ -38335,6 +38992,24 @@
         "url": "https://doi.org/10.1257/pol.2.1.131",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Do National Firms Respond to Local Cost Shocks?",
+        "title": "How Do National Firms Respond to Local Cost Shocks?",
+        "authors": [
+          "R. Andrew Butters",
+          "Daniel W. Sacks",
+          "Boyoung Seo"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "5",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20201524",
+        "url": "https://doi.org/10.1257/aer.20201524",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41185,6 +41860,23 @@
         "url": "https://doi.org/10.1086/379939",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41378,6 +42070,39 @@
         "pages": "1687–1726",
         "doi": "10.1093/qje/qjt020",
         "url": "https://doi.org/10.1093/qje/qjt020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Welfare Effects of Misperceived Product Costs: Data and Calibrations from the Automobile Market",
+        "title": "The Welfare Effects of Misperceived Product Costs: Data and Calibrations from the Automobile Market",
+        "authors": [
+          "Hunt Allcott"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "5",
+        "issue": "3",
+        "pages": "30–66",
+        "doi": "10.1257/pol.5.3.30",
+        "url": "https://doi.org/10.1257/pol.5.3.30",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "title": "Gasoline Prices, Fuel Economy, and the Energy Paradox",
+        "authors": [
+          "Hunt Allcott",
+          "Nathan Wozny"
+        ],
+        "year": 2014,
+        "journal": "Review of Economics and Statistics",
+        "volume": "96",
+        "issue": "5",
+        "pages": "779–795",
+        "doi": "10.1162/rest_a_00419",
+        "url": "https://doi.org/10.1162/rest_a_00419",
         "verified": true,
         "note": ""
       }
@@ -42884,6 +43609,22 @@
         "url": "https://doi.org/10.1257/aer.20180124",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Learning by Necessity: Government Demand, Capacity Constraints, and Productivity Growth",
+        "title": "Learning by Necessity: Government Demand, Capacity Constraints, and Productivity Growth",
+        "authors": [
+          "Ethan Ilzetzki"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "8",
+        "pages": "2436–2471",
+        "doi": "10.1257/aer.20230033",
+        "url": "https://doi.org/10.1257/aer.20230033",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -43345,6 +44086,25 @@
         "url": "https://doi.org/10.1086/735509",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Plants in Space",
+        "title": "Plants in Space",
+        "authors": [
+          "Ezra Oberfield",
+          "Esteban Rossi-Hansberg",
+          "Pierre-Daniel Sarte",
+          "Nicholas Trachter"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "3",
+        "pages": "867–909",
+        "doi": "10.1086/726907",
+        "url": "https://doi.org/10.1086/726907",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -43669,6 +44429,23 @@
         "pages": "515–573",
         "doi": "10.1093/qje/qjac033",
         "url": "https://doi.org/10.1093/qje/qjac033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices, Local Demand, and Retail Prices",
+        "title": "House Prices, Local Demand, and Retail Prices",
+        "authors": [
+          "Johannes Stroebel",
+          "Joseph Vavra"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1391–1436",
+        "doi": "10.1086/701422",
+        "url": "https://doi.org/10.1086/701422",
         "verified": true,
         "note": ""
       }
@@ -46130,6 +46907,25 @@
         "url": "https://doi.org/10.1093/restud/rdab086",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heard the news? Environmental policy and clean investments",
+        "title": "Heard the news? Environmental policy and clean investments",
+        "authors": [
+          "Joëlle Noailly",
+          "Laura Nowzohour",
+          "Matthias van den Heuvel",
+          "Ireneu Pla"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "238",
+        "issue": "",
+        "pages": "105190",
+        "doi": "10.1016/j.jpubeco.2024.105190",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -47513,6 +48309,41 @@
         "url": "https://doi.org/10.1111/jofi.12150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Customer Capital",
+        "title": "Customer Capital",
+        "authors": [
+          "François Gourio",
+          "Leena Rudanko"
+        ],
+        "year": 2014,
+        "journal": "The Review of Economic Studies",
+        "volume": "81",
+        "issue": "3",
+        "pages": "1102–1136",
+        "doi": "10.1093/restud/rdu007",
+        "url": "https://doi.org/10.1093/restud/rdu007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Life Cycle of Products: Evidence and Implications",
+        "title": "The Life Cycle of Products: Evidence and Implications",
+        "authors": [
+          "David Argente",
+          "Munseob Lee",
+          "Sara Moreira"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "2",
+        "pages": "337–390",
+        "doi": "10.1086/726704",
+        "url": "https://doi.org/10.1086/726704",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48881,6 +49712,25 @@
         "url": "https://doi.org/10.1016/j.jfineco.2025.104208",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heard the news? Environmental policy and clean investments",
+        "title": "Heard the news? Environmental policy and clean investments",
+        "authors": [
+          "Joëlle Noailly",
+          "Laura Nowzohour",
+          "Matthias van den Heuvel",
+          "Ireneu Pla"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "238",
+        "issue": "",
+        "pages": "105190",
+        "doi": "10.1016/j.jpubeco.2024.105190",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -50123,6 +50973,128 @@
         "url": "https://doi.org/10.1111/jofi.12439",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Uniform Pricing in U.S. Retail Chains",
+        "title": "Uniform Pricing in U.S. Retail Chains",
+        "authors": [
+          "Stefano DellaVigna",
+          "Matthew Gentzkow"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "4",
+        "pages": "2011–2084",
+        "doi": "10.1093/qje/qjz019",
+        "url": "https://doi.org/10.1093/qje/qjz019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do National Firms Respond to Local Cost Shocks?",
+        "title": "How Do National Firms Respond to Local Cost Shocks?",
+        "authors": [
+          "R. Andrew Butters",
+          "Daniel W. Sacks",
+          "Boyoung Seo"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "5",
+        "pages": "1737–1772",
+        "doi": "10.1257/aer.20201524",
+        "url": "https://doi.org/10.1257/aer.20201524",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices, Local Demand, and Retail Prices",
+        "title": "House Prices, Local Demand, and Retail Prices",
+        "authors": [
+          "Johannes Stroebel",
+          "Joseph Vavra"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1391–1436",
+        "doi": "10.1086/701422",
+        "url": "https://doi.org/10.1086/701422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Product Life Cycle, Learning, and Nominal Shocks",
+        "title": "Product Life Cycle, Learning, and Nominal Shocks",
+        "authors": [
+          "David Argente",
+          "Chen Yeh"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "6",
+        "pages": "2992–3054",
+        "doi": "10.1093/restud/rdac004",
+        "url": "https://doi.org/10.1093/restud/rdac004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Life Cycle of Products: Evidence and Implications",
+        "title": "The Life Cycle of Products: Evidence and Implications",
+        "authors": [
+          "David Argente",
+          "Munseob Lee",
+          "Sara Moreira"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "2",
+        "pages": "337–390",
+        "doi": "10.1086/726704",
+        "url": "https://doi.org/10.1086/726704",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Brand Preferences: Evidence from Consumer Migration",
+        "title": "The Evolution of Brand Preferences: Evidence from Consumer Migration",
+        "authors": [
+          "Bart J. Bronnenberg",
+          "Jean-Pierre H. Dubé",
+          "Matthew Gentzkow"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "6",
+        "pages": "2472–2508",
+        "doi": "10.1257/aer.102.6.2472",
+        "url": "https://doi.org/10.1257/aer.102.6.2472",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Life-Cycle Prices and Production",
+        "title": "Life-Cycle Prices and Production",
+        "authors": [
+          "Mark Aguiar",
+          "Erik Hurst"
+        ],
+        "year": 2007,
+        "journal": "American Economic Review",
+        "volume": "97",
+        "issue": "5",
+        "pages": "1533–1559",
+        "doi": "10.1257/aer.97.5.1533",
+        "url": "https://doi.org/10.1257/aer.97.5.1533",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -50323,6 +51295,24 @@
         "pages": "1–30",
         "doi": "10.1162/rest_a_01575",
         "url": "https://doi.org/10.1162/rest_a_01575",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Brand Preferences: Evidence from Consumer Migration",
+        "title": "The Evolution of Brand Preferences: Evidence from Consumer Migration",
+        "authors": [
+          "Bart J. Bronnenberg",
+          "Jean-Pierre H. Dubé",
+          "Matthew Gentzkow"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "6",
+        "pages": "2472–2508",
+        "doi": "10.1257/aer.102.6.2472",
+        "url": "https://doi.org/10.1257/aer.102.6.2472",
         "verified": true,
         "note": ""
       }
@@ -50624,6 +51614,58 @@
         "pages": "2041–2064",
         "doi": "10.1257/aer.20180071",
         "url": "https://doi.org/10.1257/aer.20180071",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Prices, Local Demand, and Retail Prices",
+        "title": "House Prices, Local Demand, and Retail Prices",
+        "authors": [
+          "Johannes Stroebel",
+          "Joseph Vavra"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1391–1436",
+        "doi": "10.1086/701422",
+        "url": "https://doi.org/10.1086/701422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Product Life Cycle, Learning, and Nominal Shocks",
+        "title": "Product Life Cycle, Learning, and Nominal Shocks",
+        "authors": [
+          "David Argente",
+          "Chen Yeh"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "6",
+        "pages": "2992–3054",
+        "doi": "10.1093/restud/rdac004",
+        "url": "https://doi.org/10.1093/restud/rdac004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Brand Preferences: Evidence from Consumer Migration",
+        "title": "The Evolution of Brand Preferences: Evidence from Consumer Migration",
+        "authors": [
+          "Bart J. Bronnenberg",
+          "Jean-Pierre H. Dubé",
+          "Matthew Gentzkow"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "6",
+        "pages": "2472–2508",
+        "doi": "10.1257/aer.102.6.2472",
+        "url": "https://doi.org/10.1257/aer.102.6.2472",
         "verified": true,
         "note": ""
       }
@@ -54597,6 +55639,23 @@
         "url": "https://doi.org/10.1257/aer.91.3.681",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54693,6 +55752,23 @@
         "pages": "832–867",
         "doi": "10.1257/aer.104.3.832",
         "url": "https://doi.org/10.1257/aer.104.3.832",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
       }
@@ -55139,6 +56215,23 @@
         "url": "https://doi.org/10.1257/pol.20200092",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55328,6 +56421,23 @@
         "url": "https://doi.org/10.1111/jeea.12002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55469,6 +56579,46 @@
         "pages": "1759–1799",
         "doi": "10.1162/qjec.2007.122.4.1759",
         "url": "https://doi.org/10.1162/qjec.2007.122.4.1759",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.19",
+    "title": "德国 IAB 雇主-雇员匹配数据（LIAB）",
+    "links": [
+      {
+        "label": "IAB-FDZ: LIAB",
+        "url": "https://fdz.iab.de/en/int_bd_pd/linked-employer-employee-data-of-the-iab-liab-liab-cross-sectional-model-1993-2023-version-1/"
+      }
+    ],
+    "summary": "德国联邦就业署就业研究所（IAB）将 IAB 企业面板调查与社会保险就业记录匹配形成的雇主-雇员数据，1993 年起，记录企业特征和全体雇员的工资、职业与就业史，经 IAB 研究数据中心（FDZ）申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "微观企业数据"
+    ],
+    "introduction": "LIAB（Linked Employer-Employee Data of the IAB）由 IAB 研究数据中心编制：以年度 IAB 企业面板（IAB-Betriebspanel，约 1.5 万家企业，记录就业、投资、销售额、出口、工资协议、培训、技术和组织变革）为企业端，匹配这些企业在社会保险通报中的全体雇员就业记录（日工资、职业、教育、年龄、性别、国籍、全职或兼职），并可追踪雇员在其他企业的完整就业史（IEB）。数据有横截面模型和纵向模型等版本，覆盖 1993 年至最近年份。研究者需与 FDZ 签订使用协议，在纽伦堡或各地访问点现场使用，或通过远程执行。\n\n数据常用于研究企业层面的工资决定、集体谈判和工作委员会的作用、技术变革与技能需求、企业租金分享以及雇主市场力量，例如估计企业层面劳动供给弹性和工资加成。社保工资在缴费上限处删失，需要插补处理。",
+    "source": "受限（经 IAB 研究数据中心 FDZ 申请，现场或远程访问）。",
+    "references": [
+      {
+        "raw": "Learning From Coworkers",
+        "title": "Learning From Coworkers",
+        "authors": [
+          "Gregor Jarosch",
+          "Ezra Oberfield",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "2",
+        "pages": "647–676",
+        "doi": "10.3982/ecta16915",
+        "url": "https://doi.org/10.3982/ecta16915",
         "verified": true,
         "note": ""
       }
@@ -55924,6 +57074,22 @@
         "url": "https://doi.org/10.1162/qjec.2007.122.4.1759",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Penetration Costs and the New Consumers Margin in International Trade",
+        "title": "Market Penetration Costs and the New Consumers Margin in International Trade",
+        "authors": [
+          "Costas Arkolakis"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "6",
+        "pages": "1151–1199",
+        "doi": "10.1086/657949",
+        "url": "https://doi.org/10.1086/657949",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -56037,6 +57203,24 @@
         "pages": "1759–1799",
         "doi": "10.1162/qjec.2007.122.4.1759",
         "url": "https://doi.org/10.1162/qjec.2007.122.4.1759",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm location decisions, regional grants and agglomeration externalities",
+        "title": "Firm location decisions, regional grants and agglomeration externalities",
+        "authors": [
+          "Michael P. Devereux",
+          "Rachel Griffith",
+          "Helen Simpson"
+        ],
+        "year": 2007,
+        "journal": "Journal of Public Economics",
+        "volume": "91",
+        "issue": "3-4",
+        "pages": "413–435",
+        "doi": "10.1016/j.jpubeco.2006.12.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2006.12.002",
         "verified": true,
         "note": ""
       }
@@ -56447,6 +57631,24 @@
         "pages": "1663–1705",
         "doi": "10.1093/qje/qje029",
         "url": "https://doi.org/10.1093/qje/qje029",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Currency Unions, Product Introductions, and the Real Exchange Rate",
+        "title": "Currency Unions, Product Introductions, and the Real Exchange Rate",
+        "authors": [
+          "Alberto Cavallo",
+          "Brent Neiman",
+          "Roberto Rigobon"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "529–595",
+        "doi": "10.1093/qje/qju008",
+        "url": "https://doi.org/10.1093/qje/qju008",
         "verified": true,
         "note": ""
       }
@@ -60908,6 +62110,23 @@
         "url": "https://doi.org/10.1257/aer.20171840",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -61049,6 +62268,23 @@
         "pages": "1314–1327",
         "doi": "10.1086/262061",
         "url": "https://doi.org/10.1086/262061",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
       }
@@ -63662,6 +64898,23 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.05.045",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -63792,6 +65045,23 @@
         "pages": "1366–1401",
         "doi": "10.1257/aer.20131455",
         "url": "https://doi.org/10.1257/aer.20131455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
       }
@@ -66882,6 +68152,48 @@
     ]
   },
   {
+    "id": "6.2.6",
+    "title": "俄罗斯纵向监测调查（Russia Longitudinal Monitoring Survey，RLMS-HSE）",
+    "links": [
+      {
+        "label": "RLMS-HSE (UNC)",
+        "url": "https://www.cpc.unc.edu/projects/rlms-hse/"
+      },
+      {
+        "label": "RLMS-HSE data",
+        "url": "https://rlms-hse.cpc.unc.edu/"
+      }
+    ],
+    "summary": "俄罗斯全国代表性家庭面板调查，1992 年起（1994 年起连续），由高等经济学院（HSE）与北卡罗来纳大学人口中心合作开展，记录约 5,000 户家庭的收入、消费、就业、健康和营养，注册后免费下载。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "RLMS 最初由北卡罗来纳大学教堂山分校人口中心与俄罗斯合作者于 1992 年启动，第二阶段（1994 年起）由俄罗斯国立高等经济学院（HSE）共同主持，几乎每年一轮，样本为全国多阶段概率抽样的约 4,000–6,000 户家庭和 1 万多名个人。问卷包括家庭收入和各类支出、食物消费、住房和资产、主要和次要工作、工资拖欠、教育、健康状况、医疗利用、饮酒和吸烟、体重身高测量等，社区问卷记录物价、基础设施和医疗设施。数据在 HSE 和 UNC 网站注册后免费下载。\n\n数据常用于研究俄罗斯转型期的劳动力市场、工资拖欠、收入不平等与贫困、饮酒与死亡率、健康和消费行为，或作为跨国生命周期工资与消费比较的数据来源。面板存在流失并有补充样本，莫斯科等大城市回应率较低。",
+    "source": "注册后免费下载（HSE、UNC 网站）。",
+    "references": [
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.3.1",
     "title": "加拿大制造业年度调查（ASM / ASML）",
     "links": [
@@ -68992,6 +70304,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2024.103092",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -70814,6 +72143,75 @@
         "url": "https://doi.org/10.1257/aer.20171840",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quality Predictability and the Welfare Benefits from New Products: Evidence from the Digitization of Recorded Music",
+        "title": "Quality Predictability and the Welfare Benefits from New Products: Evidence from the Digitization of Recorded Music",
+        "authors": [
+          "Luis Aguiar",
+          "Joel Waldfogel"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "2",
+        "pages": "492–524",
+        "doi": "10.1086/696229",
+        "url": "https://doi.org/10.1086/696229",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Penetration Costs and the New Consumers Margin in International Trade",
+        "title": "Market Penetration Costs and the New Consumers Margin in International Trade",
+        "authors": [
+          "Costas Arkolakis"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "6",
+        "pages": "1151–1199",
+        "doi": "10.1086/657949",
+        "url": "https://doi.org/10.1086/657949",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Shrunk China? Puzzles in the Measurement of Real GDP",
+        "title": "Who Shrunk China? Puzzles in the Measurement of Real GDP",
+        "authors": [
+          "Robert C. Feenstra",
+          "Hong Ma",
+          "J. Peter Neary",
+          "D.S. Prasada Rao"
+        ],
+        "year": 2013,
+        "journal": "The Economic Journal",
+        "volume": "123",
+        "issue": "573",
+        "pages": "1100–1129",
+        "doi": "10.1111/ecoj.12021",
+        "url": "https://doi.org/10.1111/ecoj.12021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71242,6 +72640,58 @@
         "url": "https://doi.org/10.1257/aer.20190159",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Time to Build and Fluctuations in Bulk Shipping",
+        "title": "Time to Build and Fluctuations in Bulk Shipping",
+        "authors": [
+          "Myrto Kalouptsidi"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "564–608",
+        "doi": "10.1257/aer.104.2.564",
+        "url": "https://doi.org/10.1257/aer.104.2.564",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Shrunk China? Puzzles in the Measurement of Real GDP",
+        "title": "Who Shrunk China? Puzzles in the Measurement of Real GDP",
+        "authors": [
+          "Robert C. Feenstra",
+          "Hong Ma",
+          "J. Peter Neary",
+          "D.S. Prasada Rao"
+        ],
+        "year": 2013,
+        "journal": "The Economic Journal",
+        "volume": "123",
+        "issue": "573",
+        "pages": "1100–1129",
+        "doi": "10.1111/ecoj.12021",
+        "url": "https://doi.org/10.1111/ecoj.12021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71440,6 +72890,25 @@
         "pages": "434–483",
         "doi": "10.1086/726234",
         "url": "https://doi.org/10.1086/726234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Shrunk China? Puzzles in the Measurement of Real GDP",
+        "title": "Who Shrunk China? Puzzles in the Measurement of Real GDP",
+        "authors": [
+          "Robert C. Feenstra",
+          "Hong Ma",
+          "J. Peter Neary",
+          "D.S. Prasada Rao"
+        ],
+        "year": 2013,
+        "journal": "The Economic Journal",
+        "volume": "123",
+        "issue": "573",
+        "pages": "1100–1129",
+        "doi": "10.1111/ecoj.12021",
+        "url": "https://doi.org/10.1111/ecoj.12021",
         "verified": true,
         "note": ""
       }
@@ -72105,6 +73574,24 @@
         "url": "https://doi.org/10.1257/aer.20170491",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "International Shocks, Variable Markups, and Domestic Prices",
+        "title": "International Shocks, Variable Markups, and Domestic Prices",
+        "authors": [
+          "Mary Amiti",
+          "Oleg Itskhoki",
+          "Jozef Konings"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "6",
+        "pages": "2356–2402",
+        "doi": "10.1093/restud/rdz005",
+        "url": "https://doi.org/10.1093/restud/rdz005",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72158,6 +73645,22 @@
         "pages": "1998–2031",
         "doi": "10.1257/aer.98.5.1998",
         "url": "https://doi.org/10.1257/aer.98.5.1998",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Time to Build and Fluctuations in Bulk Shipping",
+        "title": "Time to Build and Fluctuations in Bulk Shipping",
+        "authors": [
+          "Myrto Kalouptsidi"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "564–608",
+        "doi": "10.1257/aer.104.2.564",
+        "url": "https://doi.org/10.1257/aer.104.2.564",
         "verified": true,
         "note": ""
       }
@@ -72283,6 +73786,22 @@
         "pages": "1663–1705",
         "doi": "10.1093/qje/qje029",
         "url": "https://doi.org/10.1093/qje/qje029",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Penetration Costs and the New Consumers Margin in International Trade",
+        "title": "Market Penetration Costs and the New Consumers Margin in International Trade",
+        "authors": [
+          "Costas Arkolakis"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "6",
+        "pages": "1151–1199",
+        "doi": "10.1086/657949",
+        "url": "https://doi.org/10.1086/657949",
         "verified": true,
         "note": ""
       }
@@ -73402,6 +74921,85 @@
         "pages": "3286–3307",
         "doi": "10.1257/aer.101.7.3286",
         "url": "https://doi.org/10.1257/aer.101.7.3286",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.37",
+    "title": "十亿价格项目（Billion Prices Project）在线零售价格数据",
+    "links": [
+      {
+        "label": "The Billion Prices Project",
+        "url": "https://www.thebillionpricesproject.com/"
+      }
+    ],
+    "summary": "MIT 的 Cavallo 和 Rigobon 发起的项目，每日从数十个国家数百家在线零售商网站抓取数百万种商品的价格，用于构建高频通胀指数和研究价格黏性，部分数据集公开下载，商业序列由 PriceStats 提供。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据",
+      "区域经济数据"
+    ],
+    "introduction": "十亿价格项目（BPP）于 2008 年由 Alberto Cavallo 和 Roberto Rigobon 在 MIT 发起，利用网络爬虫每日抓取多国大型在线零售商（含线上线下双渠道零售商）的商品价格、商品描述、类别和促销信息，覆盖 2007 年以来 60 多个国家的食品、服装、电子、家居、药品等类别，据此构建日度通胀指数，并研究价格调整频率、线上线下价格一致性、跨国价格差异和汇率传递。项目网站发布与多篇论文配套的研究数据集（如同一商品在多国的价格、线上线下价格对比），商业化的日度通胀序列由 PriceStats 公司提供。\n\n数据常用于研究价格黏性和菜单成本、跨国同一商品的价格离散和实际汇率、汇率传递以及官方通胀统计的可靠性（例如阿根廷官方 CPI 低报）。样本只覆盖在线销售的商品，服务价格缺失，不同国家零售商覆盖不均。",
+    "source": "研究数据集公开下载；商业序列需向 PriceStats 购买。",
+    "references": [
+      {
+        "raw": "Currency Unions, Product Introductions, and the Real Exchange Rate",
+        "title": "Currency Unions, Product Introductions, and the Real Exchange Rate",
+        "authors": [
+          "Alberto Cavallo",
+          "Brent Neiman",
+          "Roberto Rigobon"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "529–595",
+        "doi": "10.1093/qje/qju008",
+        "url": "https://doi.org/10.1093/qje/qju008",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.38",
+    "title": "UNU-WIDER 世界收入不平等数据库（WIID）",
+    "links": [
+      {
+        "label": "UNU-WIDER: WIID",
+        "url": "https://wider.unu.edu/project/wiid-world-income-inequality-database"
+      }
+    ],
+    "summary": "联合国大学世界发展经济学研究所（UNU-WIDER）汇编的约 200 个国家基尼系数和收入分位份额，1867 年起（以 1950 年后为主），标注数据来源、收入概念和调查单位，注册后免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "微观调查数据"
+    ],
+    "introduction": "世界收入不平等数据库（WIID）由 UNU-WIDER 于 1990 年代末以 Deininger-Squire 数据为基础建立，汇集各国统计局、LIS、世界银行 PovcalNet、欧盟 SILC、地区数据库和学术文献报告的不平等统计，包括基尼系数、收入或消费的十分位和五分位份额、最高 5% 和 1% 份额，并逐条标注收入定义（可支配收入、总收入、消费）、分析单位（个人、家庭）、等值规模、覆盖范围和数据质量。最新版本还提供经调整的“伴随数据集”便于跨国比较。数据注册后免费下载。\n\n数据常用于跨国比较收入不平等和贫困，研究不平等与经济增长、发展阶段、贸易和政治制度的关系，或在宏观模型中校准收入分布。不同来源的定义差异大，直接混用会产生偏差，需按收入概念和单位筛选。",
+    "source": "注册后免费下载（UNU-WIDER 官网）。",
+    "references": [
+      {
+        "raw": "Beyond GDP? Welfare across Countries and Time",
+        "title": "Beyond GDP? Welfare across Countries and Time",
+        "authors": [
+          "Charles I. Jones",
+          "Peter J. Klenow"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "9",
+        "pages": "2426–2457",
+        "doi": "10.1257/aer.20110236",
+        "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
       }
@@ -80508,6 +82106,25 @@
         "url": "https://doi.org/10.1016/j.jfineco.2025.104150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heard the news? Environmental policy and clean investments",
+        "title": "Heard the news? Environmental policy and clean investments",
+        "authors": [
+          "Joëlle Noailly",
+          "Laura Nowzohour",
+          "Matthias van den Heuvel",
+          "Ireneu Pla"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "238",
+        "issue": "",
+        "pages": "105190",
+        "doi": "10.1016/j.jpubeco.2024.105190",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -81808,6 +83425,22 @@
         "url": "https://doi.org/10.1093/restud/rdaf011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Time to Build and Fluctuations in Bulk Shipping",
+        "title": "Time to Build and Fluctuations in Bulk Shipping",
+        "authors": [
+          "Myrto Kalouptsidi"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "564–608",
+        "doi": "10.1257/aer.104.2.564",
+        "url": "https://doi.org/10.1257/aer.104.2.564",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82648,6 +84281,25 @@
         "pages": "209–226",
         "doi": "10.1016/j.jeem.2016.06.002",
         "url": "https://doi.org/10.1016/j.jeem.2016.06.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heard the news? Environmental policy and clean investments",
+        "title": "Heard the news? Environmental policy and clean investments",
+        "authors": [
+          "Joëlle Noailly",
+          "Laura Nowzohour",
+          "Matthias van den Heuvel",
+          "Ireneu Pla"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "238",
+        "issue": "",
+        "pages": "105190",
+        "doi": "10.1016/j.jpubeco.2024.105190",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
         "verified": true,
         "note": ""
       }
@@ -84040,6 +85692,25 @@
         "url": "https://doi.org/10.1257/aer.20170666",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heard the news? Environmental policy and clean investments",
+        "title": "Heard the news? Environmental policy and clean investments",
+        "authors": [
+          "Joëlle Noailly",
+          "Laura Nowzohour",
+          "Matthias van den Heuvel",
+          "Ireneu Pla"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "238",
+        "issue": "",
+        "pages": "105190",
+        "doi": "10.1016/j.jpubeco.2024.105190",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -85107,6 +86778,86 @@
     ]
   },
   {
+    "id": "7.12.24",
+    "title": "Ilzetzki-Reinhart-Rogoff 汇率制度分类",
+    "links": [
+      {
+        "label": "Ilzetzki: IRR exchange rate classification",
+        "url": "https://www.ilzetzki.com/irr-data"
+      }
+    ],
+    "summary": "Ilzetzki、Reinhart 和 Rogoff 根据平行市场汇率和汇率实际波动编制的 190 多个国家月度汇率制度“事实分类”，1940 年起，并附锚货币识别，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "该分类最初由 Reinhart 和 Rogoff（2004，QJE）提出，后由 Ilzetzki、Reinhart 和 Rogoff（2019，QJE）更新扩展。与 IMF 根据各国申报给出的“法定分类”不同，它依据官方汇率与平行（黑市）汇率的走势、汇率变动的统计特征和历史档案，把各国每月的汇率安排归入从无独立法定货币、货币局、钉住、爬行钉住、区间到管理浮动、自由浮动和“自由下落”（高通胀下的汇率崩溃）的 15 个细类和 6 个粗类，并识别各国汇率所锚定的货币（美元、欧元、德国马克等）。数据覆盖 1940 年代至今的 190 多个国家和地区，在 Ilzetzki 网站免费下载。\n\n数据常用于国际宏观研究，例如美元在全球汇率体系中的地位、汇率制度与通胀和增长的关系、汇率传递和资本管制。分类依赖研究者判断，近年月份会随数据更新而修订。",
+    "source": "公开下载（Ilzetzki 主页）。",
+    "references": [
+      {
+        "raw": "Currency Unions, Product Introductions, and the Real Exchange Rate",
+        "title": "Currency Unions, Product Introductions, and the Real Exchange Rate",
+        "authors": [
+          "Alberto Cavallo",
+          "Brent Neiman",
+          "Roberto Rigobon"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "529–595",
+        "doi": "10.1093/qje/qju008",
+        "url": "https://doi.org/10.1093/qje/qju008",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.25",
+    "title": "Crunchbase 初创企业与风险投资数据库",
+    "links": [
+      {
+        "label": "Crunchbase",
+        "url": "https://www.crunchbase.com/"
+      }
+    ],
+    "summary": "收录全球数百万家初创企业及其融资轮次、投资机构、创始人、并购和 IPO 信息的众包加数据合作伙伴型数据库，2007 年起，部分功能免费，完整数据和 API 需付费或学术授权。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "商业数据"
+    ],
+    "introduction": "Crunchbase 最初是 TechCrunch 于 2007 年建立的科技公司数据库，现为独立公司，通过众包编辑、投资机构合作伙伴提交和网络抓取收集全球初创企业的成立时间、行业标签、地点、员工规模、创始人和高管、每一轮融资的日期、金额、轮次和投资方，以及并购、IPO 和关闭事件。网站提供有限的免费检索，完整数据导出和 API 需付费订阅，学术研究者可申请研究访问计划。\n\n数据常用于研究风险投资和创业，例如清洁技术或人工智能领域的融资规模变化、投资者网络、创业企业选址和政策冲击对融资的影响。数据覆盖偏向美国科技企业，早期年份和非科技行业遗漏较多，融资金额有缺失。",
+    "source": "部分免费；完整数据付费或经学术研究访问计划获取。",
+    "references": [
+      {
+        "raw": "Heard the news? Environmental policy and clean investments",
+        "title": "Heard the news? Environmental policy and clean investments",
+        "authors": [
+          "Joëlle Noailly",
+          "Laura Nowzohour",
+          "Matthias van den Heuvel",
+          "Ireneu Pla"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "238",
+        "issue": "",
+        "pages": "105190",
+        "doi": "10.1016/j.jpubeco.2024.105190",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.13.1",
     "title": "PatSnap 专利数据库",
     "links": [
@@ -85651,6 +87402,46 @@
         "pages": "1782–1817",
         "doi": "10.1257/aer.20180260",
         "url": "https://doi.org/10.1257/aer.20180260",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.9",
+    "title": "道琼斯 Factiva 新闻与商业信息数据库",
+    "links": [
+      {
+        "label": "Dow Jones Factiva",
+        "url": "https://www.factiva.com/"
+      }
+    ],
+    "summary": "道琼斯旗下的全球新闻全文数据库，收录 200 多个国家 3 万多种报纸、期刊、通讯社、网站和公司文件的全文，部分来源可回溯至 1980 年代，经机构订阅检索和下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "Factiva 由道琼斯公司运营（原为道琼斯与路透社合资），整合《华尔街日报》、《纽约时报》、《金融时报》、道琼斯通讯社、路透社等全球 3 万多种新闻来源的全文，覆盖 28 种语言，附有统一的公司、行业、地区和主题索引代码，并提供公司档案和财务信息。高校图书馆通常订阅网页检索版，批量文本分析需另行购买数据接口或使用道琼斯 DNA（Data, News and Analytics）平台。\n\n数据常用于基于新闻文本的经济计量，例如构建经济政策不确定性指数、气候或清洁技术新闻关注度指数、企业新闻情绪，以及研究媒体报道对资产价格和企业行为的影响。不同来源的收录起始年份和完整性不同，批量下载受许可条款限制。",
+    "source": "付费商业（机构订阅；批量文本需另行授权）。",
+    "references": [
+      {
+        "raw": "Heard the news? Environmental policy and clean investments",
+        "title": "Heard the news? Environmental policy and clean investments",
+        "authors": [
+          "Joëlle Noailly",
+          "Laura Nowzohour",
+          "Matthias van den Heuvel",
+          "Ireneu Pla"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "238",
+        "issue": "",
+        "pages": "105190",
+        "doi": "10.1016/j.jpubeco.2024.105190",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105190",
         "verified": true,
         "note": ""
       }
@@ -88491,6 +90282,22 @@
         "url": "https://doi.org/10.1257/aer.15000001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Time to Build and Fluctuations in Bulk Shipping",
+        "title": "Time to Build and Fluctuations in Bulk Shipping",
+        "authors": [
+          "Myrto Kalouptsidi"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "564–608",
+        "doi": "10.1257/aer.104.2.564",
+        "url": "https://doi.org/10.1257/aer.104.2.564",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -88665,6 +90472,22 @@
         "pages": "283–319",
         "doi": "10.1086/684509",
         "url": "https://doi.org/10.1086/684509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Penetration Costs and the New Consumers Margin in International Trade",
+        "title": "Market Penetration Costs and the New Consumers Margin in International Trade",
+        "authors": [
+          "Costas Arkolakis"
+        ],
+        "year": 2010,
+        "journal": "Journal of Political Economy",
+        "volume": "118",
+        "issue": "6",
+        "pages": "1151–1199",
+        "doi": "10.1086/657949",
+        "url": "https://doi.org/10.1086/657949",
         "verified": true,
         "note": ""
       }
