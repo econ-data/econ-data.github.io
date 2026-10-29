@@ -6299,6 +6299,38 @@
         "url": "https://doi.org/10.1162/qjec.121.1.73",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Disease and Development: Evidence from the American South",
+        "title": "Disease and Development: Evidence from the American South",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2003,
+        "journal": "Journal of the European Economic Association",
+        "volume": "1",
+        "issue": "2-3",
+        "pages": "376–386",
+        "doi": "10.1162/154247603322391017",
+        "url": "https://doi.org/10.1162/154247603322391017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure",
+        "title": "Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "2",
+        "issue": "2",
+        "pages": "1–45",
+        "doi": "10.1257/app.2.2.1",
+        "url": "https://doi.org/10.1257/app.2.2.1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6904,6 +6936,45 @@
         "pages": "387–403",
         "doi": "10.1162/REST_a_00089",
         "url": "https://doi.org/10.1162/REST_a_00089",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.1.8",
+    "title": "美国人口普查链接项目（Census Linking Project）",
+    "links": [
+      {
+        "label": "Census Linking Project",
+        "url": "https://censuslinkingproject.org/"
+      }
+    ],
+    "summary": "Abramitzky、Boustan、Eriksson 等学者构建的 1850—1940 年美国全样本人口普查之间的个人链接对照表，可把同一人在不同普查年份的记录连接起来。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "人口普查链接项目（Census Linking Project）由 Ran Abramitzky、Leah Boustan、Katherine Eriksson、Santiago Pérez 和 Myera Rashid 构建，基于 IPUMS 全样本历史人口普查（1850—1940 年），用姓名、出生年份和出生地等信息，以多种自动匹配算法（ABE 精确匹配、ABE 模糊匹配，以及加入 NYSIIS 语音标准化的版本）生成任意两个普查年份之间的个人链接对照表，并提供每种方法的匹配率和准确性说明。链接表在项目网站免费下载，使用时需与 IPUMS 全样本数据合并。\n\n数据常用于构造历史个人纵向面板，例如追踪同一人从童年到成年的教育、职业和迁移，研究童年暴露于疫病或医疗技术变化的长期影响。自动链接主要适用于男性（女性婚后改姓），匹配样本在识字率和姓名独特性上与总体存在差异，通常需要加权调整。",
+    "source": "项目网站免费下载（需配合 IPUMS 全样本普查）。",
+    "references": [
+      {
+        "raw": "Medical Technology and Life Expectancy: Evidence from the Antitoxin Treatment of Diphtheria",
+        "title": "Medical Technology and Life Expectancy: Evidence from the Antitoxin Treatment of Diphtheria",
+        "authors": [
+          "Philipp Ager",
+          "Casper W. Hansen",
+          "Peter Z. Lin"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "2",
+        "pages": "441–476",
+        "doi": "10.1257/pol.20240087",
+        "url": "https://doi.org/10.1257/pol.20240087",
         "verified": true,
         "note": ""
       }
@@ -7666,6 +7737,25 @@
         "url": "https://doi.org/10.1093/qje/qjaf001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8043,6 +8133,45 @@
         "pages": "1–39",
         "doi": "10.1093/restud/rdae015",
         "url": "https://doi.org/10.1093/restud/rdae015",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "title": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "authors": [
+          "Cem Çakmaklı",
+          "Selva Demiralp",
+          "Şebnem Kalemli-Özcan",
+          "Sevcan Yeşiltaş",
+          "Muhammed A. Yıldırım"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w28395",
         "verified": true,
         "note": ""
       }
@@ -8872,6 +9001,25 @@
         "pages": "1–26",
         "doi": "10.1086/671766",
         "url": "https://doi.org/10.1086/671766",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
         "verified": true,
         "note": ""
       }
@@ -9717,6 +9865,22 @@
         "url": "https://doi.org/10.1162/003355398555577",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Sexually Transmitted Infections, Sexual Behavior, and the HIV/AIDS Epidemic",
+        "title": "Sexually Transmitted Infections, Sexual Behavior, and the HIV/AIDS Epidemic",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2005,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "2",
+        "pages": "467–515",
+        "doi": "10.1093/qje/120.2.467",
+        "url": "https://doi.org/10.1093/qje/120.2.467",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9868,6 +10032,25 @@
         "url": "https://doi.org/10.1257/aer.20141757",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9904,6 +10087,45 @@
         "pages": "226–253",
         "doi": "10.1257/pol.20170506",
         "url": "https://doi.org/10.1257/pol.20170506",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "title": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "authors": [
+          "Cem Çakmaklı",
+          "Selva Demiralp",
+          "Şebnem Kalemli-Özcan",
+          "Sevcan Yeşiltaş",
+          "Muhammed A. Yıldırım"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w28395",
         "verified": true,
         "note": ""
       }
@@ -9960,6 +10182,26 @@
         "pages": "1520–1554",
         "doi": "10.1257/aer.20231067",
         "url": "https://doi.org/10.1257/aer.20231067",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "title": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "authors": [
+          "Cem Çakmaklı",
+          "Selva Demiralp",
+          "Şebnem Kalemli-Özcan",
+          "Sevcan Yeşiltaş",
+          "Muhammed A. Yıldırım"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w28395",
         "verified": true,
         "note": ""
       }
@@ -10153,6 +10395,67 @@
         "pages": "1243–1298",
         "doi": "10.1093/qje/qjaf001",
         "url": "https://doi.org/10.1093/qje/qjaf001",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.32",
+    "title": "美国人口普查局家庭脉搏调查（Household Pulse Survey）",
+    "links": [
+      {
+        "label": "Census Bureau: Household Pulse Survey",
+        "url": "https://www.census.gov/programs-surveys/household-pulse-survey.html"
+      }
+    ],
+    "summary": "美国人口普查局于 2020 年 4 月新冠疫情期间启动的快速网络调查，每一至两周发布一次，记录就业和收入损失、食品安全、住房、健康、疫苗接种和远程工作等情况。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "家庭脉搏调查（Household Pulse Survey）由美国人口普查局联合多个联邦统计机构于 2020 年 4 月启动，通过电子邮件和短信邀请随机抽取的住户在线填答，早期每周、后期每两周或每月一期，每期样本数万至十余万人，记录家庭就业和收入损失、消费支出和刺激支票使用、食品不足、房租和房贷拖欠、身心健康、医疗保险、新冠疫苗接种、子女学习方式和远程工作，可提供州和大都市区层面估计。公共使用微观数据和汇总表在人口普查局网站免费下载；2024 年后改为 Household Trends and Outlook Pulse Survey。\n\n数据常用于研究疫情期间的家庭状况，例如测算远程工作比例和因病缺勤，作为疫情经济模型的参数，或描述各州疫苗接种意愿。调查回应率很低（多在 10% 以下），估计依赖权重调整。",
+    "source": "人口普查局网站免费下载。",
+    "references": [
+      {
+        "raw": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "title": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "authors": [
+          "Riley K. Acton",
+          "Wenjia Cao",
+          "Emily E. Cook",
+          "Scott A. Imberman",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2024,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1113–1158",
+        "doi": "10.3368/jhr.0123-12743r2",
+        "url": "https://doi.org/10.3368/jhr.0123-12743r2",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "title": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "authors": [
+          "Cem Çakmaklı",
+          "Selva Demiralp",
+          "Şebnem Kalemli-Özcan",
+          "Sevcan Yeşiltaş",
+          "Muhammed A. Yıldırım"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w28395",
         "verified": true,
         "note": ""
       }
@@ -12550,6 +12853,22 @@
         "url": "https://doi.org/10.1162/rest_a_00736",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "title": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2012,
+        "journal": "Journal of the European Economic Association",
+        "volume": "10",
+        "issue": "5",
+        "pages": "1025–1058",
+        "doi": "10.1111/j.1542-4774.2012.01075.x",
+        "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12912,6 +13231,45 @@
         "pages": "104225",
         "doi": "10.1016/j.jpubeco.2020.104225",
         "url": "https://doi.org/10.1016/j.jpubeco.2020.104225",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "title": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "authors": [
+          "Cem Çakmaklı",
+          "Selva Demiralp",
+          "Şebnem Kalemli-Özcan",
+          "Sevcan Yeşiltaş",
+          "Muhammed A. Yıldırım"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w28395",
         "verified": true,
         "note": ""
       }
@@ -14673,6 +15031,71 @@
         "pages": "1–30",
         "doi": "10.1162/rest_a_01575",
         "url": "https://doi.org/10.1162/rest_a_01575",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.29",
+    "title": "Opportunity Insights 经济追踪器（Economic Tracker）",
+    "links": [
+      {
+        "label": "Opportunity Insights Economic Tracker",
+        "url": "https://www.tracktherecovery.org"
+      },
+      {
+        "label": "GitHub: EconomicTracker",
+        "url": "https://github.com/OpportunityInsights/EconomicTracker"
+      }
+    ],
+    "summary": "Opportunity Insights 团队利用多家私营公司数据构建的美国高频经济指标，按全国、州、县和城市发布每日或每周的消费支出、小企业营收、就业、招聘岗位和学生在线学习等序列。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "商业数据"
+    ],
+    "introduction": "Opportunity Insights 经济追踪器于 2020 年新冠疫情期间建立，把多家私营公司的匿名交易和业务数据汇总成公开的高频指标：Affinity Solutions 的信用卡和借记卡消费支出、Womply 的小企业交易和营收、Homebase 的小企业就业和营业状况、Paychex、Intuit 和 Earnin 的工资单就业数据（按工资水平分组）、Lightcast（原 Burning Glass）的网络招聘岗位、Zearn 的学生在线数学学习参与，以及失业保险申领、新冠病例和谷歌移动性数据。各序列按全国、州、县和部分城市以及按收入组和行业分组，以 2020 年 1 月为基准标准化，在网站和 GitHub 免费下载。原始企业数据为私有，需与各公司另行协议。\n\n数据常用于研究新冠疫情和政策的经济影响，例如分析高收入家庭消费下降如何通过本地服务业传导到低收入劳动者，以及刺激支票和复工政策的效果，也被用作县级疫情期间经济活动的控制变量。各私营数据源的样本并非随机，作者用官方统计做了基准校准，但不同序列的代表性仍有差异。",
+    "source": "网站和 GitHub 免费下载（原始企业数据为私有）。",
+    "references": [
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "title": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "authors": [
+          "Riley K. Acton",
+          "Wenjia Cao",
+          "Emily E. Cook",
+          "Scott A. Imberman",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2024,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1113–1158",
+        "doi": "10.3368/jhr.0123-12743r2",
+        "url": "https://doi.org/10.3368/jhr.0123-12743r2",
         "verified": true,
         "note": ""
       }
@@ -30287,6 +30710,23 @@
         "url": "https://doi.org/10.3982/ECTA21016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Prescription Drug Monitoring Programs on Opioid Utilization in Medicare",
+        "title": "The Effect of Prescription Drug Monitoring Programs on Opioid Utilization in Medicare",
+        "authors": [
+          "Thomas C. Buchmueller",
+          "Colleen Carey"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "1",
+        "pages": "77–112",
+        "doi": "10.1257/pol.20160094",
+        "url": "https://doi.org/10.1257/pol.20160094",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31026,6 +31466,24 @@
         "pages": "586–638",
         "doi": "10.1086/700766",
         "url": "https://doi.org/10.1086/700766",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Medical Technology and Life Expectancy: Evidence from the Antitoxin Treatment of Diphtheria",
+        "title": "Medical Technology and Life Expectancy: Evidence from the Antitoxin Treatment of Diphtheria",
+        "authors": [
+          "Philipp Ager",
+          "Casper W. Hansen",
+          "Peter Z. Lin"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "2",
+        "pages": "441–476",
+        "doi": "10.1257/pol.20240087",
+        "url": "https://doi.org/10.1257/pol.20240087",
         "verified": true,
         "note": ""
       }
@@ -32765,6 +33223,78 @@
     ]
   },
   {
+    "id": "2.8.41",
+    "title": "美国新冠疫情县级数据（纽约时报、CDC、CovidActNow、Delphi COVIDcast）",
+    "links": [
+      {
+        "label": "NYT COVID-19 data",
+        "url": "https://github.com/nytimes/covid-19-data"
+      },
+      {
+        "label": "CDC data.cdc.gov",
+        "url": "https://data.cdc.gov"
+      },
+      {
+        "label": "CovidActNow",
+        "url": "https://www.covidactnow.org"
+      },
+      {
+        "label": "Delphi COVIDcast",
+        "url": "https://delphi.cmu.edu/covidcast/"
+      }
+    ],
+    "summary": "新冠疫情期间多家机构发布的美国县级每日病例、死亡、检测、住院和疫苗接种数据，以及 Delphi 研究组基于多种来源构建的疫情和行为指标。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "新冠疫情期间常用的美国县级疫情数据包括：《纽约时报》根据州和地方卫生部门通报整理的县级每日累计病例和死亡（GitHub 免费下载，2023 年停止更新）；CDC 在 data.cdc.gov 发布的县级病例、死亡、社区传播水平、急诊就诊、住院和疫苗接种数据；CovidActNow 汇总的县级检测阳性率、感染再生数和风险等级（网站和 API 免费获取）；卡内基梅隆大学 Delphi 研究组的 COVIDcast 平台，整合医疗理赔中的新冠相关就诊、问卷调查症状、SafeGraph 门店到访和检测等指标（API 免费获取）。\n\n数据常用于研究疫情传播和防控政策，例如利用高校疫苗强制令的实施时间，研究强制令对所在县病例和死亡的影响。各州报告口径和节假日报告延迟不同，日度数据需平滑处理；2022 年后家庭自测普及，病例数低估更严重。",
+    "source": "GitHub、data.cdc.gov 和各平台网站免费下载。",
+    "references": [
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "title": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "authors": [
+          "Riley K. Acton",
+          "Wenjia Cao",
+          "Emily E. Cook",
+          "Scott A. Imberman",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2024,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1113–1158",
+        "doi": "10.3368/jhr.0123-12743r2",
+        "url": "https://doi.org/10.3368/jhr.0123-12743r2",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.9.1",
     "title": "商品流调查（Commodity Flow Survey，CFS）",
     "links": [
@@ -34116,6 +34646,26 @@
         "url": "https://doi.org/10.1086/732516",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "title": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "authors": [
+          "Riley K. Acton",
+          "Wenjia Cao",
+          "Emily E. Cook",
+          "Scott A. Imberman",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2024,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1113–1158",
+        "doi": "10.3368/jhr.0123-12743r2",
+        "url": "https://doi.org/10.3368/jhr.0123-12743r2",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34954,6 +35504,45 @@
         "pages": "41–80",
         "doi": "10.1257/aer.20180124",
         "url": "https://doi.org/10.1257/aer.20180124",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.18",
+    "title": "处方药滥用政策系统（Prescription Drug Abuse Policy System，PDAPS）",
+    "links": [
+      {
+        "label": "PDAPS",
+        "url": "https://pdaps.org"
+      }
+    ],
+    "summary": "天普大学法律评估研究中心维护的美国各州处方药和阿片类药物相关法律数据库，按法律条款编码处方药监测计划（PDMP）、纳洛酮获取、疼痛诊所管理等法规的生效时间和内容。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据",
+      "健康数据"
+    ],
+    "introduction": "处方药滥用政策系统（PDAPS）由天普大学法律评估研究中心（Center for Public Health Law Research）在美国国家药物滥用研究所资助下建立，采用法律流行病学方法，把 50 个州和华盛顿特区的处方药相关法律逐条编码为可分析的纵向数据，主题包括处方药监测计划（PDMP，如是否强制医生查询、数据报告频率、谁可访问）、纳洛酮获取和好撒玛利亚人法、疼痛诊所管理、阿片类处方限量和医用大麻，记录每条法律的生效日期和具体规定。数据在网站免费在线查询和下载。\n\n数据常用于研究阿片类药物政策，例如利用各州强制医生查询 PDMP 规定的生效时间差异，研究其对 Medicare 受益人阿片类处方和“医生购物”行为的影响。法律编码反映条文本身，不包括执行力度。",
+    "source": "PDAPS 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Effect of Prescription Drug Monitoring Programs on Opioid Utilization in Medicare",
+        "title": "The Effect of Prescription Drug Monitoring Programs on Opioid Utilization in Medicare",
+        "authors": [
+          "Thomas C. Buchmueller",
+          "Colleen Carey"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "1",
+        "pages": "77–112",
+        "doi": "10.1257/pol.20160094",
+        "url": "https://doi.org/10.1257/pol.20160094",
         "verified": true,
         "note": ""
       }
@@ -37275,6 +37864,47 @@
     ]
   },
   {
+    "id": "2.13.6",
+    "title": "Lightcast（原 Burning Glass）网络招聘岗位数据",
+    "links": [
+      {
+        "label": "Lightcast",
+        "url": "https://www.lightcast.io/"
+      }
+    ],
+    "summary": "劳动力市场分析公司 Lightcast（原 Burning Glass Technologies、Emsi）从数万个招聘网站抓取并去重的在线招聘广告数据，记录雇主、职位、职业、地点、技能和学历要求，2007 年起覆盖美国。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "Lightcast 由 Burning Glass Technologies 和 Emsi 于 2021—2022 年合并而成，每天抓取约 4 万个招聘网站和企业招聘页面的在线招聘广告并去重，把每条广告编码为雇主名称、行业、职位名称和标准职业代码（SOC）、工作地点、发布日期、要求的学历和工作经验、具体技能（数万个技能标签）以及部分工资信息，美国数据从 2007 年和 2010 年起连续，另覆盖英国、加拿大、澳大利亚等国家。数据为付费商业产品，许多大学通过机构协议提供给研究者使用。\n\n数据常用于研究劳动力需求和技能要求，例如追踪新冠疫情期间各行业和各工资水平岗位招聘的下降，或研究雇主技能要求的变化（“升级要求”）和人工智能相关岗位的扩散。在线广告对低技能岗位和小企业覆盖不足，一条广告可能对应多个岗位。",
+    "source": "付费商业（Lightcast 授权或机构协议）。",
+    "references": [
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.14.1",
     "title": "USDA NASS 农业普查与农业统计（Census of Agriculture、Quick Stats）",
     "links": [
@@ -38292,6 +38922,26 @@
         "pages": "4075–4103",
         "doi": "10.1257/aer.20240669",
         "url": "https://doi.org/10.1257/aer.20240669",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "title": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "authors": [
+          "Riley K. Acton",
+          "Wenjia Cao",
+          "Emily E. Cook",
+          "Scott A. Imberman",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2024,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1113–1158",
+        "doi": "10.3368/jhr.0123-12743r2",
+        "url": "https://doi.org/10.3368/jhr.0123-12743r2",
         "verified": true,
         "note": ""
       }
@@ -39828,6 +40478,26 @@
         "url": "https://doi.org/10.1257/aer.20240669",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "title": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "authors": [
+          "Riley K. Acton",
+          "Wenjia Cao",
+          "Emily E. Cook",
+          "Scott A. Imberman",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2024,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1113–1158",
+        "doi": "10.3368/jhr.0123-12743r2",
+        "url": "https://doi.org/10.3368/jhr.0123-12743r2",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40553,6 +41223,48 @@
         "pages": "1101–1144",
         "doi": "10.1162/qjec.2010.125.3.1101",
         "url": "https://doi.org/10.1162/qjec.2010.125.3.1101",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.33",
+    "title": "大学危机倡议（College Crisis Initiative，C2i）高校新冠政策数据",
+    "links": [
+      {
+        "label": "C2i Dashboard",
+        "url": "https://collegecrisis.shinyapps.io/dashboard/"
+      }
+    ],
+    "summary": "戴维森学院大学危机倡议整理的美国约 3,000 所高校在新冠疫情期间的教学方式、学生疫苗强制令、口罩和检测政策以及开学日期数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "健康数据"
+    ],
+    "introduction": "大学危机倡议（C2i）由戴维森学院于 2020 年建立，系统跟踪美国约 3,000 所两年制和四年制高校的新冠疫情应对，记录各学期的教学模式（线上、线下、混合）、学生和员工疫苗接种要求及其宣布和生效日期、口罩和检测规定以及开学日期，并可按 IPEDS 编号与高校特征合并。汇总数据通过 C2i 在线仪表板公开，详细数据可向 C2i 申请。\n\n数据常用于研究疫情期间的高校政策，例如利用高校宣布学生疫苗强制令的时间差异，研究强制令对所在县新冠病例和死亡的影响。政策信息来自高校网站和公告，执行程度和豁免比例不在其中。",
+    "source": "仪表板公开；详细数据向 C2i 申请。",
+    "references": [
+      {
+        "raw": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "title": "The Effect of Vaccine Mandates on Disease Spread: Evidence from College COVID-19 Mandates",
+        "authors": [
+          "Riley K. Acton",
+          "Wenjia Cao",
+          "Emily E. Cook",
+          "Scott A. Imberman",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2024,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1113–1158",
+        "doi": "10.3368/jhr.0123-12743r2",
+        "url": "https://doi.org/10.3368/jhr.0123-12743r2",
         "verified": true,
         "note": ""
       }
@@ -44878,6 +45590,81 @@
         "pages": "832–867",
         "doi": "10.1257/aer.104.3.832",
         "url": "https://doi.org/10.1257/aer.104.3.832",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.8.8",
+    "title": "法国公共药品数据库与医保药品价格库（BDPM、Ameli 药品报销基准）",
+    "links": [
+      {
+        "label": "Base de Données Publique des Médicaments",
+        "url": "https://base-donnees-publique.medicaments.gouv.fr"
+      }
+    ],
+    "summary": "法国政府发布的全部上市药品信息库，记录药品的适应症、剂型、上市许可和报销率，以及医疗保险局发布的各药品包装（CIP 码）的价格和报销基准。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "法国公共药品数据库（Base de Données Publique des Médicaments，BDPM）由法国卫生部、国家药品安全局（ANSM）、高级卫生管理局（HAS）和国家医疗保险基金联合发布，记录在法国上市的全部药品的成分、剂型、规格、上市许可日期、批准的适应症（产品特性摘要）、医疗服务评价（SMR/ASMR）、包装（CIP 码）、价格和医保报销率，可在线查询和整库免费下载。法国医疗保险局（Assurance Maladie，Ameli）另发布药品报销基准和价格文件。\n\n数据常用于研究法国药品市场和处方行为，例如根据药品获批适应症识别医生的“超说明书”处方，并结合药品价格评估限制超说明书用药的福利影响。适应症信息以当前版本为主，历史变更需从存档中重建。",
+    "source": "BDPM 网站免费下载。",
+    "references": [
+      {
+        "raw": "Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France",
+        "title": "Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France",
+        "authors": [
+          "Tuba Tunçel"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "2027–2070",
+        "doi": "10.1093/restud/rdae060",
+        "url": "https://doi.org/10.1093/restud/rdae060",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.8.9",
+    "title": "CEGEDIM 法国全科医生电子病历纵向数据库（Longitudinal Patient Database）",
+    "links": [
+      {
+        "label": "Cegedim",
+        "url": "https://www.cegedim.com/"
+      }
+    ],
+    "summary": "医疗信息公司 CEGEDIM 从使用其病历软件的法国全科医生处收集的匿名电子病历，记录患者就诊、诊断和处方，可纵向追踪医生和患者。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据",
+      "商业数据"
+    ],
+    "introduction": "CEGEDIM 纵向患者数据库（Longitudinal Patient Database，LPD，后归入 IQVIA 相关业务）收集法国使用 CEGEDIM 电子病历软件的约 1,200 名全科医生的匿名病历，记录患者的年龄和性别、每次就诊的诊断（ICD-10）、处方药品（含剂量和疗程）、检查和转诊，可按医生和患者标识纵向追踪。同类数据在英国称为 THIN。数据为付费商业产品，研究者需与数据公司签订协议。\n\n数据常用于研究法国医生的处方行为，例如识别医生开出的超出药品批准适应症的处方，估计医生对药品效果的学习，并评估禁止超说明书处方的政策效果。样本医生自愿使用该软件，对全体全科医生不一定有代表性。",
+    "source": "付费商业（数据协议）。",
+    "references": [
+      {
+        "raw": "Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France",
+        "title": "Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France",
+        "authors": [
+          "Tuba Tunçel"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "2027–2070",
+        "doi": "10.1093/restud/rdae060",
+        "url": "https://doi.org/10.1093/restud/rdae060",
         "verified": true,
         "note": ""
       }
@@ -51052,6 +51839,24 @@
         "url": "https://www.nber.org/papers/w30704",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Malaria eradication and economic outcomes in sub-Saharan Africa: Evidence from Uganda",
+        "title": "Malaria eradication and economic outcomes in sub-Saharan Africa: Evidence from Uganda",
+        "authors": [
+          "Jeremy Barofsky",
+          "Tobenna D. Anekwe",
+          "Claire Chase"
+        ],
+        "year": 2015,
+        "journal": "Journal of Health Economics",
+        "volume": "44",
+        "issue": "",
+        "pages": "118–136",
+        "doi": "10.1016/j.jhealeco.2015.08.002",
+        "url": "https://doi.org/10.1016/j.jhealeco.2015.08.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -51448,6 +52253,23 @@
         "pages": "1269–1334",
         "doi": "10.1093/qje/qjag005",
         "url": "https://doi.org/10.1093/qje/qjag005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Legacy of Colonial Medicine in Central Africa",
+        "title": "The Legacy of Colonial Medicine in Central Africa",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "4",
+        "pages": "1284–1314",
+        "doi": "10.1257/aer.20180284",
+        "url": "https://doi.org/10.1257/aer.20180284",
         "verified": true,
         "note": ""
       }
@@ -52735,6 +53557,74 @@
         "url": "https://doi.org/10.1162/qjec.121.1.73",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Disease and Development: Evidence from the American South",
+        "title": "Disease and Development: Evidence from the American South",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2003,
+        "journal": "Journal of the European Economic Association",
+        "volume": "1",
+        "issue": "2-3",
+        "pages": "376–386",
+        "doi": "10.1162/154247603322391017",
+        "url": "https://doi.org/10.1162/154247603322391017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure",
+        "title": "Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "2",
+        "issue": "2",
+        "pages": "1–45",
+        "doi": "10.1257/app.2.2.1",
+        "url": "https://doi.org/10.1257/app.2.2.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Malaria eradication and economic outcomes in sub-Saharan Africa: Evidence from Uganda",
+        "title": "Malaria eradication and economic outcomes in sub-Saharan Africa: Evidence from Uganda",
+        "authors": [
+          "Jeremy Barofsky",
+          "Tobenna D. Anekwe",
+          "Claire Chase"
+        ],
+        "year": 2015,
+        "journal": "Journal of Health Economics",
+        "volume": "44",
+        "issue": "",
+        "pages": "118–136",
+        "doi": "10.1016/j.jhealeco.2015.08.002",
+        "url": "https://doi.org/10.1016/j.jhealeco.2015.08.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Medical Technology and Life Expectancy: Evidence from the Antitoxin Treatment of Diphtheria",
+        "title": "Medical Technology and Life Expectancy: Evidence from the Antitoxin Treatment of Diphtheria",
+        "authors": [
+          "Philipp Ager",
+          "Casper W. Hansen",
+          "Peter Z. Lin"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "2",
+        "pages": "441–476",
+        "doi": "10.1257/pol.20240087",
+        "url": "https://doi.org/10.1257/pol.20240087",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53083,6 +53973,90 @@
         "pages": "155–192",
         "doi": "10.1257/app.20170201",
         "url": "https://doi.org/10.1257/app.20170201",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Malaria Eradication and Educational Attainment: Evidence from Paraguay and Sri Lanka",
+        "title": "Malaria Eradication and Educational Attainment: Evidence from Paraguay and Sri Lanka",
+        "authors": [
+          "Adrienne M. Lucas"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "2",
+        "issue": "2",
+        "pages": "46–71",
+        "doi": "10.1257/app.2.2.46",
+        "url": "https://doi.org/10.1257/app.2.2.46",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Legacy of Colonial Medicine in Central Africa",
+        "title": "The Legacy of Colonial Medicine in Central Africa",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "4",
+        "pages": "1284–1314",
+        "doi": "10.1257/aer.20180284",
+        "url": "https://doi.org/10.1257/aer.20180284",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sexually Transmitted Infections, Sexual Behavior, and the HIV/AIDS Epidemic",
+        "title": "Sexually Transmitted Infections, Sexual Behavior, and the HIV/AIDS Epidemic",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2005,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "2",
+        "pages": "467–515",
+        "doi": "10.1093/qje/120.2.467",
+        "url": "https://doi.org/10.1093/qje/120.2.467",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "title": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2012,
+        "journal": "Journal of the European Economic Association",
+        "volume": "10",
+        "issue": "5",
+        "pages": "1025–1058",
+        "doi": "10.1111/j.1542-4774.2012.01075.x",
+        "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Incentivizing Safer Sexual Behavior: Evidence from a Lottery Experiment on HIV Prevention",
+        "title": "Incentivizing Safer Sexual Behavior: Evidence from a Lottery Experiment on HIV Prevention",
+        "authors": [
+          "Martina Björkman Nyqvist",
+          "Lucia Corno",
+          "Damien de Walque",
+          "Jakob Svensson"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "10",
+        "issue": "3",
+        "pages": "287–314",
+        "doi": "10.1257/app.20160469",
+        "url": "https://doi.org/10.1257/app.20160469",
         "verified": true,
         "note": ""
       }
@@ -54578,6 +55552,61 @@
         "url": "https://doi.org/10.1093/restud/rdag024",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "title": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "authors": [
+          "Cem Çakmaklı",
+          "Selva Demiralp",
+          "Şebnem Kalemli-Özcan",
+          "Sevcan Yeşiltaş",
+          "Muhammed A. Yıldırım"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w28395",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "title": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2012,
+        "journal": "Journal of the European Economic Association",
+        "volume": "10",
+        "issue": "5",
+        "pages": "1025–1058",
+        "doi": "10.1111/j.1542-4774.2012.01075.x",
+        "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Incentivizing Safer Sexual Behavior: Evidence from a Lottery Experiment on HIV Prevention",
+        "title": "Incentivizing Safer Sexual Behavior: Evidence from a Lottery Experiment on HIV Prevention",
+        "authors": [
+          "Martina Björkman Nyqvist",
+          "Lucia Corno",
+          "Damien de Walque",
+          "Jakob Svensson"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "10",
+        "issue": "3",
+        "pages": "287–314",
+        "doi": "10.1257/app.20160469",
+        "url": "https://doi.org/10.1257/app.20160469",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55645,6 +56674,40 @@
         "url": "https://doi.org/10.1086/729065",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "title": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel P. Mihalache"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1243–1290",
+        "doi": "10.1093/restud/rdad058",
+        "url": "https://doi.org/10.1093/restud/rdad058",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "title": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2012,
+        "journal": "Journal of the European Economic Association",
+        "volume": "10",
+        "issue": "5",
+        "pages": "1025–1058",
+        "doi": "10.1111/j.1542-4774.2012.01075.x",
+        "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55917,6 +56980,24 @@
         "url": "https://doi.org/10.3368/jhr.0421-11629r2",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "title": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel P. Mihalache"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1243–1290",
+        "doi": "10.1093/restud/rdad058",
+        "url": "https://doi.org/10.1093/restud/rdad058",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -56166,6 +57247,23 @@
         "pages": "404–441",
         "doi": "10.1093/restud/rdae027",
         "url": "https://doi.org/10.1093/restud/rdae027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Legacy of Colonial Medicine in Central Africa",
+        "title": "The Legacy of Colonial Medicine in Central Africa",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "4",
+        "pages": "1284–1314",
+        "doi": "10.1257/aer.20180284",
+        "url": "https://doi.org/10.1257/aer.20180284",
         "verified": true,
         "note": ""
       }
@@ -56440,6 +57538,22 @@
         "pages": "672–701",
         "doi": "10.1111/jeea.12071",
         "url": "https://doi.org/10.1111/jeea.12071",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "title": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2012,
+        "journal": "Journal of the European Economic Association",
+        "volume": "10",
+        "issue": "5",
+        "pages": "1025–1058",
+        "doi": "10.1111/j.1542-4774.2012.01075.x",
+        "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
         "verified": true,
         "note": ""
       }
@@ -56771,6 +57885,23 @@
         "pages": "1269–1334",
         "doi": "10.1093/qje/qjag005",
         "url": "https://doi.org/10.1093/qje/qjag005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Legacy of Colonial Medicine in Central Africa",
+        "title": "The Legacy of Colonial Medicine in Central Africa",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "4",
+        "pages": "1284–1314",
+        "doi": "10.1257/aer.20180284",
+        "url": "https://doi.org/10.1257/aer.20180284",
         "verified": true,
         "note": ""
       }
@@ -57797,6 +58928,23 @@
         "pages": "1541–1581",
         "doi": "10.1093/restud/rdaa074",
         "url": "https://doi.org/10.1093/restud/rdaa074",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Legacy of Colonial Medicine in Central Africa",
+        "title": "The Legacy of Colonial Medicine in Central Africa",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "4",
+        "pages": "1284–1314",
+        "doi": "10.1257/aer.20180284",
+        "url": "https://doi.org/10.1257/aer.20180284",
         "verified": true,
         "note": ""
       }
@@ -59350,6 +60498,23 @@
         "pages": "105212",
         "doi": "10.1016/j.jpubeco.2024.105212",
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105212",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Legacy of Colonial Medicine in Central Africa",
+        "title": "The Legacy of Colonial Medicine in Central Africa",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "4",
+        "pages": "1284–1314",
+        "doi": "10.1257/aer.20180284",
+        "url": "https://doi.org/10.1257/aer.20180284",
         "verified": true,
         "note": ""
       }
@@ -64097,6 +65262,218 @@
     ]
   },
   {
+    "id": "7.8.3",
+    "title": "WHO ATC/DDD 药品分类与限定日剂量索引",
+    "links": [
+      {
+        "label": "WHOCC ATC/DDD Index",
+        "url": "https://atcddd.fhi.no/atc_ddd_index/"
+      }
+    ],
+    "summary": "世界卫生组织药物统计方法学合作中心维护的国际药品分类体系（解剖学—治疗学—化学分类，ATC）和每种药品的限定日剂量（DDD），用于跨国比较药品使用。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "ATC/DDD 系统由世界卫生组织药物统计方法学合作中心（设在挪威公共卫生研究所）维护：ATC 分类按药品作用的器官系统、治疗类别、药理和化学亚类把活性成分分为五级（如 C10AA01 辛伐他汀），DDD 规定每种药品用于主要适应症的成人日均维持剂量，便于把不同规格和包装的药品换算成统一的使用量。索引每年更新，可在合作中心网站免费在线查询。\n\n数据常用于药品经济学研究中的药品分类和用量标准化，例如按 ATC 类别界定相互竞争的药品市场，或把处方量换算为 DDD 比较不同国家和时期的药品消费。ATC 分类按主要用途划分，同一成分的多种适应症只对应一个代码。",
+    "source": "合作中心网站免费在线查询。",
+    "references": [
+      {
+        "raw": "Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France",
+        "title": "Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France",
+        "authors": [
+          "Tuba Tunçel"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "2027–2070",
+        "doi": "10.1093/restud/rdae060",
+        "url": "https://doi.org/10.1093/restud/rdae060",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.4",
+    "title": "全球新冠疫情数据（约翰斯·霍普金斯大学 CSSE 数据仓库、IHME 新冠估计）",
+    "links": [
+      {
+        "label": "JHU CSSE COVID-19 Data",
+        "url": "https://github.com/CSSEGISandData/COVID-19"
+      },
+      {
+        "label": "IHME COVID-19",
+        "url": "https://www.healthdata.org/covid"
+      }
+    ],
+    "summary": "约翰斯·霍普金斯大学系统科学与工程中心汇总的全球各国和地区每日新冠确诊和死亡数据，以及华盛顿大学健康指标与评估研究所（IHME）对各国感染、超额死亡和社交距离的模型估计。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "约翰斯·霍普金斯大学系统科学与工程中心（CSSE）的新冠数据仓库自 2020 年 1 月起汇总各国政府、世卫组织和地方卫生部门的通报，发布全球各国、省级和美国县级的每日累计确诊、死亡和康复人数，在 GitHub 免费下载，2023 年 3 月停止更新。华盛顿大学健康指标与评估研究所（IHME）的新冠项目发布各国和地区的每日估计感染数、感染致死率、超额死亡、检测、口罩使用和流动性（社交距离）指标，以及疫情预测，历史估计可在 IHME 网站下载。\n\n数据常用于跨国研究疫情传播和经济影响，例如用各国病例和死亡数据校准包含国际生产网络的流行病学—经济模型，或用 IHME 的超额死亡估计研究新兴市场国家的债务危机与防疫政策。各国检测能力和报告口径差异很大，官方确诊和死亡数据在低收入国家普遍低估。",
+    "source": "GitHub 和 IHME 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "title": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "authors": [
+          "Cem Çakmaklı",
+          "Selva Demiralp",
+          "Şebnem Kalemli-Özcan",
+          "Sevcan Yeşiltaş",
+          "Muhammed A. Yıldırım"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w28395",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "title": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel P. Mihalache"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1243–1290",
+        "doi": "10.1093/restud/rdad058",
+        "url": "https://doi.org/10.1093/restud/rdad058",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.5",
+    "title": "联合国艾滋病规划署 HIV/AIDS 估计（UNAIDS AIDSinfo）",
+    "links": [
+      {
+        "label": "UNAIDS AIDSinfo",
+        "url": "https://aidsinfo.unaids.org/"
+      }
+    ],
+    "summary": "联合国艾滋病规划署发布的各国 HIV 感染率、新发感染、艾滋病相关死亡、抗逆转录病毒治疗覆盖率等估计，1990 年起，可在 AIDSinfo 平台查询下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "联合国艾滋病规划署（UNAIDS）与各国合作，利用哨点监测、人口调查（如 DHS 中的 HIV 检测）和 Spectrum 模型，估计各国和部分地区的 HIV 感染人数和成人感染率、新发感染、艾滋病相关死亡、孤儿数量、母婴传播和抗逆转录病毒治疗覆盖率，每年更新并对历史序列重新估计，此前以国别概况表（Epidemiological Fact Sheets）发布，现通过 AIDSinfo 平台免费查询和下载。\n\n数据常用于研究 HIV/AIDS 流行的决定因素和影响，例如结合出口和交通数据研究贸易往来对非洲各国 HIV 传播的影响，或研究性传播感染与 HIV 流行程度的关系。估计依赖模型假设，每次更新都会修订历史数值，引用时需注明版本。",
+    "source": "AIDSinfo 平台免费下载。",
+    "references": [
+      {
+        "raw": "Sexually Transmitted Infections, Sexual Behavior, and the HIV/AIDS Epidemic",
+        "title": "Sexually Transmitted Infections, Sexual Behavior, and the HIV/AIDS Epidemic",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2005,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "2",
+        "pages": "467–515",
+        "doi": "10.1093/qje/120.2.467",
+        "url": "https://doi.org/10.1093/qje/120.2.467",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "title": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2012,
+        "journal": "Journal of the European Economic Association",
+        "volume": "10",
+        "issue": "5",
+        "pages": "1025–1058",
+        "doi": "10.1111/j.1542-4774.2012.01075.x",
+        "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.9.1",
+    "title": "谷歌新冠社区移动报告（Google COVID-19 Community Mobility Reports）",
+    "links": [
+      {
+        "label": "Google COVID-19 Community Mobility Reports",
+        "url": "https://www.google.com/covid19/mobility/"
+      }
+    ],
+    "summary": "谷歌基于用户位置记录发布的 2020 年 2 月至 2022 年 10 月全球各国、省级和县级每日到访零售娱乐、杂货药店、公园、交通站点、工作场所和居住地的人流变化。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据",
+      "健康数据"
+    ],
+    "introduction": "谷歌新冠社区移动报告利用开启位置记录的谷歌账户的匿名汇总数据，计算 2020 年 2 月 15 日至 2022 年 10 月 15 日期间，全球 130 多个国家及其省级、美国县级等地区每天到访六类场所（零售和娱乐、杂货店和药店、公园、公共交通站点、工作场所、居住地停留时长）的人流相对于 2020 年 1—2 月同期中位数的变化百分比。报告已停止更新，历史数据仍可在网站免费下载。\n\n数据常用于衡量疫情期间的社交距离和经济活动，例如研究封锁政策对出行的影响，或作为新兴市场国家疫情—经济模型中社交距离程度的数据。数据只代表使用谷歌位置服务的智能手机用户，不同国家的覆盖率差异较大。",
+    "source": "谷歌网站免费下载（已停止更新）。",
+    "references": [
+      {
+        "raw": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Michael Stepner",
+          "Opportunity Insights Team"
+        ],
+        "year": 2024,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "2",
+        "pages": "829–889",
+        "doi": "10.1093/qje/qjad048",
+        "url": "https://doi.org/10.1093/qje/qjad048",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "title": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel P. Mihalache"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1243–1290",
+        "doi": "10.1093/restud/rdad058",
+        "url": "https://doi.org/10.1093/restud/rdad058",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.10.1",
     "title": "全球治理指标（WGI）",
     "links": [
@@ -65468,6 +66845,24 @@
         "url": "https://doi.org/10.1093/qje/qjag011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "title": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel P. Mihalache"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1243–1290",
+        "doi": "10.1093/restud/rdad058",
+        "url": "https://doi.org/10.1093/restud/rdad058",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65655,6 +67050,46 @@
         "pages": "2137–2172",
         "doi": "10.1257/aer.20161343",
         "url": "https://doi.org/10.1257/aer.20161343",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.11",
+    "title": "CEIC 全球经济数据库",
+    "links": [
+      {
+        "label": "CEIC Data",
+        "url": "https://www.ceicdata.com/"
+      }
+    ],
+    "summary": "商业数据公司 CEIC 汇集的全球 200 多个经济体的宏观经济、行业和金融时间序列，对中国和新兴市场的覆盖尤为详细，需付费订阅。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "区域经济数据"
+    ],
+    "introduction": "CEIC 数据库（现属 ISI Markets）汇集全球 200 多个经济体的数百万条时间序列，包括国民账户、价格、就业、贸易、金融市场、财政和行业数据，以及中国省级和城市层面的详细统计，数据来自各国统计局、央行和行业机构，按统一格式整理并持续更新。数据通过付费订阅的网页平台和 Excel 插件获取，许多高校和研究机构提供机构订阅。\n\n数据常用于获取新兴市场国家的宏观和金融数据，例如收集拉美等新兴市场国家的季度产出、消费和政府债务，用于校准主权债务和疫情冲击的宏观模型。数据整理自官方来源，引用时最好核对原始发布机构。",
+    "source": "付费订阅（机构订阅）。",
+    "references": [
+      {
+        "raw": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "title": "Deadly Debt Crises: COVID-19 in Emerging Markets",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel P. Mihalache"
+        ],
+        "year": 2024,
+        "journal": "Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1243–1290",
+        "doi": "10.1093/restud/rdad058",
+        "url": "https://doi.org/10.1093/restud/rdad058",
         "verified": true,
         "note": ""
       }
@@ -68133,6 +69568,22 @@
         "url": "https://doi.org/10.1257/app.6.2.32",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "title": "Routes of Infection: Exports and HIV Incidence in Sub-Saharan Africa",
+        "authors": [
+          "Emily Oster"
+        ],
+        "year": 2012,
+        "journal": "Journal of the European Economic Association",
+        "volume": "10",
+        "issue": "5",
+        "pages": "1025–1058",
+        "doi": "10.1111/j.1542-4774.2012.01075.x",
+        "url": "https://doi.org/10.1111/j.1542-4774.2012.01075.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68441,6 +69892,47 @@
         "pages": "103258",
         "doi": "10.1016/j.jeem.2025.103258",
         "url": "https://doi.org/10.1016/j.jeem.2025.103258",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.14",
+    "title": "OECD 国家间投入产出表（ICIO）与贸易增加值、就业贸易数据库",
+    "links": [
+      {
+        "label": "OECD ICIO Tables",
+        "url": "https://www.oecd.org/en/data/datasets/inter-country-input-output-tables.html"
+      }
+    ],
+    "summary": "OECD 编制的覆盖 70 多个经济体、45 个行业的国家间投入产出表，以及据此计算的贸易增加值（TiVA）和贸易隐含就业（TiM）指标，免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "OECD 国家间投入产出表（Inter-Country Input-Output Tables，ICIO）整合各国供给使用表、双边贸易和国民账户数据，覆盖 76 个经济体（含其他地区合计）和 45 个 ISIC Rev.4 行业，最新版本时间跨度为 1995—2020 年前后，记录各国各行业之间的中间投入和最终需求流量。OECD 在此基础上发布贸易增加值数据库（TiVA）和贸易隐含就业数据库（Trade in Employment，TiM），以及贸易隐含碳排放数据（见 TECO2 条目）。数据在 OECD 网站免费下载。\n\n数据常用于研究全球价值链和冲击的国际传导，例如在多国生产网络模型中计算发达国家因其他国家未接种疫苗而承受的经济损失。不同版本之间行业划分和方法有调整，与 WIOD 等其他国际投入产出表的数值不完全一致。",
+    "source": "OECD 网站免费下载（官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "title": "The Economic Case for Global Vaccinations: An Epidemiological Model with International Production Networks",
+        "authors": [
+          "Cem Çakmaklı",
+          "Selva Demiralp",
+          "Şebnem Kalemli-Özcan",
+          "Sevcan Yeşiltaş",
+          "Muhammed A. Yıldırım"
+        ],
+        "year": 2025,
+        "journal": "Review of Economic Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.3386/w28395",
         "verified": true,
         "note": ""
       }
