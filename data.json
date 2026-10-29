@@ -5127,6 +5127,93 @@
     ]
   },
   {
+    "id": "1.12.2",
+    "title": "万得（Wind）金融终端数据",
+    "links": [
+      {
+        "label": "Wind 万得",
+        "url": "https://www.wind.com.cn/"
+      }
+    ],
+    "summary": "万得信息技术公司的中国金融数据终端，覆盖股票、债券、基金、期货、宏观经济和行业数据，是中国金融和公司财务实证研究最常用的商业数据库之一。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "Wind（万得）金融终端由上海万得信息技术股份有限公司提供，收录中国 A 股、港股和美股中概股的行情、财务报表和公司公告，银行间市场和交易所债券的发行条款、评级、估值和成交数据，公募基金和私募基金数据，商品期货行情，以及国家统计局、人民银行等发布的宏观经济和行业数据库（Wind 经济数据库 EDB），可通过终端、Excel 插件和 API 下载。数据为付费商业产品，国内高校和金融机构普遍订阅。\n\n数据常用于中国金融市场研究，例如获取企业债的发行特征、评级和交易所成交数据，研究回购质押资格变化对债券利差的影响，或获取上市公司财务和宏观序列。数据整合自多种来源，部分字段存在口径不一致，重要变量需与原始公告核对。",
+    "source": "付费商业（Wind 终端订阅）。",
+    "references": [
+      {
+        "raw": "Pledgeability and Asset Prices: Evidence from the Chinese Corporate Bond Markets",
+        "title": "Pledgeability and Asset Prices: Evidence from the Chinese Corporate Bond Markets",
+        "authors": [
+          "Hui Chen",
+          "Zhuo Chen",
+          "Zhiguo He",
+          "Jinyu Liu",
+          "Rengming Xie"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "5",
+        "pages": "2563–2620",
+        "doi": "10.1111/jofi.13266",
+        "url": "https://doi.org/10.1111/jofi.13266",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.12.3",
+    "title": "中国债券市场官方信息披露（中国货币网 CFETS、中国结算）",
+    "links": [
+      {
+        "label": "中国货币网",
+        "url": "https://www.chinamoney.com.cn/"
+      },
+      {
+        "label": "中国结算",
+        "url": "https://www.chinaclear.cn/"
+      }
+    ],
+    "summary": "中国外汇交易中心（中国货币网）发布的银行间债券和回购市场行情、成交和发行信息，以及中国证券登记结算公司发布的交易所债券质押式回购标准券折算率和质押资格名单。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "中国外汇交易中心暨全国银行间同业拆借中心（CFETS）通过中国货币网发布银行间市场的债券发行、成交行情、回购和拆借利率（如 DR、R 系列、Shibor）、收益率曲线和市场统计，部分历史成交明细需通过 CFETS 数据服务或 Wind 等商业终端获取。中国证券登记结算公司（中国结算）在其网站定期公告交易所债券质押式回购的标准券折算率，以及因评级或其他原因被暂停或恢复质押资格的债券名单，可免费查阅。\n\n数据常用于研究中国债券市场的流动性和定价，例如利用 2014 年底中国结算收紧企业债回购质押资格的政策，研究抵押品资格对债券收益率（便利收益）的影响。历史公告分散在各期通知中，需要手工整理成面板。",
+    "source": "中国货币网与中国结算网站免费查阅；明细数据需订阅。",
+    "references": [
+      {
+        "raw": "Pledgeability and Asset Prices: Evidence from the Chinese Corporate Bond Markets",
+        "title": "Pledgeability and Asset Prices: Evidence from the Chinese Corporate Bond Markets",
+        "authors": [
+          "Hui Chen",
+          "Zhuo Chen",
+          "Zhiguo He",
+          "Jinyu Liu",
+          "Rengming Xie"
+        ],
+        "year": 2023,
+        "journal": "The Journal of Finance",
+        "volume": "78",
+        "issue": "5",
+        "pages": "2563–2620",
+        "doi": "10.1111/jofi.13266",
+        "url": "https://doi.org/10.1111/jofi.13266",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "1.13.1",
     "title": "GfK 零售监测数据",
     "links": [
@@ -8620,6 +8707,24 @@
         "url": "https://doi.org/10.1093/qje/qjad048",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Information frictions and access to the Paycheck Protection Program",
+        "title": "Information frictions and access to the Paycheck Protection Program",
+        "authors": [
+          "John Eric Humphries",
+          "Christopher A. Neilson",
+          "Gabriel Ulyssea"
+        ],
+        "year": 2020,
+        "journal": "Journal of Public Economics",
+        "volume": "190",
+        "issue": "",
+        "pages": "104244",
+        "doi": "10.1016/j.jpubeco.2020.104244",
+        "url": "https://doi.org/10.1016/j.jpubeco.2020.104244",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11068,6 +11173,25 @@
         "url": "https://doi.org/10.3386/w28395",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Bank liquidity provision across the firm size distribution",
+        "title": "Bank liquidity provision across the firm size distribution",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Olivier Darmouni",
+          "Stephan Luck",
+          "Matthew Plosser"
+        ],
+        "year": 2022,
+        "journal": "Journal of Financial Economics",
+        "volume": "144",
+        "issue": "3",
+        "pages": "908–932",
+        "doi": "10.1016/j.jfineco.2021.06.035",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11470,7 +11594,25 @@
     ],
     "introduction": "邓白氏（Dun & Bradstreet，D&B）是一家商业信息服务机构，其数据库以邓氏编码（D-U-N-S Number）识别企业，包含企业名称与地址、行业代码、员工人数、销售额估计、成立年份、经营状态以及母公司与子公司的股权关联等信息，覆盖美国及全球大量企业，包括没有公开上市的私营企业。\n\n数据主要通过企业登记、公开记录、信用往来和直接核实等渠道汇集，属于商业数据库，字段和覆盖范围随产品而异。学术研究常通过高校订阅的数据服务访问，或使用基于邓白氏历史档案加工的衍生数据（如 NETS），用于研究企业分布、进入退出和企业间关联。\n\n主要局限包括：规模和就业等字段部分为估计值，不同年份的更新频率不一致，小型企业与新设企业的记录质量有差异；历史档案与当期产品的覆盖范围不同。",
     "source": "从 Dun & Bradstreet 或能够证明授权的数据服务获取相应产品，通常适用商业许可或机构协议。已有机构订阅不代表所有成员、项目或转发行为均获授权，应核对实际合同范围。",
-    "references": []
+    "references": [
+      {
+        "raw": "Investment when new capital is hard to find",
+        "title": "Investment when new capital is hard to find",
+        "authors": [
+          "Olivier Darmouni",
+          "Andrew Sutherland"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "103806",
+        "doi": "10.1016/j.jfineco.2024.103806",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103806",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.3.3",
@@ -11579,6 +11721,43 @@
         "pages": "1787–1835",
         "doi": "10.1093/qje/qjt022",
         "url": "https://doi.org/10.1093/qje/qjt022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Asset Allocation in Bankruptcy",
+        "title": "Asset Allocation in Bankruptcy",
+        "authors": [
+          "Shai Bernstein",
+          "Emanuele Colonnelli",
+          "Benjamin Iverson"
+        ],
+        "year": 2019,
+        "journal": "The Journal of Finance",
+        "volume": "74",
+        "issue": "1",
+        "pages": "5–53",
+        "doi": "10.1111/jofi.12740",
+        "url": "https://doi.org/10.1111/jofi.12740",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bankruptcy spillovers",
+        "title": "Bankruptcy spillovers",
+        "authors": [
+          "Shai Bernstein",
+          "Emanuele Colonnelli",
+          "Xavier Giroud",
+          "Benjamin Iverson"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "133",
+        "issue": "3",
+        "pages": "608–633",
+        "doi": "10.1016/j.jfineco.2018.09.010",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.09.010",
         "verified": true,
         "note": ""
       }
@@ -12303,6 +12482,129 @@
         "pages": "102550",
         "doi": "10.1016/j.jeem.2021.102550",
         "url": "https://doi.org/10.1016/j.jeem.2021.102550",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.3.14",
+    "title": "美国企业统计（Statistics of U.S. Businesses，SUSB）",
+    "links": [
+      {
+        "label": "Census Bureau: SUSB",
+        "url": "https://www.census.gov/programs-surveys/susb.html"
+      }
+    ],
+    "summary": "美国人口普查局根据商业登记册编制的年度企业统计，按企业规模（雇员数）、行业和地区汇总企业数、机构数、就业和工资，1988 年起免费发布。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "区域经济数据"
+    ],
+    "introduction": "美国企业统计（SUSB）由美国人口普查局基于商业登记册编制，覆盖除农业和政府外几乎所有有雇员的私人企业，每年按企业雇员规模分组（如 0—4、5—9、20—99、100—499、500 人以上）和 NAICS 行业，提供全国、州、都市区和县层面的企业数、机构数、3 月就业人数和年度工资总额，经济普查年份另有收入数据，并发布机构进入、退出和就业变动数据，免费下载。\n\n数据常用于描述小企业的规模分布，例如计算各行业小企业的就业份额，作为小企业调查的抽样框和加权基准，或研究小企业在疫情中的脆弱性。数据只包括有雇员的企业，非雇主企业需用 Nonemployer Statistics。",
+    "source": "人口普查局网站免费下载。",
+    "references": [
+      {
+        "raw": "Information frictions and access to the Paycheck Protection Program",
+        "title": "Information frictions and access to the Paycheck Protection Program",
+        "authors": [
+          "John Eric Humphries",
+          "Christopher A. Neilson",
+          "Gabriel Ulyssea"
+        ],
+        "year": 2020,
+        "journal": "Journal of Public Economics",
+        "volume": "190",
+        "issue": "",
+        "pages": "104244",
+        "doi": "10.1016/j.jpubeco.2020.104244",
+        "url": "https://doi.org/10.1016/j.jpubeco.2020.104244",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.3.15",
+    "title": "美国人口普查局小企业脉搏调查与企业趋势展望调查（SBPS / BTOS）",
+    "links": [
+      {
+        "label": "Census Bureau: Small Business Pulse Survey",
+        "url": "https://www.census.gov/data/experimental-data-products/small-business-pulse-survey.html"
+      },
+      {
+        "label": "Census Bureau: Business Trends and Outlook Survey",
+        "url": "https://www.census.gov/data/experimental-data-products/business-trends-and-outlook-survey.html"
+      }
+    ],
+    "summary": "美国人口普查局 2020 年 4 月起开展的高频小企业调查，记录新冠疫情期间小企业的经营、雇佣、现金状况和政府援助申请，2022 年后由企业趋势展望调查（BTOS）接续。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "微观调查数据"
+    ],
+    "introduction": "小企业脉搏调查（Small Business Pulse Survey，SBPS）是美国人口普查局为监测新冠疫情冲击于 2020 年 4 月推出的实验性调查，每周或每两周向 1—499 名雇员的雇主小企业发放问卷，询问营业收入、雇员人数和工时变化、门店关闭、供应链中断、现金储备可维持时间以及 PPP、EIDL 等政府援助的申请和获得情况；2022 年起由覆盖所有规模雇主企业的企业趋势与展望调查（Business Trends and Outlook Survey，BTOS）接续，每两周一次。汇总结果按全国、州、大都市区和行业公开免费下载。\n\n数据常用于描述疫情期间小企业的状况，例如作为基准检验研究者自行开展的小企业调查的代表性，或研究小企业对纾困政策的依赖。只公布汇总估计，回应率较低。",
+    "source": "人口普查局网站免费下载（汇总结果）。",
+    "references": [
+      {
+        "raw": "Information frictions and access to the Paycheck Protection Program",
+        "title": "Information frictions and access to the Paycheck Protection Program",
+        "authors": [
+          "John Eric Humphries",
+          "Christopher A. Neilson",
+          "Gabriel Ulyssea"
+        ],
+        "year": 2020,
+        "journal": "Journal of Public Economics",
+        "volume": "190",
+        "issue": "",
+        "pages": "104244",
+        "doi": "10.1016/j.jpubeco.2020.104244",
+        "url": "https://doi.org/10.1016/j.jpubeco.2020.104244",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.3.16",
+    "title": "Randall-Reilly 设备数据（EDA，基于 UCC 担保融资登记）",
+    "links": [
+      {
+        "label": "Randall-Reilly",
+        "url": "https://www.randallreilly.com/"
+      }
+    ],
+    "summary": "Randall-Reilly 旗下 Equipment Data Associates 根据各州 UCC-1 担保融资登记整理的美国企业设备购置和融资交易数据，记录买方企业、设备类型、出卖方和融资方。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "金融数据"
+    ],
+    "introduction": "Equipment Data Associates（EDA）是商业数据公司 Randall-Reilly 的产品，收集美国各州根据《统一商法典》（UCC）提交的 UCC-1 担保融资声明，从中识别以设备为抵押的融资和租赁交易，记录交易日期、买方企业名称和地址、设备类别、品牌和型号、新旧状态、经销商以及提供融资的银行、设备制造商专属金融公司或租赁公司，覆盖建筑、农业、运输和工业设备，数据主要面向设备制造商和经销商的市场营销，需付费购买。\n\n数据可用于研究企业的设备投资和担保融资，例如识别中小企业的设备购置和融资来源，研究抵押品价值和贷款人类型对企业投资的影响。只覆盖登记了 UCC 担保权益的设备交易，现金购买的设备不在其中。",
+    "source": "付费商业（Randall-Reilly 销售）。",
+    "references": [
+      {
+        "raw": "Investment when new capital is hard to find",
+        "title": "Investment when new capital is hard to find",
+        "authors": [
+          "Olivier Darmouni",
+          "Andrew Sutherland"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "103806",
+        "doi": "10.1016/j.jfineco.2024.103806",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103806",
         "verified": true,
         "note": ""
       }
@@ -14841,6 +15143,25 @@
         "url": "https://doi.org/10.2307/2118322",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Bank liquidity provision across the firm size distribution",
+        "title": "Bank liquidity provision across the firm size distribution",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Olivier Darmouni",
+          "Stephan Luck",
+          "Matthew Plosser"
+        ],
+        "year": 2022,
+        "journal": "Journal of Financial Economics",
+        "volume": "144",
+        "issue": "3",
+        "pages": "908–932",
+        "doi": "10.1016/j.jfineco.2021.06.035",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16188,6 +16509,47 @@
         "pages": "1731–1762",
         "doi": "10.1111/1540-6261.00476",
         "url": "https://doi.org/10.1111/1540-6261.00476",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.32",
+    "title": "美国人口普查局月度零售贸易调查（Monthly Retail Trade Survey）",
+    "links": [
+      {
+        "label": "Census Bureau: Monthly Retail Trade",
+        "url": "https://www.census.gov/retail/index.html"
+      }
+    ],
+    "summary": "美国人口普查局按月发布的全国零售和餐饮服务业销售额及库存统计，按行业细分，1992 年起（部分序列更早），免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "商业数据"
+    ],
+    "introduction": "月度零售贸易调查（Monthly Retail Trade Survey，MRTS）由美国人口普查局对约 1.3 万家零售和餐饮企业抽样，估计全国零售和餐饮服务业的月度销售额、电子商务销售额和月末库存，按 NAICS 三位和四位行业（如汽车经销、食品杂货、服装、加油站、餐饮）发布经季节调整和未调整的序列，每月中旬发布提前估计（Advance Monthly Retail Trade），年度零售贸易调查用于基准修订；数据在人口普查局网站和经济指标数据库免费下载。\n\n数据常用于衡量消费需求和行业冲击，例如按行业比较疫情期间的销售额下降幅度，构造行业层面需求冲击的暴露度指标。只有全国层面数据，没有地区细分。",
+    "source": "人口普查局网站免费下载。",
+    "references": [
+      {
+        "raw": "Bank liquidity provision across the firm size distribution",
+        "title": "Bank liquidity provision across the firm size distribution",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Olivier Darmouni",
+          "Stephan Luck",
+          "Matthew Plosser"
+        ],
+        "year": 2022,
+        "journal": "Journal of Financial Economics",
+        "volume": "144",
+        "issue": "3",
+        "pages": "908–932",
+        "doi": "10.1016/j.jfineco.2021.06.035",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
         "verified": true,
         "note": ""
       }
@@ -36658,6 +37020,69 @@
     ]
   },
   {
+    "id": "2.10.19",
+    "title": "美国联邦法院电子案卷（PACER）与商业法律数据库中的破产申请记录",
+    "links": [
+      {
+        "label": "PACER",
+        "url": "https://pacer.uscourts.gov/"
+      },
+      {
+        "label": "LexisNexis",
+        "url": "https://www.lexisnexis.com/"
+      }
+    ],
+    "summary": "美国联邦法院公共电子案卷系统 PACER 收录的破产法院案件记录，以及 LexisNexis CourtLink、Bloomberg Law 等据此整理的破产申请数据，可识别企业第 7 章和第 11 章破产案件及其法官分配。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "政治数据"
+    ],
+    "introduction": "PACER（Public Access to Court Electronic Records）是美国联邦司法系统的电子案卷系统，收录联邦地区法院、上诉法院和破产法院的案件登记和文件，破产案件可检索债务人名称、申请章节（第 7 章清算、第 11 章重整）、申请日期、法院和分配的法官以及案件进展，按页付费（每季度少量免费）。LexisNexis（CourtLink）、Bloomberg Law 等商业法律数据库整合 PACER 记录并提供批量检索，学术研究也常使用 UCLA-LoPucki 破产研究数据库等整理版本。\n\n数据常用于研究企业破产，例如利用破产法官的随机分配及其将第 11 章案件转为第 7 章的倾向差异，识别清算与重整对企业所在地就业和企业存活的影响。批量获取 PACER 记录成本较高，商业数据库的覆盖年份和字段因产品而异。",
+    "source": "PACER 按页付费；商业数据库需订阅。",
+    "references": [
+      {
+        "raw": "Asset Allocation in Bankruptcy",
+        "title": "Asset Allocation in Bankruptcy",
+        "authors": [
+          "Shai Bernstein",
+          "Emanuele Colonnelli",
+          "Benjamin Iverson"
+        ],
+        "year": 2019,
+        "journal": "The Journal of Finance",
+        "volume": "74",
+        "issue": "1",
+        "pages": "5–53",
+        "doi": "10.1111/jofi.12740",
+        "url": "https://doi.org/10.1111/jofi.12740",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bankruptcy spillovers",
+        "title": "Bankruptcy spillovers",
+        "authors": [
+          "Shai Bernstein",
+          "Emanuele Colonnelli",
+          "Xavier Giroud",
+          "Benjamin Iverson"
+        ],
+        "year": 2019,
+        "journal": "Journal of Financial Economics",
+        "volume": "133",
+        "issue": "3",
+        "pages": "608–633",
+        "doi": "10.1016/j.jfineco.2018.09.010",
+        "url": "https://doi.org/10.1016/j.jfineco.2018.09.010",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.11.1",
     "title": "Zillow 房地产数据（ZTRAX 交易与评估记录、ZHVI 房价指数）",
     "links": [
@@ -36988,6 +37413,24 @@
         "pages": "165–188",
         "doi": "10.1257/pol.20170481",
         "url": "https://doi.org/10.1257/pol.20170481",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Asset Allocation in Bankruptcy",
+        "title": "Asset Allocation in Bankruptcy",
+        "authors": [
+          "Shai Bernstein",
+          "Emanuele Colonnelli",
+          "Benjamin Iverson"
+        ],
+        "year": 2019,
+        "journal": "The Journal of Finance",
+        "volume": "74",
+        "issue": "1",
+        "pages": "5–53",
+        "doi": "10.1111/jofi.12740",
+        "url": "https://doi.org/10.1111/jofi.12740",
         "verified": true,
         "note": ""
       }
@@ -38192,6 +38635,23 @@
         "url": "https://doi.org/10.1257/aer.102.6.2381",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "title": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2005,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "3",
+        "pages": "791–833",
+        "doi": "10.1162/003355305774268174",
+        "url": "https://doi.org/10.1162/003355305774268174",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38598,6 +39058,41 @@
         "pages": "105654",
         "doi": "10.1016/j.jpubeco.2026.105654",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment when new capital is hard to find",
+        "title": "Investment when new capital is hard to find",
+        "authors": [
+          "Olivier Darmouni",
+          "Andrew Sutherland"
+        ],
+        "year": 2024,
+        "journal": "Journal of Financial Economics",
+        "volume": "154",
+        "issue": "",
+        "pages": "103806",
+        "doi": "10.1016/j.jfineco.2024.103806",
+        "url": "https://doi.org/10.1016/j.jfineco.2024.103806",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Technical Default Spread",
+        "title": "The Technical Default Spread",
+        "authors": [
+          "Emilio Bisetti",
+          "Kai Li",
+          "Jun Yu"
+        ],
+        "year": 2024,
+        "journal": "The Review of Financial Studies",
+        "volume": "37",
+        "issue": "11",
+        "pages": "3386–3430",
+        "doi": "10.1093/rfs/hhae042",
+        "url": "https://doi.org/10.1093/rfs/hhae042",
         "verified": true,
         "note": ""
       }
@@ -39197,6 +39692,60 @@
         "url": "https://doi.org/10.1111/1540-6261.00476",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "title": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2005,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "3",
+        "pages": "791–833",
+        "doi": "10.1162/003355305774268174",
+        "url": "https://doi.org/10.1162/003355305774268174",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Technical Default Spread",
+        "title": "The Technical Default Spread",
+        "authors": [
+          "Emilio Bisetti",
+          "Kai Li",
+          "Jun Yu"
+        ],
+        "year": 2024,
+        "journal": "The Review of Financial Studies",
+        "volume": "37",
+        "issue": "11",
+        "pages": "3386–3430",
+        "doi": "10.1093/rfs/hhae042",
+        "url": "https://doi.org/10.1093/rfs/hhae042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bank liquidity provision across the firm size distribution",
+        "title": "Bank liquidity provision across the firm size distribution",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Olivier Darmouni",
+          "Stephan Luck",
+          "Matthew Plosser"
+        ],
+        "year": 2022,
+        "journal": "Journal of Financial Economics",
+        "volume": "144",
+        "issue": "3",
+        "pages": "908–932",
+        "doi": "10.1016/j.jfineco.2021.06.035",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39234,6 +39783,475 @@
         "pages": "969–1005",
         "doi": "10.1162/00335530360698478",
         "url": "https://doi.org/10.1162/00335530360698478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "title": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2005,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "3",
+        "pages": "791–833",
+        "doi": "10.1162/003355305774268174",
+        "url": "https://doi.org/10.1162/003355305774268174",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dividend and Corporate Taxation in an Agency Model of the Firm",
+        "title": "Dividend and Corporate Taxation in an Agency Model of the Firm",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "3",
+        "pages": "1–31",
+        "doi": "10.1257/pol.2.3.1",
+        "url": "https://doi.org/10.1257/pol.2.3.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Technical Default Spread",
+        "title": "The Technical Default Spread",
+        "authors": [
+          "Emilio Bisetti",
+          "Kai Li",
+          "Jun Yu"
+        ],
+        "year": 2024,
+        "journal": "The Review of Financial Studies",
+        "volume": "37",
+        "issue": "11",
+        "pages": "3386–3430",
+        "doi": "10.1093/rfs/hhae042",
+        "url": "https://doi.org/10.1093/rfs/hhae042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.18",
+    "title": "标普 ExecuComp 高管薪酬数据库",
+    "links": [
+      {
+        "label": "S&P Global: ExecuComp",
+        "url": "https://www.spglobal.com/marketintelligence/en/solutions/products/execucomp"
+      }
+    ],
+    "summary": "标普全球市场财智编制的美国上市公司高管薪酬数据库，1992 年起覆盖标普 1500 成分公司前五名高管的工资、奖金、股票和期权授予及持股，是高管薪酬研究的标准数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "ExecuComp 由标准普尔（现 S&P Global Market Intelligence）根据上市公司向 SEC 提交的委托书（DEF 14A）整理，覆盖 1992 年以来标普 500、中盘 400 和小盘 600 成分公司（含已出指数公司），记录每家公司薪酬最高的五名左右高管的姓名、职位、任期、工资、奖金、限制性股票和期权授予价值、长期激励、已持有股票和期权，以及 CEO 标识；2006 年 SEC 披露规则改革后薪酬字段口径有变化。数据为付费商业产品，学术研究通常经 WRDS 机构订阅访问，可用 GVKEY 与 Compustat 合并。\n\n数据常用于研究高管激励和公司治理，例如计算 CEO 持股和期权的薪酬-业绩敏感度，研究管理层持股对股利政策和资本结构的影响。只覆盖指数成分公司，小公司和 1992 年以前的研究需手工收集委托书。",
+    "source": "付费商业（通常经 WRDS 机构订阅；官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "title": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2005,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "3",
+        "pages": "791–833",
+        "doi": "10.1162/003355305774268174",
+        "url": "https://doi.org/10.1162/003355305774268174",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dividend and Corporate Taxation in an Agency Model of the Firm",
+        "title": "Dividend and Corporate Taxation in an Agency Model of the Firm",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "3",
+        "pages": "1–31",
+        "doi": "10.1257/pol.2.3.1",
+        "url": "https://doi.org/10.1257/pol.2.3.1",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.19",
+    "title": "SEC 13F 机构投资者持股数据（Thomson/LSEG 13F）",
+    "links": [
+      {
+        "label": "SEC: Form 13F Data Sets",
+        "url": "https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets"
+      }
+    ],
+    "summary": "管理资产超过 1 亿美元的机构投资者按季度向 SEC 报送的 13F 表持股记录，以及汤森路透（现 LSEG）据此整理的机构持股数据库，覆盖 1980 年以来。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "根据 1975 年《证券交易法》修订，管理资产超过 1 亿美元的机构投资管理人须在每季度末后 45 天内向 SEC 提交 13F 表，披露其持有的美国上市股票等证券的名称、CUSIP 和股数。汤森路透（现 LSEG）把 1980 年以来的 13F 报告整理为机构持股数据库（WRDS 上称 Thomson Reuters Institutional Holdings，s34），记录每家机构每季度的持股，并对机构类型分类；SEC 自 2013 年起在网站提供 13F 结构化数据集免费下载，EDGAR 中可查 1999 年以来的原始报告。\n\n数据常用于研究机构投资者和公司治理，例如计算上市公司的机构持股比例和集中度，研究机构投资者偏好对公司股利政策的影响。13F 只报告多头股票持仓，小机构和卖空不在其中，早期数据存在重复和缺失报告。",
+    "source": "SEC 结构化数据集免费下载（官网对自动访问返回 403）；整理版经 WRDS 订阅。",
+    "references": [
+      {
+        "raw": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "title": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2005,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "3",
+        "pages": "791–833",
+        "doi": "10.1162/003355305774268174",
+        "url": "https://doi.org/10.1162/003355305774268174",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.20",
+    "title": "ISS（原 IRRC）董事与公司治理数据库",
+    "links": [
+      {
+        "label": "ISS Governance",
+        "url": "https://www.issgovernance.com/"
+      }
+    ],
+    "summary": "机构股东服务公司（ISS）维护的美国上市公司董事、治理条款和股东提案数据库，前身为投资者责任研究中心（IRRC）1990 年代起收集的数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "ISS（Institutional Shareholder Services）收购的投资者责任研究中心（IRRC）自 1990 年起收集标普 1500 公司的治理数据，现由 ISS 维护，包括董事数据库（1996 年起，记录每位董事的独立性、任期、年龄、持股、委员会任职和其他董事职位）、治理条款数据库（1990 年起，记录毒丸计划、交错董事会等反收购条款，是 Gompers-Ishii-Metrick 治理指数的来源）和股东提案、投票结果数据。数据为付费商业产品，学术研究多经 WRDS 机构订阅访问（ISS Directors、Governance、Voting Analytics）。\n\n数据常用于公司治理研究，例如衡量董事会独立性和规模，研究治理结构对高管薪酬和股利政策的影响。数据只覆盖较大上市公司，2007 年前后数据结构有调整，跨期合并需注意字段变化。",
+    "source": "付费商业（经 ISS 或 WRDS 机构订阅）。",
+    "references": [
+      {
+        "raw": "Dividend and Corporate Taxation in an Agency Model of the Firm",
+        "title": "Dividend and Corporate Taxation in an Agency Model of the Firm",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "3",
+        "pages": "1–31",
+        "doi": "10.1257/pol.2.3.1",
+        "url": "https://doi.org/10.1257/pol.2.3.1",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.21",
+    "title": "LPC DealScan 银团贷款数据库",
+    "links": [
+      {
+        "label": "LSEG LPC LoanConnector",
+        "url": "https://www.loanconnector.com/"
+      }
+    ],
+    "summary": "路透贷款定价公司（LPC，现属 LSEG）编制的全球银团贷款和大额商业贷款数据库，记录 1980 年代以来贷款的金额、利差、期限、贷款人和财务契约条款。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "DealScan 由 Loan Pricing Corporation 自 1980 年代建立，后归属汤森路透和 LSEG（现通过 LoanConnector 平台提供），主要依据 SEC 文件、贷款人报告和媒体收集全球银团贷款和部分双边贷款，记录每笔贷款合同（deal）和分档（facility）的借款人、金额、期限、贷款类型、利差和费用、担保、用途、牵头行和参贷行名单以及财务契约（如最低利息覆盖率、最高杠杆率）条款，美国数据最为完整。数据为付费商业产品，学术研究多经 WRDS 订阅，借款人可用 Chava-Roberts 链接表与 Compustat 合并。\n\n数据常用于研究银行贷款和债务契约，例如识别企业的财务契约阈值，研究契约违约后债权人控制权对企业投资和融资的影响，或研究银行冲击通过贷款关系向企业传导。参贷行份额和贷款后续修改的记录不完整，小企业贷款覆盖很少。",
+    "source": "付费商业（LSEG LoanConnector 或经 WRDS 机构订阅）。",
+    "references": [
+      {
+        "raw": "The Technical Default Spread",
+        "title": "The Technical Default Spread",
+        "authors": [
+          "Emilio Bisetti",
+          "Kai Li",
+          "Jun Yu"
+        ],
+        "year": 2024,
+        "journal": "The Review of Financial Studies",
+        "volume": "37",
+        "issue": "11",
+        "pages": "3386–3430",
+        "doi": "10.1093/rfs/hhae042",
+        "url": "https://doi.org/10.1093/rfs/hhae042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.22",
+    "title": "Fama-French 因子与组合收益数据库（Kenneth French Data Library）",
+    "links": [
+      {
+        "label": "Kenneth R. French Data Library",
+        "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html"
+      }
+    ],
+    "summary": "Kenneth French 在达特茅斯塔克商学院网站免费发布的资产定价因子和投资组合收益数据，包括市场、规模、价值、盈利、投资和动量因子及各类排序组合，1926 年起。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Kenneth French 数据库根据 CRSP 和 Compustat 计算并定期更新美国股票市场的 Fama-French 三因子（市场超额收益、SMB、HML）、五因子（加 RMW、CMA）和动量因子的日度、周度、月度和年度收益，按规模、账面市值比、盈利、投资、动量、行业等排序的各类投资组合收益，以及国际和新兴市场因子，美国数据从 1926 年 7 月开始，网站免费下载。\n\n数据常用于资产定价和公司金融中的风险调整，例如用因子模型计算股票的超额收益（alpha），控制公司风险暴露，或获取行业分类（Fama-French 12、48 行业）。因子构造方法会随数据修订和方法更新而小幅变化，复现时应记录下载日期。",
+    "source": "网站免费下载。",
+    "references": [
+      {
+        "raw": "The Technical Default Spread",
+        "title": "The Technical Default Spread",
+        "authors": [
+          "Emilio Bisetti",
+          "Kai Li",
+          "Jun Yu"
+        ],
+        "year": 2024,
+        "journal": "The Review of Financial Studies",
+        "volume": "37",
+        "issue": "11",
+        "pages": "3386–3430",
+        "doi": "10.1093/rfs/hhae042",
+        "url": "https://doi.org/10.1093/rfs/hhae042",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.23",
+    "title": "Mergent FISD 固定收益证券数据库",
+    "links": [
+      {
+        "label": "FTSE Russell: Mergent data",
+        "url": "https://www.ftserussell.com/data/fixed-income-data/mergent"
+      }
+    ],
+    "summary": "Mergent（现属 FTSE Russell）编制的美国公司债、机构债和中期票据发行数据库，记录约 14 万只债券的发行条款、评级、契约条款和后续变动。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "固定收益证券数据库（Fixed Income Securities Database，FISD）由 Mergent 编制，现属 LSEG 旗下 FTSE Russell，覆盖 1990 年代以来（部分可回溯更早）美国发行的公司债、美国机构债、中期票据和扬基债，记录发行人、发行日期、发行金额、票面利率、期限、可赎回和可转换条款、优先级、债券契约条款（保护性条款）、信用评级历史以及赎回、违约等事件。数据为付费商业产品，学术研究多经 WRDS 订阅，可与 TRACE 交易数据按 CUSIP 合并。\n\n数据常用于研究公司债融资，例如识别企业的债券发行和到期结构，研究疫情期间企业通过债券市场替代银行信贷的程度，或研究债券契约条款的决定因素。私募债和小额发行的覆盖不完整。",
+    "source": "付费商业（FTSE Russell 或经 WRDS 机构订阅）。",
+    "references": [
+      {
+        "raw": "Bank liquidity provision across the firm size distribution",
+        "title": "Bank liquidity provision across the firm size distribution",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Olivier Darmouni",
+          "Stephan Luck",
+          "Matthew Plosser"
+        ],
+        "year": 2022,
+        "journal": "Journal of Financial Economics",
+        "volume": "144",
+        "issue": "3",
+        "pages": "908–932",
+        "doi": "10.1016/j.jfineco.2021.06.035",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.24",
+    "title": "美国银行监管财务报表（Call Report、FR Y-9C）",
+    "links": [
+      {
+        "label": "FFIEC Central Data Repository",
+        "url": "https://cdr.ffiec.gov/public/"
+      },
+      {
+        "label": "Federal Reserve: FR Y-9C",
+        "url": "https://www.federalreserve.gov/apps/reportingforms/Report/Index/FR_Y-9C"
+      }
+    ],
+    "summary": "美国商业银行按季度提交的财务状况和收益报告（Call Report，FFIEC 031/041/051）以及银行控股公司合并财务报表（FR Y-9C），公开免费下载，是美国银行业研究的基础数据。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "所有受联邦存款保险的商业银行须按季度向监管机构提交财务状况和收益报告（Call Report），内容包括资产负债表、损益表、贷款分类（含工商业贷款、房地产贷款和小企业贷款 RC-C Part II）、存款、资本和不良贷款，数据由 FFIEC 中央数据存储库（CDR）公开，1976 年以来的历史数据可通过芝加哥联储和 WRDS 获取。资产超过一定规模的银行控股公司另须向美联储提交合并财务报表 FR Y-9C，数据通过国家信息中心（NIC）免费下载。\n\n数据常用于研究银行信贷供给和银行冲击的传导，例如用小企业贷款余额研究疫情期间银行信贷的变化，或用银行资本和流动性指标衡量银行受冲击程度。报表项目和口径多次调整，构造长期面板需对照 MDRM 变量字典。",
+    "source": "FFIEC CDR 与美联储 NIC 免费下载（ffiec.gov 部分页面对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Bank liquidity provision across the firm size distribution",
+        "title": "Bank liquidity provision across the firm size distribution",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Olivier Darmouni",
+          "Stephan Luck",
+          "Matthew Plosser"
+        ],
+        "year": 2022,
+        "journal": "Journal of Financial Economics",
+        "volume": "144",
+        "issue": "3",
+        "pages": "908–932",
+        "doi": "10.1016/j.jfineco.2021.06.035",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.25",
+    "title": "社区再投资法（CRA）小企业与小农场贷款数据",
+    "links": [
+      {
+        "label": "FFIEC: CRA Data",
+        "url": "https://www.ffiec.gov/data/cra"
+      }
+    ],
+    "summary": "联邦金融机构检查委员会（FFIEC）根据《社区再投资法》发布的大型银行小企业和小农场贷款发放数据，1996 年起按县和人口普查区汇总，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "《社区再投资法》（CRA）要求资产超过一定门槛的银行和储蓄机构每年报告其发放的小企业贷款（金额不超过 100 万美元）和小农场贷款（不超过 50 万美元），FFIEC 自 1996 年起汇总发布，提供按银行、县和人口普查区统计的贷款笔数和金额，并按贷款规模（10 万、25 万、100 万美元以下）和借款企业年收入（是否低于 100 万美元）分组。数据在 FFIEC 网站免费下载。\n\n数据常用于研究地方小企业信贷供给，例如衡量各县小企业贷款对大银行的依赖程度，研究银行冲击或银行网点关闭对地方小企业信贷和就业的影响。小银行不需报告，因此数据低估了社区银行占比高地区的小企业信贷。",
+    "source": "FFIEC 网站免费下载（官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Asset Allocation in Bankruptcy",
+        "title": "Asset Allocation in Bankruptcy",
+        "authors": [
+          "Shai Bernstein",
+          "Emanuele Colonnelli",
+          "Benjamin Iverson"
+        ],
+        "year": 2019,
+        "journal": "The Journal of Finance",
+        "volume": "74",
+        "issue": "1",
+        "pages": "5–53",
+        "doi": "10.1111/jofi.12740",
+        "url": "https://doi.org/10.1111/jofi.12740",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.26",
+    "title": "SBA 工资保护计划（PPP）贷款数据",
+    "links": [
+      {
+        "label": "SBA: PPP FOIA data",
+        "url": "https://data.sba.gov/dataset/ppp-foia"
+      }
+    ],
+    "summary": "美国小企业管理局依据信息公开法发布的 2020—2021 年工资保护计划逐笔贷款数据，约 1,100 万笔，记录借款企业、地址、行业、贷款金额、贷款机构和保留岗位数。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "工资保护计划（Paycheck Protection Program，PPP）是 2020 年《CARES 法》设立的新冠疫情小企业纾困贷款计划，由小企业管理局（SBA）担保、商业银行和非银行机构发放，满足用工条件可免除偿还。SBA 依据信息公开法（FOIA）在数据门户公开全部贷款的逐笔记录，包括借款人名称和地址、NAICS 行业、企业类型、贷款金额、批准日期、发放贷款的机构、申报保留的岗位数和免除状态，免费下载。\n\n数据常用于研究疫情纾困政策和银行关系，例如研究银行与企业的既有关系如何影响 PPP 贷款的获得，或 PPP 对就业和企业存活的影响。岗位数为借款人自报，存在欺诈贷款，地址需自行地理编码。",
+    "source": "SBA 数据门户免费下载。",
+    "references": [
+      {
+        "raw": "Bank liquidity provision across the firm size distribution",
+        "title": "Bank liquidity provision across the firm size distribution",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Olivier Darmouni",
+          "Stephan Luck",
+          "Matthew Plosser"
+        ],
+        "year": 2022,
+        "journal": "Journal of Financial Economics",
+        "volume": "144",
+        "issue": "3",
+        "pages": "908–932",
+        "doi": "10.1016/j.jfineco.2021.06.035",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.27",
+    "title": "美联储高级信贷员意见调查（SLOOS）",
+    "links": [
+      {
+        "label": "Federal Reserve: SLOOS",
+        "url": "https://www.federalreserve.gov/data/sloos.htm"
+      }
+    ],
+    "summary": "美联储按季度对约 80 家国内银行和 20 余家外资银行美国分支高级信贷员开展的调查，记录银行对企业和家庭贷款标准、条件和贷款需求的变化，1967 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "高级信贷员意见调查（Senior Loan Officer Opinion Survey on Bank Lending Practices，SLOOS）由美联储理事会开展，现行形式自 1990 年起，每年最多六次（通常每季度一次），询问大型银行过去三个月对工商业贷款、商业地产贷款、住房抵押贷款和消费贷款的审批标准、贷款条件（利差、额度、抵押、契约）和贷款需求的变化，并有针对时事的专题问题；汇总结果（收紧或放松的净比例）在美联储网站免费下载。\n\n数据常用于衡量银行信贷供给条件，例如作为宏观层面银行信贷紧缩的指标，研究疫情期间银行对企业贷款条件的收紧。只公布汇总结果，样本为大型银行，个体银行的回答不公开。",
+    "source": "美联储网站免费下载。",
+    "references": [
+      {
+        "raw": "Bank liquidity provision across the firm size distribution",
+        "title": "Bank liquidity provision across the firm size distribution",
+        "authors": [
+          "Gabriel Chodorow-Reich",
+          "Olivier Darmouni",
+          "Stephan Luck",
+          "Matthew Plosser"
+        ],
+        "year": 2022,
+        "journal": "Journal of Financial Economics",
+        "volume": "144",
+        "issue": "3",
+        "pages": "908–932",
+        "doi": "10.1016/j.jfineco.2021.06.035",
+        "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
         "verified": true,
         "note": ""
       }
@@ -44359,6 +45377,24 @@
         "pages": "208–223",
         "doi": "10.1016/j.jeem.2011.08.003",
         "url": "https://doi.org/10.1016/j.jeem.2011.08.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Uncertainty and Investment Dynamics",
+        "title": "Uncertainty and Investment Dynamics",
+        "authors": [
+          "Nick Bloom",
+          "Stephen Bond",
+          "John Van Reenen"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economic Studies",
+        "volume": "74",
+        "issue": "2",
+        "pages": "391–415",
+        "doi": "10.1111/j.1467-937X.2007.00426.x",
+        "url": "https://doi.org/10.1111/j.1467-937X.2007.00426.x",
         "verified": true,
         "note": ""
       }
@@ -69676,6 +70712,24 @@
         "url": "https://doi.org/10.1257/aer.20161343",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Uncertainty and Investment Dynamics",
+        "title": "Uncertainty and Investment Dynamics",
+        "authors": [
+          "Nick Bloom",
+          "Stephen Bond",
+          "John Van Reenen"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economic Studies",
+        "volume": "74",
+        "issue": "2",
+        "pages": "391–415",
+        "doi": "10.1111/j.1467-937X.2007.00426.x",
+        "url": "https://doi.org/10.1111/j.1467-937X.2007.00426.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69752,6 +70806,44 @@
         "pages": "1731–1762",
         "doi": "10.1111/1540-6261.00476",
         "url": "https://doi.org/10.1111/1540-6261.00476",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.13",
+    "title": "I/B/E/S 分析师盈利预测数据库",
+    "links": [
+      {
+        "label": "LSEG: I/B/E/S Estimates",
+        "url": "https://www.lseg.com/en/data-analytics/financial-data/company-data/ibes-estimates"
+      }
+    ],
+    "summary": "原汤森路透（现 LSEG）的机构经纪人预测系统，记录 1976 年以来全球证券分析师对上市公司每股收益、销售额等指标的预测、推荐评级和实际值。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "I/B/E/S（Institutional Brokers' Estimate System）由 Lynch, Jones & Ryan 于 1976 年创建，后归属汤森路透，现为 LSEG 数据产品，收录美国（1976 年起）和国际（1987 年起）上市公司的分析师盈利预测，包括逐条分析师预测（Detail）和一致预期汇总（Summary）、每股收益、销售额、现金流等指标的季度和年度预测、长期增长率预测、股票推荐评级、目标价和公司公布的实际值。数据为付费商业产品，学术研究多经 WRDS 机构订阅访问。\n\n数据常用于研究分析师行为和市场预期，例如用盈利预测误差衡量盈余意外，研究股利公告的信息含量，或用分析师覆盖度衡量信息不对称。数据存在回溯修订和分析师匿名化处理，研究需使用不调整的历史版本。",
+    "source": "付费商业（LSEG 订阅或经 WRDS 机构订阅）。",
+    "references": [
+      {
+        "raw": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "title": "Dividend Taxes and Corporate Behavior: Evidence From the 2003 Dividend Tax Cut",
+        "authors": [
+          "Raj Chetty",
+          "Emmanuel Saez"
+        ],
+        "year": 2005,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "120",
+        "issue": "3",
+        "pages": "791–833",
+        "doi": "10.1162/003355305774268174",
+        "url": "https://doi.org/10.1162/003355305774268174",
         "verified": true,
         "note": ""
       }
