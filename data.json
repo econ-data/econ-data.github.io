@@ -5429,6 +5429,22 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Private Net Benefits of Residential Solar PV: The Role of Electricity Tariffs, Tax Incentives, and Rebates",
+        "title": "Private Net Benefits of Residential Solar PV: The Role of Electricity Tariffs, Tax Incentives, and Rebates",
+        "authors": [
+          "Severin Borenstein"
+        ],
+        "year": 2017,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "4",
+        "issue": "S1",
+        "pages": "S85–S122",
+        "doi": "10.1086/691978",
+        "url": "https://doi.org/10.1086/691978",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6591,6 +6607,40 @@
         "pages": "S41–S69",
         "doi": "10.1086/732516",
         "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pass-Through as a Test for Market Power: An Application to Solar Subsidies",
+        "title": "Pass-Through as a Test for Market Power: An Application to Solar Subsidies",
+        "authors": [
+          "Jacquelyn Pless",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "4",
+        "pages": "367–401",
+        "doi": "10.1257/app.20170611",
+        "url": "https://doi.org/10.1257/app.20170611",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "title": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "authors": [
+          "Ashley Langer",
+          "Derek Lemoine"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "6",
+        "pages": "1197–1234",
+        "doi": "10.1086/719949",
+        "url": "https://doi.org/10.1086/719949",
         "verified": true,
         "note": ""
       }
@@ -11170,6 +11220,40 @@
         "url": "https://doi.org/10.1162/REST_a_00291",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Incidence of the US-China Solar Trade War",
+        "title": "The Incidence of the US-China Solar Trade War",
+        "authors": [
+          "Wenjun Wang",
+          "Sébastien Houde"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "1",
+        "pages": "41–75",
+        "doi": "10.1086/736763",
+        "url": "https://doi.org/10.1086/736763",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pass-Through as a Test for Market Power: An Application to Solar Subsidies",
+        "title": "Pass-Through as a Test for Market Power: An Application to Solar Subsidies",
+        "authors": [
+          "Jacquelyn Pless",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "4",
+        "pages": "367–401",
+        "doi": "10.1257/app.20170611",
+        "url": "https://doi.org/10.1257/app.20170611",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13053,6 +13137,45 @@
     ]
   },
   {
+    "id": "2.5.18",
+    "title": "谷歌 Project Sunroof 屋顶光伏潜力数据",
+    "links": [
+      {
+        "label": "Project Sunroof Data Explorer",
+        "url": "https://sunroof.withgoogle.com/data-explorer/"
+      }
+    ],
+    "summary": "谷歌基于航拍影像和三维建模估计的美国建筑屋顶光伏潜力数据，按邮编、普查区、县和州汇总适合安装光伏的屋顶数量、面积和潜在发电量。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "地理数据"
+    ],
+    "introduction": "Project Sunroof 由谷歌于 2015 年推出，利用谷歌地图航拍影像和三维建筑模型，结合屋顶朝向、坡度、遮荫和当地日照，估计每栋建筑屋顶的可用面积和光伏发电潜力。其 Data Explorer 按州、县、城市、邮编和普查区汇总适合安装光伏的建筑数量、屋顶面积、潜在装机容量和年发电量以及已安装光伏的估计数量，可免费下载；覆盖美国大部分人口地区。\n\n数据常用于度量各地区的屋顶光伏潜力，例如控制地区屋顶光伏适宜性，研究美国对华光伏关税对美国光伏安装商和消费者的影响归宿。覆盖范围取决于谷歌航拍影像的可得性，部分农村地区缺失。",
+    "source": "谷歌 Project Sunroof 网站免费下载。",
+    "references": [
+      {
+        "raw": "The Incidence of the US-China Solar Trade War",
+        "title": "The Incidence of the US-China Solar Trade War",
+        "authors": [
+          "Wenjun Wang",
+          "Sébastien Houde"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "1",
+        "pages": "41–75",
+        "doi": "10.1086/736763",
+        "url": "https://doi.org/10.1086/736763",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.6.1",
     "title": "PRISM 美国格网气候数据",
     "links": [
@@ -14159,6 +14282,23 @@
         "pages": "75–87",
         "doi": "10.1162/rest.89.1.75",
         "url": "https://doi.org/10.1162/rest.89.1.75",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "title": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "authors": [
+          "Don Fullerton",
+          "Chi L. Ta"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1086/730267",
+        "url": "https://doi.org/10.1086/730267",
         "verified": true,
         "note": ""
       }
@@ -16557,6 +16697,40 @@
         "url": "https://doi.org/10.1257/pol.20190390",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Getting Green with Solar Subsidies: Evidence from the California Solar Initiative",
+        "title": "Getting Green with Solar Subsidies: Evidence from the California Solar Initiative",
+        "authors": [
+          "Jonathan E. Hughes",
+          "Molly Podolefsky"
+        ],
+        "year": 2015,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "2",
+        "issue": "2",
+        "pages": "235–275",
+        "doi": "10.1086/681131",
+        "url": "https://doi.org/10.1086/681131",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "title": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "authors": [
+          "Harrison Fell",
+          "Joshua Linn"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "66",
+        "issue": "3",
+        "pages": "688–707",
+        "doi": "10.1016/j.jeem.2013.03.004",
+        "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16850,6 +17024,23 @@
         "pages": "S41–S69",
         "doi": "10.1086/732516",
         "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Getting Green with Solar Subsidies: Evidence from the California Solar Initiative",
+        "title": "Getting Green with Solar Subsidies: Evidence from the California Solar Initiative",
+        "authors": [
+          "Jonathan E. Hughes",
+          "Molly Podolefsky"
+        ],
+        "year": 2015,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "2",
+        "issue": "2",
+        "pages": "235–275",
+        "doi": "10.1086/681131",
+        "url": "https://doi.org/10.1086/681131",
         "verified": true,
         "note": ""
       }
@@ -20195,6 +20386,63 @@
         "url": "https://doi.org/10.1162/REST_a_00291",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "title": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "authors": [
+          "Don Fullerton",
+          "Chi L. Ta"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1086/730267",
+        "url": "https://doi.org/10.1086/730267",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.75",
+    "title": "阿贡国家实验室 GREET 全生命周期排放模型",
+    "links": [
+      {
+        "label": "ANL GREET",
+        "url": "https://greet.anl.gov/"
+      }
+    ],
+    "summary": "美国阿贡国家实验室开发的交通燃料和车辆全生命周期温室气体、空气污染物排放和能源使用模型，覆盖汽油、柴油、乙醇、电力、氢等燃料路径。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据",
+      "交通数据"
+    ],
+    "introduction": "GREET（Greenhouse gases, Regulated Emissions, and Energy use in Technologies）模型由美国能源部阿贡国家实验室自 1995 年起开发并每年更新，计算各类交通燃料从原料开采、生产、运输到车辆使用（“从油井到车轮”）以及车辆制造和回收全过程的温室气体排放、标准污染物排放和能源使用，覆盖汽油、柴油、天然气、玉米和纤维素乙醇、生物柴油、电力、氢等数百种燃料路径和多种车型；加州低碳燃料标准（LCFS）使用其修改版（CA-GREET）计算燃料碳强度。模型以 Excel 和网页版免费提供。\n\n数据常用于评估低碳燃料政策，例如以 GREET 给出的各燃料碳强度，研究低碳燃料标准是否真正降低温室气体排放。模型结果依赖大量参数假设，间接土地利用变化等排放的估计不确定性很大。",
+    "source": "阿贡国家实验室网站免费下载（链接经搜索确认，网站对自动访问返回验证页）。",
+    "references": [
+      {
+        "raw": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "title": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "authors": [
+          "Stephen P. Holland",
+          "Jonathan E. Hughes",
+          "Christopher R. Knittel"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "1",
+        "issue": "1",
+        "pages": "106–146",
+        "doi": "10.1257/pol.1.1.106",
+        "url": "https://doi.org/10.1257/pol.1.1.106",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21073,6 +21321,57 @@
         "url": "https://doi.org/10.1086/700419",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Positive Spillovers from Infrastructure Investment: How Pipeline Expansions Encourage Fuel Switching",
+        "title": "Positive Spillovers from Infrastructure Investment: How Pipeline Expansions Encourage Fuel Switching",
+        "authors": [
+          "Jonathan B. Scott"
+        ],
+        "year": 2023,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "6",
+        "pages": "1448–1464",
+        "doi": "10.1162/rest_a_01137",
+        "url": "https://doi.org/10.1162/rest_a_01137",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "title": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "authors": [
+          "Joseph E. Aldy",
+          "Todd D. Gerarden",
+          "Richard L. Sweeney"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "981–1018",
+        "doi": "10.1086/723142",
+        "url": "https://doi.org/10.1086/723142",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
+        "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
+        "authors": [
+          "Michael David Ricks",
+          "Owen Kay"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "12",
+        "pages": "3801–3845",
+        "doi": "10.1086/738139",
+        "url": "https://doi.org/10.1086/738139",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21523,6 +21822,41 @@
         "pages": "394–410",
         "doi": "10.1016/j.jeem.2012.10.003",
         "url": "https://doi.org/10.1016/j.jeem.2012.10.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "title": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "authors": [
+          "Stephen P. Holland",
+          "Jonathan E. Hughes",
+          "Christopher R. Knittel"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "1",
+        "issue": "1",
+        "pages": "106–146",
+        "doi": "10.1257/pol.1.1.106",
+        "url": "https://doi.org/10.1257/pol.1.1.106",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Incidence of the US-China Solar Trade War",
+        "title": "The Incidence of the US-China Solar Trade War",
+        "authors": [
+          "Wenjun Wang",
+          "Sébastien Houde"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "1",
+        "pages": "41–75",
+        "doi": "10.1086/736763",
+        "url": "https://doi.org/10.1086/736763",
         "verified": true,
         "note": ""
       }
@@ -22150,6 +22484,41 @@
         "url": "https://doi.org/10.1086/700419",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "title": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "authors": [
+          "Don Fullerton",
+          "Chi L. Ta"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1086/730267",
+        "url": "https://doi.org/10.1086/730267",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "title": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "authors": [
+          "Joseph E. Aldy",
+          "Todd D. Gerarden",
+          "Richard L. Sweeney"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "981–1018",
+        "doi": "10.1086/723142",
+        "url": "https://doi.org/10.1086/723142",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22575,6 +22944,41 @@
         "url": "https://doi.org/10.1086/694179",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "title": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "authors": [
+          "Joseph E. Aldy",
+          "Todd D. Gerarden",
+          "Richard L. Sweeney"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "981–1018",
+        "doi": "10.1086/723142",
+        "url": "https://doi.org/10.1086/723142",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "title": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "authors": [
+          "Harrison Fell",
+          "Joshua Linn"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "66",
+        "issue": "3",
+        "pages": "688–707",
+        "doi": "10.1016/j.jeem.2013.03.004",
+        "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22920,6 +23324,23 @@
         "pages": "187–213",
         "doi": "10.1086/700419",
         "url": "https://doi.org/10.1086/700419",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "title": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "authors": [
+          "Don Fullerton",
+          "Chi L. Ta"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1086/730267",
+        "url": "https://doi.org/10.1086/730267",
         "verified": true,
         "note": ""
       }
@@ -23385,6 +23806,24 @@
         "url": "https://doi.org/10.1016/j.jeem.2018.05.006",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "title": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "authors": [
+          "Stephen P. Holland",
+          "Jonathan E. Hughes",
+          "Christopher R. Knittel"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "1",
+        "issue": "1",
+        "pages": "106–146",
+        "doi": "10.1257/pol.1.1.106",
+        "url": "https://doi.org/10.1257/pol.1.1.106",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23439,6 +23878,22 @@
         "pages": "S95–S127",
         "doi": "10.1086/701189",
         "url": "https://doi.org/10.1086/701189",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Net Benefits of Residential Solar PV: The Role of Electricity Tariffs, Tax Incentives, and Rebates",
+        "title": "Private Net Benefits of Residential Solar PV: The Role of Electricity Tariffs, Tax Incentives, and Rebates",
+        "authors": [
+          "Severin Borenstein"
+        ],
+        "year": 2017,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "4",
+        "issue": "S1",
+        "pages": "S85–S122",
+        "doi": "10.1086/691978",
+        "url": "https://doi.org/10.1086/691978",
         "verified": true,
         "note": ""
       }
@@ -23983,6 +24438,23 @@
         "url": "https://doi.org/10.1257/pol.1.2.72",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "title": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "authors": [
+          "Harrison Fell",
+          "Joshua Linn"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "66",
+        "issue": "3",
+        "pages": "688–707",
+        "doi": "10.1016/j.jeem.2013.03.004",
+        "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24121,6 +24593,24 @@
         "pages": "2265–2295",
         "doi": "10.1257/aer.103.6.2265",
         "url": "https://doi.org/10.1257/aer.103.6.2265",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "title": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "authors": [
+          "Stephen P. Holland",
+          "Jonathan E. Hughes",
+          "Christopher R. Knittel"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "1",
+        "issue": "1",
+        "pages": "106–146",
+        "doi": "10.1257/pol.1.1.106",
+        "url": "https://doi.org/10.1257/pol.1.1.106",
         "verified": true,
         "note": ""
       }
@@ -24375,6 +24865,23 @@
         "pages": "142–162",
         "doi": "10.1016/j.jeem.2007.11.001",
         "url": "https://doi.org/10.1016/j.jeem.2007.11.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "title": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "authors": [
+          "Harrison Fell",
+          "Joshua Linn"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "66",
+        "issue": "3",
+        "pages": "688–707",
+        "doi": "10.1016/j.jeem.2013.03.004",
+        "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
         "verified": true,
         "note": ""
       }
@@ -24760,6 +25267,23 @@
         "url": "https://doi.org/10.1257/aer.20172015",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "title": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "authors": [
+          "Harrison Fell",
+          "Joshua Linn"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "66",
+        "issue": "3",
+        "pages": "688–707",
+        "doi": "10.1016/j.jeem.2013.03.004",
+        "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24836,6 +25360,23 @@
         "pages": "97–134",
         "doi": "10.1086/676038",
         "url": "https://doi.org/10.1086/676038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "title": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "authors": [
+          "Harrison Fell",
+          "Joshua Linn"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "66",
+        "issue": "3",
+        "pages": "688–707",
+        "doi": "10.1016/j.jeem.2013.03.004",
+        "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
         "verified": true,
         "note": ""
       }
@@ -24983,6 +25524,40 @@
         "pages": "78–100",
         "doi": "10.1016/j.jeem.2018.05.006",
         "url": "https://doi.org/10.1016/j.jeem.2018.05.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "title": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "authors": [
+          "Ashley Langer",
+          "Derek Lemoine"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "6",
+        "pages": "1197–1234",
+        "doi": "10.1086/719949",
+        "url": "https://doi.org/10.1086/719949",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "title": "Renewable electricity policies, heterogeneity, and cost effectiveness",
+        "authors": [
+          "Harrison Fell",
+          "Joshua Linn"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "66",
+        "issue": "3",
+        "pages": "688–707",
+        "doi": "10.1016/j.jeem.2013.03.004",
+        "url": "https://doi.org/10.1016/j.jeem.2013.03.004",
         "verified": true,
         "note": ""
       }
@@ -25193,6 +25768,23 @@
         "pages": "78–100",
         "doi": "10.1016/j.jeem.2018.05.006",
         "url": "https://doi.org/10.1016/j.jeem.2018.05.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "title": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "authors": [
+          "Don Fullerton",
+          "Chi L. Ta"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1086/730267",
+        "url": "https://doi.org/10.1086/730267",
         "verified": true,
         "note": ""
       }
@@ -25531,6 +26123,39 @@
         "url": "https://doi.org/10.1086/694179",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Incidence of the US-China Solar Trade War",
+        "title": "The Incidence of the US-China Solar Trade War",
+        "authors": [
+          "Wenjun Wang",
+          "Sébastien Houde"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "1",
+        "pages": "41–75",
+        "doi": "10.1086/736763",
+        "url": "https://doi.org/10.1086/736763",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Net Benefits of Residential Solar PV: The Role of Electricity Tariffs, Tax Incentives, and Rebates",
+        "title": "Private Net Benefits of Residential Solar PV: The Role of Electricity Tariffs, Tax Incentives, and Rebates",
+        "authors": [
+          "Severin Borenstein"
+        ],
+        "year": 2017,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "4",
+        "issue": "S1",
+        "pages": "S85–S122",
+        "doi": "10.1086/691978",
+        "url": "https://doi.org/10.1086/691978",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25588,6 +26213,202 @@
         "pages": "983–1022",
         "doi": "10.1086/732801",
         "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "title": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "authors": [
+          "Joseph E. Aldy",
+          "Todd D. Gerarden",
+          "Richard L. Sweeney"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "981–1018",
+        "doi": "10.1086/723142",
+        "url": "https://doi.org/10.1086/723142",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
+        "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
+        "authors": [
+          "Michael David Ricks",
+          "Owen Kay"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "12",
+        "pages": "3801–3845",
+        "doi": "10.1086/738139",
+        "url": "https://doi.org/10.1086/738139",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.51",
+    "title": "加州太阳能倡议与分布式发电统计（CSI / CaliforniaDGStats）",
+    "links": [
+      {
+        "label": "CaliforniaDGStats Downloads",
+        "url": "https://www.californiadgstats.ca.gov/downloads/"
+      }
+    ],
+    "summary": "加州公用事业委员会发布的加州太阳能倡议补贴申请和三大电力公司并网的分布式光伏项目级数据，记录装机容量、成本、补贴、安装商和所有权形式。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "加州太阳能倡议（California Solar Initiative，CSI）是加州公用事业委员会（CPUC）2007—2016 年实施的光伏补贴计划，由 PG&E、SCE 和 SDG&E 服务区的项目管理机构执行。其公开的 Working Data Set 记录每个补贴申请的项目编号、邮编、用户类型、系统容量、预计发电量、安装总成本、补贴金额和补贴档位、申请和完工日期、安装商、组件和逆变器以及是否第三方所有（租赁或购电协议）；CSI 结束后，CaliforniaDGStats 网站继续发布三大电力公司的分布式发电并网项目数据（NEM 并网数据）。数据免费下载。\n\n数据常用于研究光伏补贴的效果和市场结构，例如利用补贴档位随累计装机下降的设计，研究补贴对光伏采用的影响、补贴向消费者价格的传导以及动态补贴的最优设计。早期数据的安装成本为自报，第三方所有项目的成本口径与自有项目不同。",
+    "source": "CaliforniaDGStats 网站免费下载。",
+    "references": [
+      {
+        "raw": "Getting Green with Solar Subsidies: Evidence from the California Solar Initiative",
+        "title": "Getting Green with Solar Subsidies: Evidence from the California Solar Initiative",
+        "authors": [
+          "Jonathan E. Hughes",
+          "Molly Podolefsky"
+        ],
+        "year": 2015,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "2",
+        "issue": "2",
+        "pages": "235–275",
+        "doi": "10.1086/681131",
+        "url": "https://doi.org/10.1086/681131",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pass-Through as a Test for Market Power: An Application to Solar Subsidies",
+        "title": "Pass-Through as a Test for Market Power: An Application to Solar Subsidies",
+        "authors": [
+          "Jacquelyn Pless",
+          "Arthur A. van Benthem"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "11",
+        "issue": "4",
+        "pages": "367–401",
+        "doi": "10.1257/app.20170611",
+        "url": "https://doi.org/10.1257/app.20170611",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "title": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "authors": [
+          "Ashley Langer",
+          "Derek Lemoine"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "6",
+        "pages": "1197–1234",
+        "doi": "10.1086/719949",
+        "url": "https://doi.org/10.1086/719949",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Net Benefits of Residential Solar PV: The Role of Electricity Tariffs, Tax Incentives, and Rebates",
+        "title": "Private Net Benefits of Residential Solar PV: The Role of Electricity Tariffs, Tax Incentives, and Rebates",
+        "authors": [
+          "Severin Borenstein"
+        ],
+        "year": 2017,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "4",
+        "issue": "S1",
+        "pages": "S85–S122",
+        "doi": "10.1086/691978",
+        "url": "https://doi.org/10.1086/691978",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.52",
+    "title": "美国财政部 Section 1603 可再生能源现金补助项目数据",
+    "links": [
+      {
+        "label": "Treasury 1603 Program",
+        "url": "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/1603-program-payments-for-specified-energy-property-in-lieu-of-tax-credits"
+      }
+    ],
+    "summary": "美国财政部公布的 2009 年《复苏法案》第 1603 条款下可再生能源项目以现金补助替代税收抵免的获奖名单，记录项目所在州、技术类型和补助金额。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据",
+      "金融数据"
+    ],
+    "introduction": "第 1603 条款项目（Payments for Specified Energy Property in Lieu of Tax Credits）依据 2009 年《美国复苏与再投资法案》设立，由美国财政部管理，允许风电、光伏、地热、生物质等可再生能源项目选择领取相当于投资额 30%（部分技术 10%）的现金补助，以替代生产税收抵免（PTC）或投资税收抵免（ITC），适用于 2009—2011 年开工的项目，共支付约 260 亿美元。财政部网站公布获奖项目清单，记录获奖方名称、项目所在州、技术类型、补助金额和发放日期。数据免费下载。\n\n数据常用于研究可再生能源补贴形式的影响，例如比较领取投资补助和产出补贴的风电场的发电表现，或研究可退还补助与不可退还税收抵免对投资的不同影响。清单不含项目精确位置，需要与 EIA-860 等数据匹配。",
+    "source": "财政部网站免费下载。",
+    "references": [
+      {
+        "raw": "Nonrefundable Tax Credits versus Grants: The Impact of Subsidy Form on the Effectiveness of Subsidies for Renewable Energy",
+        "title": "Nonrefundable Tax Credits versus Grants: The Impact of Subsidy Form on the Effectiveness of Subsidies for Renewable Energy",
+        "authors": [
+          "Sarah Johnston"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "3",
+        "pages": "433–460",
+        "doi": "10.1086/702736",
+        "url": "https://doi.org/10.1086/702736",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "title": "Investment versus Output Subsidies: Implications of Alternative Incentives for Wind Energy",
+        "authors": [
+          "Joseph E. Aldy",
+          "Todd D. Gerarden",
+          "Richard L. Sweeney"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "4",
+        "pages": "981–1018",
+        "doi": "10.1086/723142",
+        "url": "https://doi.org/10.1086/723142",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
+        "title": "Time-Limited Subsidies: Optimal Taxation with Implications for Renewable Energy Subsidies",
+        "authors": [
+          "Michael David Ricks",
+          "Owen Kay"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "12",
+        "pages": "3801–3845",
+        "doi": "10.1086/738139",
+        "url": "https://doi.org/10.1086/738139",
         "verified": true,
         "note": ""
       }
@@ -27122,6 +27943,24 @@
         "url": "https://doi.org/10.1257/aer.20181346",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "title": "Greenhouse Gas Reductions under Low Carbon Fuel Standards?",
+        "authors": [
+          "Stephen P. Holland",
+          "Jonathan E. Hughes",
+          "Christopher R. Knittel"
+        ],
+        "year": 2009,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "1",
+        "issue": "1",
+        "pages": "106–146",
+        "doi": "10.1257/pol.1.1.106",
+        "url": "https://doi.org/10.1257/pol.1.1.106",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27868,6 +28707,23 @@
         "url": "https://doi.org/10.1086/715415",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "title": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "authors": [
+          "Ashley Langer",
+          "Derek Lemoine"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "6",
+        "pages": "1197–1234",
+        "doi": "10.1086/719949",
+        "url": "https://doi.org/10.1086/719949",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28328,6 +29184,23 @@
         "url": "https://doi.org/10.1086/700419",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "title": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "authors": [
+          "Don Fullerton",
+          "Chi L. Ta"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1086/730267",
+        "url": "https://doi.org/10.1086/730267",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28460,6 +29333,44 @@
         "pages": "135–162",
         "doi": "10.1257/pol.20230070",
         "url": "https://doi.org/10.1257/pol.20230070",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.15",
+    "title": "美国州公民与政府意识形态指数（Berry 等）",
+    "links": [
+      {
+        "label": "State Ideology Data",
+        "url": "https://rcfording.wordpress.com/state-ideology-data/"
+      }
+    ],
+    "summary": "Berry、Ringquist、Fording 和 Hanson 构建的 1960 年以来美国各州公民和政府意识形态年度指数，基于国会议员投票记录和选举结果计算。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "州公民与政府意识形态指数由 William Berry、Evan Ringquist、Richard Fording 和 Russell Hanson 于 1998 年在 American Journal of Political Science 上提出，此后定期更新。公民意识形态根据各国会选区的选举结果和当选议员（及挑战者）的利益集团评分（ADA、COPE）估计，政府意识形态根据州长和州议会各党派议员的意识形态加权计算；另有基于 DW-NOMINATE 的替代版本。数据覆盖 1960 年以来全部 50 个州，在 Fording 维护的网站免费下载。\n\n数据常用作州层面政治倾向的控制变量，例如研究可再生能源配额标准（RPS）的有效性是否与州的政治环境有关。指数基于国会层面信息推断州层面意识形态，对州内差异刻画有限。",
+    "source": "作者网站免费下载。",
+    "references": [
+      {
+        "raw": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "title": "What Determines Effectiveness of Renewable Energy Standards? General Equilibrium Analytical Model and Empirical Analysis",
+        "authors": [
+          "Don Fullerton",
+          "Chi L. Ta"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "1",
+        "pages": "65–103",
+        "doi": "10.1086/730267",
+        "url": "https://doi.org/10.1086/730267",
         "verified": true,
         "note": ""
       }
@@ -32269,6 +33180,23 @@
         "url": "https://doi.org/10.3386/w34125",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Subsidies and Time Discounting in New Technology Adoption: Evidence from Solar Photovoltaic Systems",
+        "title": "Subsidies and Time Discounting in New Technology Adoption: Evidence from Solar Photovoltaic Systems",
+        "authors": [
+          "Olivier De Groote",
+          "Frank Verboven"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "6",
+        "pages": "2137–2172",
+        "doi": "10.1257/aer.20161343",
+        "url": "https://doi.org/10.1257/aer.20161343",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32397,6 +33325,45 @@
         "pages": "983–1022",
         "doi": "10.1086/732801",
         "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.8",
+    "title": "比利时统计局数据（Statbel）",
+    "links": [
+      {
+        "label": "Statbel",
+        "url": "https://statbel.fgov.be/en"
+      }
+    ],
+    "summary": "比利时联邦统计局发布的人口、收入、税收、住房、劳动和企业统计，可按大区、省、市镇和统计分区查询下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "普查数据"
+    ],
+    "introduction": "Statbel（原比利时经济总局统计司 ADSEI/DGSIE）是比利时官方统计机构，发布人口和户籍、普查（2001 年社会经济调查、2011 年起基于登记的普查）、个人所得税申报统计（按市镇和统计分区的应税收入）、房地产交易价格、劳动力调查、物价和企业统计等，许多数据细化到市镇和统计分区（statistical sectors），并提供统计分区边界。数据在网站和开放数据门户免费下载。\n\n数据常用于比利时地区研究，例如用统计分区层面的收入、住房和人口特征，研究光伏补贴和时间贴现对家庭光伏采用的影响。统计分区的数据部分指标因保密而缺失。",
+    "source": "Statbel 网站免费下载。",
+    "references": [
+      {
+        "raw": "Subsidies and Time Discounting in New Technology Adoption: Evidence from Solar Photovoltaic Systems",
+        "title": "Subsidies and Time Discounting in New Technology Adoption: Evidence from Solar Photovoltaic Systems",
+        "authors": [
+          "Olivier De Groote",
+          "Frank Verboven"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "6",
+        "pages": "2137–2172",
+        "doi": "10.1257/aer.20161343",
+        "url": "https://doi.org/10.1257/aer.20161343",
         "verified": true,
         "note": ""
       }
@@ -33393,6 +34360,23 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "title": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "authors": [
+          "Matti Liski",
+          "Iivo Vehviläinen"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "5",
+        "pages": "873–900",
+        "doi": "10.1086/709648",
+        "url": "https://doi.org/10.1086/709648",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33609,6 +34593,23 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Storage and Renewable Energies: Friends or Foes?",
+        "title": "Storage and Renewable Energies: Friends or Foes?",
+        "authors": [
+          "David Andrés-Cerezo",
+          "Natalia Fabra"
+        ],
+        "year": 2026,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/ej/ueag048",
+        "url": "https://doi.org/10.1093/ej/ueag048",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33663,6 +34664,23 @@
         "pages": "1311–1346",
         "doi": "10.1093/jeea/jvac007",
         "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "title": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "authors": [
+          "Matti Liski",
+          "Iivo Vehviläinen"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "5",
+        "pages": "873–900",
+        "doi": "10.1086/709648",
+        "url": "https://doi.org/10.1086/709648",
         "verified": true,
         "note": ""
       }
@@ -33735,6 +34753,24 @@
         "pages": "195–229",
         "doi": "10.1086/720722",
         "url": "https://doi.org/10.1086/720722",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The economics of renewable energy support",
+        "title": "The economics of renewable energy support",
+        "authors": [
+          "Jan Abrell",
+          "Sebastian Rausch",
+          "Clemens Streitberger"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "94–117",
+        "doi": "10.1016/j.jpubeco.2019.06.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2019.06.002",
         "verified": true,
         "note": ""
       }
@@ -33999,6 +35035,41 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "title": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "authors": [
+          "Matti Liski",
+          "Iivo Vehviläinen"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "5",
+        "pages": "873–900",
+        "doi": "10.1086/709648",
+        "url": "https://doi.org/10.1086/709648",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The economics of renewable energy support",
+        "title": "The economics of renewable energy support",
+        "authors": [
+          "Jan Abrell",
+          "Sebastian Rausch",
+          "Clemens Streitberger"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "94–117",
+        "doi": "10.1016/j.jpubeco.2019.06.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2019.06.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34115,6 +35186,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The economics of renewable energy support",
+        "title": "The economics of renewable energy support",
+        "authors": [
+          "Jan Abrell",
+          "Sebastian Rausch",
+          "Clemens Streitberger"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "94–117",
+        "doi": "10.1016/j.jpubeco.2019.06.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2019.06.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34152,6 +35241,24 @@
         "pages": "172–202",
         "doi": "10.1016/j.jpubeco.2018.11.007",
         "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The economics of renewable energy support",
+        "title": "The economics of renewable energy support",
+        "authors": [
+          "Jan Abrell",
+          "Sebastian Rausch",
+          "Clemens Streitberger"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "94–117",
+        "doi": "10.1016/j.jpubeco.2019.06.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2019.06.002",
         "verified": true,
         "note": ""
       }
@@ -34210,6 +35317,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The economics of renewable energy support",
+        "title": "The economics of renewable energy support",
+        "authors": [
+          "Jan Abrell",
+          "Sebastian Rausch",
+          "Clemens Streitberger"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "94–117",
+        "doi": "10.1016/j.jpubeco.2019.06.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2019.06.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34264,6 +35389,120 @@
         "pages": "172–202",
         "doi": "10.1016/j.jpubeco.2018.11.007",
         "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.17",
+    "title": "北欧电力交易所市场数据（Nord Pool）",
+    "links": [
+      {
+        "label": "Nord Pool",
+        "url": "https://www.nordpoolgroup.com/en/"
+      }
+    ],
+    "summary": "北欧和波罗的海电力市场交易所发布的日前和日内市场系统价格、各竞价区价格、成交量和跨区电力流数据，1990 年代起。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "Nord Pool 起源于 1993 年的挪威电力交易所，1996 年起扩展为挪威和瑞典的共同市场，此后陆续纳入芬兰、丹麦、波罗的海国家，并在英国和中西欧开展业务。其市场数据包括日前市场（Elspot）逐小时的北欧系统价格和各竞价区价格、买卖曲线、成交量、竞价区间的交换容量和电力流，以及日内市场成交数据。近期数据在网站免费浏览，完整历史数据需通过 Nord Pool 数据服务订阅。\n\n数据常用于北欧电力市场研究，例如研究丹麦风电扩张对北欧电价和水电、火电发电商租金的均衡影响。2020 年后部分数据服务由免费转为订阅，早期免费下载的历史文件可能不再提供。",
+    "source": "Nord Pool 网站免费浏览；完整历史数据需订阅。",
+    "references": [
+      {
+        "raw": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "title": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "authors": [
+          "Matti Liski",
+          "Iivo Vehviläinen"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "5",
+        "pages": "873–900",
+        "doi": "10.1086/709648",
+        "url": "https://doi.org/10.1086/709648",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.18",
+    "title": "伊比利亚天然气市场（MIBGAS）价格数据",
+    "links": [
+      {
+        "label": "MIBGAS",
+        "url": "https://www.mibgas.es/en"
+      }
+    ],
+    "summary": "伊比利亚天然气市场运营商发布的西班牙和葡萄牙天然气虚拟交易点日前、日内和远期合约的成交价格和成交量，2015 年起。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "MIBGAS（Mercado Ibérico del Gas）于 2015 年 12 月开始运营，是西班牙和葡萄牙的有组织天然气交易市场，交易西班牙虚拟交易点（PVB）和液化天然气罐区等的日内、日前、周末、月度和更长期限的天然气合约。网站公布每日的参考价格（MIBGAS 指数）、各合约成交价格和成交量，历史数据可免费下载；MIBGAS Derivatives 另运营天然气期货市场。\n\n数据常用于西班牙电力和天然气市场研究，例如以 MIBGAS 天然气价格作为燃气联合循环机组的燃料成本，模拟储能与可再生能源在西班牙电力市场中的互动。市场早期流动性较低，2015 年前的天然气价格需要使用其他来源。",
+    "source": "MIBGAS 网站免费下载。",
+    "references": [
+      {
+        "raw": "Storage and Renewable Energies: Friends or Foes?",
+        "title": "Storage and Renewable Energies: Friends or Foes?",
+        "authors": [
+          "David Andrés-Cerezo",
+          "Natalia Fabra"
+        ],
+        "year": 2026,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/ej/ueag048",
+        "url": "https://doi.org/10.1093/ej/ueag048",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.19",
+    "title": "瑞士 Pronovo 可再生能源设施登记与原产地证明",
+    "links": [
+      {
+        "label": "Pronovo",
+        "url": "https://www.pronovo.ch/"
+      }
+    ],
+    "summary": "瑞士联邦授权的可再生能源补贴和原产地证明执行机构 Pronovo 维护的全国发电设施登记，记录光伏等设施的位置、容量、投运日期和补贴情况。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "Pronovo AG 由瑞士联邦能源办公室（BFE）授权，负责执行可再生能源上网电价补贴（KEV）、一次性补助（EIV）等补贴计划以及电力原产地证明（HKN）系统，因而维护全国发电设施登记库，记录每个光伏、水电、风电和生物质设施的位置、装机容量、投运日期、所有者类型和所获补贴。汇总统计在 Pronovo 网站发布，设施级数据需申请；部分数据经联邦能源办公室的电力生产设施地图公开。\n\n数据常用于研究瑞士家庭光伏采用，例如结合建筑登记识别光伏装机的时间和位置，研究邻居之间的同伴效应。设施级详细数据并不完全公开。",
+    "source": "Pronovo 网站发布汇总统计；设施级数据需申请。",
+    "references": [
+      {
+        "raw": "Green spills: Peer effects in pro-environmental behaviors",
+        "title": "Green spills: Peer effects in pro-environmental behaviors",
+        "authors": [
+          "Patrick Bigler",
+          "Benedikt Janzen"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "262",
+        "issue": "",
+        "pages": "105722",
+        "doi": "10.1016/j.jpubeco.2026.105722",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105722",
         "verified": true,
         "note": ""
       }
@@ -34697,6 +35936,44 @@
         "pages": "983–1022",
         "doi": "10.1086/732801",
         "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.11.3",
+    "title": "瑞士联邦建筑与住宅登记（GWR）",
+    "links": [
+      {
+        "label": "BFS GWR",
+        "url": "https://www.bfs.admin.ch/bfs/en/home/registers/federal-register-buildings-dwellings.html"
+      }
+    ],
+    "summary": "瑞士联邦统计局维护的全国建筑和住宅登记簿，记录每栋建筑的地理坐标、建造年份、类别、楼层、供暖系统和能源载体以及住宅面积和房间数。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "联邦建筑与住宅登记（Gebäude- und Wohnungsregister，GWR）由瑞士联邦统计局（BFS）维护，各市镇负责更新，覆盖瑞士全部住宅建筑和住宅，记录建筑编号（EGID）、地址和坐标、建筑类别、建造和翻新年份、楼层数、供暖和热水系统及能源载体，以及每套住宅的面积、房间数和楼层。部分字段经 housing-stat.ch 和地理门户公开查询，完整的地理编码数据需向 BFS 申请。\n\n数据常用于瑞士住房和能源研究，例如把电力公司用户账单、光伏登记和车辆登记匹配到建筑，研究邻居之间在采用光伏和电动车等环保行为上的同伴效应。部分字段（如供暖系统）更新滞后。",
+    "source": "BFS 网站公开部分数据；完整数据需申请。",
+    "references": [
+      {
+        "raw": "Green spills: Peer effects in pro-environmental behaviors",
+        "title": "Green spills: Peer effects in pro-environmental behaviors",
+        "authors": [
+          "Patrick Bigler",
+          "Benedikt Janzen"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "262",
+        "issue": "",
+        "pages": "105722",
+        "doi": "10.1016/j.jpubeco.2026.105722",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105722",
         "verified": true,
         "note": ""
       }
@@ -37308,6 +38585,23 @@
         "pages": "103246",
         "doi": "10.1016/j.jdeveco.2023.103246",
         "url": "https://doi.org/10.1016/j.jdeveco.2023.103246",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A credible approach for measuring inframarginal participation in energy efficiency programs",
+        "title": "A credible approach for measuring inframarginal participation in energy efficiency programs",
+        "authors": [
+          "Judson Boomhower",
+          "Lucas W. Davis"
+        ],
+        "year": 2014,
+        "journal": "Journal of Public Economics",
+        "volume": "113",
+        "issue": "",
+        "pages": "67–79",
+        "doi": "10.1016/j.jpubeco.2014.03.009",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.03.009",
         "verified": true,
         "note": ""
       }
@@ -40384,6 +41678,23 @@
         "pages": "103377",
         "doi": "10.1016/j.jeem.2026.103377",
         "url": "https://doi.org/10.1016/j.jeem.2026.103377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "title": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "authors": [
+          "Matti Liski",
+          "Iivo Vehviläinen"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "5",
+        "pages": "873–900",
+        "doi": "10.1086/709648",
+        "url": "https://doi.org/10.1086/709648",
         "verified": true,
         "note": ""
       }
@@ -45008,6 +46319,46 @@
         "pages": "ueaf125",
         "doi": "10.1093/ej/ueaf125",
         "url": "https://doi.org/10.1093/ej/ueaf125",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.31",
+    "title": "Our World in Data 全球发展数据",
+    "links": [
+      {
+        "label": "Our World in Data",
+        "url": "https://ourworldindata.org/"
+      }
+    ],
+    "summary": "牛津大学研究团队维护的开放数据平台，整合并可视化全球各国人口、健康、能源、排放、技术成本等长期时间序列。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "能源数据",
+      "环境数据"
+    ],
+    "introduction": "Our World in Data（OWID）由牛津大学全球变化数据实验室（Global Change Data Lab）维护，汇集联合国、世界银行、IEA、IRENA、能源研究所、全球碳计划等来源以及学术研究数据，提供全球各国人口、贫困、健康、教育、能源生产和消费、二氧化碳和温室气体排放、技术成本（如光伏组件和电池价格）等主题的长期时间序列和交互图表，所有图表和数据以 CC BY 许可免费下载，并公开数据处理代码（GitHub）。\n\n数据常用于获取全球技术成本和宏观趋势的参考序列，例如用全球光伏组件价格的长期下降控制光伏采用的成本冲击。OWID 是二次整理的数据，使用时应引用和核对原始来源。",
+    "source": "OWID 网站免费下载。",
+    "references": [
+      {
+        "raw": "Green spills: Peer effects in pro-environmental behaviors",
+        "title": "Green spills: Peer effects in pro-environmental behaviors",
+        "authors": [
+          "Patrick Bigler",
+          "Benedikt Janzen"
+        ],
+        "year": 2026,
+        "journal": "Journal of Public Economics",
+        "volume": "262",
+        "issue": "",
+        "pages": "105722",
+        "doi": "10.1016/j.jpubeco.2026.105722",
+        "url": "https://doi.org/10.1016/j.jpubeco.2026.105722",
         "verified": true,
         "note": ""
       }
@@ -52348,6 +53699,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2026.103378",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Storage and Renewable Energies: Friends or Foes?",
+        "title": "Storage and Renewable Energies: Friends or Foes?",
+        "authors": [
+          "David Andrés-Cerezo",
+          "Natalia Fabra"
+        ],
+        "year": 2026,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/ej/ueag048",
+        "url": "https://doi.org/10.1093/ej/ueag048",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53703,6 +55071,58 @@
         "url": "https://doi.org/10.1086/720722",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Storage and Renewable Energies: Friends or Foes?",
+        "title": "Storage and Renewable Energies: Friends or Foes?",
+        "authors": [
+          "David Andrés-Cerezo",
+          "Natalia Fabra"
+        ],
+        "year": 2026,
+        "journal": "The Economic Journal",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/ej/ueag048",
+        "url": "https://doi.org/10.1093/ej/ueag048",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "title": "Designing Dynamic Subsidies to Spur Adoption of New Technologies",
+        "authors": [
+          "Ashley Langer",
+          "Derek Lemoine"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "6",
+        "pages": "1197–1234",
+        "doi": "10.1086/719949",
+        "url": "https://doi.org/10.1086/719949",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The economics of renewable energy support",
+        "title": "The economics of renewable energy support",
+        "authors": [
+          "Jan Abrell",
+          "Sebastian Rausch",
+          "Clemens Streitberger"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "176",
+        "issue": "",
+        "pages": "94–117",
+        "doi": "10.1016/j.jpubeco.2019.06.002",
+        "url": "https://doi.org/10.1016/j.jpubeco.2019.06.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54044,6 +55464,40 @@
         "pages": "1311–1346",
         "doi": "10.1093/jeea/jvac007",
         "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "title": "Gone with the Wind? An Empirical Analysis of the Equilibrium Impact of Renewable Energy",
+        "authors": [
+          "Matti Liski",
+          "Iivo Vehviläinen"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "5",
+        "pages": "873–900",
+        "doi": "10.1086/709648",
+        "url": "https://doi.org/10.1086/709648",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Subsidies and Time Discounting in New Technology Adoption: Evidence from Solar Photovoltaic Systems",
+        "title": "Subsidies and Time Discounting in New Technology Adoption: Evidence from Solar Photovoltaic Systems",
+        "authors": [
+          "Olivier De Groote",
+          "Frank Verboven"
+        ],
+        "year": 2019,
+        "journal": "American Economic Review",
+        "volume": "109",
+        "issue": "6",
+        "pages": "2137–2172",
+        "doi": "10.1257/aer.20161343",
+        "url": "https://doi.org/10.1257/aer.20161343",
         "verified": true,
         "note": ""
       }
