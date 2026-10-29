@@ -7148,6 +7148,22 @@
         "url": "https://doi.org/10.1086/261805",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Household Need for Liquidity and the Credit Card Debt Puzzle",
+        "title": "Household Need for Liquidity and the Credit Card Debt Puzzle",
+        "authors": [
+          "Irina A. Telyukova"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economic Studies",
+        "volume": "80",
+        "issue": "3",
+        "pages": "1148–1177",
+        "doi": "10.1093/restud/rdt001",
+        "url": "https://doi.org/10.1093/restud/rdt001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9426,6 +9442,59 @@
         "url": "https://doi.org/10.1093/restud/rdx060",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Wealth Fluctuations Generate Time-Varying Risk Aversion? Micro-Evidence on Individuals' Asset Allocation",
+        "title": "Do Wealth Fluctuations Generate Time-Varying Risk Aversion? Micro-Evidence on Individuals' Asset Allocation",
+        "authors": [
+          "Markus K. Brunnermeier",
+          "Stefan Nagel"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "713–736",
+        "doi": "10.1257/aer.98.3.713",
+        "url": "https://doi.org/10.1257/aer.98.3.713",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Consumption Commitments and Risk Preferences",
+        "title": "Consumption Commitments and Risk Preferences",
+        "authors": [
+          "Raj Chetty",
+          "Adam Szeidl"
+        ],
+        "year": 2007,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "831–877",
+        "doi": "10.1162/qjec.122.2.831",
+        "url": "https://doi.org/10.1162/qjec.122.2.831",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "title": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "authors": [
+          "Kristopher Gerardi",
+          "Kyle F. Herkenhoff",
+          "Lee E. Ohanian",
+          "Paul S. Willen"
+        ],
+        "year": 2018,
+        "journal": "The Review of Financial Studies",
+        "volume": "31",
+        "issue": "3",
+        "pages": "1098–1131",
+        "doi": "10.1093/rfs/hhx115",
+        "url": "https://doi.org/10.1093/rfs/hhx115",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9583,6 +9652,74 @@
         "pages": "1613–1657",
         "doi": "10.1257/aer.20200208",
         "url": "https://doi.org/10.1257/aer.20200208",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On-the-Job Search and Precautionary Savings",
+        "title": "On-the-Job Search and Precautionary Savings",
+        "authors": [
+          "Jeremy Lise"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economic Studies",
+        "volume": "80",
+        "issue": "3",
+        "pages": "1086–1113",
+        "doi": "10.1093/restud/rds042",
+        "url": "https://doi.org/10.1093/restud/rds042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Consumption Commitments and Risk Preferences",
+        "title": "Consumption Commitments and Risk Preferences",
+        "authors": [
+          "Raj Chetty",
+          "Adam Szeidl"
+        ],
+        "year": 2007,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "831–877",
+        "doi": "10.1162/qjec.122.2.831",
+        "url": "https://doi.org/10.1162/qjec.122.2.831",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Household Need for Liquidity and the Credit Card Debt Puzzle",
+        "title": "Household Need for Liquidity and the Credit Card Debt Puzzle",
+        "authors": [
+          "Irina A. Telyukova"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economic Studies",
+        "volume": "80",
+        "issue": "3",
+        "pages": "1148–1177",
+        "doi": "10.1093/restud/rdt001",
+        "url": "https://doi.org/10.1093/restud/rdt001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "title": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "authors": [
+          "Kristopher Gerardi",
+          "Kyle F. Herkenhoff",
+          "Lee E. Ohanian",
+          "Paul S. Willen"
+        ],
+        "year": 2018,
+        "journal": "The Review of Financial Studies",
+        "volume": "31",
+        "issue": "3",
+        "pages": "1098–1131",
+        "doi": "10.1093/rfs/hhx115",
+        "url": "https://doi.org/10.1093/rfs/hhx115",
         "verified": true,
         "note": ""
       }
@@ -10175,6 +10312,55 @@
         "pages": "1613–1657",
         "doi": "10.1257/aer.20200208",
         "url": "https://doi.org/10.1257/aer.20200208",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On-the-Job Search and Precautionary Savings",
+        "title": "On-the-Job Search and Precautionary Savings",
+        "authors": [
+          "Jeremy Lise"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economic Studies",
+        "volume": "80",
+        "issue": "3",
+        "pages": "1086–1113",
+        "doi": "10.1093/restud/rds042",
+        "url": "https://doi.org/10.1093/restud/rds042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Liquidity Constraints and Interest Rates Matter for Consumer Behavior? Evidence from Credit Card Data",
+        "title": "Do Liquidity Constraints and Interest Rates Matter for Consumer Behavior? Evidence from Credit Card Data",
+        "authors": [
+          "David B. Gross",
+          "Nicholas S. Souleles"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "1",
+        "pages": "149–185",
+        "doi": "10.1162/003355302753399472",
+        "url": "https://doi.org/10.1162/003355302753399472",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Household Need for Liquidity and the Credit Card Debt Puzzle",
+        "title": "Household Need for Liquidity and the Credit Card Debt Puzzle",
+        "authors": [
+          "Irina A. Telyukova"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economic Studies",
+        "volume": "80",
+        "issue": "3",
+        "pages": "1148–1177",
+        "doi": "10.1093/restud/rdt001",
+        "url": "https://doi.org/10.1093/restud/rdt001",
         "verified": true,
         "note": ""
       }
@@ -11001,6 +11187,22 @@
         "url": "https://doi.org/10.1016/j.jhealeco.2009.10.003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "On-the-Job Search and Precautionary Savings",
+        "title": "On-the-Job Search and Precautionary Savings",
+        "authors": [
+          "Jeremy Lise"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economic Studies",
+        "volume": "80",
+        "issue": "3",
+        "pages": "1086–1113",
+        "doi": "10.1093/restud/rds042",
+        "url": "https://doi.org/10.1093/restud/rds042",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11130,6 +11332,25 @@
         "pages": "184–211",
         "doi": "10.1016/j.jpubeco.2017.11.002",
         "url": "https://doi.org/10.1016/j.jpubeco.2017.11.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "House Price Beliefs And Mortgage Leverage Choice",
+        "title": "House Price Beliefs And Mortgage Leverage Choice",
+        "authors": [
+          "Michael Bailey",
+          "Eduardo Dávila",
+          "Theresa Kuchler",
+          "Johannes Stroebel"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "6",
+        "pages": "2403–2452",
+        "doi": "10.1093/restud/rdy068",
+        "url": "https://doi.org/10.1093/restud/rdy068",
         "verified": true,
         "note": ""
       }
@@ -11565,6 +11786,24 @@
         "pages": "1187–1241",
         "doi": "10.1093/qje/qjae045",
         "url": "https://doi.org/10.1093/qje/qjae045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Housing on Portfolio Choice",
+        "title": "The Effect of Housing on Portfolio Choice",
+        "authors": [
+          "Raj Chetty",
+          "László Sándor",
+          "Adam Szeidl"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "3",
+        "pages": "1171–1212",
+        "doi": "10.1111/jofi.12500",
+        "url": "https://doi.org/10.1111/jofi.12500",
         "verified": true,
         "note": ""
       }
@@ -15596,6 +15835,41 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Household Need for Liquidity and the Credit Card Debt Puzzle",
+        "title": "Household Need for Liquidity and the Credit Card Debt Puzzle",
+        "authors": [
+          "Irina A. Telyukova"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economic Studies",
+        "volume": "80",
+        "issue": "3",
+        "pages": "1148–1177",
+        "doi": "10.1093/restud/rdt001",
+        "url": "https://doi.org/10.1093/restud/rdt001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "title": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "authors": [
+          "Kristopher Gerardi",
+          "Kyle F. Herkenhoff",
+          "Lee E. Ohanian",
+          "Paul S. Willen"
+        ],
+        "year": 2018,
+        "journal": "The Review of Financial Studies",
+        "volume": "31",
+        "issue": "3",
+        "pages": "1098–1131",
+        "doi": "10.1093/rfs/hhx115",
+        "url": "https://doi.org/10.1093/rfs/hhx115",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16337,6 +16611,25 @@
         "url": "https://doi.org/10.1257/aer.20200208",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "House Price Beliefs And Mortgage Leverage Choice",
+        "title": "House Price Beliefs And Mortgage Leverage Choice",
+        "authors": [
+          "Michael Bailey",
+          "Eduardo Dávila",
+          "Theresa Kuchler",
+          "Johannes Stroebel"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "6",
+        "pages": "2403–2452",
+        "doi": "10.1093/restud/rdy068",
+        "url": "https://doi.org/10.1093/restud/rdy068",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16491,6 +16784,23 @@
         "pages": "461–481",
         "doi": "10.2307/1912638",
         "url": "https://doi.org/10.2307/1912638",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Consumption Commitments and Risk Preferences",
+        "title": "Consumption Commitments and Risk Preferences",
+        "authors": [
+          "Raj Chetty",
+          "Adam Szeidl"
+        ],
+        "year": 2007,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "831–877",
+        "doi": "10.1162/qjec.122.2.831",
+        "url": "https://doi.org/10.1162/qjec.122.2.831",
         "verified": true,
         "note": ""
       }
@@ -16724,6 +17034,24 @@
         "pages": "1243–1298",
         "doi": "10.1093/qje/qjaf001",
         "url": "https://doi.org/10.1093/qje/qjaf001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Efficiency in Household Decision-Making: Evidence from the Retirement Savings of US Couples",
+        "title": "Efficiency in Household Decision-Making: Evidence from the Retirement Savings of US Couples",
+        "authors": [
+          "Taha Choukhmane",
+          "Lucas Goodman",
+          "Cormac O'Dea"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "5",
+        "pages": "1485–1519",
+        "doi": "10.1257/aer.20230524",
+        "url": "https://doi.org/10.1257/aer.20230524",
         "verified": true,
         "note": ""
       }
@@ -37791,6 +38119,25 @@
         "url": "https://doi.org/10.1257/aer.20240022",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "House Price Beliefs And Mortgage Leverage Choice",
+        "title": "House Price Beliefs And Mortgage Leverage Choice",
+        "authors": [
+          "Michael Bailey",
+          "Eduardo Dávila",
+          "Theresa Kuchler",
+          "Johannes Stroebel"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "6",
+        "pages": "2403–2452",
+        "doi": "10.1093/restud/rdy068",
+        "url": "https://doi.org/10.1093/restud/rdy068",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38061,6 +38408,25 @@
         "pages": "3415–3446",
         "doi": "10.1257/aer.20150491",
         "url": "https://doi.org/10.1257/aer.20150491",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "title": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "authors": [
+          "Kristopher Gerardi",
+          "Kyle F. Herkenhoff",
+          "Lee E. Ohanian",
+          "Paul S. Willen"
+        ],
+        "year": 2018,
+        "journal": "The Review of Financial Studies",
+        "volume": "31",
+        "issue": "3",
+        "pages": "1098–1131",
+        "doi": "10.1093/rfs/hhx115",
+        "url": "https://doi.org/10.1093/rfs/hhx115",
         "verified": true,
         "note": ""
       }
@@ -38609,6 +38975,24 @@
         "url": "https://doi.org/10.1093/restud/rdx060",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Housing on Portfolio Choice",
+        "title": "The Effect of Housing on Portfolio Choice",
+        "authors": [
+          "Raj Chetty",
+          "László Sándor",
+          "Adam Szeidl"
+        ],
+        "year": 2017,
+        "journal": "The Journal of Finance",
+        "volume": "72",
+        "issue": "3",
+        "pages": "1171–1212",
+        "doi": "10.1111/jofi.12500",
+        "url": "https://doi.org/10.1111/jofi.12500",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38679,6 +39063,25 @@
         "pages": "165–188",
         "doi": "10.1257/pol.20170481",
         "url": "https://doi.org/10.1257/pol.20170481",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "title": "Can't Pay or Won't Pay? Unemployment, Negative Equity, and Strategic Default",
+        "authors": [
+          "Kristopher Gerardi",
+          "Kyle F. Herkenhoff",
+          "Lee E. Ohanian",
+          "Paul S. Willen"
+        ],
+        "year": 2018,
+        "journal": "The Review of Financial Studies",
+        "volume": "31",
+        "issue": "3",
+        "pages": "1098–1131",
+        "doi": "10.1093/rfs/hhx115",
+        "url": "https://doi.org/10.1093/rfs/hhx115",
         "verified": true,
         "note": ""
       }
@@ -40978,6 +41381,25 @@
         "url": "https://doi.org/10.1257/app.20170543",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Regulating Consumer Financial Products: Evidence from Credit Cards",
+        "title": "Regulating Consumer Financial Products: Evidence from Credit Cards",
+        "authors": [
+          "Sumit Agarwal",
+          "Souphala Chomsisengphet",
+          "Neale Mahoney",
+          "Johannes Stroebel"
+        ],
+        "year": 2015,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "130",
+        "issue": "1",
+        "pages": "111–164",
+        "doi": "10.1093/qje/qju037",
+        "url": "https://doi.org/10.1093/qje/qju037",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41309,6 +41731,62 @@
         "pages": "3415–3446",
         "doi": "10.1257/aer.20150491",
         "url": "https://doi.org/10.1257/aer.20150491",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Information and Price Regulation in the US Credit Card Market",
+        "title": "Private Information and Price Regulation in the US Credit Card Market",
+        "authors": [
+          "Scott T. Nelson"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "4",
+        "pages": "1371–1410",
+        "doi": "10.3982/ecta18063",
+        "url": "https://doi.org/10.3982/ecta18063",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.32",
+    "title": "美国劳工部 Form 5500 雇员福利计划年度申报数据",
+    "links": [
+      {
+        "label": "DOL EFAST2 Form 5500 search",
+        "url": "https://www.efast.dol.gov/"
+      }
+    ],
+    "summary": "美国劳工部雇员福利保障局公开的雇主养老金和福利计划年度申报（Form 5500）数据，1990 年代起，记录每个 401(k) 等计划的参与人数、资产、缴费、匹配规则和服务商，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "根据《雇员退休收入保障法》（ERISA），私人雇主发起的养老金和福利计划须每年向劳工部、国税局和 PBGC 提交 Form 5500 年度报告，内容包括计划类型（确定给付或确定缴费、401(k)）、发起雇主及其 EIN、参与人数、资产和负债、雇主和雇员缴费、投资收益、费用和服务商，附表中有财务报表和投资明细，计划说明文件中载有雇主匹配公式和自动加入等条款。劳工部雇员福利保障局（EBSA）在 EFAST2 系统提供申报检索，并按年度发布结构化数据集免费批量下载。\n\n数据常用于研究退休储蓄和养老金计划设计，例如手工编码各计划的雇主匹配率，研究夫妻双方是否在两个计划间有效配置退休缴费，或研究自动加入和默认选项对参与率的影响。匹配规则等计划条款多在附件文本中，需要手工整理。",
+    "source": "EFAST2 和劳工部网站免费下载（劳工部部分页面对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Efficiency in Household Decision-Making: Evidence from the Retirement Savings of US Couples",
+        "title": "Efficiency in Household Decision-Making: Evidence from the Retirement Savings of US Couples",
+        "authors": [
+          "Taha Choukhmane",
+          "Lucas Goodman",
+          "Cormac O'Dea"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "5",
+        "pages": "1485–1519",
+        "doi": "10.1257/aer.20230524",
+        "url": "https://doi.org/10.1257/aer.20230524",
         "verified": true,
         "note": ""
       }
@@ -45123,6 +45601,42 @@
         "pages": "104388",
         "doi": "10.1016/j.jpubeco.2021.104388",
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104388",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fight or Flight? Portfolio Rebalancing by Individual Investors",
+        "title": "Fight or Flight? Portfolio Rebalancing by Individual Investors",
+        "authors": [
+          "Laurent E. Calvet",
+          "John Y. Campbell",
+          "Paolo Sodini"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "1",
+        "pages": "301–348",
+        "doi": "10.1162/qjec.2009.124.1.301",
+        "url": "https://doi.org/10.1162/qjec.2009.124.1.301",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Labor Market Effects of Credit Market Information",
+        "title": "The Labor Market Effects of Credit Market Information",
+        "authors": [
+          "Marieke Bos",
+          "Emily Breza",
+          "Andres Liberman"
+        ],
+        "year": 2018,
+        "journal": "The Review of Financial Studies",
+        "volume": "31",
+        "issue": "6",
+        "pages": "2005–2037",
+        "doi": "10.1093/rfs/hhy006",
+        "url": "https://doi.org/10.1093/rfs/hhy006",
         "verified": true,
         "note": ""
       }
@@ -51085,6 +51599,23 @@
         "url": "https://doi.org/10.1257/aer.20140297",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring the Equilibrium Impacts of Credit: Evidence from the Indian Microfinance Crisis",
+        "title": "Measuring the Equilibrium Impacts of Credit: Evidence from the Indian Microfinance Crisis",
+        "authors": [
+          "Emily Breza",
+          "Cynthia Kinnan"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1447–1497",
+        "doi": "10.1093/qje/qjab016",
+        "url": "https://doi.org/10.1093/qje/qjab016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -52888,6 +53419,49 @@
     ]
   },
   {
+    "id": "4.12.2",
+    "title": "印度储备银行数据库（DBIE，含商业银行基本统计报表 BSR）",
+    "links": [
+      {
+        "label": "Reserve Bank of India",
+        "url": "https://www.rbi.org.in/"
+      },
+      {
+        "label": "RBI DBIE",
+        "url": "https://dbie.rbi.org.in/"
+      }
+    ],
+    "summary": "印度储备银行的印度经济数据库，提供货币、银行、利率、汇率和宏观统计，其中商业银行基本统计报表（BSR）按邦、县和人口组别记录银行网点、存款和分部门贷款余额。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "金融数据",
+      "区域经济数据"
+    ],
+    "introduction": "印度经济数据库（Database on Indian Economy，DBIE）由印度储备银行（RBI）维护，汇集货币与信贷、银行、金融市场、利率、汇率、国际收支、财政和实体经济序列；其中商业银行基本统计报表（Basic Statistical Returns of Scheduled Commercial Banks，BSR）每年发布，按邦、县和城乡人口组别统计银行网点数、存款账户和余额，以及按职业（农业、工业、个人贷款等）和机构类型划分的贷款笔数和余额，部分年份可回溯至 1970 年代。数据在 RBI 网站和 DBIE 门户免费下载。\n\n数据常用于研究印度金融发展和信贷冲击，例如以县级银行贷款衡量正规信贷对微型金融收缩的替代，研究银行网点扩张政策对农村贫困和就业的影响。县级划分随行政区调整而变化，需构建一致边界。",
+    "source": "RBI 网站与 DBIE 门户免费下载（DBIE 核验时无响应）。",
+    "references": [
+      {
+        "raw": "Measuring the Equilibrium Impacts of Credit: Evidence from the Indian Microfinance Crisis",
+        "title": "Measuring the Equilibrium Impacts of Credit: Evidence from the Indian Microfinance Crisis",
+        "authors": [
+          "Emily Breza",
+          "Cynthia Kinnan"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1447–1497",
+        "doi": "10.1093/qje/qjab016",
+        "url": "https://doi.org/10.1093/qje/qjab016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.14.1",
     "title": "ICRISAT 印度县级农业数据库",
     "links": [
@@ -52975,6 +53549,23 @@
         "pages": "101–124",
         "doi": "10.1257/app.20190249",
         "url": "https://doi.org/10.1257/app.20190249",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Equilibrium Impacts of Credit: Evidence from the Indian Microfinance Crisis",
+        "title": "Measuring the Equilibrium Impacts of Credit: Evidence from the Indian Microfinance Crisis",
+        "authors": [
+          "Emily Breza",
+          "Cynthia Kinnan"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1447–1497",
+        "doi": "10.1093/qje/qjab016",
+        "url": "https://doi.org/10.1093/qje/qjab016",
         "verified": true,
         "note": ""
       }
@@ -67570,6 +68161,23 @@
         "pages": "404–441",
         "doi": "10.1093/restud/rdae027",
         "url": "https://doi.org/10.1093/restud/rdae027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Equilibrium Impacts of Credit: Evidence from the Indian Microfinance Crisis",
+        "title": "Measuring the Equilibrium Impacts of Credit: Evidence from the Indian Microfinance Crisis",
+        "authors": [
+          "Emily Breza",
+          "Cynthia Kinnan"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1447–1497",
+        "doi": "10.1093/qje/qjab016",
+        "url": "https://doi.org/10.1093/qje/qjab016",
         "verified": true,
         "note": ""
       }
