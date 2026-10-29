@@ -3110,6 +3110,24 @@
         "url": "https://doi.org/10.1257/aeri.20200373",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "(Re)scheduling pollution exposure: The case of surgery schedules",
+        "title": "(Re)scheduling pollution exposure: The case of surgery schedules",
+        "authors": [
+          "Jialin Huang",
+          "Jianwei Xing",
+          "Eric Zou"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "219",
+        "issue": "",
+        "pages": "104825",
+        "doi": "10.1016/j.jpubeco.2023.104825",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104825",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3695,6 +3713,24 @@
         "pages": "54–70",
         "doi": "10.1257/aeri.20200373",
         "url": "https://doi.org/10.1257/aeri.20200373",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "(Re)scheduling pollution exposure: The case of surgery schedules",
+        "title": "(Re)scheduling pollution exposure: The case of surgery schedules",
+        "authors": [
+          "Jialin Huang",
+          "Jianwei Xing",
+          "Eric Zou"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "219",
+        "issue": "",
+        "pages": "104825",
+        "doi": "10.1016/j.jpubeco.2023.104825",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104825",
         "verified": true,
         "note": ""
       }
@@ -7592,6 +7628,44 @@
         "url": "https://doi.org/10.1162/rest_a_01575",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Segmentation and Competition in Health Insurance",
+        "title": "Market Segmentation and Competition in Health Insurance",
+        "authors": [
+          "Michael J. Dickstein",
+          "Kate Ho",
+          "Nathaniel Mark"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "1",
+        "pages": "96–148",
+        "doi": "10.1086/725707",
+        "url": "https://doi.org/10.1086/725707",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Earnings and Labor Supply of U.S. Physicians",
+        "title": "The Earnings and Labor Supply of U.S. Physicians",
+        "authors": [
+          "Joshua D. Gottlieb",
+          "Maria Polyakova",
+          "Kevin Rinz",
+          "Hugh Shiplett",
+          "Victoria Udalova"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1243–1298",
+        "doi": "10.1093/qje/qjaf001",
+        "url": "https://doi.org/10.1093/qje/qjaf001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8319,6 +8393,46 @@
         "url": "https://doi.org/10.1093/restud/rdae015",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Economic Consequences of Hospital Admissions",
+        "title": "The Economic Consequences of Hospital Admissions",
+        "authors": [
+          "Carlos Dobkin",
+          "Amy Finkelstein",
+          "Raymond Kluender",
+          "Matthew J. Notowidigdo"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "2",
+        "pages": "308–352",
+        "doi": "10.1257/aer.20161038",
+        "url": "https://doi.org/10.1257/aer.20161038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Satellite Account for Health in the United States",
+        "title": "A Satellite Account for Health in the United States",
+        "authors": [
+          "David M. Cutler",
+          "Kaushik Ghosh",
+          "Kassandra L. Messer",
+          "Trivellore Raghunathan",
+          "Allison B. Rosen",
+          "Susan T. Stewart"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "494–533",
+        "doi": "10.1257/aer.20201480",
+        "url": "https://doi.org/10.1257/aer.20201480",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8548,6 +8662,64 @@
         "pages": "1187–1241",
         "doi": "10.1093/qje/qjae045",
         "url": "https://doi.org/10.1093/qje/qjae045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When Discounts Raise Costs: The Effect of Copay Coupons on Generic Utilization",
+        "title": "When Discounts Raise Costs: The Effect of Copay Coupons on Generic Utilization",
+        "authors": [
+          "Leemore Dafny",
+          "Christopher Ody",
+          "Matt Schmitt"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "9",
+        "issue": "2",
+        "pages": "91–123",
+        "doi": "10.1257/pol.20150588",
+        "url": "https://doi.org/10.1257/pol.20150588",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Consequences of Hospital Admissions",
+        "title": "The Economic Consequences of Hospital Admissions",
+        "authors": [
+          "Carlos Dobkin",
+          "Amy Finkelstein",
+          "Raymond Kluender",
+          "Matthew J. Notowidigdo"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "2",
+        "pages": "308–352",
+        "doi": "10.1257/aer.20161038",
+        "url": "https://doi.org/10.1257/aer.20161038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Satellite Account for Health in the United States",
+        "title": "A Satellite Account for Health in the United States",
+        "authors": [
+          "David M. Cutler",
+          "Kaushik Ghosh",
+          "Kassandra L. Messer",
+          "Trivellore Raghunathan",
+          "Allison B. Rosen",
+          "Susan T. Stewart"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "494–533",
+        "doi": "10.1257/aer.20201480",
+        "url": "https://doi.org/10.1257/aer.20201480",
         "verified": true,
         "note": ""
       }
@@ -8814,6 +8986,25 @@
         "pages": "102327",
         "doi": "10.1016/j.jhealeco.2020.102327",
         "url": "https://doi.org/10.1016/j.jhealeco.2020.102327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "title": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "authors": [
+          "Matthew Grennan",
+          "Kyle R. Myers",
+          "Ashley Swanson",
+          "Aaron Chatterji"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "4",
+        "pages": "2537–2577",
+        "doi": "10.1093/restud/rdae090",
+        "url": "https://doi.org/10.1093/restud/rdae090",
         "verified": true,
         "note": ""
       }
@@ -9942,6 +10133,26 @@
         "pages": "3156–3185",
         "doi": "10.1086/725172",
         "url": "https://doi.org/10.1086/725172",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Earnings and Labor Supply of U.S. Physicians",
+        "title": "The Earnings and Labor Supply of U.S. Physicians",
+        "authors": [
+          "Joshua D. Gottlieb",
+          "Maria Polyakova",
+          "Kevin Rinz",
+          "Hugh Shiplett",
+          "Victoria Udalova"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1243–1298",
+        "doi": "10.1093/qje/qjaf001",
+        "url": "https://doi.org/10.1093/qje/qjaf001",
         "verified": true,
         "note": ""
       }
@@ -14365,6 +14576,26 @@
         "url": "https://doi.org/10.1257/aer.104.9.2633",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Earnings and Labor Supply of U.S. Physicians",
+        "title": "The Earnings and Labor Supply of U.S. Physicians",
+        "authors": [
+          "Joshua D. Gottlieb",
+          "Maria Polyakova",
+          "Kevin Rinz",
+          "Hugh Shiplett",
+          "Victoria Udalova"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1243–1298",
+        "doi": "10.1093/qje/qjaf001",
+        "url": "https://doi.org/10.1093/qje/qjaf001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15534,6 +15765,24 @@
         "pages": "1–30",
         "doi": "10.1162/rest_a_01575",
         "url": "https://doi.org/10.1162/rest_a_01575",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Producing Health: Measuring Value Added of Nursing Homes",
+        "title": "Producing Health: Measuring Value Added of Nursing Homes",
+        "authors": [
+          "Liran Einav",
+          "Amy Finkelstein",
+          "Neale Mahoney"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "4",
+        "pages": "1225–1264",
+        "doi": "10.3982/ECTA21016",
+        "url": "https://doi.org/10.3982/ECTA21016",
         "verified": true,
         "note": ""
       }
@@ -29707,6 +29956,27 @@
         "url": "https://doi.org/10.1016/j.jue.2013.11.002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Satellite Account for Health in the United States",
+        "title": "A Satellite Account for Health in the United States",
+        "authors": [
+          "David M. Cutler",
+          "Kaushik Ghosh",
+          "Kassandra L. Messer",
+          "Trivellore Raghunathan",
+          "Allison B. Rosen",
+          "Susan T. Stewart"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "494–533",
+        "doi": "10.1257/aer.20201480",
+        "url": "https://doi.org/10.1257/aer.20201480",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29907,6 +30177,116 @@
         "url": "https://doi.org/10.1257/aer.20130778",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Regulation of Insurance with Adverse Selection and Switching Costs: Evidence from Medicare Part D",
+        "title": "Regulation of Insurance with Adverse Selection and Switching Costs: Evidence from Medicare Part D",
+        "authors": [
+          "Maria Polyakova"
+        ],
+        "year": 2016,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "8",
+        "issue": "3",
+        "pages": "165–195",
+        "doi": "10.1257/app.20150004",
+        "url": "https://doi.org/10.1257/app.20150004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector",
+        "title": "Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector",
+        "authors": [
+          "Amitabh Chandra",
+          "Amy Finkelstein",
+          "Adam Sacarny",
+          "Chad Syverson"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "8",
+        "pages": "2110–2144",
+        "doi": "10.1257/aer.20151080",
+        "url": "https://doi.org/10.1257/aer.20151080",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of hospital/physician integration on hospital choice",
+        "title": "The effect of hospital/physician integration on hospital choice",
+        "authors": [
+          "Laurence C. Baker",
+          "M. Kate Bundorf",
+          "Daniel P. Kessler"
+        ],
+        "year": 2016,
+        "journal": "Journal of Health Economics",
+        "volume": "50",
+        "issue": "",
+        "pages": "1–8",
+        "doi": "10.1016/j.jhealeco.2016.08.006",
+        "url": "https://doi.org/10.1016/j.jhealeco.2016.08.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dying or Lying? For-Profit Hospices and End-of-Life Care",
+        "title": "Dying or Lying? For-Profit Hospices and End-of-Life Care",
+        "authors": [
+          "Jonathan Gruber",
+          "David H. Howard",
+          "Jetson Leder-Luis",
+          "Theodore L. Caputi"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "263–294",
+        "doi": "10.1257/aer.20230328",
+        "url": "https://doi.org/10.1257/aer.20230328",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "title": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "authors": [
+          "Jason Abaluck",
+          "Leila Agha",
+          "Chris Kabrhel",
+          "Ali Raja",
+          "Arjun Venkatesh"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3730–3764",
+        "doi": "10.1257/aer.20140260",
+        "url": "https://doi.org/10.1257/aer.20140260",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Producing Health: Measuring Value Added of Nursing Homes",
+        "title": "Producing Health: Measuring Value Added of Nursing Homes",
+        "authors": [
+          "Liran Einav",
+          "Amy Finkelstein",
+          "Neale Mahoney"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "4",
+        "pages": "1225–1264",
+        "doi": "10.3982/ECTA21016",
+        "url": "https://doi.org/10.3982/ECTA21016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30026,6 +30406,43 @@
         "pages": "768–809",
         "doi": "10.1093/restud/rdv043",
         "url": "https://doi.org/10.1093/restud/rdv043",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Consequences of Hospital Admissions",
+        "title": "The Economic Consequences of Hospital Admissions",
+        "authors": [
+          "Carlos Dobkin",
+          "Amy Finkelstein",
+          "Raymond Kluender",
+          "Matthew J. Notowidigdo"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "2",
+        "pages": "308–352",
+        "doi": "10.1257/aer.20161038",
+        "url": "https://doi.org/10.1257/aer.20161038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Health Impacts of Hospital Delivery Practices",
+        "title": "The Health Impacts of Hospital Delivery Practices",
+        "authors": [
+          "David Card",
+          "Alessandra Fenizia",
+          "David Silver"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "42–81",
+        "doi": "10.1257/pol.20210034",
+        "url": "https://doi.org/10.1257/pol.20210034",
         "verified": true,
         "note": ""
       }
@@ -30345,6 +30762,25 @@
         "url": "https://doi.org/10.1257/pol.2.3.32",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Economic Consequences of Hospital Admissions",
+        "title": "The Economic Consequences of Hospital Admissions",
+        "authors": [
+          "Carlos Dobkin",
+          "Amy Finkelstein",
+          "Raymond Kluender",
+          "Matthew J. Notowidigdo"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "2",
+        "pages": "308–352",
+        "doi": "10.1257/aer.20161038",
+        "url": "https://doi.org/10.1257/aer.20161038",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30387,6 +30823,43 @@
         "url": "https://doi.org/10.1093/restud/rdac007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector",
+        "title": "Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector",
+        "authors": [
+          "Amitabh Chandra",
+          "Amy Finkelstein",
+          "Adam Sacarny",
+          "Chad Syverson"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "8",
+        "pages": "2110–2144",
+        "doi": "10.1257/aer.20151080",
+        "url": "https://doi.org/10.1257/aer.20151080",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Treatment consolidation after vertical integration: Evidence from outpatient procedure markets",
+        "title": "Treatment consolidation after vertical integration: Evidence from outpatient procedure markets",
+        "authors": [
+          "Michael R. Richards",
+          "Jonathan A. Seward",
+          "Christopher M. Whaley"
+        ],
+        "year": 2022,
+        "journal": "Journal of Health Economics",
+        "volume": "81",
+        "issue": "",
+        "pages": "102569",
+        "doi": "10.1016/j.jhealeco.2021.102569",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102569",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30425,6 +30898,24 @@
         "pages": "2269–2328",
         "doi": "10.1093/qje/qjaf023",
         "url": "https://doi.org/10.1093/qje/qjaf023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Producing Health: Measuring Value Added of Nursing Homes",
+        "title": "Producing Health: Measuring Value Added of Nursing Homes",
+        "authors": [
+          "Liran Einav",
+          "Amy Finkelstein",
+          "Neale Mahoney"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "4",
+        "pages": "1225–1264",
+        "doi": "10.3982/ECTA21016",
+        "url": "https://doi.org/10.3982/ECTA21016",
         "verified": true,
         "note": ""
       }
@@ -30627,6 +31118,27 @@
         "pages": "672–701",
         "doi": "10.1111/jeea.12071",
         "url": "https://doi.org/10.1111/jeea.12071",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Satellite Account for Health in the United States",
+        "title": "A Satellite Account for Health in the United States",
+        "authors": [
+          "David M. Cutler",
+          "Kaushik Ghosh",
+          "Kassandra L. Messer",
+          "Trivellore Raghunathan",
+          "Allison B. Rosen",
+          "Susan T. Stewart"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "494–533",
+        "doi": "10.1257/aer.20201480",
+        "url": "https://doi.org/10.1257/aer.20201480",
         "verified": true,
         "note": ""
       }
@@ -30835,6 +31347,118 @@
         "url": "https://doi.org/10.1162/rest_a_01575",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector",
+        "title": "Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector",
+        "authors": [
+          "Amitabh Chandra",
+          "Amy Finkelstein",
+          "Adam Sacarny",
+          "Chad Syverson"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "8",
+        "pages": "2110–2144",
+        "doi": "10.1257/aer.20151080",
+        "url": "https://doi.org/10.1257/aer.20151080",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of hospital/physician integration on hospital choice",
+        "title": "The effect of hospital/physician integration on hospital choice",
+        "authors": [
+          "Laurence C. Baker",
+          "M. Kate Bundorf",
+          "Daniel P. Kessler"
+        ],
+        "year": 2016,
+        "journal": "Journal of Health Economics",
+        "volume": "50",
+        "issue": "",
+        "pages": "1–8",
+        "doi": "10.1016/j.jhealeco.2016.08.006",
+        "url": "https://doi.org/10.1016/j.jhealeco.2016.08.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "title": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "authors": [
+          "Matthew Grennan",
+          "Kyle R. Myers",
+          "Ashley Swanson",
+          "Aaron Chatterji"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "4",
+        "pages": "2537–2577",
+        "doi": "10.1093/restud/rdae090",
+        "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "title": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "authors": [
+          "Jason Abaluck",
+          "Leila Agha",
+          "Chris Kabrhel",
+          "Ali Raja",
+          "Arjun Venkatesh"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3730–3764",
+        "doi": "10.1257/aer.20140260",
+        "url": "https://doi.org/10.1257/aer.20140260",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Producing Health: Measuring Value Added of Nursing Homes",
+        "title": "Producing Health: Measuring Value Added of Nursing Homes",
+        "authors": [
+          "Liran Einav",
+          "Amy Finkelstein",
+          "Neale Mahoney"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "4",
+        "pages": "1225–1264",
+        "doi": "10.3982/ECTA21016",
+        "url": "https://doi.org/10.3982/ECTA21016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Health Impacts of Hospital Delivery Practices",
+        "title": "The Health Impacts of Hospital Delivery Practices",
+        "authors": [
+          "David Card",
+          "Alessandra Fenizia",
+          "David Silver"
+        ],
+        "year": 2023,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "15",
+        "issue": "2",
+        "pages": "42–81",
+        "doi": "10.1257/pol.20210034",
+        "url": "https://doi.org/10.1257/pol.20210034",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30870,6 +31494,26 @@
         "pages": "326–356",
         "doi": "10.1257/pol.20160319",
         "url": "https://doi.org/10.1257/pol.20160319",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "title": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "authors": [
+          "Jason Abaluck",
+          "Leila Agha",
+          "Chris Kabrhel",
+          "Ali Raja",
+          "Arjun Venkatesh"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3730–3764",
+        "doi": "10.1257/aer.20140260",
+        "url": "https://doi.org/10.1257/aer.20140260",
         "verified": true,
         "note": ""
       }
@@ -30968,6 +31612,27 @@
         "url": "https://doi.org/10.1257/aer.104.3.832",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Satellite Account for Health in the United States",
+        "title": "A Satellite Account for Health in the United States",
+        "authors": [
+          "David M. Cutler",
+          "Kaushik Ghosh",
+          "Kassandra L. Messer",
+          "Trivellore Raghunathan",
+          "Allison B. Rosen",
+          "Susan T. Stewart"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "494–533",
+        "doi": "10.1257/aer.20201480",
+        "url": "https://doi.org/10.1257/aer.20201480",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31041,6 +31706,24 @@
         "url": "https://doi.org/10.1086/738249",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "When Discounts Raise Costs: The Effect of Copay Coupons on Generic Utilization",
+        "title": "When Discounts Raise Costs: The Effect of Copay Coupons on Generic Utilization",
+        "authors": [
+          "Leemore Dafny",
+          "Christopher Ody",
+          "Matt Schmitt"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "9",
+        "issue": "2",
+        "pages": "91–123",
+        "doi": "10.1257/pol.20150588",
+        "url": "https://doi.org/10.1257/pol.20150588",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31081,6 +31764,26 @@
         "pages": "478–522",
         "doi": "10.1086/738249",
         "url": "https://doi.org/10.1086/738249",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Earnings and Labor Supply of U.S. Physicians",
+        "title": "The Earnings and Labor Supply of U.S. Physicians",
+        "authors": [
+          "Joshua D. Gottlieb",
+          "Maria Polyakova",
+          "Kevin Rinz",
+          "Hugh Shiplett",
+          "Victoria Udalova"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1243–1298",
+        "doi": "10.1093/qje/qjaf001",
+        "url": "https://doi.org/10.1093/qje/qjaf001",
         "verified": true,
         "note": ""
       }
@@ -31256,6 +31959,24 @@
         "url": "https://doi.org/10.1257/app.20180011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Segmentation and Competition in Health Insurance",
+        "title": "Market Segmentation and Competition in Health Insurance",
+        "authors": [
+          "Michael J. Dickstein",
+          "Kate Ho",
+          "Nathaniel Mark"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "1",
+        "pages": "96–148",
+        "doi": "10.1086/725707",
+        "url": "https://doi.org/10.1086/725707",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31337,6 +32058,25 @@
         "url": "https://doi.org/10.1257/aer.20130778",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "title": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "authors": [
+          "Matthew Grennan",
+          "Kyle R. Myers",
+          "Ashley Swanson",
+          "Aaron Chatterji"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "4",
+        "pages": "2537–2577",
+        "doi": "10.1093/restud/rdae090",
+        "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31377,6 +32117,63 @@
         "url": "https://doi.org/10.1162/rest_a_01575",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effect of hospital/physician integration on hospital choice",
+        "title": "The effect of hospital/physician integration on hospital choice",
+        "authors": [
+          "Laurence C. Baker",
+          "M. Kate Bundorf",
+          "Daniel P. Kessler"
+        ],
+        "year": 2016,
+        "journal": "Journal of Health Economics",
+        "volume": "50",
+        "issue": "",
+        "pages": "1–8",
+        "doi": "10.1016/j.jhealeco.2016.08.006",
+        "url": "https://doi.org/10.1016/j.jhealeco.2016.08.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "title": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "authors": [
+          "Matthew Grennan",
+          "Kyle R. Myers",
+          "Ashley Swanson",
+          "Aaron Chatterji"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "4",
+        "pages": "2537–2577",
+        "doi": "10.1093/restud/rdae090",
+        "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "title": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "authors": [
+          "Jason Abaluck",
+          "Leila Agha",
+          "Chris Kabrhel",
+          "Ali Raja",
+          "Arjun Venkatesh"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3730–3764",
+        "doi": "10.1257/aer.20140260",
+        "url": "https://doi.org/10.1257/aer.20140260",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31414,6 +32211,554 @@
         "pages": "1180–1210",
         "doi": "10.1257/aer.101.4.1180",
         "url": "https://doi.org/10.1257/aer.101.4.1180",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.31",
+    "title": "CMS 医疗机构公开质量与特征数据（Care Compare / Hospital Compare、HCAHPS、医疗机构服务文件 POS）",
+    "links": [
+      {
+        "label": "CMS Provider of Services File",
+        "url": "https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-hospital-non-hospital-facilities"
+      },
+      {
+        "label": "HCAHPS Online",
+        "url": "https://www.hcahpsonline.org"
+      }
+    ],
+    "summary": "CMS 公开发布的医院、医生和其他医疗机构质量指标（死亡率、再入院率、诊疗过程指标、患者满意度调查 HCAHPS）以及全部 Medicare 认证机构的特征文件（POS）。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "CMS 通过 Care Compare（原 Hospital Compare、Physician Compare、Nursing Home Compare 等）和 Provider Data Catalog 公开各类医疗机构的质量信息：医院层面的心梗、心衰、肺炎等疾病的 30 天风险调整死亡率和再入院率、诊疗过程指标（如是否按指南用药），医院消费者评估调查（HCAHPS）的患者满意度得分，以及医生和诊所的执业地点、专科和参与项目；医疗机构服务文件（Provider of Services，POS）记录全部 Medicare 认证的医院、养老院、安宁疗护机构等的所有权类型、床位数、认证日期和地址，每季度更新。这些数据在 data.cms.gov 和 HCAHPS 网站免费下载，历史版本可在 CMS 存档中获取。\n\n数据常用于研究医疗服务质量和市场结构，例如检验质量更高的医院是否获得更多市场份额，或利用 POS 文件识别营利性安宁疗护机构的进入和所有权变化。质量指标由 CMS 定期调整计算方法，跨年比较需注意口径变化。",
+    "source": "data.cms.gov 和 hcahpsonline.org 免费下载（Provider Data Catalog 对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector",
+        "title": "Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector",
+        "authors": [
+          "Amitabh Chandra",
+          "Amy Finkelstein",
+          "Adam Sacarny",
+          "Chad Syverson"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "8",
+        "pages": "2110–2144",
+        "doi": "10.1257/aer.20151080",
+        "url": "https://doi.org/10.1257/aer.20151080",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of hospital/physician integration on hospital choice",
+        "title": "The effect of hospital/physician integration on hospital choice",
+        "authors": [
+          "Laurence C. Baker",
+          "M. Kate Bundorf",
+          "Daniel P. Kessler"
+        ],
+        "year": 2016,
+        "journal": "Journal of Health Economics",
+        "volume": "50",
+        "issue": "",
+        "pages": "1–8",
+        "doi": "10.1016/j.jhealeco.2016.08.006",
+        "url": "https://doi.org/10.1016/j.jhealeco.2016.08.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dying or Lying? For-Profit Hospices and End-of-Life Care",
+        "title": "Dying or Lying? For-Profit Hospices and End-of-Life Care",
+        "authors": [
+          "Jonathan Gruber",
+          "David H. Howard",
+          "Jetson Leder-Luis",
+          "Theodore L. Caputi"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "263–294",
+        "doi": "10.1257/aer.20230328",
+        "url": "https://doi.org/10.1257/aer.20230328",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "title": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "authors": [
+          "Matthew Grennan",
+          "Kyle R. Myers",
+          "Ashley Swanson",
+          "Aaron Chatterji"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "4",
+        "pages": "2537–2577",
+        "doi": "10.1093/restud/rdae090",
+        "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.32",
+    "title": "Medicare 医疗提供者使用与支付公开数据（Part D Prescribers、Physician & Other Practitioners）",
+    "links": [
+      {
+        "label": "Medicare Part D Prescribers",
+        "url": "https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers"
+      },
+      {
+        "label": "Medicare Physician & Other Practitioners",
+        "url": "https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners"
+      }
+    ],
+    "summary": "CMS 自 2012 年起按年公开的每位医生（NPI）在 Medicare 中提供的服务量和支付额，以及每位开方者在 Part D 中各药品的处方量和费用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "CMS 的 Medicare 提供者使用与支付数据（原 Provider Utilization and Payment Data）包括：Physician & Other Practitioners 文件，按 NPI 和 HCPCS 服务代码记录每位医生或从业者为传统 Medicare 受益人提供的服务次数、受益人数、申报费用和 Medicare 支付额（2012 年起）；Part D Prescribers 文件，按 NPI 和药品记录每位开方者开出的 Part D 处方数量、天数和药品费用（2013 年起）。数据按年在 data.cms.gov 免费下载，可与 NPPES 和 Open Payments 等数据按 NPI 匹配；为保护隐私，受益人数少于 11 的单元不公开。\n\n数据常用于研究医生行为，例如研究药企向医生的营销支付与品牌药处方的关系，或结合医师费用表估算医生来自 Medicare 的收入。数据只覆盖传统 Medicare 和 Part D，不含商业保险和 Medicare Advantage 的医疗服务。",
+    "source": "data.cms.gov 免费下载。",
+    "references": [
+      {
+        "raw": "The Earnings and Labor Supply of U.S. Physicians",
+        "title": "The Earnings and Labor Supply of U.S. Physicians",
+        "authors": [
+          "Joshua D. Gottlieb",
+          "Maria Polyakova",
+          "Kevin Rinz",
+          "Hugh Shiplett",
+          "Victoria Udalova"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1243–1298",
+        "doi": "10.1093/qje/qjaf001",
+        "url": "https://doi.org/10.1093/qje/qjaf001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "title": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "authors": [
+          "Matthew Grennan",
+          "Kyle R. Myers",
+          "Ashley Swanson",
+          "Aaron Chatterji"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "4",
+        "pages": "2537–2577",
+        "doi": "10.1093/restud/rdae090",
+        "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.33",
+    "title": "Medicare 现势受益人调查（Medicare Current Beneficiary Survey，MCBS）",
+    "links": [
+      {
+        "label": "CMS MCBS",
+        "url": "https://www.cms.gov/data-research/research/medicare-current-beneficiary-survey"
+      }
+    ],
+    "summary": "CMS 自 1991 年起开展的 Medicare 受益人代表性追踪调查，记录健康状况、医疗服务使用、各来源医疗支出和保险，并与受益人的 Medicare 理赔记录链接。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "Medicare 现势受益人调查（MCBS）由 CMS 委托 NORC 执行，每年访问约 1.5 万名 Medicare 受益人（含居住在养老院等机构的受益人），每人追踪最多四年，每年访问三次，记录健康和功能状况、慢性病、医疗服务使用、各支付方（Medicare、Medicaid、私人保险、自付）承担的全部医疗支出、补充保险和获得医疗的障碍，并与受益人的 Medicare 理赔记录链接。公共使用文件在 CMS 网站免费下载；含理赔链接的限制版文件需通过 ResDAC 申请数据使用协议。\n\n数据常用于研究老年人的医疗支出和健康，例如测算按疾病划分的医疗支出和健康改善，构建美国卫生卫星账户。调查样本规模有限，州以下层面的估计不可靠。",
+    "source": "公共使用文件免费下载；限制版经 ResDAC 申请。",
+    "references": [
+      {
+        "raw": "A Satellite Account for Health in the United States",
+        "title": "A Satellite Account for Health in the United States",
+        "authors": [
+          "David M. Cutler",
+          "Kaushik Ghosh",
+          "Kassandra L. Messer",
+          "Trivellore Raghunathan",
+          "Allison B. Rosen",
+          "Susan T. Stewart"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "494–533",
+        "doi": "10.1257/aer.20201480",
+        "url": "https://doi.org/10.1257/aer.20201480",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.34",
+    "title": "长期护理最小数据集（Minimum Data Set 3.0，MDS）",
+    "links": [
+      {
+        "label": "ResDAC: MDS 3.0",
+        "url": "https://resdac.org/cms-data/files/mds-30"
+      }
+    ],
+    "summary": "Medicare/Medicaid 认证养老院对每位住院者入住、定期和出院时进行的标准化临床评估记录，涵盖认知、身体功能、疾病、用药和护理情况。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "最小数据集（Minimum Data Set，MDS）是 CMS 要求所有 Medicare 或 Medicaid 认证的养老院对每位住院者在入住、每季度、显著状态变化和出院时提交的标准化临床评估，现行的 MDS 3.0 自 2010 年 10 月启用，记录认知（BIMS 评分）、日常生活活动能力（ADL）、情绪和行为、诊断、跌倒、压疮、用药（含抗精神病药）以及护理和康复服务。个人层面数据可与 Medicare 理赔和受益人文件链接，研究者需通过 ResDAC 申请数据使用协议并付费；养老院层面的汇总指标通过 Care Compare 和 LTCFocus 公开。\n\n数据常用于研究养老院质量，例如结合 Medicare 理赔数据估计各养老院对住院者死亡率和健康结果的“增值”。评估由养老院自行填报，部分项目可能存在报告偏差。",
+    "source": "受限：经 ResDAC 申请 CMS 数据使用协议（付费）。",
+    "references": [
+      {
+        "raw": "Producing Health: Measuring Value Added of Nursing Homes",
+        "title": "Producing Health: Measuring Value Added of Nursing Homes",
+        "authors": [
+          "Liran Einav",
+          "Amy Finkelstein",
+          "Neale Mahoney"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "4",
+        "pages": "1225–1264",
+        "doi": "10.3982/ECTA21016",
+        "url": "https://doi.org/10.3982/ECTA21016",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.35",
+    "title": "监测、流行病学与最终结果项目（SEER）癌症登记数据",
+    "links": [
+      {
+        "label": "NCI SEER",
+        "url": "https://seer.cancer.gov/"
+      }
+    ],
+    "summary": "美国国家癌症研究所的人群癌症登记项目，覆盖约一半美国人口，记录癌症发病、肿瘤分期、治疗和生存情况，另发布美国癌症死亡统计。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "监测、流行病学与最终结果项目（Surveillance, Epidemiology, and End Results，SEER）由美国国家癌症研究所（NCI）自 1973 年起建立，汇集多个州和大都市区人群癌症登记处的数据，目前覆盖约 48% 的美国人口，记录每例癌症的诊断日期、部位和组织学、分期、首程治疗和随访生存状况，并发布基于 NCHS 死亡数据的全国癌症死亡率。研究数据经注册后通过 SEER*Stat 软件免费使用，含更多变量的专门数据库和 SEER-Medicare 链接数据需另行申请。人口估计部分见 SEER 县级人口数据条目。\n\n数据常用于研究癌症发病、治疗和生存的变化，例如计算各类癌症的生存率改善，评估医疗进步对健康的贡献。SEER 登记地区的人口构成与全国不完全相同，城市和外国出生人口比例偏高。",
+    "source": "SEER*Stat 注册后免费使用；专门数据库需申请。",
+    "references": [
+      {
+        "raw": "A Satellite Account for Health in the United States",
+        "title": "A Satellite Account for Health in the United States",
+        "authors": [
+          "David M. Cutler",
+          "Kaushik Ghosh",
+          "Kassandra L. Messer",
+          "Trivellore Raghunathan",
+          "Allison B. Rosen",
+          "Susan T. Stewart"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "2",
+        "pages": "494–533",
+        "doi": "10.1257/aer.20201480",
+        "url": "https://doi.org/10.1257/aer.20201480",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.36",
+    "title": "SK&A / IQVIA OneKey 医生执业机构数据库",
+    "links": [
+      {
+        "label": "IQVIA",
+        "url": "https://www.iqvia.com/"
+      }
+    ],
+    "summary": "商业公司 SK&A（现属 IQVIA OneKey）通过电话核实建立的美国诊所和医生执业地点数据库，记录诊所规模、专科构成以及是否归医院或医疗系统所有。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "商业数据"
+    ],
+    "introduction": "SK&A 医生执业机构数据库（现并入 IQVIA OneKey 参考数据）通过定期电话调查核实美国几乎所有门诊执业地点的信息，记录诊所地址、医生人数和姓名（可与 NPI 匹配）、专科、每日接诊量、电子病历使用、接受的保险类型，以及诊所是否为医院或医疗系统所有，覆盖约 70 万名办公室执业医生，每半年更新。数据为付费商业产品。\n\n数据常用于研究医院与医生的纵向整合，例如识别诊所被医院收购的时间，研究整合对患者医院选择和门诊手术地点的影响。所有权信息依赖诊所自报，不同年份的核实频率不同。",
+    "source": "付费商业（IQVIA 授权）。",
+    "references": [
+      {
+        "raw": "The effect of hospital/physician integration on hospital choice",
+        "title": "The effect of hospital/physician integration on hospital choice",
+        "authors": [
+          "Laurence C. Baker",
+          "M. Kate Bundorf",
+          "Daniel P. Kessler"
+        ],
+        "year": 2016,
+        "journal": "Journal of Health Economics",
+        "volume": "50",
+        "issue": "",
+        "pages": "1–8",
+        "doi": "10.1016/j.jhealeco.2016.08.006",
+        "url": "https://doi.org/10.1016/j.jhealeco.2016.08.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Treatment consolidation after vertical integration: Evidence from outpatient procedure markets",
+        "title": "Treatment consolidation after vertical integration: Evidence from outpatient procedure markets",
+        "authors": [
+          "Michael R. Richards",
+          "Jonathan A. Seward",
+          "Christopher M. Whaley"
+        ],
+        "year": 2022,
+        "journal": "Journal of Health Economics",
+        "volume": "81",
+        "issue": "",
+        "pages": "102569",
+        "doi": "10.1016/j.jhealeco.2021.102569",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102569",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.37",
+    "title": "FDA 橙皮书（获批药品及治疗等效性评价）",
+    "links": [
+      {
+        "label": "FDA Orange Book",
+        "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book"
+      }
+    ],
+    "summary": "美国食品药品监督管理局发布的获批药品目录，记录每种药品的活性成分、剂型、申请人、批准日期、专利和市场独占期以及仿制药的治疗等效性评级。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "《获批药品及治疗等效性评价》（Approved Drug Products with Therapeutic Equivalence Evaluations，俗称橙皮书）由 FDA 自 1980 年起发布，列出所有经新药申请（NDA）和简化新药申请（ANDA）批准的处方药和非处方药，记录活性成分、剂型、规格、申请人、批准日期、治疗等效性代码（如 AB 级可替代），以及品牌药登记的专利和市场独占期到期日。数据可在线查询和每月免费下载，历史版本可通过 FDA 存档获取。\n\n数据常用于研究仿制药进入和药品竞争，例如识别品牌药专利到期和首个仿制药进入的时间，研究共付券对仿制药替代的影响。橙皮书只记录批准，不代表药品实际上市销售。",
+    "source": "FDA 网站免费下载。",
+    "references": [
+      {
+        "raw": "When Discounts Raise Costs: The Effect of Copay Coupons on Generic Utilization",
+        "title": "When Discounts Raise Costs: The Effect of Copay Coupons on Generic Utilization",
+        "authors": [
+          "Leemore Dafny",
+          "Christopher Ody",
+          "Matt Schmitt"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "9",
+        "issue": "2",
+        "pages": "91–123",
+        "doi": "10.1257/pol.20150588",
+        "url": "https://doi.org/10.1257/pol.20150588",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "title": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "authors": [
+          "Matthew Grennan",
+          "Kyle R. Myers",
+          "Ashley Swanson",
+          "Aaron Chatterji"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "4",
+        "pages": "2537–2577",
+        "doi": "10.1093/restud/rdae090",
+        "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.38",
+    "title": "州全支付方医疗理赔数据库（All-Payer Claims Databases：俄勒冈 APAC、新罕布什尔 CHIS 等）",
+    "links": [
+      {
+        "label": "APCD Council",
+        "url": "https://www.apcdcouncil.org/"
+      },
+      {
+        "label": "Oregon APAC",
+        "url": "https://www.oregon.gov/oha/hpa/analytics/pages/all-payer-all-claims.aspx"
+      },
+      {
+        "label": "NH CHIS",
+        "url": "https://www.nhchis.com/"
+      }
+    ],
+    "summary": "美国二十多个州依法建立的全支付方理赔数据库，汇集商业保险、Medicaid 和 Medicare Advantage 等的医疗和药房理赔记录，研究使用需向州政府申请。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "全支付方理赔数据库（All-Payer Claims Database，APCD）是美国各州依法要求辖区内的商业保险公司、第三方管理机构、Medicaid 和部分 Medicare 计划提交参保和理赔记录（医疗、药房、牙科）而建立的数据库，包括俄勒冈全支付方全理赔数据库（APAC）、新罕布什尔综合医疗信息系统（NH CHIS）、马萨诸塞、科罗拉多等二十多个州的 APCD。记录包括参保人的计划和人口特征、服务日期、诊断和操作代码、提供者和实际支付金额，可跨保险公司追踪同一参保人。研究者需向各州主管部门申请，经审查并签订数据使用协议，通常需付费；自 2016 年 Gobeille 案后，自保雇主计划可不向州提交数据。\n\n数据常用于研究商业医疗保险的价格和市场竞争，例如利用俄勒冈 APAC 研究保险市场细分和保险公司竞争，或利用新罕布什尔药房理赔研究共付券对仿制药使用的影响。各州数据结构和覆盖范围不同，自保计划的缺失会影响代表性。",
+    "source": "受限：向各州 APCD 主管部门申请。",
+    "references": [
+      {
+        "raw": "When Discounts Raise Costs: The Effect of Copay Coupons on Generic Utilization",
+        "title": "When Discounts Raise Costs: The Effect of Copay Coupons on Generic Utilization",
+        "authors": [
+          "Leemore Dafny",
+          "Christopher Ody",
+          "Matt Schmitt"
+        ],
+        "year": 2017,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "9",
+        "issue": "2",
+        "pages": "91–123",
+        "doi": "10.1257/pol.20150588",
+        "url": "https://doi.org/10.1257/pol.20150588",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Segmentation and Competition in Health Insurance",
+        "title": "Market Segmentation and Competition in Health Insurance",
+        "authors": [
+          "Michael J. Dickstein",
+          "Kate Ho",
+          "Nathaniel Mark"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "1",
+        "pages": "96–148",
+        "doi": "10.1086/725707",
+        "url": "https://doi.org/10.1086/725707",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.39",
+    "title": "加州健康访谈调查（California Health Interview Survey，CHIS）",
+    "links": [
+      {
+        "label": "UCLA CHIS",
+        "url": "https://healthpolicy.ucla.edu/our-work/california-health-interview-survey-chis"
+      }
+    ],
+    "summary": "加州大学洛杉矶分校健康政策研究中心自 2001 年起开展的全美最大州级健康调查，每年访问约 2 万户，记录健康状况、医疗保险、医疗服务使用和健康行为。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "加州健康访谈调查（CHIS）由 UCLA 健康政策研究中心与加州公共卫生部门合作开展，2001 年起每两年、2011 年起每年进行，以电话和网络方式访问加州成人、青少年和儿童，样本量大（每年约 2 万户）并对亚裔和拉丁裔等群体过度抽样，记录健康状况和慢性病、医疗保险类型和保险来源、医疗服务使用和获得障碍、健康行为和社会人口特征。公共使用文件注册后免费下载，含详细地理信息的机密文件需通过 UCLA 数据访问中心申请。\n\n数据常用于研究加州医疗保险和健康不平等，例如描述个人保险市场的人群构成，作为保险需求模型中的人口分布输入。公共使用文件对地理和部分变量做了粗化处理。",
+    "source": "公共使用文件注册后免费下载；机密文件需申请。",
+    "references": [
+      {
+        "raw": "Market Segmentation and Competition in Health Insurance",
+        "title": "Market Segmentation and Competition in Health Insurance",
+        "authors": [
+          "Michael J. Dickstein",
+          "Kate Ho",
+          "Nathaniel Mark"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "1",
+        "pages": "96–148",
+        "doi": "10.1086/725707",
+        "url": "https://doi.org/10.1086/725707",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.40",
+    "title": "AHRQ 美国医疗系统汇编（Compendium of U.S. Health Systems）",
+    "links": [
+      {
+        "label": "AHRQ Compendium of U.S. Health Systems",
+        "url": "https://www.ahrq.gov/chsp/data-resources/compendium.html"
+      }
+    ],
+    "summary": "美国医疗研究与质量局编制的全美医疗系统名单，记录每个医疗系统下属的医院、医生团体和其他机构，可用于识别医院和医生的系统归属。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "AHRQ 美国医疗系统汇编（Compendium of U.S. Health Systems）由美国医疗研究与质量局（AHRQ）在“比较医疗系统绩效”项目中编制，已发布 2016、2018、2020、2021 和 2022 年版本，定义医疗系统为至少包含一家综合性医院和一个医生团体、处于共同所有权或管理之下的机构组合，列出每个系统的下属医院（含医院标识、床位数）和医生团体，并提供医院—系统对应文件和系统特征。数据在 AHRQ 网站免费下载。\n\n数据常用于研究医疗服务的纵向整合，例如识别医生诊所所属的医疗系统，研究整合后门诊手术是否转向系统内部医院。早期年份没有汇编，之前的系统归属需从 AHA 调查等其他来源构造。",
+    "source": "AHRQ 网站免费下载。",
+    "references": [
+      {
+        "raw": "Treatment consolidation after vertical integration: Evidence from outpatient procedure markets",
+        "title": "Treatment consolidation after vertical integration: Evidence from outpatient procedure markets",
+        "authors": [
+          "Michael R. Richards",
+          "Jonathan A. Seward",
+          "Christopher M. Whaley"
+        ],
+        "year": 2022,
+        "journal": "Journal of Health Economics",
+        "volume": "81",
+        "issue": "",
+        "pages": "102569",
+        "doi": "10.1016/j.jhealeco.2021.102569",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102569",
         "verified": true,
         "note": ""
       }
@@ -35614,6 +36959,46 @@
     ]
   },
   {
+    "id": "2.12.14",
+    "title": "SERFF 保险费率与条款申报系统",
+    "links": [
+      {
+        "label": "SERFF Filing Access",
+        "url": "https://filingaccess.serff.com/sfa/home/"
+      }
+    ],
+    "summary": "美国保险监督官协会运营的电子申报系统，保险公司通过它向各州监管机构提交保险产品的费率、条款和精算说明，多数州通过 SERFF Filing Access 公开已批准的申报。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "健康数据"
+    ],
+    "introduction": "SERFF（System for Electronic Rates & Forms Filing）由美国保险监督官协会（NAIC）运营，保险公司通过它向各州保险监管部门提交财产险、寿险和健康险产品的费率表、保单条款、精算备忘录和监管意见往来，几乎覆盖全部州。多数州通过 SERFF Filing Access 网站免费公开已结案的申报文件，可按公司、产品线和日期检索下载；平价医疗法案市场的健康险计划费率申报还通过 CMS 的费率审查网站公开。\n\n数据常用于研究保险定价，例如从个人和小团体健康险的费率申报中提取各保险公司的计划保费、网络和精算价值，研究保险市场细分与竞争。申报文件多为 PDF 格式，系统性提取变量需要大量整理工作。",
+    "source": "SERFF Filing Access 在线检索（官网对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Market Segmentation and Competition in Health Insurance",
+        "title": "Market Segmentation and Competition in Health Insurance",
+        "authors": [
+          "Michael J. Dickstein",
+          "Kate Ho",
+          "Nathaniel Mark"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "1",
+        "pages": "96–148",
+        "doi": "10.1086/725707",
+        "url": "https://doi.org/10.1086/725707",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.13.1",
     "title": "Nielsen 零售扫描数据",
     "links": [
@@ -35685,6 +37070,25 @@
         "pages": "102327",
         "doi": "10.1016/j.jhealeco.2020.102327",
         "url": "https://doi.org/10.1016/j.jhealeco.2020.102327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "title": "No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries",
+        "authors": [
+          "Matthew Grennan",
+          "Kyle R. Myers",
+          "Ashley Swanson",
+          "Aaron Chatterji"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "4",
+        "pages": "2537–2577",
+        "doi": "10.1093/restud/rdae090",
+        "url": "https://doi.org/10.1093/restud/rdae090",
         "verified": true,
         "note": ""
       }
@@ -38701,6 +40105,26 @@
         "pages": "129–157",
         "doi": "10.1257/app.2.3.129",
         "url": "https://doi.org/10.1257/app.2.3.129",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "title": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+        "authors": [
+          "Jason Abaluck",
+          "Leila Agha",
+          "Chris Kabrhel",
+          "Ali Raja",
+          "Arjun Venkatesh"
+        ],
+        "year": 2016,
+        "journal": "American Economic Review",
+        "volume": "106",
+        "issue": "12",
+        "pages": "3730–3764",
+        "doi": "10.1257/aer.20140260",
+        "url": "https://doi.org/10.1257/aer.20140260",
         "verified": true,
         "note": ""
       }
@@ -46328,6 +47752,45 @@
         "pages": "377–414",
         "doi": "10.1257/app.20200505",
         "url": "https://doi.org/10.1257/app.20200505",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.8.7",
+    "title": "日本医疗机构静态调查（医療施設静態調査）",
+    "links": [
+      {
+        "label": "e-Stat: Survey of Medical Institutions",
+        "url": "https://www.e-stat.go.jp/en/statistics/00450021"
+      }
+    ],
+    "summary": "日本厚生劳动省每三年对全部医院和诊所开展的普查，记录机构的开设主体、诊疗科目、病床数、医疗设备和从业人员。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "医疗施设调查由日本厚生劳动省实施，分为每三年一次的静态调查（覆盖全国所有医院、一般诊所和牙科诊所，记录开设主体、所在地、诊疗科目、病床数和类型、CT/MRI 等医疗设备、手术和检查实施情况以及各类从业人员数）和每月的动态调查（记录机构开设、废止和变更）。汇总统计在政府统计门户 e-Stat 免费公开，机构层面的调查票信息需依据统计法第 33 条申请使用。\n\n数据常用于研究日本医疗服务供给，例如利用诊所进入带来的地方竞争变化，研究医生之间的竞争是否诱导更多检查和治疗（诱导需求）。微观数据申请周期较长，且只对符合条件的研究用途开放。",
+    "source": "e-Stat 免费查询汇总统计；微观数据依统计法申请。",
+    "references": [
+      {
+        "raw": "Competition-driven physician-induced demand",
+        "title": "Competition-driven physician-induced demand",
+        "authors": [
+          "Kei Ikegami",
+          "Ken Onishi",
+          "Naoki Wakamori"
+        ],
+        "year": 2021,
+        "journal": "Journal of Health Economics",
+        "volume": "79",
+        "issue": "",
+        "pages": "102488",
+        "doi": "10.1016/j.jhealeco.2021.102488",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102488",
         "verified": true,
         "note": ""
       }
@@ -56585,6 +58048,26 @@
         "pages": "362–400",
         "doi": "10.1257/pol.20220130",
         "url": "https://doi.org/10.1257/pol.20220130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Building Resilient Health Systems: Experimental Evidence from Sierra Leone and the 2014 Ebola Outbreak",
+        "title": "Building Resilient Health Systems: Experimental Evidence from Sierra Leone and the 2014 Ebola Outbreak",
+        "authors": [
+          "Darin Christensen",
+          "Oeindrila Dube",
+          "Johannes Haushofer",
+          "Bilal Siddiqi",
+          "Maarten Voors"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "1145–1198",
+        "doi": "10.1093/qje/qjaa039",
+        "url": "https://doi.org/10.1093/qje/qjaa039",
         "verified": true,
         "note": ""
       }
