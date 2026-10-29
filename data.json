@@ -6557,6 +6557,42 @@
         "url": "https://doi.org/10.1257/pol.20200543",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Distributional Effects of Air Pollution from Electric Vehicle Adoption",
+        "title": "Distributional Effects of Air Pollution from Electric Vehicle Adoption",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "S1",
+        "pages": "S65–S94",
+        "doi": "10.1086/701188",
+        "url": "https://doi.org/10.1086/701188",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6779,6 +6815,23 @@
         "url": "https://doi.org/10.1093/restud/rdaa074",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "title": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "authors": [
+          "Alex Hollingsworth",
+          "Ivan Rudik"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "1",
+        "pages": "187–213",
+        "doi": "10.1086/700419",
+        "url": "https://doi.org/10.1086/700419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6909,6 +6962,23 @@
         "pages": "121–133",
         "doi": "10.1162/rest_a_00736",
         "url": "https://doi.org/10.1162/rest_a_00736",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Distributional Effects of US Clean Energy Tax Credits",
+        "title": "The Distributional Effects of US Clean Energy Tax Credits",
+        "authors": [
+          "Severin Borenstein",
+          "Lucas W. Davis"
+        ],
+        "year": 2016,
+        "journal": "Tax Policy and the Economy",
+        "volume": "30",
+        "issue": "1",
+        "pages": "191–234",
+        "doi": "10.1086/685597",
+        "url": "https://doi.org/10.1086/685597",
         "verified": true,
         "note": ""
       }
@@ -8687,6 +8757,23 @@
         "url": "https://doi.org/10.1086/732186",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -9798,6 +9885,22 @@
         "pages": "1–14",
         "doi": "10.1016/j.jeem.2008.08.004",
         "url": "https://doi.org/10.1016/j.jeem.2008.08.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wind power development in the United States",
+        "title": "Wind power development in the United States",
+        "authors": [
+          "Claudia Hitaj"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "65",
+        "issue": "3",
+        "pages": "394–410",
+        "doi": "10.1016/j.jeem.2012.10.003",
+        "url": "https://doi.org/10.1016/j.jeem.2012.10.003",
         "verified": true,
         "note": ""
       }
@@ -11884,6 +11987,45 @@
         "pages": "104586",
         "doi": "10.1016/j.jpubeco.2021.104586",
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.27",
+    "title": "IRS SOI 个人所得税申报统计与公共使用文件（Individual Income Tax Statistics、PUF）",
+    "links": [
+      {
+        "label": "IRS SOI Individual Statistical Tables",
+        "url": "https://www.irs.gov/statistics/soi-tax-stats-individual-statistical-tables-by-size-of-adjusted-gross-income"
+      }
+    ],
+    "summary": "美国国税局收入统计处基于个人所得税申报抽样编制的按收入分组汇总表、逐行项目估计和去识别化的公共使用微观文件，1913 年起。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "金融数据"
+    ],
+    "introduction": "收入统计处（Statistics of Income，SOI）是美国国税局（IRS）的统计部门，每年从个人所得税申报（Form 1040 及附表）中抽取约 30 万份样本，发布按调整后总收入（AGI）分组的汇总统计表（申报数量、收入来源、扣除项目、税收抵免和应纳税额）、逐行项目估计（Line Item Estimates）以及去识别化的个人申报公共使用文件（Public Use File，PUF）；PUF 需向 SOI 购买或经 NBER 等机构在许可下使用。汇总表免费下载。\n\n数据常用于研究税收政策的分配效应，例如按收入分组统计住宅能效、光伏和电动车税收抵免的申领金额，研究清洁能源税收抵免主要流向哪些收入群体。汇总表只给出按收入分组的数值，个人层面分析需使用 PUF 或受限的行政数据。",
+    "source": "IRS 网站免费下载汇总表；PUF 需购买或经授权使用。",
+    "references": [
+      {
+        "raw": "The Distributional Effects of US Clean Energy Tax Credits",
+        "title": "The Distributional Effects of US Clean Energy Tax Credits",
+        "authors": [
+          "Severin Borenstein",
+          "Lucas W. Davis"
+        ],
+        "year": 2016,
+        "journal": "Tax Policy and the Economy",
+        "volume": "30",
+        "issue": "1",
+        "pages": "191–234",
+        "doi": "10.1086/685597",
+        "url": "https://doi.org/10.1086/685597",
         "verified": true,
         "note": ""
       }
@@ -15721,6 +15863,42 @@
         "url": "https://doi.org/10.1257/pol.20190758",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "title": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "4",
+        "pages": "244–274",
+        "doi": "10.1257/pol.20190390",
+        "url": "https://doi.org/10.1257/pol.20190390",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "title": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "authors": [
+          "Alex Hollingsworth",
+          "Ivan Rudik"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "1",
+        "pages": "187–213",
+        "doi": "10.1086/700419",
+        "url": "https://doi.org/10.1086/700419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16326,6 +16504,59 @@
         "url": "https://doi.org/10.1257/pol.5.4.107",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided",
+        "title": "Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided",
+        "authors": [
+          "Kevin Novan"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "7",
+        "issue": "3",
+        "pages": "291–326",
+        "doi": "10.1257/pol.20130268",
+        "url": "https://doi.org/10.1257/pol.20130268",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "title": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "authors": [
+          "Duncan S. Callaway",
+          "Meredith Fowlie",
+          "Gavin McCormick"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "39–75",
+        "doi": "10.1086/694179",
+        "url": "https://doi.org/10.1086/694179",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "title": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "4",
+        "pages": "244–274",
+        "doi": "10.1257/pol.20190390",
+        "url": "https://doi.org/10.1257/pol.20190390",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16583,6 +16814,42 @@
         "pages": "107–133",
         "doi": "10.1257/pol.5.4.107",
         "url": "https://doi.org/10.1257/pol.5.4.107",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "title": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "4",
+        "pages": "244–274",
+        "doi": "10.1257/pol.20190390",
+        "url": "https://doi.org/10.1257/pol.20190390",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
         "verified": true,
         "note": ""
       }
@@ -19100,6 +19367,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2017.11.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "title": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "authors": [
+          "Alex Hollingsworth",
+          "Ivan Rudik"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "1",
+        "pages": "187–213",
+        "doi": "10.1086/700419",
+        "url": "https://doi.org/10.1086/700419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20703,6 +20987,92 @@
         "url": "https://doi.org/10.1086/713249",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided",
+        "title": "Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided",
+        "authors": [
+          "Kevin Novan"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "7",
+        "issue": "3",
+        "pages": "291–326",
+        "doi": "10.1257/pol.20130268",
+        "url": "https://doi.org/10.1257/pol.20130268",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "title": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "authors": [
+          "Duncan S. Callaway",
+          "Meredith Fowlie",
+          "Gavin McCormick"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "39–75",
+        "doi": "10.1086/694179",
+        "url": "https://doi.org/10.1086/694179",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "title": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "4",
+        "pages": "244–274",
+        "doi": "10.1257/pol.20190390",
+        "url": "https://doi.org/10.1257/pol.20190390",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wind power development in the United States",
+        "title": "Wind power development in the United States",
+        "authors": [
+          "Claudia Hitaj"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "65",
+        "issue": "3",
+        "pages": "394–410",
+        "doi": "10.1016/j.jeem.2012.10.003",
+        "url": "https://doi.org/10.1016/j.jeem.2012.10.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "title": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "authors": [
+          "Alex Hollingsworth",
+          "Ivan Rudik"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "1",
+        "pages": "187–213",
+        "doi": "10.1086/700419",
+        "url": "https://doi.org/10.1086/700419",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21122,6 +21492,39 @@
         "url": "https://doi.org/10.1086/713249",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wind power development in the United States",
+        "title": "Wind power development in the United States",
+        "authors": [
+          "Claudia Hitaj"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "65",
+        "issue": "3",
+        "pages": "394–410",
+        "doi": "10.1016/j.jeem.2012.10.003",
+        "url": "https://doi.org/10.1016/j.jeem.2012.10.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21351,6 +21754,41 @@
         "pages": "409–441",
         "doi": "10.1257/aer.20172034",
         "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided",
+        "title": "Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided",
+        "authors": [
+          "Kevin Novan"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "7",
+        "issue": "3",
+        "pages": "291–326",
+        "doi": "10.1257/pol.20130268",
+        "url": "https://doi.org/10.1257/pol.20130268",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "title": "Decompositions and Policy Consequences of an Extraordinary Decline in Air Pollution from Electricity Generation",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "4",
+        "pages": "244–274",
+        "doi": "10.1257/pol.20190390",
+        "url": "https://doi.org/10.1257/pol.20190390",
         "verified": true,
         "note": ""
       }
@@ -21676,6 +22114,40 @@
         "pages": "409–441",
         "doi": "10.1257/aer.20172034",
         "url": "https://doi.org/10.1257/aer.20172034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Distributional Effects of US Clean Energy Tax Credits",
+        "title": "The Distributional Effects of US Clean Energy Tax Credits",
+        "authors": [
+          "Severin Borenstein",
+          "Lucas W. Davis"
+        ],
+        "year": 2016,
+        "journal": "Tax Policy and the Economy",
+        "volume": "30",
+        "issue": "1",
+        "pages": "191–234",
+        "doi": "10.1086/685597",
+        "url": "https://doi.org/10.1086/685597",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "title": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "authors": [
+          "Alex Hollingsworth",
+          "Ivan Rudik"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "1",
+        "pages": "187–213",
+        "doi": "10.1086/700419",
+        "url": "https://doi.org/10.1086/700419",
         "verified": true,
         "note": ""
       }
@@ -22069,6 +22541,40 @@
         "url": "https://doi.org/10.1086/713249",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided",
+        "title": "Valuing the Wind: Renewable Energy Policies and Air Pollution Avoided",
+        "authors": [
+          "Kevin Novan"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "7",
+        "issue": "3",
+        "pages": "291–326",
+        "doi": "10.1257/pol.20130268",
+        "url": "https://doi.org/10.1257/pol.20130268",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "title": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "authors": [
+          "Duncan S. Callaway",
+          "Meredith Fowlie",
+          "Gavin McCormick"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "39–75",
+        "doi": "10.1086/694179",
+        "url": "https://doi.org/10.1086/694179",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22258,6 +22764,23 @@
         "url": "https://doi.org/10.1086/705553",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22380,6 +22903,23 @@
         "pages": "1986–2012",
         "doi": "10.1111/j.1468-0297.2008.02199.x",
         "url": "https://doi.org/10.1111/j.1468-0297.2008.02199.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "title": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "authors": [
+          "Alex Hollingsworth",
+          "Ivan Rudik"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "1",
+        "pages": "187–213",
+        "doi": "10.1086/700419",
+        "url": "https://doi.org/10.1086/700419",
         "verified": true,
         "note": ""
       }
@@ -22808,6 +23348,41 @@
         "pages": "759–796",
         "doi": "10.1086/713249",
         "url": "https://doi.org/10.1086/713249",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental and technology policies for climate mitigation",
+        "title": "Environmental and technology policies for climate mitigation",
+        "authors": [
+          "Carolyn Fischer",
+          "Richard G. Newell"
+        ],
+        "year": 2008,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "55",
+        "issue": "2",
+        "pages": "142–162",
+        "doi": "10.1016/j.jeem.2007.11.001",
+        "url": "https://doi.org/10.1016/j.jeem.2007.11.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Emissions reductions or green booms? General equilibrium effects of a renewable portfolio standard",
+        "title": "Emissions reductions or green booms? General equilibrium effects of a renewable portfolio standard",
+        "authors": [
+          "Antonio M. Bento",
+          "Teevrat Garg",
+          "Daniel Kaffine"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "90",
+        "issue": "",
+        "pages": "78–100",
+        "doi": "10.1016/j.jeem.2018.05.006",
+        "url": "https://doi.org/10.1016/j.jeem.2018.05.006",
         "verified": true,
         "note": ""
       }
@@ -23475,6 +24050,40 @@
         "url": "https://doi.org/10.1257/aer.101.4.1375",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Distributional Effects of US Clean Energy Tax Credits",
+        "title": "The Distributional Effects of US Clean Energy Tax Credits",
+        "authors": [
+          "Severin Borenstein",
+          "Lucas W. Davis"
+        ],
+        "year": 2016,
+        "journal": "Tax Policy and the Economy",
+        "volume": "30",
+        "issue": "1",
+        "pages": "191–234",
+        "doi": "10.1086/685597",
+        "url": "https://doi.org/10.1086/685597",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23749,6 +24358,23 @@
         "pages": "1052–1069",
         "doi": "10.1162/rest_a_00452",
         "url": "https://doi.org/10.1162/rest_a_00452",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental and technology policies for climate mitigation",
+        "title": "Environmental and technology policies for climate mitigation",
+        "authors": [
+          "Carolyn Fischer",
+          "Richard G. Newell"
+        ],
+        "year": 2008,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "55",
+        "issue": "2",
+        "pages": "142–162",
+        "doi": "10.1016/j.jeem.2007.11.001",
+        "url": "https://doi.org/10.1016/j.jeem.2007.11.001",
         "verified": true,
         "note": ""
       }
@@ -24307,6 +24933,58 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104586",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "title": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "authors": [
+          "Duncan S. Callaway",
+          "Meredith Fowlie",
+          "Gavin McCormick"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "39–75",
+        "doi": "10.1086/694179",
+        "url": "https://doi.org/10.1086/694179",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wind power development in the United States",
+        "title": "Wind power development in the United States",
+        "authors": [
+          "Claudia Hitaj"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "65",
+        "issue": "3",
+        "pages": "394–410",
+        "doi": "10.1016/j.jeem.2012.10.003",
+        "url": "https://doi.org/10.1016/j.jeem.2012.10.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Emissions reductions or green booms? General equilibrium effects of a renewable portfolio standard",
+        "title": "Emissions reductions or green booms? General equilibrium effects of a renewable portfolio standard",
+        "authors": [
+          "Antonio M. Bento",
+          "Teevrat Garg",
+          "Daniel Kaffine"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "90",
+        "issue": "",
+        "pages": "78–100",
+        "doi": "10.1016/j.jeem.2018.05.006",
+        "url": "https://doi.org/10.1016/j.jeem.2018.05.006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24464,6 +25142,57 @@
         "pages": "104480",
         "doi": "10.1016/j.jpubeco.2021.104480",
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wind power development in the United States",
+        "title": "Wind power development in the United States",
+        "authors": [
+          "Claudia Hitaj"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "65",
+        "issue": "3",
+        "pages": "394–410",
+        "doi": "10.1016/j.jeem.2012.10.003",
+        "url": "https://doi.org/10.1016/j.jeem.2012.10.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "title": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "authors": [
+          "Alex Hollingsworth",
+          "Ivan Rudik"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "1",
+        "pages": "187–213",
+        "doi": "10.1086/700419",
+        "url": "https://doi.org/10.1086/700419",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Emissions reductions or green booms? General equilibrium effects of a renewable portfolio standard",
+        "title": "Emissions reductions or green booms? General equilibrium effects of a renewable portfolio standard",
+        "authors": [
+          "Antonio M. Bento",
+          "Teevrat Garg",
+          "Daniel Kaffine"
+        ],
+        "year": 2018,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "90",
+        "issue": "",
+        "pages": "78–100",
+        "doi": "10.1016/j.jeem.2018.05.006",
+        "url": "https://doi.org/10.1016/j.jeem.2018.05.006",
         "verified": true,
         "note": ""
       }
@@ -24761,6 +25490,104 @@
         "pages": "S261–S298",
         "doi": "10.1086/732186",
         "url": "https://doi.org/10.1086/732186",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.49",
+    "title": "LBNL 光伏装机追踪数据（Tracking the Sun）",
+    "links": [
+      {
+        "label": "LBNL Tracking the Sun",
+        "url": "https://emp.lbl.gov/tracking-the-sun"
+      }
+    ],
+    "summary": "劳伦斯伯克利国家实验室每年发布的美国分布式光伏系统项目级数据集，记录数百万套户用和工商业光伏的装机容量、安装价格、日期、组件和安装商。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "Tracking the Sun 由劳伦斯伯克利国家实验室（LBNL）自 2008 年起每年发布，汇总各州补贴项目管理机构、公用事业公司和并网记录中约 400 多万套分布式光伏系统的项目级信息，包括安装日期、邮编和州、系统容量、安装价格（含补贴前价格）、用户类型（居民、商业、免税机构）、安装商、组件和逆变器制造商及型号、是否第三方所有、是否配储能等，覆盖美国已装机分布式光伏的大部分。项目级数据和年度报告在 LBNL 网站免费下载。\n\n数据常用于研究分布式光伏的价格、补贴和市场结构，例如测算光伏系统的装机成本以评估不同电价和补贴下的居民光伏净收益，或研究补贴向消费者价格的传导。各州数据来源和字段完整度差异较大，部分州的价格数据缺失。",
+    "source": "LBNL 网站免费下载（链接经搜索确认，网站对自动访问返回验证页）。",
+    "references": [
+      {
+        "raw": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "title": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "authors": [
+          "Duncan S. Callaway",
+          "Meredith Fowlie",
+          "Gavin McCormick"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "39–75",
+        "doi": "10.1086/694179",
+        "url": "https://doi.org/10.1086/694179",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.50",
+    "title": "美国能源部风电市场报告（Wind Technologies Market Report）",
+    "links": [
+      {
+        "label": "DOE Wind Market Reports",
+        "url": "https://www.energy.gov/eere/wind/wind-market-reports-2024-edition"
+      },
+      {
+        "label": "LBNL Wind Market Report",
+        "url": "https://emp.lbl.gov/wind-technologies-market-report"
+      }
+    ],
+    "summary": "美国能源部委托劳伦斯伯克利国家实验室每年发布的美国风电市场报告及数据文件，记录风电装机、项目成本、性能、购电协议价格和风机技术趋势。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "风电技术市场报告（Land-Based Wind Market Report，原 Wind Technologies Market Report）由美国能源部风能技术办公室资助、劳伦斯伯克利国家实验室（LBNL）编写，自 2007 年起每年发布，附有数据文件，内容包括各州和各地区的风电新增和累计装机、项目安装成本、容量因子、运维成本、风电购电协议（PPA）价格、风机单机容量、轮毂高度和风轮直径的变化以及弃风情况，同期还发布海上风电和分布式风电市场报告。报告和数据免费下载。\n\n数据常用于获取风电成本和价格的基准值，例如用风电 PPA 价格比较可再生能源在不同地点的价值，或校准可再生能源支持政策的成本。PPA 样本来自公开披露的合同，不代表全部项目。",
+    "source": "能源部和 LBNL 网站免费下载。",
+    "references": [
+      {
+        "raw": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "title": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources",
+        "authors": [
+          "Duncan S. Callaway",
+          "Meredith Fowlie",
+          "Gavin McCormick"
+        ],
+        "year": 2018,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "5",
+        "issue": "1",
+        "pages": "39–75",
+        "doi": "10.1086/694179",
+        "url": "https://doi.org/10.1086/694179",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "title": "The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects",
+        "authors": [
+          "Stephen Jarvis"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "4",
+        "pages": "983–1022",
+        "doi": "10.1086/732801",
+        "url": "https://doi.org/10.1086/732801",
         "verified": true,
         "note": ""
       }
@@ -26636,6 +27463,80 @@
         "url": "https://doi.org/10.1016/j.jeem.2013.11.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Distributional Effects of Air Pollution from Electric Vehicle Adoption",
+        "title": "Distributional Effects of Air Pollution from Electric Vehicle Adoption",
+        "authors": [
+          "Stephen P. Holland",
+          "Erin T. Mansur",
+          "Nicholas Z. Muller",
+          "Andrew J. Yates"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "S1",
+        "pages": "S65–S94",
+        "doi": "10.1086/701188",
+        "url": "https://doi.org/10.1086/701188",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.9.13",
+    "title": "NHTSA 车辆识别码解码 API（vPIC）",
+    "links": [
+      {
+        "label": "NHTSA vPIC API",
+        "url": "https://vpic.nhtsa.dot.gov/api/"
+      }
+    ],
+    "summary": "美国国家公路交通安全管理局的产品信息目录与车辆查询平台，可根据 17 位车辆识别码（VIN）解码出车辆的品牌、车型、年款、车身和动力系统等属性。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "vPIC（Product Information Catalog and Vehicle Listing）由美国国家公路交通安全管理局（NHTSA）维护，基于汽车制造商依法向 NHTSA 报送的 VIN 编码规则，提供车辆识别码解码服务，可根据完整或部分 VIN 返回制造商、品牌、车型、年款、车身类型、发动机排量、燃料类型（含纯电和插电混动）、驱动方式和制造工厂等字段；提供免费的网页查询、批量解码 API 和可下载的独立数据库。\n\n数据常用于处理车辆登记数据，例如把州机动车登记记录中的 VIN 解码为车型和燃料类型，识别电动车并研究电动车补贴对城市空气污染分布的影响。早期车型和进口车的部分字段可能缺失。",
+    "source": "NHTSA 网站免费使用。",
+    "references": [
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26869,6 +27770,23 @@
         "pages": "341–365",
         "doi": "10.1257/pol.20200543",
         "url": "https://doi.org/10.1257/pol.20200543",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
         "verified": true,
         "note": ""
       }
@@ -27136,6 +28054,22 @@
         "url": "https://doi.org/10.1257/pol.20230070",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Wind power development in the United States",
+        "title": "Wind power development in the United States",
+        "authors": [
+          "Claudia Hitaj"
+        ],
+        "year": 2013,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "65",
+        "issue": "3",
+        "pages": "394–410",
+        "doi": "10.1016/j.jeem.2012.10.003",
+        "url": "https://doi.org/10.1016/j.jeem.2012.10.003",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27375,6 +28309,23 @@
         "pages": "135–162",
         "doi": "10.1257/pol.20230070",
         "url": "https://doi.org/10.1257/pol.20230070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "title": "External Impacts of Local Energy Policy: The Case of Renewable Portfolio Standards",
+        "authors": [
+          "Alex Hollingsworth",
+          "Ivan Rudik"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "1",
+        "pages": "187–213",
+        "doi": "10.1086/700419",
+        "url": "https://doi.org/10.1086/700419",
         "verified": true,
         "note": ""
       }
@@ -30652,6 +31603,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2016.11.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "title": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "authors": [
+          "Vincent F. Stegmaier",
+          "Melanie Krause"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "139",
+        "issue": "",
+        "pages": "103386",
+        "doi": "10.1016/j.jeem.2026.103386",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103386",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30881,6 +31849,23 @@
         "pages": "208–223",
         "doi": "10.1016/j.jeem.2011.08.003",
         "url": "https://doi.org/10.1016/j.jeem.2011.08.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wind electricity subsidies — A windfall for landowners? Evidence from a feed-in tariff in Germany",
+        "title": "Wind electricity subsidies — A windfall for landowners? Evidence from a feed-in tariff in Germany",
+        "authors": [
+          "Peter Haan",
+          "Martin Simmler"
+        ],
+        "year": 2018,
+        "journal": "Journal of Public Economics",
+        "volume": "159",
+        "issue": "",
+        "pages": "16–32",
+        "doi": "10.1016/j.jpubeco.2018.01.011",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.01.011",
         "verified": true,
         "note": ""
       }
@@ -31360,6 +32345,23 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105468",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "title": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "authors": [
+          "Vincent F. Stegmaier",
+          "Melanie Krause"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "139",
+        "issue": "",
+        "pages": "103386",
+        "doi": "10.1016/j.jeem.2026.103386",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103386",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31432,6 +32434,44 @@
         "pages": "983–1022",
         "doi": "10.1086/732801",
         "url": "https://doi.org/10.1086/732801",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.5.2",
+    "title": "哥白尼欧洲数字高程模型（EU-DEM / Copernicus DEM）",
+    "links": [
+      {
+        "label": "Copernicus EU-DEM",
+        "url": "https://land.copernicus.eu/imagery-in-situ/eu-dem"
+      }
+    ],
+    "summary": "欧盟哥白尼土地监测服务发布的覆盖欧洲经济区的 25 米分辨率数字地表模型，融合 SRTM 和 ASTER GDEM 数据。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "EU-DEM 由欧洲环境署在哥白尼土地监测服务（Copernicus Land Monitoring Service）下制作，融合 SRTM 和 ASTER GDEM 数据，提供覆盖欧洲经济区 39 个国家的 25 米（1 角秒）分辨率数字地表模型，垂直精度约 2—3 米，并附河网和流域等衍生产品；该产品已逐步被基于 TanDEM-X 的全球 Copernicus DEM（GLO-30、GLO-90 和 EEA-10）取代。注册后免费下载。\n\n数据常用于计算地形和视域，例如结合风机位置和高度进行视域分析，识别各市镇居民能看到的风机数量，研究风机可见性对可再生能源政策支持的溢出效应。数字地表模型包含植被和建筑高度，用于视域分析时会有偏差。",
+    "source": "哥白尼土地监测服务注册后免费下载。",
+    "references": [
+      {
+        "raw": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "title": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "authors": [
+          "Vincent F. Stegmaier",
+          "Melanie Krause"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "139",
+        "issue": "",
+        "pages": "103386",
+        "doi": "10.1016/j.jeem.2026.103386",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103386",
         "verified": true,
         "note": ""
       }
@@ -31772,6 +32812,40 @@
         "pages": "1311–1346",
         "doi": "10.1093/jeea/jvac007",
         "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "(Mis)allocation of Renewable Energy Sources",
+        "title": "(Mis)allocation of Renewable Energy Sources",
+        "authors": [
+          "Stefan Lamp",
+          "Mario Samano"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "1",
+        "pages": "195–229",
+        "doi": "10.1086/720722",
+        "url": "https://doi.org/10.1086/720722",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wind electricity subsidies — A windfall for landowners? Evidence from a feed-in tariff in Germany",
+        "title": "Wind electricity subsidies — A windfall for landowners? Evidence from a feed-in tariff in Germany",
+        "authors": [
+          "Peter Haan",
+          "Martin Simmler"
+        ],
+        "year": 2018,
+        "journal": "Journal of Public Economics",
+        "volume": "159",
+        "issue": "",
+        "pages": "16–32",
+        "doi": "10.1016/j.jpubeco.2018.01.011",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.01.011",
         "verified": true,
         "note": ""
       }
@@ -32187,6 +33261,22 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2014.04.016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Complementary Bidding Mechanisms and Startup Costs in Electricity Markets",
+        "title": "Complementary Bidding Mechanisms and Startup Costs in Electricity Markets",
+        "authors": [
+          "Mar Reguant"
+        ],
+        "year": 2014,
+        "journal": "The Review of Economic Studies",
+        "volume": "81",
+        "issue": "4",
+        "pages": "1708–1742",
+        "doi": "10.1093/restud/rdu022",
+        "url": "https://doi.org/10.1093/restud/rdu022",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32268,6 +33358,45 @@
     ]
   },
   {
+    "id": "3.6.17",
+    "title": "欧洲气候评估与数据集（ECA&D / E-OBS）",
+    "links": [
+      {
+        "label": "ECA&D",
+        "url": "https://www.ecad.eu/"
+      }
+    ],
+    "summary": "荷兰皇家气象研究所协调的欧洲气象站逐日观测数据集，汇集 60 多个国家约 2 万个站点的气温、降水等变量，并提供 E-OBS 格网产品。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "欧洲气候评估与数据集（European Climate Assessment & Dataset，ECA&D）由荷兰皇家气象研究所（KNMI）协调，汇集欧洲和地中海地区 60 多个国家的国家气象局和研究机构提供的约 2 万多个气象站的逐日观测，包括最高、最低和平均气温、降水、气压、云量、日照、风速和积雪深度等，并经质量控制和均一性检验；基于站点数据插值的 E-OBS 格网数据集（0.1 度和 0.25 度，1950 年起）在哥伦比斯气候变化服务（C3S）下发布。非商业用途免费下载。\n\n数据常用于欧洲气候和能源研究，例如用日均气温控制电力需求的天气影响，评估德国和西班牙可再生能源补贴的减排效果。部分国家只提供有限站点，站点密度和数据可得性差异较大。",
+    "source": "ECA&D 网站免费下载（非商业用途）。",
+    "references": [
+      {
+        "raw": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "title": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "authors": [
+          "Jan Abrell",
+          "Mirjam Kosch",
+          "Sebastian Rausch"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "169",
+        "issue": "",
+        "pages": "172–202",
+        "doi": "10.1016/j.jpubeco.2018.11.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.7.1",
     "title": "伊比利亚电力市场运营商（OMIE）报价与出清数据",
     "links": [
@@ -32336,6 +33465,40 @@
         "pages": "323–358",
         "doi": "10.1257/pol.20210221",
         "url": "https://doi.org/10.1257/pol.20210221",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Complementary Bidding Mechanisms and Startup Costs in Electricity Markets",
+        "title": "Complementary Bidding Mechanisms and Startup Costs in Electricity Markets",
+        "authors": [
+          "Mar Reguant"
+        ],
+        "year": 2014,
+        "journal": "The Review of Economic Studies",
+        "volume": "81",
+        "issue": "4",
+        "pages": "1708–1742",
+        "doi": "10.1093/restud/rdu022",
+        "url": "https://doi.org/10.1093/restud/rdu022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "title": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "authors": [
+          "Jan Abrell",
+          "Mirjam Kosch",
+          "Sebastian Rausch"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "169",
+        "issue": "",
+        "pages": "172–202",
+        "doi": "10.1016/j.jpubeco.2018.11.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
         "verified": true,
         "note": ""
       }
@@ -32410,6 +33573,40 @@
         "pages": "323–358",
         "doi": "10.1257/pol.20210221",
         "url": "https://doi.org/10.1257/pol.20210221",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Complementary Bidding Mechanisms and Startup Costs in Electricity Markets",
+        "title": "Complementary Bidding Mechanisms and Startup Costs in Electricity Markets",
+        "authors": [
+          "Mar Reguant"
+        ],
+        "year": 2014,
+        "journal": "The Review of Economic Studies",
+        "volume": "81",
+        "issue": "4",
+        "pages": "1708–1742",
+        "doi": "10.1093/restud/rdu022",
+        "url": "https://doi.org/10.1093/restud/rdu022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "title": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "authors": [
+          "Jan Abrell",
+          "Mirjam Kosch",
+          "Sebastian Rausch"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "169",
+        "issue": "",
+        "pages": "172–202",
+        "doi": "10.1016/j.jpubeco.2018.11.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
         "verified": true,
         "note": ""
       }
@@ -32521,6 +33718,23 @@
         "pages": "1311–1346",
         "doi": "10.1093/jeea/jvac007",
         "url": "https://doi.org/10.1093/jeea/jvac007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "(Mis)allocation of Renewable Energy Sources",
+        "title": "(Mis)allocation of Renewable Energy Sources",
+        "authors": [
+          "Stefan Lamp",
+          "Mario Samano"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "1",
+        "pages": "195–229",
+        "doi": "10.1086/720722",
+        "url": "https://doi.org/10.1086/720722",
         "verified": true,
         "note": ""
       }
@@ -32750,6 +33964,41 @@
         "url": "https://doi.org/10.1093/jeea/jvac007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "(Mis)allocation of Renewable Energy Sources",
+        "title": "(Mis)allocation of Renewable Energy Sources",
+        "authors": [
+          "Stefan Lamp",
+          "Mario Samano"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "1",
+        "pages": "195–229",
+        "doi": "10.1086/720722",
+        "url": "https://doi.org/10.1086/720722",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "title": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "authors": [
+          "Jan Abrell",
+          "Mirjam Kosch",
+          "Sebastian Rausch"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "169",
+        "issue": "",
+        "pages": "172–202",
+        "doi": "10.1016/j.jpubeco.2018.11.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32825,6 +34074,196 @@
         "pages": "105212",
         "doi": "10.1016/j.jpubeco.2024.105212",
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105212",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.13",
+    "title": "Fraunhofer ISE Energy-Charts 德国与欧洲电力数据",
+    "links": [
+      {
+        "label": "Energy-Charts",
+        "url": "https://www.energy-charts.info/"
+      }
+    ],
+    "summary": "德国弗劳恩霍夫太阳能系统研究所运营的电力数据平台，发布德国和欧洲各国按技术分的逐时发电量、负荷、电价、跨境电力流和装机容量。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "Energy-Charts 由德国弗劳恩霍夫太阳能系统研究所（Fraunhofer ISE）运营，整合德国四家输电系统运营商、欧洲能源交易所（EEX）、ENTSO-E、联邦统计局等来源，提供德国（2002 年起部分数据）和欧洲多国按技术（褐煤、硬煤、燃气、核电、风电、光伏、水电、生物质等）分的 15 分钟和逐小时公共净发电量、负荷、日前和日内电价、跨境电力交换、装机容量和排放估计，可交互图表浏览并通过 API 免费下载。\n\n数据常用于德国能源转型研究，例如利用风电和光伏的逐小时发电量估计可再生能源补贴的碳减排成本。平台数据来自多个来源并经过处理，原始数据口径需查看说明。",
+    "source": "Energy-Charts 网站和 API 免费获取。",
+    "references": [
+      {
+        "raw": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "title": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "authors": [
+          "Jan Abrell",
+          "Mirjam Kosch",
+          "Sebastian Rausch"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "169",
+        "issue": "",
+        "pages": "172–202",
+        "doi": "10.1016/j.jpubeco.2018.11.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.14",
+    "title": "EPEX SPOT 欧洲电力现货交易所市场数据",
+    "links": [
+      {
+        "label": "EPEX SPOT Market Results",
+        "url": "https://www.epexspot.com/en/market-results"
+      }
+    ],
+    "summary": "欧洲电力现货交易所发布的德国、法国、荷兰、英国等市场的日前和日内电力拍卖与连续交易价格和成交量。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "EPEX SPOT（European Power Exchange）总部位于巴黎，经营德国-卢森堡、法国、荷兰、比利时、奥地利、瑞士、英国和北欧等市场的日前拍卖、日内拍卖和日内连续交易，是欧洲主要的电力现货交易所。网站公布各市场逐小时（及 15 分钟）的出清价格和成交量，近期数据可免费浏览，完整历史数据和报价曲线需向 EPEX SPOT 购买数据服务。\n\n数据常用于欧洲电力市场研究，例如利用德国日前电价评估风电和光伏补贴对批发电价和减排的影响。2018 年 10 月德奥竞价区拆分，跨期使用时需注意区域口径变化。",
+    "source": "网站公开部分数据；完整历史数据需购买（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "title": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "authors": [
+          "Jan Abrell",
+          "Mirjam Kosch",
+          "Sebastian Rausch"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "169",
+        "issue": "",
+        "pages": "172–202",
+        "doi": "10.1016/j.jpubeco.2018.11.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.15",
+    "title": "德国输电网运营商 Netztransparenz 平台（EEG 账目与补贴数据）",
+    "links": [
+      {
+        "label": "Netztransparenz",
+        "url": "https://www.netztransparenz.de/"
+      }
+    ],
+    "summary": "德国四家输电系统运营商联合运营的信息平台，发布《可再生能源法》（EEG）附加费、补贴账户收支、上网电价和电厂主数据。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "Netztransparenz.de 由德国四家输电系统运营商（50Hertz、Amprion、TenneT、TransnetBW）联合运营，依法发布与《可再生能源法》（EEG）和《热电联产法》相关的数据，包括 EEG 附加费的计算与预测、EEG 账户逐月收支、按技术分的补贴支出、各类设施适用的上网电价和市场溢价、享受补贴的设施主数据及其年度上网电量，以及电网费用和平衡能源价格等。数据免费下载。\n\n数据常用于研究德国可再生能源补贴的成本和效果，例如利用 EEG 账户的补贴支出和光伏上网电价，计算风电和光伏补贴的减排成本或分析光伏补贴的配置效率。数据以德语发布，部分历史文件格式不统一。",
+    "source": "Netztransparenz 网站免费下载。",
+    "references": [
+      {
+        "raw": "(Mis)allocation of Renewable Energy Sources",
+        "title": "(Mis)allocation of Renewable Energy Sources",
+        "authors": [
+          "Stefan Lamp",
+          "Mario Samano"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "1",
+        "pages": "195–229",
+        "doi": "10.1086/720722",
+        "url": "https://doi.org/10.1086/720722",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "title": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "authors": [
+          "Jan Abrell",
+          "Mirjam Kosch",
+          "Sebastian Rausch"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "169",
+        "issue": "",
+        "pages": "172–202",
+        "doi": "10.1016/j.jpubeco.2018.11.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.16",
+    "title": "德国能源平衡工作组能源平衡表（AG Energiebilanzen）",
+    "links": [
+      {
+        "label": "AG Energiebilanzen",
+        "url": "https://ag-energiebilanzen.de/"
+      }
+    ],
+    "summary": "德国能源行业协会和研究机构组成的工作组编制的德国年度能源平衡表，记录 1990 年以来各能源品种的生产、转换、进出口和分部门终端消费。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "能源平衡工作组（Arbeitsgemeinschaft Energiebilanzen，AGEB）由德国能源行业协会和经济研究机构组成，编制德国官方的年度能源平衡表，记录 1990 年以来（另有 1950 年代起的西德数据）各种能源载体（煤炭、石油、天然气、电力、可再生能源等）的一次能源生产、进出口、库存变化、转换部门（发电、炼油）的投入产出、自用和损失以及工业、交通、居民和商业部门的终端能源消费，并发布按能源品种的发电量统计和评估报告。数据免费下载。\n\n数据常用于校准德国能源和电力系统模型，例如获取各类电厂的燃料转换效率，研究光伏和风电的部署配置。平衡表为年度数据，最新年份通常为初步估计。",
+    "source": "AGEB 网站免费下载。",
+    "references": [
+      {
+        "raw": "(Mis)allocation of Renewable Energy Sources",
+        "title": "(Mis)allocation of Renewable Energy Sources",
+        "authors": [
+          "Stefan Lamp",
+          "Mario Samano"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "1",
+        "pages": "195–229",
+        "doi": "10.1086/720722",
+        "url": "https://doi.org/10.1086/720722",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "title": "Carbon abatement with renewables: Evaluating wind and solar subsidies in Germany and Spain",
+        "authors": [
+          "Jan Abrell",
+          "Mirjam Kosch",
+          "Sebastian Rausch"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "169",
+        "issue": "",
+        "pages": "172–202",
+        "doi": "10.1016/j.jpubeco.2018.11.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2018.11.007",
         "verified": true,
         "note": ""
       }
@@ -33108,6 +34547,23 @@
         "pages": "105468",
         "doi": "10.1016/j.jpubeco.2025.105468",
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105468",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "title": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "authors": [
+          "Vincent F. Stegmaier",
+          "Melanie Krause"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "139",
+        "issue": "",
+        "pages": "103386",
+        "doi": "10.1016/j.jeem.2026.103386",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103386",
         "verified": true,
         "note": ""
       }
@@ -38588,6 +40044,45 @@
     ]
   },
   {
+    "id": "6.1.5",
+    "title": "澳大利亚人口与住房普查（ABS Census）",
+    "links": [
+      {
+        "label": "ABS Census",
+        "url": "https://www.abs.gov.au/census"
+      }
+    ],
+    "summary": "澳大利亚统计局每五年开展的人口与住房普查，按统计区（SA1—SA4）、邮编和地方政府区等发布人口、收入、住房和就业特征。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "澳大利亚人口与住房普查由澳大利亚统计局（ABS）每五年开展一次，最近几轮为 2011、2016 和 2021 年，统计全部常住人口和住宅，记录年龄、性别、出生地、语言、教育、职业和行业、个人和家庭收入、通勤方式、住房类型、产权和租赁状态、房租和房贷支出等。ABS 通过 QuickStats、社区概况（Community Profiles）、TableBuilder 和数据包发布按统计区层级（SA1—SA4）、邮编区域（POA）和地方政府区汇总的表格，免费获取；TableBuilder 高级版和微观样本需注册申请。\n\n数据常用作澳大利亚小区域的人口和社会经济控制变量，例如把 SA2 层面的收入和住房特征与配电网负荷匹配，研究电价方案的分配效应。普查边界随轮次调整，跨期比较需使用对照表。",
+    "source": "ABS 网站免费下载；TableBuilder 需注册。",
+    "references": [
+      {
+        "raw": "Is the clean energy transition making fixed-rate electricity tariffs regressive?",
+        "title": "Is the clean energy transition making fixed-rate electricity tariffs regressive?",
+        "authors": [
+          "Gordon W. Leslie",
+          "Armin Pourkhanali",
+          "Guillaume Roger"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "127",
+        "issue": "",
+        "pages": "103040",
+        "doi": "10.1016/j.jeem.2024.103040",
+        "url": "https://doi.org/10.1016/j.jeem.2024.103040",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.2.1",
     "title": "乌干达全国面板调查（UNPS）",
     "links": [
@@ -38966,6 +40461,24 @@
         "url": "https://doi.org/10.1257/aer.20201434",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Is the clean energy transition making fixed-rate electricity tariffs regressive?",
+        "title": "Is the clean energy transition making fixed-rate electricity tariffs regressive?",
+        "authors": [
+          "Gordon W. Leslie",
+          "Armin Pourkhanali",
+          "Guillaume Roger"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "127",
+        "issue": "",
+        "pages": "103040",
+        "doi": "10.1016/j.jeem.2024.103040",
+        "url": "https://doi.org/10.1016/j.jeem.2024.103040",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39278,6 +40791,23 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2018.09.010",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Start-up Costs and Market Power: Lessons from the Renewable Energy Transition",
+        "title": "Start-up Costs and Market Power: Lessons from the Renewable Energy Transition",
+        "authors": [
+          "Akshaya Jha",
+          "Gordon Leslie"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "2",
+        "pages": "690–724",
+        "doi": "10.1257/aer.20211145",
+        "url": "https://doi.org/10.1257/aer.20211145",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39432,6 +40962,101 @@
         "pages": "90–125",
         "doi": "10.1257/app.20210618",
         "url": "https://doi.org/10.1257/app.20210618",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.7.7",
+    "title": "澳大利亚光伏研究所太阳能地图（APVI Solar Maps）",
+    "links": [
+      {
+        "label": "APVI Solar Maps",
+        "url": "https://pv-map.apvi.org.au/"
+      }
+    ],
+    "summary": "澳大利亚光伏研究所发布的按邮编、州和地方政府区汇总的小型屋顶光伏装机数量、容量和渗透率地图及数据，以及估计的实时光伏出力。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "APVI Solar Maps 由澳大利亚光伏研究所（Australian PV Institute）维护，基于澳大利亚清洁能源监管局的小型可再生能源计划（SRES）登记数据，提供 2001 年以来按邮编、州和地方政府区汇总的小型光伏（100 kW 以下）安装数量、装机容量和住宅渗透率，以及中型光伏和储能装机；实时光伏地图根据样本系统的监测数据估计各州的光伏出力。网站可免费查询和下载汇总数据。\n\n数据常用于澳大利亚屋顶光伏研究，例如按邮编测算屋顶光伏渗透率，研究清洁能源转型是否使固定费率电价变得累退，或研究屋顶光伏对批发电力市场的影响。只包括登记领取补贴的系统，未登记系统不在其中。",
+    "source": "APVI 网站免费查询下载。",
+    "references": [
+      {
+        "raw": "Start-up Costs and Market Power: Lessons from the Renewable Energy Transition",
+        "title": "Start-up Costs and Market Power: Lessons from the Renewable Energy Transition",
+        "authors": [
+          "Akshaya Jha",
+          "Gordon Leslie"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "2",
+        "pages": "690–724",
+        "doi": "10.1257/aer.20211145",
+        "url": "https://doi.org/10.1257/aer.20211145",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is the clean energy transition making fixed-rate electricity tariffs regressive?",
+        "title": "Is the clean energy transition making fixed-rate electricity tariffs regressive?",
+        "authors": [
+          "Gordon W. Leslie",
+          "Armin Pourkhanali",
+          "Guillaume Roger"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "127",
+        "issue": "",
+        "pages": "103040",
+        "doi": "10.1016/j.jeem.2024.103040",
+        "url": "https://doi.org/10.1016/j.jeem.2024.103040",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.7.8",
+    "title": "AEMO 国家电力市场数据（NEM）",
+    "links": [
+      {
+        "label": "AEMO NEM Data",
+        "url": "https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem"
+      }
+    ],
+    "summary": "澳大利亚能源市场运营机构发布的东部国家电力市场 5 分钟和半小时区域现货电价、需求、机组出力、报价和互联线路潮流数据，1998 年起。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "国家电力市场（National Electricity Market，NEM）覆盖昆士兰、新南威尔士（含首都领地）、维多利亚、南澳和塔斯马尼亚五个区域，由澳大利亚能源市场运营机构（AEMO）运营。AEMO 公布 1998 年 12 月以来各区域的现货价格和需求（2021 年 10 月起结算周期由 30 分钟改为 5 分钟）、各调度机组的出力和报价（MMS 数据模型）、互联线路潮流、辅助服务价格以及屋顶光伏出力估计，通过 NEMweb 和数据仪表板免费下载。\n\n数据常用于研究澳大利亚电力市场和能源转型，例如用维多利亚的半小时批发电价和区域变电站负荷，研究固定费率零售电价在屋顶光伏普及后的分配效应。原始 MMS 数据量大、格式复杂，开源工具（如 NEMOSIS）可辅助处理。",
+    "source": "AEMO 网站免费下载（链接经搜索确认，网站对自动访问返回验证页）。",
+    "references": [
+      {
+        "raw": "Is the clean energy transition making fixed-rate electricity tariffs regressive?",
+        "title": "Is the clean energy transition making fixed-rate electricity tariffs regressive?",
+        "authors": [
+          "Gordon W. Leslie",
+          "Armin Pourkhanali",
+          "Guillaume Roger"
+        ],
+        "year": 2024,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "127",
+        "issue": "",
+        "pages": "103040",
+        "doi": "10.1016/j.jeem.2024.103040",
+        "url": "https://doi.org/10.1016/j.jeem.2024.103040",
         "verified": true,
         "note": ""
       }
@@ -45113,6 +46738,23 @@
         "url": "https://doi.org/10.1093/qje/qjag005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "title": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+        "authors": [
+          "Vincent F. Stegmaier",
+          "Melanie Krause"
+        ],
+        "year": 2026,
+        "journal": "Journal of Environmental Economics and Management",
+        "volume": "139",
+        "issue": "",
+        "pages": "103386",
+        "doi": "10.1016/j.jeem.2026.103386",
+        "url": "https://doi.org/10.1016/j.jeem.2026.103386",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48268,6 +49910,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.nber.org/papers/w32063",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "title": "Electric Vehicle Subsidies and Urban Air Pollution Disparities",
+        "authors": [
+          "Irene Jacqz",
+          "Sarah Johnston"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "S1",
+        "pages": "S41–S69",
+        "doi": "10.1086/732516",
+        "url": "https://doi.org/10.1086/732516",
         "verified": true,
         "note": ""
       }
@@ -52025,6 +53684,23 @@
         "pages": "323–358",
         "doi": "10.1257/pol.20210221",
         "url": "https://doi.org/10.1257/pol.20210221",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "(Mis)allocation of Renewable Energy Sources",
+        "title": "(Mis)allocation of Renewable Energy Sources",
+        "authors": [
+          "Stefan Lamp",
+          "Mario Samano"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "10",
+        "issue": "1",
+        "pages": "195–229",
+        "doi": "10.1086/720722",
+        "url": "https://doi.org/10.1086/720722",
         "verified": true,
         "note": ""
       }
