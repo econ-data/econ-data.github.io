@@ -5980,6 +5980,56 @@
         "url": "https://doi.org/10.1016/j.jhealeco.2009.02.001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Place Effects and Geographic Inequality in Health at Birth",
+        "title": "Place Effects and Geographic Inequality in Health at Birth",
+        "authors": [
+          "Eric Chyn",
+          "Na'ama Shenhav"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "4",
+        "pages": "260–291",
+        "doi": "10.1257/pol.20230011",
+        "url": "https://doi.org/10.1257/pol.20230011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Biology as Destiny? Short- and Long-Run Determinants of Intergenerational Transmission of Birth Weight",
+        "title": "Biology as Destiny? Short- and Long-Run Determinants of Intergenerational Transmission of Birth Weight",
+        "authors": [
+          "Janet Currie",
+          "Enrico Moretti"
+        ],
+        "year": 2007,
+        "journal": "Journal of Labor Economics",
+        "volume": "25",
+        "issue": "2",
+        "pages": "231–264",
+        "doi": "10.1086/511377",
+        "url": "https://doi.org/10.1086/511377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "title": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "73–117",
+        "doi": "10.1162/qjec.121.1.73",
+        "url": "https://doi.org/10.1162/qjec.121.1.73",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6158,6 +6208,22 @@
         "pages": "1–43",
         "doi": "10.1257/mac.20190285",
         "url": "https://doi.org/10.1257/mac.20190285",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "title": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "73–117",
+        "doi": "10.1162/qjec.121.1.73",
+        "url": "https://doi.org/10.1162/qjec.121.1.73",
         "verified": true,
         "note": ""
       }
@@ -7815,6 +7881,42 @@
         "url": "https://doi.org/10.1086/660775",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Important Is Health Inequality for Lifetime Earnings Inequality?",
+        "title": "How Important Is Health Inequality for Lifetime Earnings Inequality?",
+        "authors": [
+          "Roozbeh Hosseini",
+          "Karen A. Kopecky",
+          "Kai Zhao"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "556–599",
+        "doi": "10.1093/restud/rdaf030",
+        "url": "https://doi.org/10.1093/restud/rdaf030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Lifetime Costs of Bad Health",
+        "title": "The Lifetime Costs of Bad Health",
+        "authors": [
+          "Mariacristina De Nardi",
+          "Svetlana Pashchenko",
+          "Ponpoje Porapakkarm"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1987–2026",
+        "doi": "10.1093/restud/rdae080",
+        "url": "https://doi.org/10.1093/restud/rdae080",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7947,6 +8049,42 @@
         "url": "https://doi.org/10.1093/qje/qjaf023",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Important Is Health Inequality for Lifetime Earnings Inequality?",
+        "title": "How Important Is Health Inequality for Lifetime Earnings Inequality?",
+        "authors": [
+          "Roozbeh Hosseini",
+          "Karen A. Kopecky",
+          "Kai Zhao"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "556–599",
+        "doi": "10.1093/restud/rdaf030",
+        "url": "https://doi.org/10.1093/restud/rdaf030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Lifetime Costs of Bad Health",
+        "title": "The Lifetime Costs of Bad Health",
+        "authors": [
+          "Mariacristina De Nardi",
+          "Svetlana Pashchenko",
+          "Ponpoje Porapakkarm"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1987–2026",
+        "doi": "10.1093/restud/rdae080",
+        "url": "https://doi.org/10.1093/restud/rdae080",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -8037,7 +8175,44 @@
     ],
     "introduction": "医疗支出面板调查（Medical Expenditure Panel Survey，MEPS）由美国卫生保健研究与质量局（Agency for Healthcare Research and Quality，AHRQ）组织，自 1996 年起开展，以美国非机构化平民人口为调查对象。其中的家庭部分（Household Component）以家庭为单位，对个人逐轮访问医疗服务使用、医疗支出及支付来源、医疗保险、健康状况、就业与收入等信息；保险部分（Insurance Component）则面向雇主，收集雇主提供健康保险的情况。\n\nMEPS 采用重叠面板设计：每个面板的样本在约两年内经历多轮访谈，各面板的数据再合并为年度文件，样本抽自此前全国健康访问调查（NHIS）的受访家庭，因此部分年份可与 NHIS 相链接。公开使用文件分为全年综合文件、就诊事件文件、处方药文件和纵向文件等类型，研究常用于估计医疗支出分布、保险覆盖与医疗可及性，以及健康冲击对支出的影响。\n\n使用时需注意：公开文件的地理信息有限，需使用调查权重和复杂抽样设计信息；支出数据存在自报误差，不同年份的问卷与变量名有调整。不同组成部分和文件之间的链接规则，应以 AHRQ 的文档为依据。",
     "source": "通过 AHRQ 的 MEPS 官方网站下载公开使用文件和文档。未列入公开版的地理、雇主或关联信息不能视为开放数据，需向相应数据管理方确认申请与访问条件。",
-    "references": []
+    "references": [
+      {
+        "raw": "How Important Is Health Inequality for Lifetime Earnings Inequality?",
+        "title": "How Important Is Health Inequality for Lifetime Earnings Inequality?",
+        "authors": [
+          "Roozbeh Hosseini",
+          "Karen A. Kopecky",
+          "Kai Zhao"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "556–599",
+        "doi": "10.1093/restud/rdaf030",
+        "url": "https://doi.org/10.1093/restud/rdaf030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Lifetime Costs of Bad Health",
+        "title": "The Lifetime Costs of Bad Health",
+        "authors": [
+          "Mariacristina De Nardi",
+          "Svetlana Pashchenko",
+          "Ponpoje Porapakkarm"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1987–2026",
+        "doi": "10.1093/restud/rdae080",
+        "url": "https://doi.org/10.1093/restud/rdae080",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "2.2.10",
@@ -8828,6 +9003,43 @@
         "pages": "1–22",
         "doi": "10.1257/aer.101.3.1",
         "url": "https://doi.org/10.1257/aer.101.3.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Important Is Health Inequality for Lifetime Earnings Inequality?",
+        "title": "How Important Is Health Inequality for Lifetime Earnings Inequality?",
+        "authors": [
+          "Roozbeh Hosseini",
+          "Karen A. Kopecky",
+          "Kai Zhao"
+        ],
+        "year": 2026,
+        "journal": "Review of Economic Studies",
+        "volume": "93",
+        "issue": "1",
+        "pages": "556–599",
+        "doi": "10.1093/restud/rdaf030",
+        "url": "https://doi.org/10.1093/restud/rdaf030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fat city: Questioning the relationship between urban sprawl and obesity",
+        "title": "Fat city: Questioning the relationship between urban sprawl and obesity",
+        "authors": [
+          "Jean Eid",
+          "Henry G. Overman",
+          "Diego Puga",
+          "Matthew A. Turner"
+        ],
+        "year": 2008,
+        "journal": "Journal of Urban Economics",
+        "volume": "63",
+        "issue": "2",
+        "pages": "385–404",
+        "doi": "10.1016/j.jue.2007.12.002",
+        "url": "https://doi.org/10.1016/j.jue.2007.12.002",
         "verified": true,
         "note": ""
       }
@@ -10501,6 +10713,25 @@
         "url": "https://doi.org/10.1086/728887",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fat city: Questioning the relationship between urban sprawl and obesity",
+        "title": "Fat city: Questioning the relationship between urban sprawl and obesity",
+        "authors": [
+          "Jean Eid",
+          "Henry G. Overman",
+          "Diego Puga",
+          "Matthew A. Turner"
+        ],
+        "year": 2008,
+        "journal": "Journal of Urban Economics",
+        "volume": "63",
+        "issue": "2",
+        "pages": "385–404",
+        "doi": "10.1016/j.jue.2007.12.002",
+        "url": "https://doi.org/10.1016/j.jue.2007.12.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11670,6 +11901,22 @@
         "pages": "292–324",
         "doi": "10.1257/pol.20170570",
         "url": "https://doi.org/10.1257/pol.20170570",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "title": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "73–117",
+        "doi": "10.1162/qjec.121.1.73",
+        "url": "https://doi.org/10.1162/qjec.121.1.73",
         "verified": true,
         "note": ""
       }
@@ -13159,6 +13406,41 @@
         "url": "https://doi.org/10.1086/723494",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Lifetime Costs of Bad Health",
+        "title": "The Lifetime Costs of Bad Health",
+        "authors": [
+          "Mariacristina De Nardi",
+          "Svetlana Pashchenko",
+          "Ponpoje Porapakkarm"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "3",
+        "pages": "1987–2026",
+        "doi": "10.1093/restud/rdae080",
+        "url": "https://doi.org/10.1093/restud/rdae080",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Aging and Death: Understanding the Preston Curve",
+        "title": "Optimal Aging and Death: Understanding the Preston Curve",
+        "authors": [
+          "Carl-Johan Dalgaard",
+          "Holger Strulik"
+        ],
+        "year": 2014,
+        "journal": "Journal of the European Economic Association",
+        "volume": "12",
+        "issue": "3",
+        "pages": "672–701",
+        "doi": "10.1111/jeea.12071",
+        "url": "https://doi.org/10.1111/jeea.12071",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13370,6 +13652,45 @@
         "pages": "2633–2679",
         "doi": "10.1257/aer.104.9.2633",
         "url": "https://doi.org/10.1257/aer.104.9.2633",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.27",
+    "title": "加州司法部 OpenJustice 犯罪与刑事司法数据",
+    "links": [
+      {
+        "label": "California DOJ OpenJustice",
+        "url": "https://openjustice.doj.ca.gov/"
+      }
+    ],
+    "summary": "加州司法部刑事司法统计中心通过 OpenJustice 平台发布的全州犯罪、逮捕、警务和监禁统计，按县、执法机构和年份汇总。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "政治数据"
+    ],
+    "introduction": "加州司法部（California Department of Justice）下属的刑事司法统计中心（CJSC）长期收集全州执法机构报告的犯罪案件、逮捕（按罪名、年龄、性别、种族）、执法人员遭袭和使用武力、死亡羁押、仇恨犯罪等统计，2015 年起通过 OpenJustice 平台集中公开，可按县、执法机构和年份下载，历史数据可回溯到 1980 年代。数据免费下载。\n\n数据常用于研究加州的犯罪和执法，例如在研究出生地环境对新生儿健康的影响时，用邮编或县层面的逮捕率作为地区特征。数据依赖各执法机构上报，口径和完整性随机构和年份变化。",
+    "source": "OpenJustice 网站免费下载。",
+    "references": [
+      {
+        "raw": "Place Effects and Geographic Inequality in Health at Birth",
+        "title": "Place Effects and Geographic Inequality in Health at Birth",
+        "authors": [
+          "Eric Chyn",
+          "Na'ama Shenhav"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "4",
+        "pages": "260–291",
+        "doi": "10.1257/pol.20230011",
+        "url": "https://doi.org/10.1257/pol.20230011",
         "verified": true,
         "note": ""
       }
@@ -13912,6 +14233,25 @@
         "pages": "263–312",
         "doi": "10.1086/695474",
         "url": "https://doi.org/10.1086/695474",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fat city: Questioning the relationship between urban sprawl and obesity",
+        "title": "Fat city: Questioning the relationship between urban sprawl and obesity",
+        "authors": [
+          "Jean Eid",
+          "Henry G. Overman",
+          "Diego Puga",
+          "Matthew A. Turner"
+        ],
+        "year": 2008,
+        "journal": "Journal of Urban Economics",
+        "volume": "63",
+        "issue": "2",
+        "pages": "385–404",
+        "doi": "10.1016/j.jue.2007.12.002",
+        "url": "https://doi.org/10.1016/j.jue.2007.12.002",
         "verified": true,
         "note": ""
       }
@@ -20817,6 +21157,23 @@
         "pages": "104786",
         "doi": "10.1016/j.jpubeco.2022.104786",
         "url": "https://doi.org/10.1016/j.jpubeco.2022.104786",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Place Effects and Geographic Inequality in Health at Birth",
+        "title": "Place Effects and Geographic Inequality in Health at Birth",
+        "authors": [
+          "Eric Chyn",
+          "Na'ama Shenhav"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "4",
+        "pages": "260–291",
+        "doi": "10.1257/pol.20230011",
+        "url": "https://doi.org/10.1257/pol.20230011",
         "verified": true,
         "note": ""
       }
@@ -28490,6 +28847,39 @@
         "url": "https://doi.org/10.1016/S0047-2727(98)00090-5",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Place Effects and Geographic Inequality in Health at Birth",
+        "title": "Place Effects and Geographic Inequality in Health at Birth",
+        "authors": [
+          "Eric Chyn",
+          "Na'ama Shenhav"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "4",
+        "pages": "260–291",
+        "doi": "10.1257/pol.20230011",
+        "url": "https://doi.org/10.1257/pol.20230011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The influence of state policy and proximity to medical services on health outcomes",
+        "title": "The influence of state policy and proximity to medical services on health outcomes",
+        "authors": [
+          "Jing Li"
+        ],
+        "year": 2014,
+        "journal": "Journal of Urban Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "97–109",
+        "doi": "10.1016/j.jue.2013.11.002",
+        "url": "https://doi.org/10.1016/j.jue.2013.11.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28603,6 +28993,56 @@
         "pages": "1–14",
         "doi": "10.1162/rest_a_00936",
         "url": "https://doi.org/10.1162/rest_a_00936",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sources of Geographic Variation in Health Care: Evidence From Patient Migration",
+        "title": "Sources of Geographic Variation in Health Care: Evidence From Patient Migration",
+        "authors": [
+          "Amy Finkelstein",
+          "Matthew Gentzkow",
+          "Heidi Williams"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "4",
+        "pages": "1681–1726",
+        "doi": "10.1093/qje/qjw023",
+        "url": "https://doi.org/10.1093/qje/qjw023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Physician Practice Styles: Evidence from Cardiologist Migration",
+        "title": "The Evolution of Physician Practice Styles: Evidence from Cardiologist Migration",
+        "authors": [
+          "David Molitor"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "1",
+        "pages": "326–356",
+        "doi": "10.1257/pol.20160319",
+        "url": "https://doi.org/10.1257/pol.20160319",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration",
+        "title": "Geographic Variation in Mental Health Treatment Utilization: Evidence from Migration",
+        "authors": [
+          "Hui Ding"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "1",
+        "pages": "35–68",
+        "doi": "10.1257/pol.20230402",
+        "url": "https://doi.org/10.1257/pol.20230402",
         "verified": true,
         "note": ""
       }
@@ -28780,6 +29220,39 @@
         "url": "https://doi.org/10.1086/740157",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Place Effects and Geographic Inequality in Health at Birth",
+        "title": "Place Effects and Geographic Inequality in Health at Birth",
+        "authors": [
+          "Eric Chyn",
+          "Na'ama Shenhav"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "4",
+        "pages": "260–291",
+        "doi": "10.1257/pol.20230011",
+        "url": "https://doi.org/10.1257/pol.20230011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The influence of state policy and proximity to medical services on health outcomes",
+        "title": "The influence of state policy and proximity to medical services on health outcomes",
+        "authors": [
+          "Jing Li"
+        ],
+        "year": 2014,
+        "journal": "Journal of Urban Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "97–109",
+        "doi": "10.1016/j.jue.2013.11.002",
+        "url": "https://doi.org/10.1016/j.jue.2013.11.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28919,6 +29392,40 @@
         "pages": "1–22",
         "doi": "10.1257/aer.101.3.1",
         "url": "https://doi.org/10.1257/aer.101.3.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Place Effects and Geographic Inequality in Health at Birth",
+        "title": "Place Effects and Geographic Inequality in Health at Birth",
+        "authors": [
+          "Eric Chyn",
+          "Na'ama Shenhav"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "17",
+        "issue": "4",
+        "pages": "260–291",
+        "doi": "10.1257/pol.20230011",
+        "url": "https://doi.org/10.1257/pol.20230011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Biology as Destiny? Short- and Long-Run Determinants of Intergenerational Transmission of Birth Weight",
+        "title": "Biology as Destiny? Short- and Long-Run Determinants of Intergenerational Transmission of Birth Weight",
+        "authors": [
+          "Janet Currie",
+          "Enrico Moretti"
+        ],
+        "year": 2007,
+        "journal": "Journal of Labor Economics",
+        "volume": "25",
+        "issue": "2",
+        "pages": "231–264",
+        "doi": "10.1086/511377",
+        "url": "https://doi.org/10.1086/511377",
         "verified": true,
         "note": ""
       }
@@ -29188,6 +29695,23 @@
         "url": "https://doi.org/10.1086/684750",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Optimal Aging and Death: Understanding the Preston Curve",
+        "title": "Optimal Aging and Death: Understanding the Preston Curve",
+        "authors": [
+          "Carl-Johan Dalgaard",
+          "Holger Strulik"
+        ],
+        "year": 2014,
+        "journal": "Journal of the European Economic Association",
+        "volume": "12",
+        "issue": "3",
+        "pages": "672–701",
+        "doi": "10.1111/jeea.12071",
+        "url": "https://doi.org/10.1111/jeea.12071",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29230,6 +29754,22 @@
         "url": "https://doi.org/10.1093/qje/qjr041",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Do Mental Health Treatment Delays Impact Long-Term Mortality?",
+        "title": "How Do Mental Health Treatment Delays Impact Long-Term Mortality?",
+        "authors": [
+          "Sydney Costantini"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "5",
+        "pages": "1672–1707",
+        "doi": "10.1257/aer.20240226",
+        "url": "https://doi.org/10.1257/aer.20240226",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29267,6 +29807,177 @@
         "pages": "135–154",
         "doi": "10.1016/S0047-2727(98)00090-5",
         "url": "https://doi.org/10.1016/S0047-2727(98)00090-5",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.17",
+    "title": "达特茅斯医疗地图集（Dartmouth Atlas of Health Care）",
+    "links": [
+      {
+        "label": "Dartmouth Atlas",
+        "url": "https://www.dartmouthatlas.org/"
+      }
+    ],
+    "summary": "达特茅斯学院基于 Medicare 理赔数据编制的美国医疗服务地区差异数据，定义了医院服务区（HSA）和医院转诊区（HRR），并发布各区的医疗支出和使用率。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "地理数据"
+    ],
+    "introduction": "达特茅斯医疗地图集（Dartmouth Atlas of Health Care）由达特茅斯卫生政策与临床实践研究所自 1990 年代起编制，以 Medicare 住院流向定义了 3,436 个医院服务区（HSA）和 306 个医院转诊区（HRR），提供邮编到 HSA/HRR 的对照表，并基于 Medicare 理赔计算各区的人均医疗支出、住院和手术率、临终医疗强度、医生数量等指标。对照表和地区指标在网站免费下载。\n\n数据常用于研究医疗服务的地区差异，例如用患者迁移识别地区因素和个人因素对医疗支出差异的贡献，或研究心脏科医生迁移后诊疗风格的变化。指标主要基于老年 Medicare 人群，对年轻人群的代表性有限。",
+    "source": "网站免费下载。",
+    "references": [
+      {
+        "raw": "Sources of Geographic Variation in Health Care: Evidence From Patient Migration",
+        "title": "Sources of Geographic Variation in Health Care: Evidence From Patient Migration",
+        "authors": [
+          "Amy Finkelstein",
+          "Matthew Gentzkow",
+          "Heidi Williams"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "4",
+        "pages": "1681–1726",
+        "doi": "10.1093/qje/qjw023",
+        "url": "https://doi.org/10.1093/qje/qjw023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Physician Practice Styles: Evidence from Cardiologist Migration",
+        "title": "The Evolution of Physician Practice Styles: Evidence from Cardiologist Migration",
+        "authors": [
+          "David Molitor"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "1",
+        "pages": "326–356",
+        "doi": "10.1257/pol.20160319",
+        "url": "https://doi.org/10.1257/pol.20160319",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.18",
+    "title": "美国医学会医师主文件（AMA Physician Masterfile）",
+    "links": [
+      {
+        "label": "AMA Physician Masterfile",
+        "url": "https://www.ama-assn.org/practice-management/masterfile/ama-physician-masterfile"
+      }
+    ],
+    "summary": "美国医学会维护的全美医生（含医学生和住院医师）档案，记录医学院、毕业年份、专科、执业地点和执业类型，通过授权数据商付费获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "AMA Physician Masterfile 由美国医学会自 1906 年起建立，收录在美国接受医学教育或执业的所有医生（无论是否为 AMA 会员），记录出生年份、性别、医学院及毕业年份、住院医师培训、专科和认证、执业地址、执业类型（如诊所、医院、教学）和执业状态，持续更新。数据通过 AMA 授权的数据许可商付费获取，研究者常与 Medicare 等理赔数据按医生识别号匹配。\n\n数据常用于研究医生劳动力市场和诊疗行为，例如追踪心脏科医生的地区迁移，研究医生的诊疗风格是否随所在地区改变。执业地址等信息更新存在滞后，退休和离职医生可能未及时标记。",
+    "source": "付费授权（AMA 数据许可商）。",
+    "references": [
+      {
+        "raw": "The Evolution of Physician Practice Styles: Evidence from Cardiologist Migration",
+        "title": "The Evolution of Physician Practice Styles: Evidence from Cardiologist Migration",
+        "authors": [
+          "David Molitor"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "1",
+        "pages": "326–356",
+        "doi": "10.1257/pol.20160319",
+        "url": "https://doi.org/10.1257/pol.20160319",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.19",
+    "title": "退伍军人事务部医疗数据（VA Corporate Data Warehouse）",
+    "links": [
+      {
+        "label": "VA Information Resource Center (VIReC)",
+        "url": "https://www.virec.research.va.gov/"
+      }
+    ],
+    "summary": "美国退伍军人事务部医疗系统的电子病历数据仓库，记录约 900 万登记退伍军人的门诊、住院、预约、处方、诊断和死亡信息，只供获得 VA 授权的研究者使用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "退伍军人事务部（VA）的企业数据仓库（Corporate Data Warehouse，CDW）汇集全国 VA 医疗中心和诊所电子病历系统（VistA 等）的数据，包括门诊和住院就诊、预约请求和等待时间、诊断和手术编码、处方配药、化验结果、人口特征，以及 VA 整合自福利署、CMS 和社保署的死亡状态数据，2000 年前后起可用。研究者需为 VA 职员或与 VA 研究者合作，经机构审查委员会批准，在 VA 信息与计算基础设施（VINCI）环境中使用；VA 信息资源中心（VIReC）提供文档和支持。\n\n数据常用于研究医疗服务的可及性和效果，例如利用精神卫生预约的等待时间差异，研究治疗延迟对退伍军人长期死亡率的影响。数据只覆盖在 VA 系统就医的退伍军人，在外部医院的就诊需结合 Medicare 等数据。",
+    "source": "受限：VA 授权研究者在 VINCI 环境中使用。",
+    "references": [
+      {
+        "raw": "How Do Mental Health Treatment Delays Impact Long-Term Mortality?",
+        "title": "How Do Mental Health Treatment Delays Impact Long-Term Mortality?",
+        "authors": [
+          "Sydney Costantini"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "5",
+        "pages": "1672–1707",
+        "doi": "10.1257/aer.20240226",
+        "url": "https://doi.org/10.1257/aer.20240226",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.20",
+    "title": "美国全国健康与营养调查（NHANES）",
+    "links": [
+      {
+        "label": "CDC NHANES",
+        "url": "https://www.cdc.gov/nchs/nhanes/"
+      }
+    ],
+    "summary": "美国国家卫生统计中心开展的全国代表性健康调查，结合入户访谈、体格检查和实验室检测，记录身高体重、血压、血液指标、膳食和健康状况。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "全国健康与营养调查（National Health and Nutrition Examination Survey，NHANES）由美国国家卫生统计中心（NCHS）组织，早期为周期性调查（NHANES I 1971—1975、II 1976—1980、III 1988—1994），1999 年起改为连续调查，每两年发布一期，每年约 5,000 人。调查包括入户问卷（人口、收入、健康史、膳食回顾）和移动检查中心的体格检查与实验室检测（身高体重、血压、血铅、胆固醇、血糖等），可直接测量肥胖和营养状况。公开数据在 CDC 网站免费下载，含详细地理信息的版本需通过 NCHS 研究数据中心使用。\n\n数据常用于研究肥胖、营养和健康不平等，例如用 NHANES III 的实测身高体重检验自报体重数据的偏差，研究城市蔓延与肥胖的关系。公开版没有州县标识，样本量不足以做地方层面估计。",
+    "source": "CDC 网站免费下载；详细地理需 RDC（链接经搜索确认，网站对自动访问返回 403）。",
+    "references": [
+      {
+        "raw": "Fat city: Questioning the relationship between urban sprawl and obesity",
+        "title": "Fat city: Questioning the relationship between urban sprawl and obesity",
+        "authors": [
+          "Jean Eid",
+          "Henry G. Overman",
+          "Diego Puga",
+          "Matthew A. Turner"
+        ],
+        "year": 2008,
+        "journal": "Journal of Urban Economics",
+        "volume": "63",
+        "issue": "2",
+        "pages": "385–404",
+        "doi": "10.1016/j.jue.2007.12.002",
+        "url": "https://doi.org/10.1016/j.jue.2007.12.002",
         "verified": true,
         "note": ""
       }
@@ -34838,6 +35549,22 @@
         "url": "https://doi.org/10.1257/pol.20170506",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "title": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "73–117",
+        "doi": "10.1162/qjec.121.1.73",
+        "url": "https://doi.org/10.1162/qjec.121.1.73",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34870,6 +35597,22 @@
         "pages": "979–1014",
         "doi": "10.2307/2937954",
         "url": "https://doi.org/10.2307/2937954",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "title": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "73–117",
+        "doi": "10.1162/qjec.121.1.73",
+        "url": "https://doi.org/10.1162/qjec.121.1.73",
         "verified": true,
         "note": ""
       }
@@ -36877,6 +37620,105 @@
         "pages": "371–400",
         "doi": "10.3368/jhr.54.2.0316.7819r1",
         "url": "https://doi.org/10.3368/jhr.54.2.0316.7819r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Smoking bans, maternal smoking and birth outcomes",
+        "title": "Smoking bans, maternal smoking and birth outcomes",
+        "authors": [
+          "Prashant Bharadwaj",
+          "Julian V. Johnsen",
+          "Katrine V. Løken"
+        ],
+        "year": 2014,
+        "journal": "Journal of Public Economics",
+        "volume": "115",
+        "issue": "",
+        "pages": "72–93",
+        "doi": "10.1016/j.jpubeco.2014.04.008",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.04.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From the Cradle to the Labor Market? The Effect of Birth Weight on Adult Outcomes",
+        "title": "From the Cradle to the Labor Market? The Effect of Birth Weight on Adult Outcomes",
+        "authors": [
+          "Sandra E. Black",
+          "Paul J. Devereux",
+          "Kjell G. Salvanes"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "409–439",
+        "doi": "10.1162/qjec.122.1.409",
+        "url": "https://doi.org/10.1162/qjec.122.1.409",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early Life Health Interventions and Academic Achievement",
+        "title": "Early Life Health Interventions and Academic Achievement",
+        "authors": [
+          "Prashant Bharadwaj",
+          "Katrine Vellesen Løken",
+          "Christopher Neilson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1862–1891",
+        "doi": "10.1257/aer.103.5.1862",
+        "url": "https://doi.org/10.1257/aer.103.5.1862",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.1.4",
+    "title": "丹麦登记微观数据（丹麦统计局与卫生数据局：人口、收入、教育与患者登记）",
+    "links": [
+      {
+        "label": "Statistics Denmark Research Services",
+        "url": "https://www.dst.dk/en/TilSalg/Forskningsservice"
+      },
+      {
+        "label": "Danish Health Data Authority",
+        "url": "https://sundhedsdatastyrelsen.dk/da/english"
+      }
+    ],
+    "summary": "丹麦统计局和丹麦卫生数据局管理的全国人口行政登记，可用个人识别号把人口和家庭、收入、劳动力、教育成绩与国家患者登记、精神科登记、医保报销等健康登记逐人匹配。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "普查数据",
+      "健康数据"
+    ],
+    "introduction": "丹麦以 1968 年建立的中央人口登记（CPR）个人识别号为基础，由丹麦统计局（Statistics Denmark）管理人口和出生、家庭关系、收入、基于登记的劳动力统计（RAS）、教育和学业成绩等登记，由丹麦卫生数据局（Sundhedsdatastyrelsen）管理国家患者登记（1977 年起的住院和 1995 年起的门诊、急诊诊断）、精神科中央研究登记、国家医保报销登记、处方登记和出生登记等健康登记。研究者需通过获授权的丹麦研究机构向统计局研究服务部申请项目，健康登记还需卫生数据局批准，在远程安全服务器上分析。\n\n数据常用于研究健康、家庭和劳动力市场的长期关系，例如利用兄弟姐妹出生间隔造成的家庭内呼吸道感染暴露差异，研究婴儿期感染对长期健康、教育和收入的影响。数据只对丹麦授权机构开放，外国研究者需与当地机构合作。",
+    "source": "受限：经授权丹麦机构向统计局研究服务和卫生数据局申请。",
+    "references": [
+      {
+        "raw": "Germs in the Family: The Short- and Long-Term Consequences of Intrahousehold Disease Spread",
+        "title": "Germs in the Family: The Short- and Long-Term Consequences of Intrahousehold Disease Spread",
+        "authors": [
+          "N. Meltem Daysal",
+          "Hui Ding",
+          "Maya Rossin-Slater",
+          "Hannes Schwandt"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2643–2684",
+        "doi": "10.1257/aer.20231521",
+        "url": "https://doi.org/10.1257/aer.20231521",
         "verified": true,
         "note": ""
       }
@@ -40503,6 +41345,81 @@
         "pages": "105491",
         "doi": "10.1016/j.jpubeco.2025.105491",
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105491",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.8.4",
+    "title": "挪威医学出生登记（Medical Birth Registry of Norway，MBRN）",
+    "links": [
+      {
+        "label": "FHI Medical Birth Registry of Norway",
+        "url": "https://www.fhi.no/en/ch/medical-birth-registry-of-norway/"
+      }
+    ],
+    "summary": "挪威公共卫生研究所自 1967 年起维护的全国出生登记，记录全部出生的出生体重、孕周、分娩并发症、母亲健康和吸烟状况，可与统计局登记数据匹配。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "挪威医学出生登记（MBRN）由挪威公共卫生研究所（FHI）管理，自 1967 年起强制登记全国所有活产、死产和孕 12 周以上的流产，记录新生儿出生体重、身长、孕周、Apgar 评分、先天畸形，分娩方式和并发症，以及母亲的年龄、既往妊娠、慢性病和 1999 年起的孕期吸烟情况，并通过个人识别号与父母关联。研究者需向 FHI 申请并经区域伦理委员会批准，常经挪威统计局与人口、教育和收入登记匹配使用；汇总统计在 FHI 统计库公开。\n\n数据常用于出生健康研究，例如利用双胞胎出生体重差异研究出生体重对成年教育和收入的影响，利用公共场所禁烟令研究孕妇吸烟和出生结果，或用极低出生体重的诊断门槛研究早期医疗干预的长期效果。",
+    "source": "受限：向 FHI 申请并经伦理批准；汇总统计公开。",
+    "references": [
+      {
+        "raw": "Smoking bans, maternal smoking and birth outcomes",
+        "title": "Smoking bans, maternal smoking and birth outcomes",
+        "authors": [
+          "Prashant Bharadwaj",
+          "Julian V. Johnsen",
+          "Katrine V. Løken"
+        ],
+        "year": 2014,
+        "journal": "Journal of Public Economics",
+        "volume": "115",
+        "issue": "",
+        "pages": "72–93",
+        "doi": "10.1016/j.jpubeco.2014.04.008",
+        "url": "https://doi.org/10.1016/j.jpubeco.2014.04.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From the Cradle to the Labor Market? The Effect of Birth Weight on Adult Outcomes",
+        "title": "From the Cradle to the Labor Market? The Effect of Birth Weight on Adult Outcomes",
+        "authors": [
+          "Sandra E. Black",
+          "Paul J. Devereux",
+          "Kjell G. Salvanes"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "409–439",
+        "doi": "10.1162/qjec.122.1.409",
+        "url": "https://doi.org/10.1162/qjec.122.1.409",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early Life Health Interventions and Academic Achievement",
+        "title": "Early Life Health Interventions and Academic Achievement",
+        "authors": [
+          "Prashant Bharadwaj",
+          "Katrine Vellesen Løken",
+          "Christopher Neilson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1862–1891",
+        "doi": "10.1257/aer.103.5.1862",
+        "url": "https://doi.org/10.1257/aer.103.5.1862",
         "verified": true,
         "note": ""
       }
@@ -45645,6 +46562,42 @@
         "url": "https://doi.org/10.1093/qje/qjac020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Health at Birth, Parental Investments, and Academic Outcomes",
+        "title": "Health at Birth, Parental Investments, and Academic Outcomes",
+        "authors": [
+          "Prashant Bharadwaj",
+          "Juan Pedro Eberhard",
+          "Christopher A. Neilson"
+        ],
+        "year": 2018,
+        "journal": "Journal of Labor Economics",
+        "volume": "36",
+        "issue": "2",
+        "pages": "349–394",
+        "doi": "10.1086/695616",
+        "url": "https://doi.org/10.1086/695616",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early Life Health Interventions and Academic Achievement",
+        "title": "Early Life Health Interventions and Academic Achievement",
+        "authors": [
+          "Prashant Bharadwaj",
+          "Katrine Vellesen Løken",
+          "Christopher Neilson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1862–1891",
+        "doi": "10.1257/aer.103.5.1862",
+        "url": "https://doi.org/10.1257/aer.103.5.1862",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -46387,6 +47340,67 @@
         "pages": "103204",
         "doi": "10.1016/j.jdeveco.2023.103204",
         "url": "https://doi.org/10.1016/j.jdeveco.2023.103204",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.16.2",
+    "title": "智利教育部学生行政数据与统考（RECH、SIMCE、PSU）",
+    "links": [
+      {
+        "label": "Agencia de Calidad de la Educación",
+        "url": "https://www.agenciaeducacion.cl/"
+      },
+      {
+        "label": "DEMRE",
+        "url": "https://demre.cl/"
+      }
+    ],
+    "summary": "智利教育部的全国学生登记（各年级成绩、出勤和升级）、教育质量机构的全国统考 SIMCE 及家长和学生问卷，以及大学入学考试 PSU 成绩，可用匿名学生号匹配。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "智利教育部（MINEDUC）通过学生登记（Registro de Estudiantes de Chile，RECH）记录全国中小学每名学生每年就读的学校、各科成绩、出勤率和升级情况；教育质量机构（Agencia de Calidad de la Educación）组织全国统考 SIMCE，在四年级、八年级、十年级等年级测试语言和数学，并对家长和学生发放问卷（家庭收入、父母教育、教育投入）；大学入学考试 PSU（现为 PAES）由智利大学 DEMRE 组织。按学校汇总的结果和部分匿名数据在教育部开放数据和教育质量机构网站公开，个人层面匹配数据需向教育部和相关机构申请。\n\n数据常用于研究智利教育和早期发展，例如把出生登记与学生成绩匹配，研究出生健康、新生儿医疗干预和父母投入对学业表现的影响。",
+    "source": "学校层面数据公开；个人层面匹配数据需向 MINEDUC 申请。",
+    "references": [
+      {
+        "raw": "Health at Birth, Parental Investments, and Academic Outcomes",
+        "title": "Health at Birth, Parental Investments, and Academic Outcomes",
+        "authors": [
+          "Prashant Bharadwaj",
+          "Juan Pedro Eberhard",
+          "Christopher A. Neilson"
+        ],
+        "year": 2018,
+        "journal": "Journal of Labor Economics",
+        "volume": "36",
+        "issue": "2",
+        "pages": "349–394",
+        "doi": "10.1086/695616",
+        "url": "https://doi.org/10.1086/695616",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early Life Health Interventions and Academic Achievement",
+        "title": "Early Life Health Interventions and Academic Achievement",
+        "authors": [
+          "Prashant Bharadwaj",
+          "Katrine Vellesen Løken",
+          "Christopher Neilson"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "5",
+        "pages": "1862–1891",
+        "doi": "10.1257/aer.103.5.1862",
+        "url": "https://doi.org/10.1257/aer.103.5.1862",
         "verified": true,
         "note": ""
       }
@@ -48098,6 +49112,22 @@
         "url": "https://doi.org/10.1086/507154",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "title": "Disease and Development: Evidence from Hookworm Eradication in the American South",
+        "authors": [
+          "Hoyt Bleakley"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "73–117",
+        "doi": "10.1162/qjec.121.1.73",
+        "url": "https://doi.org/10.1162/qjec.121.1.73",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48410,6 +49440,23 @@
         "pages": "103710",
         "doi": "10.1016/j.jdeveco.2025.103710",
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103710",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Endowments at Birth and Parents' Investments in Children",
+        "title": "Endowments at Birth and Parents' Investments in Children",
+        "authors": [
+          "Achyuta Adhvaryu",
+          "Anant Nyshadham"
+        ],
+        "year": 2016,
+        "journal": "The Economic Journal",
+        "volume": "126",
+        "issue": "593",
+        "pages": "781–820",
+        "doi": "10.1111/ecoj.12186",
+        "url": "https://doi.org/10.1111/ecoj.12186",
         "verified": true,
         "note": ""
       }
@@ -50296,6 +51343,23 @@
         "url": "https://doi.org/10.1257/mac.20210248",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Optimal Aging and Death: Understanding the Preston Curve",
+        "title": "Optimal Aging and Death: Understanding the Preston Curve",
+        "authors": [
+          "Carl-Johan Dalgaard",
+          "Holger Strulik"
+        ],
+        "year": 2014,
+        "journal": "Journal of the European Economic Association",
+        "volume": "12",
+        "issue": "3",
+        "pages": "672–701",
+        "doi": "10.1111/jeea.12071",
+        "url": "https://doi.org/10.1111/jeea.12071",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -51711,6 +52775,45 @@
         "pages": "105722",
         "doi": "10.1016/j.jpubeco.2026.105722",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105722",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.32",
+    "title": "联合国人口统计年鉴（Demographic Yearbook）",
+    "links": [
+      {
+        "label": "UN Demographic Yearbook",
+        "url": "https://unstats.un.org/unsd/demographic-social/products/dyb/"
+      }
+    ],
+    "summary": "联合国统计司自 1948 年起每年出版的各国人口、出生、死亡、婚姻和预期寿命等官方人口统计汇编，覆盖约 230 个国家和地区。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "健康数据"
+    ],
+    "introduction": "《人口统计年鉴》（Demographic Yearbook）由联合国统计司（UNSD）自 1948 年起出版，汇编各国统计机构通过年度问卷报送的人口规模和年龄结构、出生、死亡和婴儿死亡、死因、婚姻和离婚、生命表与分年龄预期寿命等数据，以及人口普查结果。历年年鉴和数据库（UNdata）在 UNSD 网站免费获取。\n\n数据常用于跨国比较人口和健康指标，例如用各国 20 岁男性预期寿命和人均收入的关系检验健康投资模型对普雷斯顿曲线的解释。数据直接来自各国报送，统计质量和完整性差异较大，部分国家缺报。",
+    "source": "UNSD 网站免费获取。",
+    "references": [
+      {
+        "raw": "Optimal Aging and Death: Understanding the Preston Curve",
+        "title": "Optimal Aging and Death: Understanding the Preston Curve",
+        "authors": [
+          "Carl-Johan Dalgaard",
+          "Holger Strulik"
+        ],
+        "year": 2014,
+        "journal": "Journal of the European Economic Association",
+        "volume": "12",
+        "issue": "3",
+        "pages": "672–701",
+        "doi": "10.1111/jeea.12071",
+        "url": "https://doi.org/10.1111/jeea.12071",
         "verified": true,
         "note": ""
       }
@@ -59304,6 +60407,44 @@
         "pages": "490–520",
         "doi": "10.1257/pol.20180764",
         "url": "https://doi.org/10.1257/pol.20180764",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.2",
+    "title": "世界卫生组织全球卫生支出数据库（Global Health Expenditure Database，GHED）",
+    "links": [
+      {
+        "label": "WHO GHED",
+        "url": "https://apps.who.int/nha/database"
+      }
+    ],
+    "summary": "世界卫生组织按卫生账户体系汇编的约 190 个国家 2000 年以来卫生总支出、政府和私人支出、自付比例和外部援助数据。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "全球卫生支出数据库（GHED）由世界卫生组织（WHO）维护，依据卫生账户体系（SHA 2011）汇编约 190 个国家和地区自 2000 年以来的年度卫生支出，包括卫生总支出占 GDP 比重、人均卫生支出、政府、社会保险、私人保险和个人自付支出的构成，以及按疾病和服务类型的支出分解。数据在 WHO 网站免费下载。\n\n数据常用于跨国比较卫生投入，例如以卫生支出占 GDP 比重校准健康投资和寿命模型。各国数据部分为 WHO 估算，不同年份口径有修订。",
+    "source": "WHO 网站免费下载。",
+    "references": [
+      {
+        "raw": "Optimal Aging and Death: Understanding the Preston Curve",
+        "title": "Optimal Aging and Death: Understanding the Preston Curve",
+        "authors": [
+          "Carl-Johan Dalgaard",
+          "Holger Strulik"
+        ],
+        "year": 2014,
+        "journal": "Journal of the European Economic Association",
+        "volume": "12",
+        "issue": "3",
+        "pages": "672–701",
+        "doi": "10.1111/jeea.12071",
+        "url": "https://doi.org/10.1111/jeea.12071",
         "verified": true,
         "note": ""
       }
