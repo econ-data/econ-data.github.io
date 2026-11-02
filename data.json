@@ -519,6 +519,97 @@
         "url": "https://doi.org/10.1086/701030",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Communist propaganda and women's status",
+        "title": "Communist propaganda and women's status",
+        "authors": [
+          "Ruoyu Qian"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "171",
+        "issue": "",
+        "pages": "103341",
+        "doi": "10.1016/j.jdeveco.2024.103341",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103341",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The quiet revolution: Send-down movement and female empowerment in China",
+        "title": "The quiet revolution: Send-down movement and female empowerment in China",
+        "authors": [
+          "Chong Liu",
+          "Wenyi Lu",
+          "Ye Yuan"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "172",
+        "issue": "",
+        "pages": "103379",
+        "doi": "10.1016/j.jdeveco.2024.103379",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103379",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sex Ratios and Crime: Evidence from China",
+        "title": "Sex Ratios and Crime: Evidence from China",
+        "authors": [
+          "Lena Edlund",
+          "Hongbin Li",
+          "Junjian Yi",
+          "Junsen Zhang"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1520–1534",
+        "doi": "10.1162/rest_a_00356",
+        "url": "https://doi.org/10.1162/rest_a_00356",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "High Sex Ratios and Household Portfolio Choice in China",
+        "title": "High Sex Ratios and Household Portfolio Choice in China",
+        "authors": [
+          "Wenchao Li",
+          "Changcheng Song",
+          "Shu Xu",
+          "Junjian Yi"
+        ],
+        "year": 2022,
+        "journal": "Journal of Human Resources",
+        "volume": "57",
+        "issue": "2",
+        "pages": "465–490",
+        "doi": "10.3368/jhr.57.2.1217-9245r2",
+        "url": "https://doi.org/10.3368/jhr.57.2.1217-9245r2",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rationed Fertility: Treatment Effect Heterogeneity in the Child Quantity-Quality Trade-Off",
+        "title": "Rationed Fertility: Treatment Effect Heterogeneity in the Child Quantity-Quality Trade-Off",
+        "authors": [
+          "Rufei Guo",
+          "Junjian Yi",
+          "Junsen Zhang",
+          "Ning Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "10",
+        "pages": "3349–3386",
+        "doi": "10.1086/736768",
+        "url": "https://doi.org/10.1086/736768",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -860,6 +951,80 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102670",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The quiet revolution: Send-down movement and female empowerment in China",
+        "title": "The quiet revolution: Send-down movement and female empowerment in China",
+        "authors": [
+          "Chong Liu",
+          "Wenyi Lu",
+          "Ye Yuan"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "172",
+        "issue": "",
+        "pages": "103379",
+        "doi": "10.1016/j.jdeveco.2024.103379",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103379",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "High Sex Ratios and Household Portfolio Choice in China",
+        "title": "High Sex Ratios and Household Portfolio Choice in China",
+        "authors": [
+          "Wenchao Li",
+          "Changcheng Song",
+          "Shu Xu",
+          "Junjian Yi"
+        ],
+        "year": 2022,
+        "journal": "Journal of Human Resources",
+        "volume": "57",
+        "issue": "2",
+        "pages": "465–490",
+        "doi": "10.3368/jhr.57.2.1217-9245r2",
+        "url": "https://doi.org/10.3368/jhr.57.2.1217-9245r2",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Property Division upon Divorce and Household Decisions",
+        "title": "Property Division upon Divorce and Household Decisions",
+        "authors": [
+          "Yuting Huang",
+          "Juan Pantano",
+          "Han Ye",
+          "Junjian Yi"
+        ],
+        "year": 2023,
+        "journal": "Journal of Human Resources",
+        "volume": "58",
+        "issue": "2",
+        "pages": "532–560",
+        "doi": "10.3368/jhr.58.4.0519-10243r3",
+        "url": "https://doi.org/10.3368/jhr.58.4.0519-10243r3",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quarter of Birth, Gender Inequality, and Economic Development",
+        "title": "Quarter of Birth, Gender Inequality, and Economic Development",
+        "authors": [
+          "Xuezheng Qin",
+          "Junjian Yi",
+          "Haochen Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/737993",
+        "url": "https://doi.org/10.1086/737993",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -933,6 +1098,25 @@
         "pages": "103692",
         "doi": "10.1016/j.jdeveco.2025.103692",
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103692",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "High Sex Ratios and Household Portfolio Choice in China",
+        "title": "High Sex Ratios and Household Portfolio Choice in China",
+        "authors": [
+          "Wenchao Li",
+          "Changcheng Song",
+          "Shu Xu",
+          "Junjian Yi"
+        ],
+        "year": 2022,
+        "journal": "Journal of Human Resources",
+        "volume": "57",
+        "issue": "2",
+        "pages": "465–490",
+        "doi": "10.3368/jhr.57.2.1217-9245r2",
+        "url": "https://doi.org/10.3368/jhr.57.2.1217-9245r2",
         "verified": true,
         "note": ""
       }
@@ -1140,6 +1324,22 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102670",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Communist propaganda and women's status",
+        "title": "Communist propaganda and women's status",
+        "authors": [
+          "Ruoyu Qian"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "171",
+        "issue": "",
+        "pages": "103341",
+        "doi": "10.1016/j.jdeveco.2024.103341",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103341",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1225,6 +1425,25 @@
         "pages": "1885–1914",
         "doi": "10.1257/aer.20191234",
         "url": "https://doi.org/10.1257/aer.20191234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sex Ratios and Crime: Evidence from China",
+        "title": "Sex Ratios and Crime: Evidence from China",
+        "authors": [
+          "Lena Edlund",
+          "Hongbin Li",
+          "Junjian Yi",
+          "Junsen Zhang"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1520–1534",
+        "doi": "10.1162/rest_a_00356",
+        "url": "https://doi.org/10.1162/rest_a_00356",
         "verified": true,
         "note": ""
       }
@@ -1405,6 +1624,25 @@
         "url": "https://doi.org/10.3368/jhr.45.1.87",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Sex Ratios and Crime: Evidence from China",
+        "title": "Sex Ratios and Crime: Evidence from China",
+        "authors": [
+          "Lena Edlund",
+          "Hongbin Li",
+          "Junjian Yi",
+          "Junsen Zhang"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1520–1534",
+        "doi": "10.1162/rest_a_00356",
+        "url": "https://doi.org/10.1162/rest_a_00356",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1543,6 +1781,41 @@
         "url": "https://doi.org/10.1257/aer.20110236",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The quiet revolution: Send-down movement and female empowerment in China",
+        "title": "The quiet revolution: Send-down movement and female empowerment in China",
+        "authors": [
+          "Chong Liu",
+          "Wenyi Lu",
+          "Ye Yuan"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "172",
+        "issue": "",
+        "pages": "103379",
+        "doi": "10.1016/j.jdeveco.2024.103379",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103379",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Competitive Saving Motive: Evidence from Rising Sex Ratios and Savings Rates in China",
+        "title": "The Competitive Saving Motive: Evidence from Rising Sex Ratios and Savings Rates in China",
+        "authors": [
+          "Shang-Jin Wei",
+          "Xiaobo Zhang"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "3",
+        "pages": "511–564",
+        "doi": "10.1086/660887",
+        "url": "https://doi.org/10.1086/660887",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1644,6 +1917,45 @@
         "pages": "2389–2428",
         "doi": "10.1093/restud/rdx067",
         "url": "https://doi.org/10.1093/restud/rdx067",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.2.12",
+    "title": "中国社会状况综合调查（Chinese Social Survey，CSS）",
+    "links": [
+      {
+        "label": "中国社会状况综合调查（CSS）",
+        "url": "http://css.cssn.cn/"
+      }
+    ],
+    "summary": "中国社会科学院社会学研究所 2005 年起每两年开展的全国概率抽样入户调查，覆盖约 150 个区县、1 万户左右，记录就业、收入、社会保障、社会价值观、社会信任与公平感和社会参与，数据经中国社会科学院调查数据平台申请获取。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "CSS 采用多阶段分层概率抽样，以 18–69 岁（后扩展至 70 岁以上）城乡居民为对象，每轮约 1 万份有效问卷。问卷由固定模块和轮换专题组成：固定模块记录家庭结构、教育、职业和就业状况、个人和家庭收入与消费、住房、社会保障参与；专题模块覆盖社会价值观、社会公平感与社会冲突、政府工作评价、社会信任、互联网使用、社会参与等。课题组每年出版《中国社会形势分析与预测》（社会蓝皮书），数据经中国社会科学院社会学所和中国社会科学调查数据库申请开放。\n\n数据常用于研究中国居民的社会态度和价值观变迁、收入分配与公平感、社会保障覆盖、阶层认同，以及历史事件（如上山下乡、文化大革命）对个人态度的长期影响。部分轮次数据开放较慢，跨轮问题措辞有调整。",
+    "source": "经中国社会科学院调查数据平台申请。",
+    "references": [
+      {
+        "raw": "The quiet revolution: Send-down movement and female empowerment in China",
+        "title": "The quiet revolution: Send-down movement and female empowerment in China",
+        "authors": [
+          "Chong Liu",
+          "Wenyi Lu",
+          "Ye Yuan"
+        ],
+        "year": 2025,
+        "journal": "Journal of Development Economics",
+        "volume": "172",
+        "issue": "",
+        "pages": "103379",
+        "doi": "10.1016/j.jdeveco.2024.103379",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103379",
         "verified": true,
         "note": ""
       }
@@ -3831,6 +4143,39 @@
         "url": "https://doi.org/10.1016/j.jeem.2021.102440",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Communist propaganda and women's status",
+        "title": "Communist propaganda and women's status",
+        "authors": [
+          "Ruoyu Qian"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "171",
+        "issue": "",
+        "pages": "103341",
+        "doi": "10.1016/j.jdeveco.2024.103341",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103341",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Competitive Saving Motive: Evidence from Rising Sex Ratios and Savings Rates in China",
+        "title": "The Competitive Saving Motive: Evidence from Rising Sex Ratios and Savings Rates in China",
+        "authors": [
+          "Shang-Jin Wei",
+          "Xiaobo Zhang"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "3",
+        "pages": "511–564",
+        "doi": "10.1086/660887",
+        "url": "https://doi.org/10.1086/660887",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4125,6 +4470,42 @@
         "url": "https://doi.org/10.1257/aer.20150811",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Competitive Saving Motive: Evidence from Rising Sex Ratios and Savings Rates in China",
+        "title": "The Competitive Saving Motive: Evidence from Rising Sex Ratios and Savings Rates in China",
+        "authors": [
+          "Shang-Jin Wei",
+          "Xiaobo Zhang"
+        ],
+        "year": 2011,
+        "journal": "Journal of Political Economy",
+        "volume": "119",
+        "issue": "3",
+        "pages": "511–564",
+        "doi": "10.1086/660887",
+        "url": "https://doi.org/10.1086/660887",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sex Ratios and Crime: Evidence from China",
+        "title": "Sex Ratios and Crime: Evidence from China",
+        "authors": [
+          "Lena Edlund",
+          "Hongbin Li",
+          "Junjian Yi",
+          "Junsen Zhang"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1520–1534",
+        "doi": "10.1162/rest_a_00356",
+        "url": "https://doi.org/10.1162/rest_a_00356",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4312,6 +4693,22 @@
         "pages": "102670",
         "doi": "10.1016/j.jdeveco.2021.102670",
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102670",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Communist propaganda and women's status",
+        "title": "Communist propaganda and women's status",
+        "authors": [
+          "Ruoyu Qian"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "171",
+        "issue": "",
+        "pages": "103341",
+        "doi": "10.1016/j.jdeveco.2024.103341",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103341",
         "verified": true,
         "note": ""
       }
@@ -6114,6 +6511,22 @@
         "pages": "1338–1381",
         "doi": "10.1257/aer.20200956",
         "url": "https://doi.org/10.1257/aer.20200956",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Communist propaganda and women's status",
+        "title": "Communist propaganda and women's status",
+        "authors": [
+          "Ruoyu Qian"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "171",
+        "issue": "",
+        "pages": "103341",
+        "doi": "10.1016/j.jdeveco.2024.103341",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103341",
         "verified": true,
         "note": ""
       }
@@ -9056,6 +9469,108 @@
         "pages": "1091–1130",
         "doi": "10.1086/422560",
         "url": "https://doi.org/10.1086/422560",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Women in Science. Lessons From the Baby Boom",
+        "title": "Women in Science. Lessons From the Baby Boom",
+        "authors": [
+          "Scott Kim",
+          "Petra Moser"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1521–1560",
+        "doi": "10.3982/ECTA22741",
+        "url": "https://doi.org/10.3982/ECTA22741",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Interactions with Powerful Female Colleagues Promote Diversity in Hiring",
+        "title": "Interactions with Powerful Female Colleagues Promote Diversity in Hiring",
+        "authors": [
+          "Marco Battaglini",
+          "Jorgen M. Harris",
+          "Eleonora Patacchini"
+        ],
+        "year": 2023,
+        "journal": "Journal of Labor Economics",
+        "volume": "41",
+        "issue": "3",
+        "pages": "589–614",
+        "doi": "10.1086/720392",
+        "url": "https://doi.org/10.1086/720392",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Marries Whom and Why",
+        "title": "Who Marries Whom and Why",
+        "authors": [
+          "Eugene Choo",
+          "Aloysius Siow"
+        ],
+        "year": 2006,
+        "journal": "Journal of Political Economy",
+        "volume": "114",
+        "issue": "1",
+        "pages": "175–201",
+        "doi": "10.1086/498585",
+        "url": "https://doi.org/10.1086/498585",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Lowering Standards to Wed? Spouse Quality, Marriage, and Labor Market Responses to the Gender Wage Gap",
+        "title": "Lowering Standards to Wed? Spouse Quality, Marriage, and Labor Market Responses to the Gender Wage Gap",
+        "authors": [
+          "Na'ama Shenhav"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "2",
+        "pages": "265–279",
+        "doi": "10.1162/rest_a_00919",
+        "url": "https://doi.org/10.1162/rest_a_00919",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Gender Wage Gap and Domestic Violence",
+        "title": "The Gender Wage Gap and Domestic Violence",
+        "authors": [
+          "Anna Aizer"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "4",
+        "pages": "1847–1859",
+        "doi": "10.1257/aer.100.4.1847",
+        "url": "https://doi.org/10.1257/aer.100.4.1847",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Identity and Relative Income within Households",
+        "title": "Gender Identity and Relative Income within Households",
+        "authors": [
+          "Marianne Bertrand",
+          "Emir Kamenica",
+          "Jessica Pan"
+        ],
+        "year": 2015,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "130",
+        "issue": "2",
+        "pages": "571–614",
+        "doi": "10.1093/qje/qjv001",
+        "url": "https://doi.org/10.1093/qje/qjv001",
         "verified": true,
         "note": ""
       }
@@ -12625,6 +13140,22 @@
         "url": "https://doi.org/10.1086/697084",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Lowering Standards to Wed? Spouse Quality, Marriage, and Labor Market Responses to the Gender Wage Gap",
+        "title": "Lowering Standards to Wed? Spouse Quality, Marriage, and Labor Market Responses to the Gender Wage Gap",
+        "authors": [
+          "Na'ama Shenhav"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "2",
+        "pages": "265–279",
+        "doi": "10.1162/rest_a_00919",
+        "url": "https://doi.org/10.1162/rest_a_00919",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14369,6 +14900,40 @@
         "url": "https://doi.org/10.1016/j.jue.2026.103856",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "title": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "authors": [
+          "Ghazala Azmat",
+          "Maia Güell",
+          "Alan Manning"
+        ],
+        "year": 2006,
+        "journal": "Journal of Labor Economics",
+        "volume": "24",
+        "issue": "1",
+        "pages": "1–37",
+        "doi": "10.1086/497817",
+        "url": "https://doi.org/10.1086/497817",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Lowering Standards to Wed? Spouse Quality, Marriage, and Labor Market Responses to the Gender Wage Gap",
+        "title": "Lowering Standards to Wed? Spouse Quality, Marriage, and Labor Market Responses to the Gender Wage Gap",
+        "authors": [
+          "Na'ama Shenhav"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "2",
+        "pages": "265–279",
+        "doi": "10.1162/rest_a_00919",
+        "url": "https://doi.org/10.1162/rest_a_00919",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14875,6 +15440,22 @@
         "pages": "1–32",
         "doi": "10.1111/j.1468-0262.2004.00476.x",
         "url": "https://doi.org/10.1111/j.1468-0262.2004.00476.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cohabitation vs. Marriage: Mating Strategies by Education in The USA",
+        "title": "Cohabitation vs. Marriage: Mating Strategies by Education in The USA",
+        "authors": [
+          "Fabio Blasutto"
+        ],
+        "year": 2024,
+        "journal": "Journal of the European Economic Association",
+        "volume": "22",
+        "issue": "4",
+        "pages": "1723–1761",
+        "doi": "10.1093/jeea/jvad065",
+        "url": "https://doi.org/10.1093/jeea/jvad065",
         "verified": true,
         "note": ""
       }
@@ -16498,6 +17079,41 @@
         "url": "https://doi.org/10.1086/698752",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gender Identity and Relative Income within Households",
+        "title": "Gender Identity and Relative Income within Households",
+        "authors": [
+          "Marianne Bertrand",
+          "Emir Kamenica",
+          "Jessica Pan"
+        ],
+        "year": 2015,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "130",
+        "issue": "2",
+        "pages": "571–614",
+        "doi": "10.1093/qje/qjv001",
+        "url": "https://doi.org/10.1093/qje/qjv001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Trouble with Boys: Social Influences and the Gender Gap in Disruptive Behavior",
+        "title": "The Trouble with Boys: Social Influences and the Gender Gap in Disruptive Behavior",
+        "authors": [
+          "Marianne Bertrand",
+          "Jessica Pan"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "32–64",
+        "doi": "10.1257/app.5.1.32",
+        "url": "https://doi.org/10.1257/app.5.1.32",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17604,6 +18220,56 @@
         "url": "https://doi.org/10.1257/aer.20162002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Non-College Occupations, Workplace Routinization, and Female College Enrollment",
+        "title": "Non-College Occupations, Workplace Routinization, and Female College Enrollment",
+        "authors": [
+          "Amanda Chuan",
+          "Weilong Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "",
+        "issue": "",
+        "pages": "0523–12892R2",
+        "doi": "10.3368/jhr.0124-13360r1",
+        "url": "https://doi.org/10.3368/jhr.0124-13360r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cohabitation vs. Marriage: Mating Strategies by Education in The USA",
+        "title": "Cohabitation vs. Marriage: Mating Strategies by Education in The USA",
+        "authors": [
+          "Fabio Blasutto"
+        ],
+        "year": 2024,
+        "journal": "Journal of the European Economic Association",
+        "volume": "22",
+        "issue": "4",
+        "pages": "1723–1761",
+        "doi": "10.1093/jeea/jvad065",
+        "url": "https://doi.org/10.1093/jeea/jvad065",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Trouble with Boys: Social Influences and the Gender Gap in Disruptive Behavior",
+        "title": "The Trouble with Boys: Social Influences and the Gender Gap in Disruptive Behavior",
+        "authors": [
+          "Marianne Bertrand",
+          "Jessica Pan"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "32–64",
+        "doi": "10.1257/app.5.1.32",
+        "url": "https://doi.org/10.1257/app.5.1.32",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18697,6 +19363,23 @@
         "url": "https://doi.org/10.1093/ej/ueae002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Non-College Occupations, Workplace Routinization, and Female College Enrollment",
+        "title": "Non-College Occupations, Workplace Routinization, and Female College Enrollment",
+        "authors": [
+          "Amanda Chuan",
+          "Weilong Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "",
+        "issue": "",
+        "pages": "0523–12892R2",
+        "doi": "10.3368/jhr.0124-13360r1",
+        "url": "https://doi.org/10.3368/jhr.0124-13360r1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18913,6 +19596,24 @@
         "pages": "2873–2898",
         "doi": "10.1257/aer.101.7.2873",
         "url": "https://doi.org/10.1257/aer.101.7.2873",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Identity and Relative Income within Households",
+        "title": "Gender Identity and Relative Income within Households",
+        "authors": [
+          "Marianne Bertrand",
+          "Emir Kamenica",
+          "Jessica Pan"
+        ],
+        "year": 2015,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "130",
+        "issue": "2",
+        "pages": "571–614",
+        "doi": "10.1093/qje/qjv001",
+        "url": "https://doi.org/10.1093/qje/qjv001",
         "verified": true,
         "note": ""
       }
@@ -19469,6 +20170,83 @@
         "pages": "605–654",
         "doi": "10.2307/2971733",
         "url": "https://doi.org/10.2307/2971733",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.37",
+    "title": "社会保障署全国婴儿姓名频率数据（SSA Baby Names）",
+    "links": [
+      {
+        "label": "SSA: Beyond the Top 1000 Names (national and state data)",
+        "url": "https://www.ssa.gov/oact/babynames/limits.html"
+      }
+    ],
+    "summary": "美国社会保障署基于社会保障卡申请整理的 1880 年以来每年出生婴儿的名字频率数据，按全国和各州、性别列出出现 5 次以上的名字及人数，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "社会保障署（SSA）根据社会保障号码申请记录统计每年在美国出生婴儿的名字，发布全国文件（1880 年起）和州级文件（1910 年起），每条记录为\"名字—性别—年份—人数\"，只列出人数不少于 5 的名字。由于早期年份许多人成年后才申领社会保障卡，1937 年以前的数据覆盖不完全。数据以压缩文本文件在 SSA 网站免费下载，官网对自动访问返回 403。\n\n数据常用于根据名字推断性别（如对学术作者、发明人、法官进行性别识别），研究名字的文化与种族特征（如\"黑人名字指数\"）、移民同化和名字选择，以及构造名字流行度变量。名字与性别和种族的对应是概率性的，罕见名字没有记录。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Women in Science. Lessons From the Baby Boom",
+        "title": "Women in Science. Lessons From the Baby Boom",
+        "authors": [
+          "Scott Kim",
+          "Petra Moser"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1521–1560",
+        "doi": "10.3982/ECTA22741",
+        "url": "https://doi.org/10.3982/ECTA22741",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.38",
+    "title": "美国全国家庭与住户调查（National Survey of Families and Households，NSFH）",
+    "links": [
+      {
+        "label": "UW-Madison: National Survey of Families and Households",
+        "url": "https://www.ssc.wisc.edu/nsfh/"
+      }
+    ],
+    "summary": "威斯康星大学麦迪逊分校人口与生态中心主持的美国全国代表性家庭调查，1987–88 年访谈约 1.3 万人，1992–94 年和 2001–03 年追踪，记录婚姻和同居史、生育、家庭关系、家务分工和代际转移，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "NSFH 第一轮（1987–88）以 19 岁以上成人为主要受访者，样本约 1.3 万人，并对少数族裔、单亲家庭、继亲家庭和同居伴侣进行过度抽样；主要受访者的配偶或同居伴侣填写自填问卷。第二轮（1992–94）追踪原受访者及其配偶、子女和父母，第三轮（2001–03）再次追踪。问卷内容包括婚姻、离婚和同居的完整历史，生育和育儿安排，家务劳动时间分配，家庭成员间的经济与时间转移，夫妻关系质量，就业和收入。数据在威斯康星大学网站和 ICPSR 免费下载。\n\n数据常用于研究家庭内部分工与性别规范（如妻子收入超过丈夫对家务和婚姻的影响）、离婚与再婚、继亲家庭中的子女结果，以及代际支持。最新一轮已是 2000 年代初，家庭结构的近期变化需借助其他调查。",
+    "source": "公开下载（威斯康星大学、ICPSR）。",
+    "references": [
+      {
+        "raw": "Gender Identity and Relative Income within Households",
+        "title": "Gender Identity and Relative Income within Households",
+        "authors": [
+          "Marianne Bertrand",
+          "Emir Kamenica",
+          "Jessica Pan"
+        ],
+        "year": 2015,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "130",
+        "issue": "2",
+        "pages": "571–614",
+        "doi": "10.1093/qje/qjv001",
+        "url": "https://doi.org/10.1093/qje/qjv001",
         "verified": true,
         "note": ""
       }
@@ -24768,6 +25546,22 @@
         "pages": "903–983",
         "doi": "10.1086/697084",
         "url": "https://doi.org/10.1086/697084",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Gender Wage Gap and Domestic Violence",
+        "title": "The Gender Wage Gap and Domestic Violence",
+        "authors": [
+          "Anna Aizer"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "4",
+        "pages": "1847–1859",
+        "doi": "10.1257/aer.100.4.1847",
+        "url": "https://doi.org/10.1257/aer.100.4.1847",
         "verified": true,
         "note": ""
       }
@@ -30237,6 +31031,23 @@
         "pages": "103856",
         "doi": "10.1016/j.jue.2026.103856",
         "url": "https://doi.org/10.1016/j.jue.2026.103856",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Non-College Occupations, Workplace Routinization, and Female College Enrollment",
+        "title": "Non-College Occupations, Workplace Routinization, and Female College Enrollment",
+        "authors": [
+          "Amanda Chuan",
+          "Weilong Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "",
+        "issue": "",
+        "pages": "0523–12892R2",
+        "doi": "10.3368/jhr.0124-13360r1",
+        "url": "https://doi.org/10.3368/jhr.0124-13360r1",
         "verified": true,
         "note": ""
       }
@@ -49258,6 +50069,23 @@
         "url": "https://doi.org/10.1111/j.1467-937x.2005.00337.x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Marries Whom and Why",
+        "title": "Who Marries Whom and Why",
+        "authors": [
+          "Eugene Choo",
+          "Aloysius Siow"
+        ],
+        "year": 2006,
+        "journal": "Journal of Political Economy",
+        "volume": "114",
+        "issue": "1",
+        "pages": "175–201",
+        "doi": "10.1086/498585",
+        "url": "https://doi.org/10.1086/498585",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -49741,6 +50569,22 @@
         "pages": "42–81",
         "doi": "10.1257/pol.20210034",
         "url": "https://doi.org/10.1257/pol.20210034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Gender Wage Gap and Domestic Violence",
+        "title": "The Gender Wage Gap and Domestic Violence",
+        "authors": [
+          "Anna Aizer"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "4",
+        "pages": "1847–1859",
+        "doi": "10.1257/aer.100.4.1847",
+        "url": "https://doi.org/10.1257/aer.100.4.1847",
         "verified": true,
         "note": ""
       }
@@ -55340,6 +56184,24 @@
         "url": "https://doi.org/10.1093/qje/qjad014",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Interactions with Powerful Female Colleagues Promote Diversity in Hiring",
+        "title": "Interactions with Powerful Female Colleagues Promote Diversity in Hiring",
+        "authors": [
+          "Marco Battaglini",
+          "Jorgen M. Harris",
+          "Eleonora Patacchini"
+        ],
+        "year": 2023,
+        "journal": "Journal of Labor Economics",
+        "volume": "41",
+        "issue": "3",
+        "pages": "589–614",
+        "doi": "10.1086/720392",
+        "url": "https://doi.org/10.1086/720392",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -56034,6 +56896,45 @@
         "pages": "1577–1647",
         "doi": "10.1093/qje/qjad014",
         "url": "https://doi.org/10.1093/qje/qjad014",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.27",
+    "title": "联邦司法中心联邦法官传记名录（Federal Judicial Center Biographical Directory）",
+    "links": [
+      {
+        "label": "FJC: Biographical Directory of Article III Federal Judges",
+        "url": "https://www.fjc.gov/history/judges"
+      }
+    ],
+    "summary": "联邦司法中心（FJC）维护的 1789 年以来全部依宪法第三条任命的美国联邦法官传记数据库，记录出生年份、种族、性别、教育、职业经历、提名总统、参议院确认日期、任职法院和离任情况，免费下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "联邦司法中心是美国联邦法院系统的研究和教育机构，其联邦法官传记名录收录自 1789 年以来的约 4000 名第三条法官（最高法院、上诉法院、地区法院和国际贸易法院），每位法官记录出生和去世信息、种族和性别、本科和法学院教育、此前的职业（检察官、私人执业、州法官、政府职务）、提名总统及其党派、美国律师协会评级、参议院表决结果、任职法院和日期、转任高级法官或离任原因。数据可在网页检索并以 CSV 格式整体下载，FJC 另公开综合数据库（Integrated Database）中的联邦案件记录。\n\n数据常用于研究法官的意识形态和党派对判决的影响、法官的性别与种族多样性、司法任命政治、法官助理和职业网络，以及法院随机分案设计中的法官特征。名录不含判决文本，需与案件数据链接。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Interactions with Powerful Female Colleagues Promote Diversity in Hiring",
+        "title": "Interactions with Powerful Female Colleagues Promote Diversity in Hiring",
+        "authors": [
+          "Marco Battaglini",
+          "Jorgen M. Harris",
+          "Eleonora Patacchini"
+        ],
+        "year": 2023,
+        "journal": "Journal of Labor Economics",
+        "volume": "41",
+        "issue": "3",
+        "pages": "589–614",
+        "doi": "10.1086/720392",
+        "url": "https://doi.org/10.1086/720392",
         "verified": true,
         "note": ""
       }
@@ -70193,6 +71094,23 @@
         "url": "https://doi.org/10.1086/699018",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Trouble with Boys: Social Influences and the Gender Gap in Disruptive Behavior",
+        "title": "The Trouble with Boys: Social Influences and the Gender Gap in Disruptive Behavior",
+        "authors": [
+          "Marianne Bertrand",
+          "Jessica Pan"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "32–64",
+        "doi": "10.1257/app.5.1.32",
+        "url": "https://doi.org/10.1257/app.5.1.32",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71499,6 +72417,45 @@
     ]
   },
   {
+    "id": "2.16.40",
+    "title": "幼儿纵向研究（Early Childhood Longitudinal Study，ECLS-K / ECLS-B）",
+    "links": [
+      {
+        "label": "NCES: ECLS-K 1998-99",
+        "url": "https://nces.ed.gov/ecls/kindergarten.asp"
+      }
+    ],
+    "summary": "美国国家教育统计中心（NCES）的全国代表性儿童纵向研究，ECLS-K 追踪 1998–99 学年约 2.1 万名幼儿园儿童至八年级，ECLS-K:2011 追踪 2010–11 学年队列至五年级，ECLS-B 追踪 2001 年出生队列，记录认知测试、社会情感发展、家庭、教师和学校特征，公开使用版免费下载，受限版需许可。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "ECLS-K 在 1998 年秋季抽取约 1000 所学校的 2.1 万名幼儿园儿童，在幼儿园秋季和春季、一年级、三年级、五年级和八年级进行跟踪，内容包括阅读、数学和科学的直接测评，教师评价的行为和社会技能（外化问题行为、自控力），身高体重，以及家长访谈（家庭收入、父母教育和就业、家庭活动、育儿方式）和教师、校长问卷（班级规模、教学实践、学校资源）。ECLS-K:2011 对新一代幼儿园队列重复了类似设计，ECLS-B 则从出生起追踪至幼儿园入学。公开使用版数据和 EDAT 工具在 NCES 网站免费获取，含更细地理与敏感变量的受限版需申请 NCES 许可。\n\n数据常用于研究早期认知和非认知技能的形成、家庭背景与学业差距、学前教育和班级规模的效果、教师质量，以及男孩与女孩行为问题的性别差异。跟踪轮次间样本损耗较大，需使用配套权重。",
+    "source": "公开使用版免费下载；受限版需 NCES 许可。",
+    "references": [
+      {
+        "raw": "The Trouble with Boys: Social Influences and the Gender Gap in Disruptive Behavior",
+        "title": "The Trouble with Boys: Social Influences and the Gender Gap in Disruptive Behavior",
+        "authors": [
+          "Marianne Bertrand",
+          "Jessica Pan"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "5",
+        "issue": "1",
+        "pages": "32–64",
+        "doi": "10.1257/app.5.1.32",
+        "url": "https://doi.org/10.1257/app.5.1.32",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -71655,6 +72612,23 @@
         "pages": "3303–3338",
         "doi": "10.1257/aer.20160848",
         "url": "https://doi.org/10.1257/aer.20160848",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "All the Single Ladies: Job Promotions and the Durability of Marriage",
+        "title": "All the Single Ladies: Job Promotions and the Durability of Marriage",
+        "authors": [
+          "Olle Folke",
+          "Johanna Rickne"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "1",
+        "pages": "260–287",
+        "doi": "10.1257/app.20180435",
+        "url": "https://doi.org/10.1257/app.20180435",
         "verified": true,
         "note": ""
       }
@@ -71988,6 +72962,41 @@
         "pages": "246–286",
         "doi": "10.1257/aer.20240167",
         "url": "https://doi.org/10.1257/aer.20240167",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously Assigned General Practitioners",
+        "title": "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously Assigned General Practitioners",
+        "authors": [
+          "Julie Riise",
+          "Barton Willage",
+          "Alexander Willén"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "621–635",
+        "doi": "10.1162/rest_a_00975",
+        "url": "https://doi.org/10.1162/rest_a_00975",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When Parents Decide: Gender Differences in Competitiveness",
+        "title": "When Parents Decide: Gender Differences in Competitiveness",
+        "authors": [
+          "Jonas Tungodden",
+          "Alexander Willén"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "131",
+        "issue": "3",
+        "pages": "751–801",
+        "doi": "10.1086/721801",
+        "url": "https://doi.org/10.1086/721801",
         "verified": true,
         "note": ""
       }
@@ -72520,6 +73529,24 @@
         "url": "https://doi.org/10.1162/rest.89.1.118",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "title": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "authors": [
+          "Ghazala Azmat",
+          "Maia Güell",
+          "Alan Manning"
+        ],
+        "year": 2006,
+        "journal": "Journal of Labor Economics",
+        "volume": "24",
+        "issue": "1",
+        "pages": "1–37",
+        "doi": "10.1086/497817",
+        "url": "https://doi.org/10.1086/497817",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72945,6 +73972,24 @@
         "pages": "1663–1705",
         "doi": "10.1093/qje/qje029",
         "url": "https://doi.org/10.1093/qje/qje029",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "title": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "authors": [
+          "Ghazala Azmat",
+          "Maia Güell",
+          "Alan Manning"
+        ],
+        "year": 2006,
+        "journal": "Journal of Labor Economics",
+        "volume": "24",
+        "issue": "1",
+        "pages": "1–37",
+        "doi": "10.1086/497817",
+        "url": "https://doi.org/10.1086/497817",
         "verified": true,
         "note": ""
       }
@@ -74063,6 +75108,24 @@
         "url": "https://doi.org/10.1093/qje/qjag030",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "title": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "authors": [
+          "Ghazala Azmat",
+          "Maia Güell",
+          "Alan Manning"
+        ],
+        "year": 2006,
+        "journal": "Journal of Labor Economics",
+        "volume": "24",
+        "issue": "1",
+        "pages": "1–37",
+        "doi": "10.1086/497817",
+        "url": "https://doi.org/10.1086/497817",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -74192,6 +75255,24 @@
         "pages": "2509–2526",
         "doi": "10.1257/aer.104.8.2509",
         "url": "https://doi.org/10.1257/aer.104.8.2509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "title": "Gender Gaps in Unemployment Rates in OECD Countries",
+        "authors": [
+          "Ghazala Azmat",
+          "Maia Güell",
+          "Alan Manning"
+        ],
+        "year": 2006,
+        "journal": "Journal of Labor Economics",
+        "volume": "24",
+        "issue": "1",
+        "pages": "1–37",
+        "doi": "10.1086/497817",
+        "url": "https://doi.org/10.1086/497817",
         "verified": true,
         "note": ""
       }
@@ -81171,6 +82252,24 @@
         "url": "https://doi.org/10.1093/jeea/jvz009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -81546,6 +82645,24 @@
         "url": "https://doi.org/10.1086/704572",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -81620,6 +82737,24 @@
         "pages": "2342–2375",
         "doi": "10.1257/aer.20200705",
         "url": "https://doi.org/10.1257/aer.20200705",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
         "verified": true,
         "note": ""
       }
@@ -81790,6 +82925,44 @@
         "pages": "803–837",
         "doi": "10.3982/ECTA15962",
         "url": "https://doi.org/10.3982/ECTA15962",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.2.15",
+    "title": "日本消费者追踪调查（Japanese Panel Survey of Consumers，JPSC）",
+    "links": [
+      {
+        "label": "Keio PDRC: JPSC",
+        "url": "https://www.pdrc.keio.ac.jp/en/paneldata/datasets/jpsc/"
+      }
+    ],
+    "summary": "原家计经济研究所 1993 年起开展、现由庆应义塾大学面板数据设计与分析研究中心（PDRC）主持的日本女性面板调查，追踪年轻女性及其配偶的就业、收入、消费、储蓄、婚姻和生育，经 PDRC 注册申请获取。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "JPSC 于 1993 年以 24–34 岁女性约 1500 人为初始样本，此后每年追踪，并在 1997、2003、2008、2013、2018 年补充新的年轻队列。问卷记录受访女性及其丈夫的就业状态、工时和收入，家庭收入、消费支出和储蓄、资产与住房，婚姻和生育经历，育儿和家务时间分配，以及父母的经济支持。2018 年起调查移交庆应义塾大学 PDRC，与日本家庭面板调查（KHPS）并列为该中心的主要面板数据，研究者经网站注册并提交申请后获取。\n\n数据常用于研究日本女性的劳动供给和婚姻、生育决策，家庭内部分工与收入风险，消费平滑，以及构造家庭生命周期结构模型。样本只以女性为主体，男性信息来自配偶。",
+    "source": "受限（经庆应义塾大学 PDRC 注册申请）。",
+    "references": [
+      {
+        "raw": "Household Sharing and Commitment: Evidence from Panel Data on Individual Expenditures and Time Use",
+        "title": "Household Sharing and Commitment: Evidence from Panel Data on Individual Expenditures and Time Use",
+        "authors": [
+          "Jeremy Lise",
+          "Ken Yamada"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "5",
+        "pages": "2184–2219",
+        "doi": "10.1093/restud/rdy066",
+        "url": "https://doi.org/10.1093/restud/rdy066",
         "verified": true,
         "note": ""
       }
@@ -84951,6 +86124,22 @@
         "pages": "636–680",
         "doi": "10.1086/717890",
         "url": "https://doi.org/10.1086/717890",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor market opportunities and women's decision making power within households",
+        "title": "Labor market opportunities and women's decision making power within households",
+        "authors": [
+          "Kaveh Majlesi"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "119",
+        "issue": "",
+        "pages": "34–47",
+        "doi": "10.1016/j.jdeveco.2015.10.002",
+        "url": "https://doi.org/10.1016/j.jdeveco.2015.10.002",
         "verified": true,
         "note": ""
       }
@@ -88923,6 +90112,83 @@
     ]
   },
   {
+    "id": "6.2.8",
+    "title": "埃及劳动力市场面板调查（Egypt Labor Market Panel Survey，ELMPS）",
+    "links": [
+      {
+        "label": "ERF Data Portal: ELMPS",
+        "url": "https://erfdataportal.com/index.php/catalog/28"
+      }
+    ],
+    "summary": "经济研究论坛（ERF）与埃及中央公共动员与统计局（CAPMAS）合作的全国代表性住户面板调查，1998、2006、2012、2018 年等轮次追踪住户和个人，记录就业、工资、教育、婚姻、生育和迁移，经 ERF 开放数据门户申请获取。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "ELMPS 以 1988 年劳动力抽样调查特别轮为基线，1998 年约 4800 户，2006、2012、2018 年补充新样本并追踪分出的住户，2018 年约 1.5 万户。问卷包括住户成员和家庭资产，个人的教育经历、就业状态和完整的工作史（含非正规就业和公共部门就业）、工资和收入、求职、婚姻（婚龄、嫁妆和婚礼费用）、生育和女性地位，以及国内和国际迁移。ERF 还在约旦、突尼斯、苏丹开展了同类劳动力市场面板调查。微观数据在 ERF 开放数据门户（OAMDI）注册并签署许可后获取。\n\n数据常用于研究埃及和中东北非的劳动力市场转型、青年失业和公共部门就业排队、女性劳动参与与婚姻市场、教育回报，以及非正规就业。追踪损耗和各轮次样本扩充需要加权处理。",
+    "source": "经 ERF 开放数据门户申请（许可数据集）。",
+    "references": [
+      {
+        "raw": "Unilateral divorce rights, domestic violence and women's agency: Evidence from the Egyptian Khul reform",
+        "title": "Unilateral divorce rights, domestic violence and women's agency: Evidence from the Egyptian Khul reform",
+        "authors": [
+          "Viola Corradini",
+          "Giulia Buccione"
+        ],
+        "year": 2023,
+        "journal": "Journal of Development Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "102947",
+        "doi": "10.1016/j.jdeveco.2022.102947",
+        "url": "https://doi.org/10.1016/j.jdeveco.2022.102947",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.2.9",
+    "title": "加拿大纵向行政数据库（Longitudinal Administrative Databank，LAD）",
+    "links": [
+      {
+        "label": "Statistics Canada: Longitudinal Administrative Databank (LAD)",
+        "url": "https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4107"
+      }
+    ],
+    "summary": "加拿大统计局基于个人所得税申报（T1 家庭文件）抽取的 20% 纵向样本，1982 年起逐年追踪个人及其家庭的收入、税收、转移支付和人口特征，研究者经统计局研究数据中心或定制表格申请。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "LAD 从加拿大税务局的 T1 家庭文件（T1FF）中按社会保险号随机抽取 20% 纳税人，构造 1982 年以来的个人面板，并通过配偶和子女信息构建家庭；变量包括就业收入、自雇收入、投资收入、养老金、就业保险和社会救助等转移、RRSP 储蓄、纳税额、年龄、性别、婚姻状况和居住省份及城市，后来还与移民登记（IMDB）和雇主信息链接。LAD 不公开发布，研究者经加拿大统计局的研究数据中心网络申请，或委托统计局制作定制汇总表。\n\n数据常用于研究加拿大的收入动态与流动、代际收入传递、离婚和婚姻对收入的影响、税收和转移支付政策的效应，以及女性收入相对丈夫的分布。数据只覆盖报税人群，低收入不报税者可能缺失。",
+    "source": "受限（加拿大统计局研究数据中心或定制表格）。",
+    "references": [
+      {
+        "raw": "Gender Identity and Relative Income within Households",
+        "title": "Gender Identity and Relative Income within Households",
+        "authors": [
+          "Marianne Bertrand",
+          "Emir Kamenica",
+          "Jessica Pan"
+        ],
+        "year": 2015,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "130",
+        "issue": "2",
+        "pages": "571–614",
+        "doi": "10.1093/qje/qjv001",
+        "url": "https://doi.org/10.1093/qje/qjv001",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.3.1",
     "title": "加拿大制造业年度调查（ASM / ASML）",
     "links": [
@@ -90874,6 +92140,23 @@
         "url": "https://doi.org/10.1086/704572",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Non-College Occupations, Workplace Routinization, and Female College Enrollment",
+        "title": "Non-College Occupations, Workplace Routinization, and Female College Enrollment",
+        "authors": [
+          "Amanda Chuan",
+          "Weilong Zhang"
+        ],
+        "year": 2025,
+        "journal": "Journal of Human Resources",
+        "volume": "",
+        "issue": "",
+        "pages": "0523–12892R2",
+        "doi": "10.3368/jhr.0124-13360r1",
+        "url": "https://doi.org/10.3368/jhr.0124-13360r1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -91479,6 +92762,76 @@
         "pages": "2342–2375",
         "doi": "10.1257/aer.20200705",
         "url": "https://doi.org/10.1257/aer.20200705",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unilateral divorce rights, domestic violence and women's agency: Evidence from the Egyptian Khul reform",
+        "title": "Unilateral divorce rights, domestic violence and women's agency: Evidence from the Egyptian Khul reform",
+        "authors": [
+          "Viola Corradini",
+          "Giulia Buccione"
+        ],
+        "year": 2023,
+        "journal": "Journal of Development Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "102947",
+        "doi": "10.1016/j.jdeveco.2022.102947",
+        "url": "https://doi.org/10.1016/j.jdeveco.2022.102947",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Intrahousehold Bargaining, Female Autonomy, and Labor Supply: Theory and Evidence from India",
+        "title": "Intrahousehold Bargaining, Female Autonomy, and Labor Supply: Theory and Evidence from India",
+        "authors": [
+          "Rachel Heath",
+          "Xu Tan"
+        ],
+        "year": 2020,
+        "journal": "Journal of the European Economic Association",
+        "volume": "18",
+        "issue": "4",
+        "pages": "1928–1968",
+        "doi": "10.1093/jeea/jvz026",
+        "url": "https://doi.org/10.1093/jeea/jvz026",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Child Gender and Parental Investments in India: Are Boys and Girls Treated Differently?",
+        "title": "Child Gender and Parental Investments in India: Are Boys and Girls Treated Differently?",
+        "authors": [
+          "Silvia Helena Barcellos",
+          "Leandro S. Carvalho",
+          "Adriana Lleras-Muney"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "6",
+        "issue": "1",
+        "pages": "157–189",
+        "doi": "10.1257/app.6.1.157",
+        "url": "https://doi.org/10.1257/app.6.1.157",
         "verified": true,
         "note": ""
       }
@@ -94245,6 +95598,24 @@
         "pages": "2271–2316",
         "doi": "10.1093/jeea/jvac059",
         "url": "https://doi.org/10.1093/jeea/jvac059",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
         "verified": true,
         "note": ""
       }
@@ -99378,6 +100749,24 @@
         "url": "https://doi.org/10.1257/aer.20210383",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -100525,6 +101914,24 @@
         "pages": "591–641",
         "doi": "10.1086/704572",
         "url": "https://doi.org/10.1086/704572",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
         "verified": true,
         "note": ""
       }
@@ -103230,6 +104637,24 @@
         "pages": "1–46",
         "doi": "10.1086/700763",
         "url": "https://doi.org/10.1086/700763",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
         "verified": true,
         "note": ""
       }
@@ -108728,6 +110153,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2022.102922",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -114037,6 +115480,23 @@
         "url": "https://doi.org/10.1016/j.jfineco.2023.103745",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Women in Science. Lessons From the Baby Boom",
+        "title": "Women in Science. Lessons From the Baby Boom",
+        "authors": [
+          "Scott Kim",
+          "Petra Moser"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "5",
+        "pages": "1521–1560",
+        "doi": "10.3982/ECTA22741",
+        "url": "https://doi.org/10.3982/ECTA22741",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -114411,6 +115871,44 @@
         "url": "https://doi.org/10.1257/aer.20160284",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Are Referees and Editors in Economics Gender Neutral?",
+        "title": "Are Referees and Editors in Economics Gender Neutral?",
+        "authors": [
+          "David Card",
+          "Stefano DellaVigna",
+          "Patricia Funk",
+          "Nagore Iriberri"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "269–327",
+        "doi": "10.1093/qje/qjz035",
+        "url": "https://doi.org/10.1093/qje/qjz035",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Differences in Peer Recognition by Economists",
+        "title": "Gender Differences in Peer Recognition by Economists",
+        "authors": [
+          "David Card",
+          "Stefano DellaVigna",
+          "Patricia Funk",
+          "Nagore Iriberri"
+        ],
+        "year": 2022,
+        "journal": "Econometrica",
+        "volume": "90",
+        "issue": "5",
+        "pages": "1937–1971",
+        "doi": "10.3982/ECTA18027",
+        "url": "https://doi.org/10.3982/ECTA18027",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -114700,6 +116198,87 @@
         "pages": "1579–1610",
         "doi": "10.1257/aer.20240850",
         "url": "https://doi.org/10.1257/aer.20240850",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.16",
+    "title": "EconLit 经济学文献数据库（美国经济学会）",
+    "links": [
+      {
+        "label": "AEA: EconLit",
+        "url": "https://www.aeaweb.org/econlit/"
+      }
+    ],
+    "summary": "美国经济学会（AEA）编制的经济学文献索引数据库，收录 1886 年以来一千多种期刊的论文以及工作论文、图书、学位论文和书评，带有 JEL 分类代码、作者和机构信息，经 EBSCO、ProQuest 等平台机构订阅访问。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据",
+      "教育数据"
+    ],
+    "introduction": "EconLit 源自 AEA 自 1969 年起出版的《经济学文献杂志》（Journal of Economic Literature）的文献目录，现收录约 200 万条记录，涵盖一千余种经济学及相关期刊（含全部主要经济学期刊）、各国工作论文系列、编著章节和博士论文，每条记录包含题目、作者、作者机构、摘要、JEL 分类代码和关键词。数据库通过 EBSCOhost、ProQuest 等平台以机构订阅方式提供，研究者常据此批量导出题录用于文献计量分析。\n\n数据常用于研究经济学的发表模式与期刊评价、学科领域（JEL 分类）的演变、合作网络和作者流动、编辑与同行评审的偏差，以及经济学中的性别差距。引用信息不在 EconLit 中，需结合 Web of Science、Scopus 或 Google Scholar。",
+    "source": "付费机构订阅（EBSCO、ProQuest 等）。",
+    "references": [
+      {
+        "raw": "Are Referees and Editors in Economics Gender Neutral?",
+        "title": "Are Referees and Editors in Economics Gender Neutral?",
+        "authors": [
+          "David Card",
+          "Stefano DellaVigna",
+          "Patricia Funk",
+          "Nagore Iriberri"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "269–327",
+        "doi": "10.1093/qje/qjz035",
+        "url": "https://doi.org/10.1093/qje/qjz035",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.17",
+    "title": "Scopus 摘要与引文数据库（Elsevier）",
+    "links": [
+      {
+        "label": "Elsevier: Scopus",
+        "url": "https://www.elsevier.com/products/scopus"
+      }
+    ],
+    "summary": "Elsevier 运营的跨学科摘要与引文数据库，收录两万多种同行评审期刊、会议论文和图书的题录、摘要、参考文献和引用关系，提供作者和机构的唯一标识（Scopus Author ID）及 h 指数等指标，经机构订阅和 API 访问。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据",
+      "教育数据"
+    ],
+    "introduction": "Scopus 于 2004 年上线，覆盖自然科学、医学、工程、社会科学和人文学科约 9000 万条记录，其中 1996 年以后的记录带有完整的参考文献和引用链接，并对作者和机构做自动消歧（Author ID、Affiliation ID），提供 CiteScore、SNIP 等期刊指标。机构订阅用户可通过网页检索和导出，或经 Scopus API 和 ICSR Lab 进行大规模数据分析。与 Web of Science 相比，Scopus 收录的期刊更多，非英语和社会科学期刊覆盖更广。\n\n数据常用于研究学术生产率与引用、科研人员的流动和合作网络、学术晋升和招聘中的偏差、科研资助的效果，以及大学和国家科研产出的比较。作者消歧存在误差，早期年份引用数据不完整。",
+    "source": "付费机构订阅（含 API）。",
+    "references": [
+      {
+        "raw": "Research Similarity and Women in Academia",
+        "title": "Research Similarity and Women in Academia",
+        "authors": [
+          "Piera Bello",
+          "Alessandra Casarico",
+          "Debora Nozza"
+        ],
+        "year": 2025,
+        "journal": "The Economic Journal",
+        "volume": "136",
+        "issue": "679",
+        "pages": "2339–2368",
+        "doi": "10.1093/ej/ueaf113",
+        "url": "https://doi.org/10.1093/ej/ueaf113",
         "verified": true,
         "note": ""
       }
@@ -115619,6 +117198,24 @@
         "pages": "1251–1285",
         "doi": "10.1162/qjec.2008.123.3.1251",
         "url": "https://doi.org/10.1162/qjec.2008.123.3.1251",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "title": "Age of Marriage, Weather Shocks, and the Direction of Marriage Payments",
+        "authors": [
+          "Lucia Corno",
+          "Nicole Hildebrandt",
+          "Alessandra Voena"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "879–915",
+        "doi": "10.3982/ECTA15505",
+        "url": "https://doi.org/10.3982/ECTA15505",
         "verified": true,
         "note": ""
       }
@@ -116956,6 +118553,22 @@
         "pages": "219–255",
         "doi": "10.1257/app.20150548",
         "url": "https://doi.org/10.1257/app.20150548",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor market opportunities and women's decision making power within households",
+        "title": "Labor market opportunities and women's decision making power within households",
+        "authors": [
+          "Kaveh Majlesi"
+        ],
+        "year": 2016,
+        "journal": "Journal of Development Economics",
+        "volume": "119",
+        "issue": "",
+        "pages": "34–47",
+        "doi": "10.1016/j.jdeveco.2015.10.002",
+        "url": "https://doi.org/10.1016/j.jdeveco.2015.10.002",
         "verified": true,
         "note": ""
       }
