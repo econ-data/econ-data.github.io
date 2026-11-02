@@ -14124,6 +14124,23 @@
         "url": "https://doi.org/10.1257/pol.20200400",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Media Bias and Reputation",
+        "title": "Media Bias and Reputation",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2006,
+        "journal": "Journal of Political Economy",
+        "volume": "114",
+        "issue": "2",
+        "pages": "280–316",
+        "doi": "10.1086/499414",
+        "url": "https://doi.org/10.1086/499414",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27810,6 +27827,23 @@
         "pages": "1747–1783",
         "doi": "10.1086/698107",
         "url": "https://doi.org/10.1086/698107",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Media Bias and Reputation",
+        "title": "Media Bias and Reputation",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2006,
+        "journal": "Journal of Political Economy",
+        "volume": "114",
+        "issue": "2",
+        "pages": "280–316",
+        "doi": "10.1086/499414",
+        "url": "https://doi.org/10.1086/499414",
         "verified": true,
         "note": ""
       }
@@ -97280,6 +97314,22 @@
         "url": "https://doi.org/10.1257/aer.20230056",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France",
+        "title": "Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France",
+        "authors": [
+          "Vincent Pons"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "6",
+        "pages": "1322–1363",
+        "doi": "10.1257/aer.20160524",
+        "url": "https://doi.org/10.1257/aer.20160524",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107216,6 +107266,22 @@
         "url": "https://doi.org/10.1257/aer.20230056",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France",
+        "title": "Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France",
+        "authors": [
+          "Vincent Pons"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "6",
+        "pages": "1322–1363",
+        "doi": "10.1257/aer.20160524",
+        "url": "https://doi.org/10.1257/aer.20160524",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -108098,6 +108164,25 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.3386/w32954",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revealing Stereotypes: Evidence from Immigrants in Schools",
+        "title": "Revealing Stereotypes: Evidence from Immigrants in Schools",
+        "authors": [
+          "Alberto Alesina",
+          "Michela Carlana",
+          "Eliana La Ferrara",
+          "Paolo Pinotti"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "7",
+        "pages": "1916–1948",
+        "doi": "10.1257/aer.20191184",
+        "url": "https://doi.org/10.1257/aer.20191184",
         "verified": true,
         "note": ""
       }
@@ -115740,6 +115825,23 @@
         "url": "https://doi.org/10.1162/rest_a_00349",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Neighborhood Peer Effects in Secondary School Enrollment Decisions",
+        "title": "Neighborhood Peer Effects in Secondary School Enrollment Decisions",
+        "authors": [
+          "Gustavo J. Bobonis",
+          "Frederico Finan"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "4",
+        "pages": "695–716",
+        "doi": "10.1162/rest.91.4.695",
+        "url": "https://doi.org/10.1162/rest.91.4.695",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -120468,6 +120570,28 @@
         "url": "https://doi.org/10.1093/ej/ueab027",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Stress, Ethnicity, and Prosocial Behavior",
+        "title": "Stress, Ethnicity, and Prosocial Behavior",
+        "authors": [
+          "Johannes Haushofer",
+          "Sara Lowes",
+          "Abednego Musau",
+          "David Ndetei",
+          "Nathan Nunn",
+          "Moritz Poll",
+          "Nancy Qian"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy Microeconomics",
+        "volume": "1",
+        "issue": "2",
+        "pages": "225–269",
+        "doi": "10.1086/722367",
+        "url": "https://doi.org/10.1086/722367",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -120947,6 +121071,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2017.05.005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -121120,6 +121262,44 @@
         "pages": "105419",
         "doi": "10.1016/j.jpubeco.2025.105419",
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105419",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.2.10",
+    "title": "肯尼亚饥饿安全网计划影响评估调查（Hunger Safety Net Programme Impact Evaluation，HSNP）",
+    "links": [
+      {
+        "label": "World Bank Microdata: HSNP Impact Evaluation 2009-2010",
+        "url": "https://microdata.worldbank.org/index.php/catalog/1915"
+      }
+    ],
+    "summary": "肯尼亚政府与英国国际发展部（DFID）资助、牛津政策管理（OPM）实施的无条件现金转移项目随机化评估调查，覆盖肯尼亚北部干旱地区（Turkana、Marsabit、Mandera、Wajir）约 5000 户牧民家庭，2009–2012 年进行基线和两轮追踪，并有 2020–2021 年第三期（COVID-19 现金转移）评估，经世界银行微观数据库公开获取。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "项目以子区为单位随机分配处理和对照，调查记录家庭消费、收入、牲畜、资产、食物安全、健康、教育和社会网络。研究常用它分析无条件现金转移对贫困、消费平滑、牧民生计和社会规范的影响。",
+    "source": "经世界银行微观数据库申请（多数为公开或许可访问）。",
+    "references": [
+      {
+        "raw": "Age Set versus Kin: Culture and Financial Ties in East Africa",
+        "title": "Age Set versus Kin: Culture and Financial Ties in East Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Awa Ambra Seck"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "9",
+        "pages": "2748–2791",
+        "doi": "10.1257/aer.20211856",
+        "url": "https://doi.org/10.1257/aer.20211856",
         "verified": true,
         "note": ""
       }
@@ -123935,6 +124115,23 @@
         "url": "https://doi.org/10.1257/aer.20190098",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Age Set versus Kin: Culture and Financial Ties in East Africa",
+        "title": "Age Set versus Kin: Culture and Financial Ties in East Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Awa Ambra Seck"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "9",
+        "pages": "2748–2791",
+        "doi": "10.1257/aer.20211856",
+        "url": "https://doi.org/10.1257/aer.20211856",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -125010,6 +125207,41 @@
         "pages": "1–38",
         "doi": "10.1093/jeea/jvab027",
         "url": "https://doi.org/10.1093/jeea/jvab027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age Set versus Kin: Culture and Financial Ties in East Africa",
+        "title": "Age Set versus Kin: Culture and Financial Ties in East Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Awa Ambra Seck"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "9",
+        "pages": "2748–2791",
+        "doi": "10.1257/aer.20211856",
+        "url": "https://doi.org/10.1257/aer.20211856",
         "verified": true,
         "note": ""
       }
@@ -127132,6 +127364,24 @@
         "pages": "115–129",
         "doi": "10.1016/j.jdeveco.2017.12.006",
         "url": "https://doi.org/10.1016/j.jdeveco.2017.12.006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
         "verified": true,
         "note": ""
       }
@@ -137334,6 +137584,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2017.12.006",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -138580,6 +138848,41 @@
         "pages": "1880–1917",
         "doi": "10.1257/aer.20190098",
         "url": "https://doi.org/10.1257/aer.20190098",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Age Set versus Kin: Culture and Financial Ties in East Africa",
+        "title": "Age Set versus Kin: Culture and Financial Ties in East Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Awa Ambra Seck"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "9",
+        "pages": "2748–2791",
+        "doi": "10.1257/aer.20211856",
+        "url": "https://doi.org/10.1257/aer.20211856",
         "verified": true,
         "note": ""
       }
@@ -144569,6 +144872,24 @@
         "url": "https://doi.org/10.1093/jeea/jvz009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -148808,6 +149129,24 @@
         "url": "https://doi.org/10.1257/mac.1.2.55",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -149238,6 +149577,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2017.05.005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -149325,6 +149682,24 @@
         "pages": "103393",
         "doi": "10.1016/j.jdeveco.2024.103393",
         "url": "https://doi.org/10.1016/j.jdeveco.2024.103393",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "title": "Segmentary Lineage Organization and Conflict in Sub-Saharan Africa",
+        "authors": [
+          "Jacob Moscona",
+          "Nathan Nunn",
+          "James A. Robinson"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "5",
+        "pages": "1999–2036",
+        "doi": "10.3982/ECTA16327",
+        "url": "https://doi.org/10.3982/ECTA16327",
         "verified": true,
         "note": ""
       }
@@ -156556,6 +156931,22 @@
         "url": "https://doi.org/10.1257/aer.103.7.2683",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Narrative Economics",
+        "title": "Narrative Economics",
+        "authors": [
+          "Robert J. Shiller"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "967–1004",
+        "doi": "10.1257/aer.107.4.967",
+        "url": "https://doi.org/10.1257/aer.107.4.967",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -158108,6 +158499,22 @@
         "pages": "44–75",
         "doi": "10.1257/pol.20180039",
         "url": "https://doi.org/10.1257/pol.20180039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Narrative Economics",
+        "title": "Narrative Economics",
+        "authors": [
+          "Robert J. Shiller"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "967–1004",
+        "doi": "10.1257/aer.107.4.967",
+        "url": "https://doi.org/10.1257/aer.107.4.967",
         "verified": true,
         "note": ""
       }
