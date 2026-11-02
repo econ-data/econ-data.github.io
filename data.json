@@ -683,6 +683,23 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103557",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exporting Out of Agriculture: The Impact of WTO Accession on Structural Transformation in China",
+        "title": "Exporting Out of Agriculture: The Impact of WTO Accession on Structural Transformation in China",
+        "authors": [
+          "Bilge Erten",
+          "Jessica Leight"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "2",
+        "pages": "364–380",
+        "doi": "10.1162/rest_a_00852",
+        "url": "https://doi.org/10.1162/rest_a_00852",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -847,6 +864,25 @@
         "pages": "103181",
         "doi": "10.1016/j.jue.2019.06.004",
         "url": "https://doi.org/10.1016/j.jue.2019.06.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "title": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "authors": [
+          "Loren Brandt",
+          "Johannes Van Biesebroeck",
+          "Luhang Wang",
+          "Yifan Zhang"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "9",
+        "pages": "2784–2820",
+        "doi": "10.1257/aer.20121266",
+        "url": "https://doi.org/10.1257/aer.20121266",
         "verified": true,
         "note": ""
       }
@@ -2860,6 +2896,130 @@
         "url": "https://doi.org/10.1016/j.jue.2019.06.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exporting Out of Agriculture: The Impact of WTO Accession on Structural Transformation in China",
+        "title": "Exporting Out of Agriculture: The Impact of WTO Accession on Structural Transformation in China",
+        "authors": [
+          "Bilge Erten",
+          "Jessica Leight"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "2",
+        "pages": "364–380",
+        "doi": "10.1162/rest_a_00852",
+        "url": "https://doi.org/10.1162/rest_a_00852",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters",
+        "title": "Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters",
+        "authors": [
+          "Amit K. Khandelwal",
+          "Peter K. Schott",
+          "Shang-Jin Wei"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2169–2195",
+        "doi": "10.1257/aer.103.6.2169",
+        "url": "https://doi.org/10.1257/aer.103.6.2169",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "title": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "authors": [
+          "Miaojie Yu"
+        ],
+        "year": 2015,
+        "journal": "The Economic Journal",
+        "volume": "125",
+        "issue": "585",
+        "pages": "943–988",
+        "doi": "10.1111/ecoj.12127",
+        "url": "https://doi.org/10.1111/ecoj.12127",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "title": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "authors": [
+          "Loren Brandt",
+          "Johannes Van Biesebroeck",
+          "Luhang Wang",
+          "Yifan Zhang"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "9",
+        "pages": "2784–2820",
+        "doi": "10.1257/aer.20121266",
+        "url": "https://doi.org/10.1257/aer.20121266",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What you import matters for productivity growth: Experience from Chinese manufacturing firms",
+        "title": "What you import matters for productivity growth: Experience from Chinese manufacturing firms",
+        "authors": [
+          "Jiawei Mo",
+          "Larry D. Qiu",
+          "Hongsong Zhang",
+          "Xiaoyu Dong"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "152",
+        "issue": "",
+        "pages": "102677",
+        "doi": "10.1016/j.jdeveco.2021.102677",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102677",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "title": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "authors": [
+          "Albert Park",
+          "Dean Yang",
+          "Xinzheng Shi",
+          "Yuan Jiang"
+        ],
+        "year": 2010,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "92",
+        "issue": "4",
+        "pages": "822–842",
+        "doi": "10.1162/rest_a_00033",
+        "url": "https://doi.org/10.1162/rest_a_00033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Foreign direct investment and technology spillovers: Theory and evidence",
+        "title": "Foreign direct investment and technology spillovers: Theory and evidence",
+        "authors": [
+          "Zhiqiang Liu"
+        ],
+        "year": 2008,
+        "journal": "Journal of Development Economics",
+        "volume": "85",
+        "issue": "1-2",
+        "pages": "176–193",
+        "doi": "10.1016/j.jdeveco.2006.07.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2006.07.001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4296,6 +4456,57 @@
         "url": "https://doi.org/10.1016/j.jue.2019.06.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "title": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "authors": [
+          "Miaojie Yu"
+        ],
+        "year": 2015,
+        "journal": "The Economic Journal",
+        "volume": "125",
+        "issue": "585",
+        "pages": "943–988",
+        "doi": "10.1111/ecoj.12127",
+        "url": "https://doi.org/10.1111/ecoj.12127",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "title": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "authors": [
+          "Loren Brandt",
+          "Johannes Van Biesebroeck",
+          "Luhang Wang",
+          "Yifan Zhang"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "9",
+        "pages": "2784–2820",
+        "doi": "10.1257/aer.20121266",
+        "url": "https://doi.org/10.1257/aer.20121266",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Foreign direct investment and technology spillovers: Theory and evidence",
+        "title": "Foreign direct investment and technology spillovers: Theory and evidence",
+        "authors": [
+          "Zhiqiang Liu"
+        ],
+        "year": 2008,
+        "journal": "Journal of Development Economics",
+        "volume": "85",
+        "issue": "1-2",
+        "pages": "176–193",
+        "doi": "10.1016/j.jdeveco.2006.07.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2006.07.001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4819,6 +5030,76 @@
         "pages": "202–230",
         "doi": "10.1257/pol.20170097",
         "url": "https://doi.org/10.1257/pol.20170097",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "title": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "authors": [
+          "Miaojie Yu"
+        ],
+        "year": 2015,
+        "journal": "The Economic Journal",
+        "volume": "125",
+        "issue": "585",
+        "pages": "943–988",
+        "doi": "10.1111/ecoj.12127",
+        "url": "https://doi.org/10.1111/ecoj.12127",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "title": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "authors": [
+          "Loren Brandt",
+          "Johannes Van Biesebroeck",
+          "Luhang Wang",
+          "Yifan Zhang"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "9",
+        "pages": "2784–2820",
+        "doi": "10.1257/aer.20121266",
+        "url": "https://doi.org/10.1257/aer.20121266",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "title": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "authors": [
+          "Albert Park",
+          "Dean Yang",
+          "Xinzheng Shi",
+          "Yuan Jiang"
+        ],
+        "year": 2010,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "92",
+        "issue": "4",
+        "pages": "822–842",
+        "doi": "10.1162/rest_a_00033",
+        "url": "https://doi.org/10.1162/rest_a_00033",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Foreign direct investment and technology spillovers: Theory and evidence",
+        "title": "Foreign direct investment and technology spillovers: Theory and evidence",
+        "authors": [
+          "Zhiqiang Liu"
+        ],
+        "year": 2008,
+        "journal": "Journal of Development Economics",
+        "volume": "85",
+        "issue": "1-2",
+        "pages": "176–193",
+        "doi": "10.1016/j.jdeveco.2006.07.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2006.07.001",
         "verified": true,
         "note": ""
       }
@@ -8024,6 +8305,96 @@
         "url": "https://doi.org/10.1016/j.jue.2019.06.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters",
+        "title": "Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters",
+        "authors": [
+          "Amit K. Khandelwal",
+          "Peter K. Schott",
+          "Shang-Jin Wei"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "6",
+        "pages": "2169–2195",
+        "doi": "10.1257/aer.103.6.2169",
+        "url": "https://doi.org/10.1257/aer.103.6.2169",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "title": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "authors": [
+          "Miaojie Yu"
+        ],
+        "year": 2015,
+        "journal": "The Economic Journal",
+        "volume": "125",
+        "issue": "585",
+        "pages": "943–988",
+        "doi": "10.1111/ecoj.12127",
+        "url": "https://doi.org/10.1111/ecoj.12127",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "title": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "authors": [
+          "Loren Brandt",
+          "Johannes Van Biesebroeck",
+          "Luhang Wang",
+          "Yifan Zhang"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "9",
+        "pages": "2784–2820",
+        "doi": "10.1257/aer.20121266",
+        "url": "https://doi.org/10.1257/aer.20121266",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What you import matters for productivity growth: Experience from Chinese manufacturing firms",
+        "title": "What you import matters for productivity growth: Experience from Chinese manufacturing firms",
+        "authors": [
+          "Jiawei Mo",
+          "Larry D. Qiu",
+          "Hongsong Zhang",
+          "Xiaoyu Dong"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "152",
+        "issue": "",
+        "pages": "102677",
+        "doi": "10.1016/j.jdeveco.2021.102677",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102677",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exporting and Firm Performance: Evidence from a Randomized Experiment",
+        "title": "Exporting and Firm Performance: Evidence from a Randomized Experiment",
+        "authors": [
+          "David Atkin",
+          "Amit K. Khandelwal",
+          "Adam Osman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "551–615",
+        "doi": "10.1093/qje/qjx002",
+        "url": "https://doi.org/10.1093/qje/qjx002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10484,6 +10855,24 @@
         "url": "https://doi.org/10.1257/aer.20250305",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Skill Dispersion and Trade Flows",
+        "title": "Skill Dispersion and Trade Flows",
+        "authors": [
+          "Matilde Bombardini",
+          "Giovanni Gallipoli",
+          "Germán Pupato"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2327–2348",
+        "doi": "10.1257/aer.102.5.2327",
+        "url": "https://doi.org/10.1257/aer.102.5.2327",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12076,6 +12465,43 @@
         "pages": "454–486",
         "doi": "10.1093/restud/rdz027",
         "url": "https://doi.org/10.1093/restud/rdz027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Skill Dispersion and Trade Flows",
+        "title": "Skill Dispersion and Trade Flows",
+        "authors": [
+          "Matilde Bombardini",
+          "Giovanni Gallipoli",
+          "Germán Pupato"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2327–2348",
+        "doi": "10.1257/aer.102.5.2327",
+        "url": "https://doi.org/10.1257/aer.102.5.2327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Production in the Global Economy",
+        "title": "Innovation and Production in the Global Economy",
+        "authors": [
+          "Costas Arkolakis",
+          "Natalia Ramondo",
+          "Andrés Rodríguez-Clare",
+          "Stephen Yeaple"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "8",
+        "pages": "2128–2173",
+        "doi": "10.1257/aer.20141743",
+        "url": "https://doi.org/10.1257/aer.20141743",
         "verified": true,
         "note": ""
       }
@@ -25534,6 +25960,23 @@
         "url": "https://doi.org/10.1093/qje/qjy025",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Trade on Organization and Productivity",
+        "title": "The Impact of Trade on Organization and Productivity",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1393–1467",
+        "doi": "10.1093/qje/qjs016",
+        "url": "https://doi.org/10.1093/qje/qjs016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26667,6 +27110,38 @@
         "pages": "2099–2138",
         "doi": "10.1257/aer.20200025",
         "url": "https://doi.org/10.1257/aer.20200025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutional Quality and International Trade",
+        "title": "Institutional Quality and International Trade",
+        "authors": [
+          "Andrei A. Levchenko"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economic Studies",
+        "volume": "74",
+        "issue": "3",
+        "pages": "791–819",
+        "doi": "10.1111/j.1467-937X.2007.00435.x",
+        "url": "https://doi.org/10.1111/j.1467-937X.2007.00435.x",
         "verified": true,
         "note": ""
       }
@@ -29328,6 +29803,56 @@
         "pages": "1885–1914",
         "doi": "10.1257/aer.20191234",
         "url": "https://doi.org/10.1257/aer.20191234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutional Quality and International Trade",
+        "title": "Institutional Quality and International Trade",
+        "authors": [
+          "Andrei A. Levchenko"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economic Studies",
+        "volume": "74",
+        "issue": "3",
+        "pages": "791–819",
+        "doi": "10.1111/j.1467-937X.2007.00435.x",
+        "url": "https://doi.org/10.1111/j.1467-937X.2007.00435.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judicial Quality, Input Customisation, and Trade Margins: The Role of Product Quality",
+        "title": "Judicial Quality, Input Customisation, and Trade Margins: The Role of Product Quality",
+        "authors": [
+          "Xiaomin Cui",
+          "Miaojie Yu",
+          "Rui Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Economic Journal",
+        "volume": "132",
+        "issue": "643",
+        "pages": "926–952",
+        "doi": "10.1093/ej/ueab098",
+        "url": "https://doi.org/10.1093/ej/ueab098",
         "verified": true,
         "note": ""
       }
@@ -37021,6 +37546,42 @@
         "pages": "149–195",
         "doi": "10.1162/qjec.2009.124.1.149",
         "url": "https://doi.org/10.1162/qjec.2009.124.1.149",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Task Trade Between Similar Countries",
+        "title": "Task Trade Between Similar Countries",
+        "authors": [
+          "Gene M. Grossman",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2012,
+        "journal": "Econometrica",
+        "volume": "80",
+        "issue": "2",
+        "pages": "593–629",
+        "doi": "10.3982/ecta8700",
+        "url": "https://doi.org/10.3982/ecta8700",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Production in the Global Economy",
+        "title": "Innovation and Production in the Global Economy",
+        "authors": [
+          "Costas Arkolakis",
+          "Natalia Ramondo",
+          "Andrés Rodríguez-Clare",
+          "Stephen Yeaple"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "8",
+        "pages": "2128–2173",
+        "doi": "10.1257/aer.20141743",
+        "url": "https://doi.org/10.1257/aer.20141743",
         "verified": true,
         "note": ""
       }
@@ -71614,6 +72175,24 @@
         "url": "https://doi.org/10.3982/ECTA14243",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quantifying the Sources of Firm Heterogeneity",
+        "title": "Quantifying the Sources of Firm Heterogeneity",
+        "authors": [
+          "Colin J. Hottman",
+          "Stephen J. Redding",
+          "David E. Weinstein"
+        ],
+        "year": 2016,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "131",
+        "issue": "3",
+        "pages": "1291–1364",
+        "doi": "10.1093/qje/qjw012",
+        "url": "https://doi.org/10.1093/qje/qjw012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -74500,6 +75079,42 @@
         "pages": "3952–3990",
         "doi": "10.1257/aer.20190680",
         "url": "https://doi.org/10.1257/aer.20190680",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Production in the Global Economy",
+        "title": "Innovation and Production in the Global Economy",
+        "authors": [
+          "Costas Arkolakis",
+          "Natalia Ramondo",
+          "Andrés Rodríguez-Clare",
+          "Stephen Yeaple"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "8",
+        "pages": "2128–2173",
+        "doi": "10.1257/aer.20141743",
+        "url": "https://doi.org/10.1257/aer.20141743",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exporting Out of Agriculture: The Impact of WTO Accession on Structural Transformation in China",
+        "title": "Exporting Out of Agriculture: The Impact of WTO Accession on Structural Transformation in China",
+        "authors": [
+          "Bilge Erten",
+          "Jessica Leight"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "2",
+        "pages": "364–380",
+        "doi": "10.1162/rest_a_00852",
+        "url": "https://doi.org/10.1162/rest_a_00852",
         "verified": true,
         "note": ""
       }
@@ -79464,6 +80079,26 @@
         "url": "https://doi.org/10.1093/jeea/jvx003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Roman Transport Network Connectivity and Economic Integration",
+        "title": "Roman Transport Network Connectivity and Economic Integration",
+        "authors": [
+          "Matthias Flückiger",
+          "Erik Hornung",
+          "Mario Larch",
+          "Markus Ludwig",
+          "Allard Mees"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "2",
+        "pages": "774–810",
+        "doi": "10.1093/restud/rdab036",
+        "url": "https://doi.org/10.1093/restud/rdab036",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -81849,6 +82484,60 @@
         "url": "https://doi.org/10.1093/restud/rdy044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Roman Transport Network Connectivity and Economic Integration",
+        "title": "Roman Transport Network Connectivity and Economic Integration",
+        "authors": [
+          "Matthias Flückiger",
+          "Erik Hornung",
+          "Mario Larch",
+          "Markus Ludwig",
+          "Allard Mees"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "2",
+        "pages": "774–810",
+        "doi": "10.1093/restud/rdab036",
+        "url": "https://doi.org/10.1093/restud/rdab036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Geography, Transportation, and Endogenous Trade Costs",
+        "title": "Geography, Transportation, and Endogenous Trade Costs",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "2",
+        "pages": "657–691",
+        "doi": "10.3982/ecta15455",
+        "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Product Differentiation, Multiproduct Firms, and Estimating the Impact of Trade Liberalization on Productivity",
+        "title": "Product Differentiation, Multiproduct Firms, and Estimating the Impact of Trade Liberalization on Productivity",
+        "authors": [
+          "Jan De Loecker"
+        ],
+        "year": 2011,
+        "journal": "Econometrica",
+        "volume": "79",
+        "issue": "5",
+        "pages": "1407–1451",
+        "doi": "10.3982/ecta7617",
+        "url": "https://doi.org/10.3982/ecta7617",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -83273,6 +83962,42 @@
         "url": "https://doi.org/10.1257/aer.20211879",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Roman Transport Network Connectivity and Economic Integration",
+        "title": "Roman Transport Network Connectivity and Economic Integration",
+        "authors": [
+          "Matthias Flückiger",
+          "Erik Hornung",
+          "Mario Larch",
+          "Markus Ludwig",
+          "Allard Mees"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "2",
+        "pages": "774–810",
+        "doi": "10.1093/restud/rdab036",
+        "url": "https://doi.org/10.1093/restud/rdab036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Product Differentiation, Multiproduct Firms, and Estimating the Impact of Trade Liberalization on Productivity",
+        "title": "Product Differentiation, Multiproduct Firms, and Estimating the Impact of Trade Liberalization on Productivity",
+        "authors": [
+          "Jan De Loecker"
+        ],
+        "year": 2011,
+        "journal": "Econometrica",
+        "volume": "79",
+        "issue": "5",
+        "pages": "1407–1451",
+        "doi": "10.3982/ecta7617",
+        "url": "https://doi.org/10.3982/ecta7617",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -83308,6 +84033,25 @@
         "pages": "1–30",
         "doi": "10.1257/pol.20170144",
         "url": "https://doi.org/10.1257/pol.20170144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Venting Out: Exports during a Domestic Slump",
+        "title": "Venting Out: Exports during a Domestic Slump",
+        "authors": [
+          "Miguel Almunia",
+          "Pol Antràs",
+          "David Lopez-Rodriguez",
+          "Eduardo Morales"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "11",
+        "pages": "3611–3662",
+        "doi": "10.1257/aer.20181853",
+        "url": "https://doi.org/10.1257/aer.20181853",
         "verified": true,
         "note": ""
       }
@@ -83685,6 +84429,51 @@
         "pages": "1–67",
         "doi": "10.1257/mac.20200116",
         "url": "https://doi.org/10.1257/mac.20200116",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.13",
+    "title": "西班牙国家统计局市镇人口登记（Padrón）与入境游客统计（FRONTUR）",
+    "links": [
+      {
+        "label": "INE: Tourist Movement on Borders Survey (FRONTUR)",
+        "url": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176996&menu=ultiDatos&idp=1254735576863"
+      },
+      {
+        "label": "INE: Municipal Register (Padrón) results",
+        "url": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736177011&menu=resultados&idp=1254734710990"
+      }
+    ],
+    "summary": "西班牙国家统计局（INE）发布的两类常用区域统计：市镇人口登记（Padrón）年度官方人口数按市镇、性别、年龄和国籍分类；FRONTUR 边境游客流动调查按来源国和目的自治区统计入境国际游客人数和停留时间。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "普查数据"
+    ],
+    "introduction": "Padrón 由各市镇维护的居民登记汇总而成，INE 每年公布 1 月 1 日的官方人口，可细到 8000 多个市镇，并有按国籍和出生国分的外国居民统计，是西班牙移民和地方经济研究的常用人口分母。FRONTUR 通过机场、港口、公路边境的抽样调查与行政记录结合，月度估计外国入境游客，按居住国、目的自治区、住宿类型和交通方式分类，常与 EGATUR 消费调查、酒店入住调查配合使用。",
+    "source": "公开下载（INEbase）。",
+    "references": [
+      {
+        "raw": "Venting Out: Exports during a Domestic Slump",
+        "title": "Venting Out: Exports during a Domestic Slump",
+        "authors": [
+          "Miguel Almunia",
+          "Pol Antràs",
+          "David Lopez-Rodriguez",
+          "Eduardo Morales"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "11",
+        "pages": "3611–3662",
+        "doi": "10.1257/aer.20181853",
+        "url": "https://doi.org/10.1257/aer.20181853",
         "verified": true,
         "note": ""
       }
@@ -89709,6 +90498,23 @@
         "url": "https://doi.org/10.3982/ECTA11150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Liberalization and Firm Productivity: The Case of India",
+        "title": "Trade Liberalization and Firm Productivity: The Case of India",
+        "authors": [
+          "Petia Topalova",
+          "Amit Khandelwal"
+        ],
+        "year": 2011,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "93",
+        "issue": "3",
+        "pages": "995–1009",
+        "doi": "10.1162/rest_a_00095",
+        "url": "https://doi.org/10.1162/rest_a_00095",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -89909,6 +90715,23 @@
         "pages": "67–106",
         "doi": "10.3982/ecta19039",
         "url": "https://doi.org/10.3982/ecta19039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Liberalization and Firm Productivity: The Case of India",
+        "title": "Trade Liberalization and Firm Productivity: The Case of India",
+        "authors": [
+          "Petia Topalova",
+          "Amit Khandelwal"
+        ],
+        "year": 2011,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "93",
+        "issue": "3",
+        "pages": "995–1009",
+        "doi": "10.1162/rest_a_00095",
+        "url": "https://doi.org/10.1162/rest_a_00095",
         "verified": true,
         "note": ""
       }
@@ -93685,6 +94508,22 @@
         "url": "https://doi.org/10.1086/724833",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Liberalization, Exit, and Productivity Improvements: Evidence from Chilean Plants",
+        "title": "Trade Liberalization, Exit, and Productivity Improvements: Evidence from Chilean Plants",
+        "authors": [
+          "Nina Pavcnik"
+        ],
+        "year": 2002,
+        "journal": "The Review of Economic Studies",
+        "volume": "69",
+        "issue": "1",
+        "pages": "245–276",
+        "doi": "10.1111/1467-937x.00205",
+        "url": "https://doi.org/10.1111/1467-937x.00205",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -93789,6 +94628,24 @@
         "pages": "243–275",
         "doi": "10.1086/724833",
         "url": "https://doi.org/10.1086/724833",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade, Quality Upgrading, and Input Linkages: Theory and Evidence from Colombia",
+        "title": "Trade, Quality Upgrading, and Input Linkages: Theory and Evidence from Colombia",
+        "authors": [
+          "Ana Cecília Fieler",
+          "Marcela Eslava",
+          "Daniel Yi Xu"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "1",
+        "pages": "109–146",
+        "doi": "10.1257/aer.20150796",
+        "url": "https://doi.org/10.1257/aer.20150796",
         "verified": true,
         "note": ""
       }
@@ -96819,6 +97676,24 @@
         "pages": "2147–2182",
         "doi": "10.1257/aer.102.5.2147",
         "url": "https://doi.org/10.1257/aer.102.5.2147",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Skill Dispersion and Trade Flows",
+        "title": "Skill Dispersion and Trade Flows",
+        "authors": [
+          "Matilde Bombardini",
+          "Giovanni Gallipoli",
+          "Germán Pupato"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2327–2348",
+        "doi": "10.1257/aer.102.5.2327",
+        "url": "https://doi.org/10.1257/aer.102.5.2327",
         "verified": true,
         "note": ""
       }
@@ -100620,6 +101495,40 @@
         "url": "https://doi.org/10.1016/j.jue.2019.06.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exporting and Firm Performance: Evidence from a Randomized Experiment",
+        "title": "Exporting and Firm Performance: Evidence from a Randomized Experiment",
+        "authors": [
+          "David Atkin",
+          "Amit K. Khandelwal",
+          "Adam Osman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "551–615",
+        "doi": "10.1093/qje/qjx002",
+        "url": "https://doi.org/10.1093/qje/qjx002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Foreign direct investment and technology spillovers: Theory and evidence",
+        "title": "Foreign direct investment and technology spillovers: Theory and evidence",
+        "authors": [
+          "Zhiqiang Liu"
+        ],
+        "year": 2008,
+        "journal": "Journal of Development Economics",
+        "volume": "85",
+        "issue": "1-2",
+        "pages": "176–193",
+        "doi": "10.1016/j.jdeveco.2006.07.001",
+        "url": "https://doi.org/10.1016/j.jdeveco.2006.07.001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -103116,6 +104025,59 @@
         "url": "https://doi.org/10.1257/aeri.20190542",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Information Frictions, Internet, and the Relationship between Distance and Trade",
+        "title": "Information Frictions, Internet, and the Relationship between Distance and Trade",
+        "authors": [
+          "Anders Akerman",
+          "Edwin Leuven",
+          "Magne Mogstad"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "1",
+        "pages": "133–163",
+        "doi": "10.1257/app.20190589",
+        "url": "https://doi.org/10.1257/app.20190589",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Taxing is Corruption on International Investors?",
+        "title": "How Taxing is Corruption on International Investors?",
+        "authors": [
+          "Shang-Jin Wei"
+        ],
+        "year": 2000,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–11",
+        "doi": "10.1162/003465300558533",
+        "url": "https://doi.org/10.1162/003465300558533",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "title": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "authors": [
+          "Albert Park",
+          "Dean Yang",
+          "Xinzheng Shi",
+          "Yuan Jiang"
+        ],
+        "year": 2010,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "92",
+        "issue": "4",
+        "pages": "822–842",
+        "doi": "10.1162/rest_a_00033",
+        "url": "https://doi.org/10.1162/rest_a_00033",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104134,6 +105096,39 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2015.12.001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Trade Cause Growth?",
+        "title": "Does Trade Cause Growth?",
+        "authors": [
+          "Jeffrey A. Frankel",
+          "David Romer"
+        ],
+        "year": 1999,
+        "journal": "American Economic Review",
+        "volume": "89",
+        "issue": "3",
+        "pages": "379–399",
+        "doi": "10.1257/aer.89.3.379",
+        "url": "https://doi.org/10.1257/aer.89.3.379",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104778,6 +105773,59 @@
         "pages": "1632–1662",
         "doi": "10.1257/aer.20131578",
         "url": "https://doi.org/10.1257/aer.20131578",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Production in the Global Economy",
+        "title": "Innovation and Production in the Global Economy",
+        "authors": [
+          "Costas Arkolakis",
+          "Natalia Ramondo",
+          "Andrés Rodríguez-Clare",
+          "Stephen Yeaple"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "8",
+        "pages": "2128–2173",
+        "doi": "10.1257/aer.20141743",
+        "url": "https://doi.org/10.1257/aer.20141743",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exporting and Firm Performance: Evidence from a Randomized Experiment",
+        "title": "Exporting and Firm Performance: Evidence from a Randomized Experiment",
+        "authors": [
+          "David Atkin",
+          "Amit K. Khandelwal",
+          "Adam Osman"
+        ],
+        "year": 2017,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "132",
+        "issue": "2",
+        "pages": "551–615",
+        "doi": "10.1093/qje/qjx002",
+        "url": "https://doi.org/10.1093/qje/qjx002",
         "verified": true,
         "note": ""
       }
@@ -105492,6 +106540,38 @@
         "url": "https://doi.org/10.1257/aer.20221189",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Taxing is Corruption on International Investors?",
+        "title": "How Taxing is Corruption on International Investors?",
+        "authors": [
+          "Shang-Jin Wei"
+        ],
+        "year": 2000,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–11",
+        "doi": "10.1162/003465300558533",
+        "url": "https://doi.org/10.1162/003465300558533",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Liberalization, Exit, and Productivity Improvements: Evidence from Chilean Plants",
+        "title": "Trade Liberalization, Exit, and Productivity Improvements: Evidence from Chilean Plants",
+        "authors": [
+          "Nina Pavcnik"
+        ],
+        "year": 2002,
+        "journal": "The Review of Economic Studies",
+        "volume": "69",
+        "issue": "1",
+        "pages": "245–276",
+        "doi": "10.1111/1467-937x.00205",
+        "url": "https://doi.org/10.1111/1467-937x.00205",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -105922,6 +107002,42 @@
         "url": "https://doi.org/10.1257/aer.104.8.2509",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Innovation and Production in the Global Economy",
+        "title": "Innovation and Production in the Global Economy",
+        "authors": [
+          "Costas Arkolakis",
+          "Natalia Ramondo",
+          "Andrés Rodríguez-Clare",
+          "Stephen Yeaple"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "8",
+        "pages": "2128–2173",
+        "doi": "10.1257/aer.20141743",
+        "url": "https://doi.org/10.1257/aer.20141743",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Trade on Organization and Productivity",
+        "title": "The Impact of Trade on Organization and Productivity",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1393–1467",
+        "doi": "10.1093/qje/qjs016",
+        "url": "https://doi.org/10.1093/qje/qjs016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -106120,6 +107236,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.24149/wp2539",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Global Financial Resource Curse",
+        "title": "The Global Financial Resource Curse",
+        "authors": [
+          "Gianluca Benigno",
+          "Luca Fornaro",
+          "Martin Wolf"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "220–262",
+        "doi": "10.1257/aer.20211792",
+        "url": "https://doi.org/10.1257/aer.20211792",
         "verified": true,
         "note": ""
       }
@@ -106990,6 +108124,26 @@
         "url": "https://doi.org/10.1257/aer.20180174",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Roman Transport Network Connectivity and Economic Integration",
+        "title": "Roman Transport Network Connectivity and Economic Integration",
+        "authors": [
+          "Matthias Flückiger",
+          "Erik Hornung",
+          "Mario Larch",
+          "Markus Ludwig",
+          "Allard Mees"
+        ],
+        "year": 2022,
+        "journal": "The Review of Economic Studies",
+        "volume": "89",
+        "issue": "2",
+        "pages": "774–810",
+        "doi": "10.1093/restud/rdab036",
+        "url": "https://doi.org/10.1093/restud/rdab036",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107838,6 +108992,24 @@
         "pages": "2042–2096",
         "doi": "10.1093/restud/rdx082",
         "url": "https://doi.org/10.1093/restud/rdx082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Global Financial Resource Curse",
+        "title": "The Global Financial Resource Curse",
+        "authors": [
+          "Gianluca Benigno",
+          "Luca Fornaro",
+          "Martin Wolf"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "220–262",
+        "doi": "10.1257/aer.20211792",
+        "url": "https://doi.org/10.1257/aer.20211792",
         "verified": true,
         "note": ""
       }
@@ -114698,6 +115870,24 @@
         "url": "https://doi.org/10.1016/j.jeem.2021.102440",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Geography, Transportation, and Endogenous Trade Costs",
+        "title": "Geography, Transportation, and Endogenous Trade Costs",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "2",
+        "pages": "657–691",
+        "doi": "10.3982/ecta15455",
+        "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -116318,6 +117508,24 @@
         "url": "https://doi.org/10.1257/aer.102.1.131",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Geography, Transportation, and Endogenous Trade Costs",
+        "title": "Geography, Transportation, and Endogenous Trade Costs",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "2",
+        "pages": "657–691",
+        "doi": "10.3982/ecta15455",
+        "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -117142,6 +118350,24 @@
         "url": "https://doi.org/10.3386/w32098",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Geography, Transportation, and Endogenous Trade Costs",
+        "title": "Geography, Transportation, and Endogenous Trade Costs",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "2",
+        "pages": "657–691",
+        "doi": "10.3982/ecta15455",
+        "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -117423,6 +118649,56 @@
         "pages": "1448–1486",
         "doi": "10.1093/restud/rdy044",
         "url": "https://doi.org/10.1093/restud/rdy044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutional Quality and International Trade",
+        "title": "Institutional Quality and International Trade",
+        "authors": [
+          "Andrei A. Levchenko"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economic Studies",
+        "volume": "74",
+        "issue": "3",
+        "pages": "791–819",
+        "doi": "10.1111/j.1467-937X.2007.00435.x",
+        "url": "https://doi.org/10.1111/j.1467-937X.2007.00435.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judicial Quality, Input Customisation, and Trade Margins: The Role of Product Quality",
+        "title": "Judicial Quality, Input Customisation, and Trade Margins: The Role of Product Quality",
+        "authors": [
+          "Xiaomin Cui",
+          "Miaojie Yu",
+          "Rui Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Economic Journal",
+        "volume": "132",
+        "issue": "643",
+        "pages": "926–952",
+        "doi": "10.1093/ej/ueab098",
+        "url": "https://doi.org/10.1093/ej/ueab098",
         "verified": true,
         "note": ""
       }
@@ -118418,6 +119694,22 @@
         "url": "https://doi.org/10.1093/ej/ueaf050",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Taxing is Corruption on International Investors?",
+        "title": "How Taxing is Corruption on International Investors?",
+        "authors": [
+          "Shang-Jin Wei"
+        ],
+        "year": 2000,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–11",
+        "doi": "10.1162/003465300558533",
+        "url": "https://doi.org/10.1162/003465300558533",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -118652,6 +119944,38 @@
         "pages": "347–368",
         "doi": "10.1162/rest.90.2.347",
         "url": "https://doi.org/10.1162/rest.90.2.347",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Taxing is Corruption on International Investors?",
+        "title": "How Taxing is Corruption on International Investors?",
+        "authors": [
+          "Shang-Jin Wei"
+        ],
+        "year": 2000,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–11",
+        "doi": "10.1162/003465300558533",
+        "url": "https://doi.org/10.1162/003465300558533",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutional Quality and International Trade",
+        "title": "Institutional Quality and International Trade",
+        "authors": [
+          "Andrei A. Levchenko"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economic Studies",
+        "volume": "74",
+        "issue": "3",
+        "pages": "791–819",
+        "doi": "10.1111/j.1467-937X.2007.00435.x",
+        "url": "https://doi.org/10.1111/j.1467-937X.2007.00435.x",
         "verified": true,
         "note": ""
       }
@@ -118900,6 +120224,22 @@
         "url": "https://doi.org/10.3982/ECTA11150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -119125,6 +120465,22 @@
         "pages": "209–223",
         "doi": "10.1016/j.jdeveco.2015.12.001",
         "url": "https://doi.org/10.1016/j.jdeveco.2015.12.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
         "verified": true,
         "note": ""
       }
@@ -119808,6 +121164,25 @@
         "url": "https://doi.org/10.1162/rest.88.4.715",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "title": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "authors": [
+          "Albert Park",
+          "Dean Yang",
+          "Xinzheng Shi",
+          "Yuan Jiang"
+        ],
+        "year": 2010,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "92",
+        "issue": "4",
+        "pages": "822–842",
+        "doi": "10.1162/rest_a_00033",
+        "url": "https://doi.org/10.1162/rest_a_00033",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -120000,6 +121375,22 @@
         "pages": "1477–1521",
         "doi": "10.3982/ECTA11150",
         "url": "https://doi.org/10.3982/ECTA11150",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
         "verified": true,
         "note": ""
       }
@@ -122428,6 +123819,44 @@
         "pages": "89–118",
         "doi": "10.1093/rfs/hhad059",
         "url": "https://doi.org/10.1093/rfs/hhad059",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.33",
+    "title": "OECD 国际直接投资统计（Foreign Direct Investment Statistics）",
+    "links": [
+      {
+        "label": "OECD: Foreign direct investment statistics",
+        "url": "https://www.oecd.org/en/topics/sub-issues/foreign-direct-investment-statistics.html"
+      }
+    ],
+    "summary": "OECD 按 BMD4 标准汇编的成员国对外和对内直接投资流量、存量和收益数据，按伙伴国和行业分类，早期以《国际直接投资统计年鉴》出版，现经 OECD Data Explorer 提供。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "贸易数据"
+    ],
+    "introduction": "该数据库收录 OECD 成员国（及部分非成员）的 FDI 头寸、金融流量和投资收益，按直接对手国、最终投资国和行业细分，并区分特殊目的实体（SPE），时间可回溯到 1980 年代。双边 FDI 存量常被用于研究跨国公司选址、税收和制度质量对 FDI 的影响以及 FDI 引力模型。官网对自动访问返回 403。",
+    "source": "公开下载（OECD Data Explorer）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "How Taxing is Corruption on International Investors?",
+        "title": "How Taxing is Corruption on International Investors?",
+        "authors": [
+          "Shang-Jin Wei"
+        ],
+        "year": 2000,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–11",
+        "doi": "10.1162/003465300558533",
+        "url": "https://doi.org/10.1162/003465300558533",
         "verified": true,
         "note": ""
       }
@@ -125216,6 +126645,24 @@
         "url": "https://doi.org/10.3982/ECTA15505",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Geography, Transportation, and Endogenous Trade Costs",
+        "title": "Geography, Transportation, and Endogenous Trade Costs",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "2",
+        "pages": "657–691",
+        "doi": "10.3982/ecta15455",
+        "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126587,6 +128034,111 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2015.10.002",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tracing Value-Added and Double Counting in Gross Exports",
+        "title": "Tracing Value-Added and Double Counting in Gross Exports",
+        "authors": [
+          "Robert Koopman",
+          "Zhi Wang",
+          "Shang-Jin Wei"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "459–494",
+        "doi": "10.1257/aer.104.2.459",
+        "url": "https://doi.org/10.1257/aer.104.2.459",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Geography, Transportation, and Endogenous Trade Costs",
+        "title": "Geography, Transportation, and Endogenous Trade Costs",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "2",
+        "pages": "657–691",
+        "doi": "10.3982/ecta15455",
+        "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judicial Quality, Input Customisation, and Trade Margins: The Role of Product Quality",
+        "title": "Judicial Quality, Input Customisation, and Trade Margins: The Role of Product Quality",
+        "authors": [
+          "Xiaomin Cui",
+          "Miaojie Yu",
+          "Rui Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Economic Journal",
+        "volume": "132",
+        "issue": "643",
+        "pages": "926–952",
+        "doi": "10.1093/ej/ueab098",
+        "url": "https://doi.org/10.1093/ej/ueab098",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Liberalization, Exit, and Productivity Improvements: Evidence from Chilean Plants",
+        "title": "Trade Liberalization, Exit, and Productivity Improvements: Evidence from Chilean Plants",
+        "authors": [
+          "Nina Pavcnik"
+        ],
+        "year": 2002,
+        "journal": "The Review of Economic Studies",
+        "volume": "69",
+        "issue": "1",
+        "pages": "245–276",
+        "doi": "10.1111/1467-937x.00205",
+        "url": "https://doi.org/10.1111/1467-937x.00205",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "title": "Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis",
+        "authors": [
+          "Albert Park",
+          "Dean Yang",
+          "Xinzheng Shi",
+          "Yuan Jiang"
+        ],
+        "year": 2010,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "92",
+        "issue": "4",
+        "pages": "822–842",
+        "doi": "10.1162/rest_a_00033",
+        "url": "https://doi.org/10.1162/rest_a_00033",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126656,6 +128208,24 @@
         "pages": "102504",
         "doi": "10.1016/j.jeem.2021.102504",
         "url": "https://doi.org/10.1016/j.jeem.2021.102504",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tracing Value-Added and Double Counting in Gross Exports",
+        "title": "Tracing Value-Added and Double Counting in Gross Exports",
+        "authors": [
+          "Robert Koopman",
+          "Zhi Wang",
+          "Shang-Jin Wei"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "2",
+        "pages": "459–494",
+        "doi": "10.1257/aer.104.2.459",
+        "url": "https://doi.org/10.1257/aer.104.2.459",
         "verified": true,
         "note": ""
       }
@@ -126865,6 +128435,77 @@
         "pages": "1448–1486",
         "doi": "10.1093/restud/rdy044",
         "url": "https://doi.org/10.1093/restud/rdy044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Production in the Global Economy",
+        "title": "Innovation and Production in the Global Economy",
+        "authors": [
+          "Costas Arkolakis",
+          "Natalia Ramondo",
+          "Andrés Rodríguez-Clare",
+          "Stephen Yeaple"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "8",
+        "pages": "2128–2173",
+        "doi": "10.1257/aer.20141743",
+        "url": "https://doi.org/10.1257/aer.20141743",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Information Frictions, Internet, and the Relationship between Distance and Trade",
+        "title": "Information Frictions, Internet, and the Relationship between Distance and Trade",
+        "authors": [
+          "Anders Akerman",
+          "Edwin Leuven",
+          "Magne Mogstad"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "1",
+        "pages": "133–163",
+        "doi": "10.1257/app.20190589",
+        "url": "https://doi.org/10.1257/app.20190589",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Taxing is Corruption on International Investors?",
+        "title": "How Taxing is Corruption on International Investors?",
+        "authors": [
+          "Shang-Jin Wei"
+        ],
+        "year": 2000,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–11",
+        "doi": "10.1162/003465300558533",
+        "url": "https://doi.org/10.1162/003465300558533",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judicial Quality, Input Customisation, and Trade Margins: The Role of Product Quality",
+        "title": "Judicial Quality, Input Customisation, and Trade Margins: The Role of Product Quality",
+        "authors": [
+          "Xiaomin Cui",
+          "Miaojie Yu",
+          "Rui Zhang"
+        ],
+        "year": 2022,
+        "journal": "The Economic Journal",
+        "volume": "132",
+        "issue": "643",
+        "pages": "926–952",
+        "doi": "10.1093/ej/ueab098",
+        "url": "https://doi.org/10.1093/ej/ueab098",
         "verified": true,
         "note": ""
       }
@@ -127259,6 +128900,74 @@
         "url": "https://doi.org/10.3982/ECTA14044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Skill Dispersion and Trade Flows",
+        "title": "Skill Dispersion and Trade Flows",
+        "authors": [
+          "Matilde Bombardini",
+          "Giovanni Gallipoli",
+          "Germán Pupato"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2327–2348",
+        "doi": "10.1257/aer.102.5.2327",
+        "url": "https://doi.org/10.1257/aer.102.5.2327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "title": "Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "2",
+        "pages": "569–600",
+        "doi": "10.1162/qjec.122.2.569",
+        "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutional Quality and International Trade",
+        "title": "Institutional Quality and International Trade",
+        "authors": [
+          "Andrei A. Levchenko"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economic Studies",
+        "volume": "74",
+        "issue": "3",
+        "pages": "791–819",
+        "doi": "10.1111/j.1467-937X.2007.00435.x",
+        "url": "https://doi.org/10.1111/j.1467-937X.2007.00435.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade, Quality Upgrading, and Input Linkages: Theory and Evidence from Colombia",
+        "title": "Trade, Quality Upgrading, and Input Linkages: Theory and Evidence from Colombia",
+        "authors": [
+          "Ana Cecília Fieler",
+          "Marcela Eslava",
+          "Daniel Yi Xu"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "1",
+        "pages": "109–146",
+        "doi": "10.1257/aer.20150796",
+        "url": "https://doi.org/10.1257/aer.20150796",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -127483,6 +129192,25 @@
         "pages": "753–768",
         "doi": "10.1162/rest_a_00754",
         "url": "https://doi.org/10.1162/rest_a_00754",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation and Production in the Global Economy",
+        "title": "Innovation and Production in the Global Economy",
+        "authors": [
+          "Costas Arkolakis",
+          "Natalia Ramondo",
+          "Andrés Rodríguez-Clare",
+          "Stephen Yeaple"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "8",
+        "pages": "2128–2173",
+        "doi": "10.1257/aer.20141743",
+        "url": "https://doi.org/10.1257/aer.20141743",
         "verified": true,
         "note": ""
       }
@@ -127894,6 +129622,131 @@
         "url": "https://doi.org/10.1257/aer.101.1.304",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Innovation and Production in the Global Economy",
+        "title": "Innovation and Production in the Global Economy",
+        "authors": [
+          "Costas Arkolakis",
+          "Natalia Ramondo",
+          "Andrés Rodríguez-Clare",
+          "Stephen Yeaple"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "8",
+        "pages": "2128–2173",
+        "doi": "10.1257/aer.20141743",
+        "url": "https://doi.org/10.1257/aer.20141743",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Geography, Transportation, and Endogenous Trade Costs",
+        "title": "Geography, Transportation, and Endogenous Trade Costs",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "2",
+        "pages": "657–691",
+        "doi": "10.3982/ecta15455",
+        "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exporting Out of Agriculture: The Impact of WTO Accession on Structural Transformation in China",
+        "title": "Exporting Out of Agriculture: The Impact of WTO Accession on Structural Transformation in China",
+        "authors": [
+          "Bilge Erten",
+          "Jessica Leight"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "2",
+        "pages": "364–380",
+        "doi": "10.1162/rest_a_00852",
+        "url": "https://doi.org/10.1162/rest_a_00852",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "title": "Processing Trade, Tariff Reductions and Firm Productivity: Evidence from Chinese Firms",
+        "authors": [
+          "Miaojie Yu"
+        ],
+        "year": 2015,
+        "journal": "The Economic Journal",
+        "volume": "125",
+        "issue": "585",
+        "pages": "943–988",
+        "doi": "10.1111/ecoj.12127",
+        "url": "https://doi.org/10.1111/ecoj.12127",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "title": "WTO Accession and Performance of Chinese Manufacturing Firms",
+        "authors": [
+          "Loren Brandt",
+          "Johannes Van Biesebroeck",
+          "Luhang Wang",
+          "Yifan Zhang"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "9",
+        "pages": "2784–2820",
+        "doi": "10.1257/aer.20121266",
+        "url": "https://doi.org/10.1257/aer.20121266",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What you import matters for productivity growth: Experience from Chinese manufacturing firms",
+        "title": "What you import matters for productivity growth: Experience from Chinese manufacturing firms",
+        "authors": [
+          "Jiawei Mo",
+          "Larry D. Qiu",
+          "Hongsong Zhang",
+          "Xiaoyu Dong"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "152",
+        "issue": "",
+        "pages": "102677",
+        "doi": "10.1016/j.jdeveco.2021.102677",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102677",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Trade on Organization and Productivity",
+        "title": "The Impact of Trade on Organization and Productivity",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1393–1467",
+        "doi": "10.1093/qje/qjs016",
+        "url": "https://doi.org/10.1093/qje/qjs016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -127930,6 +129783,46 @@
         "pages": "1632–1662",
         "doi": "10.1257/aer.20131578",
         "url": "https://doi.org/10.1257/aer.20131578",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.19",
+    "title": "联合国广义经济类别分类（Broad Economic Categories，BEC）及 HS–BEC 对照表",
+    "links": [
+      {
+        "label": "UNSD: Broad Economic Categories",
+        "url": "https://unstats.un.org/unsd/trade/classifications/bec.asp"
+      }
+    ],
+    "summary": "联合国统计司制定的按最终用途划分国际贸易商品的分类，把商品分为资本品、中间品和消费品，并提供与 HS 和 SITC 的对照表，是识别中间品贸易和加工贸易投入的标准工具。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "BEC 第 4 版（1988）按经济大类和加工程度把 SITC/HS 商品分为 19 个基本类别，可汇总为国民账户的三大最终用途（资本形成、中间消耗、最终消费）；第 5 版（2016）进一步按商品和服务、行业来源和用途重新设计。联合国统计司维护 HS 各版本到 BEC 的对照表，研究者用它把海关数据中的进口区分为中间投入、资本设备和消费品，用于测算全球价值链、投入关税和进口竞争。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "What you import matters for productivity growth: Experience from Chinese manufacturing firms",
+        "title": "What you import matters for productivity growth: Experience from Chinese manufacturing firms",
+        "authors": [
+          "Jiawei Mo",
+          "Larry D. Qiu",
+          "Hongsong Zhang",
+          "Xiaoyu Dong"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "152",
+        "issue": "",
+        "pages": "102677",
+        "doi": "10.1016/j.jdeveco.2021.102677",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102677",
         "verified": true,
         "note": ""
       }
@@ -128630,6 +130523,85 @@
         "pages": "77–109",
         "doi": "10.1257/mac.20180296",
         "url": "https://doi.org/10.1257/mac.20180296",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.13",
+    "title": "国际成人读写能力调查（International Adult Literacy Survey，IALS）",
+    "links": [
+      {
+        "label": "NCES: International Adult Literacy Survey",
+        "url": "https://nces.ed.gov/surveys/ials/"
+      }
+    ],
+    "summary": "OECD 与加拿大统计局在 1994–1998 年组织的首个跨国成人技能测评，在 22 个国家和地区对 16–65 岁成人测试散文、文档和数量三类读写能力，并收集教育、职业和收入背景信息，是 ALL 和 PIAAC 的前身。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据",
+      "微观调查数据"
+    ],
+    "introduction": "IALS 分三轮（1994、1996、1998）实施，各国抽取数千名成人进行入户测评，用项目反应理论把能力换算为 0–500 分和五个水平，同时问卷记录教育程度、工作经历、收入、读写活动和继续培训。各国数据由加拿大统计局与 OECD 汇编，美国部分由 NCES 发布。经济学文献常用 IALS 的国家或行业技能分布衡量人力资本的离散程度和比较优势，或与 PIAAC 结合研究技能回报。",
+    "source": "国家报告与汇总表公开；微观数据经各国统计机构或 NCES 申请。",
+    "references": [
+      {
+        "raw": "Skill Dispersion and Trade Flows",
+        "title": "Skill Dispersion and Trade Flows",
+        "authors": [
+          "Matilde Bombardini",
+          "Giovanni Gallipoli",
+          "Germán Pupato"
+        ],
+        "year": 2012,
+        "journal": "American Economic Review",
+        "volume": "102",
+        "issue": "5",
+        "pages": "2327–2348",
+        "doi": "10.1257/aer.102.5.2327",
+        "url": "https://doi.org/10.1257/aer.102.5.2327",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.14",
+    "title": "EF 英语熟练度指数（EF English Proficiency Index，EF EPI）",
+    "links": [
+      {
+        "label": "EF English Proficiency Index",
+        "url": "https://www.ef.com/wwen/epi/"
+      }
+    ],
+    "summary": "英孚教育（EF）自 2011 年起每年发布的国家和地区成人英语水平排名，基于数百万在线 EF 标准英语测试（EF SET）成绩，覆盖 100 多个国家，部分国家给出地区和城市分值。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "EF EPI 由参加免费在线英语测试的成人成绩汇总而成，按国家给出 0–800 分的指数和五个熟练度等级，并提供按性别、年龄段、地区和城市的分解。样本为自愿参加者，存在自选择问题，但覆盖面广、年度更新，常在国际贸易、外商投资和移民研究中作为语言障碍或英语人力资本的国家层面代理变量。",
+    "source": "公开（年度报告与网页数据）。",
+    "references": [
+      {
+        "raw": "Information Frictions, Internet, and the Relationship between Distance and Trade",
+        "title": "Information Frictions, Internet, and the Relationship between Distance and Trade",
+        "authors": [
+          "Anders Akerman",
+          "Edwin Leuven",
+          "Magne Mogstad"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "14",
+        "issue": "1",
+        "pages": "133–163",
+        "doi": "10.1257/app.20190589",
+        "url": "https://doi.org/10.1257/app.20190589",
         "verified": true,
         "note": ""
       }
