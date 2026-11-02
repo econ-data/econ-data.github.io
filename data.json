@@ -12851,6 +12851,59 @@
         "url": "https://doi.org/10.1162/qjec.121.3.931",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond the Median: Voter Preferences, District Heterogeneity, and Political Representation",
+        "title": "Beyond the Median: Voter Preferences, District Heterogeneity, and Political Representation",
+        "authors": [
+          "Elisabeth R. Gerber",
+          "Jeffrey B. Lewis"
+        ],
+        "year": 2004,
+        "journal": "Journal of Political Economy",
+        "volume": "112",
+        "issue": "6",
+        "pages": "1364–1383",
+        "doi": "10.1086/424737",
+        "url": "https://doi.org/10.1086/424737",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "title": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "authors": [
+          "Laurent Bouton",
+          "Paola Conconi",
+          "Francisco Pino",
+          "Maurizio Zanardi"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "1",
+        "pages": "48–59",
+        "doi": "10.1162/rest_a_00897",
+        "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Candidate Valence",
+        "title": "Estimating Candidate Valence",
+        "authors": [
+          "Kei Kawai",
+          "Takeaki Sunada"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "2",
+        "pages": "463–501",
+        "doi": "10.3982/ECTA20496",
+        "url": "https://doi.org/10.3982/ECTA20496",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13089,6 +13142,22 @@
         "pages": "364–376",
         "doi": "10.1162/003465303765299873",
         "url": "https://doi.org/10.1162/003465303765299873",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida",
+        "title": "How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida",
+        "authors": [
+          "David Strömberg"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "769–807",
+        "doi": "10.1257/aer.98.3.769",
+        "url": "https://doi.org/10.1257/aer.98.3.769",
         "verified": true,
         "note": ""
       }
@@ -13507,6 +13576,40 @@
         "pages": "160–188",
         "doi": "10.1257/app.20140533",
         "url": "https://doi.org/10.1257/app.20140533",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Radio's Impact on Public Spending",
+        "title": "Radio's Impact on Public Spending",
+        "authors": [
+          "David Strömberg"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "1",
+        "pages": "189–221",
+        "doi": "10.1162/003355304772839560",
+        "url": "https://doi.org/10.1162/003355304772839560",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "title": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro",
+          "Michael Sinkinson"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "2980–3018",
+        "doi": "10.1257/aer.101.7.2980",
+        "url": "https://doi.org/10.1257/aer.101.7.2980",
         "verified": true,
         "note": ""
       }
@@ -14877,6 +14980,24 @@
         "url": "https://doi.org/10.1093/qje/qjt034",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "title": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro",
+          "Michael Sinkinson"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "2980–3018",
+        "doi": "10.1257/aer.101.7.2980",
+        "url": "https://doi.org/10.1257/aer.101.7.2980",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15472,6 +15593,40 @@
         "url": "https://doi.org/10.1257/app.5.4.111",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Political Advertising and Election Results",
+        "title": "Political Advertising and Election Results",
+        "authors": [
+          "Jörg L. Spenkuch",
+          "David Toniatti"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "4",
+        "pages": "1981–2036",
+        "doi": "10.1093/qje/qjy010",
+        "url": "https://doi.org/10.1093/qje/qjy010",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Group Rule—Utilitarian Approach to Voter Turnout: Theory and Evidence",
+        "title": "A Group Rule—Utilitarian Approach to Voter Turnout: Theory and Evidence",
+        "authors": [
+          "Stephen Coate",
+          "Michael Conlin"
+        ],
+        "year": 2004,
+        "journal": "American Economic Review",
+        "volume": "94",
+        "issue": "5",
+        "pages": "1476–1504",
+        "doi": "10.1257/0002828043052231",
+        "url": "https://doi.org/10.1257/0002828043052231",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15725,6 +15880,24 @@
         "pages": "111–143",
         "doi": "10.1257/app.5.4.111",
         "url": "https://doi.org/10.1257/app.5.4.111",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "title": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro",
+          "Michael Sinkinson"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "2980–3018",
+        "doi": "10.1257/aer.101.7.2980",
+        "url": "https://doi.org/10.1257/aer.101.7.2980",
         "verified": true,
         "note": ""
       }
@@ -17796,6 +17969,61 @@
         "pages": "2615–2660",
         "doi": "10.1093/qje/qjab019",
         "url": "https://doi.org/10.1093/qje/qjab019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "authors": [
+          "Rafael Di Tella",
+          "Randy Kotti",
+          "Caroline Le Pennec",
+          "Vincent Pons"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2488–2528",
+        "doi": "10.1257/aer.20231045",
+        "url": "https://doi.org/10.1257/aer.20231045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "title": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "authors": [
+          "Laurent Bouton",
+          "Paola Conconi",
+          "Francisco Pino",
+          "Maurizio Zanardi"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "1",
+        "pages": "48–59",
+        "doi": "10.1162/rest_a_00897",
+        "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "title": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "authors": [
+          "Enrico Cantoni",
+          "Vincent Pons"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1226–1272",
+        "doi": "10.1257/aer.20201660",
+        "url": "https://doi.org/10.1257/aer.20201660",
         "verified": true,
         "note": ""
       }
@@ -20159,6 +20387,43 @@
         "pages": "1–53",
         "doi": "10.1257/app.20170572",
         "url": "https://doi.org/10.1257/app.20170572",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "title": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "authors": [
+          "Laurent Bouton",
+          "Paola Conconi",
+          "Francisco Pino",
+          "Maurizio Zanardi"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "1",
+        "pages": "48–59",
+        "doi": "10.1162/rest_a_00897",
+        "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Partisan bias in economic news: Evidence on the agenda-setting behavior of U.S. newspapers",
+        "title": "Partisan bias in economic news: Evidence on the agenda-setting behavior of U.S. newspapers",
+        "authors": [
+          "Valentino Larcinese",
+          "Riccardo Puglisi",
+          "James M. Snyder Jr."
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "9-10",
+        "pages": "1178–1189",
+        "doi": "10.1016/j.jpubeco.2011.04.006",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.04.006",
         "verified": true,
         "note": ""
       }
@@ -24135,6 +24400,22 @@
         "pages": "3139–3183",
         "doi": "10.1257/aer.20170011",
         "url": "https://doi.org/10.1257/aer.20170011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Media Power",
+        "title": "Media Power",
+        "authors": [
+          "Andrea Prat"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "4",
+        "pages": "1747–1783",
+        "doi": "10.1086/698107",
+        "url": "https://doi.org/10.1086/698107",
         "verified": true,
         "note": ""
       }
@@ -30664,6 +30945,24 @@
         "url": "https://doi.org/10.1162/rest.89.3.416",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Did US Politicians Expect the China Shock?",
+        "title": "Did US Politicians Expect the China Shock?",
+        "authors": [
+          "Matilde Bombardini",
+          "Bingjing Li",
+          "Francesco Trebbi"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "174–209",
+        "doi": "10.1257/aer.20210140",
+        "url": "https://doi.org/10.1257/aer.20210140",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31604,6 +31903,24 @@
         "pages": "111–143",
         "doi": "10.1257/app.5.4.111",
         "url": "https://doi.org/10.1257/app.5.4.111",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Did US Politicians Expect the China Shock?",
+        "title": "Did US Politicians Expect the China Shock?",
+        "authors": [
+          "Matilde Bombardini",
+          "Bingjing Li",
+          "Francesco Trebbi"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "174–209",
+        "doi": "10.1257/aer.20210140",
+        "url": "https://doi.org/10.1257/aer.20210140",
         "verified": true,
         "note": ""
       }
@@ -32824,6 +33141,39 @@
         "pages": "111–143",
         "doi": "10.1257/app.5.4.111",
         "url": "https://doi.org/10.1257/app.5.4.111",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida",
+        "title": "How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida",
+        "authors": [
+          "David Strömberg"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "769–807",
+        "doi": "10.1257/aer.98.3.769",
+        "url": "https://doi.org/10.1257/aer.98.3.769",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "title": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "authors": [
+          "Enrico Cantoni",
+          "Vincent Pons"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1226–1272",
+        "doi": "10.1257/aer.20201660",
+        "url": "https://doi.org/10.1257/aer.20201660",
         "verified": true,
         "note": ""
       }
@@ -35714,6 +36064,24 @@
         "url": "https://doi.org/10.1086/728741",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Partisan bias in economic news: Evidence on the agenda-setting behavior of U.S. newspapers",
+        "title": "Partisan bias in economic news: Evidence on the agenda-setting behavior of U.S. newspapers",
+        "authors": [
+          "Valentino Larcinese",
+          "Riccardo Puglisi",
+          "James M. Snyder Jr."
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "9-10",
+        "pages": "1178–1189",
+        "doi": "10.1016/j.jpubeco.2011.04.006",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.04.006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38302,6 +38670,25 @@
         "url": "https://doi.org/10.1257/aer.20250305",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "title": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "authors": [
+          "Laurent Bouton",
+          "Paola Conconi",
+          "Francisco Pino",
+          "Maurizio Zanardi"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "1",
+        "pages": "48–59",
+        "doi": "10.1162/rest_a_00897",
+        "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39218,6 +39605,24 @@
         "pages": "1937–1967",
         "doi": "10.3982/ecta22269",
         "url": "https://doi.org/10.3982/ecta22269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Did US Politicians Expect the China Shock?",
+        "title": "Did US Politicians Expect the China Shock?",
+        "authors": [
+          "Matilde Bombardini",
+          "Bingjing Li",
+          "Francesco Trebbi"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "174–209",
+        "doi": "10.1257/aer.20210140",
+        "url": "https://doi.org/10.1257/aer.20210140",
         "verified": true,
         "note": ""
       }
@@ -40274,6 +40679,24 @@
         "pages": "587–623",
         "doi": "10.1086/261996",
         "url": "https://doi.org/10.1086/261996",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Partisan bias in economic news: Evidence on the agenda-setting behavior of U.S. newspapers",
+        "title": "Partisan bias in economic news: Evidence on the agenda-setting behavior of U.S. newspapers",
+        "authors": [
+          "Valentino Larcinese",
+          "Riccardo Puglisi",
+          "James M. Snyder Jr."
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "9-10",
+        "pages": "1178–1189",
+        "doi": "10.1016/j.jpubeco.2011.04.006",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.04.006",
         "verified": true,
         "note": ""
       }
@@ -42779,6 +43202,42 @@
         "url": "https://doi.org/10.1093/qje/qjy006",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "title": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "authors": [
+          "Laurent Bouton",
+          "Paola Conconi",
+          "Francisco Pino",
+          "Maurizio Zanardi"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "1",
+        "pages": "48–59",
+        "doi": "10.1162/rest_a_00897",
+        "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Group Rule—Utilitarian Approach to Voter Turnout: Theory and Evidence",
+        "title": "A Group Rule—Utilitarian Approach to Voter Turnout: Theory and Evidence",
+        "authors": [
+          "Stephen Coate",
+          "Michael Conlin"
+        ],
+        "year": 2004,
+        "journal": "American Economic Review",
+        "volume": "94",
+        "issue": "5",
+        "pages": "1476–1504",
+        "doi": "10.1257/0002828043052231",
+        "url": "https://doi.org/10.1257/0002828043052231",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -44396,6 +44855,42 @@
         "url": "https://doi.org/10.1257/aer.103.2.897",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Political Economy of the US Mortgage Default Crisis",
+        "title": "The Political Economy of the US Mortgage Default Crisis",
+        "authors": [
+          "Atif Mian",
+          "Amir Sufi",
+          "Francesco Trebbi"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "5",
+        "pages": "1967–1998",
+        "doi": "10.1257/aer.100.5.1967",
+        "url": "https://doi.org/10.1257/aer.100.5.1967",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Did US Politicians Expect the China Shock?",
+        "title": "Did US Politicians Expect the China Shock?",
+        "authors": [
+          "Matilde Bombardini",
+          "Bingjing Li",
+          "Francesco Trebbi"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "174–209",
+        "doi": "10.1257/aer.20210140",
+        "url": "https://doi.org/10.1257/aer.20210140",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -44486,6 +44981,22 @@
         "pages": "103451",
         "doi": "10.1016/j.jue.2022.103451",
         "url": "https://doi.org/10.1016/j.jue.2022.103451",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Moral Values and Voting",
+        "title": "Moral Values and Voting",
+        "authors": [
+          "Benjamin Enke"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "10",
+        "pages": "3679–3729",
+        "doi": "10.1086/708857",
+        "url": "https://doi.org/10.1086/708857",
         "verified": true,
         "note": ""
       }
@@ -44679,6 +45190,46 @@
         "pages": "1577–1647",
         "doi": "10.1093/qje/qjad014",
         "url": "https://doi.org/10.1093/qje/qjad014",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.5.22",
+    "title": "美国国会选区历史数字边界（Lewis 等，UCLA）",
+    "links": [
+      {
+        "label": "UCLA: United States Congressional District Shapefiles",
+        "url": "https://cdmaps.polisci.ucla.edu/"
+      }
+    ],
+    "summary": "Jeffrey Lewis、Brandon DeVine、Lincoln Pitcher 和 Kenneth Martis 制作的美国第 1 至第 114 届国会（1789–2017）众议院选区数字边界 shapefile，基于 Martis《美国国会选区历史地图集》和各州法规数字化，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "政治数据"
+    ],
+    "introduction": "数据为每届国会的选区多边形，并标注全州选区（at-large）等特殊安排，可与选举结果和县级人口数据叠加。研究常用它追踪选区重划、构造选区层面的地理和人口特征，以及与历史普查数据匹配。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "title": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "authors": [
+          "James Feigenbaum",
+          "Maxwell Palmer",
+          "Benjamin Schneer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2381–2457",
+        "doi": "10.1093/qje/qjaf017",
+        "url": "https://doi.org/10.1093/qje/qjaf017",
         "verified": true,
         "note": ""
       }
@@ -45964,6 +46515,23 @@
         "pages": "677–734",
         "doi": "10.1162/qjec.2009.124.2.677",
         "url": "https://doi.org/10.1162/qjec.2009.124.2.677",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Group Rule—Utilitarian Approach to Voter Turnout: Theory and Evidence",
+        "title": "A Group Rule—Utilitarian Approach to Voter Turnout: Theory and Evidence",
+        "authors": [
+          "Stephen Coate",
+          "Michael Conlin"
+        ],
+        "year": 2004,
+        "journal": "American Economic Review",
+        "volume": "94",
+        "issue": "5",
+        "pages": "1476–1504",
+        "doi": "10.1257/0002828043052231",
+        "url": "https://doi.org/10.1257/0002828043052231",
         "verified": true,
         "note": ""
       }
@@ -63583,6 +64151,45 @@
     ]
   },
   {
+    "id": "2.8.51",
+    "title": "美国各州新冠政策数据库（COVID-19 US State Policy Database，CUSP）",
+    "links": [
+      {
+        "label": "COVID-19 US State Policy Database",
+        "url": "https://statepolicies.com"
+      }
+    ],
+    "summary": "波士顿大学公共卫生学院 Raifman 等建立的美国 50 州及华盛顿特区新冠疫情应对政策数据库，记录 2020 年以来的居家令、营业关闭与重开、口罩令、疫苗强制、驱逐暂停、失业保险和收入支持等政策的生效与终止日期，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "政治数据"
+    ],
+    "introduction": "CUSP 由研究团队根据州长行政令和官方公告逐条编码，含 100 多类政策变量，定期更新。研究常用它构造州级防疫政策时间表，分析封锁和口罩令对感染、流动和就业的影响，以及党派对防疫政策的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Policy Diffusion and Polarization across U.S. States",
+        "title": "Policy Diffusion and Polarization across U.S. States",
+        "authors": [
+          "Stefano DellaVigna",
+          "Woojin Kim"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "93",
+        "issue": "3",
+        "pages": "1602–1634",
+        "doi": "10.1093/restud/rdaf070",
+        "url": "https://doi.org/10.1093/restud/rdaf070",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.9.1",
     "title": "商品流调查（Commodity Flow Survey，CFS）",
     "links": [
@@ -65553,6 +66160,42 @@
         "url": "https://doi.org/10.3982/ecta23609",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "authors": [
+          "Rafael Di Tella",
+          "Randy Kotti",
+          "Caroline Le Pennec",
+          "Vincent Pons"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2488–2528",
+        "doi": "10.1257/aer.20231045",
+        "url": "https://doi.org/10.1257/aer.20231045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "title": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "authors": [
+          "Enrico Cantoni",
+          "Vincent Pons"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1226–1272",
+        "doi": "10.1257/aer.20201660",
+        "url": "https://doi.org/10.1257/aer.20201660",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65647,6 +66290,23 @@
         "pages": "1197–1234",
         "doi": "10.1086/719949",
         "url": "https://doi.org/10.1086/719949",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond the Median: Voter Preferences, District Heterogeneity, and Political Representation",
+        "title": "Beyond the Median: Voter Preferences, District Heterogeneity, and Political Representation",
+        "authors": [
+          "Elisabeth R. Gerber",
+          "Jeffrey B. Lewis"
+        ],
+        "year": 2004,
+        "journal": "Journal of Political Economy",
+        "volume": "112",
+        "issue": "6",
+        "pages": "1364–1383",
+        "doi": "10.1086/424737",
+        "url": "https://doi.org/10.1086/424737",
         "verified": true,
         "note": ""
       }
@@ -65772,6 +66432,61 @@
         "pages": "158–180",
         "doi": "10.1016/j.jfineco.2013.10.002",
         "url": "https://doi.org/10.1016/j.jfineco.2013.10.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy of the US Mortgage Default Crisis",
+        "title": "The Political Economy of the US Mortgage Default Crisis",
+        "authors": [
+          "Atif Mian",
+          "Amir Sufi",
+          "Francesco Trebbi"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "5",
+        "pages": "1967–1998",
+        "doi": "10.1257/aer.100.5.1967",
+        "url": "https://doi.org/10.1257/aer.100.5.1967",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "title": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "authors": [
+          "Laurent Bouton",
+          "Paola Conconi",
+          "Francisco Pino",
+          "Maurizio Zanardi"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "1",
+        "pages": "48–59",
+        "doi": "10.1162/rest_a_00897",
+        "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Did US Politicians Expect the China Shock?",
+        "title": "Did US Politicians Expect the China Shock?",
+        "authors": [
+          "Matilde Bombardini",
+          "Bingjing Li",
+          "Francesco Trebbi"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "174–209",
+        "doi": "10.1257/aer.20210140",
+        "url": "https://doi.org/10.1257/aer.20210140",
         "verified": true,
         "note": ""
       }
@@ -66267,6 +66982,25 @@
         "url": "https://doi.org/10.1086/730267",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "title": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "authors": [
+          "Laurent Bouton",
+          "Paola Conconi",
+          "Francisco Pino",
+          "Maurizio Zanardi"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "1",
+        "pages": "48–59",
+        "doi": "10.1162/rest_a_00897",
+        "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66499,6 +67233,152 @@
         "url": "https://doi.org/10.1257/app.20170572",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Voters Affect or Elect Policies? Evidence from the U. S. House",
+        "title": "Do Voters Affect or Elect Policies? Evidence from the U. S. House",
+        "authors": [
+          "David S. Lee",
+          "Enrico Moretti",
+          "Matthew J. Butler"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "807–859",
+        "doi": "10.1162/0033553041502153",
+        "url": "https://doi.org/10.1162/0033553041502153",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy of the US Mortgage Default Crisis",
+        "title": "The Political Economy of the US Mortgage Default Crisis",
+        "authors": [
+          "Atif Mian",
+          "Amir Sufi",
+          "Francesco Trebbi"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "5",
+        "pages": "1967–1998",
+        "doi": "10.1257/aer.100.5.1967",
+        "url": "https://doi.org/10.1257/aer.100.5.1967",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "authors": [
+          "Rafael Di Tella",
+          "Randy Kotti",
+          "Caroline Le Pennec",
+          "Vincent Pons"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2488–2528",
+        "doi": "10.1257/aer.20231045",
+        "url": "https://doi.org/10.1257/aer.20231045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Group Differences in High-Dimensional Choices: Method and Application to Congressional Speech",
+        "title": "Measuring Group Differences in High-Dimensional Choices: Method and Application to Congressional Speech",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro",
+          "Matt Taddy"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "4",
+        "pages": "1307–1340",
+        "doi": "10.3982/ECTA16566",
+        "url": "https://doi.org/10.3982/ECTA16566",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "title": "The Tyranny of the Single-Minded: Guns, Environment, and Abortion",
+        "authors": [
+          "Laurent Bouton",
+          "Paola Conconi",
+          "Francisco Pino",
+          "Maurizio Zanardi"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "1",
+        "pages": "48–59",
+        "doi": "10.1162/rest_a_00897",
+        "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Did US Politicians Expect the China Shock?",
+        "title": "Did US Politicians Expect the China Shock?",
+        "authors": [
+          "Matilde Bombardini",
+          "Bingjing Li",
+          "Francesco Trebbi"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "174–209",
+        "doi": "10.1257/aer.20210140",
+        "url": "https://doi.org/10.1257/aer.20210140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Interactions and Legislative Activity",
+        "title": "Social Interactions and Legislative Activity",
+        "authors": [
+          "Nathan Canen",
+          "Matthew O. Jackson",
+          "Francesco Trebbi"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "3",
+        "pages": "1072–1118",
+        "doi": "10.1093/jeea/jvac051",
+        "url": "https://doi.org/10.1093/jeea/jvac051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "title": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "authors": [
+          "James Feigenbaum",
+          "Maxwell Palmer",
+          "Benjamin Schneer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2381–2457",
+        "doi": "10.1093/qje/qjaf017",
+        "url": "https://doi.org/10.1093/qje/qjaf017",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66628,6 +67508,42 @@
         "pages": "1694–1747",
         "doi": "10.1093/restud/rdab058",
         "url": "https://doi.org/10.1093/restud/rdab058",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "title": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "authors": [
+          "James Feigenbaum",
+          "Maxwell Palmer",
+          "Benjamin Schneer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2381–2457",
+        "doi": "10.1093/qje/qjaf017",
+        "url": "https://doi.org/10.1093/qje/qjaf017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring Group Differences in High-Dimensional Choices: Method and Application to Congressional Speech",
+        "title": "Measuring Group Differences in High-Dimensional Choices: Method and Application to Congressional Speech",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro",
+          "Matt Taddy"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "4",
+        "pages": "1307–1340",
+        "doi": "10.3982/ECTA16566",
+        "url": "https://doi.org/10.3982/ECTA16566",
         "verified": true,
         "note": ""
       }
@@ -66991,6 +67907,23 @@
         "url": "https://doi.org/10.1093/qje/qjab019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Estimating Candidate Valence",
+        "title": "Estimating Candidate Valence",
+        "authors": [
+          "Kei Kawai",
+          "Takeaki Sunada"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "2",
+        "pages": "463–501",
+        "doi": "10.3982/ECTA20496",
+        "url": "https://doi.org/10.3982/ECTA20496",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67240,6 +68173,56 @@
         "pages": "1–53",
         "doi": "10.1257/app.20170572",
         "url": "https://doi.org/10.1257/app.20170572",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Moral Values and Voting",
+        "title": "Moral Values and Voting",
+        "authors": [
+          "Benjamin Enke"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "10",
+        "pages": "3679–3729",
+        "doi": "10.1086/708857",
+        "url": "https://doi.org/10.1086/708857",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "title": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro",
+          "Michael Sinkinson"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "2980–3018",
+        "doi": "10.1257/aer.101.7.2980",
+        "url": "https://doi.org/10.1257/aer.101.7.2980",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida",
+        "title": "How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida",
+        "authors": [
+          "David Strömberg"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "769–807",
+        "doi": "10.1257/aer.98.3.769",
+        "url": "https://doi.org/10.1257/aer.98.3.769",
         "verified": true,
         "note": ""
       }
@@ -68047,6 +69030,24 @@
         "url": "https://doi.org/10.1162/qjec.121.3.931",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "title": "The Effect of Newspaper Entry and Exit on Electoral Politics",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro",
+          "Michael Sinkinson"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "2980–3018",
+        "doi": "10.1257/aer.101.7.2980",
+        "url": "https://doi.org/10.1257/aer.101.7.2980",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68136,6 +69137,23 @@
         "pages": "1712–1751",
         "doi": "10.3368/jhr.58.5.1220-11398r1",
         "url": "https://doi.org/10.3368/jhr.58.5.1220-11398r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "title": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "authors": [
+          "Enrico Cantoni",
+          "Vincent Pons"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1226–1272",
+        "doi": "10.1257/aer.20201660",
+        "url": "https://doi.org/10.1257/aer.20201660",
         "verified": true,
         "note": ""
       }
@@ -68405,6 +69423,23 @@
         "url": "https://doi.org/10.1093/qje/qjab019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Political Advertising and Election Results",
+        "title": "Political Advertising and Election Results",
+        "authors": [
+          "Jörg L. Spenkuch",
+          "David Toniatti"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "4",
+        "pages": "1981–2036",
+        "doi": "10.1093/qje/qjy010",
+        "url": "https://doi.org/10.1093/qje/qjy010",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68458,6 +69493,23 @@
         "pages": "2615–2660",
         "doi": "10.1093/qje/qjab019",
         "url": "https://doi.org/10.1093/qje/qjab019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "title": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "authors": [
+          "Enrico Cantoni",
+          "Vincent Pons"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1226–1272",
+        "doi": "10.1257/aer.20201660",
+        "url": "https://doi.org/10.1257/aer.20201660",
         "verified": true,
         "note": ""
       }
@@ -68537,6 +69589,23 @@
         "url": "https://doi.org/10.1093/qje/qjab019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "title": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "authors": [
+          "Enrico Cantoni",
+          "Vincent Pons"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1226–1272",
+        "doi": "10.1257/aer.20201660",
+        "url": "https://doi.org/10.1257/aer.20201660",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68573,6 +69642,488 @@
         "pages": "111–143",
         "doi": "10.1257/app.5.4.111",
         "url": "https://doi.org/10.1257/app.5.4.111",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Advertising and Election Results",
+        "title": "Political Advertising and Election Results",
+        "authors": [
+          "Jörg L. Spenkuch",
+          "David Toniatti"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "4",
+        "pages": "1981–2036",
+        "doi": "10.1093/qje/qjy010",
+        "url": "https://doi.org/10.1093/qje/qjy010",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Candidate Valence",
+        "title": "Estimating Candidate Valence",
+        "authors": [
+          "Kei Kawai",
+          "Takeaki Sunada"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "2",
+        "pages": "463–501",
+        "doi": "10.3982/ECTA20496",
+        "url": "https://doi.org/10.3982/ECTA20496",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.41",
+    "title": "美国民主行动联盟国会议员投票评分（ADA Voting Records）",
+    "links": [
+      {
+        "label": "Americans for Democratic Action",
+        "url": "https://www.adaction.org/"
+      }
+    ],
+    "summary": "自由派组织“美国民主行动联盟”（Americans for Democratic Action，ADA）自 1947 年起每年发布的国会议员投票记录评分，按议员在约 20 次关键点名投票中与 ADA 立场一致的比例给出 0–100 分，网站公开历年评分报告。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "ADA 评分按参众两院分别计算，是最早也最常用的议员意识形态利益集团评分之一；Groseclose、Levitt 和 Snyder（1999）提供了跨年跨院可比的调整版本。研究常用它衡量议员意识形态，分析选民偏好、党派压力和政策立场的收敛与分化，并与 DW-NOMINATE 互相印证。",
+    "source": "公开（ADA 网站发布年度报告）；调整版评分可从学者网站获取。",
+    "references": [
+      {
+        "raw": "How Do Senators Vote? Disentangling the Role of Voter Preferences, Party Affiliation, and Senator Ideology",
+        "title": "How Do Senators Vote? Disentangling the Role of Voter Preferences, Party Affiliation, and Senator Ideology",
+        "authors": [
+          "Steven D. Levitt"
+        ],
+        "year": 1996,
+        "journal": "American Economic Review",
+        "volume": "86",
+        "issue": "3",
+        "pages": "425–441",
+        "doi": "",
+        "url": "",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Voters Affect or Elect Policies? Evidence from the U. S. House",
+        "title": "Do Voters Affect or Elect Policies? Evidence from the U. S. House",
+        "authors": [
+          "David S. Lee",
+          "Enrico Moretti",
+          "Matthew J. Butler"
+        ],
+        "year": 2004,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "119",
+        "issue": "3",
+        "pages": "807–859",
+        "doi": "10.1162/0033553041502153",
+        "url": "https://doi.org/10.1162/0033553041502153",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida",
+        "title": "How the Electoral College Influences Campaigns and Policy: The Probability of Being Florida",
+        "authors": [
+          "David Strömberg"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "769–807",
+        "doi": "10.1257/aer.98.3.769",
+        "url": "https://doi.org/10.1257/aer.98.3.769",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.42",
+    "title": "美国国会记录文本数据（Gentzkow–Shapiro–Taddy Congressional Record）",
+    "links": [
+      {
+        "label": "Stanford: Congressional Record for the 43rd-114th Congresses",
+        "url": "https://data.stanford.edu/congress_text"
+      }
+    ],
+    "summary": "Gentzkow、Shapiro 和 Taddy 整理、斯坦福大学数据仓库发布的美国国会记录（Congressional Record）全文数据，覆盖第 43 届至第 114 届国会（1873–2017）参众两院的院会发言，按发言人匹配到议员并提供处理后的二元和三元短语计数，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "数据包括每段发言的文本、日期、发言人身份（姓名、党派、州、议院），以及经停用词处理和词干化的短语频数矩阵，分为基于数字化扫描的“bound edition”和 1981 年后的“daily edition”两部分。研究常用它测量党派语言极化、议题关注度和道德修辞，是文本即数据研究的基准语料。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Measuring Group Differences in High-Dimensional Choices: Method and Application to Congressional Speech",
+        "title": "Measuring Group Differences in High-Dimensional Choices: Method and Application to Congressional Speech",
+        "authors": [
+          "Matthew Gentzkow",
+          "Jesse M. Shapiro",
+          "Matt Taddy"
+        ],
+        "year": 2019,
+        "journal": "Econometrica",
+        "volume": "87",
+        "issue": "4",
+        "pages": "1307–1340",
+        "doi": "10.3982/ECTA16566",
+        "url": "https://doi.org/10.3982/ECTA16566",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Moral Values and Voting",
+        "title": "Moral Values and Voting",
+        "authors": [
+          "Benjamin Enke"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "10",
+        "pages": "3679–3729",
+        "doi": "10.1086/708857",
+        "url": "https://doi.org/10.1086/708857",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Did US Politicians Expect the China Shock?",
+        "title": "Did US Politicians Expect the China Shock?",
+        "authors": [
+          "Matilde Bombardini",
+          "Bingjing Li",
+          "Francesco Trebbi"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "174–209",
+        "doi": "10.1257/aer.20210140",
+        "url": "https://doi.org/10.1257/aer.20210140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Interactions and Legislative Activity",
+        "title": "Social Interactions and Legislative Activity",
+        "authors": [
+          "Nathan Canen",
+          "Matthew O. Jackson",
+          "Francesco Trebbi"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "3",
+        "pages": "1072–1118",
+        "doi": "10.1093/jeea/jvac051",
+        "url": "https://doi.org/10.1093/jeea/jvac051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "title": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "authors": [
+          "James Feigenbaum",
+          "Maxwell Palmer",
+          "Benjamin Schneer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2381–2457",
+        "doi": "10.1093/qje/qjaf017",
+        "url": "https://doi.org/10.1093/qje/qjaf017",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.43",
+    "title": "美国总统项目（The American Presidency Project）",
+    "links": [
+      {
+        "label": "The American Presidency Project",
+        "url": "https://www.presidency.ucsb.edu/"
+      }
+    ],
+    "summary": "加州大学圣塔芭芭拉分校 Gerhard Peters 和 John Woolley 主持的美国总统文献在线档案，收录 1789 年以来历任总统的公开讲话、新闻发布会、行政命令、签署声明、国情咨文，以及竞选演讲、政党纲领、辩论记录和选举数据，共十几万份文件，免费在线检索。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "档案按文件类型、总统和日期分类，覆盖总统的公开文件汇编（Public Papers）、候选人竞选文献、两党党纲和总统大选辩论文本，并提供总统支持率、行政命令数量、否决和选举结果等统计表。研究常用它构造总统和候选人话语文本，分析议题设定、民粹修辞和政策承诺。",
+    "source": "公开（在线检索，需自行抓取）。",
+    "references": [
+      {
+        "raw": "Moral Values and Voting",
+        "title": "Moral Values and Voting",
+        "authors": [
+          "Benjamin Enke"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "10",
+        "pages": "3679–3729",
+        "doi": "10.1086/708857",
+        "url": "https://doi.org/10.1086/708857",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.44",
+    "title": "全国安嫩伯格选举调查（National Annenberg Election Survey，NAES）",
+    "links": [
+      {
+        "label": "Annenberg Public Policy Center: NAES",
+        "url": "https://www.annenbergpublicpolicycenter.org/political-communication/naes/"
+      }
+    ],
+    "summary": "宾夕法尼亚大学安嫩伯格公共政策中心在 2000、2004 和 2008 年总统选举周期实施的大样本滚动截面调查，每个周期访问数万至十余万名选民，按日记录候选人评价、议题立场、媒体接触和竞选广告暴露，经中心申请获取。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据",
+      "微观调查数据"
+    ],
+    "introduction": "NAES 采用滚动截面设计，每天随机抽取新样本，可追踪竞选事件（辩论、广告、新闻）前后的舆论变化，并含选前选后追踪面板和州层面子样本。研究常用它分析竞选广告、报纸背书和媒体报道对选民态度与投票意向的影响。",
+    "source": "需申请（安嫩伯格公共政策中心）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Media Bias and Influence: Evidence from Newspaper Endorsements",
+        "title": "Media Bias and Influence: Evidence from Newspaper Endorsements",
+        "authors": [
+          "Chun-Fang Chiang",
+          "Brian Knight"
+        ],
+        "year": 2011,
+        "journal": "The Review of Economic Studies",
+        "volume": "78",
+        "issue": "3",
+        "pages": "795–820",
+        "doi": "10.1093/restud/rdq037",
+        "url": "https://doi.org/10.1093/restud/rdq037",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.45",
+    "title": "《各州概览》（The Book of the States）",
+    "links": [
+      {
+        "label": "The Book of the States",
+        "url": "https://bookofthestates.org"
+      }
+    ],
+    "summary": "美国州政府理事会（Council of State Governments）自 1935 年起出版的年度参考书，汇总 50 州的宪法、行政、立法、司法、选举、财政和政策制度，包括州长任期和任期限制、立法机构规模与会期、预算程序和税制等，部分表格在线公开。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "各章表格按州列出制度安排，如州长否决权、直选官员、选举日程、立法者薪酬和任期限制、预算平衡要求、公务员制度和公投制度，并逐年更新。研究常用它构造州级制度变量，分析任期限制、预算规则和选举制度对财政政策和政治行为的影响。",
+    "source": "公开（部分在线）；完整版需购买或图书馆获取。",
+    "references": [
+      {
+        "raw": "Estimating Dynamic Games of Electoral Competition to Evaluate Term Limits in US Gubernatorial Elections",
+        "title": "Estimating Dynamic Games of Electoral Competition to Evaluate Term Limits in US Gubernatorial Elections",
+        "authors": [
+          "Holger Sieg",
+          "Chamna Yoon"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "7",
+        "pages": "1824–1857",
+        "doi": "10.1257/aer.20150566",
+        "url": "https://doi.org/10.1257/aer.20150566",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.46",
+    "title": "全国州议会联合会选举法与政策数据（NCSL）",
+    "links": [
+      {
+        "label": "NCSL",
+        "url": "https://www.ncsl.org/"
+      }
+    ],
+    "summary": "全国州议会联合会（National Conference of State Legislatures，NCSL）汇总的各州选举法律和政策资料，包括选民身份证件要求、当日登记、提前投票、邮寄投票、自动登记、重罪犯投票权和选区重划规则，以及各州立法机构和政策数据库，公开浏览。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "NCSL 的选举法页面按州列出法律类型和生效时间，并提供历史变化；同时维护各州立法、预算和政策主题的数据库。研究常用它构造州级选举法改革时间，分析投票便利化和限制措施对投票率与选民构成的影响。",
+    "source": "公开（网页）。",
+    "references": [
+      {
+        "raw": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "title": "Does Context Outweigh Individual Characteristics in Driving Voting Behavior? Evidence from Relocations within the United States",
+        "authors": [
+          "Enrico Cantoni",
+          "Vincent Pons"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1226–1272",
+        "doi": "10.1257/aer.20201660",
+        "url": "https://doi.org/10.1257/aer.20201660",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.47",
+    "title": "美国国会委员会任职数据（Stewart & Woon）",
+    "links": [
+      {
+        "label": "Charles Stewart III: Congressional data page",
+        "url": "https://web.mit.edu/17.251/www/data_page.html"
+      }
+    ],
+    "summary": "MIT 的 Charles Stewart III 和 Jonathan Woon 维护的美国国会参众两院常设委员会成员名单数据，覆盖第 80 届国会（1947 年）以来每名议员的委员会任职、资历排名和主席职务，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "数据以议员—委员会—届次为单位，记录首次任命、转任和离任，配合 Groseclose 和 Stewart 的委员会价值估计使用。研究常用它衡量议员的委员会权力，分析委员会成员身份对联邦资金分配、立法有效性和竞选筹款的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Social Interactions and Legislative Activity",
+        "title": "Social Interactions and Legislative Activity",
+        "authors": [
+          "Nathan Canen",
+          "Matthew O. Jackson",
+          "Francesco Trebbi"
+        ],
+        "year": 2022,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "3",
+        "pages": "1072–1118",
+        "doi": "10.1093/jeea/jvac051",
+        "url": "https://doi.org/10.1093/jeea/jvac051",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.48",
+    "title": "州政策创新与扩散数据库（State Policy Innovation and Diffusion，SPID）",
+    "links": [
+      {
+        "label": "Harvard Dataverse: SPID",
+        "url": "https://dataverse.harvard.edu/dataverse/spid"
+      }
+    ],
+    "summary": "Boehmke、Brockway、Desmarais 等构建的美国州级政策采纳数据库，记录 700 多项政策在 50 州的采纳年份，覆盖 1691 年以来的各类立法（如福利、刑事司法、教育、卫生、环境），经 Harvard Dataverse 公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "SPID 汇总以往政策扩散研究中的采纳数据，每项政策标注议题类别和来源，可构造州×政策×年份的采纳面板，并推断州间政策扩散网络。研究常用它分析政策扩散的地理和意识形态路径、政策创新者和效仿者。",
+    "source": "公开下载（Harvard Dataverse）。",
+    "references": [
+      {
+        "raw": "Policy Diffusion and Polarization across U.S. States",
+        "title": "Policy Diffusion and Polarization across U.S. States",
+        "authors": [
+          "Stefano DellaVigna",
+          "Woojin Kim"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "93",
+        "issue": "3",
+        "pages": "1602–1634",
+        "doi": "10.1093/restud/rdaf070",
+        "url": "https://doi.org/10.1093/restud/rdaf070",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.49",
+    "title": "州政策相关因素项目（Correlates of State Policy Project，CSPP）",
+    "links": [
+      {
+        "label": "IPPSR: Correlates of State Policy",
+        "url": "https://ippsr.msu.edu/public-policy/correlates-state-policy"
+      }
+    ],
+    "summary": "密歇根州立大学公共政策与社会研究所（IPPSR）的 Grossmann、Jordan 和 McCrain 汇编的美国州级面板数据集，整合 1900 年以来 50 州约 3000 个变量，涵盖政策结果、政治制度、党派控制、民意意识形态、人口与经济特征，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据",
+      "区域经济数据"
+    ],
+    "introduction": "CSPP 把散落在各研究中的州级数据（如 Berry 意识形态、立法职业化、州政策自由度、税率、福利水平）整理为统一的州—年份面板，并附变量代码簿和原始来源。研究常用它作为州层面控制变量和政策结果的来源，分析党派控制与政策变化。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Policy Diffusion and Polarization across U.S. States",
+        "title": "Policy Diffusion and Polarization across U.S. States",
+        "authors": [
+          "Stefano DellaVigna",
+          "Woojin Kim"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "93",
+        "issue": "3",
+        "pages": "1602–1634",
+        "doi": "10.1093/restud/rdaf070",
+        "url": "https://doi.org/10.1093/restud/rdaf070",
         "verified": true,
         "note": ""
       }
@@ -69174,6 +70725,23 @@
         "pages": "135–166",
         "doi": "10.1257/pol.20190409",
         "url": "https://doi.org/10.1257/pol.20190409",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Advertising and Election Results",
+        "title": "Political Advertising and Election Results",
+        "authors": [
+          "Jörg L. Spenkuch",
+          "David Toniatti"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "4",
+        "pages": "1981–2036",
+        "doi": "10.1093/qje/qjy010",
+        "url": "https://doi.org/10.1093/qje/qjy010",
         "verified": true,
         "note": ""
       }
@@ -77462,6 +79030,24 @@
         "pages": "627–673",
         "doi": "10.1257/aer.20230432",
         "url": "https://doi.org/10.1257/aer.20230432",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy of the US Mortgage Default Crisis",
+        "title": "The Political Economy of the US Mortgage Default Crisis",
+        "authors": [
+          "Atif Mian",
+          "Amir Sufi",
+          "Francesco Trebbi"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "5",
+        "pages": "1967–1998",
+        "doi": "10.1257/aer.100.5.1967",
+        "url": "https://doi.org/10.1257/aer.100.5.1967",
         "verified": true,
         "note": ""
       }
@@ -86913,6 +88499,62 @@
     ]
   },
   {
+    "id": "3.1.9",
+    "title": "法国人口普查市镇汇总数据（INSEE Recensement de la population）",
+    "links": [
+      {
+        "label": "INSEE: Recensement de la population",
+        "url": "https://www.insee.fr/fr/information/2008354"
+      }
+    ],
+    "summary": "法国国家统计与经济研究所（INSEE）发布的人口普查市镇及 IRIS 层面汇总表，自 2004 年起采用滚动普查，每年发布人口、年龄、家庭、职业、教育、就业、通勤和住房等主题统计，公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "滚动普查对小市镇每五年普查一次、对大市镇每年抽样 8%，汇总数据按市镇、IRIS（约 2000 人的统计小区）、省和就业区提供，并有 1968 年以来历次普查的可比序列。研究常用它构造法国市镇层面的社会经济控制变量和人口变化。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "authors": [
+          "Rafael Di Tella",
+          "Randy Kotti",
+          "Caroline Le Pennec",
+          "Vincent Pons"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2488–2528",
+        "doi": "10.1257/aer.20231045",
+        "url": "https://doi.org/10.1257/aer.20231045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "title": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "authors": [
+          "Camille Urvoy"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "183–219",
+        "doi": "10.1257/aer.20230056",
+        "url": "https://doi.org/10.1257/aer.20230056",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.2.1",
     "title": "西班牙家庭预算调查（Encuesta de Presupuestos Familiares）",
     "links": [
@@ -87533,6 +89175,22 @@
         "pages": "237–271",
         "doi": "10.1257/app.20190703",
         "url": "https://doi.org/10.1257/app.20190703",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "title": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "authors": [
+          "Camille Urvoy"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "183–219",
+        "doi": "10.1257/aer.20230056",
+        "url": "https://doi.org/10.1257/aer.20230056",
         "verified": true,
         "note": ""
       }
@@ -91186,6 +92844,43 @@
         "pages": "4328–4368",
         "doi": "10.1257/aer.20220948",
         "url": "https://doi.org/10.1257/aer.20220948",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.11",
+    "title": "法国企业与机构名录（SIRENE）",
+    "links": [
+      {
+        "label": "INSEE: Base Sirene",
+        "url": "https://www.insee.fr/fr/information/3591226"
+      }
+    ],
+    "summary": "法国国家统计与经济研究所（INSEE）管理的全国企业与机构登记库，记录所有法人单位（SIREN）及其机构（SIRET）的名称、地址、法律形式、主营活动代码（APE/NAF）、员工规模、创立和注销日期，自 2017 年起作为开放数据每日更新、免费下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "SIRENE 覆盖企业、协会、公共机构和个体经营者约 3000 万个机构，含历史变更记录，可按市镇定位，是构造法国企业进入退出、地方产业结构和非营利组织分布的基础数据。研究常用它与 FARE、DADS 等行政数据通过 SIREN 号匹配。",
+    "source": "公开下载（开放数据）。",
+    "references": [
+      {
+        "raw": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "title": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "authors": [
+          "Camille Urvoy"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "183–219",
+        "doi": "10.1257/aer.20230056",
+        "url": "https://doi.org/10.1257/aer.20230056",
         "verified": true,
         "note": ""
       }
@@ -96180,6 +97875,141 @@
     ]
   },
   {
+    "id": "3.10.13",
+    "title": "法国内政部选举结果开放数据",
+    "links": [
+      {
+        "label": "data.gouv.fr: Données des élections",
+        "url": "https://www.data.gouv.fr/fr/pages/donnees-des-elections/"
+      }
+    ],
+    "summary": "法国内政部发布、经 data.gouv.fr 开放的历次总统、议会、欧洲议会、大区、省议会和市镇选举官方结果，提供到市镇和投票站层面的登记选民、投票、空白票和各候选人或名单得票，公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "数据按选举和轮次组织，近年选举提供投票站级结果和候选人信息（性别、党派标签、在任状态），较早选举（1990 年代以来）有市镇级汇总。研究常用它构造法国市镇和选区选举面板，分析在任优势、极右翼得票、竞选支出和地方政治。",
+    "source": "公开下载（data.gouv.fr）。",
+    "references": [
+      {
+        "raw": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "authors": [
+          "Rafael Di Tella",
+          "Randy Kotti",
+          "Caroline Le Pennec",
+          "Vincent Pons"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2488–2528",
+        "doi": "10.1257/aer.20231045",
+        "url": "https://doi.org/10.1257/aer.20231045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "title": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "authors": [
+          "Camille Urvoy"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "183–219",
+        "doi": "10.1257/aer.20230056",
+        "url": "https://doi.org/10.1257/aer.20230056",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.10.14",
+    "title": "法国选举竞选宣言档案（Archelec）",
+    "links": [
+      {
+        "label": "Archelec",
+        "url": "https://archelec.sciencespo.fr/"
+      }
+    ],
+    "summary": "巴黎政治大学 CEVIPOF 和图书馆建设的法国选举竞选文献在线档案，数字化 1958 年以来议会（及部分总统、欧洲议会）选举候选人的竞选宣言（professions de foi）和选票，可按选举、选区、候选人和党派检索，附候选人元数据，公开浏览。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "Archelec 收录数万份竞选宣言扫描件及 OCR 文本，记录候选人性别、年龄、职业和政党支持。研究常用它分析候选人竞选话语、议题强调和政党定位的长期变化。",
+    "source": "公开（在线浏览）。",
+    "references": [
+      {
+        "raw": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "authors": [
+          "Rafael Di Tella",
+          "Randy Kotti",
+          "Caroline Le Pennec",
+          "Vincent Pons"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2488–2528",
+        "doi": "10.1257/aer.20231045",
+        "url": "https://doi.org/10.1257/aer.20231045",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.10.15",
+    "title": "魏玛共和国县市选举与社会数据（Falter & Hänisch 1920–1933）",
+    "links": [
+      {
+        "label": "GESIS: ZA8013 Wahl- und Sozialdaten der Kreise und Gemeinden",
+        "url": "https://search.gesis.org/research_data/ZA8013"
+      }
+    ],
+    "summary": "Jürgen Falter 和 Dirk Hänisch 编制、GESIS 数据档案馆发布的德意志帝国 1920–1933 年县和市镇层面选举结果与社会结构数据（ZA8013），包括历次帝国议会选举和总统选举各党派得票，以及普查中的人口、宗教、职业和失业等变量，免费注册下载。官网对自动访问返回 403。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据",
+      "区域经济数据"
+    ],
+    "introduction": "数据覆盖约 1000 个县级单位，可按纳粹党（NSDAP）、共产党、社会民主党、中央党等得票构造面板，并与 1925、1933 年普查的天主教人口比例、工人比例、农业就业和失业率匹配。研究常用它分析纳粹崛起的经济和社会根源、宣传和社会网络的作用。",
+    "source": "需注册（GESIS，学术用途免费）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Highway to Hitler",
+        "title": "Highway to Hitler",
+        "authors": [
+          "Nico Voigtländer",
+          "Hans-Joachim Voth"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "18",
+        "issue": "1",
+        "pages": "120–159",
+        "doi": "10.1257/app.20180816",
+        "url": "https://doi.org/10.1257/app.20180816",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.11.1",
     "title": "法国住房调查（Insee Enquête Logement）",
     "links": [
@@ -96610,6 +98440,44 @@
         "pages": "92–126",
         "doi": "10.1257/pol.20220356",
         "url": "https://doi.org/10.1257/pol.20220356",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.13.5",
+    "title": "法国全国协会名录（Répertoire National des Associations，RNA）",
+    "links": [
+      {
+        "label": "data.gouv.fr: Répertoire National des Associations",
+        "url": "https://www.data.gouv.fr/fr/datasets/repertoire-national-des-associations/"
+      }
+    ],
+    "summary": "法国内政部管理的全国协会登记库（RNA，原 WALDEC 系统），记录 1901 年法律下申报成立的协会的名称、宗旨、地址、成立和解散日期及变更申报，经 data.gouv.fr 开放下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "商业数据",
+      "政治数据"
+    ],
+    "introduction": "RNA 包含约 200 万家协会，可按市镇和宗旨分类，配合 SIRENE 中的协会雇主信息使用。研究常用它衡量法国地方公民社会和社会资本、政府对协会的资助和政治赞助关系。",
+    "source": "公开下载（data.gouv.fr）。",
+    "references": [
+      {
+        "raw": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "title": "Organized Voters: Elections and Public Funding of Nonprofits",
+        "authors": [
+          "Camille Urvoy"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "1",
+        "pages": "183–219",
+        "doi": "10.1257/aer.20230056",
+        "url": "https://doi.org/10.1257/aer.20230056",
         "verified": true,
         "note": ""
       }
@@ -97581,6 +99449,24 @@
         "url": "https://doi.org/10.1162/003355302320935061",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "title": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "authors": [
+          "Gergely Ujhelyi",
+          "Somdeep Chatterjee",
+          "Andrea Szabó"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "3",
+        "pages": "1936–1979",
+        "doi": "10.1093/jeea/jvaa047",
+        "url": "https://doi.org/10.1093/jeea/jvaa047",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -98441,6 +100327,24 @@
         "pages": "259–298",
         "doi": "10.1016/0047-2727(84)90057-4",
         "url": "https://doi.org/10.1016/0047-2727(84)90057-4",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "title": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "authors": [
+          "Gergely Ujhelyi",
+          "Somdeep Chatterjee",
+          "Andrea Szabó"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "3",
+        "pages": "1936–1979",
+        "doi": "10.1093/jeea/jvaa047",
+        "url": "https://doi.org/10.1093/jeea/jvaa047",
         "verified": true,
         "note": ""
       }
@@ -101474,6 +103378,24 @@
         "url": "https://doi.org/10.1086/713733",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "title": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "authors": [
+          "Gergely Ujhelyi",
+          "Somdeep Chatterjee",
+          "Andrea Szabó"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "3",
+        "pages": "1936–1979",
+        "doi": "10.1093/jeea/jvaa047",
+        "url": "https://doi.org/10.1093/jeea/jvaa047",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -102438,6 +104360,84 @@
     ]
   },
   {
+    "id": "4.10.2",
+    "title": "印度选举委员会选举统计报告（Election Commission of India）",
+    "links": [
+      {
+        "label": "Election Commission of India",
+        "url": "https://www.eci.gov.in/"
+      }
+    ],
+    "summary": "印度选举委员会发布的人民院（Lok Sabha）和各邦立法议会选举官方统计报告，提供选区层面的候选人姓名、党派、性别、类别和得票，以及登记选民、投票率和选区保留类型，1951 年以来历次选举公开。官网对自动访问返回 406。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "统计报告按选举整理为选区—候选人记录，可构造候选人面板和党派得票序列。研究常用它（常配合 TCPD 等整理版本）分析印度的在任优势、执政党红利、犯罪候选人当选和配额制的影响，以及进行选区层面的断点回归。",
+    "source": "公开下载；官网对自动访问返回 406。",
+    "references": [
+      {
+        "raw": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "title": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "authors": [
+          "Gergely Ujhelyi",
+          "Somdeep Chatterjee",
+          "Andrea Szabó"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "3",
+        "pages": "1936–1979",
+        "doi": "10.1093/jeea/jvaa047",
+        "url": "https://doi.org/10.1093/jeea/jvaa047",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.10.3",
+    "title": "MyNeta 印度候选人宣誓书数据（民主改革协会 ADR）",
+    "links": [
+      {
+        "label": "MyNeta",
+        "url": "https://www.myneta.info"
+      }
+    ],
+    "summary": "印度非政府组织民主改革协会（ADR）及全国选举观察（NEW）自 2003 年起整理的候选人宣誓书数据库，依据最高法院要求候选人申报的资产、负债、教育和刑事案件信息，覆盖人民院和各邦议会选举的全部候选人，经 MyNeta 网站公开查询。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "每名候选人记录申报的动产与不动产、负债、学历、年龄和未决刑事案件（区分严重犯罪），可匹配选举结果。研究常用它分析犯罪背景和富裕候选人的当选、政治人物在任期间的资产增长，以及政治选拔对地方发展的影响。",
+    "source": "公开（网站查询）。",
+    "references": [
+      {
+        "raw": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "title": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "authors": [
+          "Gergely Ujhelyi",
+          "Somdeep Chatterjee",
+          "Andrea Szabó"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "3",
+        "pages": "1936–1979",
+        "doi": "10.1093/jeea/jvaa047",
+        "url": "https://doi.org/10.1093/jeea/jvaa047",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.12.1",
     "title": "日经 NEEDS 企业财务数据（Nikkei NEEDS-Financial QUEST）",
     "links": [
@@ -102615,6 +104615,24 @@
         "pages": "173–189",
         "doi": "10.1016/j.jdeveco.2017.10.001",
         "url": "https://doi.org/10.1016/j.jdeveco.2017.10.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "title": "None of the Above: Protest Voting in the World's Largest Democracy",
+        "authors": [
+          "Gergely Ujhelyi",
+          "Somdeep Chatterjee",
+          "Andrea Szabó"
+        ],
+        "year": 2021,
+        "journal": "Journal of the European Economic Association",
+        "volume": "19",
+        "issue": "3",
+        "pages": "1936–1979",
+        "doi": "10.1093/jeea/jvaa047",
+        "url": "https://doi.org/10.1093/jeea/jvaa047",
         "verified": true,
         "note": ""
       }
@@ -108580,6 +110598,24 @@
         "url": "https://doi.org/10.1257/aer.20131031",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Voter Mobilisation and Trust in Electoral Institutions: Evidence from Kenya",
+        "title": "Voter Mobilisation and Trust in Electoral Institutions: Evidence from Kenya",
+        "authors": [
+          "Benjamin Marx",
+          "Vincent Pons",
+          "Tavneet Suri"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "638",
+        "pages": "2585–2612",
+        "doi": "10.1093/ej/ueab027",
+        "url": "https://doi.org/10.1093/ej/ueab027",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -111924,6 +113960,24 @@
         "pages": "3139–3183",
         "doi": "10.1257/aer.20170011",
         "url": "https://doi.org/10.1257/aer.20170011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "title": "\"Descended from Immigrants and Revolutionists\": How Family History Shapes Immigration Policy Making",
+        "authors": [
+          "James Feigenbaum",
+          "Maxwell Palmer",
+          "Benjamin Schneer"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2381–2457",
+        "doi": "10.1093/qje/qjaf017",
+        "url": "https://doi.org/10.1093/qje/qjaf017",
         "verified": true,
         "note": ""
       }
@@ -136740,6 +138794,24 @@
         "url": "https://doi.org/10.1257/aer.20220528",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Voter Mobilisation and Trust in Electoral Institutions: Evidence from Kenya",
+        "title": "Voter Mobilisation and Trust in Electoral Institutions: Evidence from Kenya",
+        "authors": [
+          "Benjamin Marx",
+          "Vincent Pons",
+          "Tavneet Suri"
+        ],
+        "year": 2021,
+        "journal": "The Economic Journal",
+        "volume": "131",
+        "issue": "638",
+        "pages": "2585–2612",
+        "doi": "10.1093/ej/ueab027",
+        "url": "https://doi.org/10.1093/ej/ueab027",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -138193,6 +140265,25 @@
         "url": "https://doi.org/10.1093/restud/rdab058",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "authors": [
+          "Rafael Di Tella",
+          "Randy Kotti",
+          "Caroline Le Pennec",
+          "Vincent Pons"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2488–2528",
+        "doi": "10.1257/aer.20231045",
+        "url": "https://doi.org/10.1257/aer.20231045",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -138372,6 +140463,25 @@
         "pages": "1–48",
         "doi": "10.1093/qje/qjab036",
         "url": "https://doi.org/10.1093/qje/qjab036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "title": "Keep Your Enemies Closer: Strategic Platform Adjustments during US and French Elections",
+        "authors": [
+          "Rafael Di Tella",
+          "Randy Kotti",
+          "Caroline Le Pennec",
+          "Vincent Pons"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "8",
+        "pages": "2488–2528",
+        "doi": "10.1257/aer.20231045",
+        "url": "https://doi.org/10.1257/aer.20231045",
         "verified": true,
         "note": ""
       }
@@ -144385,6 +146495,23 @@
         "url": "https://doi.org/10.1111/j.1540-6261.2006.01000.x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Political Advertising and Election Results",
+        "title": "Political Advertising and Election Results",
+        "authors": [
+          "Jörg L. Spenkuch",
+          "David Toniatti"
+        ],
+        "year": 2018,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "133",
+        "issue": "4",
+        "pages": "1981–2036",
+        "doi": "10.1093/qje/qjy010",
+        "url": "https://doi.org/10.1093/qje/qjy010",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -148394,6 +150521,24 @@
         "pages": "3139–3183",
         "doi": "10.1257/aer.20170011",
         "url": "https://doi.org/10.1257/aer.20170011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Did US Politicians Expect the China Shock?",
+        "title": "Did US Politicians Expect the China Shock?",
+        "authors": [
+          "Matilde Bombardini",
+          "Bingjing Li",
+          "Francesco Trebbi"
+        ],
+        "year": 2023,
+        "journal": "American Economic Review",
+        "volume": "113",
+        "issue": "1",
+        "pages": "174–209",
+        "doi": "10.1257/aer.20210140",
+        "url": "https://doi.org/10.1257/aer.20210140",
         "verified": true,
         "note": ""
       }
