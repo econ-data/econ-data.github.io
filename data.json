@@ -13161,6 +13161,63 @@
         "url": "https://doi.org/10.1162/003355399556269",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Aggregate Effects of Health Insurance: Evidence from the Introduction of Medicare",
+        "title": "The Aggregate Effects of Health Insurance: Evidence from the Introduction of Medicare",
+        "authors": [
+          "Amy Finkelstein"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "1–37",
+        "doi": "10.1162/qjec.122.1.1",
+        "url": "https://doi.org/10.1162/qjec.122.1.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What did Medicare do? The initial impact of Medicare on mortality and out of pocket medical spending",
+        "title": "What did Medicare do? The initial impact of Medicare on mortality and out of pocket medical spending",
+        "authors": [
+          "Amy Finkelstein",
+          "Robin McKnight"
+        ],
+        "year": 2008,
+        "journal": "Journal of Public Economics",
+        "volume": "92",
+        "issue": "7",
+        "pages": "1644–1668",
+        "doi": "10.1016/j.jpubeco.2007.10.005",
+        "url": "https://doi.org/10.1016/j.jpubeco.2007.10.005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "title": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Taubman",
+          "Bill Wright",
+          "Mira Bernstein",
+          "Jonathan Gruber",
+          "Joseph P. Newhouse",
+          "Heidi Allen",
+          "Katherine Baicker",
+          "Oregon Health Study Group"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1057–1106",
+        "doi": "10.1093/qje/qjs020",
+        "url": "https://doi.org/10.1093/qje/qjs020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13883,6 +13940,22 @@
         "pages": "1–37",
         "doi": "10.1017/s0022050719000755",
         "url": "https://doi.org/10.1017/s0022050719000755",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "title": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "authors": [
+          "Andrew Goodman-Bacon"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "216–262",
+        "doi": "10.1086/695528",
+        "url": "https://doi.org/10.1086/695528",
         "verified": true,
         "note": ""
       }
@@ -15624,6 +15697,22 @@
         "url": "https://doi.org/10.1016/j.jue.2026.103856",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "title": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "authors": [
+          "Andrew Goodman-Bacon"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "216–262",
+        "doi": "10.1086/695528",
+        "url": "https://doi.org/10.1086/695528",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15984,6 +16073,23 @@
         "pages": "1476–1504",
         "doi": "10.1257/0002828043052231",
         "url": "https://doi.org/10.1257/0002828043052231",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Saving Teens: Using a Policy Discontinuity to Estimate the Effects of Medicaid Eligibility",
+        "title": "Saving Teens: Using a Policy Discontinuity to Estimate the Effects of Medicaid Eligibility",
+        "authors": [
+          "Laura R. Wherry",
+          "Bruce D. Meyer"
+        ],
+        "year": 2016,
+        "journal": "Journal of Human Resources",
+        "volume": "51",
+        "issue": "3",
+        "pages": "556–588",
+        "doi": "10.3368/jhr.51.3.0913-5918r1",
+        "url": "https://doi.org/10.3368/jhr.51.3.0913-5918r1",
         "verified": true,
         "note": ""
       }
@@ -18553,6 +18659,43 @@
         "url": "https://doi.org/10.1257/pol.20170262",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "title": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "authors": [
+          "Marcus Hagedorn",
+          "Iourii Manovskii",
+          "Kurt Mitman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "4",
+        "pages": "168–203",
+        "doi": "10.1257/mac.20200239",
+        "url": "https://doi.org/10.1257/mac.20200239",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Child Health Insurance Access on Schooling: Evidence from Public Insurance Expansions",
+        "title": "The Effect of Child Health Insurance Access on Schooling: Evidence from Public Insurance Expansions",
+        "authors": [
+          "Sarah R. Cohodes",
+          "Daniel S. Grossman",
+          "Samuel A. Kleiner",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2016,
+        "journal": "Journal of Human Resources",
+        "volume": "51",
+        "issue": "3",
+        "pages": "727–759",
+        "doi": "10.3368/jhr.51.3.1014-6688r1",
+        "url": "https://doi.org/10.3368/jhr.51.3.1014-6688r1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21020,6 +21163,231 @@
         "url": "https://doi.org/10.1257/pol.20120179",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Unemployment Insurance Crowd out Spousal Labor Supply?",
+        "title": "Does Unemployment Insurance Crowd out Spousal Labor Supply?",
+        "authors": [
+          "Julie Berry Cullen",
+          "Jonathan Gruber"
+        ],
+        "year": 2000,
+        "journal": "Journal of Labor Economics",
+        "volume": "18",
+        "issue": "3",
+        "pages": "546–572",
+        "doi": "10.1086/209969",
+        "url": "https://doi.org/10.1086/209969",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Extended Unemployment Insurance Over the Business Cycle: Evidence from Regression Discontinuity Estimates Over Twenty Years",
+        "title": "The Effects of Extended Unemployment Insurance Over the Business Cycle: Evidence from Regression Discontinuity Estimates Over Twenty Years",
+        "authors": [
+          "Johannes F. Schmieder",
+          "Till von Wachter",
+          "Stefan Bender"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "2",
+        "pages": "701–752",
+        "doi": "10.1093/qje/qjs010",
+        "url": "https://doi.org/10.1093/qje/qjs010",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Assessing the Welfare Effects of Unemployment Benefits Using the Regression Kink Design",
+        "title": "Assessing the Welfare Effects of Unemployment Benefits Using the Regression Kink Design",
+        "authors": [
+          "Camille Landais"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "7",
+        "issue": "4",
+        "pages": "243–278",
+        "doi": "10.1257/pol.20130248",
+        "url": "https://doi.org/10.1257/pol.20130248",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Insurance and Disability Insurance in the Great Recession",
+        "title": "Unemployment Insurance and Disability Insurance in the Great Recession",
+        "authors": [
+          "Andreas I. Mueller",
+          "Jesse Rothstein",
+          "Till M. von Wachter"
+        ],
+        "year": 2016,
+        "journal": "Journal of Labor Economics",
+        "volume": "34",
+        "issue": "S1",
+        "pages": "S445–S475",
+        "doi": "10.1086/683140",
+        "url": "https://doi.org/10.1086/683140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "title": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "authors": [
+          "Marcus Hagedorn",
+          "Iourii Manovskii",
+          "Kurt Mitman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "4",
+        "pages": "168–203",
+        "doi": "10.1257/mac.20200239",
+        "url": "https://doi.org/10.1257/mac.20200239",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+        "title": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+        "authors": [
+          "Kory Kroft",
+          "Matthew J. Notowidigdo"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "3",
+        "pages": "1092–1124",
+        "doi": "10.1093/restud/rdw009",
+        "url": "https://doi.org/10.1093/restud/rdw009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Macroeconomic Approach to Optimal Unemployment Insurance: Applications",
+        "title": "A Macroeconomic Approach to Optimal Unemployment Insurance: Applications",
+        "authors": [
+          "Camille Landais",
+          "Pascal Michaillat",
+          "Emmanuel Saez"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "2",
+        "pages": "182–216",
+        "doi": "10.1257/pol.20160462",
+        "url": "https://doi.org/10.1257/pol.20160462",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Medicaid Notch, Labor Supply, and Welfare Participation: Evidence from Eligibility Expansions",
+        "title": "The Medicaid Notch, Labor Supply, and Welfare Participation: Evidence from Eligibility Expansions",
+        "authors": [
+          "Aaron S. Yelowitz"
+        ],
+        "year": 1995,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "110",
+        "issue": "4",
+        "pages": "909–939",
+        "doi": "10.2307/2946644",
+        "url": "https://doi.org/10.2307/2946644",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Public Insurance Crowd out Private Insurance?",
+        "title": "Does Public Insurance Crowd out Private Insurance?",
+        "authors": [
+          "David M. Cutler",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "111",
+        "issue": "2",
+        "pages": "391–430",
+        "doi": "10.2307/2946683",
+        "url": "https://doi.org/10.2307/2946683",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Insurance Eligibility, Utilization of Medical Care, and Child Health",
+        "title": "Health Insurance Eligibility, Utilization of Medical Care, and Child Health",
+        "authors": [
+          "Janet Currie",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "111",
+        "issue": "2",
+        "pages": "431–466",
+        "doi": "10.2307/2946684",
+        "url": "https://doi.org/10.2307/2946684",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid Eligibility of Pregnant Women",
+        "title": "Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid Eligibility of Pregnant Women",
+        "authors": [
+          "Janet Currie",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "Journal of Political Economy",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1263–1296",
+        "doi": "10.1086/262059",
+        "url": "https://doi.org/10.1086/262059",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Child Health Insurance Access on Schooling: Evidence from Public Insurance Expansions",
+        "title": "The Effect of Child Health Insurance Access on Schooling: Evidence from Public Insurance Expansions",
+        "authors": [
+          "Sarah R. Cohodes",
+          "Daniel S. Grossman",
+          "Samuel A. Kleiner",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2016,
+        "journal": "Journal of Human Resources",
+        "volume": "51",
+        "issue": "3",
+        "pages": "727–759",
+        "doi": "10.3368/jhr.51.3.1014-6688r1",
+        "url": "https://doi.org/10.3368/jhr.51.3.1014-6688r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Saving Teens: Using a Policy Discontinuity to Estimate the Effects of Medicaid Eligibility",
+        "title": "Saving Teens: Using a Policy Discontinuity to Estimate the Effects of Medicaid Eligibility",
+        "authors": [
+          "Laura R. Wherry",
+          "Bruce D. Meyer"
+        ],
+        "year": 2016,
+        "journal": "Journal of Human Resources",
+        "volume": "51",
+        "issue": "3",
+        "pages": "556–588",
+        "doi": "10.3368/jhr.51.3.0913-5918r1",
+        "url": "https://doi.org/10.3368/jhr.51.3.0913-5918r1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21736,6 +22104,56 @@
         "url": "https://doi.org/10.2307/2937881",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The impact of the potential duration of unemployment benefits on the duration of unemployment",
+        "title": "The impact of the potential duration of unemployment benefits on the duration of unemployment",
+        "authors": [
+          "Lawrence F. Katz",
+          "Bruce D. Meyer"
+        ],
+        "year": 1990,
+        "journal": "Journal of Public Economics",
+        "volume": "41",
+        "issue": "1",
+        "pages": "45–72",
+        "doi": "10.1016/0047-2727(92)90056-l",
+        "url": "https://doi.org/10.1016/0047-2727(92)90056-l",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consumption Smoothing Benefits of Unemployment Insurance",
+        "title": "The Consumption Smoothing Benefits of Unemployment Insurance",
+        "authors": [
+          "Jonathan Gruber"
+        ],
+        "year": 1997,
+        "journal": "American Economic Review",
+        "volume": "87",
+        "issue": "1",
+        "pages": "192–205",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/2951372",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+        "title": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+        "authors": [
+          "Kory Kroft",
+          "Matthew J. Notowidigdo"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "3",
+        "pages": "1092–1124",
+        "doi": "10.1093/restud/rdw009",
+        "url": "https://doi.org/10.1093/restud/rdw009",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22447,6 +22865,23 @@
         "url": "https://doi.org/10.1086/705415",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Interaction of Public and Private Insurance: Medicaid and the Long-Term Care Insurance Market",
+        "title": "The Interaction of Public and Private Insurance: Medicaid and the Long-Term Care Insurance Market",
+        "authors": [
+          "Jeffrey R. Brown",
+          "Amy Finkelstein"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "1083–1102",
+        "doi": "10.1257/aer.98.3.1083",
+        "url": "https://doi.org/10.1257/aer.98.3.1083",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22593,6 +23028,81 @@
         "pages": "1049–1090",
         "doi": "10.1162/0033553041502144",
         "url": "https://doi.org/10.1162/0033553041502144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Medicare Save Lives?",
+        "title": "Does Medicare Save Lives?",
+        "authors": [
+          "David Card",
+          "Carlos Dobkin",
+          "Nicole Maestas"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "2",
+        "pages": "597–636",
+        "doi": "10.1162/qjec.2009.124.2.597",
+        "url": "https://doi.org/10.1162/qjec.2009.124.2.597",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Insurance Eligibility, Utilization of Medical Care, and Child Health",
+        "title": "Health Insurance Eligibility, Utilization of Medical Care, and Child Health",
+        "authors": [
+          "Janet Currie",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "111",
+        "issue": "2",
+        "pages": "431–466",
+        "doi": "10.2307/2946684",
+        "url": "https://doi.org/10.2307/2946684",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "title": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Taubman",
+          "Bill Wright",
+          "Mira Bernstein",
+          "Jonathan Gruber",
+          "Joseph P. Newhouse",
+          "Heidi Allen",
+          "Katherine Baicker",
+          "Oregon Health Study Group"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1057–1106",
+        "doi": "10.1093/qje/qjs020",
+        "url": "https://doi.org/10.1093/qje/qjs020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "title": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "authors": [
+          "Andrew Goodman-Bacon"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "216–262",
+        "doi": "10.1086/695528",
+        "url": "https://doi.org/10.1086/695528",
         "verified": true,
         "note": ""
       }
@@ -22784,6 +23294,47 @@
         "pages": "1049–1090",
         "doi": "10.1162/0033553041502144",
         "url": "https://doi.org/10.1162/0033553041502144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Medicare Part D on Pharmaceutical Prices and Utilization",
+        "title": "The Effect of Medicare Part D on Pharmaceutical Prices and Utilization",
+        "authors": [
+          "Mark Duggan",
+          "Fiona Scott Morton"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "1",
+        "pages": "590–607",
+        "doi": "10.1257/aer.100.1.590",
+        "url": "https://doi.org/10.1257/aer.100.1.590",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "title": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Taubman",
+          "Bill Wright",
+          "Mira Bernstein",
+          "Jonathan Gruber",
+          "Joseph P. Newhouse",
+          "Heidi Allen",
+          "Katherine Baicker",
+          "Oregon Health Study Group"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1057–1106",
+        "doi": "10.1093/qje/qjs020",
+        "url": "https://doi.org/10.1093/qje/qjs020",
         "verified": true,
         "note": ""
       }
@@ -23390,6 +23941,23 @@
         "url": "https://doi.org/10.1257/aer.99.1.85",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What did Medicare do? The initial impact of Medicare on mortality and out of pocket medical spending",
+        "title": "What did Medicare do? The initial impact of Medicare on mortality and out of pocket medical spending",
+        "authors": [
+          "Amy Finkelstein",
+          "Robin McKnight"
+        ],
+        "year": 2008,
+        "journal": "Journal of Public Economics",
+        "volume": "92",
+        "issue": "7",
+        "pages": "1644–1668",
+        "doi": "10.1016/j.jpubeco.2007.10.005",
+        "url": "https://doi.org/10.1016/j.jpubeco.2007.10.005",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23751,6 +24319,30 @@
         "pages": "2537–2577",
         "doi": "10.1093/restud/rdae090",
         "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "title": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Taubman",
+          "Bill Wright",
+          "Mira Bernstein",
+          "Jonathan Gruber",
+          "Joseph P. Newhouse",
+          "Heidi Allen",
+          "Katherine Baicker",
+          "Oregon Health Study Group"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1057–1106",
+        "doi": "10.1093/qje/qjs020",
+        "url": "https://doi.org/10.1093/qje/qjs020",
         "verified": true,
         "note": ""
       }
@@ -24936,6 +25528,23 @@
         "url": "https://doi.org/10.1162/003465302317331919",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid Eligibility of Pregnant Women",
+        "title": "Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid Eligibility of Pregnant Women",
+        "authors": [
+          "Janet Currie",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "Journal of Political Economy",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1263–1296",
+        "doi": "10.1086/262059",
+        "url": "https://doi.org/10.1086/262059",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25472,6 +26081,23 @@
         "url": "https://doi.org/10.1093/rfs/hhae068",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Value of Unemployment Insurance",
+        "title": "The Value of Unemployment Insurance",
+        "authors": [
+          "Camille Landais",
+          "Johannes Spinnewijn"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economic Studies",
+        "volume": "88",
+        "issue": "6",
+        "pages": "3041–3085",
+        "doi": "10.1093/restud/rdaa086",
+        "url": "https://doi.org/10.1093/restud/rdaa086",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25860,6 +26486,24 @@
         "pages": "101–124",
         "doi": "10.1257/aeri.20190023",
         "url": "https://doi.org/10.1257/aeri.20190023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Macroeconomic Approach to Optimal Unemployment Insurance: Applications",
+        "title": "A Macroeconomic Approach to Optimal Unemployment Insurance: Applications",
+        "authors": [
+          "Camille Landais",
+          "Pascal Michaillat",
+          "Emmanuel Saez"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "2",
+        "pages": "182–216",
+        "doi": "10.1257/pol.20160462",
+        "url": "https://doi.org/10.1257/pol.20160462",
         "verified": true,
         "note": ""
       }
@@ -26647,6 +27291,74 @@
         "url": "https://doi.org/10.1093/qje/qjv001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Unemployment Insurance Crowd out Spousal Labor Supply?",
+        "title": "Does Unemployment Insurance Crowd out Spousal Labor Supply?",
+        "authors": [
+          "Julie Berry Cullen",
+          "Jonathan Gruber"
+        ],
+        "year": 2000,
+        "journal": "Journal of Labor Economics",
+        "volume": "18",
+        "issue": "3",
+        "pages": "546–572",
+        "doi": "10.1086/209969",
+        "url": "https://doi.org/10.1086/209969",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Moral Hazard versus Liquidity and Optimal Unemployment Insurance",
+        "title": "Moral Hazard versus Liquidity and Optimal Unemployment Insurance",
+        "authors": [
+          "Raj Chetty"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "2",
+        "pages": "173–234",
+        "doi": "10.1086/588585",
+        "url": "https://doi.org/10.1086/588585",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+        "title": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+        "authors": [
+          "Kory Kroft",
+          "Matthew J. Notowidigdo"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "3",
+        "pages": "1092–1124",
+        "doi": "10.1093/restud/rdw009",
+        "url": "https://doi.org/10.1093/restud/rdw009",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Did the Medicaid expansions for children displace private insurance? An analysis using the SIPP",
+        "title": "Did the Medicaid expansions for children displace private insurance? An analysis using the SIPP",
+        "authors": [
+          "Linda J. Blumberg",
+          "Lisa Dubay",
+          "Stephen A. Norton"
+        ],
+        "year": 2000,
+        "journal": "Journal of Health Economics",
+        "volume": "19",
+        "issue": "1",
+        "pages": "33–60",
+        "doi": "10.1016/s0167-6296(99)00020-x",
+        "url": "https://doi.org/10.1016/s0167-6296(99)00020-x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26929,6 +27641,24 @@
         "pages": "3380–3422",
         "doi": "10.1257/aer.20240404",
         "url": "https://doi.org/10.1257/aer.20240404",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Insurance and Disability Insurance in the Great Recession",
+        "title": "Unemployment Insurance and Disability Insurance in the Great Recession",
+        "authors": [
+          "Andreas I. Mueller",
+          "Jesse Rothstein",
+          "Till M. von Wachter"
+        ],
+        "year": 2016,
+        "journal": "Journal of Labor Economics",
+        "volume": "34",
+        "issue": "S1",
+        "pages": "S445–S475",
+        "doi": "10.1086/683140",
+        "url": "https://doi.org/10.1086/683140",
         "verified": true,
         "note": ""
       }
@@ -30261,6 +30991,24 @@
         "url": "https://doi.org/10.1257/pol.20170262",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "title": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "authors": [
+          "Marcus Hagedorn",
+          "Iourii Manovskii",
+          "Kurt Mitman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "4",
+        "pages": "168–203",
+        "doi": "10.1257/mac.20200239",
+        "url": "https://doi.org/10.1257/mac.20200239",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30894,6 +31642,57 @@
         "url": "https://doi.org/10.2307/2938349",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Consumption Smoothing Benefits of Unemployment Insurance",
+        "title": "The Consumption Smoothing Benefits of Unemployment Insurance",
+        "authors": [
+          "Jonathan Gruber"
+        ],
+        "year": 1997,
+        "journal": "American Economic Review",
+        "volume": "87",
+        "issue": "1",
+        "pages": "192–205",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/2951372",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Extended benefits and the duration of UI spells: evidence from the New Jersey extended benefit program",
+        "title": "Extended benefits and the duration of UI spells: evidence from the New Jersey extended benefit program",
+        "authors": [
+          "David Card",
+          "Phillip B. Levine"
+        ],
+        "year": 2000,
+        "journal": "Journal of Public Economics",
+        "volume": "78",
+        "issue": "1-2",
+        "pages": "107–138",
+        "doi": "10.1016/s0047-2727(99)00113-9",
+        "url": "https://doi.org/10.1016/s0047-2727(99)00113-9",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "title": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "authors": [
+          "Marcus Hagedorn",
+          "Iourii Manovskii",
+          "Kurt Mitman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "4",
+        "pages": "168–203",
+        "doi": "10.1257/mac.20200239",
+        "url": "https://doi.org/10.1257/mac.20200239",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31087,6 +31886,180 @@
         "pages": "159–192",
         "doi": "10.1257/pol.20170262",
         "url": "https://doi.org/10.1257/pol.20170262",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consumption Smoothing Benefits of Unemployment Insurance",
+        "title": "The Consumption Smoothing Benefits of Unemployment Insurance",
+        "authors": [
+          "Jonathan Gruber"
+        ],
+        "year": 1997,
+        "journal": "American Economic Review",
+        "volume": "87",
+        "issue": "1",
+        "pages": "192–205",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/2951372",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Unemployment Insurance Crowd out Spousal Labor Supply?",
+        "title": "Does Unemployment Insurance Crowd out Spousal Labor Supply?",
+        "authors": [
+          "Julie Berry Cullen",
+          "Jonathan Gruber"
+        ],
+        "year": 2000,
+        "journal": "Journal of Labor Economics",
+        "volume": "18",
+        "issue": "3",
+        "pages": "546–572",
+        "doi": "10.1086/209969",
+        "url": "https://doi.org/10.1086/209969",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Insurance and Disability Insurance in the Great Recession",
+        "title": "Unemployment Insurance and Disability Insurance in the Great Recession",
+        "authors": [
+          "Andreas I. Mueller",
+          "Jesse Rothstein",
+          "Till M. von Wachter"
+        ],
+        "year": 2016,
+        "journal": "Journal of Labor Economics",
+        "volume": "34",
+        "issue": "S1",
+        "pages": "S445–S475",
+        "doi": "10.1086/683140",
+        "url": "https://doi.org/10.1086/683140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Moral Hazard versus Liquidity and Optimal Unemployment Insurance",
+        "title": "Moral Hazard versus Liquidity and Optimal Unemployment Insurance",
+        "authors": [
+          "Raj Chetty"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "2",
+        "pages": "173–234",
+        "doi": "10.1086/588585",
+        "url": "https://doi.org/10.1086/588585",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+        "title": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+        "authors": [
+          "Kory Kroft",
+          "Matthew J. Notowidigdo"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "3",
+        "pages": "1092–1124",
+        "doi": "10.1093/restud/rdw009",
+        "url": "https://doi.org/10.1093/restud/rdw009",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.3.23",
+    "title": "美国劳工部失业保险行政统计（DOL ETA UI Data）",
+    "links": [
+      {
+        "label": "DOL ETA: UI data downloads",
+        "url": "https://oui.doleta.gov/unemploy/DataDownloads.asp"
+      }
+    ],
+    "summary": "美国劳工部就业与培训管理局（ETA）失业保险办公室发布的各州失业保险项目行政统计，按州—周或月报告首次申请、持续申请、首次支付、福利耗尽、平均周福利额、领取期限和信托基金余额，涵盖常规项目和延长福利（EB、EUC）等联邦项目，回溯至 1970 年代，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "数据来自各州报送的 ETA 报表（如 ETA 539、5159、218），可构造州级失业保险领取率、替代率和耗尽率时间序列，配合 EB/EUC 触发通知识别救济期延长。研究常用它分析失业保险慷慨度、领取期限延长对失业和劳动力市场的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Extended benefits and the duration of UI spells: evidence from the New Jersey extended benefit program",
+        "title": "Extended benefits and the duration of UI spells: evidence from the New Jersey extended benefit program",
+        "authors": [
+          "David Card",
+          "Phillip B. Levine"
+        ],
+        "year": 2000,
+        "journal": "Journal of Public Economics",
+        "volume": "78",
+        "issue": "1-2",
+        "pages": "107–138",
+        "doi": "10.1016/s0047-2727(99)00113-9",
+        "url": "https://doi.org/10.1016/s0047-2727(99)00113-9",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Moral Hazard versus Liquidity and Optimal Unemployment Insurance",
+        "title": "Moral Hazard versus Liquidity and Optimal Unemployment Insurance",
+        "authors": [
+          "Raj Chetty"
+        ],
+        "year": 2008,
+        "journal": "Journal of Political Economy",
+        "volume": "116",
+        "issue": "2",
+        "pages": "173–234",
+        "doi": "10.1086/588585",
+        "url": "https://doi.org/10.1086/588585",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Insurance and Disability Insurance in the Great Recession",
+        "title": "Unemployment Insurance and Disability Insurance in the Great Recession",
+        "authors": [
+          "Andreas I. Mueller",
+          "Jesse Rothstein",
+          "Till M. von Wachter"
+        ],
+        "year": 2016,
+        "journal": "Journal of Labor Economics",
+        "volume": "34",
+        "issue": "S1",
+        "pages": "S445–S475",
+        "doi": "10.1086/683140",
+        "url": "https://doi.org/10.1086/683140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "title": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+        "authors": [
+          "Marcus Hagedorn",
+          "Iourii Manovskii",
+          "Kurt Mitman"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "17",
+        "issue": "4",
+        "pages": "168–203",
+        "doi": "10.1257/mac.20200239",
+        "url": "https://doi.org/10.1257/mac.20200239",
         "verified": true,
         "note": ""
       }
@@ -39092,6 +40065,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2013.05.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Macroeconomic Approach to Optimal Unemployment Insurance: Applications",
+        "title": "A Macroeconomic Approach to Optimal Unemployment Insurance: Applications",
+        "authors": [
+          "Camille Landais",
+          "Pascal Michaillat",
+          "Emmanuel Saez"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "2",
+        "pages": "182–216",
+        "doi": "10.1257/pol.20160462",
+        "url": "https://doi.org/10.1257/pol.20160462",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41844,6 +42835,39 @@
         "pages": "63–112",
         "doi": "10.1093/qje/qjae037",
         "url": "https://doi.org/10.1093/qje/qjae037",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Consumption Smoothing Benefits of Unemployment Insurance",
+        "title": "The Consumption Smoothing Benefits of Unemployment Insurance",
+        "authors": [
+          "Jonathan Gruber"
+        ],
+        "year": 1997,
+        "journal": "American Economic Review",
+        "volume": "87",
+        "issue": "1",
+        "pages": "192–205",
+        "doi": "",
+        "url": "https://www.jstor.org/stable/2951372",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Medicare Part D on Pharmaceutical Prices and Utilization",
+        "title": "The Effect of Medicare Part D on Pharmaceutical Prices and Utilization",
+        "authors": [
+          "Mark Duggan",
+          "Fiona Scott Morton"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "1",
+        "pages": "590–607",
+        "doi": "10.1257/aer.100.1.590",
+        "url": "https://doi.org/10.1257/aer.100.1.590",
         "verified": true,
         "note": ""
       }
@@ -62113,6 +63137,90 @@
         "url": "https://doi.org/10.1257/pol.20120179",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What did Medicare do? The initial impact of Medicare on mortality and out of pocket medical spending",
+        "title": "What did Medicare do? The initial impact of Medicare on mortality and out of pocket medical spending",
+        "authors": [
+          "Amy Finkelstein",
+          "Robin McKnight"
+        ],
+        "year": 2008,
+        "journal": "Journal of Public Economics",
+        "volume": "92",
+        "issue": "7",
+        "pages": "1644–1668",
+        "doi": "10.1016/j.jpubeco.2007.10.005",
+        "url": "https://doi.org/10.1016/j.jpubeco.2007.10.005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Insurance Eligibility, Utilization of Medical Care, and Child Health",
+        "title": "Health Insurance Eligibility, Utilization of Medical Care, and Child Health",
+        "authors": [
+          "Janet Currie",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "111",
+        "issue": "2",
+        "pages": "431–466",
+        "doi": "10.2307/2946684",
+        "url": "https://doi.org/10.2307/2946684",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid Eligibility of Pregnant Women",
+        "title": "Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid Eligibility of Pregnant Women",
+        "authors": [
+          "Janet Currie",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "Journal of Political Economy",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1263–1296",
+        "doi": "10.1086/262059",
+        "url": "https://doi.org/10.1086/262059",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Saving Teens: Using a Policy Discontinuity to Estimate the Effects of Medicaid Eligibility",
+        "title": "Saving Teens: Using a Policy Discontinuity to Estimate the Effects of Medicaid Eligibility",
+        "authors": [
+          "Laura R. Wherry",
+          "Bruce D. Meyer"
+        ],
+        "year": 2016,
+        "journal": "Journal of Human Resources",
+        "volume": "51",
+        "issue": "3",
+        "pages": "556–588",
+        "doi": "10.3368/jhr.51.3.0913-5918r1",
+        "url": "https://doi.org/10.3368/jhr.51.3.0913-5918r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "title": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "authors": [
+          "Andrew Goodman-Bacon"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "216–262",
+        "doi": "10.1086/695528",
+        "url": "https://doi.org/10.1086/695528",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62614,6 +63722,24 @@
         "url": "https://doi.org/10.1257/aer.100.4.1847",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Medicare Save Lives?",
+        "title": "Does Medicare Save Lives?",
+        "authors": [
+          "David Card",
+          "Carlos Dobkin",
+          "Nicole Maestas"
+        ],
+        "year": 2009,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "124",
+        "issue": "2",
+        "pages": "597–636",
+        "doi": "10.1162/qjec.2009.124.2.597",
+        "url": "https://doi.org/10.1162/qjec.2009.124.2.597",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62948,6 +64074,30 @@
         "pages": "308–352",
         "doi": "10.1257/aer.20161038",
         "url": "https://doi.org/10.1257/aer.20161038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "title": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Taubman",
+          "Bill Wright",
+          "Mira Bernstein",
+          "Jonathan Gruber",
+          "Joseph P. Newhouse",
+          "Heidi Allen",
+          "Katherine Baicker",
+          "Oregon Health Study Group"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1057–1106",
+        "doi": "10.1093/qje/qjs020",
+        "url": "https://doi.org/10.1093/qje/qjs020",
         "verified": true,
         "note": ""
       }
@@ -63994,6 +65144,23 @@
         "url": "https://doi.org/10.1257/aer.20220276",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Medicare Part D on Pharmaceutical Prices and Utilization",
+        "title": "The Effect of Medicare Part D on Pharmaceutical Prices and Utilization",
+        "authors": [
+          "Mark Duggan",
+          "Fiona Scott Morton"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "1",
+        "pages": "590–607",
+        "doi": "10.1257/aer.100.1.590",
+        "url": "https://doi.org/10.1257/aer.100.1.590",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -64510,6 +65677,55 @@
         "pages": "397–427",
         "doi": "10.1257/aer.20190690",
         "url": "https://doi.org/10.1257/aer.20190690",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Aggregate Effects of Health Insurance: Evidence from the Introduction of Medicare",
+        "title": "The Aggregate Effects of Health Insurance: Evidence from the Introduction of Medicare",
+        "authors": [
+          "Amy Finkelstein"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "1",
+        "pages": "1–37",
+        "doi": "10.1162/qjec.122.1.1",
+        "url": "https://doi.org/10.1162/qjec.122.1.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What did Medicare do? The initial impact of Medicare on mortality and out of pocket medical spending",
+        "title": "What did Medicare do? The initial impact of Medicare on mortality and out of pocket medical spending",
+        "authors": [
+          "Amy Finkelstein",
+          "Robin McKnight"
+        ],
+        "year": 2008,
+        "journal": "Journal of Public Economics",
+        "volume": "92",
+        "issue": "7",
+        "pages": "1644–1668",
+        "doi": "10.1016/j.jpubeco.2007.10.005",
+        "url": "https://doi.org/10.1016/j.jpubeco.2007.10.005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "title": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "authors": [
+          "Andrew Goodman-Bacon"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "216–262",
+        "doi": "10.1086/695528",
+        "url": "https://doi.org/10.1086/695528",
         "verified": true,
         "note": ""
       }
@@ -65077,6 +66293,23 @@
         "pages": "117–152",
         "doi": "10.1093/restud/rdy034",
         "url": "https://doi.org/10.1093/restud/rdy034",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Medicare Part D on Pharmaceutical Prices and Utilization",
+        "title": "The Effect of Medicare Part D on Pharmaceutical Prices and Utilization",
+        "authors": [
+          "Mark Duggan",
+          "Fiona Scott Morton"
+        ],
+        "year": 2010,
+        "journal": "American Economic Review",
+        "volume": "100",
+        "issue": "1",
+        "pages": "590–607",
+        "doi": "10.1257/aer.100.1.590",
+        "url": "https://doi.org/10.1257/aer.100.1.590",
         "verified": true,
         "note": ""
       }
@@ -65888,6 +67121,125 @@
         "pages": "1602–1634",
         "doi": "10.1093/restud/rdaf070",
         "url": "https://doi.org/10.1093/restud/rdaf070",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.52",
+    "title": "医疗支出面板调查（Medical Expenditure Panel Survey，MEPS）及前身 NMES",
+    "links": [
+      {
+        "label": "AHRQ: MEPS",
+        "url": "https://meps.ahrq.gov/mepsweb/"
+      }
+    ],
+    "summary": "美国卫生保健研究与质量局（AHRQ）自 1996 年起实施的全国医疗支出面板调查，每年访问约 1.3 万户家庭，在两年内追踪五轮，记录医疗服务使用、支出及其支付来源、医疗保险状况和健康状况，并配有医疗服务提供者和雇主保险组成部分，公开下载；其前身为 1977 年 NMCES 和 1987 年全国医疗支出调查（NMES）。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "MEPS 家庭组成部分按事件记录门诊、住院、急诊、处方药和牙科的支出与支付方（自付、私人保险、Medicare、Medicaid），可与提供者调查核对；保险组成部分调查雇主提供的健康保险计划和保费。研究常用它分析医疗保险覆盖、自付风险、医疗支出分布和公共保险扩张的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Does Public Insurance Crowd out Private Insurance?",
+        "title": "Does Public Insurance Crowd out Private Insurance?",
+        "authors": [
+          "David M. Cutler",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "111",
+        "issue": "2",
+        "pages": "391–430",
+        "doi": "10.2307/2946683",
+        "url": "https://doi.org/10.2307/2946683",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.53",
+    "title": "全国长期护理调查（National Long Term Care Survey，NLTCS）",
+    "links": [
+      {
+        "label": "ICPSR/NACDA: NLTCS",
+        "url": "https://www.icpsr.umich.edu/web/NACDA/studies/9681"
+      }
+    ],
+    "summary": "杜克大学人口研究中心主持的美国 65 岁以上 Medicare 受益人纵向调查，1982、1984、1989、1994、1999 和 2004 年实施六轮，记录日常生活活动（ADL）受限、护理需求、正式与非正式照护、入住护理院和 Medicare 费用，并与 Medicare 理赔记录链接，经 ICPSR/NACDA 申请获取。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "NLTCS 从 Medicare 登记名单中抽样，可追踪老年人失能状态的转移和长期护理使用，是估计失能患病率趋势和护理需求的重要来源。研究常用它构造长期护理风险和护理院入住概率，分析长期护理保险市场、Medicaid 挤出和家庭照护。",
+    "source": "需签署数据使用协议（ICPSR/NACDA）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Interaction of Public and Private Insurance: Medicaid and the Long-Term Care Insurance Market",
+        "title": "The Interaction of Public and Private Insurance: Medicaid and the Long-Term Care Insurance Market",
+        "authors": [
+          "Jeffrey R. Brown",
+          "Amy Finkelstein"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "3",
+        "pages": "1083–1102",
+        "doi": "10.1257/aer.98.3.1083",
+        "url": "https://doi.org/10.1257/aer.98.3.1083",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.54",
+    "title": "青少年风险行为监测系统（Youth Risk Behavior Surveillance System，YRBSS）",
+    "links": [
+      {
+        "label": "CDC: YRBSS data",
+        "url": "https://www.cdc.gov/yrbs/data/index.html"
+      }
+    ],
+    "summary": "美国疾病控制与预防中心（CDC）自 1991 年起每两年开展的全国、州和地方学区高中生风险行为调查，记录吸烟、饮酒、药物使用、性行为、暴力与伤害、饮食与体育活动、心理健康和自杀意念等，全国和州层面数据公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "YRBSS 包括全国代表性调查和各州、各大城市学区自主实施的调查，问卷核心题目可比，可构造州—年份的青少年风险行为面板。研究常用它分析酒类与烟草税、最低饮酒年龄、性教育、反欺凌法和 EITC 等政策对青少年健康行为的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Effect of Child Health Insurance Access on Schooling: Evidence from Public Insurance Expansions",
+        "title": "The Effect of Child Health Insurance Access on Schooling: Evidence from Public Insurance Expansions",
+        "authors": [
+          "Sarah R. Cohodes",
+          "Daniel S. Grossman",
+          "Samuel A. Kleiner",
+          "Michael F. Lovenheim"
+        ],
+        "year": 2016,
+        "journal": "Journal of Human Resources",
+        "volume": "51",
+        "issue": "3",
+        "pages": "727–759",
+        "doi": "10.3368/jhr.51.3.1014-6688r1",
+        "url": "https://doi.org/10.3368/jhr.51.3.1014-6688r1",
         "verified": true,
         "note": ""
       }
@@ -76779,6 +78131,30 @@
         "pages": "1187–1241",
         "doi": "10.1093/qje/qjae045",
         "url": "https://doi.org/10.1093/qje/qjae045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "title": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Taubman",
+          "Bill Wright",
+          "Mira Bernstein",
+          "Jonathan Gruber",
+          "Joseph P. Newhouse",
+          "Heidi Allen",
+          "Katherine Baicker",
+          "Oregon Health Study Group"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "3",
+        "pages": "1057–1106",
+        "doi": "10.1093/qje/qjs020",
+        "url": "https://doi.org/10.1093/qje/qjs020",
         "verified": true,
         "note": ""
       }
@@ -90204,6 +91580,62 @@
         "url": "https://doi.org/10.1257/aer.20171937",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Value of Unemployment Insurance",
+        "title": "The Value of Unemployment Insurance",
+        "authors": [
+          "Camille Landais",
+          "Johannes Spinnewijn"
+        ],
+        "year": 2021,
+        "journal": "The Review of Economic Studies",
+        "volume": "88",
+        "issue": "6",
+        "pages": "3041–3085",
+        "doi": "10.1093/restud/rdaa086",
+        "url": "https://doi.org/10.1093/restud/rdaa086",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Optimal Timing of Unemployment Benefits: Theory and Evidence from Sweden",
+        "title": "The Optimal Timing of Unemployment Benefits: Theory and Evidence from Sweden",
+        "authors": [
+          "Jonas Kolsrud",
+          "Camille Landais",
+          "Peter Nilsson",
+          "Johannes Spinnewijn"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "4-5",
+        "pages": "985–1033",
+        "doi": "10.1257/aer.20160816",
+        "url": "https://doi.org/10.1257/aer.20160816",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Risk-Based Selection in Unemployment Insurance: Evidence and Implications",
+        "title": "Risk-Based Selection in Unemployment Insurance: Evidence and Implications",
+        "authors": [
+          "Camille Landais",
+          "Arash Nekoei",
+          "Peter Nilsson",
+          "David Seim",
+          "Johannes Spinnewijn"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review",
+        "volume": "111",
+        "issue": "4",
+        "pages": "1315–1355",
+        "doi": "10.1257/aer.20180820",
+        "url": "https://doi.org/10.1257/aer.20180820",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -93760,6 +95192,24 @@
         "pages": "1–39",
         "doi": "10.1093/restud/rdac011",
         "url": "https://doi.org/10.1093/restud/rdac011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cash-on-Hand and Competing Models of Intertemporal Behavior: New Evidence from the Labor Market",
+        "title": "Cash-on-Hand and Competing Models of Intertemporal Behavior: New Evidence from the Labor Market",
+        "authors": [
+          "David Card",
+          "Raj Chetty",
+          "Andrea Weber"
+        ],
+        "year": 2007,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "4",
+        "pages": "1511–1560",
+        "doi": "10.1162/qjec.2007.122.4.1511",
+        "url": "https://doi.org/10.1162/qjec.2007.122.4.1511",
         "verified": true,
         "note": ""
       }
@@ -117419,6 +118869,22 @@
         "pages": "2830–2867",
         "doi": "10.1257/aer.20161413",
         "url": "https://doi.org/10.1257/aer.20161413",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "title": "Public Insurance and Mortality: Evidence from Medicaid Implementation",
+        "authors": [
+          "Andrew Goodman-Bacon"
+        ],
+        "year": 2018,
+        "journal": "Journal of Political Economy",
+        "volume": "126",
+        "issue": "1",
+        "pages": "216–262",
+        "doi": "10.1086/695528",
+        "url": "https://doi.org/10.1086/695528",
         "verified": true,
         "note": ""
       }
