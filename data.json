@@ -700,6 +700,91 @@
         "url": "https://doi.org/10.1162/rest_a_00852",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "title": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "authors": [
+          "Mi Dai",
+          "Wei Huang",
+          "Yifan Zhang"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "150",
+        "issue": "",
+        "pages": "102628",
+        "doi": "10.1016/j.jdeveco.2021.102628",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102628",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quota removal, destination-specific export shocks, and skill acquisition in China",
+        "title": "Quota removal, destination-specific export shocks, and skill acquisition in China",
+        "authors": [
+          "Junsen Zhang",
+          "Kang Zhou"
+        ],
+        "year": 2023,
+        "journal": "Journal of Development Economics",
+        "volume": "165",
+        "issue": "",
+        "pages": "103149",
+        "doi": "10.1016/j.jdeveco.2023.103149",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103149",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "title": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "authors": [
+          "Yuan Tian"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "794–813",
+        "doi": "10.1162/rest_a_01175",
+        "url": "https://doi.org/10.1162/rest_a_01175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "title": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "authors": [
+          "Jingting Fan"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "252–288",
+        "doi": "10.1257/mac.20150055",
+        "url": "https://doi.org/10.1257/mac.20150055",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy Consequences of China's Export Slowdown",
+        "title": "The Political Economy Consequences of China's Export Slowdown",
+        "authors": [
+          "Filipe R. Campante",
+          "Davin Chor",
+          "Bingjing Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "5",
+        "pages": "1721–1771",
+        "doi": "10.1093/jeea/jvad007",
+        "url": "https://doi.org/10.1093/jeea/jvad007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -883,6 +968,22 @@
         "pages": "2784–2820",
         "doi": "10.1257/aer.20121266",
         "url": "https://doi.org/10.1257/aer.20121266",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "title": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "authors": [
+          "Jingting Fan"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "252–288",
+        "doi": "10.1257/mac.20150055",
+        "url": "https://doi.org/10.1257/mac.20150055",
         "verified": true,
         "note": ""
       }
@@ -1647,6 +1748,24 @@
         "pages": "1520–1534",
         "doi": "10.1162/rest_a_00356",
         "url": "https://doi.org/10.1162/rest_a_00356",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "title": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "authors": [
+          "Mi Dai",
+          "Wei Huang",
+          "Yifan Zhang"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "150",
+        "issue": "",
+        "pages": "102628",
+        "doi": "10.1016/j.jdeveco.2021.102628",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102628",
         "verified": true,
         "note": ""
       }
@@ -3020,6 +3139,129 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2006.07.001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "title": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "authors": [
+          "Mi Dai",
+          "Wei Huang",
+          "Yifan Zhang"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "150",
+        "issue": "",
+        "pages": "102628",
+        "doi": "10.1016/j.jdeveco.2021.102628",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102628",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "title": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "authors": [
+          "Yuan Tian"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "794–813",
+        "doi": "10.1162/rest_a_01175",
+        "url": "https://doi.org/10.1162/rest_a_01175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation under Trade Liberalization",
+        "title": "Misallocation under Trade Liberalization",
+        "authors": [
+          "Yan Bai",
+          "Keyu Jin",
+          "Dan Lu"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "7",
+        "pages": "1949–1985",
+        "doi": "10.1257/aer.20200596",
+        "url": "https://doi.org/10.1257/aer.20200596",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade liberalization, labor market power, and misallocation across firms: Evidence from China's WTO accession",
+        "title": "Trade liberalization, labor market power, and misallocation across firms: Evidence from China's WTO accession",
+        "authors": [
+          "Enze Xie",
+          "Mingzhi Xu",
+          "Miaojie Yu"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "171",
+        "issue": "",
+        "pages": "103353",
+        "doi": "10.1016/j.jdeveco.2024.103353",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103353",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "title": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "authors": [
+          "Jingting Fan"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "252–288",
+        "doi": "10.1257/mac.20150055",
+        "url": "https://doi.org/10.1257/mac.20150055",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Import competition and firm innovation: Evidence from China",
+        "title": "Import competition and firm innovation: Evidence from China",
+        "authors": [
+          "Qing Liu",
+          "Ruosi Lu",
+          "Yi Lu",
+          "Tuan Anh Luong"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "151",
+        "issue": "",
+        "pages": "102650",
+        "doi": "10.1016/j.jdeveco.2021.102650",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102650",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy Consequences of China's Export Slowdown",
+        "title": "The Political Economy Consequences of China's Export Slowdown",
+        "authors": [
+          "Filipe R. Campante",
+          "Davin Chor",
+          "Bingjing Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "5",
+        "pages": "1721–1771",
+        "doi": "10.1093/jeea/jvad007",
+        "url": "https://doi.org/10.1093/jeea/jvad007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3510,6 +3752,43 @@
         "url": "https://doi.org/10.1257/aer.20191234",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Import competition and firm innovation: Evidence from China",
+        "title": "Import competition and firm innovation: Evidence from China",
+        "authors": [
+          "Qing Liu",
+          "Ruosi Lu",
+          "Yi Lu",
+          "Tuan Anh Luong"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "151",
+        "issue": "",
+        "pages": "102650",
+        "doi": "10.1016/j.jdeveco.2021.102650",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102650",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -3771,6 +4050,23 @@
         "pages": "1170–1207",
         "doi": "10.1257/aer.20200187",
         "url": "https://doi.org/10.1257/aer.20200187",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade policy uncertainty and new firm entry: Evidence from China",
+        "title": "Trade policy uncertainty and new firm entry: Evidence from China",
+        "authors": [
+          "Chuantao Cui",
+          "Leona Shao-Zhi Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of Development Economics",
+        "volume": "163",
+        "issue": "",
+        "pages": "103093",
+        "doi": "10.1016/j.jdeveco.2023.103093",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103093",
         "verified": true,
         "note": ""
       }
@@ -4258,6 +4554,74 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103557",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "title": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "authors": [
+          "Mi Dai",
+          "Wei Huang",
+          "Yifan Zhang"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "150",
+        "issue": "",
+        "pages": "102628",
+        "doi": "10.1016/j.jdeveco.2021.102628",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102628",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "title": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "authors": [
+          "Yuan Tian"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "794–813",
+        "doi": "10.1162/rest_a_01175",
+        "url": "https://doi.org/10.1162/rest_a_01175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "title": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "authors": [
+          "Jingting Fan"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "252–288",
+        "doi": "10.1257/mac.20150055",
+        "url": "https://doi.org/10.1257/mac.20150055",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy Consequences of China's Export Slowdown",
+        "title": "The Political Economy Consequences of China's Export Slowdown",
+        "authors": [
+          "Filipe R. Campante",
+          "Davin Chor",
+          "Bingjing Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "5",
+        "pages": "1721–1771",
+        "doi": "10.1093/jeea/jvad007",
+        "url": "https://doi.org/10.1093/jeea/jvad007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4505,6 +4869,38 @@
         "pages": "176–193",
         "doi": "10.1016/j.jdeveco.2006.07.001",
         "url": "https://doi.org/10.1016/j.jdeveco.2006.07.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "title": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "authors": [
+          "Yuan Tian"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "794–813",
+        "doi": "10.1162/rest_a_01175",
+        "url": "https://doi.org/10.1162/rest_a_01175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "title": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "authors": [
+          "Jingting Fan"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "252–288",
+        "doi": "10.1257/mac.20150055",
+        "url": "https://doi.org/10.1257/mac.20150055",
         "verified": true,
         "note": ""
       }
@@ -5102,6 +5498,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2006.07.001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5305,6 +5719,24 @@
         "pages": "103341",
         "doi": "10.1016/j.jdeveco.2024.103341",
         "url": "https://doi.org/10.1016/j.jdeveco.2024.103341",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade liberalization, labor market power, and misallocation across firms: Evidence from China's WTO accession",
+        "title": "Trade liberalization, labor market power, and misallocation across firms: Evidence from China's WTO accession",
+        "authors": [
+          "Enze Xie",
+          "Mingzhi Xu",
+          "Miaojie Yu"
+        ],
+        "year": 2024,
+        "journal": "Journal of Development Economics",
+        "volume": "171",
+        "issue": "",
+        "pages": "103353",
+        "doi": "10.1016/j.jdeveco.2024.103353",
+        "url": "https://doi.org/10.1016/j.jdeveco.2024.103353",
         "verified": true,
         "note": ""
       }
@@ -7054,6 +7486,24 @@
         "url": "https://doi.org/10.1257/pol.20130367",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Political Economy Consequences of China's Export Slowdown",
+        "title": "The Political Economy Consequences of China's Export Slowdown",
+        "authors": [
+          "Filipe R. Campante",
+          "Davin Chor",
+          "Bingjing Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "5",
+        "pages": "1721–1771",
+        "doi": "10.1093/jeea/jvad007",
+        "url": "https://doi.org/10.1093/jeea/jvad007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7459,6 +7909,24 @@
         "pages": "102915",
         "doi": "10.1016/j.jhealeco.2024.102915",
         "url": "https://doi.org/10.1016/j.jhealeco.2024.102915",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "title": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "authors": [
+          "Mi Dai",
+          "Wei Huang",
+          "Yifan Zhang"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "150",
+        "issue": "",
+        "pages": "102628",
+        "doi": "10.1016/j.jdeveco.2021.102628",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102628",
         "verified": true,
         "note": ""
       }
@@ -7911,6 +8379,24 @@
         "pages": "54–70",
         "doi": "10.1257/aeri.20200373",
         "url": "https://doi.org/10.1257/aeri.20200373",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy Consequences of China's Export Slowdown",
+        "title": "The Political Economy Consequences of China's Export Slowdown",
+        "authors": [
+          "Filipe R. Campante",
+          "Davin Chor",
+          "Bingjing Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "5",
+        "pages": "1721–1771",
+        "doi": "10.1093/jeea/jvad007",
+        "url": "https://doi.org/10.1093/jeea/jvad007",
         "verified": true,
         "note": ""
       }
@@ -8393,6 +8879,75 @@
         "pages": "551–615",
         "doi": "10.1093/qje/qjx002",
         "url": "https://doi.org/10.1093/qje/qjx002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "title": "How do households adjust to tariff liberalization? Evidence from China's WTO accession",
+        "authors": [
+          "Mi Dai",
+          "Wei Huang",
+          "Yifan Zhang"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "150",
+        "issue": "",
+        "pages": "102628",
+        "doi": "10.1016/j.jdeveco.2021.102628",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102628",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quota removal, destination-specific export shocks, and skill acquisition in China",
+        "title": "Quota removal, destination-specific export shocks, and skill acquisition in China",
+        "authors": [
+          "Junsen Zhang",
+          "Kang Zhou"
+        ],
+        "year": 2023,
+        "journal": "Journal of Development Economics",
+        "volume": "165",
+        "issue": "",
+        "pages": "103149",
+        "doi": "10.1016/j.jdeveco.2023.103149",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103149",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "title": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "authors": [
+          "Yuan Tian"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "794–813",
+        "doi": "10.1162/rest_a_01175",
+        "url": "https://doi.org/10.1162/rest_a_01175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy Consequences of China's Export Slowdown",
+        "title": "The Political Economy Consequences of China's Export Slowdown",
+        "authors": [
+          "Filipe R. Campante",
+          "Davin Chor",
+          "Bingjing Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "5",
+        "pages": "1721–1771",
+        "doi": "10.1093/jeea/jvad007",
+        "url": "https://doi.org/10.1093/jeea/jvad007",
         "verified": true,
         "note": ""
       }
@@ -10871,6 +11426,24 @@
         "pages": "2327–2348",
         "doi": "10.1257/aer.102.5.2327",
         "url": "https://doi.org/10.1257/aer.102.5.2327",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Racial and Ethnic Inequality and the China Shock",
+        "title": "Racial and Ethnic Inequality and the China Shock",
+        "authors": [
+          "Lisa B. Kahn",
+          "Lindsay Oldenski",
+          "Geunyong Park"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "3",
+        "pages": "476–508",
+        "doi": "10.1257/pol.20240478",
+        "url": "https://doi.org/10.1257/pol.20240478",
         "verified": true,
         "note": ""
       }
@@ -15277,6 +15850,24 @@
         "url": "https://doi.org/10.1257/aer.20250305",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Racial and Ethnic Inequality and the China Shock",
+        "title": "Racial and Ethnic Inequality and the China Shock",
+        "authors": [
+          "Lisa B. Kahn",
+          "Lindsay Oldenski",
+          "Geunyong Park"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "3",
+        "pages": "476–508",
+        "doi": "10.1257/pol.20240478",
+        "url": "https://doi.org/10.1257/pol.20240478",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17282,6 +17873,42 @@
         "pages": "45–61",
         "doi": "10.1162/003465302317331919",
         "url": "https://doi.org/10.1162/003465302317331919",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy",
+        "title": "Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy",
+        "authors": [
+          "Steven Berry",
+          "James Levinsohn",
+          "Ariel Pakes"
+        ],
+        "year": 1999,
+        "journal": "American Economic Review",
+        "volume": "89",
+        "issue": "3",
+        "pages": "400–431",
+        "doi": "10.1257/aer.89.3.400",
+        "url": "https://doi.org/10.1257/aer.89.3.400",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Racial and Ethnic Inequality and the China Shock",
+        "title": "Racial and Ethnic Inequality and the China Shock",
+        "authors": [
+          "Lisa B. Kahn",
+          "Lindsay Oldenski",
+          "Geunyong Park"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "3",
+        "pages": "476–508",
+        "doi": "10.1257/pol.20240478",
+        "url": "https://doi.org/10.1257/pol.20240478",
         "verified": true,
         "note": ""
       }
@@ -22645,6 +23272,25 @@
         "url": "https://doi.org/10.1093/qje/qjaf057",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Adjustment: Worker-Level Evidence",
+        "title": "Trade Adjustment: Worker-Level Evidence",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson",
+          "Jae Song"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "4",
+        "pages": "1799–1860",
+        "doi": "10.1093/qje/qju026",
+        "url": "https://doi.org/10.1093/qje/qju026",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25438,6 +26084,24 @@
         "url": "https://doi.org/10.1162/rest_a_00891",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Racial and Ethnic Inequality and the China Shock",
+        "title": "Racial and Ethnic Inequality and the China Shock",
+        "authors": [
+          "Lisa B. Kahn",
+          "Lindsay Oldenski",
+          "Geunyong Park"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "3",
+        "pages": "476–508",
+        "doi": "10.1257/pol.20240478",
+        "url": "https://doi.org/10.1257/pol.20240478",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27144,6 +27808,60 @@
         "url": "https://doi.org/10.1111/j.1467-937X.2007.00435.x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Multinational Enterprises, International Trade, and Productivity Growth: Firm-Level Evidence from the United States",
+        "title": "Multinational Enterprises, International Trade, and Productivity Growth: Firm-Level Evidence from the United States",
+        "authors": [
+          "Wolfgang Keller",
+          "Stephen R. Yeaple"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "4",
+        "pages": "821–831",
+        "doi": "10.1162/rest.91.4.821",
+        "url": "https://doi.org/10.1162/rest.91.4.821",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation under Trade Liberalization",
+        "title": "Misallocation under Trade Liberalization",
+        "authors": [
+          "Yan Bai",
+          "Keyu Jin",
+          "Dan Lu"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "7",
+        "pages": "1949–1985",
+        "doi": "10.1257/aer.20200596",
+        "url": "https://doi.org/10.1257/aer.20200596",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Adjustment: Worker-Level Evidence",
+        "title": "Trade Adjustment: Worker-Level Evidence",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson",
+          "Jae Song"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "4",
+        "pages": "1799–1860",
+        "doi": "10.1093/qje/qju026",
+        "url": "https://doi.org/10.1093/qje/qju026",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27909,6 +28627,24 @@
         "pages": "828–861",
         "doi": "10.1257/aer.20211601",
         "url": "https://doi.org/10.1257/aer.20211601",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Racial and Ethnic Inequality and the China Shock",
+        "title": "Racial and Ethnic Inequality and the China Shock",
+        "authors": [
+          "Lisa B. Kahn",
+          "Lindsay Oldenski",
+          "Geunyong Park"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "3",
+        "pages": "476–508",
+        "doi": "10.1257/pol.20240478",
+        "url": "https://doi.org/10.1257/pol.20240478",
         "verified": true,
         "note": ""
       }
@@ -29853,6 +30589,24 @@
         "pages": "926–952",
         "doi": "10.1093/ej/ueab098",
         "url": "https://doi.org/10.1093/ej/ueab098",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "title": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "authors": [
+          "Nicholas Bloom",
+          "Mirko Draca",
+          "John Van Reenen"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "1",
+        "pages": "87–117",
+        "doi": "10.1093/restud/rdv039",
+        "url": "https://doi.org/10.1093/restud/rdv039",
         "verified": true,
         "note": ""
       }
@@ -34554,6 +35308,24 @@
         "url": "https://doi.org/10.2307/2296675",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
+        "title": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
+        "authors": [
+          "Kristine W. Hankins",
+          "Morteza Momeni",
+          "David Sovich"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "2",
+        "pages": "627–673",
+        "doi": "10.1257/aer.20230432",
+        "url": "https://doi.org/10.1257/aer.20230432",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34931,6 +35703,24 @@
         "pages": "1163–1228",
         "doi": "10.1093/qje/qjy006",
         "url": "https://doi.org/10.1093/qje/qjy006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Racial and Ethnic Inequality and the China Shock",
+        "title": "Racial and Ethnic Inequality and the China Shock",
+        "authors": [
+          "Lisa B. Kahn",
+          "Lindsay Oldenski",
+          "Geunyong Park"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "3",
+        "pages": "476–508",
+        "doi": "10.1257/pol.20240478",
+        "url": "https://doi.org/10.1257/pol.20240478",
         "verified": true,
         "note": ""
       }
@@ -35864,6 +36654,24 @@
         "pages": "883–936",
         "doi": "10.1093/restud/rdaa030",
         "url": "https://doi.org/10.1093/restud/rdaa030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Production Relocation and Price Effects of US Trade Policy: The Case of Washing Machines",
+        "title": "The Production Relocation and Price Effects of US Trade Policy: The Case of Washing Machines",
+        "authors": [
+          "Aaron Flaaen",
+          "Ali Hortaçsu",
+          "Felix Tintelnot"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "7",
+        "pages": "2103–2127",
+        "doi": "10.1257/aer.20190611",
+        "url": "https://doi.org/10.1257/aer.20190611",
         "verified": true,
         "note": ""
       }
@@ -37584,6 +38392,41 @@
         "url": "https://doi.org/10.1257/aer.20141743",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Multinational Enterprises, International Trade, and Productivity Growth: Firm-Level Evidence from the United States",
+        "title": "Multinational Enterprises, International Trade, and Productivity Growth: Firm-Level Evidence from the United States",
+        "authors": [
+          "Wolfgang Keller",
+          "Stephen R. Yeaple"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "4",
+        "pages": "821–831",
+        "doi": "10.1162/rest.91.4.821",
+        "url": "https://doi.org/10.1162/rest.91.4.821",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38316,6 +39159,45 @@
         "pages": "382–419",
         "doi": "10.1093/restud/rdz003",
         "url": "https://doi.org/10.1093/restud/rdz003",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.47",
+    "title": "美国《总统经济报告》统计附表（Economic Report of the President）",
+    "links": [
+      {
+        "label": "GovInfo: Economic Report of the President",
+        "url": "https://www.govinfo.gov/app/collection/erp"
+      }
+    ],
+    "summary": "美国总统经济顾问委员会（CEA）每年随《总统经济报告》发布的统计附表，汇编国民收入与产出、价格、就业、利率、财政、国际收支等长期宏观时间序列，经 GovInfo 公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "统计附表（Appendix B）从 BEA、BLS、美联储、财政部和人口普查局等机构汇总约 100 张表，很多序列可回溯到 1929 或 1959 年，提供现价和不变价 GDP 分项、个人收入、工业生产、CPI 与 PPI、劳动力和失业、利率、联邦收支与债务、对外贸易等。由于口径统一、整理方便，常被用作宏观和产业组织研究中的价格平减和宏观控制变量来源。",
+    "source": "公开下载（GovInfo）。",
+    "references": [
+      {
+        "raw": "Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy",
+        "title": "Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy",
+        "authors": [
+          "Steven Berry",
+          "James Levinsohn",
+          "Ariel Pakes"
+        ],
+        "year": 1999,
+        "journal": "American Economic Review",
+        "volume": "89",
+        "issue": "3",
+        "pages": "400–431",
+        "doi": "10.1257/aer.89.3.400",
+        "url": "https://doi.org/10.1257/aer.89.3.400",
         "verified": true,
         "note": ""
       }
@@ -59904,6 +60786,24 @@
         "url": "https://doi.org/10.2307/2171802",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy",
+        "title": "Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy",
+        "authors": [
+          "Steven Berry",
+          "James Levinsohn",
+          "Ariel Pakes"
+        ],
+        "year": 1999,
+        "journal": "American Economic Review",
+        "volume": "89",
+        "issue": "3",
+        "pages": "400–431",
+        "doi": "10.1257/aer.89.3.400",
+        "url": "https://doi.org/10.1257/aer.89.3.400",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66104,6 +67004,24 @@
         "url": "https://doi.org/10.1093/restud/rdad059",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Price Caps on Non-Renewable Resources",
+        "title": "A Theory of Price Caps on Non-Renewable Resources",
+        "authors": [
+          "Simon Johnson",
+          "Lukasz Rachel",
+          "Catherine Wolfram"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2711–2753",
+        "doi": "10.1257/aer.20250064",
+        "url": "https://doi.org/10.1257/aer.20250064",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66286,6 +67204,24 @@
         "pages": "105654",
         "doi": "10.1016/j.jpubeco.2026.105654",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105654",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Price Caps on Non-Renewable Resources",
+        "title": "A Theory of Price Caps on Non-Renewable Resources",
+        "authors": [
+          "Simon Johnson",
+          "Lukasz Rachel",
+          "Catherine Wolfram"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2711–2753",
+        "doi": "10.1257/aer.20250064",
+        "url": "https://doi.org/10.1257/aer.20250064",
         "verified": true,
         "note": ""
       }
@@ -68122,6 +69058,59 @@
         "url": "https://doi.org/10.1257/aer.20191521",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Multinational Enterprises, International Trade, and Productivity Growth: Firm-Level Evidence from the United States",
+        "title": "Multinational Enterprises, International Trade, and Productivity Growth: Firm-Level Evidence from the United States",
+        "authors": [
+          "Wolfgang Keller",
+          "Stephen R. Yeaple"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "4",
+        "pages": "821–831",
+        "doi": "10.1162/rest.91.4.821",
+        "url": "https://doi.org/10.1162/rest.91.4.821",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Securing technological leadership? The cost of export controls on firms",
+        "title": "Securing technological leadership? The cost of export controls on firms",
+        "authors": [
+          "Matteo Crosignani",
+          "Lina Han",
+          "Marco Macchiavelli",
+          "André F. Silva"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "104192",
+        "doi": "10.1016/j.jfineco.2025.104192",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104192",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68955,6 +69944,25 @@
         "pages": "549–562",
         "doi": "10.1162/rest_a_00299",
         "url": "https://doi.org/10.1162/rest_a_00299",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Securing technological leadership? The cost of export controls on firms",
+        "title": "Securing technological leadership? The cost of export controls on firms",
+        "authors": [
+          "Matteo Crosignani",
+          "Lina Han",
+          "Marco Macchiavelli",
+          "André F. Silva"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "104192",
+        "doi": "10.1016/j.jfineco.2025.104192",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104192",
         "verified": true,
         "note": ""
       }
@@ -70744,6 +71752,24 @@
         "pages": "2197–2223",
         "doi": "10.3982/ECTA10451",
         "url": "https://doi.org/10.3982/ECTA10451",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
+        "title": "Consumer Credit and the Incidence of Tariffs: Evidence from the Auto Industry",
+        "authors": [
+          "Kristine W. Hankins",
+          "Morteza Momeni",
+          "David Sovich"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "2",
+        "pages": "627–673",
+        "doi": "10.1257/aer.20230432",
+        "url": "https://doi.org/10.1257/aer.20230432",
         "verified": true,
         "note": ""
       }
@@ -73857,6 +74883,24 @@
         "url": "https://doi.org/10.1257/aer.20161570",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "title": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "authors": [
+          "Nicholas Bloom",
+          "Mirko Draca",
+          "John Van Reenen"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "1",
+        "pages": "87–117",
+        "doi": "10.1093/restud/rdv039",
+        "url": "https://doi.org/10.1093/restud/rdv039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -74105,6 +75149,47 @@
         "pages": "1814–1851",
         "doi": "10.1093/ej/ueaf010",
         "url": "https://doi.org/10.1093/ej/ueaf010",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.21",
+    "title": "美国国家科学基金会《科学与工程指标》（Science and Engineering Indicators）",
+    "links": [
+      {
+        "label": "NCSES: Science and Engineering Indicators",
+        "url": "https://ncses.nsf.gov/indicators"
+      }
+    ],
+    "summary": "美国国家科学基金会（NSF）国家科学与工程统计中心（NCSES）每两年发布的科技统计报告和数据表，覆盖美国和各国研发支出、科技人力、高等教育、论文与专利产出、知识和技术密集型产业增加值与贸易。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据",
+      "教育数据"
+    ],
+    "introduction": "《科学与工程指标》汇编 NCSES 自身调查（如企业研发与创新调查 BERD/BRDIS、高校研发调查 HERD、博士学位获得者调查）以及 OECD、UNESCO、Scopus、USPTO 等来源，按主题发布专题报告和可下载的数据表，可比较各国研发强度、科研人员、科技论文、专利、高技术制造业和知识密集服务业增加值及进出口。研究常用它衡量国家或州层面的创新投入与产出。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
         "verified": true,
         "note": ""
       }
@@ -74967,6 +76052,44 @@
         "url": "https://doi.org/10.1086/674633",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Production Relocation and Price Effects of US Trade Policy: The Case of Washing Machines",
+        "title": "The Production Relocation and Price Effects of US Trade Policy: The Case of Washing Machines",
+        "authors": [
+          "Aaron Flaaen",
+          "Ali Hortaçsu",
+          "Felix Tintelnot"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "7",
+        "pages": "2103–2127",
+        "doi": "10.1257/aer.20190611",
+        "url": "https://doi.org/10.1257/aer.20190611",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Policy Dynamics: Evidence from 60 Years of US-China Trade",
+        "title": "Trade Policy Dynamics: Evidence from 60 Years of US-China Trade",
+        "authors": [
+          "George Alessandria",
+          "Shafaat Yar Khan",
+          "Armen Khederlarian",
+          "Kim J. Ruhl",
+          "Joseph B. Steinberg"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "3",
+        "pages": "713–749",
+        "doi": "10.1086/733420",
+        "url": "https://doi.org/10.1086/733420",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -75115,6 +76238,157 @@
         "pages": "364–380",
         "doi": "10.1162/rest_a_00852",
         "url": "https://doi.org/10.1162/rest_a_00852",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "title": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "authors": [
+          "Yuan Tian"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "794–813",
+        "doi": "10.1162/rest_a_01175",
+        "url": "https://doi.org/10.1162/rest_a_01175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "title": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "authors": [
+          "Sofía Fernández Guerrico"
+        ],
+        "year": 2021,
+        "journal": "Journal of Health Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "102538",
+        "doi": "10.1016/j.jhealeco.2021.102538",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102538",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade policy uncertainty and new firm entry: Evidence from China",
+        "title": "Trade policy uncertainty and new firm entry: Evidence from China",
+        "authors": [
+          "Chuantao Cui",
+          "Leona Shao-Zhi Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of Development Economics",
+        "volume": "163",
+        "issue": "",
+        "pages": "103093",
+        "doi": "10.1016/j.jdeveco.2023.103093",
+        "url": "https://doi.org/10.1016/j.jdeveco.2023.103093",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Adjustment: Worker-Level Evidence",
+        "title": "Trade Adjustment: Worker-Level Evidence",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson",
+          "Jae Song"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "4",
+        "pages": "1799–1860",
+        "doi": "10.1093/qje/qju026",
+        "url": "https://doi.org/10.1093/qje/qju026",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Policy Dynamics: Evidence from 60 Years of US-China Trade",
+        "title": "Trade Policy Dynamics: Evidence from 60 Years of US-China Trade",
+        "authors": [
+          "George Alessandria",
+          "Shafaat Yar Khan",
+          "Armen Khederlarian",
+          "Kim J. Ruhl",
+          "Joseph B. Steinberg"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "3",
+        "pages": "713–749",
+        "doi": "10.1086/733420",
+        "url": "https://doi.org/10.1086/733420",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Racial and Ethnic Inequality and the China Shock",
+        "title": "Racial and Ethnic Inequality and the China Shock",
+        "authors": [
+          "Lisa B. Kahn",
+          "Lindsay Oldenski",
+          "Geunyong Park"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "3",
+        "pages": "476–508",
+        "doi": "10.1257/pol.20240478",
+        "url": "https://doi.org/10.1257/pol.20240478",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.15.4",
+    "title": "美国商务部工业与安全局实体清单（BIS Entity List）与综合筛查清单",
+    "links": [
+      {
+        "label": "BIS Entity List",
+        "url": "https://www.bis.gov/entity-list"
+      },
+      {
+        "label": "ITA Consolidated Screening List",
+        "url": "https://www.trade.gov/consolidated-screening-list"
+      }
+    ],
+    "summary": "美国商务部工业与安全局（BIS）依据《出口管理条例》发布的出口管制名单，包括实体清单、未经核实清单和军事最终用户清单，列明受许可证要求限制的外国企业、机构和个人及其列入日期和地址；商务部综合筛查清单（CSL）把各部门制裁和出口管制名单整合为可下载的数据文件。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "政治数据"
+    ],
+    "introduction": "实体清单自 1997 年起通过《联邦公报》公告增补，每条记录包括实体名称、别名、地址、国家、许可要求和审查政策以及公告引用。近年中国科技企业大量被列入，研究者把名单与企业数据库匹配，研究出口管制对目标企业、美国供应商和全球供应链的影响。综合筛查清单提供 CSV/JSON 格式和 API。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Securing technological leadership? The cost of export controls on firms",
+        "title": "Securing technological leadership? The cost of export controls on firms",
+        "authors": [
+          "Matteo Crosignani",
+          "Lina Han",
+          "Marco Macchiavelli",
+          "André F. Silva"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "104192",
+        "doi": "10.1016/j.jfineco.2025.104192",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104192",
         "verified": true,
         "note": ""
       }
@@ -81257,6 +82531,24 @@
         "url": "https://doi.org/10.1093/jeea/jvae019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Rise of the East and the Far East: German Labor Markets and Trade Integration",
+        "title": "The Rise of the East and the Far East: German Labor Markets and Trade Integration",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum"
+        ],
+        "year": 2014,
+        "journal": "Journal of the European Economic Association",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1643–1675",
+        "doi": "10.1111/jeea.12092",
+        "url": "https://doi.org/10.1111/jeea.12092",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82538,6 +83830,42 @@
         "url": "https://doi.org/10.3982/ecta7617",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages",
+        "title": "The Effects of Joining Multinational Supply Chains: New Evidence from Firm-to-Firm Linkages",
+        "authors": [
+          "Alonso Alfaro-Ureña",
+          "Isabela Manelici",
+          "José P. Vásquez"
+        ],
+        "year": 2022,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "3",
+        "pages": "1495–1552",
+        "doi": "10.1093/qje/qjac006",
+        "url": "https://doi.org/10.1093/qje/qjac006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "title": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "authors": [
+          "Nicholas Bloom",
+          "Mirko Draca",
+          "John Van Reenen"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "1",
+        "pages": "87–117",
+        "doi": "10.1093/restud/rdv039",
+        "url": "https://doi.org/10.1093/restud/rdv039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -83118,6 +84446,24 @@
         "pages": "2171–2200",
         "doi": "10.1257/aer.20221687",
         "url": "https://doi.org/10.1257/aer.20221687",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Shocks and Credit Reallocation",
+        "title": "Trade Shocks and Credit Reallocation",
+        "authors": [
+          "Stefano Federico",
+          "Fadi Hassan",
+          "Veronica Rappoport"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "4",
+        "pages": "1142–1169",
+        "doi": "10.1257/aer.20200704",
+        "url": "https://doi.org/10.1257/aer.20200704",
         "verified": true,
         "note": ""
       }
@@ -83996,6 +85342,40 @@
         "pages": "1407–1451",
         "doi": "10.3982/ecta7617",
         "url": "https://doi.org/10.3982/ecta7617",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Trade Responses to Labor Market Regulations",
+        "title": "International Trade Responses to Labor Market Regulations",
+        "authors": [
+          "Mathilde Muñoz"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "11",
+        "pages": "3675–3712",
+        "doi": "10.1257/aer.20231531",
+        "url": "https://doi.org/10.1257/aer.20231531",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "title": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "authors": [
+          "Nicholas Bloom",
+          "Mirko Draca",
+          "John Van Reenen"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "1",
+        "pages": "87–117",
+        "doi": "10.1093/restud/rdv039",
+        "url": "https://doi.org/10.1093/restud/rdv039",
         "verified": true,
         "note": ""
       }
@@ -88499,6 +89879,23 @@
         "url": "https://doi.org/10.1257/pol.20220422",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Trade Liberalization in the Presence of Political Distortions",
+        "title": "The Impact of Trade Liberalization in the Presence of Political Distortions",
+        "authors": [
+          "Sebastian Jävervall",
+          "Roza Khoban"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "1–41",
+        "doi": "10.1257/app.20230629",
+        "url": "https://doi.org/10.1257/app.20230629",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -88931,6 +90328,24 @@
         "pages": "327–371",
         "doi": "10.1086/668675",
         "url": "https://doi.org/10.1086/668675",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
         "verified": true,
         "note": ""
       }
@@ -90254,6 +91669,45 @@
     ]
   },
   {
+    "id": "4.2.17",
+    "title": "柬埔寨社会经济调查（CSES）与人口普查微观数据",
+    "links": [
+      {
+        "label": "NIS Cambodia microdata catalog",
+        "url": "https://microdata.nis.gov.kh"
+      }
+    ],
+    "summary": "柬埔寨国家统计局（NIS）开展的全国住户调查和人口普查：社会经济调查（CSES）自 1993 年起实施，2007 年后年度开展，记录住户收入、消费、就业、教育、健康和住房；1998、2008、2019 年人口普查提供全国人口和住房信息，经 NIS 微观数据目录申请。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "普查数据"
+    ],
+    "introduction": "CSES 是柬埔寨贫困和消费统计的主要来源，问卷包括住户成员人口特征、劳动力与工资、农业和自营业、消费支出、健康和教育、脆弱性与住房设施，部分轮次有大样本模块。人口普查微观样本也收录于 IPUMS International。研究常用这些数据分析柬埔寨成衣出口、劳动力迁移、教育回报和土地改革。",
+    "source": "经 NIS 微观数据目录申请。",
+    "references": [
+      {
+        "raw": "Trade-offs? The Impact of WTO Accession on Intimate Partner Violence in Cambodia",
+        "title": "Trade-offs? The Impact of WTO Accession on Intimate Partner Violence in Cambodia",
+        "authors": [
+          "Bilge Erten",
+          "Pinar Keskin"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "2",
+        "pages": "322–333",
+        "doi": "10.1162/rest_a_01140",
+        "url": "https://doi.org/10.1162/rest_a_01140",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.3.1",
     "title": "印度年度工业调查（ASI）",
     "links": [
@@ -90732,6 +92186,23 @@
         "pages": "995–1009",
         "doi": "10.1162/rest_a_00095",
         "url": "https://doi.org/10.1162/rest_a_00095",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Trade Liberalization in the Presence of Political Distortions",
+        "title": "The Impact of Trade Liberalization in the Presence of Political Distortions",
+        "authors": [
+          "Sebastian Jävervall",
+          "Roza Khoban"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "1–41",
+        "doi": "10.1257/app.20230629",
+        "url": "https://doi.org/10.1257/app.20230629",
         "verified": true,
         "note": ""
       }
@@ -92873,6 +94344,45 @@
     ]
   },
   {
+    "id": "4.15.1",
+    "title": "韩国关税厅进出口贸易统计（Korea Customs Service Trade Statistics）",
+    "links": [
+      {
+        "label": "Korea Customs Service: Trade statistics",
+        "url": "https://unipass.customs.go.kr/ets/index_eng.do"
+      }
+    ],
+    "summary": "韩国关税厅（KCS）通过 UNIPASS 贸易统计系统发布的月度进出口数据，按 HS 10 位商品、国家、地区（市道）和海关分类，公开查询下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "KCS 贸易统计基于报关单汇总，提供按 HS 商品、贸易伙伴、港口和地区的月度和年度进出口值与数量，以及按企业规模和产业分类的统计。研究常用它追踪韩国对美出口受关税、反倾销和贸易协定影响的情况，或作为全球供应链冲击的高频指标。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Production Relocation and Price Effects of US Trade Policy: The Case of Washing Machines",
+        "title": "The Production Relocation and Price Effects of US Trade Policy: The Case of Washing Machines",
+        "authors": [
+          "Aaron Flaaen",
+          "Ali Hortaçsu",
+          "Felix Tintelnot"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "7",
+        "pages": "2103–2127",
+        "doi": "10.1257/aer.20190611",
+        "url": "https://doi.org/10.1257/aer.20190611",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.16.1",
     "title": "韩国教育与就业追踪调查（Korean Education and Employment Panel，KEEP）",
     "links": [
@@ -93227,6 +94737,40 @@
         "pages": "239–281",
         "doi": "10.1086/427464",
         "url": "https://doi.org/10.1086/427464",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "title": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "authors": [
+          "Sofía Fernández Guerrico"
+        ],
+        "year": 2021,
+        "journal": "Journal of Health Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "102538",
+        "doi": "10.1016/j.jhealeco.2021.102538",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102538",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "NAFTA and drug-related violence in Mexico",
+        "title": "NAFTA and drug-related violence in Mexico",
+        "authors": [
+          "Eduardo Hidalgo",
+          "Erik Hornung",
+          "Pablo Selaya"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "181",
+        "issue": "",
+        "pages": "103719",
+        "doi": "10.1016/j.jdeveco.2026.103719",
+        "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
         "verified": true,
         "note": ""
       }
@@ -93770,6 +95314,22 @@
         "url": "https://doi.org/10.1093/qje/qjac008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "title": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "authors": [
+          "Sofía Fernández Guerrico"
+        ],
+        "year": 2021,
+        "journal": "Journal of Health Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "102538",
+        "doi": "10.1016/j.jhealeco.2021.102538",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102538",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94284,6 +95844,22 @@
         "url": "https://doi.org/10.3982/ECTA11150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "title": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "authors": [
+          "Sofía Fernández Guerrico"
+        ],
+        "year": 2021,
+        "journal": "Journal of Health Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "102538",
+        "doi": "10.1016/j.jhealeco.2021.102538",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102538",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94522,6 +96098,23 @@
         "pages": "245–276",
         "doi": "10.1111/1467-937x.00205",
         "url": "https://doi.org/10.1111/1467-937x.00205",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Foreign direct investment in services and manufacturing productivity: Evidence for Chile",
+        "title": "Foreign direct investment in services and manufacturing productivity: Evidence for Chile",
+        "authors": [
+          "Ana M. Fernandes",
+          "Caroline Paunov"
+        ],
+        "year": 2012,
+        "journal": "Journal of Development Economics",
+        "volume": "97",
+        "issue": "2",
+        "pages": "305–321",
+        "doi": "10.1016/j.jdeveco.2011.02.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2011.02.004",
         "verified": true,
         "note": ""
       }
@@ -96267,6 +97860,40 @@
         "url": "https://doi.org/10.1257/pol.20180764",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "title": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "authors": [
+          "Sofía Fernández Guerrico"
+        ],
+        "year": 2021,
+        "journal": "Journal of Health Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "102538",
+        "doi": "10.1016/j.jhealeco.2021.102538",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102538",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "NAFTA and drug-related violence in Mexico",
+        "title": "NAFTA and drug-related violence in Mexico",
+        "authors": [
+          "Eduardo Hidalgo",
+          "Erik Hornung",
+          "Pablo Selaya"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "181",
+        "issue": "",
+        "pages": "103719",
+        "doi": "10.1016/j.jdeveco.2026.103719",
+        "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -96507,6 +98134,44 @@
         "pages": "1061–1110",
         "doi": "10.1093/qje/qjaf006",
         "url": "https://doi.org/10.1093/qje/qjaf006",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.8.9",
+    "title": "墨西哥全国健康与营养调查（Encuesta Nacional de Salud y Nutrición，ENSANUT）",
+    "links": [
+      {
+        "label": "ENSANUT (INSP)",
+        "url": "https://ensanut.insp.mx"
+      }
+    ],
+    "summary": "墨西哥国家公共卫生研究所（INSP）开展的全国代表性健康营养调查，1988 年起有前身调查，2006、2012、2018 年为大规模轮次，2020 年后年度开展，记录住户和个人的健康状况、医疗服务使用、营养、体测和血液生化指标，微观数据公开下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "ENSANUT 覆盖全年龄人群，问卷包括住户社会经济特征、健康保险（IMSS、ISSSTE、Seguro Popular）、慢性病诊断、疫苗接种、医疗服务利用与支出、饮食频率和食品安全，并对子样本进行身高体重、血压测量和血样检测（贫血、血糖、血脂）。研究常用它分析墨西哥的肥胖与糖尿病、医保扩张、汽水税和社会项目的健康效应。",
+    "source": "公开下载（INSP 网站，需注册）。",
+    "references": [
+      {
+        "raw": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "title": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "authors": [
+          "Sofía Fernández Guerrico"
+        ],
+        "year": 2021,
+        "journal": "Journal of Health Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "102538",
+        "doi": "10.1016/j.jhealeco.2021.102538",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102538",
         "verified": true,
         "note": ""
       }
@@ -101119,6 +102784,23 @@
         "url": "https://doi.org/10.1257/aer.20211879",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade-offs? The Impact of WTO Accession on Intimate Partner Violence in Cambodia",
+        "title": "Trade-offs? The Impact of WTO Accession on Intimate Partner Violence in Cambodia",
+        "authors": [
+          "Bilge Erten",
+          "Pinar Keskin"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "2",
+        "pages": "322–333",
+        "doi": "10.1162/rest_a_01140",
+        "url": "https://doi.org/10.1162/rest_a_01140",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -102528,6 +104210,22 @@
         "pages": "36–69",
         "doi": "10.1257/app.20150517",
         "url": "https://doi.org/10.1257/app.20150517",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International isolation and regional inequality: Evidence from sanctions on North Korea",
+        "title": "International isolation and regional inequality: Evidence from sanctions on North Korea",
+        "authors": [
+          "Yong Suk Lee"
+        ],
+        "year": 2018,
+        "journal": "Journal of Urban Economics",
+        "volume": "103",
+        "issue": "",
+        "pages": "34–51",
+        "doi": "10.1016/j.jue.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jue.2017.11.002",
         "verified": true,
         "note": ""
       }
@@ -104078,6 +105776,89 @@
         "url": "https://doi.org/10.1162/rest_a_00033",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Foreign direct investment in services and manufacturing productivity: Evidence for Chile",
+        "title": "Foreign direct investment in services and manufacturing productivity: Evidence for Chile",
+        "authors": [
+          "Ana M. Fernandes",
+          "Caroline Paunov"
+        ],
+        "year": 2012,
+        "journal": "Journal of Development Economics",
+        "volume": "97",
+        "issue": "2",
+        "pages": "305–321",
+        "doi": "10.1016/j.jdeveco.2011.02.004",
+        "url": "https://doi.org/10.1016/j.jdeveco.2011.02.004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International isolation and regional inequality: Evidence from sanctions on North Korea",
+        "title": "International isolation and regional inequality: Evidence from sanctions on North Korea",
+        "authors": [
+          "Yong Suk Lee"
+        ],
+        "year": 2018,
+        "journal": "Journal of Urban Economics",
+        "volume": "103",
+        "issue": "",
+        "pages": "34–51",
+        "doi": "10.1016/j.jue.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jue.2017.11.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exposure of belt and road economies to China trade shocks",
+        "title": "Exposure of belt and road economies to China trade shocks",
+        "authors": [
+          "Paulo Bastos"
+        ],
+        "year": 2020,
+        "journal": "Journal of Development Economics",
+        "volume": "145",
+        "issue": "",
+        "pages": "102474",
+        "doi": "10.1016/j.jdeveco.2020.102474",
+        "url": "https://doi.org/10.1016/j.jdeveco.2020.102474",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -105129,6 +106910,74 @@
         "url": "https://doi.org/10.1257/aer.89.3.379",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation under Trade Liberalization",
+        "title": "Misallocation under Trade Liberalization",
+        "authors": [
+          "Yan Bai",
+          "Keyu Jin",
+          "Dan Lu"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "7",
+        "pages": "1949–1985",
+        "doi": "10.1257/aer.20200596",
+        "url": "https://doi.org/10.1257/aer.20200596",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Structure of Tariffs and Long-Term Growth",
+        "title": "The Structure of Tariffs and Long-Term Growth",
+        "authors": [
+          "Nathan Nunn",
+          "Daniel Trefler"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "4",
+        "pages": "158–194",
+        "doi": "10.1257/mac.2.4.158",
+        "url": "https://doi.org/10.1257/mac.2.4.158",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -105434,6 +107283,22 @@
         "pages": "1100–1129",
         "doi": "10.1111/ecoj.12021",
         "url": "https://doi.org/10.1111/ecoj.12021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
         "verified": true,
         "note": ""
       }
@@ -105826,6 +107691,57 @@
         "pages": "551–615",
         "doi": "10.1093/qje/qjx002",
         "url": "https://doi.org/10.1093/qje/qjx002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Structure of Tariffs and Long-Term Growth",
+        "title": "The Structure of Tariffs and Long-Term Growth",
+        "authors": [
+          "Nathan Nunn",
+          "Daniel Trefler"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "4",
+        "pages": "158–194",
+        "doi": "10.1257/mac.2.4.158",
+        "url": "https://doi.org/10.1257/mac.2.4.158",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Tariffs and Market Power: The Evidence",
+        "title": "Optimal Tariffs and Market Power: The Evidence",
+        "authors": [
+          "Christian Broda",
+          "Nuno Limão",
+          "David E. Weinstein"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "5",
+        "pages": "2032–2065",
+        "doi": "10.1257/aer.98.5.2032",
+        "url": "https://doi.org/10.1257/aer.98.5.2032",
         "verified": true,
         "note": ""
       }
@@ -106734,6 +108650,24 @@
         "url": "https://doi.org/10.1162/rest_a_00304",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy",
+        "title": "Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy",
+        "authors": [
+          "Steven Berry",
+          "James Levinsohn",
+          "Ariel Pakes"
+        ],
+        "year": 1999,
+        "journal": "American Economic Review",
+        "volume": "89",
+        "issue": "3",
+        "pages": "400–431",
+        "doi": "10.1257/aer.89.3.400",
+        "url": "https://doi.org/10.1257/aer.89.3.400",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107038,6 +108972,40 @@
         "url": "https://doi.org/10.1093/qje/qjs016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "title": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "authors": [
+          "Nicholas Bloom",
+          "Mirko Draca",
+          "John Van Reenen"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "1",
+        "pages": "87–117",
+        "doi": "10.1093/restud/rdv039",
+        "url": "https://doi.org/10.1093/restud/rdv039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107254,6 +109222,24 @@
         "pages": "220–262",
         "doi": "10.1257/aer.20211792",
         "url": "https://doi.org/10.1257/aer.20211792",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
         "verified": true,
         "note": ""
       }
@@ -108063,6 +110049,22 @@
         "pages": "49–75",
         "doi": "10.1257/app.6.2.49",
         "url": "https://doi.org/10.1257/app.6.2.49",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
         "verified": true,
         "note": ""
       }
@@ -109216,6 +111218,43 @@
         "pages": "77–109",
         "doi": "10.1257/mac.20180296",
         "url": "https://doi.org/10.1257/mac.20180296",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.48",
+    "title": "OECD 工资税收数据库（Taxing Wages）",
+    "links": [
+      {
+        "label": "OECD Taxing Wages",
+        "url": "https://www.oecd.org/en/data/datasets/oecd-tax-wages-database.html"
+      }
+    ],
+    "summary": "OECD 每年发布的成员国劳动所得税负数据，按八类典型家庭（单身或已婚、有无子女、不同工资水平）计算个人所得税、雇员和雇主社保缴费、现金福利，给出平均和边际税楔，序列始于 2000 年（部分指标更早）。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "Taxing Wages 以各国平均工资为基准，用各国税法模拟典型家庭的总劳动成本、税后收入、平均税率和边际税率，并分解为所得税、社保缴费和家庭福利。数据可跨国、跨年比较劳动税负，常用于研究劳动供给、跨国人才流动、派遣工人和税收竞争。",
+    "source": "公开下载（OECD Data Explorer）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "International Trade Responses to Labor Market Regulations",
+        "title": "International Trade Responses to Labor Market Regulations",
+        "authors": [
+          "Mathilde Muñoz"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "11",
+        "pages": "3675–3712",
+        "doi": "10.1257/aer.20231531",
+        "url": "https://doi.org/10.1257/aer.20231531",
         "verified": true,
         "note": ""
       }
@@ -111453,6 +113492,23 @@
         "url": "https://doi.org/10.1093/qje/qjr009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Trade Liberalization in the Presence of Political Distortions",
+        "title": "The Impact of Trade Liberalization in the Presence of Political Distortions",
+        "authors": [
+          "Sebastian Jävervall",
+          "Roza Khoban"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "1–41",
+        "doi": "10.1257/app.20230629",
+        "url": "https://doi.org/10.1257/app.20230629",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -112410,6 +114466,24 @@
         "pages": "1284–1314",
         "doi": "10.1257/aer.20180284",
         "url": "https://doi.org/10.1257/aer.20180284",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "NAFTA and drug-related violence in Mexico",
+        "title": "NAFTA and drug-related violence in Mexico",
+        "authors": [
+          "Eduardo Hidalgo",
+          "Erik Hornung",
+          "Pablo Selaya"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "181",
+        "issue": "",
+        "pages": "103719",
+        "doi": "10.1016/j.jdeveco.2026.103719",
+        "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
         "verified": true,
         "note": ""
       }
@@ -116929,6 +119003,24 @@
         "url": "https://doi.org/10.3982/ECTA10217",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The undoing of economic sanctions: Evidence from the Russia-Ukraine conflict",
+        "title": "The undoing of economic sanctions: Evidence from the Russia-Ukraine conflict",
+        "authors": [
+          "Raymond Fisman",
+          "Giovanna Marcolongo",
+          "Meng Wu"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105470",
+        "doi": "10.1016/j.jpubeco.2025.105470",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105470",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -117524,6 +119616,64 @@
         "pages": "657–691",
         "doi": "10.3982/ecta15455",
         "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Price Caps on Non-Renewable Resources",
+        "title": "A Theory of Price Caps on Non-Renewable Resources",
+        "authors": [
+          "Simon Johnson",
+          "Lukasz Rachel",
+          "Catherine Wolfram"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2711–2753",
+        "doi": "10.1257/aer.20250064",
+        "url": "https://doi.org/10.1257/aer.20250064",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.7.14",
+    "title": "CREA 俄罗斯化石燃料出口追踪（Russia Fossil Fuel Tracker）",
+    "links": [
+      {
+        "label": "CREA: Russia fossil fuel tracker",
+        "url": "https://energyandcleanair.org/russia-sanction-tracker/"
+      }
+    ],
+    "summary": "芬兰能源与清洁空气研究中心（CREA）自 2022 年俄乌战争后发布的俄罗斯化石燃料出口追踪数据，基于船舶 AIS 航迹、管道流量和贸易统计，按日估计俄罗斯原油、成品油、液化天然气、管道气和煤炭的出口量、目的国和收入。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "能源数据",
+      "贸易数据"
+    ],
+    "introduction": "追踪器把海运货物（按油轮航次、装卸港口、船东和保险国）与管道输送数据结合，用价格估算出口收入，并标注是否涉及七国集团价格上限国家的船舶或保险服务。数据可按日、按燃料、按进口国下载，常用于研究制裁与价格上限的效果、贸易转移和\"影子舰队\"。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "A Theory of Price Caps on Non-Renewable Resources",
+        "title": "A Theory of Price Caps on Non-Renewable Resources",
+        "authors": [
+          "Simon Johnson",
+          "Lukasz Rachel",
+          "Catherine Wolfram"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2711–2753",
+        "doi": "10.1257/aer.20250064",
+        "url": "https://doi.org/10.1257/aer.20250064",
         "verified": true,
         "note": ""
       }
@@ -118701,6 +120851,23 @@
         "url": "https://doi.org/10.1093/ej/ueab098",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Structure of Tariffs and Long-Term Growth",
+        "title": "The Structure of Tariffs and Long-Term Growth",
+        "authors": [
+          "Nathan Nunn",
+          "Daniel Trefler"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "4",
+        "pages": "158–194",
+        "doi": "10.1257/mac.2.4.158",
+        "url": "https://doi.org/10.1257/mac.2.4.158",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -118770,6 +120937,23 @@
         "pages": "823–860",
         "doi": "10.1111/j.1540-6261.2009.01450.x",
         "url": "https://doi.org/10.1111/j.1540-6261.2009.01450.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
         "verified": true,
         "note": ""
       }
@@ -119035,6 +121219,23 @@
         "pages": "36–69",
         "doi": "10.1257/app.20150517",
         "url": "https://doi.org/10.1257/app.20150517",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Structure of Tariffs and Long-Term Growth",
+        "title": "The Structure of Tariffs and Long-Term Growth",
+        "authors": [
+          "Nathan Nunn",
+          "Daniel Trefler"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "4",
+        "pages": "158–194",
+        "doi": "10.1257/mac.2.4.158",
+        "url": "https://doi.org/10.1257/mac.2.4.158",
         "verified": true,
         "note": ""
       }
@@ -119710,6 +121911,23 @@
         "url": "https://doi.org/10.1162/003465300558533",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Detecting Illegal Arms Trade",
+        "title": "Detecting Illegal Arms Trade",
+        "authors": [
+          "Stefano DellaVigna",
+          "Eliana La Ferrara"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "4",
+        "pages": "26–57",
+        "doi": "10.1257/pol.2.4.26",
+        "url": "https://doi.org/10.1257/pol.2.4.26",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -119978,6 +122196,23 @@
         "url": "https://doi.org/10.1111/j.1467-937X.2007.00435.x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Structure of Tariffs and Long-Term Growth",
+        "title": "The Structure of Tariffs and Long-Term Growth",
+        "authors": [
+          "Nathan Nunn",
+          "Daniel Trefler"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "4",
+        "pages": "158–194",
+        "doi": "10.1257/mac.2.4.158",
+        "url": "https://doi.org/10.1257/mac.2.4.158",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -120238,6 +122473,39 @@
         "pages": "569–600",
         "doi": "10.1162/qjec.122.2.569",
         "url": "https://doi.org/10.1162/qjec.122.2.569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
         "verified": true,
         "note": ""
       }
@@ -120813,6 +123081,23 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2015.12.001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Detecting Illegal Arms Trade",
+        "title": "Detecting Illegal Arms Trade",
+        "authors": [
+          "Stefano DellaVigna",
+          "Eliana La Ferrara"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "4",
+        "pages": "26–57",
+        "doi": "10.1257/pol.2.4.26",
+        "url": "https://doi.org/10.1257/pol.2.4.26",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -120851,6 +123136,45 @@
         "pages": "1341–1385",
         "doi": "10.1093/jeea/jvx003",
         "url": "https://doi.org/10.1093/jeea/jvx003",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.31",
+    "title": "SIPRI 军工企业数据库（SIPRI Arms Industry Database / Top 100）",
+    "links": [
+      {
+        "label": "SIPRI Arms Industry Database",
+        "url": "https://www.sipri.org/databases/armsindustry"
+      }
+    ],
+    "summary": "斯德哥尔摩国际和平研究所（SIPRI）发布的全球最大军工及军事服务企业数据，2002 年起每年公布按军火销售额排名的前 100 家企业及其总部国家、军火销售额、总销售额、利润和雇员数，公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据",
+      "商业数据"
+    ],
+    "introduction": "SIPRI 依据企业年报、新闻和政府资料估算各企业的军火销售额（向军方客户出售的军事商品和服务），并标注母公司和子公司关系。数据库可追溯到 1990 年代（早期版本排除中国企业，2015 年起逐步纳入）。与 SIPRI 军费数据库和武器转让数据库配合，可用于研究军工企业股价、军事开支与产业政策、武器出口与冲突等问题。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Detecting Illegal Arms Trade",
+        "title": "Detecting Illegal Arms Trade",
+        "authors": [
+          "Stefano DellaVigna",
+          "Eliana La Ferrara"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "4",
+        "pages": "26–57",
+        "doi": "10.1257/pol.2.4.26",
+        "url": "https://doi.org/10.1257/pol.2.4.26",
         "verified": true,
         "note": ""
       }
@@ -121393,6 +123717,23 @@
         "url": "https://doi.org/10.1162/qjec.122.2.569",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -121747,6 +124088,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.24149/wp2539",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Price Caps on Non-Renewable Resources",
+        "title": "A Theory of Price Caps on Non-Renewable Resources",
+        "authors": [
+          "Simon Johnson",
+          "Lukasz Rachel",
+          "Catherine Wolfram"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2711–2753",
+        "doi": "10.1257/aer.20250064",
+        "url": "https://doi.org/10.1257/aer.20250064",
         "verified": true,
         "note": ""
       }
@@ -122155,6 +124514,23 @@
         "url": "https://doi.org/10.1111/1467-937x.00097",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Detecting Illegal Arms Trade",
+        "title": "Detecting Illegal Arms Trade",
+        "authors": [
+          "Stefano DellaVigna",
+          "Eliana La Ferrara"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "4",
+        "pages": "26–57",
+        "doi": "10.1257/pol.2.4.26",
+        "url": "https://doi.org/10.1257/pol.2.4.26",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -122210,6 +124586,24 @@
         "pages": "93–130",
         "doi": "10.1257/mac.2.1.93",
         "url": "https://doi.org/10.1257/mac.2.1.93",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Price Caps on Non-Renewable Resources",
+        "title": "A Theory of Price Caps on Non-Renewable Resources",
+        "authors": [
+          "Simon Johnson",
+          "Lukasz Rachel",
+          "Catherine Wolfram"
+        ],
+        "year": 2026,
+        "journal": "American Economic Review",
+        "volume": "116",
+        "issue": "7",
+        "pages": "2711–2753",
+        "doi": "10.1257/aer.20250064",
+        "url": "https://doi.org/10.1257/aer.20250064",
         "verified": true,
         "note": ""
       }
@@ -122677,6 +125071,25 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.03.005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Securing technological leadership? The cost of export controls on firms",
+        "title": "Securing technological leadership? The cost of export controls on firms",
+        "authors": [
+          "Matteo Crosignani",
+          "Lina Han",
+          "Marco Macchiavelli",
+          "André F. Silva"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "104192",
+        "doi": "10.1016/j.jfineco.2025.104192",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104192",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -122864,6 +125277,23 @@
         "url": "https://doi.org/10.1093/restud/rdaa019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Detecting Illegal Arms Trade",
+        "title": "Detecting Illegal Arms Trade",
+        "authors": [
+          "Stefano DellaVigna",
+          "Eliana La Ferrara"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "2",
+        "issue": "4",
+        "pages": "26–57",
+        "doi": "10.1257/pol.2.4.26",
+        "url": "https://doi.org/10.1257/pol.2.4.26",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -123033,6 +125463,25 @@
         "pages": "2462–2505",
         "doi": "10.1086/735510",
         "url": "https://doi.org/10.1086/735510",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Securing technological leadership? The cost of export controls on firms",
+        "title": "Securing technological leadership? The cost of export controls on firms",
+        "authors": [
+          "Matteo Crosignani",
+          "Lina Han",
+          "Marco Macchiavelli",
+          "André F. Silva"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial Economics",
+        "volume": "175",
+        "issue": "",
+        "pages": "104192",
+        "doi": "10.1016/j.jfineco.2025.104192",
+        "url": "https://doi.org/10.1016/j.jfineco.2025.104192",
         "verified": true,
         "note": ""
       }
@@ -123859,6 +126308,24 @@
         "url": "https://doi.org/10.1162/003465300558533",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -124148,6 +126615,24 @@
         "url": "https://doi.org/10.1257/aer.20160284",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "title": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "authors": [
+          "Nicholas Bloom",
+          "Mirko Draca",
+          "John Van Reenen"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "1",
+        "pages": "87–117",
+        "doi": "10.1093/restud/rdv039",
+        "url": "https://doi.org/10.1093/restud/rdv039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -124237,6 +126722,24 @@
         "pages": "1324–1336",
         "doi": "10.1162/rest_a_00304",
         "url": "https://doi.org/10.1162/rest_a_00304",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
         "verified": true,
         "note": ""
       }
@@ -124907,6 +127410,24 @@
         "url": "https://doi.org/10.1257/aer.20211601",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -125102,6 +127623,24 @@
         "pages": "1389–1419",
         "doi": "10.2307/2171741",
         "url": "https://doi.org/10.2307/2171741",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
         "verified": true,
         "note": ""
       }
@@ -125804,6 +128343,22 @@
         "url": "https://doi.org/10.3982/ECTA20608",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "International isolation and regional inequality: Evidence from sanctions on North Korea",
+        "title": "International isolation and regional inequality: Evidence from sanctions on North Korea",
+        "authors": [
+          "Yong Suk Lee"
+        ],
+        "year": 2018,
+        "journal": "Journal of Urban Economics",
+        "volume": "103",
+        "issue": "",
+        "pages": "34–51",
+        "doi": "10.1016/j.jue.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jue.2017.11.002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126318,6 +128873,24 @@
         "url": "https://doi.org/10.1086/701682",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "NAFTA and drug-related violence in Mexico",
+        "title": "NAFTA and drug-related violence in Mexico",
+        "authors": [
+          "Eduardo Hidalgo",
+          "Erik Hornung",
+          "Pablo Selaya"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "181",
+        "issue": "",
+        "pages": "103719",
+        "doi": "10.1016/j.jdeveco.2026.103719",
+        "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126663,6 +129236,22 @@
         "url": "https://doi.org/10.3982/ecta15455",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126715,6 +129304,24 @@
         "pages": "1–33",
         "doi": "10.3982/ECTA20608",
         "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "NAFTA and drug-related violence in Mexico",
+        "title": "NAFTA and drug-related violence in Mexico",
+        "authors": [
+          "Eduardo Hidalgo",
+          "Erik Hornung",
+          "Pablo Selaya"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "181",
+        "issue": "",
+        "pages": "103719",
+        "doi": "10.1016/j.jdeveco.2026.103719",
+        "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
         "verified": true,
         "note": ""
       }
@@ -128139,6 +130746,215 @@
         "url": "https://doi.org/10.1162/rest_a_00033",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local intermediate inputs and the shared supplier spillovers of foreign direct investment",
+        "title": "Local intermediate inputs and the shared supplier spillovers of foreign direct investment",
+        "authors": [
+          "Hiau Looi Kee"
+        ],
+        "year": 2015,
+        "journal": "Journal of Development Economics",
+        "volume": "112",
+        "issue": "",
+        "pages": "56–71",
+        "doi": "10.1016/j.jdeveco.2014.09.007",
+        "url": "https://doi.org/10.1016/j.jdeveco.2014.09.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "title": "The effects of trade-induced worker displacement on health and mortality in Mexico",
+        "authors": [
+          "Sofía Fernández Guerrico"
+        ],
+        "year": 2021,
+        "journal": "Journal of Health Economics",
+        "volume": "80",
+        "issue": "",
+        "pages": "102538",
+        "doi": "10.1016/j.jhealeco.2021.102538",
+        "url": "https://doi.org/10.1016/j.jhealeco.2021.102538",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "title": "Internal Geography, Labor Mobility, and the Distributional Impacts of Trade",
+        "authors": [
+          "Jingting Fan"
+        ],
+        "year": 2019,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "11",
+        "issue": "3",
+        "pages": "252–288",
+        "doi": "10.1257/mac.20150055",
+        "url": "https://doi.org/10.1257/mac.20150055",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International isolation and regional inequality: Evidence from sanctions on North Korea",
+        "title": "International isolation and regional inequality: Evidence from sanctions on North Korea",
+        "authors": [
+          "Yong Suk Lee"
+        ],
+        "year": 2018,
+        "journal": "Journal of Urban Economics",
+        "volume": "103",
+        "issue": "",
+        "pages": "34–51",
+        "doi": "10.1016/j.jue.2017.11.002",
+        "url": "https://doi.org/10.1016/j.jue.2017.11.002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The undoing of economic sanctions: Evidence from the Russia-Ukraine conflict",
+        "title": "The undoing of economic sanctions: Evidence from the Russia-Ukraine conflict",
+        "authors": [
+          "Raymond Fisman",
+          "Giovanna Marcolongo",
+          "Meng Wu"
+        ],
+        "year": 2025,
+        "journal": "Journal of Public Economics",
+        "volume": "249",
+        "issue": "",
+        "pages": "105470",
+        "doi": "10.1016/j.jpubeco.2025.105470",
+        "url": "https://doi.org/10.1016/j.jpubeco.2025.105470",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Tariffs and Market Power: The Evidence",
+        "title": "Optimal Tariffs and Market Power: The Evidence",
+        "authors": [
+          "Christian Broda",
+          "Nuno Limão",
+          "David E. Weinstein"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "5",
+        "pages": "2032–2065",
+        "doi": "10.1257/aer.98.5.2032",
+        "url": "https://doi.org/10.1257/aer.98.5.2032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Adjustment: Worker-Level Evidence",
+        "title": "Trade Adjustment: Worker-Level Evidence",
+        "authors": [
+          "David H. Autor",
+          "David Dorn",
+          "Gordon H. Hanson",
+          "Jae Song"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "4",
+        "pages": "1799–1860",
+        "doi": "10.1093/qje/qju026",
+        "url": "https://doi.org/10.1093/qje/qju026",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise of the East and the Far East: German Labor Markets and Trade Integration",
+        "title": "The Rise of the East and the Far East: German Labor Markets and Trade Integration",
+        "authors": [
+          "Wolfgang Dauth",
+          "Sebastian Findeisen",
+          "Jens Suedekum"
+        ],
+        "year": 2014,
+        "journal": "Journal of the European Economic Association",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1643–1675",
+        "doi": "10.1111/jeea.12092",
+        "url": "https://doi.org/10.1111/jeea.12092",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "title": "Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity",
+        "authors": [
+          "Nicholas Bloom",
+          "Mirko Draca",
+          "John Van Reenen"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economic Studies",
+        "volume": "83",
+        "issue": "1",
+        "pages": "87–117",
+        "doi": "10.1093/restud/rdv039",
+        "url": "https://doi.org/10.1093/restud/rdv039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Shocks and Credit Reallocation",
+        "title": "Trade Shocks and Credit Reallocation",
+        "authors": [
+          "Stefano Federico",
+          "Fadi Hassan",
+          "Veronica Rappoport"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "4",
+        "pages": "1142–1169",
+        "doi": "10.1257/aer.20200704",
+        "url": "https://doi.org/10.1257/aer.20200704",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Racial and Ethnic Inequality and the China Shock",
+        "title": "Racial and Ethnic Inequality and the China Shock",
+        "authors": [
+          "Lisa B. Kahn",
+          "Lindsay Oldenski",
+          "Geunyong Park"
+        ],
+        "year": 2026,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "18",
+        "issue": "3",
+        "pages": "476–508",
+        "doi": "10.1257/pol.20240478",
+        "url": "https://doi.org/10.1257/pol.20240478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy Consequences of China's Export Slowdown",
+        "title": "The Political Economy Consequences of China's Export Slowdown",
+        "authors": [
+          "Filipe R. Campante",
+          "Davin Chor",
+          "Bingjing Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "5",
+        "pages": "1721–1771",
+        "doi": "10.1093/jeea/jvad007",
+        "url": "https://doi.org/10.1093/jeea/jvad007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -128508,6 +131324,39 @@
         "url": "https://doi.org/10.1093/ej/ueab098",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International Trade Responses to Labor Market Regulations",
+        "title": "International Trade Responses to Labor Market Regulations",
+        "authors": [
+          "Mathilde Muñoz"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "11",
+        "pages": "3675–3712",
+        "doi": "10.1257/aer.20231531",
+        "url": "https://doi.org/10.1257/aer.20231531",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -128723,6 +131572,76 @@
         "pages": "2894–2936",
         "doi": "10.1257/aer.20210107",
         "url": "https://doi.org/10.1257/aer.20210107",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exposure of belt and road economies to China trade shocks",
+        "title": "Exposure of belt and road economies to China trade shocks",
+        "authors": [
+          "Paulo Bastos"
+        ],
+        "year": 2020,
+        "journal": "Journal of Development Economics",
+        "volume": "145",
+        "issue": "",
+        "pages": "102474",
+        "doi": "10.1016/j.jdeveco.2020.102474",
+        "url": "https://doi.org/10.1016/j.jdeveco.2020.102474",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Policy Dynamics: Evidence from 60 Years of US-China Trade",
+        "title": "Trade Policy Dynamics: Evidence from 60 Years of US-China Trade",
+        "authors": [
+          "George Alessandria",
+          "Shafaat Yar Khan",
+          "Armen Khederlarian",
+          "Kim J. Ruhl",
+          "Joseph B. Steinberg"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "3",
+        "pages": "713–749",
+        "doi": "10.1086/733420",
+        "url": "https://doi.org/10.1086/733420",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy Consequences of China's Export Slowdown",
+        "title": "The Political Economy Consequences of China's Export Slowdown",
+        "authors": [
+          "Filipe R. Campante",
+          "Davin Chor",
+          "Bingjing Li"
+        ],
+        "year": 2023,
+        "journal": "Journal of the European Economic Association",
+        "volume": "21",
+        "issue": "5",
+        "pages": "1721–1771",
+        "doi": "10.1093/jeea/jvad007",
+        "url": "https://doi.org/10.1093/jeea/jvad007",
         "verified": true,
         "note": ""
       }
@@ -128966,6 +131885,43 @@
         "pages": "109–146",
         "doi": "10.1257/aer.20150796",
         "url": "https://doi.org/10.1257/aer.20150796",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Multinational Enterprises, International Trade, and Productivity Growth: Firm-Level Evidence from the United States",
+        "title": "Multinational Enterprises, International Trade, and Productivity Growth: Firm-Level Evidence from the United States",
+        "authors": [
+          "Wolfgang Keller",
+          "Stephen R. Yeaple"
+        ],
+        "year": 2009,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "91",
+        "issue": "4",
+        "pages": "821–831",
+        "doi": "10.1162/rest.91.4.821",
+        "url": "https://doi.org/10.1162/rest.91.4.821",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Policy Dynamics: Evidence from 60 Years of US-China Trade",
+        "title": "Trade Policy Dynamics: Evidence from 60 Years of US-China Trade",
+        "authors": [
+          "George Alessandria",
+          "Shafaat Yar Khan",
+          "Armen Khederlarian",
+          "Kim J. Ruhl",
+          "Joseph B. Steinberg"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "3",
+        "pages": "713–749",
+        "doi": "10.1086/733420",
+        "url": "https://doi.org/10.1086/733420",
         "verified": true,
         "note": ""
       }
@@ -129427,6 +132383,41 @@
         "url": "https://doi.org/10.1257/aer.104.2.564",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "title": "Quid Pro Quo: Technology Capital Transfers for Market Access in China",
+        "authors": [
+          "Thomas J. Holmes",
+          "Ellen R. McGrattan",
+          "Edward C. Prescott"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "3",
+        "pages": "1154–1193",
+        "doi": "10.1093/restud/rdv008",
+        "url": "https://doi.org/10.1093/restud/rdv008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -129747,6 +132738,110 @@
         "url": "https://doi.org/10.1093/qje/qjs016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "title": "International Trade Liberalization and Domestic Institutional Reform: Effects of WTO Accession on Chinese Internal Migration Policy",
+        "authors": [
+          "Yuan Tian"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "3",
+        "pages": "794–813",
+        "doi": "10.1162/rest_a_01175",
+        "url": "https://doi.org/10.1162/rest_a_01175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade-offs? The Impact of WTO Accession on Intimate Partner Violence in Cambodia",
+        "title": "Trade-offs? The Impact of WTO Accession on Intimate Partner Violence in Cambodia",
+        "authors": [
+          "Bilge Erten",
+          "Pinar Keskin"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "2",
+        "pages": "322–333",
+        "doi": "10.1162/rest_a_01140",
+        "url": "https://doi.org/10.1162/rest_a_01140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "NAFTA and drug-related violence in Mexico",
+        "title": "NAFTA and drug-related violence in Mexico",
+        "authors": [
+          "Eduardo Hidalgo",
+          "Erik Hornung",
+          "Pablo Selaya"
+        ],
+        "year": 2026,
+        "journal": "Journal of Development Economics",
+        "volume": "181",
+        "issue": "",
+        "pages": "103719",
+        "doi": "10.1016/j.jdeveco.2026.103719",
+        "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "title": "The Missing Food Problem: Trade, Agriculture, and International Productivity Differences",
+        "authors": [
+          "Trevor Tombe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "7",
+        "issue": "3",
+        "pages": "226–258",
+        "doi": "10.1257/mac.20130108",
+        "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Tariffs and Market Power: The Evidence",
+        "title": "Optimal Tariffs and Market Power: The Evidence",
+        "authors": [
+          "Christian Broda",
+          "Nuno Limão",
+          "David E. Weinstein"
+        ],
+        "year": 2008,
+        "journal": "American Economic Review",
+        "volume": "98",
+        "issue": "5",
+        "pages": "2032–2065",
+        "doi": "10.1257/aer.98.5.2032",
+        "url": "https://doi.org/10.1257/aer.98.5.2032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Import competition and firm innovation: Evidence from China",
+        "title": "Import competition and firm innovation: Evidence from China",
+        "authors": [
+          "Qing Liu",
+          "Ruosi Lu",
+          "Yi Lu",
+          "Tuan Anh Luong"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "151",
+        "issue": "",
+        "pages": "102650",
+        "doi": "10.1016/j.jdeveco.2021.102650",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102650",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -129823,6 +132918,45 @@
         "pages": "102677",
         "doi": "10.1016/j.jdeveco.2021.102677",
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102677",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.20",
+    "title": "fDi Markets 跨境绿地投资项目数据库（Financial Times fDi Intelligence）",
+    "links": [
+      {
+        "label": "fDi Markets",
+        "url": "https://www.fdimarkets.com/"
+      }
+    ],
+    "summary": "英国《金融时报》旗下 fDi Intelligence 维护的全球跨境绿地投资项目数据库，自 2003 年起逐项记录宣布的新建和扩建投资项目，包括投资企业、来源国、目的国与城市、行业、业务活动、投资额和创造就业，需商业订阅。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "商业数据"
+    ],
+    "introduction": "fDi Markets 通过媒体报道、企业公告、投资促进机构和行业组织信息追踪全球绿地 FDI 项目，已收录 30 多万个项目，每个项目标注母公司及其总部、投资目的地（国家、地区、城市）、行业和价值链环节（制造、研发、销售、物流、总部等）、资本投入和就业估计（部分为模型估算）。它是联合国贸发会议《世界投资报告》绿地投资统计的数据来源，也被大量研究用于分析跨国公司选址、投资促进和制度对 FDI 的影响。",
+    "source": "付费商业（订阅）。",
+    "references": [
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
         "verified": true,
         "note": ""
       }
@@ -130077,6 +133211,40 @@
         "pages": "209–223",
         "doi": "10.1016/j.jdeveco.2015.12.001",
         "url": "https://doi.org/10.1016/j.jdeveco.2015.12.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of financial development on foreign direct investment",
+        "title": "The effects of financial development on foreign direct investment",
+        "authors": [
+          "Rodolphe Desbordes",
+          "Shang-Jin Wei"
+        ],
+        "year": 2017,
+        "journal": "Journal of Development Economics",
+        "volume": "127",
+        "issue": "",
+        "pages": "153–168",
+        "doi": "10.1016/j.jdeveco.2017.02.008",
+        "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Structure of Tariffs and Long-Term Growth",
+        "title": "The Structure of Tariffs and Long-Term Growth",
+        "authors": [
+          "Nathan Nunn",
+          "Daniel Trefler"
+        ],
+        "year": 2010,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "2",
+        "issue": "4",
+        "pages": "158–194",
+        "doi": "10.1257/mac.2.4.158",
+        "url": "https://doi.org/10.1257/mac.2.4.158",
         "verified": true,
         "note": ""
       }
