@@ -8697,6 +8697,40 @@
         "url": "https://doi.org/10.1086/696225",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Minimum Wages and Racial Inequality",
+        "title": "Minimum Wages and Racial Inequality",
+        "authors": [
+          "Ellora Derenoncourt",
+          "Claire Montialoux"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "169–228",
+        "doi": "10.1093/qje/qjaa031",
+        "url": "https://doi.org/10.1093/qje/qjaa031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "title": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "authors": [
+          "Colleen Carey",
+          "Stephen H. Shore"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "2",
+        "pages": "549–562",
+        "doi": "10.1162/rest_a_00299",
+        "url": "https://doi.org/10.1162/rest_a_00299",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -10057,6 +10091,24 @@
         "pages": "3952–3990",
         "doi": "10.1257/aer.20190680",
         "url": "https://doi.org/10.1257/aer.20190680",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monopsony in the US Labor Market",
+        "title": "Monopsony in the US Labor Market",
+        "authors": [
+          "Chen Yeh",
+          "Claudia Macaluso",
+          "Brad Hershbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "7",
+        "pages": "2099–2138",
+        "doi": "10.1257/aer.20200025",
+        "url": "https://doi.org/10.1257/aer.20200025",
         "verified": true,
         "note": ""
       }
@@ -12051,6 +12103,76 @@
         "url": "https://doi.org/10.1257/aer.20210182",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Sorting",
+        "title": "Spatial Sorting",
+        "authors": [
+          "Jan Eeckhout",
+          "Roberto Pinheiro",
+          "Kurt Schmidheiny"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "3",
+        "pages": "554–620",
+        "doi": "10.1086/676141",
+        "url": "https://doi.org/10.1086/676141",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Salary History and Employer Demand: Evidence from a Two-Sided Audit",
+        "title": "Salary History and Employer Demand: Evidence from a Two-Sided Audit",
+        "authors": [
+          "Amanda Y. Agan",
+          "Bo Cowgill",
+          "Laura K. Gee"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "380–413",
+        "doi": "10.1257/app.20230365",
+        "url": "https://doi.org/10.1257/app.20230365",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages and Racial Inequality",
+        "title": "Minimum Wages and Racial Inequality",
+        "authors": [
+          "Ellora Derenoncourt",
+          "Claire Montialoux"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "169–228",
+        "doi": "10.1093/qje/qjaa031",
+        "url": "https://doi.org/10.1093/qje/qjaa031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "title": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "authors": [
+          "Colleen Carey",
+          "Stephen H. Shore"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "2",
+        "pages": "549–562",
+        "doi": "10.1162/rest_a_00299",
+        "url": "https://doi.org/10.1162/rest_a_00299",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13529,6 +13651,255 @@
         "url": "https://doi.org/10.1093/qje/qjy001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Sorting",
+        "title": "Spatial Sorting",
+        "authors": [
+          "Jan Eeckhout",
+          "Roberto Pinheiro",
+          "Kurt Schmidheiny"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "3",
+        "pages": "554–620",
+        "doi": "10.1086/676141",
+        "url": "https://doi.org/10.1086/676141",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Wealth on Worker Productivity",
+        "title": "The Effect of Wealth on Worker Productivity",
+        "authors": [
+          "Jan Eeckhout",
+          "Alireza Sepahsalari"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1584–1633",
+        "doi": "10.1093/restud/rdad059",
+        "url": "https://doi.org/10.1093/restud/rdad059",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Macrodynamics of Sorting between Workers and Firms",
+        "title": "The Macrodynamics of Sorting between Workers and Firms",
+        "authors": [
+          "Jeremy Lise",
+          "Jean-Marc Robin"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "1104–1135",
+        "doi": "10.1257/aer.20131118",
+        "url": "https://doi.org/10.1257/aer.20131118",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "title": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "authors": [
+          "Matthew S. Johnson",
+          "Kurt Lavetti",
+          "Michael Lipsitz"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "9",
+        "pages": "2735–2793",
+        "doi": "10.1086/736217",
+        "url": "https://doi.org/10.1086/736217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Recall and Unemployment",
+        "title": "Recall and Unemployment",
+        "authors": [
+          "Shigeru Fujita",
+          "Giuseppe Moscarini"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "12",
+        "pages": "3875–3916",
+        "doi": "10.1257/aer.20131496",
+        "url": "https://doi.org/10.1257/aer.20131496",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Jobs and Matches: Quits, Replacement Hiring, and Vacancy Chains",
+        "title": "Jobs and Matches: Quits, Replacement Hiring, and Vacancy Chains",
+        "authors": [
+          "Yusuf Mercan",
+          "Benjamin Schoefer"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review: Insights",
+        "volume": "2",
+        "issue": "1",
+        "pages": "101–124",
+        "doi": "10.1257/aeri.20190023",
+        "url": "https://doi.org/10.1257/aeri.20190023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Workplace Heterogeneity and the Rise of West German Wage Inequality",
+        "title": "Workplace Heterogeneity and the Rise of West German Wage Inequality",
+        "authors": [
+          "David Card",
+          "Jörg Heining",
+          "Patrick Kline"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "3",
+        "pages": "967–1015",
+        "doi": "10.1093/qje/qjt006",
+        "url": "https://doi.org/10.1093/qje/qjt006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firming Up Inequality",
+        "title": "Firming Up Inequality",
+        "authors": [
+          "Jae Song",
+          "David J. Price",
+          "Fatih Guvenen",
+          "Nicholas Bloom",
+          "Till von Wachter"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "1",
+        "pages": "1–50",
+        "doi": "10.1093/qje/qjy025",
+        "url": "https://doi.org/10.1093/qje/qjy025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Frictional Wage Dispersion in Search Models: A Quantitative Assessment",
+        "title": "Frictional Wage Dispersion in Search Models: A Quantitative Assessment",
+        "authors": [
+          "Andreas Hornstein",
+          "Per Krusell",
+          "Giovanni L. Violante"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "2873–2898",
+        "doi": "10.1257/aer.101.7.2873",
+        "url": "https://doi.org/10.1257/aer.101.7.2873",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Minimum Wages on Low-Wage Jobs",
+        "title": "The Effect of Minimum Wages on Low-Wage Jobs",
+        "authors": [
+          "Doruk Cengiz",
+          "Arindrajit Dube",
+          "Attila Lindner",
+          "Ben Zipperer"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1405–1454",
+        "doi": "10.1093/qje/qjz014",
+        "url": "https://doi.org/10.1093/qje/qjz014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages and Racial Inequality",
+        "title": "Minimum Wages and Racial Inequality",
+        "authors": [
+          "Ellora Derenoncourt",
+          "Claire Montialoux"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "169–228",
+        "doi": "10.1093/qje/qjaa031",
+        "url": "https://doi.org/10.1093/qje/qjaa031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Voluntary Minimum Wages: The Local Labor Market Effects of National Retailer Policies",
+        "title": "Voluntary Minimum Wages: The Local Labor Market Effects of National Retailer Policies",
+        "authors": [
+          "Ellora Derenoncourt",
+          "David Weil"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "1901–1958",
+        "doi": "10.1093/qje/qjaf016",
+        "url": "https://doi.org/10.1093/qje/qjaf016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages, Efficiency and Welfare",
+        "title": "Minimum Wages, Efficiency and Welfare",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "1",
+        "pages": "265–301",
+        "doi": "10.3982/ecta21466",
+        "url": "https://doi.org/10.3982/ecta21466",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monopsony in the US Labor Market",
+        "title": "Monopsony in the US Labor Market",
+        "authors": [
+          "Chen Yeh",
+          "Claudia Macaluso",
+          "Brad Hershbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "7",
+        "pages": "2099–2138",
+        "doi": "10.1257/aer.20200025",
+        "url": "https://doi.org/10.1257/aer.20200025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14003,6 +14374,40 @@
         "url": "https://doi.org/10.1086/430286",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Wealth on Worker Productivity",
+        "title": "The Effect of Wealth on Worker Productivity",
+        "authors": [
+          "Jan Eeckhout",
+          "Alireza Sepahsalari"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1584–1633",
+        "doi": "10.1093/restud/rdad059",
+        "url": "https://doi.org/10.1093/restud/rdad059",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Income Variance Dynamics and Heterogeneity",
+        "title": "Income Variance Dynamics and Heterogeneity",
+        "authors": [
+          "Costas Meghir",
+          "Luigi Pistaferri"
+        ],
+        "year": 2004,
+        "journal": "Econometrica",
+        "volume": "72",
+        "issue": "1",
+        "pages": "1–32",
+        "doi": "10.1111/j.1468-0262.2004.00476.x",
+        "url": "https://doi.org/10.1111/j.1468-0262.2004.00476.x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14402,6 +14807,42 @@
         "pages": "S73–S115",
         "doi": "10.1086/698752",
         "url": "https://doi.org/10.1086/698752",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Sorting",
+        "title": "Spatial Sorting",
+        "authors": [
+          "Jan Eeckhout",
+          "Roberto Pinheiro",
+          "Kurt Schmidheiny"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "3",
+        "pages": "554–620",
+        "doi": "10.1086/676141",
+        "url": "https://doi.org/10.1086/676141",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages, Efficiency and Welfare",
+        "title": "Minimum Wages, Efficiency and Welfare",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "1",
+        "pages": "265–301",
+        "doi": "10.3982/ecta21466",
+        "url": "https://doi.org/10.3982/ecta21466",
         "verified": true,
         "note": ""
       }
@@ -15390,6 +15831,24 @@
         "pages": "1199–1239",
         "doi": "10.3982/ECTA10528",
         "url": "https://doi.org/10.3982/ECTA10528",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages, Efficiency and Welfare",
+        "title": "Minimum Wages, Efficiency and Welfare",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "1",
+        "pages": "265–301",
+        "doi": "10.3982/ecta21466",
+        "url": "https://doi.org/10.3982/ecta21466",
         "verified": true,
         "note": ""
       }
@@ -16659,6 +17118,23 @@
         "url": "https://doi.org/10.1086/430286",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Multidimensional Skills, Sorting, and Human Capital Accumulation",
+        "title": "Multidimensional Skills, Sorting, and Human Capital Accumulation",
+        "authors": [
+          "Jeremy Lise",
+          "Fabien Postel-Vinay"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "8",
+        "pages": "2328–2376",
+        "doi": "10.1257/aer.20162002",
+        "url": "https://doi.org/10.1257/aer.20162002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17170,6 +17646,75 @@
         "url": "https://doi.org/10.1257/aer.20161570",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Macrodynamics of Sorting between Workers and Firms",
+        "title": "The Macrodynamics of Sorting between Workers and Firms",
+        "authors": [
+          "Jeremy Lise",
+          "Jean-Marc Robin"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "1104–1135",
+        "doi": "10.1257/aer.20131118",
+        "url": "https://doi.org/10.1257/aer.20131118",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "title": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "authors": [
+          "Matthew S. Johnson",
+          "Kurt Lavetti",
+          "Michael Lipsitz"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "9",
+        "pages": "2735–2793",
+        "doi": "10.1086/736217",
+        "url": "https://doi.org/10.1086/736217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Recall and Unemployment",
+        "title": "Recall and Unemployment",
+        "authors": [
+          "Shigeru Fujita",
+          "Giuseppe Moscarini"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "12",
+        "pages": "3875–3916",
+        "doi": "10.1257/aer.20131496",
+        "url": "https://doi.org/10.1257/aer.20131496",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Jobs and Matches: Quits, Replacement Hiring, and Vacancy Chains",
+        "title": "Jobs and Matches: Quits, Replacement Hiring, and Vacancy Chains",
+        "authors": [
+          "Yusuf Mercan",
+          "Benjamin Schoefer"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review: Insights",
+        "volume": "2",
+        "issue": "1",
+        "pages": "101–124",
+        "doi": "10.1257/aeri.20190023",
+        "url": "https://doi.org/10.1257/aeri.20190023",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17298,6 +17843,43 @@
         "pages": "1737–1772",
         "doi": "10.1257/aer.20161570",
         "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Salary History and Employer Demand: Evidence from a Two-Sided Audit",
+        "title": "Salary History and Employer Demand: Evidence from a Two-Sided Audit",
+        "authors": [
+          "Amanda Y. Agan",
+          "Bo Cowgill",
+          "Laura K. Gee"
+        ],
+        "year": 2025,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "17",
+        "issue": "3",
+        "pages": "380–413",
+        "doi": "10.1257/app.20230365",
+        "url": "https://doi.org/10.1257/app.20230365",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monopsony, Job Tasks and Labour Market Concentration",
+        "title": "Monopsony, Job Tasks and Labour Market Concentration",
+        "authors": [
+          "Samuel Dodini",
+          "Michael Lovenheim",
+          "Kjell Salvanes",
+          "Alexander Willén"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "134",
+        "issue": "661",
+        "pages": "1914–1949",
+        "doi": "10.1093/ej/ueae002",
+        "url": "https://doi.org/10.1093/ej/ueae002",
         "verified": true,
         "note": ""
       }
@@ -17610,6 +18192,42 @@
         "url": "https://doi.org/10.1093/restud/rdy059",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Multidimensional Skills, Sorting, and Human Capital Accumulation",
+        "title": "Multidimensional Skills, Sorting, and Human Capital Accumulation",
+        "authors": [
+          "Jeremy Lise",
+          "Fabien Postel-Vinay"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "8",
+        "pages": "2328–2376",
+        "doi": "10.1257/aer.20162002",
+        "url": "https://doi.org/10.1257/aer.20162002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monopsony, Job Tasks and Labour Market Concentration",
+        "title": "Monopsony, Job Tasks and Labour Market Concentration",
+        "authors": [
+          "Samuel Dodini",
+          "Michael Lovenheim",
+          "Kjell Salvanes",
+          "Alexander Willén"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "134",
+        "issue": "661",
+        "pages": "1914–1949",
+        "doi": "10.1093/ej/ueae002",
+        "url": "https://doi.org/10.1093/ej/ueae002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17793,6 +18411,41 @@
         "url": "https://doi.org/10.1086/704494",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Recall and Unemployment",
+        "title": "Recall and Unemployment",
+        "authors": [
+          "Shigeru Fujita",
+          "Giuseppe Moscarini"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "12",
+        "pages": "3875–3916",
+        "doi": "10.1257/aer.20131496",
+        "url": "https://doi.org/10.1257/aer.20131496",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Frictional Wage Dispersion in Search Models: A Quantitative Assessment",
+        "title": "Frictional Wage Dispersion in Search Models: A Quantitative Assessment",
+        "authors": [
+          "Andreas Hornstein",
+          "Per Krusell",
+          "Giovanni L. Violante"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "2873–2898",
+        "doi": "10.1257/aer.101.7.2873",
+        "url": "https://doi.org/10.1257/aer.101.7.2873",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17921,6 +18574,26 @@
         "pages": "279–316",
         "doi": "10.1257/aer.20210182",
         "url": "https://doi.org/10.1257/aer.20210182",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firming Up Inequality",
+        "title": "Firming Up Inequality",
+        "authors": [
+          "Jae Song",
+          "David J. Price",
+          "Fatih Guvenen",
+          "Nicholas Bloom",
+          "Till von Wachter"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "1",
+        "pages": "1–50",
+        "doi": "10.1093/qje/qjy025",
+        "url": "https://doi.org/10.1093/qje/qjy025",
         "verified": true,
         "note": ""
       }
@@ -18234,6 +18907,23 @@
         "pages": "387–420",
         "doi": "10.1086/588180",
         "url": "https://doi.org/10.1086/588180",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Multidimensional Skills, Sorting, and Human Capital Accumulation",
+        "title": "Multidimensional Skills, Sorting, and Human Capital Accumulation",
+        "authors": [
+          "Jeremy Lise",
+          "Fabien Postel-Vinay"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review",
+        "volume": "110",
+        "issue": "8",
+        "pages": "2328–2376",
+        "doi": "10.1257/aer.20162002",
+        "url": "https://doi.org/10.1257/aer.20162002",
         "verified": true,
         "note": ""
       }
@@ -18581,6 +19271,24 @@
         "pages": "1031–1087",
         "doi": "10.1093/qje/qjab002",
         "url": "https://doi.org/10.1093/qje/qjab002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monopsony in the US Labor Market",
+        "title": "Monopsony in the US Labor Market",
+        "authors": [
+          "Chen Yeh",
+          "Claudia Macaluso",
+          "Brad Hershbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "7",
+        "pages": "2099–2138",
+        "doi": "10.1257/aer.20200025",
+        "url": "https://doi.org/10.1257/aer.20200025",
         "verified": true,
         "note": ""
       }
@@ -19297,6 +20005,60 @@
         "pages": "3952–3990",
         "doi": "10.1257/aer.20190680",
         "url": "https://doi.org/10.1257/aer.20190680",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages, Efficiency and Welfare",
+        "title": "Minimum Wages, Efficiency and Welfare",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "1",
+        "pages": "265–301",
+        "doi": "10.3982/ecta21466",
+        "url": "https://doi.org/10.3982/ecta21466",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monopsony in the US Labor Market",
+        "title": "Monopsony in the US Labor Market",
+        "authors": [
+          "Chen Yeh",
+          "Claudia Macaluso",
+          "Brad Hershbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "7",
+        "pages": "2099–2138",
+        "doi": "10.1257/aer.20200025",
+        "url": "https://doi.org/10.1257/aer.20200025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Power",
+        "title": "Labor Market Power",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1147–1193",
+        "doi": "10.1257/aer.20191521",
+        "url": "https://doi.org/10.1257/aer.20191521",
         "verified": true,
         "note": ""
       }
@@ -20179,6 +20941,41 @@
         "url": "https://doi.org/10.1093/qje/qjy001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "title": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "authors": [
+          "Matthew S. Johnson",
+          "Kurt Lavetti",
+          "Michael Lipsitz"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "9",
+        "pages": "2735–2793",
+        "doi": "10.1086/736217",
+        "url": "https://doi.org/10.1086/736217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Recall and Unemployment",
+        "title": "Recall and Unemployment",
+        "authors": [
+          "Shigeru Fujita",
+          "Giuseppe Moscarini"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "12",
+        "pages": "3875–3916",
+        "doi": "10.1257/aer.20131496",
+        "url": "https://doi.org/10.1257/aer.20131496",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20396,6 +21193,62 @@
         "url": "https://doi.org/10.1016/j.jfineco.2021.12.011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firming Up Inequality",
+        "title": "Firming Up Inequality",
+        "authors": [
+          "Jae Song",
+          "David J. Price",
+          "Fatih Guvenen",
+          "Nicholas Bloom",
+          "Till von Wachter"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "1",
+        "pages": "1–50",
+        "doi": "10.1093/qje/qjy025",
+        "url": "https://doi.org/10.1093/qje/qjy025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Minimum Wages on Low-Wage Jobs",
+        "title": "The Effect of Minimum Wages on Low-Wage Jobs",
+        "authors": [
+          "Doruk Cengiz",
+          "Arindrajit Dube",
+          "Attila Lindner",
+          "Ben Zipperer"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1405–1454",
+        "doi": "10.1093/qje/qjz014",
+        "url": "https://doi.org/10.1093/qje/qjz014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Voluntary Minimum Wages: The Local Labor Market Effects of National Retailer Policies",
+        "title": "Voluntary Minimum Wages: The Local Labor Market Effects of National Retailer Policies",
+        "authors": [
+          "Ellora Derenoncourt",
+          "David Weil"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "1901–1958",
+        "doi": "10.1093/qje/qjaf016",
+        "url": "https://doi.org/10.1093/qje/qjaf016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20603,6 +21456,26 @@
         "pages": "2421–2463",
         "doi": "10.1111/jofi.12909",
         "url": "https://doi.org/10.1111/jofi.12909",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firming Up Inequality",
+        "title": "Firming Up Inequality",
+        "authors": [
+          "Jae Song",
+          "David J. Price",
+          "Fatih Guvenen",
+          "Nicholas Bloom",
+          "Till von Wachter"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "1",
+        "pages": "1–50",
+        "doi": "10.1093/qje/qjy025",
+        "url": "https://doi.org/10.1093/qje/qjy025",
         "verified": true,
         "note": ""
       }
@@ -21687,6 +22560,24 @@
         "url": "https://doi.org/10.1257/aer.20190680",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monopsony in the US Labor Market",
+        "title": "Monopsony in the US Labor Market",
+        "authors": [
+          "Chen Yeh",
+          "Claudia Macaluso",
+          "Brad Hershbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "7",
+        "pages": "2099–2138",
+        "doi": "10.1257/aer.20200025",
+        "url": "https://doi.org/10.1257/aer.20200025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22379,6 +23270,24 @@
         "pages": "2197–2223",
         "doi": "10.3982/ECTA10451",
         "url": "https://doi.org/10.3982/ECTA10451",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Power",
+        "title": "Labor Market Power",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1147–1193",
+        "doi": "10.1257/aer.20191521",
+        "url": "https://doi.org/10.1257/aer.20191521",
         "verified": true,
         "note": ""
       }
@@ -23337,6 +24246,23 @@
         "pages": "132–182",
         "doi": "10.1086/379937",
         "url": "https://doi.org/10.1086/379937",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "title": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "authors": [
+          "Colleen Carey",
+          "Stephen H. Shore"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "2",
+        "pages": "549–562",
+        "doi": "10.1162/rest_a_00299",
+        "url": "https://doi.org/10.1162/rest_a_00299",
         "verified": true,
         "note": ""
       }
@@ -25755,6 +26681,44 @@
         "url": "https://doi.org/10.1257/aer.20121549",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firming Up Inequality",
+        "title": "Firming Up Inequality",
+        "authors": [
+          "Jae Song",
+          "David J. Price",
+          "Fatih Guvenen",
+          "Nicholas Bloom",
+          "Till von Wachter"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "1",
+        "pages": "1–50",
+        "doi": "10.1093/qje/qjy025",
+        "url": "https://doi.org/10.1093/qje/qjy025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Power",
+        "title": "Labor Market Power",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1147–1193",
+        "doi": "10.1257/aer.20191521",
+        "url": "https://doi.org/10.1257/aer.20191521",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27495,6 +28459,57 @@
         "pages": "1737–1772",
         "doi": "10.1257/aer.20161570",
         "url": "https://doi.org/10.1257/aer.20161570",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Macrodynamics of Sorting between Workers and Firms",
+        "title": "The Macrodynamics of Sorting between Workers and Firms",
+        "authors": [
+          "Jeremy Lise",
+          "Jean-Marc Robin"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "1104–1135",
+        "doi": "10.1257/aer.20131118",
+        "url": "https://doi.org/10.1257/aer.20131118",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Recall and Unemployment",
+        "title": "Recall and Unemployment",
+        "authors": [
+          "Shigeru Fujita",
+          "Giuseppe Moscarini"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "12",
+        "pages": "3875–3916",
+        "doi": "10.1257/aer.20131496",
+        "url": "https://doi.org/10.1257/aer.20131496",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "title": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "authors": [
+          "Colleen Carey",
+          "Stephen H. Shore"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "2",
+        "pages": "549–562",
+        "doi": "10.1162/rest_a_00299",
+        "url": "https://doi.org/10.1162/rest_a_00299",
         "verified": true,
         "note": ""
       }
@@ -29405,6 +30420,60 @@
         "url": "https://doi.org/10.1086/698752",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Minimum Wages on Low-Wage Jobs",
+        "title": "The Effect of Minimum Wages on Low-Wage Jobs",
+        "authors": [
+          "Doruk Cengiz",
+          "Arindrajit Dube",
+          "Attila Lindner",
+          "Ben Zipperer"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1405–1454",
+        "doi": "10.1093/qje/qjz014",
+        "url": "https://doi.org/10.1093/qje/qjz014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages and Racial Inequality",
+        "title": "Minimum Wages and Racial Inequality",
+        "authors": [
+          "Ellora Derenoncourt",
+          "Claire Montialoux"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "169–228",
+        "doi": "10.1093/qje/qjaa031",
+        "url": "https://doi.org/10.1093/qje/qjaa031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages, Efficiency and Welfare",
+        "title": "Minimum Wages, Efficiency and Welfare",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2025,
+        "journal": "Econometrica",
+        "volume": "93",
+        "issue": "1",
+        "pages": "265–301",
+        "doi": "10.3982/ecta21466",
+        "url": "https://doi.org/10.3982/ecta21466",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29624,6 +30693,24 @@
         "pages": "65–103",
         "doi": "10.1257/app.5.1.65",
         "url": "https://doi.org/10.1257/app.5.1.65",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Sorting",
+        "title": "Spatial Sorting",
+        "authors": [
+          "Jan Eeckhout",
+          "Roberto Pinheiro",
+          "Kurt Schmidheiny"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "3",
+        "pages": "554–620",
+        "doi": "10.1086/676141",
+        "url": "https://doi.org/10.1086/676141",
         "verified": true,
         "note": ""
       }
@@ -29910,6 +30997,24 @@
         "pages": "1675–1745",
         "doi": "10.1093/qje/qjz020",
         "url": "https://doi.org/10.1093/qje/qjz020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Imperfect Competition, Compensating Differentials, and Rent Sharing in the US Labor Market",
+        "title": "Imperfect Competition, Compensating Differentials, and Rent Sharing in the US Labor Market",
+        "authors": [
+          "Thibaut Lamadon",
+          "Magne Mogstad",
+          "Bradley Setzler"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "1",
+        "pages": "169–212",
+        "doi": "10.1257/aer.20190790",
+        "url": "https://doi.org/10.1257/aer.20190790",
         "verified": true,
         "note": ""
       }
@@ -30271,6 +31376,23 @@
         "url": "https://doi.org/10.1093/qje/qjab012",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "title": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "authors": [
+          "Colleen Carey",
+          "Stephen H. Shore"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "2",
+        "pages": "549–562",
+        "doi": "10.1162/rest_a_00299",
+        "url": "https://doi.org/10.1162/rest_a_00299",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30324,6 +31446,23 @@
         "pages": "343–378",
         "doi": "10.1257/aer.104.2.343",
         "url": "https://doi.org/10.1257/aer.104.2.343",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "title": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "authors": [
+          "Colleen Carey",
+          "Stephen H. Shore"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "2",
+        "pages": "549–562",
+        "doi": "10.1162/rest_a_00299",
+        "url": "https://doi.org/10.1162/rest_a_00299",
         "verified": true,
         "note": ""
       }
@@ -30924,6 +32063,24 @@
         "url": "https://doi.org/10.1257/aer.20131578",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "title": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "authors": [
+          "Matthew S. Johnson",
+          "Kurt Lavetti",
+          "Michael Lipsitz"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "9",
+        "pages": "2735–2793",
+        "doi": "10.1086/736217",
+        "url": "https://doi.org/10.1086/736217",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31005,6 +32162,67 @@
         "pages": "1675–1745",
         "doi": "10.1093/qje/qjz020",
         "url": "https://doi.org/10.1093/qje/qjz020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.41",
+    "title": "美国历史州与地方最低工资数据（Vaghul–Zipperer）",
+    "links": [
+      {
+        "label": "GitHub: benzipperer/historicalminwage",
+        "url": "https://github.com/benzipperer/historicalminwage"
+      },
+      {
+        "label": "US DOL: State minimum wage history",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+      }
+    ],
+    "summary": "Kavya Vaghul 和 Ben Zipperer 整理的美国联邦、各州及县市自 1974 年起的日度、月度、季度和年度最低工资水平数据，依据劳工部联邦最低工资历史和各州法律逐条核对，在 GitHub 公开下载并持续更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "数据最初作为华盛顿公平增长中心（Washington Center for Equitable Growth）2016 年工作论文发布，记录每次联邦、州和地方（县、市）最低工资调整的生效日期和水平，提供日度到年度多种频率、按州和按次州辖区的面板文件，以及小费工人最低工资等补充变量。数据编制参考美国劳工部工资与工时司公布的州和联邦最低工资历史表，GitHub 仓库开放代码和数据，Zipperer 在经济政策研究所（EPI）持续更新至近年。\n\n数据常用于最低工资就业效应、工资分布和溢出效应的研究，如基于\"聚束估计\"的最低工资就业效应分析和地方最低工资的事件研究。次州最低工资早期年份的覆盖可能不完整，使用时需与最新法规核对。",
+    "source": "公开下载（GitHub）。",
+    "references": [
+      {
+        "raw": "The Effect of Minimum Wages on Low-Wage Jobs",
+        "title": "The Effect of Minimum Wages on Low-Wage Jobs",
+        "authors": [
+          "Doruk Cengiz",
+          "Arindrajit Dube",
+          "Attila Lindner",
+          "Ben Zipperer"
+        ],
+        "year": 2019,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1405–1454",
+        "doi": "10.1093/qje/qjz014",
+        "url": "https://doi.org/10.1093/qje/qjz014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Voluntary Minimum Wages: The Local Labor Market Effects of National Retailer Policies",
+        "title": "Voluntary Minimum Wages: The Local Labor Market Effects of National Retailer Policies",
+        "authors": [
+          "Ellora Derenoncourt",
+          "David Weil"
+        ],
+        "year": 2025,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "1901–1958",
+        "doi": "10.1093/qje/qjaf016",
+        "url": "https://doi.org/10.1093/qje/qjaf016",
         "verified": true,
         "note": ""
       }
@@ -32060,6 +33278,24 @@
         "pages": "903–944",
         "doi": "10.1257/aer.20162018",
         "url": "https://doi.org/10.1257/aer.20162018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Sorting",
+        "title": "Spatial Sorting",
+        "authors": [
+          "Jan Eeckhout",
+          "Roberto Pinheiro",
+          "Kurt Schmidheiny"
+        ],
+        "year": 2014,
+        "journal": "Journal of Political Economy",
+        "volume": "122",
+        "issue": "3",
+        "pages": "554–620",
+        "doi": "10.1086/676141",
+        "url": "https://doi.org/10.1086/676141",
         "verified": true,
         "note": ""
       }
@@ -57520,6 +58756,23 @@
         "url": "https://doi.org/10.1111/jofi.12909",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Wealth on Worker Productivity",
+        "title": "The Effect of Wealth on Worker Productivity",
+        "authors": [
+          "Jan Eeckhout",
+          "Alireza Sepahsalari"
+        ],
+        "year": 2024,
+        "journal": "The Review of Economic Studies",
+        "volume": "91",
+        "issue": "3",
+        "pages": "1584–1633",
+        "doi": "10.1093/restud/rdad059",
+        "url": "https://doi.org/10.1093/restud/rdad059",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59503,6 +60756,41 @@
         "url": "https://doi.org/10.1257/aer.20161570",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Macrodynamics of Sorting between Workers and Firms",
+        "title": "The Macrodynamics of Sorting between Workers and Firms",
+        "authors": [
+          "Jeremy Lise",
+          "Jean-Marc Robin"
+        ],
+        "year": 2017,
+        "journal": "American Economic Review",
+        "volume": "107",
+        "issue": "4",
+        "pages": "1104–1135",
+        "doi": "10.1257/aer.20131118",
+        "url": "https://doi.org/10.1257/aer.20131118",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Labor Market Power",
+        "title": "Labor Market Power",
+        "authors": [
+          "David Berger",
+          "Kyle Herkenhoff",
+          "Simon Mongey"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "4",
+        "pages": "1147–1193",
+        "doi": "10.1257/aer.20191521",
+        "url": "https://doi.org/10.1257/aer.20191521",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -60319,6 +61607,23 @@
         "pages": "103910",
         "doi": "10.1016/j.jfineco.2024.103910",
         "url": "https://doi.org/10.1016/j.jfineco.2024.103910",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "title": "From the Peaks to the Valleys: Cross-State Evidence on Income Volatility over the Business Cycle",
+        "authors": [
+          "Colleen Carey",
+          "Stephen H. Shore"
+        ],
+        "year": 2013,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "95",
+        "issue": "2",
+        "pages": "549–562",
+        "doi": "10.1162/rest_a_00299",
+        "url": "https://doi.org/10.1162/rest_a_00299",
         "verified": true,
         "note": ""
       }
@@ -64073,6 +65378,42 @@
         "pages": "279–316",
         "doi": "10.1257/aer.20210182",
         "url": "https://doi.org/10.1257/aer.20210182",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "title": "The Labor Market Effects of Legal Restrictions on Worker Mobility",
+        "authors": [
+          "Matthew S. Johnson",
+          "Kurt Lavetti",
+          "Michael Lipsitz"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "9",
+        "pages": "2735–2793",
+        "doi": "10.1086/736217",
+        "url": "https://doi.org/10.1086/736217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monopsony in the US Labor Market",
+        "title": "Monopsony in the US Labor Market",
+        "authors": [
+          "Chen Yeh",
+          "Claudia Macaluso",
+          "Brad Hershbein"
+        ],
+        "year": 2022,
+        "journal": "American Economic Review",
+        "volume": "112",
+        "issue": "7",
+        "pages": "2099–2138",
+        "doi": "10.1257/aer.20200025",
+        "url": "https://doi.org/10.1257/aer.20200025",
         "verified": true,
         "note": ""
       }
@@ -69667,6 +71008,25 @@
         "url": "https://doi.org/10.1086/722086",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monopsony, Job Tasks and Labour Market Concentration",
+        "title": "Monopsony, Job Tasks and Labour Market Concentration",
+        "authors": [
+          "Samuel Dodini",
+          "Michael Lovenheim",
+          "Kjell Salvanes",
+          "Alexander Willén"
+        ],
+        "year": 2024,
+        "journal": "The Economic Journal",
+        "volume": "134",
+        "issue": "661",
+        "pages": "1914–1949",
+        "doi": "10.1093/ej/ueae002",
+        "url": "https://doi.org/10.1093/ej/ueae002",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69803,6 +71163,58 @@
         "url": "https://doi.org/10.1093/restud/rdy059",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The U-Shapes of Occupational Mobility",
+        "title": "The U-Shapes of Occupational Mobility",
+        "authors": [
+          "Fane Groes",
+          "Philipp Kircher",
+          "Iourii Manovskii"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "2",
+        "pages": "659–692",
+        "doi": "10.1093/restud/rdu037",
+        "url": "https://doi.org/10.1093/restud/rdu037",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Empirical Model of Wage Dispersion with Sorting",
+        "title": "An Empirical Model of Wage Dispersion with Sorting",
+        "authors": [
+          "Jesper Bagger",
+          "Rasmus Lentz"
+        ],
+        "year": 2019,
+        "journal": "The Review of Economic Studies",
+        "volume": "86",
+        "issue": "1",
+        "pages": "153–190",
+        "doi": "10.1093/restud/rdy022",
+        "url": "https://doi.org/10.1093/restud/rdy022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimation of a Roy/Search/Compensating Differential Model of the Labor Market",
+        "title": "Estimation of a Roy/Search/Compensating Differential Model of the Labor Market",
+        "authors": [
+          "Christopher Taber",
+          "Rune Vejlin"
+        ],
+        "year": 2020,
+        "journal": "Econometrica",
+        "volume": "88",
+        "issue": "3",
+        "pages": "1031–1069",
+        "doi": "10.3982/ecta14441",
+        "url": "https://doi.org/10.3982/ecta14441",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69847,6 +71259,45 @@
         "pages": "1–46",
         "doi": "10.1162/rest.a.1618",
         "url": "https://doi.org/10.1162/rest.a.1618",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.1.6",
+    "title": "法国永久人口样本（Échantillon Démographique Permanent，EDP）",
+    "links": [
+      {
+        "label": "INSEE: Échantillon démographique permanent",
+        "url": "https://www.insee.fr/fr/metadonnees/source/serie/s1166"
+      }
+    ],
+    "summary": "法国国家统计与经济研究所（INSEE）自 1967 年起维护的约 4% 人口追踪样本（按出生日期抽取），链接历次人口普查、出生死亡婚姻登记，后来又与 DADS 工资、税收和社会转移数据链接，形成长期个体面板，研究者经 CASD 安全访问获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "永久人口样本按出生日期选取（最初为每年 10 月 1–4 日出生者，2004 年后扩充到每年 16 天，约 4% 人口），对样本个体收集 1968 年以来历次人口普查和 2004 年起年度普查调查的信息，以及其本人和子女的出生、婚姻、死亡民事登记，因而可追踪个人几十年的居住地、职业、教育和家庭变化。2010 年代起，EDP 又与全员雇主-雇员数据 DADS（形成 DADS-EDP 面板）、个人所得税、社会转移和失业登记链接。数据经 INSEE 授权在安全数据访问中心（CASD）使用，涉及隐私需特别审批。\n\n数据常用于研究法国的长期职业生涯与工资动态、地理流动、代际流动和移民融合、家庭形成与生育，以及寿命与社会经济地位的关系。普查信息仅在普查年份更新，早期样本较小。",
+    "source": "受限（INSEE 授权，经 CASD 安全访问）。",
+    "references": [
+      {
+        "raw": "High Wage Workers and High Wage Firms",
+        "title": "High Wage Workers and High Wage Firms",
+        "authors": [
+          "John M. Abowd",
+          "Francis Kramarz",
+          "David N. Margolis"
+        ],
+        "year": 1999,
+        "journal": "Econometrica",
+        "volume": "67",
+        "issue": "2",
+        "pages": "251–333",
+        "doi": "10.1111/1468-0262.00020",
+        "url": "https://doi.org/10.1111/1468-0262.00020",
         "verified": true,
         "note": ""
       }
@@ -70978,6 +72429,75 @@
         "url": "https://doi.org/10.1093/qje/qjad010",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Sorting and Agglomeration",
+        "title": "Firm Sorting and Agglomeration",
+        "authors": [
+          "Cecile Gaubert"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "11",
+        "pages": "3117–3153",
+        "doi": "10.1257/aer.20150361",
+        "url": "https://doi.org/10.1257/aer.20150361",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "High Wage Workers and High Wage Firms",
+        "title": "High Wage Workers and High Wage Firms",
+        "authors": [
+          "John M. Abowd",
+          "Francis Kramarz",
+          "David N. Margolis"
+        ],
+        "year": 1999,
+        "journal": "Econometrica",
+        "volume": "67",
+        "issue": "2",
+        "pages": "251–333",
+        "doi": "10.1111/1468-0262.00020",
+        "url": "https://doi.org/10.1111/1468-0262.00020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Equilibrium Wage Dispersion with Worker and Employer Heterogeneity",
+        "title": "Equilibrium Wage Dispersion with Worker and Employer Heterogeneity",
+        "authors": [
+          "Fabien Postel-Vinay",
+          "Jean-Marc Robin"
+        ],
+        "year": 2002,
+        "journal": "Econometrica",
+        "volume": "70",
+        "issue": "6",
+        "pages": "2295–2350",
+        "doi": "10.1111/j.1468-0262.2002.00441.x",
+        "url": "https://doi.org/10.1111/j.1468-0262.2002.00441.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
+        "title": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
+        "authors": [
+          "Elio Nimier-David",
+          "David Alexandre Sraer",
+          "David Thesmar"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "3",
+        "pages": "2205–2267",
+        "doi": "10.1093/qje/qjag022",
+        "url": "https://doi.org/10.1093/qje/qjag022",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71221,6 +72741,41 @@
         "url": "https://doi.org/10.1093/restud/rdae006",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Jobs and Matches: Quits, Replacement Hiring, and Vacancy Chains",
+        "title": "Jobs and Matches: Quits, Replacement Hiring, and Vacancy Chains",
+        "authors": [
+          "Yusuf Mercan",
+          "Benjamin Schoefer"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review: Insights",
+        "volume": "2",
+        "issue": "1",
+        "pages": "101–124",
+        "doi": "10.1257/aeri.20190023",
+        "url": "https://doi.org/10.1257/aeri.20190023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Workplace Heterogeneity and the Rise of West German Wage Inequality",
+        "title": "Workplace Heterogeneity and the Rise of West German Wage Inequality",
+        "authors": [
+          "David Card",
+          "Jörg Heining",
+          "Patrick Kline"
+        ],
+        "year": 2013,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "128",
+        "issue": "3",
+        "pages": "967–1015",
+        "doi": "10.1093/qje/qjt006",
+        "url": "https://doi.org/10.1093/qje/qjt006",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71375,6 +72930,25 @@
         "pages": "2061–2100",
         "doi": "10.1093/restud/rdab070",
         "url": "https://doi.org/10.1093/restud/rdab070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firms and Labor Market Inequality: Evidence and Some Theory",
+        "title": "Firms and Labor Market Inequality: Evidence and Some Theory",
+        "authors": [
+          "David Card",
+          "Ana Rute Cardoso",
+          "Jörg Heining",
+          "Patrick Kline"
+        ],
+        "year": 2018,
+        "journal": "Journal of Labor Economics",
+        "volume": "36",
+        "issue": "S1",
+        "pages": "S13–S70",
+        "doi": "10.1086/694153",
+        "url": "https://doi.org/10.1086/694153",
         "verified": true,
         "note": ""
       }
@@ -71670,6 +73244,24 @@
         "pages": "1507–1576",
         "doi": "10.1093/qje/qjad010",
         "url": "https://doi.org/10.1093/qje/qjad010",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
+        "title": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
+        "authors": [
+          "Elio Nimier-David",
+          "David Alexandre Sraer",
+          "David Thesmar"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "3",
+        "pages": "2205–2267",
+        "doi": "10.1093/qje/qjag022",
+        "url": "https://doi.org/10.1093/qje/qjag022",
         "verified": true,
         "note": ""
       }
@@ -72149,6 +73741,25 @@
         "url": "https://doi.org/10.1016/j.jfineco.2025.104183",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firms and Labor Market Inequality: Evidence and Some Theory",
+        "title": "Firms and Labor Market Inequality: Evidence and Some Theory",
+        "authors": [
+          "David Card",
+          "Ana Rute Cardoso",
+          "Jörg Heining",
+          "Patrick Kline"
+        ],
+        "year": 2018,
+        "journal": "Journal of Labor Economics",
+        "volume": "36",
+        "issue": "S1",
+        "pages": "S13–S70",
+        "doi": "10.1086/694153",
+        "url": "https://doi.org/10.1086/694153",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72371,6 +73982,40 @@
         "pages": "2894–2936",
         "doi": "10.1257/aer.20210107",
         "url": "https://doi.org/10.1257/aer.20210107",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Sorting and Agglomeration",
+        "title": "Firm Sorting and Agglomeration",
+        "authors": [
+          "Cecile Gaubert"
+        ],
+        "year": 2018,
+        "journal": "American Economic Review",
+        "volume": "108",
+        "issue": "11",
+        "pages": "3117–3153",
+        "doi": "10.1257/aer.20150361",
+        "url": "https://doi.org/10.1257/aer.20150361",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
+        "title": "The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France",
+        "authors": [
+          "Elio Nimier-David",
+          "David Alexandre Sraer",
+          "David Thesmar"
+        ],
+        "year": 2026,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "3",
+        "pages": "2205–2267",
+        "doi": "10.1093/qje/qjag022",
+        "url": "https://doi.org/10.1093/qje/qjag022",
         "verified": true,
         "note": ""
       }
@@ -72778,6 +74423,48 @@
         "pages": "2553–2584",
         "doi": "10.1093/ej/ueab009",
         "url": "https://doi.org/10.1093/ej/ueab009",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.10",
+    "title": "比利时国家银行企业微观数据（年度账目、企业间 B2B 交易网络与海关贸易）",
+    "links": [
+      {
+        "label": "National Bank of Belgium: Central Balance Sheet Office",
+        "url": "https://www.nbb.be/en/central-balance-sheet-office"
+      }
+    ],
+    "summary": "比利时国家银行（NBB）资产负债表中心收集的几乎全部比利时企业年度账目，以及基于增值税申报构建的 2002 年起全国企业间交易（B2B）网络、企业层面海关与欧盟内部贸易申报，可与社会保障雇主-雇员数据链接，研究者经 NBB 申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "贸易数据"
+    ],
+    "introduction": "比利时法律要求有限责任企业向国家银行资产负债表中心（Central Balance Sheet Office）提交年度账目，记录资产负债、销售额、增加值、就业和工资成本，单份账目可在 NBB 网站公开查询。NBB 研究部门在此基础上与税务部门合作构建了 B2B 交易数据库：凡年交易额超过 250 欧元的企业对企业销售都需在增值税客户清单中申报，从而得到全国几乎完整的企业间供货网络；另有企业层面的海关进出口和欧盟内部贸易申报、Prodcom 产品产量，可通过增值税号与社会保障交叉银行（BCSS）的雇主-雇员数据链接。微观数据经 NBB 研究部门的访问程序向研究者提供。\n\n数据常用于研究生产网络与冲击传导、企业规模分布与网络结构、出口与进口的企业异质性、买方-供应商关系与工资溢价，以及企业间信用。B2B 数据只覆盖国内增值税纳税人之间的交易，访问需与 NBB 合作。",
+    "source": "年度账目单份公开查询；研究微观数据经 NBB 申请。",
+    "references": [
+      {
+        "raw": "Firm Responses and Wage Effects of Foreign Demand Shocks with Fixed Labor Costs and Monopsony",
+        "title": "Firm Responses and Wage Effects of Foreign Demand Shocks with Fixed Labor Costs and Monopsony",
+        "authors": [
+          "Emmanuel Dhyne",
+          "Ayumu Ken Kikkawa",
+          "Toshiaki Komatsu",
+          "Magne Mogstad",
+          "Felix Tintelnot"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "12",
+        "pages": "4328–4368",
+        "doi": "10.1257/aer.20220948",
+        "url": "https://doi.org/10.1257/aer.20220948",
         "verified": true,
         "note": ""
       }
@@ -73352,6 +75039,26 @@
         "url": "https://doi.org/10.1016/j.jeem.2023.102916",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Responses and Wage Effects of Foreign Demand Shocks with Fixed Labor Costs and Monopsony",
+        "title": "Firm Responses and Wage Effects of Foreign Demand Shocks with Fixed Labor Costs and Monopsony",
+        "authors": [
+          "Emmanuel Dhyne",
+          "Ayumu Ken Kikkawa",
+          "Toshiaki Komatsu",
+          "Magne Mogstad",
+          "Felix Tintelnot"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "12",
+        "pages": "4328–4368",
+        "doi": "10.1257/aer.20220948",
+        "url": "https://doi.org/10.1257/aer.20220948",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73630,6 +75337,23 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2014.12.010",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Jobs and Matches: Quits, Replacement Hiring, and Vacancy Chains",
+        "title": "Jobs and Matches: Quits, Replacement Hiring, and Vacancy Chains",
+        "authors": [
+          "Yusuf Mercan",
+          "Benjamin Schoefer"
+        ],
+        "year": 2020,
+        "journal": "American Economic Review: Insights",
+        "volume": "2",
+        "issue": "1",
+        "pages": "101–124",
+        "doi": "10.1257/aeri.20190023",
+        "url": "https://doi.org/10.1257/aeri.20190023",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73708,6 +75432,45 @@
         "pages": "105579",
         "doi": "10.1016/j.jpubeco.2026.105579",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105579",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.12",
+    "title": "英国 Nomis 官方劳动力市场统计（ONS）",
+    "links": [
+      {
+        "label": "Nomis: official census and labour market statistics",
+        "url": "https://www.nomisweb.co.uk"
+      }
+    ],
+    "summary": "英国国家统计局（ONS）委托杜伦大学运营的官方劳动力市场统计门户，提供到地方政府辖区、选区和小区域的劳动力调查、年度人口调查、失业救济领取人数（Claimant Count）、职位空缺、企业就业登记（BRES）、工资收入调查（ASHE）和人口普查表格，免费查询下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "Nomis 自 1980 年代起为英国政府提供劳动力市场统计，现由 ONS 主管、杜伦大学运营。门户汇集多类官方数据：劳动力调查和年度人口调查的就业、失业与经济不活跃率，求职者津贴（JSA）和普惠信贷领取人数的月度地区序列（可追溯到 1970 年代），企业登记与就业调查（BRES）的地区行业就业，年度工时与收入调查（ASHE）的工资分布，职位空缺，以及 2001、2011、2021 年人口普查的全部汇总表。数据可按地方当局、旅行到工作区（TTWA）、选区和普查小区等多种地理层级查询，并支持 API 批量下载。\n\n数据常用于研究英国地区失业和劳动力市场紧张度、福利改革和求职者津贴的效果、去工业化与地区衰退，以及构造地方劳动力市场控制变量。个体层面微观数据不在 Nomis，需经 UK Data Service 或 ONS 安全研究服务获取。",
+    "source": "公开查询下载（含 API）。",
+    "references": [
+      {
+        "raw": "How Wage Announcements Affect Job Search - A Field Experiment",
+        "title": "How Wage Announcements Affect Job Search - A Field Experiment",
+        "authors": [
+          "Michele Belot",
+          "Philipp Kircher",
+          "Paul Muller"
+        ],
+        "year": 2022,
+        "journal": "American Economic Journal: Macroeconomics",
+        "volume": "14",
+        "issue": "4",
+        "pages": "1–67",
+        "doi": "10.1257/mac.20200116",
+        "url": "https://doi.org/10.1257/mac.20200116",
         "verified": true,
         "note": ""
       }
