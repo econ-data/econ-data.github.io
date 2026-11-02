@@ -8950,6 +8950,23 @@
         "url": "https://doi.org/10.1093/jeea/jvad007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Export Prices Across Firms and Destinations",
+        "title": "Export Prices Across Firms and Destinations",
+        "authors": [
+          "Kalina Manova",
+          "Zhiwei Zhang"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "1",
+        "pages": "379–436",
+        "doi": "10.1093/qje/qjr051",
+        "url": "https://doi.org/10.1093/qje/qjr051",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11446,6 +11463,25 @@
         "url": "https://doi.org/10.1257/pol.20240478",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11668,6 +11704,22 @@
         "pages": "379–420",
         "doi": "10.1162/00335530151144050",
         "url": "https://doi.org/10.1162/00335530151144050",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining America's Surge in Manufactured Exports, 1880–1913",
+        "title": "Explaining America's Surge in Manufactured Exports, 1880–1913",
+        "authors": [
+          "Douglas A. Irwin"
+        ],
+        "year": 2003,
+        "journal": "Review of Economics and Statistics",
+        "volume": "85",
+        "issue": "2",
+        "pages": "364–376",
+        "doi": "10.1162/003465303765299873",
+        "url": "https://doi.org/10.1162/003465303765299873",
         "verified": true,
         "note": ""
       }
@@ -13077,6 +13129,39 @@
         "url": "https://doi.org/10.1257/aer.20141743",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Explaining America's Surge in Manufactured Exports, 1880–1913",
+        "title": "Explaining America's Surge in Manufactured Exports, 1880–1913",
+        "authors": [
+          "Douglas A. Irwin"
+        ],
+        "year": 2003,
+        "journal": "Review of Economics and Statistics",
+        "volume": "85",
+        "issue": "2",
+        "pages": "364–376",
+        "doi": "10.1162/003465303765299873",
+        "url": "https://doi.org/10.1162/003465303765299873",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Modeling the Transition to a New Economy: Lessons from Two Technological Revolutions",
+        "title": "Modeling the Transition to a New Economy: Lessons from Two Technological Revolutions",
+        "authors": [
+          "Andrew Atkeson",
+          "Patrick J. Kehoe"
+        ],
+        "year": 2007,
+        "journal": "American Economic Review",
+        "volume": "97",
+        "issue": "1",
+        "pages": "64–88",
+        "doi": "10.1257/aer.97.1.64",
+        "url": "https://doi.org/10.1257/aer.97.1.64",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13846,6 +13931,25 @@
         "url": "https://doi.org/10.1162/00335530151144050",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13974,6 +14078,45 @@
         "pages": "1261–1295",
         "doi": "10.1093/restud/rdaf038",
         "url": "https://doi.org/10.1093/restud/rdaf038",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.1.12",
+    "title": "美国国家历史地理信息系统（National Historical Geographic Information System，NHGIS）",
+    "links": [
+      {
+        "label": "IPUMS NHGIS",
+        "url": "https://www.nhgis.org/"
+      }
+    ],
+    "summary": "明尼苏达大学 IPUMS 维护的美国历史人口普查汇总表和边界 GIS 文件，覆盖 1790 年以来各次普查及 ACS，在州、县、普查区、街区组等多级地理单元上提供人口、住房、农业和经济统计，免费注册下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "普查数据",
+      "地理数据"
+    ],
+    "introduction": "NHGIS 把历次十年普查、农业普查、制造业普查和 ACS 的公开汇总表统一整理为可检索的数据表，并提供与之配套的历史边界 shapefile（县界随时间变化）、时间序列表（跨年地理口径协调）和地理交叉对照表。经济史和城市经济学常用它构建县级长面板，例如 1930 年人口密度、制造业与农业产出，或与现代数据衔接研究长期集聚与路径依赖。",
+    "source": "免费注册后公开下载。",
+    "references": [
+      {
+        "raw": "Trade and the Topography of the Spatial Economy",
+        "title": "Trade and the Topography of the Spatial Economy",
+        "authors": [
+          "Treb Allen",
+          "Costas Arkolakis"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "3",
+        "pages": "1085–1140",
+        "doi": "10.1093/qje/qju016",
+        "url": "https://doi.org/10.1093/qje/qju016",
         "verified": true,
         "note": ""
       }
@@ -15866,6 +16009,42 @@
         "pages": "476–508",
         "doi": "10.1257/pol.20240478",
         "url": "https://doi.org/10.1257/pol.20240478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Spatial Policies, Geography, and Sorting",
+        "title": "Optimal Spatial Policies, Geography, and Sorting",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Cecile Gaubert"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "2",
+        "pages": "959–1036",
+        "doi": "10.1093/qje/qjaa001",
+        "url": "https://doi.org/10.1093/qje/qjaa001",
         "verified": true,
         "note": ""
       }
@@ -17911,6 +18090,23 @@
         "url": "https://doi.org/10.1257/pol.20240478",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Optimal Spatial Policies, Geography, and Sorting",
+        "title": "Optimal Spatial Policies, Geography, and Sorting",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Cecile Gaubert"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "2",
+        "pages": "959–1036",
+        "doi": "10.1093/qje/qjaa001",
+        "url": "https://doi.org/10.1093/qje/qjaa001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18503,6 +18699,25 @@
         "url": "https://doi.org/10.1093/rfs/hhae068",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18955,6 +19170,24 @@
         "pages": "677–734",
         "doi": "10.1162/qjec.2009.124.2.677",
         "url": "https://doi.org/10.1162/qjec.2009.124.2.677",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Structural Change With Long-Run Income and Price Effects",
+        "title": "Structural Change With Long-Run Income and Price Effects",
+        "authors": [
+          "Diego Comin",
+          "Danial Lashkari",
+          "Martí Mestieri"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "1",
+        "pages": "311–374",
+        "doi": "10.3982/ECTA16317",
+        "url": "https://doi.org/10.3982/ECTA16317",
         "verified": true,
         "note": ""
       }
@@ -20792,6 +21025,25 @@
         "pages": "165–200",
         "doi": "10.1093/restud/rdac026",
         "url": "https://doi.org/10.1093/restud/rdac026",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
         "verified": true,
         "note": ""
       }
@@ -22827,6 +23079,25 @@
         "url": "https://doi.org/10.3368/jhr.0124-13360r1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Wage Effects of Offshoring: Evidence from Danish Matched Worker-Firm Data",
+        "title": "The Wage Effects of Offshoring: Evidence from Danish Matched Worker-Firm Data",
+        "authors": [
+          "David Hummels",
+          "Rasmus Jørgensen",
+          "Jakob Munch",
+          "Chong Xiang"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1597–1629",
+        "doi": "10.1257/aer.104.6.1597",
+        "url": "https://doi.org/10.1257/aer.104.6.1597",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23619,6 +23890,22 @@
         "pages": "2328–2376",
         "doi": "10.1257/aer.20162002",
         "url": "https://doi.org/10.1257/aer.20162002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "title": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "authors": [
+          "Felipe Benguria"
+        ],
+        "year": 2026,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "1",
+        "pages": "41–83",
+        "doi": "10.3368/jhr.0421-11621r3",
+        "url": "https://doi.org/10.3368/jhr.0421-11621r3",
         "verified": true,
         "note": ""
       }
@@ -27862,6 +28149,22 @@
         "url": "https://doi.org/10.1093/qje/qju026",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "NAFTA's and CUSFTA's Impact on International Trade",
+        "title": "NAFTA's and CUSFTA's Impact on International Trade",
+        "authors": [
+          "John Romalis"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "3",
+        "pages": "416–435",
+        "doi": "10.1162/rest.89.3.416",
+        "url": "https://doi.org/10.1162/rest.89.3.416",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28647,6 +28950,60 @@
         "url": "https://doi.org/10.1257/pol.20240478",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "title": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "authors": [
+          "Felipe Benguria"
+        ],
+        "year": 2026,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "1",
+        "pages": "41–83",
+        "doi": "10.3368/jhr.0421-11621r3",
+        "url": "https://doi.org/10.3368/jhr.0421-11621r3",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28705,6 +29062,23 @@
         "pages": "1019–1061",
         "doi": "10.3982/ECTA6750",
         "url": "https://doi.org/10.3982/ECTA6750",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
         "verified": true,
         "note": ""
       }
@@ -29694,6 +30068,59 @@
         "url": "https://doi.org/10.1162/003465302317331919",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Development",
+        "title": "Spatial Development",
+        "authors": [
+          "Klaus Desmet",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "4",
+        "pages": "1211–1243",
+        "doi": "10.1257/aer.104.4.1211",
+        "url": "https://doi.org/10.1257/aer.104.4.1211",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Spatial Policies, Geography, and Sorting",
+        "title": "Optimal Spatial Policies, Geography, and Sorting",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Cecile Gaubert"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "2",
+        "pages": "959–1036",
+        "doi": "10.1093/qje/qjaa001",
+        "url": "https://doi.org/10.1093/qje/qjaa001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30607,6 +31034,42 @@
         "pages": "87–117",
         "doi": "10.1093/restud/rdv039",
         "url": "https://doi.org/10.1093/restud/rdv039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Development",
+        "title": "Spatial Development",
+        "authors": [
+          "Klaus Desmet",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "4",
+        "pages": "1211–1243",
+        "doi": "10.1257/aer.104.4.1211",
+        "url": "https://doi.org/10.1257/aer.104.4.1211",
         "verified": true,
         "note": ""
       }
@@ -32742,6 +33205,25 @@
         "url": "https://doi.org/10.1162/rest_a_00750",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34202,6 +34684,23 @@
         "url": "https://doi.org/10.1162/rest_a_01469",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Development",
+        "title": "Spatial Development",
+        "authors": [
+          "Klaus Desmet",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "4",
+        "pages": "1211–1243",
+        "doi": "10.1257/aer.104.4.1211",
+        "url": "https://doi.org/10.1257/aer.104.4.1211",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -35133,6 +35632,23 @@
         "url": "https://doi.org/10.3982/ECTA19815",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Optimal Spatial Policies, Geography, and Sorting",
+        "title": "Optimal Spatial Policies, Geography, and Sorting",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Cecile Gaubert"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "2",
+        "pages": "959–1036",
+        "doi": "10.1093/qje/qjaa001",
+        "url": "https://doi.org/10.1093/qje/qjaa001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -35324,6 +35840,25 @@
         "pages": "627–673",
         "doi": "10.1257/aer.20230432",
         "url": "https://doi.org/10.1257/aer.20230432",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
         "verified": true,
         "note": ""
       }
@@ -35721,6 +36256,22 @@
         "pages": "476–508",
         "doi": "10.1257/pol.20240478",
         "url": "https://doi.org/10.1257/pol.20240478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "title": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "authors": [
+          "Felipe Benguria"
+        ],
+        "year": 2026,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "1",
+        "pages": "41–83",
+        "doi": "10.3368/jhr.0421-11621r3",
+        "url": "https://doi.org/10.3368/jhr.0421-11621r3",
         "verified": true,
         "note": ""
       }
@@ -36672,6 +37223,43 @@
         "pages": "2103–2127",
         "doi": "10.1257/aer.20190611",
         "url": "https://doi.org/10.1257/aer.20190611",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy",
+        "title": "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy",
+        "authors": [
+          "Alberto Cavallo",
+          "Gita Gopinath",
+          "Brent Neiman",
+          "Jenny Tang"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review: Insights",
+        "volume": "3",
+        "issue": "1",
+        "pages": "19–34",
+        "doi": "10.1257/aeri.20190536",
+        "url": "https://doi.org/10.1257/aeri.20190536",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Structural Change With Long-Run Income and Price Effects",
+        "title": "Structural Change With Long-Run Income and Price Effects",
+        "authors": [
+          "Diego Comin",
+          "Danial Lashkari",
+          "Martí Mestieri"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "1",
+        "pages": "311–374",
+        "doi": "10.3982/ECTA16317",
+        "url": "https://doi.org/10.3982/ECTA16317",
         "verified": true,
         "note": ""
       }
@@ -37778,6 +38366,39 @@
         "pages": "2978–3006",
         "doi": "10.1093/ej/uead047",
         "url": "https://doi.org/10.1093/ej/uead047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining America's Surge in Manufactured Exports, 1880–1913",
+        "title": "Explaining America's Surge in Manufactured Exports, 1880–1913",
+        "authors": [
+          "Douglas A. Irwin"
+        ],
+        "year": 2003,
+        "journal": "Review of Economics and Statistics",
+        "volume": "85",
+        "issue": "2",
+        "pages": "364–376",
+        "doi": "10.1162/003465303765299873",
+        "url": "https://doi.org/10.1162/003465303765299873",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The U.S. Structural Transformation and Regional Convergence: A Reinterpretation",
+        "title": "The U.S. Structural Transformation and Regional Convergence: A Reinterpretation",
+        "authors": [
+          "Francesco Caselli",
+          "Wilbur John Coleman II"
+        ],
+        "year": 2001,
+        "journal": "Journal of Political Economy",
+        "volume": "109",
+        "issue": "3",
+        "pages": "584–616",
+        "doi": "10.1086/321015",
+        "url": "https://doi.org/10.1086/321015",
         "verified": true,
         "note": ""
       }
@@ -55649,6 +56270,25 @@
         "url": "https://doi.org/10.1162/rest_a_00266",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59460,6 +60100,40 @@
         "url": "https://doi.org/10.1093/restud/rdy044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade and the Topography of the Spatial Economy",
+        "title": "Trade and the Topography of the Spatial Economy",
+        "authors": [
+          "Treb Allen",
+          "Costas Arkolakis"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "3",
+        "pages": "1085–1140",
+        "doi": "10.1093/qje/qju016",
+        "url": "https://doi.org/10.1093/qje/qju016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Spatial Policies, Geography, and Sorting",
+        "title": "Optimal Spatial Policies, Geography, and Sorting",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Cecile Gaubert"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "2",
+        "pages": "959–1036",
+        "doi": "10.1093/qje/qjaa001",
+        "url": "https://doi.org/10.1093/qje/qjaa001",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -61537,6 +62211,25 @@
         "url": "https://doi.org/10.1257/aer.101.6.2616",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62323,6 +63016,25 @@
         "url": "https://doi.org/10.1093/qje/qjr044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62415,6 +63127,25 @@
         "pages": "382–419",
         "doi": "10.1093/restud/rdz003",
         "url": "https://doi.org/10.1093/restud/rdz003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
         "verified": true,
         "note": ""
       }
@@ -62571,6 +63302,25 @@
         "pages": "165–200",
         "doi": "10.1093/restud/rdac026",
         "url": "https://doi.org/10.1093/restud/rdac026",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
         "verified": true,
         "note": ""
       }
@@ -63155,6 +63905,46 @@
         "pages": "1525–1580",
         "doi": "10.1093/qje/qjaf004",
         "url": "https://doi.org/10.1093/qje/qjaf004",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.35",
+    "title": "范德堡大学电视新闻档案（Vanderbilt Television News Archive）",
+    "links": [
+      {
+        "label": "Vanderbilt Television News Archive",
+        "url": "https://tvnews.vanderbilt.edu"
+      }
+    ],
+    "summary": "范德堡大学自 1968 年 8 月起录制并编目的美国全国电视网晚间新闻档案，覆盖 ABC、CBS、NBC，后增加 CNN 和 Fox News，提供逐条新闻的摘要、时长和播出顺序，可在线检索，录像可申请借阅。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "档案为每期晚间新闻建立索引，记录每条报道的标题、记者、摘要文本、起止时间和长度，可按关键词、日期和电视网检索，目前已收录超过百万条新闻条目。研究常用其报道计数和时长衡量媒体对贸易冲击、选举、灾害或政策事件的关注度，以及新闻议程与公众舆论的关系。",
+    "source": "在线检索公开；录像借阅需申请（部分付费）。",
+    "references": [
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
         "verified": true,
         "note": ""
       }
@@ -65216,6 +66006,44 @@
     ]
   },
   {
+    "id": "2.11.20",
+    "title": "林肯土地政策研究院美国住宅土地价格数据（Davis-Heathcote / Davis-Palumbo）",
+    "links": [
+      {
+        "label": "Lincoln Institute: Land and property values data",
+        "url": "https://www.lincolninst.edu/data/"
+      }
+    ],
+    "summary": "林肯土地政策研究院发布的美国住宅土地价值与房价分解数据，基于 Davis-Heathcote（2007）和 Davis-Palumbo（2008）的方法，把住房价值拆分为土地和建筑两部分，提供全国（1930 年代起）和大城市（1984 年起）季度的土地价格指数和土地份额，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "数据用 ACS/普查和美国住房调查的房屋价值、建筑成本指数（R.S. Means）和折旧假设推算土地价值，给出全国与 46 个大都市区的土地价格、建筑重置成本和土地占住房价值的比重，并有基于 FHFA 的县级与普查区土地价值扩展。城市经济学和宏观研究常用它研究房价波动的来源、土地供给弹性和集聚。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Spatial Development",
+        "title": "Spatial Development",
+        "authors": [
+          "Klaus Desmet",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "4",
+        "pages": "1211–1243",
+        "doi": "10.1257/aer.104.4.1211",
+        "url": "https://doi.org/10.1257/aer.104.4.1211",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.12.1",
     "title": "WRDS 沃顿研究数据服务（Wharton Research Data Services）",
     "links": [
@@ -67020,6 +67848,25 @@
         "pages": "2711–2753",
         "doi": "10.1257/aer.20250064",
         "url": "https://doi.org/10.1257/aer.20250064",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
         "verified": true,
         "note": ""
       }
@@ -72452,6 +73299,23 @@
         "url": "https://doi.org/10.1093/restud/rdaa019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Development",
+        "title": "Spatial Development",
+        "authors": [
+          "Klaus Desmet",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "4",
+        "pages": "1211–1243",
+        "doi": "10.1257/aer.104.4.1211",
+        "url": "https://doi.org/10.1257/aer.104.4.1211",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -76090,6 +76954,96 @@
         "url": "https://doi.org/10.1086/733420",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "NAFTA's and CUSFTA's Impact on International Trade",
+        "title": "NAFTA's and CUSFTA's Impact on International Trade",
+        "authors": [
+          "John Romalis"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "3",
+        "pages": "416–435",
+        "doi": "10.1162/rest.89.3.416",
+        "url": "https://doi.org/10.1162/rest.89.3.416",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Looking for Local Labor Market Effects of NAFTA",
+        "title": "Looking for Local Labor Market Effects of NAFTA",
+        "authors": [
+          "Shushanik Hakobyan",
+          "John McLaren"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "98",
+        "issue": "4",
+        "pages": "728–741",
+        "doi": "10.1162/rest_a_00587",
+        "url": "https://doi.org/10.1162/rest_a_00587",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Wage Effects of Offshoring: Evidence from Danish Matched Worker-Firm Data",
+        "title": "The Wage Effects of Offshoring: Evidence from Danish Matched Worker-Firm Data",
+        "authors": [
+          "David Hummels",
+          "Rasmus Jørgensen",
+          "Jakob Munch",
+          "Chong Xiang"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1597–1629",
+        "doi": "10.1257/aer.104.6.1597",
+        "url": "https://doi.org/10.1257/aer.104.6.1597",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -76344,6 +77298,93 @@
         "pages": "476–508",
         "doi": "10.1257/pol.20240478",
         "url": "https://doi.org/10.1257/pol.20240478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "NAFTA's and CUSFTA's Impact on International Trade",
+        "title": "NAFTA's and CUSFTA's Impact on International Trade",
+        "authors": [
+          "John Romalis"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "3",
+        "pages": "416–435",
+        "doi": "10.1162/rest.89.3.416",
+        "url": "https://doi.org/10.1162/rest.89.3.416",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Looking for Local Labor Market Effects of NAFTA",
+        "title": "Looking for Local Labor Market Effects of NAFTA",
+        "authors": [
+          "Shushanik Hakobyan",
+          "John McLaren"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "98",
+        "issue": "4",
+        "pages": "728–741",
+        "doi": "10.1162/rest_a_00587",
+        "url": "https://doi.org/10.1162/rest_a_00587",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "title": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "authors": [
+          "Felipe Benguria"
+        ],
+        "year": 2026,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "1",
+        "pages": "41–83",
+        "doi": "10.3368/jhr.0421-11621r3",
+        "url": "https://doi.org/10.3368/jhr.0421-11621r3",
         "verified": true,
         "note": ""
       }
@@ -80585,6 +81626,25 @@
         "url": "https://doi.org/10.1093/restud/rdy047",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Wage Effects of Offshoring: Evidence from Danish Matched Worker-Firm Data",
+        "title": "The Wage Effects of Offshoring: Evidence from Danish Matched Worker-Firm Data",
+        "authors": [
+          "David Hummels",
+          "Rasmus Jørgensen",
+          "Jakob Munch",
+          "Chong Xiang"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1597–1629",
+        "doi": "10.1257/aer.104.6.1597",
+        "url": "https://doi.org/10.1257/aer.104.6.1597",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82197,6 +83257,23 @@
         "pages": "3439–3479",
         "doi": "10.1257/aer.20130232",
         "url": "https://doi.org/10.1257/aer.20130232",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Location as an Asset",
+        "title": "Location as an Asset",
+        "authors": [
+          "Adrien Bilal",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "5",
+        "pages": "2459–2495",
+        "doi": "10.3982/ECTA16699",
+        "url": "https://doi.org/10.3982/ECTA16699",
         "verified": true,
         "note": ""
       }
@@ -85378,6 +86455,22 @@
         "url": "https://doi.org/10.1093/restud/rdv039",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "NAFTA's and CUSFTA's Impact on International Trade",
+        "title": "NAFTA's and CUSFTA's Impact on International Trade",
+        "authors": [
+          "John Romalis"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "3",
+        "pages": "416–435",
+        "doi": "10.1162/rest.89.3.416",
+        "url": "https://doi.org/10.1162/rest.89.3.416",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -85854,6 +86947,45 @@
         "pages": "3611–3662",
         "doi": "10.1257/aer.20181853",
         "url": "https://doi.org/10.1257/aer.20181853",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.14",
+    "title": "法国国家统计局设施永久库（Base Permanente des Équipements，BPE）",
+    "links": [
+      {
+        "label": "INSEE: Base permanente des équipements",
+        "url": "https://www.insee.fr/fr/metadonnees/source/serie/s1161"
+      }
+    ],
+    "summary": "法国国家统计局（INSEE）自 2007 年起每年发布的市镇及更细地理单元设施清单，涵盖商业、公共服务、医疗、教育、交通、体育文化和旅游等约 190 类设施的数量与位置（部分有经纬度），公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "地理数据"
+    ],
+    "introduction": "BPE 汇总 SIRENE 企业登记、教育部、卫生部、体育部等多个行政来源，按市镇、IRIS 小区和 200 米格网统计各类设施（超市、面包店、邮局、医生、药店、学校、火车站、游泳池等），并提供可地理定位的设施点文件。研究常用它衡量地方便利设施和公共服务可达性，在城市空间均衡、劳动力迁移和地方公共品研究中作为宜居性指标。",
+    "source": "公开下载（INSEE 网站）。",
+    "references": [
+      {
+        "raw": "Location as an Asset",
+        "title": "Location as an Asset",
+        "authors": [
+          "Adrien Bilal",
+          "Esteban Rossi-Hansberg"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "5",
+        "pages": "2459–2495",
+        "doi": "10.3982/ECTA16699",
+        "url": "https://doi.org/10.3982/ECTA16699",
         "verified": true,
         "note": ""
       }
@@ -90348,6 +91480,23 @@
         "url": "https://doi.org/10.1093/restud/rdv008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Outsourcing to China on Hong Kong's Labor Market",
+        "title": "The Impact of Outsourcing to China on Hong Kong's Labor Market",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Keong T. Woo"
+        ],
+        "year": 2005,
+        "journal": "American Economic Review",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1673–1687",
+        "doi": "10.1257/000282805775014272",
+        "url": "https://doi.org/10.1257/000282805775014272",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -90715,6 +91864,42 @@
         "pages": "150–153",
         "doi": "10.1257/aer.p20171128",
         "url": "https://doi.org/10.1257/aer.p20171128",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Structural Change With Long-Run Income and Price Effects",
+        "title": "Structural Change With Long-Run Income and Price Effects",
+        "authors": [
+          "Diego Comin",
+          "Danial Lashkari",
+          "Martí Mestieri"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "1",
+        "pages": "311–374",
+        "doi": "10.3982/ECTA16317",
+        "url": "https://doi.org/10.3982/ECTA16317",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "title": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "authors": [
+          "Tianyu Fan",
+          "Michael Peters",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "4",
+        "pages": "1457–1494",
+        "doi": "10.3982/ECTA20964",
+        "url": "https://doi.org/10.3982/ECTA20964",
         "verified": true,
         "note": ""
       }
@@ -92064,6 +93249,24 @@
         "url": "https://doi.org/10.1093/ej/ueaa013",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "title": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "authors": [
+          "Tianyu Fan",
+          "Michael Peters",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "4",
+        "pages": "1457–1494",
+        "doi": "10.3982/ECTA20964",
+        "url": "https://doi.org/10.3982/ECTA20964",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92821,6 +94024,45 @@
         "pages": "2342–2375",
         "doi": "10.1257/aer.20200705",
         "url": "https://doi.org/10.1257/aer.20200705",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.4.7",
+    "title": "印度统计与计划执行部国民账户统计（MOSPI National Accounts Statistics）",
+    "links": [
+      {
+        "label": "MOSPI",
+        "url": "https://mospi.gov.in/"
+      }
+    ],
+    "summary": "印度统计与计划执行部（MOSPI）国家统计办公室发布的国民账户统计，包括按行业的总增加值与 GDP、支出法 GDP、资本形成和储蓄、各邦 GSDP，年度《国民账户统计》出版物和季度估计公开下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "国民账户以 2011–12 年为现行基期（此前有 2004–05、1999–2000 等基期），按农业、制造业、建筑、贸易、金融、公共管理等行业提供现价和不变价增加值，并区分有组织和无组织部门，附有各邦分行业 GSDP 和反向序列。研究常用它计算印度结构转型、服务业增长和部门生产率，并与 NSS 就业调查和经济普查匹配。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "title": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "authors": [
+          "Tianyu Fan",
+          "Michael Peters",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "4",
+        "pages": "1457–1494",
+        "doi": "10.3982/ECTA20964",
+        "url": "https://doi.org/10.3982/ECTA20964",
         "verified": true,
         "note": ""
       }
@@ -99434,6 +100676,23 @@
         "url": "https://doi.org/10.1257/aer.20180284",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Slave Trade and the Origins of Mistrust in Africa",
+        "title": "The Slave Trade and the Origins of Mistrust in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Leonard Wantchekon"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "3221–3252",
+        "doi": "10.1257/aer.101.7.3221",
+        "url": "https://doi.org/10.1257/aer.101.7.3221",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99742,6 +101001,24 @@
         "pages": "393–432",
         "doi": "10.1257/pol.20190131",
         "url": "https://doi.org/10.1257/pol.20190131",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "R&D, International Sourcing, and the Joint Impact on Firm Performance",
+        "title": "R&D, International Sourcing, and the Joint Impact on Firm Performance",
+        "authors": [
+          "Esther Ann Bøler",
+          "Andreas Moxnes",
+          "Karen Helene Ulltveit-Moe"
+        ],
+        "year": 2015,
+        "journal": "American Economic Review",
+        "volume": "105",
+        "issue": "12",
+        "pages": "3704–3739",
+        "doi": "10.1257/aer.20121530",
+        "url": "https://doi.org/10.1257/aer.20121530",
         "verified": true,
         "note": ""
       }
@@ -101970,6 +103247,73 @@
         "url": "https://doi.org/10.1093/restud/rdae079",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Looking for Local Labor Market Effects of NAFTA",
+        "title": "Looking for Local Labor Market Effects of NAFTA",
+        "authors": [
+          "Shushanik Hakobyan",
+          "John McLaren"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "98",
+        "issue": "4",
+        "pages": "728–741",
+        "doi": "10.1162/rest_a_00587",
+        "url": "https://doi.org/10.1162/rest_a_00587",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "title": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "authors": [
+          "Felipe Benguria"
+        ],
+        "year": 2026,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "1",
+        "pages": "41–83",
+        "doi": "10.3368/jhr.0421-11621r3",
+        "url": "https://doi.org/10.3368/jhr.0421-11621r3",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Colonialism and female empowerment: A two-sided legacy",
+        "title": "Colonialism and female empowerment: A two-sided legacy",
+        "authors": [
+          "Eleonora Guarnieri",
+          "Helmut Rainer"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "151",
+        "issue": "",
+        "pages": "102666",
+        "doi": "10.1016/j.jdeveco.2021.102666",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102666",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The U.S. Structural Transformation and Regional Convergence: A Reinterpretation",
+        "title": "The U.S. Structural Transformation and Regional Convergence: A Reinterpretation",
+        "authors": [
+          "Francesco Caselli",
+          "Wilbur John Coleman II"
+        ],
+        "year": 2001,
+        "journal": "Journal of Political Economy",
+        "volume": "109",
+        "issue": "3",
+        "pages": "584–616",
+        "doi": "10.1086/321015",
+        "url": "https://doi.org/10.1086/321015",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -102203,6 +103547,40 @@
         "pages": "103557",
         "doi": "10.1016/j.jdeveco.2025.103557",
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103557",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "title": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "authors": [
+          "Quamrul Ashraf",
+          "Oded Galor"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "1–46",
+        "doi": "10.1257/aer.103.1.1",
+        "url": "https://doi.org/10.1257/aer.103.1.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Slave Trade and the Origins of Mistrust in Africa",
+        "title": "The Slave Trade and the Origins of Mistrust in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Leonard Wantchekon"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "3221–3252",
+        "doi": "10.1257/aer.101.7.3221",
+        "url": "https://doi.org/10.1257/aer.101.7.3221",
         "verified": true,
         "note": ""
       }
@@ -102799,6 +104177,40 @@
         "pages": "322–333",
         "doi": "10.1162/rest_a_01140",
         "url": "https://doi.org/10.1162/rest_a_01140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "title": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2047–2091",
+        "doi": "10.1093/qje/qjab021",
+        "url": "https://doi.org/10.1093/qje/qjab021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Colonialism and female empowerment: A two-sided legacy",
+        "title": "Colonialism and female empowerment: A two-sided legacy",
+        "authors": [
+          "Eleonora Guarnieri",
+          "Helmut Rainer"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "151",
+        "issue": "",
+        "pages": "102666",
+        "doi": "10.1016/j.jdeveco.2021.102666",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102666",
         "verified": true,
         "note": ""
       }
@@ -103920,6 +105332,23 @@
         "pages": "903–983",
         "doi": "10.1086/697084",
         "url": "https://doi.org/10.1086/697084",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "title": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "authors": [
+          "Quamrul Ashraf",
+          "Oded Galor"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "1–46",
+        "doi": "10.1257/aer.103.1.1",
+        "url": "https://doi.org/10.1257/aer.103.1.1",
         "verified": true,
         "note": ""
       }
@@ -105859,6 +107288,95 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2020.102474",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The US-China Trade War and Global Reallocations",
+        "title": "The US-China Trade War and Global Reallocations",
+        "authors": [
+          "Pablo Fajgelbaum",
+          "Pinelopi Goldberg",
+          "Patrick Kennedy",
+          "Amit Khandelwal",
+          "Daria Taglioni"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review: Insights",
+        "volume": "6",
+        "issue": "2",
+        "pages": "295–312",
+        "doi": "10.1257/aeri.20230094",
+        "url": "https://doi.org/10.1257/aeri.20230094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Export Prices Across Firms and Destinations",
+        "title": "Export Prices Across Firms and Destinations",
+        "authors": [
+          "Kalina Manova",
+          "Zhiwei Zhang"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "1",
+        "pages": "379–436",
+        "doi": "10.1093/qje/qjr051",
+        "url": "https://doi.org/10.1093/qje/qjr051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "authors": [
+          "Daron Acemoglu",
+          "Simon Johnson",
+          "James A. Robinson"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "4",
+        "pages": "1231–1294",
+        "doi": "10.1162/003355302320935025",
+        "url": "https://doi.org/10.1162/003355302320935025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "title": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "authors": [
+          "Quamrul Ashraf",
+          "Oded Galor"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "1–46",
+        "doi": "10.1257/aer.103.1.1",
+        "url": "https://doi.org/10.1257/aer.103.1.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -106978,6 +108496,95 @@
         "url": "https://doi.org/10.1257/mac.2.4.158",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "title": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "authors": [
+          "Daniel Berger",
+          "William Easterly",
+          "Nathan Nunn",
+          "Shanker Satyanath"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "863–896",
+        "doi": "10.1257/aer.103.2.863",
+        "url": "https://doi.org/10.1257/aer.103.2.863",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Post-1500 Population Flows and The Long-Run Determinants of Economic Growth and Inequality",
+        "title": "Post-1500 Population Flows and The Long-Run Determinants of Economic Growth and Inequality",
+        "authors": [
+          "Louis Putterman",
+          "David N. Weil"
+        ],
+        "year": 2010,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "125",
+        "issue": "4",
+        "pages": "1627–1682",
+        "doi": "10.1162/qjec.2010.125.4.1627",
+        "url": "https://doi.org/10.1162/qjec.2010.125.4.1627",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "title": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "authors": [
+          "Quamrul Ashraf",
+          "Oded Galor"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "1–46",
+        "doi": "10.1257/aer.103.1.1",
+        "url": "https://doi.org/10.1257/aer.103.1.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Structural Change With Long-Run Income and Price Effects",
+        "title": "Structural Change With Long-Run Income and Price Effects",
+        "authors": [
+          "Diego Comin",
+          "Danial Lashkari",
+          "Martí Mestieri"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "1",
+        "pages": "311–374",
+        "doi": "10.3982/ECTA16317",
+        "url": "https://doi.org/10.3982/ECTA16317",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "title": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "authors": [
+          "Tianyu Fan",
+          "Michael Peters",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "4",
+        "pages": "1457–1494",
+        "doi": "10.3982/ECTA20964",
+        "url": "https://doi.org/10.3982/ECTA20964",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107742,6 +109349,23 @@
         "pages": "2032–2065",
         "doi": "10.1257/aer.98.5.2032",
         "url": "https://doi.org/10.1257/aer.98.5.2032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "title": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Fernando Parro"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdu035",
+        "url": "https://doi.org/10.1093/restud/rdu035",
         "verified": true,
         "note": ""
       }
@@ -109006,6 +110630,39 @@
         "url": "https://doi.org/10.1093/restud/rdv039",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "NAFTA's and CUSFTA's Impact on International Trade",
+        "title": "NAFTA's and CUSFTA's Impact on International Trade",
+        "authors": [
+          "John Romalis"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "3",
+        "pages": "416–435",
+        "doi": "10.1162/rest.89.3.416",
+        "url": "https://doi.org/10.1162/rest.89.3.416",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "title": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Fernando Parro"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdu035",
+        "url": "https://doi.org/10.1093/restud/rdu035",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110067,6 +111724,23 @@
         "url": "https://doi.org/10.1257/mac.20130108",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "title": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "authors": [
+          "Quamrul Ashraf",
+          "Oded Galor"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "1–46",
+        "doi": "10.1257/aer.103.1.1",
+        "url": "https://doi.org/10.1257/aer.103.1.1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110146,6 +111820,23 @@
         "url": "https://doi.org/10.1093/restud/rdab036",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "title": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2047–2091",
+        "doi": "10.1093/qje/qjab021",
+        "url": "https://doi.org/10.1093/qje/qjab021",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110200,6 +111891,42 @@
         "pages": "281–290",
         "doi": "10.1162/rest_a_00592",
         "url": "https://doi.org/10.1162/rest_a_00592",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Structural Change With Long-Run Income and Price Effects",
+        "title": "Structural Change With Long-Run Income and Price Effects",
+        "authors": [
+          "Diego Comin",
+          "Danial Lashkari",
+          "Martí Mestieri"
+        ],
+        "year": 2021,
+        "journal": "Econometrica",
+        "volume": "89",
+        "issue": "1",
+        "pages": "311–374",
+        "doi": "10.3982/ECTA16317",
+        "url": "https://doi.org/10.3982/ECTA16317",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "title": "Growing Like India—the Unequal Effects of Service-Led Growth",
+        "authors": [
+          "Tianyu Fan",
+          "Michael Peters",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2023,
+        "journal": "Econometrica",
+        "volume": "91",
+        "issue": "4",
+        "pages": "1457–1494",
+        "doi": "10.3982/ECTA20964",
+        "url": "https://doi.org/10.3982/ECTA20964",
         "verified": true,
         "note": ""
       }
@@ -110473,6 +112200,57 @@
         "url": "https://doi.org/10.1257/mac.20180296",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "authors": [
+          "Daron Acemoglu",
+          "Simon Johnson",
+          "James A. Robinson"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "4",
+        "pages": "1231–1294",
+        "doi": "10.1162/003355302320935025",
+        "url": "https://doi.org/10.1162/003355302320935025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Africa's Slave Trades",
+        "title": "The Long-Term Effects of Africa's Slave Trades",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2008,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "123",
+        "issue": "1",
+        "pages": "139–176",
+        "doi": "10.1162/qjec.2008.123.1.139",
+        "url": "https://doi.org/10.1162/qjec.2008.123.1.139",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110584,6 +112362,24 @@
         "url": "https://doi.org/10.1257/0002828054825501",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "authors": [
+          "Daron Acemoglu",
+          "Simon Johnson",
+          "James A. Robinson"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "4",
+        "pages": "1231–1294",
+        "doi": "10.1162/003355302320935025",
+        "url": "https://doi.org/10.1162/003355302320935025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110653,6 +112449,41 @@
         "url": "https://doi.org/10.1257/aer.101.7.3286",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "authors": [
+          "Daron Acemoglu",
+          "Simon Johnson",
+          "James A. Robinson"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "4",
+        "pages": "1231–1294",
+        "doi": "10.1162/003355302320935025",
+        "url": "https://doi.org/10.1162/003355302320935025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "title": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "authors": [
+          "Quamrul Ashraf",
+          "Oded Galor"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "1–46",
+        "doi": "10.1257/aer.103.1.1",
+        "url": "https://doi.org/10.1257/aer.103.1.1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110711,6 +112542,25 @@
         "url": "https://doi.org/10.1257/mac.20150147",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy",
+        "title": "Tariff Pass-Through at the Border and at the Store: Evidence from US Trade Policy",
+        "authors": [
+          "Alberto Cavallo",
+          "Gita Gopinath",
+          "Brent Neiman",
+          "Jenny Tang"
+        ],
+        "year": 2021,
+        "journal": "American Economic Review: Insights",
+        "volume": "3",
+        "issue": "1",
+        "pages": "19–34",
+        "doi": "10.1257/aeri.20190536",
+        "url": "https://doi.org/10.1257/aeri.20190536",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110764,6 +112614,23 @@
         "pages": "1727–1785",
         "doi": "10.1093/qje/qjt025",
         "url": "https://doi.org/10.1093/qje/qjt025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Post-1500 Population Flows and The Long-Run Determinants of Economic Growth and Inequality",
+        "title": "Post-1500 Population Flows and The Long-Run Determinants of Economic Growth and Inequality",
+        "authors": [
+          "Louis Putterman",
+          "David N. Weil"
+        ],
+        "year": 2010,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "125",
+        "issue": "4",
+        "pages": "1627–1682",
+        "doi": "10.1162/qjec.2010.125.4.1627",
+        "url": "https://doi.org/10.1162/qjec.2010.125.4.1627",
         "verified": true,
         "note": ""
       }
@@ -111255,6 +113122,48 @@
         "pages": "3675–3712",
         "doi": "10.1257/aer.20231531",
         "url": "https://doi.org/10.1257/aer.20231531",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.49",
+    "title": "美国对外援助数据（USAID Greenbook / ForeignAssistance.gov）",
+    "links": [
+      {
+        "label": "ForeignAssistance.gov",
+        "url": "https://foreignassistance.gov/"
+      }
+    ],
+    "summary": "美国国际开发署（USAID）编制的对外贷款与赠款数据（俗称\"绿皮书\"，U.S. Overseas Loans and Grants），记录 1946 年以来美国按受援国、年度、机构和援助类型（经济与军事）分的承诺和支出，现与 ForeignAssistance.gov 合并发布。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据",
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "政治数据"
+    ],
+    "introduction": "绿皮书数据覆盖经济援助（USAID、农业部粮食援助、千年挑战公司等）和军事援助（对外军事融资、国际军事教育训练等），按受援国和财年给出现价与不变价金额。ForeignAssistance.gov 进一步提供项目和交易级别的支出数据。研究常用它研究冷战干预、援助的政治动机以及援助对受援国政治和经济的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "title": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "authors": [
+          "Daniel Berger",
+          "William Easterly",
+          "Nathan Nunn",
+          "Shanker Satyanath"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "863–896",
+        "doi": "10.1257/aer.103.2.863",
+        "url": "https://doi.org/10.1257/aer.103.2.863",
         "verified": true,
         "note": ""
       }
@@ -112120,6 +114029,40 @@
         "url": "https://doi.org/10.1093/qje/qjr009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "title": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2047–2091",
+        "doi": "10.1093/qje/qjab021",
+        "url": "https://doi.org/10.1093/qje/qjab021",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -112806,6 +114749,73 @@
         "url": "https://doi.org/10.3982/ECTA15505",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Africa's Slave Trades",
+        "title": "The Long-Term Effects of Africa's Slave Trades",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2008,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "123",
+        "issue": "1",
+        "pages": "139–176",
+        "doi": "10.1162/qjec.2008.123.1.139",
+        "url": "https://doi.org/10.1162/qjec.2008.123.1.139",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Slave Trade and the Origins of Mistrust in Africa",
+        "title": "The Slave Trade and the Origins of Mistrust in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Leonard Wantchekon"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "3221–3252",
+        "doi": "10.1257/aer.101.7.3221",
+        "url": "https://doi.org/10.1257/aer.101.7.3221",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "title": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2047–2091",
+        "doi": "10.1093/qje/qjab021",
+        "url": "https://doi.org/10.1093/qje/qjab021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Colonialism and female empowerment: A two-sided legacy",
+        "title": "Colonialism and female empowerment: A two-sided legacy",
+        "authors": [
+          "Eleonora Guarnieri",
+          "Helmut Rainer"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "151",
+        "issue": "",
+        "pages": "102666",
+        "doi": "10.1016/j.jdeveco.2021.102666",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102666",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -113176,6 +115186,23 @@
         "url": "https://doi.org/10.1093/qje/qjag005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -113454,6 +115481,40 @@
         "url": "https://doi.org/10.1086/697084",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "title": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2047–2091",
+        "doi": "10.1093/qje/qjab021",
+        "url": "https://doi.org/10.1093/qje/qjab021",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -113507,6 +115568,23 @@
         "pages": "1–41",
         "doi": "10.1257/app.20230629",
         "url": "https://doi.org/10.1257/app.20230629",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Slave Trade and the Origins of Mistrust in Africa",
+        "title": "The Slave Trade and the Origins of Mistrust in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Leonard Wantchekon"
+        ],
+        "year": 2011,
+        "journal": "American Economic Review",
+        "volume": "101",
+        "issue": "7",
+        "pages": "3221–3252",
+        "doi": "10.1257/aer.101.7.3221",
+        "url": "https://doi.org/10.1257/aer.101.7.3221",
         "verified": true,
         "note": ""
       }
@@ -114484,6 +116562,23 @@
         "pages": "103719",
         "doi": "10.1016/j.jdeveco.2026.103719",
         "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "title": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2047–2091",
+        "doi": "10.1093/qje/qjab021",
+        "url": "https://doi.org/10.1093/qje/qjab021",
         "verified": true,
         "note": ""
       }
@@ -120868,6 +122963,23 @@
         "url": "https://doi.org/10.1257/mac.2.4.158",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -121238,6 +123350,43 @@
         "url": "https://doi.org/10.1257/mac.2.4.158",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "title": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "authors": [
+          "Daniel Berger",
+          "William Easterly",
+          "Nathan Nunn",
+          "Shanker Satyanath"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "863–896",
+        "doi": "10.1257/aer.103.2.863",
+        "url": "https://doi.org/10.1257/aer.103.2.863",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "authors": [
+          "Daron Acemoglu",
+          "Simon Johnson",
+          "James A. Robinson"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "4",
+        "pages": "1231–1294",
+        "doi": "10.1162/003355302320935025",
+        "url": "https://doi.org/10.1162/003355302320935025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -121435,6 +123584,40 @@
         "pages": "1440–1467",
         "doi": "10.1257/aer.20170748",
         "url": "https://doi.org/10.1257/aer.20170748",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "title": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2047–2091",
+        "doi": "10.1093/qje/qjab021",
+        "url": "https://doi.org/10.1093/qje/qjab021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Colonialism and female empowerment: A two-sided legacy",
+        "title": "Colonialism and female empowerment: A two-sided legacy",
+        "authors": [
+          "Eleonora Guarnieri",
+          "Helmut Rainer"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "151",
+        "issue": "",
+        "pages": "102666",
+        "doi": "10.1016/j.jdeveco.2021.102666",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102666",
         "verified": true,
         "note": ""
       }
@@ -122213,6 +124396,24 @@
         "url": "https://doi.org/10.1257/mac.2.4.158",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "authors": [
+          "Daron Acemoglu",
+          "Simon Johnson",
+          "James A. Robinson"
+        ],
+        "year": 2002,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "4",
+        "pages": "1231–1294",
+        "doi": "10.1162/003355302320935025",
+        "url": "https://doi.org/10.1162/003355302320935025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -122269,6 +124470,42 @@
         "pages": "376–412",
         "doi": "10.1093/jeea/jvy022",
         "url": "https://doi.org/10.1093/jeea/jvy022",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "title": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "authors": [
+          "Daniel Berger",
+          "William Easterly",
+          "Nathan Nunn",
+          "Shanker Satyanath"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "863–896",
+        "doi": "10.1257/aer.103.2.863",
+        "url": "https://doi.org/10.1257/aer.103.2.863",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Post-1500 Population Flows and The Long-Run Determinants of Economic Growth and Inequality",
+        "title": "Post-1500 Population Flows and The Long-Run Determinants of Economic Growth and Inequality",
+        "authors": [
+          "Louis Putterman",
+          "David N. Weil"
+        ],
+        "year": 2010,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "125",
+        "issue": "4",
+        "pages": "1627–1682",
+        "doi": "10.1162/qjec.2010.125.4.1627",
+        "url": "https://doi.org/10.1162/qjec.2010.125.4.1627",
         "verified": true,
         "note": ""
       }
@@ -123175,6 +125412,46 @@
         "pages": "26–57",
         "doi": "10.1257/pol.2.4.26",
         "url": "https://doi.org/10.1257/pol.2.4.26",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.32",
+    "title": "联合国大会唱名投票数据（Voeten UNGA Voting Data）",
+    "links": [
+      {
+        "label": "Harvard Dataverse: United Nations General Assembly Voting Data",
+        "url": "https://dataverse.harvard.edu/dataverse/Voeten"
+      }
+    ],
+    "summary": "Erik Voeten 维护的 1946 年以来联合国大会全部唱名表决的国家投票记录，附有决议主题分类和基于投票计算的国家间亲和度（S 分数等）与理想点估计，经 Harvard Dataverse 公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "数据记录每项大会决议的各国投票（赞成、反对、弃权、缺席），按中东、核武器、殖民主义、人权、经济发展等主题标注，并提供 Bailey、Strezhnev 和 Voeten（2017）的动态理想点估计以及各国与美国等大国的投票一致度。经济学和政治学研究常用它衡量国家间的地缘政治距离，用于分析援助、贸易、冷战干预和国际组织贷款。",
+    "source": "公开下载（Harvard Dataverse）。",
+    "references": [
+      {
+        "raw": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "title": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "authors": [
+          "Daniel Berger",
+          "William Easterly",
+          "Nathan Nunn",
+          "Shanker Satyanath"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "863–896",
+        "doi": "10.1257/aer.103.2.863",
+        "url": "https://doi.org/10.1257/aer.103.2.863",
         "verified": true,
         "note": ""
       }
@@ -128891,6 +131168,23 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2026.103719",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -129250,6 +131544,23 @@
         "pages": "226–258",
         "doi": "10.1257/mac.20130108",
         "url": "https://doi.org/10.1257/mac.20130108",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+        "authors": [
+          "Nathan Nunn",
+          "Diego Puga"
+        ],
+        "year": 2012,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "94",
+        "issue": "1",
+        "pages": "20–36",
+        "doi": "10.1162/rest_a_00161",
+        "url": "https://doi.org/10.1162/rest_a_00161",
         "verified": true,
         "note": ""
       }
@@ -130269,6 +132580,40 @@
         "url": "https://doi.org/10.1093/restud/rdz003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "title": "The \"Out of Africa\" Hypothesis, Human Genetic Diversity, and Comparative Economic Development",
+        "authors": [
+          "Quamrul Ashraf",
+          "Oded Galor"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "1",
+        "pages": "1–46",
+        "doi": "10.1257/aer.103.1.1",
+        "url": "https://doi.org/10.1257/aer.103.1.1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "title": "Concessions, Violence, and Indirect Rule: Evidence from the Congo Free State",
+        "authors": [
+          "Sara Lowes",
+          "Eduardo Montero"
+        ],
+        "year": 2021,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2047–2091",
+        "doi": "10.1093/qje/qjab021",
+        "url": "https://doi.org/10.1093/qje/qjab021",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -130955,6 +133300,133 @@
         "url": "https://doi.org/10.1093/jeea/jvad007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "title": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "authors": [
+          "Daniel Berger",
+          "William Easterly",
+          "Nathan Nunn",
+          "Shanker Satyanath"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "863–896",
+        "doi": "10.1257/aer.103.2.863",
+        "url": "https://doi.org/10.1257/aer.103.2.863",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The US-China Trade War and Global Reallocations",
+        "title": "The US-China Trade War and Global Reallocations",
+        "authors": [
+          "Pablo Fajgelbaum",
+          "Pinelopi Goldberg",
+          "Patrick Kennedy",
+          "Amit Khandelwal",
+          "Daria Taglioni"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review: Insights",
+        "volume": "6",
+        "issue": "2",
+        "pages": "295–312",
+        "doi": "10.1257/aeri.20230094",
+        "url": "https://doi.org/10.1257/aeri.20230094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "title": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Fernando Parro"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdu035",
+        "url": "https://doi.org/10.1093/restud/rdu035",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Looking for Local Labor Market Effects of NAFTA",
+        "title": "Looking for Local Labor Market Effects of NAFTA",
+        "authors": [
+          "Shushanik Hakobyan",
+          "John McLaren"
+        ],
+        "year": 2016,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "98",
+        "issue": "4",
+        "pages": "728–741",
+        "doi": "10.1162/rest_a_00587",
+        "url": "https://doi.org/10.1162/rest_a_00587",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "title": "Local Economic and Political Effects of Trade Deals: Evidence from NAFTA",
+        "authors": [
+          "Jiwon Choi",
+          "Ilyana Kuziemko",
+          "Ebonya Washington",
+          "Gavin Wright"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review",
+        "volume": "114",
+        "issue": "6",
+        "pages": "1540–1575",
+        "doi": "10.1257/aer.20220425",
+        "url": "https://doi.org/10.1257/aer.20220425",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "title": "The Impact of NAFTA on U.S. Local Labor Market Employment",
+        "authors": [
+          "Felipe Benguria"
+        ],
+        "year": 2026,
+        "journal": "Journal of Human Resources",
+        "volume": "61",
+        "issue": "1",
+        "pages": "41–83",
+        "doi": "10.3368/jhr.0421-11621r3",
+        "url": "https://doi.org/10.3368/jhr.0421-11621r3",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Wage Effects of Offshoring: Evidence from Danish Matched Worker-Firm Data",
+        "title": "The Wage Effects of Offshoring: Evidence from Danish Matched Worker-Firm Data",
+        "authors": [
+          "David Hummels",
+          "Rasmus Jørgensen",
+          "Jakob Munch",
+          "Chong Xiang"
+        ],
+        "year": 2014,
+        "journal": "American Economic Review",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1597–1629",
+        "doi": "10.1257/aer.104.6.1597",
+        "url": "https://doi.org/10.1257/aer.104.6.1597",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -131355,6 +133827,62 @@
         "pages": "3675–3712",
         "doi": "10.1257/aer.20231531",
         "url": "https://doi.org/10.1257/aer.20231531",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "title": "Commercial Imperialism? Political Influence and Trade During the Cold War",
+        "authors": [
+          "Daniel Berger",
+          "William Easterly",
+          "Nathan Nunn",
+          "Shanker Satyanath"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "2",
+        "pages": "863–896",
+        "doi": "10.1257/aer.103.2.863",
+        "url": "https://doi.org/10.1257/aer.103.2.863",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The US-China Trade War and Global Reallocations",
+        "title": "The US-China Trade War and Global Reallocations",
+        "authors": [
+          "Pablo Fajgelbaum",
+          "Pinelopi Goldberg",
+          "Patrick Kennedy",
+          "Amit Khandelwal",
+          "Daria Taglioni"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review: Insights",
+        "volume": "6",
+        "issue": "2",
+        "pages": "295–312",
+        "doi": "10.1257/aeri.20230094",
+        "url": "https://doi.org/10.1257/aeri.20230094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Export Prices Across Firms and Destinations",
+        "title": "Export Prices Across Firms and Destinations",
+        "authors": [
+          "Kalina Manova",
+          "Zhiwei Zhang"
+        ],
+        "year": 2012,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "127",
+        "issue": "1",
+        "pages": "379–436",
+        "doi": "10.1093/qje/qjr051",
+        "url": "https://doi.org/10.1093/qje/qjr051",
         "verified": true,
         "note": ""
       }
@@ -131924,6 +134452,23 @@
         "url": "https://doi.org/10.1086/733420",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Outsourcing to China on Hong Kong's Labor Market",
+        "title": "The Impact of Outsourcing to China on Hong Kong's Labor Market",
+        "authors": [
+          "Chang-Tai Hsieh",
+          "Keong T. Woo"
+        ],
+        "year": 2005,
+        "journal": "American Economic Review",
+        "volume": "95",
+        "issue": "5",
+        "pages": "1673–1687",
+        "doi": "10.1257/000282805775014272",
+        "url": "https://doi.org/10.1257/000282805775014272",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -132169,6 +134714,23 @@
         "url": "https://doi.org/10.1257/aer.20141743",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "title": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Fernando Parro"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdu035",
+        "url": "https://doi.org/10.1093/restud/rdu035",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -132290,6 +134852,22 @@
         "pages": "19–32",
         "doi": "10.1016/j.jdeveco.2014.10.001",
         "url": "https://doi.org/10.1016/j.jdeveco.2014.10.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Africa's Slave Trades",
+        "title": "The Long-Term Effects of Africa's Slave Trades",
+        "authors": [
+          "Nathan Nunn"
+        ],
+        "year": 2008,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "123",
+        "issue": "1",
+        "pages": "139–176",
+        "doi": "10.1162/qjec.2008.123.1.139",
+        "url": "https://doi.org/10.1162/qjec.2008.123.1.139",
         "verified": true,
         "note": ""
       }
@@ -132418,6 +134996,26 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The US-China Trade War and Global Reallocations",
+        "title": "The US-China Trade War and Global Reallocations",
+        "authors": [
+          "Pablo Fajgelbaum",
+          "Pinelopi Goldberg",
+          "Patrick Kennedy",
+          "Amit Khandelwal",
+          "Daria Taglioni"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review: Insights",
+        "volume": "6",
+        "issue": "2",
+        "pages": "295–312",
+        "doi": "10.1257/aeri.20230094",
+        "url": "https://doi.org/10.1257/aeri.20230094",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -132496,6 +135094,41 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.3386/w28395",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "title": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Fernando Parro"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdu035",
+        "url": "https://doi.org/10.1093/restud/rdu035",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Framework for Geoeconomics",
+        "title": "A Framework for Geoeconomics",
+        "authors": [
+          "Christopher Clayton",
+          "Matteo Maggiori",
+          "Jesse Schreger"
+        ],
+        "year": 2026,
+        "journal": "Econometrica",
+        "volume": "94",
+        "issue": "1",
+        "pages": "105–136",
+        "doi": "10.3982/ECTA23206",
+        "url": "https://doi.org/10.3982/ECTA23206",
         "verified": true,
         "note": ""
       }
@@ -132842,6 +135475,58 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102650",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Return to Protectionism",
+        "title": "The Return to Protectionism",
+        "authors": [
+          "Pablo D. Fajgelbaum",
+          "Pinelopi K. Goldberg",
+          "Patrick J. Kennedy",
+          "Amit K. Khandelwal"
+        ],
+        "year": 2020,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "1",
+        "pages": "1–55",
+        "doi": "10.1093/qje/qjz036",
+        "url": "https://doi.org/10.1093/qje/qjz036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "NAFTA's and CUSFTA's Impact on International Trade",
+        "title": "NAFTA's and CUSFTA's Impact on International Trade",
+        "authors": [
+          "John Romalis"
+        ],
+        "year": 2007,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "89",
+        "issue": "3",
+        "pages": "416–435",
+        "doi": "10.1162/rest.89.3.416",
+        "url": "https://doi.org/10.1162/rest.89.3.416",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "title": "Estimates of the Trade and Welfare Effects of NAFTA",
+        "authors": [
+          "Lorenzo Caliendo",
+          "Fernando Parro"
+        ],
+        "year": 2015,
+        "journal": "The Review of Economic Studies",
+        "volume": "82",
+        "issue": "1",
+        "pages": "1–44",
+        "doi": "10.1093/restud/rdu035",
+        "url": "https://doi.org/10.1093/restud/rdu035",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -132957,6 +135642,48 @@
         "pages": "153–168",
         "doi": "10.1016/j.jdeveco.2017.02.008",
         "url": "https://doi.org/10.1016/j.jdeveco.2017.02.008",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.21",
+    "title": "世界银行深度贸易协定数据库（Deep Trade Agreements Database）",
+    "links": [
+      {
+        "label": "World Bank: Deep Trade Agreements",
+        "url": "https://datatopics.worldbank.org/dta/table.html"
+      }
+    ],
+    "summary": "世界银行编制的优惠贸易协定内容数据库，对 1958 年以来通报 WTO 的 400 多个贸易协定按 52 项政策领域（关税、服务、投资、知识产权、竞争、环境、劳工等）编码其覆盖范围和法律可执行性，并有 18 个核心领域的约 900 条细项规定，公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据",
+      "政治数据"
+    ],
+    "introduction": "数据库最初由 Hofmann、Osnago 和 Ruta（2017）构建，后扩展为《深度贸易协定手册》配套数据：对每个协定判定各政策领域条款是否存在、是否超出 WTO 承诺（WTO+ 与 WTO-X）、是否具有法律约束力，并为细项规定提供协定×条款矩阵。研究常用它构造贸易协定\"深度\"指数，分析深度一体化对贸易、全球价值链和外国直接投资的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The US-China Trade War and Global Reallocations",
+        "title": "The US-China Trade War and Global Reallocations",
+        "authors": [
+          "Pablo Fajgelbaum",
+          "Pinelopi Goldberg",
+          "Patrick Kennedy",
+          "Amit Khandelwal",
+          "Daria Taglioni"
+        ],
+        "year": 2024,
+        "journal": "American Economic Review: Insights",
+        "volume": "6",
+        "issue": "2",
+        "pages": "295–312",
+        "doi": "10.1257/aeri.20230094",
+        "url": "https://doi.org/10.1257/aeri.20230094",
         "verified": true,
         "note": ""
       }
@@ -133245,6 +135972,24 @@
         "pages": "158–194",
         "doi": "10.1257/mac.2.4.158",
         "url": "https://doi.org/10.1257/mac.2.4.158",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Agricultural Productivity Gap",
+        "title": "The Agricultural Productivity Gap",
+        "authors": [
+          "Douglas Gollin",
+          "David Lagakos",
+          "Michael E. Waugh"
+        ],
+        "year": 2014,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "129",
+        "issue": "2",
+        "pages": "939–993",
+        "doi": "10.1093/qje/qjt056",
+        "url": "https://doi.org/10.1093/qje/qjt056",
         "verified": true,
         "note": ""
       }
