@@ -854,6 +854,42 @@
         "url": "https://doi.org/10.1162/rest_a_01058",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Expenditure response to health insurance policies: Evidence from kinks in rural China",
+        "title": "Expenditure response to health insurance policies: Evidence from kinks in rural China",
+        "authors": [
+          "Yi Lu",
+          "Julie Shi",
+          "Wanyu Yang"
+        ],
+        "year": 2019,
+        "journal": "Journal of Public Economics",
+        "volume": "178",
+        "issue": "",
+        "pages": "104049",
+        "doi": "10.1016/j.jpubeco.2019.104049",
+        "url": "https://doi.org/10.1016/j.jpubeco.2019.104049",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The largest insurance program in history: Saving one million lives per year in China",
+        "title": "The largest insurance program in history: Saving one million lives per year in China",
+        "authors": [
+          "Jonathan Gruber",
+          "Mengyun Lin",
+          "Junjian Yi"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "226",
+        "issue": "",
+        "pages": "104999",
+        "doi": "10.1016/j.jpubeco.2023.104999",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104999",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1453,6 +1489,23 @@
         "pages": "103356",
         "doi": "10.1016/j.jdeveco.2024.103356",
         "url": "https://doi.org/10.1016/j.jdeveco.2024.103356",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early childhood exposure to health insurance and adolescent outcomes: Evidence from rural China",
+        "title": "Early childhood exposure to health insurance and adolescent outcomes: Evidence from rural China",
+        "authors": [
+          "Wei Huang",
+          "Hong Liu"
+        ],
+        "year": 2023,
+        "journal": "Journal of Development Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "102925",
+        "doi": "10.1016/j.jdeveco.2022.102925",
+        "url": "https://doi.org/10.1016/j.jdeveco.2022.102925",
         "verified": true,
         "note": ""
       }
@@ -2142,6 +2195,58 @@
         "pages": "1520–1534",
         "doi": "10.1162/rest_a_00356",
         "url": "https://doi.org/10.1162/rest_a_00356",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does health insurance coverage lead to better health and educational outcomes? Evidence from rural China",
+        "title": "Does health insurance coverage lead to better health and educational outcomes? Evidence from rural China",
+        "authors": [
+          "Yuyu Chen",
+          "Ginger Zhe Jin"
+        ],
+        "year": 2012,
+        "journal": "Journal of Health Economics",
+        "volume": "31",
+        "issue": "1",
+        "pages": "1–14",
+        "doi": "10.1016/j.jhealeco.2011.11.001",
+        "url": "https://doi.org/10.1016/j.jhealeco.2011.11.001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Early childhood exposure to health insurance and adolescent outcomes: Evidence from rural China",
+        "title": "Early childhood exposure to health insurance and adolescent outcomes: Evidence from rural China",
+        "authors": [
+          "Wei Huang",
+          "Hong Liu"
+        ],
+        "year": 2023,
+        "journal": "Journal of Development Economics",
+        "volume": "160",
+        "issue": "",
+        "pages": "102925",
+        "doi": "10.1016/j.jdeveco.2022.102925",
+        "url": "https://doi.org/10.1016/j.jdeveco.2022.102925",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The largest insurance program in history: Saving one million lives per year in China",
+        "title": "The largest insurance program in history: Saving one million lives per year in China",
+        "authors": [
+          "Jonathan Gruber",
+          "Mengyun Lin",
+          "Junjian Yi"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "226",
+        "issue": "",
+        "pages": "104999",
+        "doi": "10.1016/j.jpubeco.2023.104999",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104999",
         "verified": true,
         "note": ""
       }
@@ -4207,6 +4312,23 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2021.102650",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Public health insurance and pharmaceutical innovation: Evidence from China",
+        "title": "Public health insurance and pharmaceutical innovation: Evidence from China",
+        "authors": [
+          "Xuan Zhang",
+          "Huihua Nie"
+        ],
+        "year": 2021,
+        "journal": "Journal of Development Economics",
+        "volume": "148",
+        "issue": "",
+        "pages": "102578",
+        "doi": "10.1016/j.jdeveco.2020.102578",
+        "url": "https://doi.org/10.1016/j.jdeveco.2020.102578",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -5695,6 +5817,24 @@
         "pages": "103811",
         "doi": "10.1016/j.jue.2025.103811",
         "url": "https://doi.org/10.1016/j.jue.2025.103811",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The largest insurance program in history: Saving one million lives per year in China",
+        "title": "The largest insurance program in history: Saving one million lives per year in China",
+        "authors": [
+          "Jonathan Gruber",
+          "Mengyun Lin",
+          "Junjian Yi"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "226",
+        "issue": "",
+        "pages": "104999",
+        "doi": "10.1016/j.jpubeco.2023.104999",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104999",
         "verified": true,
         "note": ""
       }
@@ -8220,6 +8360,64 @@
         "pages": "102468",
         "doi": "10.1016/j.jdeveco.2020.102468",
         "url": "https://doi.org/10.1016/j.jdeveco.2020.102468",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The largest insurance program in history: Saving one million lives per year in China",
+        "title": "The largest insurance program in history: Saving one million lives per year in China",
+        "authors": [
+          "Jonathan Gruber",
+          "Mengyun Lin",
+          "Junjian Yi"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "226",
+        "issue": "",
+        "pages": "104999",
+        "doi": "10.1016/j.jpubeco.2023.104999",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104999",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.8.2",
+    "title": "中国老年健康影响因素跟踪调查（Chinese Longitudinal Healthy Longevity Survey，CLHLS）",
+    "links": [
+      {
+        "label": "PKU Open Research Data: CHADS",
+        "url": "https://opendata.pku.edu.cn/dataverse/CHADS"
+      }
+    ],
+    "summary": "北京大学健康老龄与发展研究中心组织的全国老年人追踪调查，自 1998 年起在 22 个省份开展八轮以上，样本以 80 岁以上高龄老人和百岁老人为特色，并纳入 65 岁以上老人和成年子女，记录健康状况、日常生活能力、认知功能、生活方式、家庭支持和死亡信息，经北京大学开放研究数据平台申请下载。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "CLHLS 对存活者追踪访问、对死亡者向家属访问死亡前状况，可构造老年人存活与死亡面板；调查内容包括 ADL、MMSE 认知量表、慢性病、医疗服务使用和费用、社会经济状况。研究常用它分析中国老年健康、长寿影响因素、医疗保险（如新农合）和家庭养老的影响。",
+    "source": "需注册申请（北京大学开放研究数据平台）。",
+    "references": [
+      {
+        "raw": "The largest insurance program in history: Saving one million lives per year in China",
+        "title": "The largest insurance program in history: Saving one million lives per year in China",
+        "authors": [
+          "Jonathan Gruber",
+          "Mengyun Lin",
+          "Junjian Yi"
+        ],
+        "year": 2023,
+        "journal": "Journal of Public Economics",
+        "volume": "226",
+        "issue": "",
+        "pages": "104999",
+        "doi": "10.1016/j.jpubeco.2023.104999",
+        "url": "https://doi.org/10.1016/j.jpubeco.2023.104999",
         "verified": true,
         "note": ""
       }
@@ -13218,6 +13416,40 @@
         "url": "https://doi.org/10.1093/qje/qjs020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+        "title": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "7",
+        "pages": "2683–2721",
+        "doi": "10.1257/aer.103.7.2683",
+        "url": "https://doi.org/10.1257/aer.103.7.2683",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Marital Status and Fertility in the United States: Welfare and Labor Market Effects",
+        "title": "Marital Status and Fertility in the United States: Welfare and Labor Market Effects",
+        "authors": [
+          "T. Paul Schultz"
+        ],
+        "year": 1994,
+        "journal": "The Journal of Human Resources",
+        "volume": "29",
+        "issue": "2",
+        "pages": "637",
+        "doi": "10.2307/146114",
+        "url": "https://doi.org/10.2307/146114",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13472,6 +13704,39 @@
         "pages": "769–807",
         "doi": "10.1257/aer.98.3.769",
         "url": "https://doi.org/10.1257/aer.98.3.769",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effects of grants-in-aid on state and local expenditures: The case of AFDC",
+        "title": "The effects of grants-in-aid on state and local expenditures: The case of AFDC",
+        "authors": [
+          "Robert A. Moffitt"
+        ],
+        "year": 1984,
+        "journal": "Journal of Public Economics",
+        "volume": "23",
+        "issue": "",
+        "pages": "279–305",
+        "doi": "10.1016/0047-2727(84)90032-X",
+        "url": "https://doi.org/10.1016/0047-2727(84)90032-X",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Welfare and Child Health: The Link between AFDC Participation and Birth Weight",
+        "title": "Welfare and Child Health: The Link between AFDC Participation and Birth Weight",
+        "authors": [
+          "Janet Currie",
+          "Nancy Cole"
+        ],
+        "year": 1993,
+        "journal": "American Economic Review",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "",
         "verified": true,
         "note": ""
       }
@@ -16092,6 +16357,24 @@
         "url": "https://doi.org/10.3368/jhr.51.3.0913-5918r1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Long-Term Impacts of Childhood Medicaid Expansions on Outcomes in Adulthood",
+        "title": "Long-Term Impacts of Childhood Medicaid Expansions on Outcomes in Adulthood",
+        "authors": [
+          "David W. Brown",
+          "Amanda E. Kowalski",
+          "Ithai Z. Lurie"
+        ],
+        "year": 2020,
+        "journal": "The Review of Economic Studies",
+        "volume": "87",
+        "issue": "2",
+        "pages": "792–821",
+        "doi": "10.1093/restud/rdz039",
+        "url": "https://doi.org/10.1093/restud/rdz039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18696,6 +18979,61 @@
         "url": "https://doi.org/10.3368/jhr.51.3.1014-6688r1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "title": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "authors": [
+          "Colleen M. Carey",
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "4",
+        "pages": "288–318",
+        "doi": "10.1257/app.20190176",
+        "url": "https://doi.org/10.1257/app.20190176",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA",
+        "title": "Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA",
+        "authors": [
+          "Pietro Tebaldi"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "586–620",
+        "doi": "10.1093/restud/rdae020",
+        "url": "https://doi.org/10.1093/restud/rdae020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "title": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "authors": [
+          "Amelia Hawkins",
+          "Christopher Hollrah",
+          "Sarah Miller",
+          "Laura R. Wherry",
+          "Gloria Aldana",
+          "Mitchell Wong"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "9",
+        "pages": "3081–3129",
+        "doi": "10.1257/aer.20231293",
+        "url": "https://doi.org/10.1257/aer.20231293",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18780,6 +19118,22 @@
         "pages": "808–827",
         "doi": "10.1086/261629",
         "url": "https://doi.org/10.1086/261629",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does means-testing welfare discourage saving? Evidence from a change in AFDC policy in the United States",
+        "title": "Does means-testing welfare discourage saving? Evidence from a change in AFDC policy in the United States",
+        "authors": [
+          "Elizabeth T. Powers"
+        ],
+        "year": 1998,
+        "journal": "Journal of Public Economics",
+        "volume": "68",
+        "issue": "1",
+        "pages": "33–53",
+        "doi": "10.1016/s0047-2727(97)00087-x",
+        "url": "https://doi.org/10.1016/s0047-2727(97)00087-x",
         "verified": true,
         "note": ""
       }
@@ -21388,6 +21742,174 @@
         "url": "https://doi.org/10.3368/jhr.51.3.0913-5918r1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Early Life Medicaid Coverage",
+        "title": "The Long-Term Effects of Early Life Medicaid Coverage",
+        "authors": [
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2019,
+        "journal": "Journal of Human Resources",
+        "volume": "54",
+        "issue": "3",
+        "pages": "785–824",
+        "doi": "10.3368/jhr.54.3.0816.8173r1",
+        "url": "https://doi.org/10.3368/jhr.54.3.0816.8173r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Long-Term Impacts of Childhood Medicaid Expansions on Outcomes in Adulthood",
+        "title": "Long-Term Impacts of Childhood Medicaid Expansions on Outcomes in Adulthood",
+        "authors": [
+          "David W. Brown",
+          "Amanda E. Kowalski",
+          "Ithai Z. Lurie"
+        ],
+        "year": 2020,
+        "journal": "The Review of Economic Studies",
+        "volume": "87",
+        "issue": "2",
+        "pages": "792–821",
+        "doi": "10.1093/restud/rdz039",
+        "url": "https://doi.org/10.1093/restud/rdz039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "title": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "authors": [
+          "Colleen M. Carey",
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "4",
+        "pages": "288–318",
+        "doi": "10.1257/app.20190176",
+        "url": "https://doi.org/10.1257/app.20190176",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers",
+        "title": "Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers",
+        "authors": [
+          "Bruce D. Meyer",
+          "Dan T. Rosenbaum"
+        ],
+        "year": 2001,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "116",
+        "issue": "3",
+        "pages": "1063–1114",
+        "doi": "10.1162/00335530152466313",
+        "url": "https://doi.org/10.1162/00335530152466313",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Time Limits, the EITC, and Other Policy Changes on Welfare Use, Work, and Income among Female-Headed Families",
+        "title": "The Effects of Time Limits, the EITC, and Other Policy Changes on Welfare Use, Work, and Income among Female-Headed Families",
+        "authors": [
+          "Jeffrey Grogger"
+        ],
+        "year": 2003,
+        "journal": "The Review of Economics and Statistics",
+        "volume": "85",
+        "issue": "2",
+        "pages": "394–408",
+        "doi": "10.1162/003465303765299891",
+        "url": "https://doi.org/10.1162/003465303765299891",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Giving Mom a Break: The Impact of Higher EITC Payments on Maternal Health",
+        "title": "Giving Mom a Break: The Impact of Higher EITC Payments on Maternal Health",
+        "authors": [
+          "William N. Evans",
+          "Craig L. Garthwaite"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "6",
+        "issue": "2",
+        "pages": "258–290",
+        "doi": "10.1257/pol.6.2.258",
+        "url": "https://doi.org/10.1257/pol.6.2.258",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "title": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Ankur J. Patel"
+        ],
+        "year": 2018,
+        "journal": "Journal of Human Resources",
+        "volume": "53",
+        "issue": "4",
+        "pages": "859–890",
+        "doi": "10.3368/jhr.53.4.1115.7494r1",
+        "url": "https://doi.org/10.3368/jhr.53.4.1115.7494r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "title": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "authors": [
+          "Jacob Bastian"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "3",
+        "pages": "44–75",
+        "doi": "10.1257/pol.20180039",
+        "url": "https://doi.org/10.1257/pol.20180039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The EITC and the extensive margin: A reappraisal",
+        "title": "The EITC and the extensive margin: A reappraisal",
+        "authors": [
+          "Henrik Kleven"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "236",
+        "issue": "",
+        "pages": "105135",
+        "doi": "10.1016/j.jpubeco.2024.105135",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105135",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Work Incentives in the AFDC System: An Analysis of the 1981 Reforms",
+        "title": "Work Incentives in the AFDC System: An Analysis of the 1981 Reforms",
+        "authors": [
+          "Robert Moffitt"
+        ],
+        "year": 1986,
+        "journal": "American Economic Review (Papers and Proceedings)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22154,6 +22676,60 @@
         "url": "https://doi.org/10.1093/restud/rdw009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "German Long-Term Health Insurance: Theory Meets Evidence",
+        "title": "German Long-Term Health Insurance: Theory Meets Evidence",
+        "authors": [
+          "Juan Pablo Atal",
+          "Hanming Fang",
+          "Martin Karlsson",
+          "Nicolas R. Ziebarth"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1840–1885",
+        "doi": "10.1086/734781",
+        "url": "https://doi.org/10.1086/734781",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The insurance value of state tax-and-transfer programs",
+        "title": "The insurance value of state tax-and-transfer programs",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Erzo F.P. Luttmer"
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "11-12",
+        "pages": "1466–1484",
+        "doi": "10.1016/j.jpubeco.2011.06.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.06.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Welfare Reform and the Intergenerational Transmission of Dependence",
+        "title": "Welfare Reform and the Intergenerational Transmission of Dependence",
+        "authors": [
+          "Robert Paul Hartley",
+          "Carlos Lamarche",
+          "James P. Ziliak"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "3",
+        "pages": "523–565",
+        "doi": "10.1086/717893",
+        "url": "https://doi.org/10.1086/717893",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -22661,6 +23237,23 @@
         "url": "https://doi.org/10.2139/ssrn.4495537",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The insurance value of state tax-and-transfer programs",
+        "title": "The insurance value of state tax-and-transfer programs",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Erzo F.P. Luttmer"
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "11-12",
+        "pages": "1466–1484",
+        "doi": "10.1016/j.jpubeco.2011.06.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.06.007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23105,6 +23698,41 @@
         "url": "https://doi.org/10.1086/695528",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Early Life Medicaid Coverage",
+        "title": "The Long-Term Effects of Early Life Medicaid Coverage",
+        "authors": [
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2019,
+        "journal": "Journal of Human Resources",
+        "volume": "54",
+        "issue": "3",
+        "pages": "785–824",
+        "doi": "10.3368/jhr.54.3.0816.8173r1",
+        "url": "https://doi.org/10.3368/jhr.54.3.0816.8173r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "title": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "authors": [
+          "Colleen M. Carey",
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "4",
+        "pages": "288–318",
+        "doi": "10.1257/app.20190176",
+        "url": "https://doi.org/10.1257/app.20190176",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -23335,6 +23963,39 @@
         "pages": "1057–1106",
         "doi": "10.1093/qje/qjs020",
         "url": "https://doi.org/10.1093/qje/qjs020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Public Insurance Crowd out Private Insurance?",
+        "title": "Does Public Insurance Crowd out Private Insurance?",
+        "authors": [
+          "David M. Cutler",
+          "Jonathan Gruber"
+        ],
+        "year": 1996,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "111",
+        "issue": "2",
+        "pages": "391–430",
+        "doi": "10.2307/2946683",
+        "url": "https://doi.org/10.2307/2946683",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA",
+        "title": "Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA",
+        "authors": [
+          "Pietro Tebaldi"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "586–620",
+        "doi": "10.1093/restud/rdae020",
+        "url": "https://doi.org/10.1093/restud/rdae020",
         "verified": true,
         "note": ""
       }
@@ -24345,6 +25006,23 @@
         "url": "https://doi.org/10.1093/qje/qjs020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Giving Mom a Break: The Impact of Higher EITC Payments on Maternal Health",
+        "title": "Giving Mom a Break: The Impact of Higher EITC Payments on Maternal Health",
+        "authors": [
+          "William N. Evans",
+          "Craig L. Garthwaite"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "6",
+        "issue": "2",
+        "pages": "258–290",
+        "doi": "10.1257/pol.6.2.258",
+        "url": "https://doi.org/10.1257/pol.6.2.258",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24758,6 +25436,22 @@
         "pages": "2830–2867",
         "doi": "10.1257/aer.20161413",
         "url": "https://doi.org/10.1257/aer.20161413",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "title": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "authors": [
+          "Jacob Bastian"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "3",
+        "pages": "44–75",
+        "doi": "10.1257/pol.20180039",
+        "url": "https://doi.org/10.1257/pol.20180039",
         "verified": true,
         "note": ""
       }
@@ -25545,6 +26239,40 @@
         "url": "https://doi.org/10.1086/262059",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Term Impact of the Earned Income Tax Credit on Children's Education and Employment Outcomes",
+        "title": "The Long-Term Impact of the Earned Income Tax Credit on Children's Education and Employment Outcomes",
+        "authors": [
+          "Jacob Bastian",
+          "Katherine Michelmore"
+        ],
+        "year": 2018,
+        "journal": "Journal of Labor Economics",
+        "volume": "36",
+        "issue": "4",
+        "pages": "1127–1163",
+        "doi": "10.1086/697477",
+        "url": "https://doi.org/10.1086/697477",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Welfare and Child Health: The Link between AFDC Participation and Birth Weight",
+        "title": "Welfare and Child Health: The Link between AFDC Participation and Birth Weight",
+        "authors": [
+          "Janet Currie",
+          "Nancy Cole"
+        ],
+        "year": 1993,
+        "journal": "American Economic Review",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25985,6 +26713,22 @@
         "pages": "105594",
         "doi": "10.1016/j.jpubeco.2026.105594",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105594",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "title": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "authors": [
+          "Jacob Bastian"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "3",
+        "pages": "44–75",
+        "doi": "10.1257/pol.20180039",
+        "url": "https://doi.org/10.1257/pol.20180039",
         "verified": true,
         "note": ""
       }
@@ -27359,6 +28103,74 @@
         "url": "https://doi.org/10.1016/s0167-6296(99)00020-x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The EITC, Tax Refunds, and Unemployment Spells",
+        "title": "The EITC, Tax Refunds, and Unemployment Spells",
+        "authors": [
+          "Sara LaLumia"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "5",
+        "issue": "2",
+        "pages": "188–221",
+        "doi": "10.1257/pol.5.2.188",
+        "url": "https://doi.org/10.1257/pol.5.2.188",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Welfare Transfers in Two-Parent Families: Labor Supply and Welfare Participation Under AFDC-UP",
+        "title": "Welfare Transfers in Two-Parent Families: Labor Supply and Welfare Participation Under AFDC-UP",
+        "authors": [
+          "Hilary Williamson Hoynes"
+        ],
+        "year": 1996,
+        "journal": "Econometrica",
+        "volume": "64",
+        "issue": "2",
+        "pages": "295",
+        "doi": "10.2307/2171784",
+        "url": "https://doi.org/10.2307/2171784",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Welfare Rules, Incentives, and Family Structure",
+        "title": "Welfare Rules, Incentives, and Family Structure",
+        "authors": [
+          "Robert A. Moffitt",
+          "Brian J. Phelan",
+          "Anne E. Winkler"
+        ],
+        "year": 2020,
+        "journal": "Journal of Human Resources",
+        "volume": "55",
+        "issue": "1",
+        "pages": "1–42",
+        "doi": "10.3368/jhr.55.1.0717.8928r",
+        "url": "https://doi.org/10.3368/jhr.55.1.0717.8928r",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of the US safety net on material hardship over two decades",
+        "title": "The effect of the US safety net on material hardship over two decades",
+        "authors": [
+          "Signe-Mary McKernan",
+          "Caroline Ratcliffe",
+          "Breno Braga"
+        ],
+        "year": 2021,
+        "journal": "Journal of Public Economics",
+        "volume": "197",
+        "issue": "",
+        "pages": "104403",
+        "doi": "10.1016/j.jpubeco.2021.104403",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104403",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27659,6 +28471,45 @@
         "pages": "S445–S475",
         "doi": "10.1086/683140",
         "url": "https://doi.org/10.1086/683140",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+        "title": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "7",
+        "pages": "2683–2721",
+        "doi": "10.1257/aer.103.7.2683",
+        "url": "https://doi.org/10.1257/aer.103.7.2683",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "title": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "authors": [
+          "Amelia Hawkins",
+          "Christopher Hollrah",
+          "Sarah Miller",
+          "Laura R. Wherry",
+          "Gloria Aldana",
+          "Mitchell Wong"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "9",
+        "pages": "3081–3129",
+        "doi": "10.1257/aer.20231293",
+        "url": "https://doi.org/10.1257/aer.20231293",
         "verified": true,
         "note": ""
       }
@@ -30645,6 +31496,27 @@
         "url": "https://doi.org/10.1093/ej/ueag020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "title": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "authors": [
+          "Amelia Hawkins",
+          "Christopher Hollrah",
+          "Sarah Miller",
+          "Laura R. Wherry",
+          "Gloria Aldana",
+          "Mitchell Wong"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "9",
+        "pages": "3081–3129",
+        "doi": "10.1257/aer.20231293",
+        "url": "https://doi.org/10.1257/aer.20231293",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31691,6 +32563,41 @@
         "pages": "168–203",
         "doi": "10.1257/mac.20200239",
         "url": "https://doi.org/10.1257/mac.20200239",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "title": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Ankur J. Patel"
+        ],
+        "year": 2018,
+        "journal": "Journal of Human Resources",
+        "volume": "53",
+        "issue": "4",
+        "pages": "859–890",
+        "doi": "10.3368/jhr.53.4.1115.7494r1",
+        "url": "https://doi.org/10.3368/jhr.53.4.1115.7494r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of the US safety net on material hardship over two decades",
+        "title": "The effect of the US safety net on material hardship over two decades",
+        "authors": [
+          "Signe-Mary McKernan",
+          "Caroline Ratcliffe",
+          "Breno Braga"
+        ],
+        "year": 2021,
+        "journal": "Journal of Public Economics",
+        "volume": "197",
+        "issue": "",
+        "pages": "104403",
+        "doi": "10.1016/j.jpubeco.2021.104403",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104403",
         "verified": true,
         "note": ""
       }
@@ -35124,6 +36031,22 @@
         "url": "https://doi.org/10.1257/aer.20201660",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "title": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "authors": [
+          "Jacob Bastian"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "3",
+        "pages": "44–75",
+        "doi": "10.1257/pol.20180039",
+        "url": "https://doi.org/10.1257/pol.20180039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -36669,6 +37592,41 @@
         "pages": "1243–1284",
         "doi": "10.1162/003355399556269",
         "url": "https://doi.org/10.1162/003355399556269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The insurance value of state tax-and-transfer programs",
+        "title": "The insurance value of state tax-and-transfer programs",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Erzo F.P. Luttmer"
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "11-12",
+        "pages": "1466–1484",
+        "doi": "10.1016/j.jpubeco.2011.06.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.06.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Welfare Reform and the Intergenerational Transmission of Dependence",
+        "title": "Welfare Reform and the Intergenerational Transmission of Dependence",
+        "authors": [
+          "Robert Paul Hartley",
+          "Carlos Lamarche",
+          "James P. Ziliak"
+        ],
+        "year": 2022,
+        "journal": "Journal of Political Economy",
+        "volume": "130",
+        "issue": "3",
+        "pages": "523–565",
+        "doi": "10.1086/717893",
+        "url": "https://doi.org/10.1086/717893",
         "verified": true,
         "note": ""
       }
@@ -40083,6 +41041,22 @@
         "url": "https://doi.org/10.1257/pol.20160462",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "title": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "authors": [
+          "Jacob Bastian"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "3",
+        "pages": "44–75",
+        "doi": "10.1257/pol.20180039",
+        "url": "https://doi.org/10.1257/pol.20180039",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -42870,6 +43844,74 @@
         "url": "https://doi.org/10.1257/aer.100.1.590",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers",
+        "title": "Welfare, the Earned Income Tax Credit, and the Labor Supply of Single Mothers",
+        "authors": [
+          "Bruce D. Meyer",
+          "Dan T. Rosenbaum"
+        ],
+        "year": 2001,
+        "journal": "The Quarterly Journal of Economics",
+        "volume": "116",
+        "issue": "3",
+        "pages": "1063–1114",
+        "doi": "10.1162/00335530152466313",
+        "url": "https://doi.org/10.1162/00335530152466313",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "title": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Ankur J. Patel"
+        ],
+        "year": 2018,
+        "journal": "Journal of Human Resources",
+        "volume": "53",
+        "issue": "4",
+        "pages": "859–890",
+        "doi": "10.3368/jhr.53.4.1115.7494r1",
+        "url": "https://doi.org/10.3368/jhr.53.4.1115.7494r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "title": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "authors": [
+          "Jacob Bastian"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "3",
+        "pages": "44–75",
+        "doi": "10.1257/pol.20180039",
+        "url": "https://doi.org/10.1257/pol.20180039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Watching the Clocks: The Role of Food Stamp Recertification and TANF Time Limits in Caseload Dynamics",
+        "title": "Watching the Clocks: The Role of Food Stamp Recertification and TANF Time Limits in Caseload Dynamics",
+        "authors": [
+          "David C. Ribar",
+          "Marilyn Edelhoch",
+          "Qiduan Liu"
+        ],
+        "year": 2008,
+        "journal": "Journal of Human Resources",
+        "volume": "43",
+        "issue": "1",
+        "pages": "208–238",
+        "doi": "10.3368/jhr.43.1.208",
+        "url": "https://doi.org/10.3368/jhr.43.1.208",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -43219,6 +44261,39 @@
         "pages": "1251–1278",
         "doi": "10.1093/restud/rdx038",
         "url": "https://doi.org/10.1093/restud/rdx038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "title": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Ankur J. Patel"
+        ],
+        "year": 2018,
+        "journal": "Journal of Human Resources",
+        "volume": "53",
+        "issue": "4",
+        "pages": "859–890",
+        "doi": "10.3368/jhr.53.4.1115.7494r1",
+        "url": "https://doi.org/10.3368/jhr.53.4.1115.7494r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "title": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "authors": [
+          "Jacob Bastian"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "3",
+        "pages": "44–75",
+        "doi": "10.1257/pol.20180039",
+        "url": "https://doi.org/10.1257/pol.20180039",
         "verified": true,
         "note": ""
       }
@@ -43876,6 +44951,80 @@
         "pages": "3380–3422",
         "doi": "10.1257/aer.20240404",
         "url": "https://doi.org/10.1257/aer.20240404",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Long-Term Impacts of Childhood Medicaid Expansions on Outcomes in Adulthood",
+        "title": "Long-Term Impacts of Childhood Medicaid Expansions on Outcomes in Adulthood",
+        "authors": [
+          "David W. Brown",
+          "Amanda E. Kowalski",
+          "Ithai Z. Lurie"
+        ],
+        "year": 2020,
+        "journal": "The Review of Economic Studies",
+        "volume": "87",
+        "issue": "2",
+        "pages": "792–821",
+        "doi": "10.1093/restud/rdz039",
+        "url": "https://doi.org/10.1093/restud/rdz039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+        "title": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "7",
+        "pages": "2683–2721",
+        "doi": "10.1257/aer.103.7.2683",
+        "url": "https://doi.org/10.1257/aer.103.7.2683",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cash-on-Hand and College Enrollment: Evidence from Population Tax Data and the Earned Income Tax Credit",
+        "title": "Cash-on-Hand and College Enrollment: Evidence from Population Tax Data and the Earned Income Tax Credit",
+        "authors": [
+          "Day Manoli",
+          "Nicholas Turner"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "2",
+        "pages": "242–271",
+        "doi": "10.1257/pol.20160298",
+        "url": "https://doi.org/10.1257/pol.20160298",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "title": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "authors": [
+          "Amelia Hawkins",
+          "Christopher Hollrah",
+          "Sarah Miller",
+          "Laura R. Wherry",
+          "Gloria Aldana",
+          "Mitchell Wong"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "9",
+        "pages": "3081–3129",
+        "doi": "10.1257/aer.20231293",
+        "url": "https://doi.org/10.1257/aer.20231293",
         "verified": true,
         "note": ""
       }
@@ -44751,6 +45900,89 @@
         "url": "https://doi.org/10.1257/pol.20120179",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The EITC, Tax Refunds, and Unemployment Spells",
+        "title": "The EITC, Tax Refunds, and Unemployment Spells",
+        "authors": [
+          "Sara LaLumia"
+        ],
+        "year": 2013,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "5",
+        "issue": "2",
+        "pages": "188–221",
+        "doi": "10.1257/pol.5.2.188",
+        "url": "https://doi.org/10.1257/pol.5.2.188",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Term Impact of the Earned Income Tax Credit on Children's Education and Employment Outcomes",
+        "title": "The Long-Term Impact of the Earned Income Tax Credit on Children's Education and Employment Outcomes",
+        "authors": [
+          "Jacob Bastian",
+          "Katherine Michelmore"
+        ],
+        "year": 2018,
+        "journal": "Journal of Labor Economics",
+        "volume": "36",
+        "issue": "4",
+        "pages": "1127–1163",
+        "doi": "10.1086/697477",
+        "url": "https://doi.org/10.1086/697477",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "title": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Ankur J. Patel"
+        ],
+        "year": 2018,
+        "journal": "Journal of Human Resources",
+        "volume": "53",
+        "issue": "4",
+        "pages": "859–890",
+        "doi": "10.3368/jhr.53.4.1115.7494r1",
+        "url": "https://doi.org/10.3368/jhr.53.4.1115.7494r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The EITC and the extensive margin: A reappraisal",
+        "title": "The EITC and the extensive margin: A reappraisal",
+        "authors": [
+          "Henrik Kleven"
+        ],
+        "year": 2024,
+        "journal": "Journal of Public Economics",
+        "volume": "236",
+        "issue": "",
+        "pages": "105135",
+        "doi": "10.1016/j.jpubeco.2024.105135",
+        "url": "https://doi.org/10.1016/j.jpubeco.2024.105135",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The insurance value of state tax-and-transfer programs",
+        "title": "The insurance value of state tax-and-transfer programs",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Erzo F.P. Luttmer"
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "11-12",
+        "pages": "1466–1484",
+        "doi": "10.1016/j.jpubeco.2011.06.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.06.007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -45482,6 +46714,24 @@
         "url": "https://doi.org/10.3368/jhr.58.5.1220-11398r1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effect of the US safety net on material hardship over two decades",
+        "title": "The effect of the US safety net on material hardship over two decades",
+        "authors": [
+          "Signe-Mary McKernan",
+          "Caroline Ratcliffe",
+          "Breno Braga"
+        ],
+        "year": 2021,
+        "journal": "Journal of Public Economics",
+        "volume": "197",
+        "issue": "",
+        "pages": "104403",
+        "doi": "10.1016/j.jpubeco.2021.104403",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104403",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -45810,6 +47060,58 @@
         "url": "https://doi.org/10.1257/app.20220454",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "title": "Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Ankur J. Patel"
+        ],
+        "year": 2018,
+        "journal": "Journal of Human Resources",
+        "volume": "53",
+        "issue": "4",
+        "pages": "859–890",
+        "doi": "10.3368/jhr.53.4.1115.7494r1",
+        "url": "https://doi.org/10.3368/jhr.53.4.1115.7494r1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The insurance value of state tax-and-transfer programs",
+        "title": "The insurance value of state tax-and-transfer programs",
+        "authors": [
+          "Hilary W. Hoynes",
+          "Erzo F.P. Luttmer"
+        ],
+        "year": 2011,
+        "journal": "Journal of Public Economics",
+        "volume": "95",
+        "issue": "11-12",
+        "pages": "1466–1484",
+        "doi": "10.1016/j.jpubeco.2011.06.007",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.06.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The effect of the US safety net on material hardship over two decades",
+        "title": "The effect of the US safety net on material hardship over two decades",
+        "authors": [
+          "Signe-Mary McKernan",
+          "Caroline Ratcliffe",
+          "Breno Braga"
+        ],
+        "year": 2021,
+        "journal": "Journal of Public Economics",
+        "volume": "197",
+        "issue": "",
+        "pages": "104403",
+        "doi": "10.1016/j.jpubeco.2021.104403",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104403",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -46134,6 +47436,24 @@
         "url": "https://doi.org/10.2139/ssrn.4495537",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The effect of the US safety net on material hardship over two decades",
+        "title": "The effect of the US safety net on material hardship over two decades",
+        "authors": [
+          "Signe-Mary McKernan",
+          "Caroline Ratcliffe",
+          "Breno Braga"
+        ],
+        "year": 2021,
+        "journal": "Journal of Public Economics",
+        "volume": "197",
+        "issue": "",
+        "pages": "104403",
+        "doi": "10.1016/j.jpubeco.2021.104403",
+        "url": "https://doi.org/10.1016/j.jpubeco.2021.104403",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -46227,6 +47547,45 @@
         "pages": "1262–1316",
         "doi": "10.1086/701357",
         "url": "https://doi.org/10.1086/701357",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.52",
+    "title": "城市研究所福利规则数据库（Welfare Rules Database，WRD）",
+    "links": [
+      {
+        "label": "Urban Institute Welfare Rules Database",
+        "url": "https://wrd.urban.org/"
+      }
+    ],
+    "summary": "城市研究所（Urban Institute）在 HHS 资助下维护的美国各州 AFDC/TANF 现金援助规则数据库，记录 1996 年以来（部分 AFDC 规则回溯至 1990 年代初）各州的资格条件、收入扣除、福利计算公式、最高福利额、工作要求、时间限制和制裁规定，公开在线查询下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "WRD 按州—年份编码数百项规则，可直接构造福利慷慨度、隐含税率和工作要求严格程度等政策变量，并配有年度《福利规则汇编》。研究常用它识别州 TANF 政策变化，分析福利改革对就业、家庭结构和儿童福祉的影响。",
+    "source": "公开（在线查询下载）。",
+    "references": [
+      {
+        "raw": "Welfare Rules, Incentives, and Family Structure",
+        "title": "Welfare Rules, Incentives, and Family Structure",
+        "authors": [
+          "Robert A. Moffitt",
+          "Brian J. Phelan",
+          "Anne E. Winkler"
+        ],
+        "year": 2020,
+        "journal": "Journal of Human Resources",
+        "volume": "55",
+        "issue": "1",
+        "pages": "1–42",
+        "doi": "10.3368/jhr.55.1.0717.8928r",
+        "url": "https://doi.org/10.3368/jhr.55.1.0717.8928r",
         "verified": true,
         "note": ""
       }
@@ -63548,6 +64907,41 @@
         "url": "https://doi.org/10.1257/pol.20160094",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "title": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "authors": [
+          "Colleen M. Carey",
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "4",
+        "pages": "288–318",
+        "doi": "10.1257/app.20190176",
+        "url": "https://doi.org/10.1257/app.20190176",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "title": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "authors": [
+          "Michael Geruso",
+          "Timothy Layton"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "3",
+        "pages": "984–1026",
+        "doi": "10.1086/704756",
+        "url": "https://doi.org/10.1086/704756",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -63863,6 +65257,24 @@
         "url": "https://doi.org/10.1162/rest_a_01575",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "title": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "authors": [
+          "Colleen M. Carey",
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "4",
+        "pages": "288–318",
+        "doi": "10.1257/app.20190176",
+        "url": "https://doi.org/10.1257/app.20190176",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -64100,6 +65512,27 @@
         "url": "https://doi.org/10.1093/qje/qjs020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "title": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "authors": [
+          "Amelia Hawkins",
+          "Christopher Hollrah",
+          "Sarah Miller",
+          "Laura R. Wherry",
+          "Gloria Aldana",
+          "Mitchell Wong"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "9",
+        "pages": "3081–3129",
+        "doi": "10.1257/aer.20231293",
+        "url": "https://doi.org/10.1257/aer.20231293",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -64177,6 +65610,23 @@
         "pages": "102569",
         "doi": "10.1016/j.jhealeco.2021.102569",
         "url": "https://doi.org/10.1016/j.jhealeco.2021.102569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Early Life Medicaid Coverage",
+        "title": "The Long-Term Effects of Early Life Medicaid Coverage",
+        "authors": [
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2019,
+        "journal": "Journal of Human Resources",
+        "volume": "54",
+        "issue": "3",
+        "pages": "785–824",
+        "doi": "10.3368/jhr.54.3.0816.8173r1",
+        "url": "https://doi.org/10.3368/jhr.54.3.0816.8173r1",
         "verified": true,
         "note": ""
       }
@@ -65036,6 +66486,23 @@
         "url": "https://doi.org/10.1257/aer.20201480",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Giving Mom a Break: The Impact of Higher EITC Payments on Maternal Health",
+        "title": "Giving Mom a Break: The Impact of Higher EITC Payments on Maternal Health",
+        "authors": [
+          "William N. Evans",
+          "Craig L. Garthwaite"
+        ],
+        "year": 2014,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "6",
+        "issue": "2",
+        "pages": "258–290",
+        "doi": "10.1257/pol.6.2.258",
+        "url": "https://doi.org/10.1257/pol.6.2.258",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65512,6 +66979,23 @@
         "pages": "2537–2577",
         "doi": "10.1093/restud/rdae090",
         "url": "https://doi.org/10.1093/restud/rdae090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "title": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "authors": [
+          "Michael Geruso",
+          "Timothy Layton"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "3",
+        "pages": "984–1026",
+        "doi": "10.1086/704756",
+        "url": "https://doi.org/10.1086/704756",
         "verified": true,
         "note": ""
       }
@@ -66143,6 +67627,23 @@
         "url": "https://doi.org/10.1257/aer.20131176",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "title": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "authors": [
+          "Michael Geruso",
+          "Timothy Layton"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "3",
+        "pages": "984–1026",
+        "doi": "10.1086/704756",
+        "url": "https://doi.org/10.1086/704756",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66375,6 +67876,23 @@
         "pages": "96–148",
         "doi": "10.1086/725707",
         "url": "https://doi.org/10.1086/725707",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "title": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "authors": [
+          "Michael Geruso",
+          "Timothy Layton"
+        ],
+        "year": 2020,
+        "journal": "Journal of Political Economy",
+        "volume": "128",
+        "issue": "3",
+        "pages": "984–1026",
+        "doi": "10.1086/704756",
+        "url": "https://doi.org/10.1086/704756",
         "verified": true,
         "note": ""
       }
@@ -67128,45 +68646,6 @@
   },
   {
     "id": "2.8.52",
-    "title": "医疗支出面板调查（Medical Expenditure Panel Survey，MEPS）及前身 NMES",
-    "links": [
-      {
-        "label": "AHRQ: MEPS",
-        "url": "https://meps.ahrq.gov/mepsweb/"
-      }
-    ],
-    "summary": "美国卫生保健研究与质量局（AHRQ）自 1996 年起实施的全国医疗支出面板调查，每年访问约 1.3 万户家庭，在两年内追踪五轮，记录医疗服务使用、支出及其支付来源、医疗保险状况和健康状况，并配有医疗服务提供者和雇主保险组成部分，公开下载；其前身为 1977 年 NMCES 和 1987 年全国医疗支出调查（NMES）。",
-    "regions": [
-      "美国数据"
-    ],
-    "topics": [
-      "健康数据",
-      "微观调查数据"
-    ],
-    "introduction": "MEPS 家庭组成部分按事件记录门诊、住院、急诊、处方药和牙科的支出与支付方（自付、私人保险、Medicare、Medicaid），可与提供者调查核对；保险组成部分调查雇主提供的健康保险计划和保费。研究常用它分析医疗保险覆盖、自付风险、医疗支出分布和公共保险扩张的影响。",
-    "source": "公开下载。",
-    "references": [
-      {
-        "raw": "Does Public Insurance Crowd out Private Insurance?",
-        "title": "Does Public Insurance Crowd out Private Insurance?",
-        "authors": [
-          "David M. Cutler",
-          "Jonathan Gruber"
-        ],
-        "year": 1996,
-        "journal": "The Quarterly Journal of Economics",
-        "volume": "111",
-        "issue": "2",
-        "pages": "391–430",
-        "doi": "10.2307/2946683",
-        "url": "https://doi.org/10.2307/2946683",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "2.8.53",
     "title": "全国长期护理调查（National Long Term Care Survey，NLTCS）",
     "links": [
       {
@@ -67205,7 +68684,7 @@
     ]
   },
   {
-    "id": "2.8.54",
+    "id": "2.8.53",
     "title": "青少年风险行为监测系统（Youth Risk Behavior Surveillance System，YRBSS）",
     "links": [
       {
@@ -67240,6 +68719,83 @@
         "pages": "727–759",
         "doi": "10.3368/jhr.51.3.1014-6688r1",
         "url": "https://doi.org/10.3368/jhr.51.3.1014-6688r1",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.54",
+    "title": "CMS 医师费用表相对价值单位文件（PFS Relative Value Files）",
+    "links": [
+      {
+        "label": "CMS: PFS Relative Value Files",
+        "url": "https://www.cms.gov/medicare/payment/fee-schedules/physician/pfs-relative-value-files"
+      }
+    ],
+    "summary": "美国医疗保险和医疗补助服务中心（CMS）每年发布的 Medicare 医师费用表相对价值单位（RVU）文件，按 HCPCS/CPT 服务代码列出工作、执业费用和医疗过失保险三类 RVU，以及地理执业成本指数（GPCI）和转换系数，回溯至 1992 年，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "医师支付额由 RVU、GPCI 和转换系数相乘得出，文件每年和季度更新，可构造服务×地区×年份的 Medicare 支付价格。研究常用它衡量 Medicare 价格变化，分析公共保险支付对医生供给、私人保险价格和医疗服务使用的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "title": "The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare",
+        "authors": [
+          "Colleen M. Carey",
+          "Sarah Miller",
+          "Laura R. Wherry"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Applied Economics",
+        "volume": "12",
+        "issue": "4",
+        "pages": "288–318",
+        "doi": "10.1257/app.20190176",
+        "url": "https://doi.org/10.1257/app.20190176",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.55",
+    "title": "CMS 健康保险保费审核数据（Rate Review Public Use Files）",
+    "links": [
+      {
+        "label": "CMS CCIIO: Rate Review",
+        "url": "https://www.cms.gov/CCIIO/Resources/Data-Resources/ratereview"
+      }
+    ],
+    "summary": "美国 CMS 消费者信息与保险监管中心（CCIIO）依据《平价医疗法案》收集的个人和小团体健康保险市场保费审核申报数据，自 2014 年起逐年提供各保险公司、各州的计划层面保费、预期理赔、管理费用、风险调整和参保人数，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "金融数据"
+    ],
+    "introduction": "数据来自保险公司提交的统一保费审核模板（URRT），包括历史经验期的实际理赔和参保、预测期的保费变动与成本构成，可构造保险公司×州×年份的医疗损失率和定价面板。研究常用它分析 ACA 交易所的保费、竞争、风险调整和逆向选择。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA",
+        "title": "Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA",
+        "authors": [
+          "Pietro Tebaldi"
+        ],
+        "year": 2025,
+        "journal": "The Review of Economic Studies",
+        "volume": "92",
+        "issue": "1",
+        "pages": "586–620",
+        "doi": "10.1093/restud/rdae020",
+        "url": "https://doi.org/10.1093/restud/rdae020",
         "verified": true,
         "note": ""
       }
@@ -89147,6 +90703,27 @@
         "url": "https://doi.org/10.1257/aer.20161352",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "title": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+        "authors": [
+          "Amelia Hawkins",
+          "Christopher Hollrah",
+          "Sarah Miller",
+          "Laura R. Wherry",
+          "Gloria Aldana",
+          "Mitchell Wong"
+        ],
+        "year": 2025,
+        "journal": "American Economic Review",
+        "volume": "115",
+        "issue": "9",
+        "pages": "3081–3129",
+        "doi": "10.1257/aer.20231293",
+        "url": "https://doi.org/10.1257/aer.20231293",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -89881,6 +91458,23 @@
         "pages": "236–264",
         "doi": "10.1257/mac.20240057",
         "url": "https://doi.org/10.1257/mac.20240057",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cash-on-Hand and College Enrollment: Evidence from Population Tax Data and the Earned Income Tax Credit",
+        "title": "Cash-on-Hand and College Enrollment: Evidence from Population Tax Data and the Earned Income Tax Credit",
+        "authors": [
+          "Day Manoli",
+          "Nicholas Turner"
+        ],
+        "year": 2018,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "10",
+        "issue": "2",
+        "pages": "242–271",
+        "doi": "10.1257/pol.20160298",
+        "url": "https://doi.org/10.1257/pol.20160298",
         "verified": true,
         "note": ""
       }
@@ -93546,6 +95140,25 @@
         "pages": "232–268",
         "doi": "10.1257/pol.20200343",
         "url": "https://doi.org/10.1257/pol.20200343",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "German Long-Term Health Insurance: Theory Meets Evidence",
+        "title": "German Long-Term Health Insurance: Theory Meets Evidence",
+        "authors": [
+          "Juan Pablo Atal",
+          "Hanming Fang",
+          "Martin Karlsson",
+          "Nicolas R. Ziebarth"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "6",
+        "pages": "1840–1885",
+        "doi": "10.1086/734781",
+        "url": "https://doi.org/10.1086/734781",
         "verified": true,
         "note": ""
       }
@@ -151149,6 +152762,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105594",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+        "title": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+        "authors": [
+          "Raj Chetty",
+          "John N. Friedman",
+          "Emmanuel Saez"
+        ],
+        "year": 2013,
+        "journal": "American Economic Review",
+        "volume": "103",
+        "issue": "7",
+        "pages": "2683–2721",
+        "doi": "10.1257/aer.103.7.2683",
+        "url": "https://doi.org/10.1257/aer.103.7.2683",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -152664,6 +154295,43 @@
         "pages": "1601–1615",
         "doi": "10.1257/aer.101.4.1601",
         "url": "https://doi.org/10.1257/aer.101.4.1601",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.22",
+    "title": "谷歌图书词频数据（Google Books Ngram）",
+    "links": [
+      {
+        "label": "Google Books Ngram Viewer",
+        "url": "https://books.google.com/ngrams/"
+      }
+    ],
+    "summary": "谷歌基于其图书数字化项目发布的词频数据集，统计约 1500 万册图书中单词和短语（1–5 元组）逐年出现次数，覆盖英语、中文、法语、德语等多种语言，时间跨度约 1500–2019 年，可在线查询并免费下载原始计数。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "Ngram 数据按语言语料库和年份提供词组出现频数与收录图书数，可构造概念、人名或政策术语的长期文化关注度时间序列。研究常用它测量文化变迁、观念传播和社会规范的长期演变，如对福利、贫困和种族用语的关注变化。",
+    "source": "公开（在线查询与下载）。",
+    "references": [
+      {
+        "raw": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "title": "The Rise of Working Mothers and the 1975 Earned Income Tax Credit",
+        "authors": [
+          "Jacob Bastian"
+        ],
+        "year": 2020,
+        "journal": "American Economic Journal: Economic Policy",
+        "volume": "12",
+        "issue": "3",
+        "pages": "44–75",
+        "doi": "10.1257/pol.20180039",
+        "url": "https://doi.org/10.1257/pol.20180039",
         "verified": true,
         "note": ""
       }
