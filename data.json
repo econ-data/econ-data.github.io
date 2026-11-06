@@ -977,6 +977,25 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2009.01.010",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "English Language Requirement and Educational Inequality: Evidence from 16 Million College Applicants in China",
+        "title": "English Language Requirement and Educational Inequality: Evidence from 16 Million College Applicants in China",
+        "authors": [
+          "Hongbin Li",
+          "Lingsheng Meng",
+          "Kai Mu",
+          "Shaoda Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32162",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32162",
+        "url": "https://doi.org/10.3386/w32162",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4043,6 +4062,26 @@
         "pages": "103720",
         "doi": "10.1016/j.jdeveco.2026.103720",
         "url": "https://doi.org/10.1016/j.jdeveco.2026.103720",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade War and Peace: U.S.-China Trade and Tariff Risk from 2015–2050",
+        "title": "Trade War and Peace: U.S.-China Trade and Tariff Risk from 2015–2050",
+        "authors": [
+          "George A. Alessandria",
+          "Shafaat Y. Khan",
+          "Armen Khederlarian",
+          "Kim J. Ruhl",
+          "Joseph B. Steinberg"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32150",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32150",
+        "url": "https://doi.org/10.3386/w32150",
         "verified": true,
         "note": ""
       }
@@ -11429,6 +11468,25 @@
         "url": "https://doi.org/10.1086/729535",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "English Language Requirement and Educational Inequality: Evidence from 16 Million College Applicants in China",
+        "title": "English Language Requirement and Educational Inequality: Evidence from 16 Million College Applicants in China",
+        "authors": [
+          "Hongbin Li",
+          "Lingsheng Meng",
+          "Kai Mu",
+          "Shaoda Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32162",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32162",
+        "url": "https://doi.org/10.3386/w32162",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11446,7 +11504,27 @@
     ],
     "introduction": "“中国大学生调查数据”并不对应单一项目，而是泛指以在校大学生为对象的调查数据。已有的相关调查由不同机构组织，例如高校自行开展的学生学习与发展调查、全国性的大学生追踪调查，以及就业、心理健康和消费行为等专题调查，覆盖的学校、年级和样本规模各不相同。\n\n这些调查一般包含学生背景、家庭情况、学习经历、能力与态度、就业去向和身心状况等模块，部分项目采用追踪设计，可观察学生毕业前后的变化。是否公开、如何申请，由各项目的组织者决定，多数需通过申请和签订使用协议获得。\n\n使用时需先明确具体调查项目，核对抽样方法和学校代表性，并注意自愿填答可能带来的样本选择和自我报告偏误。",
     "source": "以具体调查项目的官方或授权发布记录为依据，核实申请资格、可用变量和数据使用协议。在项目未确定前，获取渠道与授权条件保留待确认。",
-    "references": []
+    "references": [
+      {
+        "raw": "English Language Requirement and Educational Inequality: Evidence from 16 Million College Applicants in China",
+        "title": "English Language Requirement and Educational Inequality: Evidence from 16 Million College Applicants in China",
+        "authors": [
+          "Hongbin Li",
+          "Lingsheng Meng",
+          "Kai Mu",
+          "Shaoda Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32162",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32162",
+        "url": "https://doi.org/10.3386/w32162",
+        "verified": true,
+        "note": ""
+      }
+    ]
   },
   {
     "id": "1.16.4",
@@ -14444,6 +14522,25 @@
         "url": "https://doi.org/10.3386/w32127",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Technology Regulation Reconsidered: The Effects of Certificate of Need Policies on the Quantity and Quality of Diagnostic Imaging",
+        "title": "Technology Regulation Reconsidered: The Effects of Certificate of Need Policies on the Quantity and Quality of Diagnostic Imaging",
+        "authors": [
+          "Jill Horwitz",
+          "Austin Nichols",
+          "Carrie H. Colla",
+          "David M. Cutler"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32143",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32143",
+        "url": "https://doi.org/10.3386/w32143",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -16426,6 +16523,25 @@
         "pages": "",
         "doi": "10.3386/w32082",
         "url": "https://doi.org/10.3386/w32082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "title": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "authors": [
+          "Sebastian Heise",
+          "Justin R. Pierce",
+          "Georg Schaur",
+          "Peter K. Schott"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32138",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32138",
+        "url": "https://doi.org/10.3386/w32138",
         "verified": true,
         "note": ""
       }
@@ -23836,6 +23952,23 @@
         "url": "https://doi.org/10.3386/w32126",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "title": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "authors": [
+          "Minsu Chang",
+          "Frank Schorfheide"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32166",
+        "url": "https://doi.org/10.3386/w32166",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25452,6 +25585,23 @@
         "url": "https://doi.org/10.3386/w32096",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "title": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "authors": [
+          "Minsu Chang",
+          "Frank Schorfheide"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32166",
+        "url": "https://doi.org/10.3386/w32166",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25770,6 +25920,27 @@
         "pages": "",
         "doi": "10.3386/w32032",
         "url": "https://doi.org/10.3386/w32032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes",
+        "title": "Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes",
+        "authors": [
+          "Donald S. Kenkel",
+          "Alan D. Mathios",
+          "Grace N. Phillips",
+          "Revathy Suryanarayana",
+          "Hua Wang",
+          "Sen Zeng"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32148",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32148",
+        "url": "https://doi.org/10.3386/w32148",
         "verified": true,
         "note": ""
       }
@@ -26521,6 +26692,25 @@
         "url": "https://doi.org/10.3386/w32026",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "title": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "authors": [
+          "Marijn A. Bolhuis",
+          "Judd N. L. Cramer",
+          "Karl Oskar Schulz",
+          "Lawrence H. Summers"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32163",
+        "url": "https://doi.org/10.3386/w32163",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27068,6 +27258,23 @@
         "pages": "",
         "doi": "10.3386/w32074",
         "url": "https://doi.org/10.3386/w32074",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "title": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "authors": [
+          "Minsu Chang",
+          "Frank Schorfheide"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32166",
+        "url": "https://doi.org/10.3386/w32166",
         "verified": true,
         "note": ""
       }
@@ -32588,6 +32795,49 @@
     ]
   },
   {
+    "id": "2.2.47",
+    "title": "CPS 烟草使用补充调查（Tobacco Use Supplement to the Current Population Survey，TUS-CPS）",
+    "links": [
+      {
+        "label": "NCI: TUS-CPS",
+        "url": "https://cancercontrol.cancer.gov/brp/tcrb/tus-cps"
+      }
+    ],
+    "summary": "美国国家癌症研究所（NCI）资助、人口普查局作为当前人口调查（CPS）补充模块实施的烟草使用调查，1992 年起每 2–4 年开展，每轮约 20 多万名成年人，记录吸烟、电子烟和其他烟草制品使用、戒烟尝试、工作场所和家庭禁烟规定，可与 CPS 核心人口和就业变量合并，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "TUS-CPS 样本量大，可提供州级和部分县级吸烟率估计。研究常用它分析烟草税、禁烟令和电子烟监管对吸烟行为的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes",
+        "title": "Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes",
+        "authors": [
+          "Donald S. Kenkel",
+          "Alan D. Mathios",
+          "Grace N. Phillips",
+          "Revathy Suryanarayana",
+          "Hua Wang",
+          "Sen Zeng"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32148",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32148",
+        "url": "https://doi.org/10.3386/w32148",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.3.1",
     "title": "年度制造业调查数据",
     "links": [
@@ -32871,6 +33121,24 @@
         "pages": "2099–2138",
         "doi": "10.1257/aer.20200025",
         "url": "https://doi.org/10.1257/aer.20200025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Responsiveness at the Establishment Level: Sources and Productivity Implications",
+        "title": "Declining Responsiveness at the Establishment Level: Sources and Productivity Implications",
+        "authors": [
+          "Russell Cooper",
+          "John C. Haltiwanger",
+          "Jonathan Willis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32130",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32130",
+        "url": "https://doi.org/10.3386/w32130",
         "verified": true,
         "note": ""
       }
@@ -33893,6 +34161,43 @@
         "url": "https://doi.org/10.3386/w32036",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Declining Responsiveness at the Establishment Level: Sources and Productivity Implications",
+        "title": "Declining Responsiveness at the Establishment Level: Sources and Productivity Implications",
+        "authors": [
+          "Russell Cooper",
+          "John C. Haltiwanger",
+          "Jonathan Willis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32130",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32130",
+        "url": "https://doi.org/10.3386/w32130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "title": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "authors": [
+          "Sebastian Heise",
+          "Justin R. Pierce",
+          "Georg Schaur",
+          "Peter K. Schott"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32138",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32138",
+        "url": "https://doi.org/10.3386/w32138",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34090,6 +34395,24 @@
         "pages": "105537",
         "doi": "10.1016/j.jpubeco.2025.105537",
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105537",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Responsiveness at the Establishment Level: Sources and Productivity Implications",
+        "title": "Declining Responsiveness at the Establishment Level: Sources and Productivity Implications",
+        "authors": [
+          "Russell Cooper",
+          "John C. Haltiwanger",
+          "Jonathan Willis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32130",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32130",
+        "url": "https://doi.org/10.3386/w32130",
         "verified": true,
         "note": ""
       }
@@ -36368,6 +36691,25 @@
         "pages": "2559–2599",
         "doi": "10.1093/restud/rdab086",
         "url": "https://doi.org/10.1093/restud/rdab086",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ChatGPT and Corporate Policies",
+        "title": "ChatGPT and Corporate Policies",
+        "authors": [
+          "Manish Jha",
+          "Jialin Qian",
+          "Michael Weber",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32161",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32161",
+        "url": "https://doi.org/10.3386/w32161",
         "verified": true,
         "note": ""
       }
@@ -41010,6 +41352,25 @@
         "url": "https://doi.org/10.3386/w32036",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "title": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "authors": [
+          "Sebastian Heise",
+          "Justin R. Pierce",
+          "Georg Schaur",
+          "Peter K. Schott"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32138",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32138",
+        "url": "https://doi.org/10.3386/w32138",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -43191,6 +43552,63 @@
         "url": "https://doi.org/10.3386/w32080",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "title": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "authors": [
+          "Sebastian Heise",
+          "Justin R. Pierce",
+          "Georg Schaur",
+          "Peter K. Schott"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32138",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32138",
+        "url": "https://doi.org/10.3386/w32138",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Asset Prices",
+        "title": "Misallocation and Asset Prices",
+        "authors": [
+          "Winston Wei Dou",
+          "Yan Ji",
+          "Di Tian",
+          "Pengfei Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32147",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32147",
+        "url": "https://doi.org/10.3386/w32147",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "title": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "authors": [
+          "Marijn A. Bolhuis",
+          "Judd N. L. Cramer",
+          "Karl Oskar Schulz",
+          "Lawrence H. Summers"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32163",
+        "url": "https://doi.org/10.3386/w32163",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -45138,6 +45556,42 @@
         "pages": "43–48",
         "doi": "",
         "url": "https://www.jstor.org/stable/i337077",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Responsiveness at the Establishment Level: Sources and Productivity Implications",
+        "title": "Declining Responsiveness at the Establishment Level: Sources and Productivity Implications",
+        "authors": [
+          "Russell Cooper",
+          "John C. Haltiwanger",
+          "Jonathan Willis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32130",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32130",
+        "url": "https://doi.org/10.3386/w32130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Smooth Diagnostic Expectations",
+        "title": "Smooth Diagnostic Expectations",
+        "authors": [
+          "Francesco Bianchi",
+          "Cosmin L. Ilut",
+          "Hikaru Saijo"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32152",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32152",
+        "url": "https://doi.org/10.3386/w32152",
         "verified": true,
         "note": ""
       }
@@ -48215,6 +48669,44 @@
         "url": "https://doi.org/10.3386/w32055",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Misallocation and Asset Prices",
+        "title": "Misallocation and Asset Prices",
+        "authors": [
+          "Winston Wei Dou",
+          "Yan Ji",
+          "Di Tian",
+          "Pengfei Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32147",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32147",
+        "url": "https://doi.org/10.3386/w32147",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "title": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "authors": [
+          "Marijn A. Bolhuis",
+          "Judd N. L. Cramer",
+          "Karl Oskar Schulz",
+          "Lawrence H. Summers"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32163",
+        "url": "https://doi.org/10.3386/w32163",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -50849,6 +51341,23 @@
         "pages": "55–102",
         "doi": "10.1093/qje/qjw038",
         "url": "https://doi.org/10.1093/qje/qjw038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Government Patent Register: A New Resource for Measuring U.S. Government-Funded Patenting",
+        "title": "The Government Patent Register: A New Resource for Measuring U.S. Government-Funded Patenting",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32136",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32136",
+        "url": "https://doi.org/10.3386/w32136",
         "verified": true,
         "note": ""
       }
@@ -70003,6 +70512,25 @@
         "url": "https://doi.org/10.3386/w32110",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Technology Regulation Reconsidered: The Effects of Certificate of Need Policies on the Quantity and Quality of Diagnostic Imaging",
+        "title": "Technology Regulation Reconsidered: The Effects of Certificate of Need Policies on the Quantity and Quality of Diagnostic Imaging",
+        "authors": [
+          "Jill Horwitz",
+          "Austin Nichols",
+          "Carrie H. Colla",
+          "David M. Cutler"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32143",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32143",
+        "url": "https://doi.org/10.3386/w32143",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71953,6 +72481,25 @@
         "url": "https://doi.org/10.1257/pol.20190350",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Change, Population Growth, and Population Pressure",
+        "title": "Climate Change, Population Growth, and Population Pressure",
+        "authors": [
+          "J. Vernon Henderson",
+          "Bo Yeon Jang",
+          "Adam Storeygard",
+          "David N. Weil"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32145",
+        "url": "https://doi.org/10.3386/w32145",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72414,6 +72961,25 @@
         "pages": "",
         "doi": "10.3386/w32117",
         "url": "https://doi.org/10.3386/w32117",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Technology Regulation Reconsidered: The Effects of Certificate of Need Policies on the Quantity and Quality of Diagnostic Imaging",
+        "title": "Technology Regulation Reconsidered: The Effects of Certificate of Need Policies on the Quantity and Quality of Diagnostic Imaging",
+        "authors": [
+          "Jill Horwitz",
+          "Austin Nichols",
+          "Carrie H. Colla",
+          "David M. Cutler"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32143",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32143",
+        "url": "https://doi.org/10.3386/w32143",
         "verified": true,
         "note": ""
       }
@@ -74497,6 +75063,49 @@
         "pages": "",
         "doi": "10.3386/w32119",
         "url": "https://doi.org/10.3386/w32119",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.65",
+    "title": "烟草与健康人群评估研究（Population Assessment of Tobacco and Health，PATH）",
+    "links": [
+      {
+        "label": "PATH Study",
+        "url": "https://pathstudyinfo.nih.gov/"
+      }
+    ],
+    "summary": "美国国立卫生研究院（NIH/NIDA）与食品药品监督管理局（FDA）联合实施的全国代表性烟草使用追踪调查，2013 年起每年或隔年追踪约 4.5 万名 12 岁以上受访者，记录卷烟、电子烟、雪茄等各类烟草制品的使用、依赖、认知和健康结果，并采集生物样本，公共使用文件经 ICPSR 下载，限制版需申请。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "PATH 的追踪设计可研究不同烟草制品间的转换和多用。研究常用它分析电子烟对戒烟和青少年吸烟的影响，以及口味禁令和烟草监管政策的效果。",
+    "source": "公共使用文件经 ICPSR 下载；限制版需申请。",
+    "references": [
+      {
+        "raw": "Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes",
+        "title": "Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes",
+        "authors": [
+          "Donald S. Kenkel",
+          "Alan D. Mathios",
+          "Grace N. Phillips",
+          "Revathy Suryanarayana",
+          "Hua Wang",
+          "Sen Zeng"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32148",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32148",
+        "url": "https://doi.org/10.3386/w32148",
         "verified": true,
         "note": ""
       }
@@ -81894,6 +82503,23 @@
         "url": "https://doi.org/10.3386/w32000",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82296,6 +82922,23 @@
         "pages": "",
         "doi": "10.3386/w32000",
         "url": "https://doi.org/10.3386/w32000",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
         "verified": true,
         "note": ""
       }
@@ -83063,6 +83706,23 @@
         "url": "https://doi.org/10.1086/737236",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -83395,6 +84055,25 @@
         "pages": "3730–3778",
         "doi": "10.1086/708820",
         "url": "https://doi.org/10.1086/708820",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "title": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "authors": [
+          "Marijn A. Bolhuis",
+          "Judd N. L. Cramer",
+          "Karl Oskar Schulz",
+          "Lawrence H. Summers"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32163",
+        "url": "https://doi.org/10.3386/w32163",
         "verified": true,
         "note": ""
       }
@@ -85537,6 +86216,42 @@
         "url": "https://doi.org/10.3386/w32115",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "title": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "authors": [
+          "Marijn A. Bolhuis",
+          "Judd N. L. Cramer",
+          "Karl Oskar Schulz",
+          "Lawrence H. Summers"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32163",
+        "url": "https://doi.org/10.3386/w32163",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "title": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "authors": [
+          "Minsu Chang",
+          "Frank Schorfheide"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32166",
+        "url": "https://doi.org/10.3386/w32166",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -85680,6 +86395,25 @@
         "pages": "165–188",
         "doi": "10.1257/pol.20170481",
         "url": "https://doi.org/10.1257/pol.20170481",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "title": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "authors": [
+          "Marijn A. Bolhuis",
+          "Judd N. L. Cramer",
+          "Karl Oskar Schulz",
+          "Lawrence H. Summers"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32163",
+        "url": "https://doi.org/10.3386/w32163",
         "verified": true,
         "note": ""
       }
@@ -87880,6 +88614,44 @@
         "url": "https://doi.org/10.3386/w32101",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Misallocation and Asset Prices",
+        "title": "Misallocation and Asset Prices",
+        "authors": [
+          "Winston Wei Dou",
+          "Yan Ji",
+          "Di Tian",
+          "Pengfei Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32147",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32147",
+        "url": "https://doi.org/10.3386/w32147",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ChatGPT and Corporate Policies",
+        "title": "ChatGPT and Corporate Policies",
+        "authors": [
+          "Manish Jha",
+          "Jialin Qian",
+          "Michael Weber",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32161",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32161",
+        "url": "https://doi.org/10.3386/w32161",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -88825,6 +89597,61 @@
         "pages": "",
         "doi": "10.3386/w32101",
         "url": "https://doi.org/10.3386/w32101",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Asset Prices",
+        "title": "Misallocation and Asset Prices",
+        "authors": [
+          "Winston Wei Dou",
+          "Yan Ji",
+          "Di Tian",
+          "Pengfei Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32147",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32147",
+        "url": "https://doi.org/10.3386/w32147",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ChatGPT and Corporate Policies",
+        "title": "ChatGPT and Corporate Policies",
+        "authors": [
+          "Manish Jha",
+          "Jialin Qian",
+          "Michael Weber",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32161",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32161",
+        "url": "https://doi.org/10.3386/w32161",
         "verified": true,
         "note": ""
       }
@@ -89955,6 +90782,42 @@
         "url": "https://doi.org/10.3386/w32016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "ChatGPT and Corporate Policies",
+        "title": "ChatGPT and Corporate Policies",
+        "authors": [
+          "Manish Jha",
+          "Jialin Qian",
+          "Michael Weber",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32161",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32161",
+        "url": "https://doi.org/10.3386/w32161",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -90027,6 +90890,23 @@
         "pages": "",
         "doi": "10.3386/w32114",
         "url": "https://doi.org/10.3386/w32114",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
         "verified": true,
         "note": ""
       }
@@ -90346,6 +91226,25 @@
         "pages": "908–932",
         "doi": "10.1016/j.jfineco.2021.06.035",
         "url": "https://doi.org/10.1016/j.jfineco.2021.06.035",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "title": "The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer Sentiment Anomaly",
+        "authors": [
+          "Marijn A. Bolhuis",
+          "Judd N. L. Cramer",
+          "Karl Oskar Schulz",
+          "Lawrence H. Summers"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32163",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32163",
+        "url": "https://doi.org/10.3386/w32163",
         "verified": true,
         "note": ""
       }
@@ -91422,6 +92321,25 @@
         "url": "https://doi.org/10.1093/restud/rdab086",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Misallocation and Asset Prices",
+        "title": "Misallocation and Asset Prices",
+        "authors": [
+          "Winston Wei Dou",
+          "Yan Ji",
+          "Di Tian",
+          "Pengfei Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32147",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32147",
+        "url": "https://doi.org/10.3386/w32147",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -91570,6 +92488,23 @@
         "pages": "60–65",
         "doi": "10.1257/aer.p20151103",
         "url": "https://doi.org/10.1257/aer.p20151103",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
         "verified": true,
         "note": ""
       }
@@ -91721,6 +92656,25 @@
         "url": "https://doi.org/10.1257/aer.104.4.1211",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Misallocation and Asset Prices",
+        "title": "Misallocation and Asset Prices",
+        "authors": [
+          "Winston Wei Dou",
+          "Yan Ji",
+          "Di Tian",
+          "Pengfei Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32147",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32147",
+        "url": "https://doi.org/10.3386/w32147",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -91831,6 +92785,23 @@
         "pages": "2187–2253",
         "doi": "10.1093/qje/qjaa018",
         "url": "https://doi.org/10.1093/qje/qjaa018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "title": "On the Effects of Monetary Policy Shocks on Income and Consumption Heterogeneity",
+        "authors": [
+          "Minsu Chang",
+          "Frank Schorfheide"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32166",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32166",
+        "url": "https://doi.org/10.3386/w32166",
         "verified": true,
         "note": ""
       }
@@ -92304,6 +93275,122 @@
         "pages": "",
         "doi": "10.3386/w32128",
         "url": "https://doi.org/10.3386/w32128",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.57",
+    "title": "TRACE 债券交易报告数据（FINRA Trade Reporting and Compliance Engine）",
+    "links": [
+      {
+        "label": "FINRA: TRACE",
+        "url": "https://www.finra.org/filing-reporting/trace"
+      }
+    ],
+    "summary": "美国金融业监管局（FINRA）2002 年起运营的场外债券交易报告系统，要求经纪自营商报告公司债、机构债、资产支持证券等的每笔交易价格、数量、时间和买卖方向，实时公开部分数据；增强版（Enhanced TRACE）提供未截断交易量和交易商身份标记，经 WRDS 或 FINRA 订阅获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "TRACE 是研究美国公司债二级市场流动性和价格的主要数据，常与 FISD（2.12.23）和 Mergent 债券特征数据合并。研究常用它度量债券流动性、交易成本、交易商行为，分析监管和市场压力对债券市场的影响。",
+    "source": "公开部分实时数据；增强版需付费订阅（WRDS/FINRA）。",
+    "references": [
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.58",
+    "title": "ACM 国债期限溢价（Adrian-Crump-Moench Treasury Term Premia）",
+    "links": [
+      {
+        "label": "New York Fed: Treasury Term Premia",
+        "url": "https://www.newyorkfed.org/research/data_indicators/term-premia-tabs"
+      }
+    ],
+    "summary": "纽约联储基于 Adrian、Crump 和 Moench（2013, JFE）仿射期限结构模型估计并发布的美国国债期限溢价和预期短期利率序列，覆盖 1–10 年期限，1961 年以来日度和月度数据，公开下载并定期更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "期限溢价将国债收益率分解为对未来短期利率的预期和投资者要求的风险补偿。研究常用它分析货币政策（含量化宽松）的传导、长期利率变化的来源和国债供给效应。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.59",
+    "title": "美联储 FR Y-14 压力测试监管数据（FR Y-14Q / Y-14M）",
+    "links": [
+      {
+        "label": "Federal Reserve: FR Y-14Q",
+        "url": "https://www.federalreserve.gov/apps/reportingforms/Report/Index/FR_Y-14Q"
+      }
+    ],
+    "summary": "美联储要求资产规模 1000 亿美元以上的银行控股公司为综合资本分析与审查（CCAR）和压力测试报送的监管数据，其中 FR Y-14Q 的 H.1 表逐笔记录 100 万美元以上的公司贷款（借款人、授信额度、利率、期限、抵押、内部评级和借款人财务），Y-14M 记录住房抵押和信用卡贷款，2011–2012 年起，仅限美联储研究人员和授权合作者使用。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "Y-14 覆盖大型银行美国公司贷款的大部分，可观察已提款和未提款的信贷额度。研究常用它分析银行信贷供给、公司信贷额度提取、中小企业融资和资本监管的影响。",
+    "source": "受限（仅限美联储内部及授权研究者）。",
+    "references": [
+      {
+        "raw": "Information-Based Pricing in Specialized Lending",
+        "title": "Information-Based Pricing in Specialized Lending",
+        "authors": [
+          "Kristian Blickle",
+          "Zhiguo He",
+          "Jing Huang",
+          "Cecilia Parlatore"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32155",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32155",
+        "url": "https://doi.org/10.3386/w32155",
         "verified": true,
         "note": ""
       }
@@ -92992,6 +94079,25 @@
         "pages": "1169–1213",
         "doi": "10.1162/003355398555874",
         "url": "https://doi.org/10.1162/003355398555874",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misallocation and Asset Prices",
+        "title": "Misallocation and Asset Prices",
+        "authors": [
+          "Winston Wei Dou",
+          "Yan Ji",
+          "Di Tian",
+          "Pengfei Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32147",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32147",
+        "url": "https://doi.org/10.3386/w32147",
         "verified": true,
         "note": ""
       }
@@ -94167,6 +95273,23 @@
         "url": "https://doi.org/10.3386/w32066",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Government Patent Register: A New Resource for Measuring U.S. Government-Funded Patenting",
+        "title": "The Government Patent Register: A New Resource for Measuring U.S. Government-Funded Patenting",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32136",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32136",
+        "url": "https://doi.org/10.3386/w32136",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94556,6 +95679,25 @@
         "pages": "87–117",
         "doi": "10.1093/restud/rdv039",
         "url": "https://doi.org/10.1093/restud/rdv039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
+        "title": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
+        "authors": [
+          "Mert Demirer",
+          "Diego J. Jiménez-Hernández",
+          "Dean Li",
+          "Sida Peng"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32146",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32146",
+        "url": "https://doi.org/10.3386/w32146",
         "verified": true,
         "note": ""
       }
@@ -96147,6 +97289,45 @@
         "url": "https://doi.org/10.3386/w32082",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "title": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "authors": [
+          "Sebastian Heise",
+          "Justin R. Pierce",
+          "Georg Schaur",
+          "Peter K. Schott"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32138",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32138",
+        "url": "https://doi.org/10.3386/w32138",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade War and Peace: U.S.-China Trade and Tariff Risk from 2015–2050",
+        "title": "Trade War and Peace: U.S.-China Trade and Tariff Risk from 2015–2050",
+        "authors": [
+          "George A. Alessandria",
+          "Shafaat Y. Khan",
+          "Armen Khederlarian",
+          "Kim J. Ruhl",
+          "Joseph B. Steinberg"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32150",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32150",
+        "url": "https://doi.org/10.3386/w32150",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -96218,6 +97399,25 @@
         "pages": "",
         "doi": "10.3386/w32036",
         "url": "https://doi.org/10.3386/w32036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "title": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "authors": [
+          "Sebastian Heise",
+          "Justin R. Pierce",
+          "Georg Schaur",
+          "Peter K. Schott"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32138",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32138",
+        "url": "https://doi.org/10.3386/w32138",
         "verified": true,
         "note": ""
       }
@@ -96523,6 +97723,25 @@
         "pages": "3139–3183",
         "doi": "10.1257/aer.20170011",
         "url": "https://doi.org/10.1257/aer.20170011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "title": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "authors": [
+          "Sebastian Heise",
+          "Justin R. Pierce",
+          "Georg Schaur",
+          "Peter K. Schott"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32138",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32138",
+        "url": "https://doi.org/10.3386/w32138",
         "verified": true,
         "note": ""
       }
@@ -100721,6 +101940,43 @@
         "url": "https://doi.org/10.1257/aer.20221426",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Populism, Polarization and Green Investment",
+        "title": "Populism, Polarization and Green Investment",
+        "authors": [
+          "Anders Anderson",
+          "David T. Robinson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32131",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32131",
+        "url": "https://doi.org/10.3386/w32131",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxing Top Wealth: Migration Responses and their Aggregate Economic Implications",
+        "title": "Taxing Top Wealth: Migration Responses and their Aggregate Economic Implications",
+        "authors": [
+          "Katrine Jakobsen",
+          "Henrik Kleven",
+          "Jonas Kolsrud",
+          "Camille Landais",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32153",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32153",
+        "url": "https://doi.org/10.3386/w32153",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -101550,6 +102806,45 @@
         "pages": "3398–3440",
         "doi": "10.1257/aer.20191766",
         "url": "https://doi.org/10.1257/aer.20191766",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxing Top Wealth: Migration Responses and their Aggregate Economic Implications",
+        "title": "Taxing Top Wealth: Migration Responses and their Aggregate Economic Implications",
+        "authors": [
+          "Katrine Jakobsen",
+          "Henrik Kleven",
+          "Jonas Kolsrud",
+          "Camille Landais",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32153",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32153",
+        "url": "https://doi.org/10.3386/w32153",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Medical Treatments Work for Work? Evidence from Breast Cancer Patients",
+        "title": "Do Medical Treatments Work for Work? Evidence from Breast Cancer Patients",
+        "authors": [
+          "N. Meltem Daysal",
+          "William N. Evans",
+          "Mikkel Hasse Pedersen",
+          "Mircea Trandafir"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32167",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32167",
+        "url": "https://doi.org/10.3386/w32167",
         "verified": true,
         "note": ""
       }
@@ -102790,6 +104085,25 @@
         "pages": "",
         "doi": "10.3386/w32051",
         "url": "https://doi.org/10.3386/w32051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-term Effects of Inflation on Inflation Expectations",
+        "title": "The Long-term Effects of Inflation on Inflation Expectations",
+        "authors": [
+          "Fabio Braggion",
+          "Felix von Meyerinck",
+          "Nic Schaub",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32160",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32160",
+        "url": "https://doi.org/10.3386/w32160",
         "verified": true,
         "note": ""
       }
@@ -105047,6 +106361,87 @@
     ]
   },
   {
+    "id": "3.2.32",
+    "title": "德国家庭金融面板（Panel on Household Finances，PHF）",
+    "links": [
+      {
+        "label": "Bundesbank: PHF",
+        "url": "https://www.bundesbank.de/en/bundesbank/research/panel-on-household-finances"
+      }
+    ],
+    "summary": "德意志联邦银行自 2010 年起约每三年开展的家庭财富与金融调查，是欧元区家庭金融与消费调查（HFCS）的德国部分，每轮约 4000–5000 户，记录实物资产、金融资产、负债、收入、消费、储蓄动机和金融素养，含追踪样本，经联邦银行研究数据与服务中心（RDSC）申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "金融数据"
+    ],
+    "introduction": "PHF 对高财富家庭过度抽样，可较准确地刻画财富分布顶端。研究常用它分析德国家庭财富不平等、资产配置、房产与股票参与和货币政策的分配效应。",
+    "source": "需向联邦银行 RDSC 申请。",
+    "references": [
+      {
+        "raw": "The Long-term Effects of Inflation on Inflation Expectations",
+        "title": "The Long-term Effects of Inflation on Inflation Expectations",
+        "authors": [
+          "Fabio Braggion",
+          "Felix von Meyerinck",
+          "Nic Schaub",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32160",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32160",
+        "url": "https://doi.org/10.3386/w32160",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.33",
+    "title": "德意志联邦银行消费者预期调查（Bundesbank Online Panel – Households，BOP-HH）",
+    "links": [
+      {
+        "label": "Bundesbank: Survey on Consumer Expectations",
+        "url": "https://www.bundesbank.de/en/bundesbank/research/survey-on-consumer-expectations"
+      }
+    ],
+    "summary": "德意志联邦银行自 2019 年起开展的月度家庭在线调查，每月约 2000–4000 名德国受访者，询问通胀感知与预期（含点预期和概率分布）、收入、消费和储蓄计划、房价和利率预期以及对货币政策的认知，部分受访者为追踪样本，经联邦银行 RDSC 申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "BOP-HH 常附加随机信息处理实验模块，可研究信息对预期的影响。研究常用它分析德国家庭通胀预期的形成、能源价格冲击和央行沟通的效果。",
+    "source": "需向联邦银行 RDSC 申请。",
+    "references": [
+      {
+        "raw": "The Long-term Effects of Inflation on Inflation Expectations",
+        "title": "The Long-term Effects of Inflation on Inflation Expectations",
+        "authors": [
+          "Fabio Braggion",
+          "Felix von Meyerinck",
+          "Nic Schaub",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32160",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32160",
+        "url": "https://doi.org/10.3386/w32160",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.3.1",
     "title": "Orbis / Amadeus 企业数据库",
     "links": [
@@ -105788,6 +107183,46 @@
         "pages": "",
         "doi": "10.3386/w32089",
         "url": "https://doi.org/10.3386/w32089",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Invoice Currency Choice in Intra-Firm Trade: A Transaction-Level Analysis of Japanese Automobile Exports",
+        "title": "Invoice Currency Choice in Intra-Firm Trade: A Transaction-Level Analysis of Japanese Automobile Exports",
+        "authors": [
+          "Taiyo Yoshimi",
+          "Uraku Yoshimoto",
+          "Kiyotaka Sato",
+          "Takatoshi Ito",
+          "Junko Shimizu",
+          "Yushi Yoshida"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32142",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32142",
+        "url": "https://doi.org/10.3386/w32142",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
+        "title": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
+        "authors": [
+          "Mert Demirer",
+          "Diego J. Jiménez-Hernández",
+          "Dean Li",
+          "Sida Peng"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32146",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32146",
+        "url": "https://doi.org/10.3386/w32146",
         "verified": true,
         "note": ""
       }
@@ -107586,6 +109021,26 @@
         "pages": "",
         "doi": "10.3386/w32006",
         "url": "https://doi.org/10.3386/w32006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade War and Peace: U.S.-China Trade and Tariff Risk from 2015–2050",
+        "title": "Trade War and Peace: U.S.-China Trade and Tariff Risk from 2015–2050",
+        "authors": [
+          "George A. Alessandria",
+          "Shafaat Y. Khan",
+          "Armen Khederlarian",
+          "Kim J. Ruhl",
+          "Joseph B. Steinberg"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32150",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32150",
+        "url": "https://doi.org/10.3386/w32150",
         "verified": true,
         "note": ""
       }
@@ -111472,6 +112927,23 @@
         "url": "https://doi.org/10.1093/qje/qjx016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Populism, Polarization and Green Investment",
+        "title": "Populism, Polarization and Green Investment",
+        "authors": [
+          "Anders Anderson",
+          "David T. Robinson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32131",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32131",
+        "url": "https://doi.org/10.3386/w32131",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -112144,6 +113616,84 @@
         "pages": "68–106",
         "doi": "10.1257/app.20200456",
         "url": "https://doi.org/10.1257/app.20200456",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.10.16",
+    "title": "查珀尔希尔专家调查（Chapel Hill Expert Survey，CHES）",
+    "links": [
+      {
+        "label": "Chapel Hill Expert Survey",
+        "url": "https://www.chesdata.eu/"
+      }
+    ],
+    "summary": "北卡罗来纳大学查珀尔希尔分校等机构自 1999 年起约每四年开展的欧洲政党立场专家调查，由数百名政治学者对欧盟成员国及部分非成员国约 250 个全国性政党在左右意识形态、欧洲一体化、经济政策、移民、环境、GAL-TAN 文化维度等方面打分，并提供 1999 年以来的趋势文件，公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "CHES 可与选举结果和议会数据合并，衡量政党的政策定位和极化程度。研究常用它分析民粹主义和极右政党崛起、欧洲怀疑主义和政党竞争。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Populism, Polarization and Green Investment",
+        "title": "Populism, Polarization and Green Investment",
+        "authors": [
+          "Anders Anderson",
+          "David T. Robinson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32131",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32131",
+        "url": "https://doi.org/10.3386/w32131",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.10.17",
+    "title": "Open Discourse 德国联邦议院演讲数据库",
+    "links": [
+      {
+        "label": "Open Discourse",
+        "url": "https://opendiscourse.de/"
+      }
+    ],
+    "summary": "数据科学团队 Open Discourse 基于德国联邦议院全体会议纪要构建的结构化演讲语料库，覆盖 1949 年以来的约 90 万篇演讲，标注发言人、党派、职务、会议日期和议程，公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "语料可与议员背景信息合并，用于文本分析。研究常用它衡量议会话语的主题、情绪和极化，分析政党立场、媒体议程和经济事件在政治话语中的反映。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Long-term Effects of Inflation on Inflation Expectations",
+        "title": "The Long-term Effects of Inflation on Inflation Expectations",
+        "authors": [
+          "Fabio Braggion",
+          "Felix von Meyerinck",
+          "Nic Schaub",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32160",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32160",
+        "url": "https://doi.org/10.3386/w32160",
         "verified": true,
         "note": ""
       }
@@ -114177,6 +115727,46 @@
     ]
   },
   {
+    "id": "4.1.8",
+    "title": "印度社会经济与种姓普查（Socio-Economic and Caste Census，SECC 2011）",
+    "links": [
+      {
+        "label": "Development Data Lab: SHRUG",
+        "url": "https://www.devdatalab.org/shrug"
+      }
+    ],
+    "summary": "印度农村发展部等部门 2011–2013 年开展的全国住户普查，覆盖约 2.5 亿户，记录住户成员、住房条件、资产、土地、收入来源、就业和社会经济剥夺指标（种姓明细未公开），用于识别福利项目受益人；村级和个人层面汇总数据曾在官网公开，学界常通过 SHRUG 平台获取村镇级整合版本。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "SECC 提供村级的资产、收入和剥夺指标，可与人口普查和经济普查村级数据链接。研究常用它衡量印度村庄层面的贫困和不平等，分析福利项目瞄准、基础设施和政治因素的影响。",
+    "source": "村级汇总数据公开（可经 SHRUG 获取）；官网访问不稳定。",
+    "references": [
+      {
+        "raw": "How Do Voters Respond to Welfare Vis-a-Vis Public Good Programs? Theory and Evidence of Political Clientelism",
+        "title": "How Do Voters Respond to Welfare Vis-a-Vis Public Good Programs? Theory and Evidence of Political Clientelism",
+        "authors": [
+          "Pranab Bardhan",
+          "Sandip Mitra",
+          "Dilip Mookherjee",
+          "Anusha Nath"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32158",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32158",
+        "url": "https://doi.org/10.3386/w32158",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.2.1",
     "title": "ICRISAT 村庄层面研究（VLS）面板调查",
     "links": [
@@ -114678,6 +116268,25 @@
         "pages": "1936–1979",
         "doi": "10.1093/jeea/jvaa047",
         "url": "https://doi.org/10.1093/jeea/jvaa047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Clientelism of Welfare Benefits? Targeting and Political Competition based Evidence from an Indian state",
+        "title": "Declining Clientelism of Welfare Benefits? Targeting and Political Competition based Evidence from an Indian state",
+        "authors": [
+          "Pushkar Maitra",
+          "Sandip Mitra",
+          "Dilip Mookherjee",
+          "Sujata Visaria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32157",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32157",
+        "url": "https://doi.org/10.3386/w32157",
         "verified": true,
         "note": ""
       }
@@ -117102,6 +118711,49 @@
     ]
   },
   {
+    "id": "4.3.11",
+    "title": "东洋经济《海外进出企业总览》（Kaigai Shinshutsu Kigyo Soran）",
+    "links": [
+      {
+        "label": "Toyo Keizai",
+        "url": "https://www.toyokeizai.net/"
+      }
+    ],
+    "summary": "日本东洋经济新报社每年出版的日本企业海外子公司数据库，记录约 5000 家日本母公司及其 3 万多家海外子公司的所在国家、设立年份、行业、出资比例、员工数、销售额和业务内容，1970 年代起，付费购买（书籍和数据光盘/在线数据库）。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "商业数据"
+    ],
+    "introduction": "数据可在子公司层面追踪日本企业对外直接投资的进入、扩张和退出。研究常用它分析日本企业 FDI 的区位选择、跨国生产网络和供应链调整。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Invoice Currency Choice in Intra-Firm Trade: A Transaction-Level Analysis of Japanese Automobile Exports",
+        "title": "Invoice Currency Choice in Intra-Firm Trade: A Transaction-Level Analysis of Japanese Automobile Exports",
+        "authors": [
+          "Taiyo Yoshimi",
+          "Uraku Yoshimoto",
+          "Kiyotaka Sato",
+          "Takatoshi Ito",
+          "Junko Shimizu",
+          "Yushi Yoshida"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32142",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32142",
+        "url": "https://doi.org/10.3386/w32142",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.4.1",
     "title": "印尼县级财政平衡与资源分成数据（DJPK）",
     "links": [
@@ -118834,6 +120486,44 @@
         "url": "https://doi.org/10.1093/jeea/jvaa047",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Declining Clientelism of Welfare Benefits? Targeting and Political Competition based Evidence from an Indian state",
+        "title": "Declining Clientelism of Welfare Benefits? Targeting and Political Competition based Evidence from an Indian state",
+        "authors": [
+          "Pushkar Maitra",
+          "Sandip Mitra",
+          "Dilip Mookherjee",
+          "Sujata Visaria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32157",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32157",
+        "url": "https://doi.org/10.3386/w32157",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Do Voters Respond to Welfare Vis-a-Vis Public Good Programs? Theory and Evidence of Political Clientelism",
+        "title": "How Do Voters Respond to Welfare Vis-a-Vis Public Good Programs? Theory and Evidence of Political Clientelism",
+        "authors": [
+          "Pranab Bardhan",
+          "Sandip Mitra",
+          "Dilip Mookherjee",
+          "Anusha Nath"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32158",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32158",
+        "url": "https://doi.org/10.3386/w32158",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -119209,6 +120899,49 @@
         "pages": "1936–1979",
         "doi": "10.1093/jeea/jvaa047",
         "url": "https://doi.org/10.1093/jeea/jvaa047",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.12.3",
+    "title": "日本金融厅 EDINET 有价证券报告书（Yuho）",
+    "links": [
+      {
+        "label": "EDINET",
+        "url": "https://disclosure2.edinet-fsa.go.jp/"
+      }
+    ],
+    "summary": "日本金融厅（FSA）运营的电子信息披露系统 EDINET，公开上市公司和其他发行人依《金融商品交易法》提交的有价证券报告书（年度报告，Yuho）、季度报告、大量持股报告等，包含财务报表、业务分部、主要股东、高管和员工信息，2001 年前后起，可在线检索和经 API 批量下载（含 XBRL）。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "EDINET 文件是日本上市公司财务与治理信息的一手来源，商业数据库（如 Nikkei NEEDS，4.12.1）多据此编制。研究常用它构建日本企业财务面板、股权结构和员工数据。",
+    "source": "公开下载（含 API）。",
+    "references": [
+      {
+        "raw": "Invoice Currency Choice in Intra-Firm Trade: A Transaction-Level Analysis of Japanese Automobile Exports",
+        "title": "Invoice Currency Choice in Intra-Firm Trade: A Transaction-Level Analysis of Japanese Automobile Exports",
+        "authors": [
+          "Taiyo Yoshimi",
+          "Uraku Yoshimoto",
+          "Kiyotaka Sato",
+          "Takatoshi Ito",
+          "Junko Shimizu",
+          "Yushi Yoshida"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32142",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32142",
+        "url": "https://doi.org/10.3386/w32142",
         "verified": true,
         "note": ""
       }
@@ -124707,6 +126440,47 @@
         "pages": "",
         "doi": "10.3386/w32104",
         "url": "https://doi.org/10.3386/w32104",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.10.5",
+    "title": "智利公共采购平台开放数据（ChileCompra / Mercado Público）",
+    "links": [
+      {
+        "label": "ChileCompra datos abiertos",
+        "url": "https://datos-abiertos.chilecompra.cl/"
+      }
+    ],
+    "summary": "智利公共采购局（Dirección ChileCompra）运营的电子采购平台 Mercado Público 的开放数据，记录 2007 年以来各公共机构的采购招标、投标、中标、采购订单和框架协议（Convenio Marco）交易，包括采购机构、供应商、产品、数量和价格，公开下载和经 API 获取。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "政治数据",
+      "商业数据"
+    ],
+    "introduction": "数据覆盖智利几乎全部公共采购，可在交易层面比较不同采购方式的价格和竞争程度。研究常用它分析公共采购效率、框架协议、供应商竞争和腐败。",
+    "source": "公开下载（开放数据/API）。",
+    "references": [
+      {
+        "raw": "How Managers Can Use Purchaser Performance Information to Improve Procurement Efficiency",
+        "title": "How Managers Can Use Purchaser Performance Information to Improve Procurement Efficiency",
+        "authors": [
+          "Pablo A. Celhay",
+          "Paul Gertler",
+          "Marcelo Olivares",
+          "Raimundo Undurraga"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32141",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32141",
+        "url": "https://doi.org/10.3386/w32141",
         "verified": true,
         "note": ""
       }
@@ -130477,6 +132251,24 @@
         "url": "https://doi.org/10.3386/w32093",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Labor Migration, Capital Accumulation, and the Structure of Rural Labor Markets",
+        "title": "Labor Migration, Capital Accumulation, and the Structure of Rural Labor Markets",
+        "authors": [
+          "Taryn Dinkelman",
+          "Grace Kumchulesi",
+          "Martine Mariotti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32144",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32144",
+        "url": "https://doi.org/10.3386/w32144",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -134930,6 +136722,45 @@
         "url": "https://doi.org/10.3386/w32115",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "title": "Tariff Rate Uncertainty and the Structure of Supply Chains",
+        "authors": [
+          "Sebastian Heise",
+          "Justin R. Pierce",
+          "Georg Schaur",
+          "Peter K. Schott"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32138",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32138",
+        "url": "https://doi.org/10.3386/w32138",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Policy Reform Options in 2025",
+        "title": "Climate Policy Reform Options in 2025",
+        "authors": [
+          "John Bistline",
+          "Kimberly A. Clausing",
+          "Neil Mehrotra",
+          "James H. Stock",
+          "Catherine Wolfram"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32168",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32168",
+        "url": "https://doi.org/10.3386/w32168",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -137123,6 +138954,25 @@
         "url": "https://doi.org/10.3386/w32076",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Change, Population Growth, and Population Pressure",
+        "title": "Climate Change, Population Growth, and Population Pressure",
+        "authors": [
+          "J. Vernon Henderson",
+          "Bo Yeon Jang",
+          "Adam Storeygard",
+          "David N. Weil"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32145",
+        "url": "https://doi.org/10.3386/w32145",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -137191,6 +139041,25 @@
         "pages": "",
         "doi": "10.3386/w32043",
         "url": "https://doi.org/10.3386/w32043",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, Population Growth, and Population Pressure",
+        "title": "Climate Change, Population Growth, and Population Pressure",
+        "authors": [
+          "J. Vernon Henderson",
+          "Bo Yeon Jang",
+          "Adam Storeygard",
+          "David N. Weil"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32145",
+        "url": "https://doi.org/10.3386/w32145",
         "verified": true,
         "note": ""
       }
@@ -141560,6 +143429,25 @@
         "url": "https://doi.org/10.1257/aer.20241355",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-term Effects of Inflation on Inflation Expectations",
+        "title": "The Long-term Effects of Inflation on Inflation Expectations",
+        "authors": [
+          "Fabio Braggion",
+          "Felix von Meyerinck",
+          "Nic Schaub",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32160",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32160",
+        "url": "https://doi.org/10.3386/w32160",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -143325,6 +145213,25 @@
         "url": "https://doi.org/10.3386/w32047",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Change, Population Growth, and Population Pressure",
+        "title": "Climate Change, Population Growth, and Population Pressure",
+        "authors": [
+          "J. Vernon Henderson",
+          "Bo Yeon Jang",
+          "Adam Storeygard",
+          "David N. Weil"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32145",
+        "url": "https://doi.org/10.3386/w32145",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -145084,6 +146991,25 @@
         "url": "https://doi.org/10.1016/j.jeem.2026.103386",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Change, Population Growth, and Population Pressure",
+        "title": "Climate Change, Population Growth, and Population Pressure",
+        "authors": [
+          "J. Vernon Henderson",
+          "Bo Yeon Jang",
+          "Adam Storeygard",
+          "David N. Weil"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32145",
+        "url": "https://doi.org/10.3386/w32145",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -145457,6 +147383,25 @@
         "pages": "382–410",
         "doi": "10.1257/aer.20130604",
         "url": "https://doi.org/10.1257/aer.20130604",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, Population Growth, and Population Pressure",
+        "title": "Climate Change, Population Growth, and Population Pressure",
+        "authors": [
+          "J. Vernon Henderson",
+          "Bo Yeon Jang",
+          "Adam Storeygard",
+          "David N. Weil"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32145",
+        "url": "https://doi.org/10.3386/w32145",
         "verified": true,
         "note": ""
       }
@@ -147652,6 +149597,26 @@
         "url": "https://doi.org/10.1257/aer.20230501",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate Policy Reform Options in 2025",
+        "title": "Climate Policy Reform Options in 2025",
+        "authors": [
+          "John Bistline",
+          "Kimberly A. Clausing",
+          "Neil Mehrotra",
+          "James H. Stock",
+          "Catherine Wolfram"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32168",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32168",
+        "url": "https://doi.org/10.3386/w32168",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -148535,6 +150500,26 @@
         "pages": "1–40",
         "doi": "10.1257/app.20230052",
         "url": "https://doi.org/10.1257/app.20230052",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Policy Reform Options in 2025",
+        "title": "Climate Policy Reform Options in 2025",
+        "authors": [
+          "John Bistline",
+          "Kimberly A. Clausing",
+          "Neil Mehrotra",
+          "James H. Stock",
+          "Catherine Wolfram"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32168",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32168",
+        "url": "https://doi.org/10.3386/w32168",
         "verified": true,
         "note": ""
       }
@@ -159196,6 +161181,23 @@
         "url": "https://doi.org/10.3386/w32115",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -159700,6 +161702,23 @@
         "pages": "",
         "doi": "10.3386/w32001",
         "url": "https://doi.org/10.3386/w32001",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Populism, Polarization and Green Investment",
+        "title": "Populism, Polarization and Green Investment",
+        "authors": [
+          "Anders Anderson",
+          "David T. Robinson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32131",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32131",
+        "url": "https://doi.org/10.3386/w32131",
         "verified": true,
         "note": ""
       }
@@ -160765,6 +162784,25 @@
         "url": "https://doi.org/10.3386/w32016",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "ChatGPT and Corporate Policies",
+        "title": "ChatGPT and Corporate Policies",
+        "authors": [
+          "Manish Jha",
+          "Jialin Qian",
+          "Michael Weber",
+          "Baozhong Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32161",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32161",
+        "url": "https://doi.org/10.3386/w32161",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -161501,6 +163539,23 @@
         "pages": "3366–3411",
         "doi": "10.1093/rfs/hhz005",
         "url": "https://doi.org/10.1093/rfs/hhz005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "title": "Monetary Policy Wedges and the Long-term Liabilities of Households and Firms",
+        "authors": [
+          "Jules H. van Binsbergen",
+          "Marco Grotteria"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32137",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32137",
+        "url": "https://doi.org/10.3386/w32137",
         "verified": true,
         "note": ""
       }
@@ -162675,6 +164730,44 @@
         "pages": "",
         "doi": "10.3386/w32115",
         "url": "https://doi.org/10.3386/w32115",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.43",
+    "title": "ICIJ 离岸泄密数据库（Offshore Leaks Database）",
+    "links": [
+      {
+        "label": "ICIJ Offshore Leaks Database",
+        "url": "https://offshoreleaks.icij.org/"
+      }
+    ],
+    "summary": "国际调查记者同盟（ICIJ）整理发布的离岸实体数据库，汇集离岸泄密、巴拿马文件、天堂文件、潘多拉文件等泄露档案中 80 多万个离岸公司、基金会和信托及其关联的个人、中介机构和地址，可在线检索并批量下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "数据记录离岸实体的注册地、设立和注销日期以及与受益人和中介的关系网络。研究常用它识别使用离岸实体的个人和企业，分析逃税、财富隐匿、离岸金融中心和税收执法的效果。",
+    "source": "公开检索和下载。",
+    "references": [
+      {
+        "raw": "Behavioral Responses to Wealth Taxation: Evidence from Colombia",
+        "title": "Behavioral Responses to Wealth Taxation: Evidence from Colombia",
+        "authors": [
+          "Juliana Londoño-Vélez",
+          "Javier Avila-Mahecha"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32134",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32134",
+        "url": "https://doi.org/10.3386/w32134",
         "verified": true,
         "note": ""
       }
@@ -163991,6 +166084,23 @@
         "url": "https://doi.org/10.3386/w32069",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Government Patent Register: A New Resource for Measuring U.S. Government-Funded Patenting",
+        "title": "The Government Patent Register: A New Resource for Measuring U.S. Government-Funded Patenting",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32136",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32136",
+        "url": "https://doi.org/10.3386/w32136",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -164201,6 +166311,25 @@
         "pages": "",
         "doi": "10.3386/w32115",
         "url": "https://doi.org/10.3386/w32115",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-term Effects of Inflation on Inflation Expectations",
+        "title": "The Long-term Effects of Inflation on Inflation Expectations",
+        "authors": [
+          "Fabio Braggion",
+          "Felix von Meyerinck",
+          "Nic Schaub",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32160",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32160",
+        "url": "https://doi.org/10.3386/w32160",
         "verified": true,
         "note": ""
       }
@@ -165214,6 +167343,44 @@
     ]
   },
   {
+    "id": "7.13.26",
+    "title": "互联网档案馆网页时光机（Internet Archive Wayback Machine）",
+    "links": [
+      {
+        "label": "Internet Archive Wayback Machine",
+        "url": "https://web.archive.org/"
+      }
+    ],
+    "summary": "非营利组织互联网档案馆（Internet Archive）自 1996 年起抓取保存的网页历史快照，至今存档超过 8000 亿个网页，可按网址和日期检索历史版本，并提供 CDX API 批量查询快照索引，公开免费使用。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "历史快照可还原企业网站、政策页面、价格和产品信息在不同时间的内容。研究常用它追踪企业披露、平台规则和网页内容的变化，构建历史网络文本数据。",
+    "source": "公开免费使用（含 API）。",
+    "references": [
+      {
+        "raw": "Robust Content Moderation: Theory and Applications",
+        "title": "Robust Content Moderation: Theory and Applications",
+        "authors": [
+          "Scott Duke Kominers",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32156",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32156",
+        "url": "https://doi.org/10.3386/w32156",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.14.1",
     "title": "全球棕榈油厂位置数据（Universal Mill List）",
     "links": [
@@ -166097,6 +168264,25 @@
         "pages": "",
         "doi": "10.3386/w32083",
         "url": "https://doi.org/10.3386/w32083",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change, Population Growth, and Population Pressure",
+        "title": "Climate Change, Population Growth, and Population Pressure",
+        "authors": [
+          "J. Vernon Henderson",
+          "Bo Yeon Jang",
+          "Adam Storeygard",
+          "David N. Weil"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32145",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32145",
+        "url": "https://doi.org/10.3386/w32145",
         "verified": true,
         "note": ""
       }
@@ -168569,6 +170755,45 @@
         "pages": "",
         "doi": "10.3386/w32030",
         "url": "https://doi.org/10.3386/w32030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Drives U.S. Import Price Inflation?",
+        "title": "What Drives U.S. Import Price Inflation?",
+        "authors": [
+          "Mary Amiti",
+          "Oleg Itskhoki",
+          "David Weinstein"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32133",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32133",
+        "url": "https://doi.org/10.3386/w32133",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Invoice Currency Choice in Intra-Firm Trade: A Transaction-Level Analysis of Japanese Automobile Exports",
+        "title": "Invoice Currency Choice in Intra-Firm Trade: A Transaction-Level Analysis of Japanese Automobile Exports",
+        "authors": [
+          "Taiyo Yoshimi",
+          "Uraku Yoshimoto",
+          "Kiyotaka Sato",
+          "Takatoshi Ito",
+          "Junko Shimizu",
+          "Yushi Yoshida"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32142",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32142",
+        "url": "https://doi.org/10.3386/w32142",
         "verified": true,
         "note": ""
       }
@@ -171110,6 +173335,47 @@
         "pages": "",
         "doi": "10.3386/w32037",
         "url": "https://doi.org/10.3386/w32037",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.23",
+    "title": "哈佛增长实验室经济复杂性图集贸易数据（Atlas of Economic Complexity）",
+    "links": [
+      {
+        "label": "Atlas of Economic Complexity",
+        "url": "https://atlas.hks.harvard.edu/"
+      }
+    ],
+    "summary": "哈佛大学增长实验室（Growth Lab）基于 UN Comtrade 和 IMF 服务贸易数据清洗整理的国际贸易数据，提供 1962 年以来按 HS 和 SITC 分类的国家—产品双边货物贸易和服务贸易，修正了进出口报告不一致，并计算经济复杂性指数（ECI）、产品复杂性指数（PCI）和产品空间指标，公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "清洗后的贸易数据经镜像数据调和，较原始 Comtrade 更适合长期跨国比较。研究常用它分析出口结构、经济复杂性与增长、产品多样化和比较优势的演变。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Climate Policy Reform Options in 2025",
+        "title": "Climate Policy Reform Options in 2025",
+        "authors": [
+          "John Bistline",
+          "Kimberly A. Clausing",
+          "Neil Mehrotra",
+          "James H. Stock",
+          "Catherine Wolfram"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32168",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32168",
+        "url": "https://doi.org/10.3386/w32168",
         "verified": true,
         "note": ""
       }
