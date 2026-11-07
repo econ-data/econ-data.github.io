@@ -94751,6 +94751,23 @@
         "url": "https://doi.org/10.3386/w32145",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "authors": [
+          "Aneesha Parvathaneni",
+          "Dean Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33246",
+        "url": "https://doi.org/10.3386/w33246",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -135266,46 +135283,6 @@
         "pages": "",
         "doi": "10.3386/w32632",
         "url": "https://doi.org/10.3386/w32632",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "2.14.13",
-    "title": "USDA 食品营养成分数据库（FoodData Central / SR28）",
-    "links": [
-      {
-        "label": "USDA FoodData Central",
-        "url": "https://fdc.nal.usda.gov/"
-      }
-    ],
-    "summary": "美国农业部农业研究局（ARS）维护的食品营养成分数据库，FoodData Central 整合了标准参考数据库（SR Legacy / SR28）、基础食品、品牌食品和膳食调查（FNDDS）数据，提供数十万种食品的热量、宏量和微量营养素含量，公开下载。",
-    "regions": [
-      "美国数据",
-      "全球数据"
-    ],
-    "topics": [
-      "农业数据",
-      "健康数据"
-    ],
-    "introduction": "这是食品营养成分的标准参考来源。研究常用它把食品消费或作物产出换算为热量和营养摄入。",
-    "source": "公开下载。",
-    "references": [
-      {
-        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
-        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
-        "authors": [
-          "Aneesha Parvathaneni",
-          "Dean Yang"
-        ],
-        "year": 2024,
-        "journal": "NBER Working Paper No. 33246",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "doi": "10.3386/w33246",
-        "url": "https://doi.org/10.3386/w33246",
         "verified": true,
         "note": ""
       }
