@@ -238925,6 +238925,22 @@
         "url": "https://doi.org/10.3386/w33426",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "China's Overseas Lending in Global Finance Cycle",
+        "title": "China's Overseas Lending in Global Finance Cycle",
+        "authors": [
+          "Zhengyang Jiang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33519",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33519",
+        "url": "https://doi.org/10.3386/w33519",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -242559,43 +242575,6 @@
     ],
     "introduction": "这是跨国资本流动和对外资产负债的官方数据。研究常用它分析资本流动、对外失衡和外部财富效应。",
     "source": "公开下载；官网对自动访问返回 403。",
-    "references": [
-      {
-        "raw": "China's Overseas Lending in Global Finance Cycle",
-        "title": "China's Overseas Lending in Global Finance Cycle",
-        "authors": [
-          "Zhengyang Jiang"
-        ],
-        "year": 2025,
-        "journal": "NBER Working Paper No. 33519",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "doi": "10.3386/w33519",
-        "url": "https://doi.org/10.3386/w33519",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
-    "id": "7.12.76",
-    "title": "Ilzetzki-Reinhart-Rogoff 汇率制度分类（IRR）",
-    "links": [
-      {
-        "label": "Ilzetzki: IRR data",
-        "url": "https://www.ilzetzki.com/irr-data"
-      }
-    ],
-    "summary": "Ilzetzki、Reinhart 与 Rogoff（2019）更新的事实汇率制度分类，基于平行市场汇率和汇率实际波动，将约 190 个国家 1940 年以来的月度汇率安排划分为 15 个细类和 6 个粗类，并识别锚货币，公开下载。",
-    "regions": [
-      "全球数据"
-    ],
-    "topics": [
-      "金融数据"
-    ],
-    "introduction": "这是事实汇率制度最常用的分类。研究常用它分析汇率制度对通胀、增长和资本流动的影响以及美元的锚货币地位。",
-    "source": "公开下载。",
     "references": [
       {
         "raw": "China's Overseas Lending in Global Finance Cycle",
