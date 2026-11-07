@@ -10586,6 +10586,24 @@
         "url": "https://doi.org/10.3386/w32034",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Discount Factors and Monetary Policy: Evidence from Dual-Listed Stocks",
+        "title": "Discount Factors and Monetary Policy: Evidence from Dual-Listed Stocks",
+        "authors": [
+          "Quentin Vandeweyer",
+          "Minghao Yang",
+          "Constantine Yannelis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32499",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32499",
+        "url": "https://doi.org/10.3386/w32499",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14936,6 +14954,23 @@
         "url": "https://doi.org/10.3386/w32475",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "title": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "authors": [
+          "Kathryn R. Johnson",
+          "Claudia Persico"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32517",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32517",
+        "url": "https://doi.org/10.3386/w32517",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -15814,6 +15849,23 @@
         "pages": "",
         "doi": "10.3386/w32384",
         "url": "https://doi.org/10.3386/w32384",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "authors": [
+          "Marcella Alsan",
+          "Yousra Neberai"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32484",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32484",
+        "url": "https://doi.org/10.3386/w32484",
         "verified": true,
         "note": ""
       }
@@ -17434,6 +17486,24 @@
         "url": "https://doi.org/10.3386/w32206",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "title": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "authors": [
+          "Robynn J.A. Cox",
+          "Jamein P. Cunningham",
+          "Alberto Ortega"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32502",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32502",
+        "url": "https://doi.org/10.3386/w32502",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17846,6 +17916,24 @@
         "pages": "",
         "doi": "10.3386/w32444",
         "url": "https://doi.org/10.3386/w32444",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "title": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "authors": [
+          "Robynn J.A. Cox",
+          "Jamein P. Cunningham",
+          "Alberto Ortega"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32502",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32502",
+        "url": "https://doi.org/10.3386/w32502",
         "verified": true,
         "note": ""
       }
@@ -18433,6 +18521,24 @@
         "url": "https://doi.org/10.3386/w32435",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Algorithmic Bias and Historical Injustice: Race and Digital Profiling",
+        "title": "Algorithmic Bias and Historical Injustice: Race and Digital Profiling",
+        "authors": [
+          "Abigail Matthew",
+          "Amalia R. Miller",
+          "Catherine Tucker"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32485",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32485",
+        "url": "https://doi.org/10.3386/w32485",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18928,6 +19034,45 @@
         "pages": "",
         "doi": "10.3386/w32407",
         "url": "https://doi.org/10.3386/w32407",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.1.14",
+    "title": "美国人口普查局行业与职业分类索引（Classified Index of Industries and Occupations）",
+    "links": [
+      {
+        "label": "Census: Industry and Occupation Indexes",
+        "url": "https://www.census.gov/topics/employment/industry-occupation/guidance/indexes.html"
+      }
+    ],
+    "summary": "美国人口普查局发布的行业与职业编码索引，将普查和 ACS 问卷中的数万个行业与职业名称文本映射到普查行业和职业代码，并与 NAICS、SOC 对照，按普查年份公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "索引是编码和跨年份对照普查职业行业的基础工具。研究常用它构建职业代码对照表和统一历年的职业分类。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
         "verified": true,
         "note": ""
       }
@@ -22136,6 +22281,99 @@
         "pages": "",
         "doi": "10.3386/w32463",
         "url": "https://doi.org/10.3386/w32463",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inflation's Impact on American Households",
+        "title": "Inflation's Impact on American Households",
+        "authors": [
+          "David Altig",
+          "Alan J. Auerbach",
+          "Erin F. Eidschun",
+          "Laurence J. Kotlikoff",
+          "Victor Yifan Ye"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32482",
+        "url": "https://doi.org/10.3386/w32482",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Simple Macroeconomics of AI",
+        "title": "The Simple Macroeconomics of AI",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32487",
+        "url": "https://doi.org/10.3386/w32487",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Technology Facilitate Scale? Evidence from a Randomized Evaluation of High Dosage Tutoring",
+        "title": "Can Technology Facilitate Scale? Evidence from a Randomized Evaluation of High Dosage Tutoring",
+        "authors": [
+          "Monica P. Bhatt",
+          "Jonathan Guryan",
+          "Salman A. Khan",
+          "Michael LaForest-Tucker",
+          "Bhavya Mishra"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32510",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32510",
+        "url": "https://doi.org/10.3386/w32510",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School Closures and Parental Mental Health",
+        "title": "School Closures and Parental Mental Health",
+        "authors": [
+          "Sumedha Gupta",
+          "Dario Salcedo",
+          "Kosali I. Simon"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32516",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32516",
+        "url": "https://doi.org/10.3386/w32516",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Insurance Fraud in the Debit Card Market",
+        "title": "Unemployment Insurance Fraud in the Debit Card Market",
+        "authors": [
+          "Umang Khetan",
+          "Jetson Leder-Luis",
+          "Jialan Wang",
+          "Yunrong Zhou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32527",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32527",
+        "url": "https://doi.org/10.3386/w32527",
         "verified": true,
         "note": ""
       }
@@ -25787,6 +26025,95 @@
         "url": "https://doi.org/10.3386/w32471",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inflation's Impact on American Households",
+        "title": "Inflation's Impact on American Households",
+        "authors": [
+          "David Altig",
+          "Alan J. Auerbach",
+          "Erin F. Eidschun",
+          "Laurence J. Kotlikoff",
+          "Victor Yifan Ye"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32482",
+        "url": "https://doi.org/10.3386/w32482",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Licensure as a Credential: Evidence on Unemployment Protection and Inequality from the Great Recession and COVID-19",
+        "title": "Licensure as a Credential: Evidence on Unemployment Protection and Inequality from the Great Recession and COVID-19",
+        "authors": [
+          "Peter Q. Blair",
+          "Bobby W. Chung"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32486",
+        "url": "https://doi.org/10.3386/w32486",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Simple Macroeconomics of AI",
+        "title": "The Simple Macroeconomics of AI",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32487",
+        "url": "https://doi.org/10.3386/w32487",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "title": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "authors": [
+          "Michael J. Boskin",
+          "Kareem Elnahal",
+          "Adam Zhang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32492",
+        "url": "https://doi.org/10.3386/w32492",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "People's Understanding of Inflation",
+        "title": "People's Understanding of Inflation",
+        "authors": [
+          "Alberto Binetti",
+          "Francesco Nuzzi",
+          "Stefanie Stantcheva"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32497",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32497",
+        "url": "https://doi.org/10.3386/w32497",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26886,6 +27213,23 @@
         "url": "https://doi.org/10.3386/w32467",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Returns Heterogeneity and Consumption Inequality Over the Life Cycle",
+        "title": "Returns Heterogeneity and Consumption Inequality Over the Life Cycle",
+        "authors": [
+          "Claudio Daminato",
+          "Luigi Pistaferri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32490",
+        "url": "https://doi.org/10.3386/w32490",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27583,6 +27927,24 @@
         "url": "https://doi.org/10.3386/w32467",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Latent Heterogeneity in the Marginal Propensity to Consume",
+        "title": "Latent Heterogeneity in the Marginal Propensity to Consume",
+        "authors": [
+          "Daniel Lewis",
+          "Davide Melcangi",
+          "Laura Pilossoph"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32523",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32523",
+        "url": "https://doi.org/10.3386/w32523",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27949,6 +28311,25 @@
         "pages": "",
         "doi": "10.3386/w32346",
         "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What is Newsworthy? Theory and Evidence",
+        "title": "What is Newsworthy? Theory and Evidence",
+        "authors": [
+          "Luis Armona",
+          "Matthew Gentzkow",
+          "Emir Kamenica",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32512",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32512",
+        "url": "https://doi.org/10.3386/w32512",
         "verified": true,
         "note": ""
       }
@@ -28320,6 +28701,24 @@
         "pages": "",
         "doi": "10.3386/w32346",
         "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School Closures and Parental Mental Health",
+        "title": "School Closures and Parental Mental Health",
+        "authors": [
+          "Sumedha Gupta",
+          "Dario Salcedo",
+          "Kosali I. Simon"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32516",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32516",
+        "url": "https://doi.org/10.3386/w32516",
         "verified": true,
         "note": ""
       }
@@ -28872,6 +29271,25 @@
         "pages": "",
         "doi": "10.3386/w32194",
         "url": "https://doi.org/10.3386/w32194",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What is Newsworthy? Theory and Evidence",
+        "title": "What is Newsworthy? Theory and Evidence",
+        "authors": [
+          "Luis Armona",
+          "Matthew Gentzkow",
+          "Emir Kamenica",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32512",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32512",
+        "url": "https://doi.org/10.3386/w32512",
         "verified": true,
         "note": ""
       }
@@ -29565,6 +29983,26 @@
         "url": "https://doi.org/10.3386/w32476",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inflation's Impact on American Households",
+        "title": "Inflation's Impact on American Households",
+        "authors": [
+          "David Altig",
+          "Alan J. Auerbach",
+          "Erin F. Eidschun",
+          "Laurence J. Kotlikoff",
+          "Victor Yifan Ye"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32482",
+        "url": "https://doi.org/10.3386/w32482",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30238,6 +30676,42 @@
         "url": "https://doi.org/10.3386/w32346",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Medical Cannabis Availability and Mental Health: Evidence From New York’s Medical Cannabis Program",
+        "title": "Medical Cannabis Availability and Mental Health: Evidence From New York’s Medical Cannabis Program",
+        "authors": [
+          "Coleman Drake",
+          "Dylan Nagy",
+          "Matthew D. Eisenberg",
+          "David Slusky"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32514",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32514",
+        "url": "https://doi.org/10.3386/w32514",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "title": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "authors": [
+          "Kathryn R. Johnson",
+          "Claudia Persico"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32517",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32517",
+        "url": "https://doi.org/10.3386/w32517",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30721,6 +31195,23 @@
         "pages": "44–75",
         "doi": "10.1257/pol.20180039",
         "url": "https://doi.org/10.1257/pol.20180039",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "authors": [
+          "Marcella Alsan",
+          "Yousra Neberai"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32484",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32484",
+        "url": "https://doi.org/10.3386/w32484",
         "verified": true,
         "note": ""
       }
@@ -31668,6 +32159,25 @@
         "pages": "",
         "doi": "10.3386/w32467",
         "url": "https://doi.org/10.3386/w32467",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Understanding Expert Choices Using Decision Time",
+        "title": "Understanding Expert Choices Using Decision Time",
+        "authors": [
+          "David Card",
+          "Stefano DellaVigna",
+          "Chenxi Jiang",
+          "Dmitry Taubinsky"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32515",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32515",
+        "url": "https://doi.org/10.3386/w32515",
         "verified": true,
         "note": ""
       }
@@ -33115,6 +33625,40 @@
         "url": "https://doi.org/10.3386/w32374",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Simple Macroeconomics of AI",
+        "title": "The Simple Macroeconomics of AI",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32487",
+        "url": "https://doi.org/10.3386/w32487",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment in Infrastructure and Trade: The Case of Ports",
+        "title": "Investment in Infrastructure and Trade: The Case of Ports",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32503",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32503",
+        "url": "https://doi.org/10.3386/w32503",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33571,6 +34115,40 @@
         "pages": "",
         "doi": "10.3386/w32375",
         "url": "https://doi.org/10.3386/w32375",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Simple Macroeconomics of AI",
+        "title": "The Simple Macroeconomics of AI",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32487",
+        "url": "https://doi.org/10.3386/w32487",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
         "verified": true,
         "note": ""
       }
@@ -34097,6 +34675,23 @@
         "pages": "",
         "doi": "10.3386/w32476",
         "url": "https://doi.org/10.3386/w32476",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Licensure as a Credential: Evidence on Unemployment Protection and Inequality from the Great Recession and COVID-19",
+        "title": "Licensure as a Credential: Evidence on Unemployment Protection and Inequality from the Great Recession and COVID-19",
+        "authors": [
+          "Peter Q. Blair",
+          "Bobby W. Chung"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32486",
+        "url": "https://doi.org/10.3386/w32486",
         "verified": true,
         "note": ""
       }
@@ -35027,6 +35622,24 @@
         "url": "https://doi.org/10.3386/w32030",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -35804,6 +36417,26 @@
         "pages": "153–176",
         "doi": "10.1257/pol.20140016",
         "url": "https://doi.org/10.1257/pol.20140016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inflation's Impact on American Households",
+        "title": "Inflation's Impact on American Households",
+        "authors": [
+          "David Altig",
+          "Alan J. Auerbach",
+          "Erin F. Eidschun",
+          "Laurence J. Kotlikoff",
+          "Victor Yifan Ye"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32482",
+        "url": "https://doi.org/10.3386/w32482",
         "verified": true,
         "note": ""
       }
@@ -40473,6 +41106,79 @@
         "url": "https://doi.org/10.3386/w32463",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "title": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "authors": [
+          "Michael J. Boskin",
+          "Kareem Elnahal",
+          "Adam Zhang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32492",
+        "url": "https://doi.org/10.3386/w32492",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Tobacco 21 Laws on Smoking and Vaping: Evidence from Panel Data and Biomarkers",
+        "title": "The Effects of Tobacco 21 Laws on Smoking and Vaping: Evidence from Panel Data and Biomarkers",
+        "authors": [
+          "Chad D. Cotti",
+          "Philip DeCicca",
+          "Erik T. Nesson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32520",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32520",
+        "url": "https://doi.org/10.3386/w32520",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Insurance Fraud in the Debit Card Market",
+        "title": "Unemployment Insurance Fraud in the Debit Card Market",
+        "authors": [
+          "Umang Khetan",
+          "Jetson Leder-Luis",
+          "Jialan Wang",
+          "Yunrong Zhou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32527",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32527",
+        "url": "https://doi.org/10.3386/w32527",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41026,6 +41732,25 @@
         "pages": "",
         "doi": "10.3386/w32071",
         "url": "https://doi.org/10.3386/w32071",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Insurance Fraud in the Debit Card Market",
+        "title": "Unemployment Insurance Fraud in the Debit Card Market",
+        "authors": [
+          "Umang Khetan",
+          "Jetson Leder-Luis",
+          "Jialan Wang",
+          "Yunrong Zhou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32527",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32527",
+        "url": "https://doi.org/10.3386/w32527",
         "verified": true,
         "note": ""
       }
@@ -42931,6 +43656,59 @@
         "url": "https://doi.org/10.3386/w32384",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "title": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "authors": [
+          "Kathryn R. Johnson",
+          "Claudia Persico"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32517",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32517",
+        "url": "https://doi.org/10.3386/w32517",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -44397,6 +45175,59 @@
         "pages": "",
         "doi": "10.3386/w32398",
         "url": "https://doi.org/10.3386/w32398",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "authors": [
+          "Marcella Alsan",
+          "Yousra Neberai"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32484",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32484",
+        "url": "https://doi.org/10.3386/w32484",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "title": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "authors": [
+          "Michael J. Boskin",
+          "Kareem Elnahal",
+          "Adam Zhang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32492",
+        "url": "https://doi.org/10.3386/w32492",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
         "verified": true,
         "note": ""
       }
@@ -47853,6 +48684,60 @@
         "url": "https://doi.org/10.3386/w32364",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "There is No Excess Volatility Puzzle",
+        "title": "There is No Excess Volatility Puzzle",
+        "authors": [
+          "Andrew Atkeson",
+          "Jonathan Heathcote",
+          "Fabrizio Perri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32481",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32481",
+        "url": "https://doi.org/10.3386/w32481",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inflation's Impact on American Households",
+        "title": "Inflation's Impact on American Households",
+        "authors": [
+          "David Altig",
+          "Alan J. Auerbach",
+          "Erin F. Eidschun",
+          "Laurence J. Kotlikoff",
+          "Victor Yifan Ye"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32482",
+        "url": "https://doi.org/10.3386/w32482",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Simple Macroeconomics of AI",
+        "title": "The Simple Macroeconomics of AI",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32487",
+        "url": "https://doi.org/10.3386/w32487",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -50231,6 +51116,24 @@
         "url": "https://doi.org/10.3386/w32227",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -50798,6 +51701,24 @@
         "pages": "",
         "doi": "10.3386/w32418",
         "url": "https://doi.org/10.3386/w32418",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "title": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "authors": [
+          "Robynn J.A. Cox",
+          "Jamein P. Cunningham",
+          "Alberto Ortega"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32502",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32502",
+        "url": "https://doi.org/10.3386/w32502",
         "verified": true,
         "note": ""
       }
@@ -51934,6 +52855,24 @@
         "pages": "",
         "doi": "10.3386/w32252",
         "url": "https://doi.org/10.3386/w32252",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
         "verified": true,
         "note": ""
       }
@@ -55242,6 +56181,24 @@
         "url": "https://doi.org/10.3386/w32472",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Procyclical Stocks Earn Higher Returns",
+        "title": "Procyclical Stocks Earn Higher Returns",
+        "authors": [
+          "William N. Goetzmann",
+          "Akiko Watanabe",
+          "Masahiro Watanabe"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32509",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32509",
+        "url": "https://doi.org/10.3386/w32509",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -56803,6 +57760,24 @@
         "url": "https://doi.org/10.3386/w32314",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Algorithmic Bias and Historical Injustice: Race and Digital Profiling",
+        "title": "Algorithmic Bias and Historical Injustice: Race and Digital Profiling",
+        "authors": [
+          "Abigail Matthew",
+          "Amalia R. Miller",
+          "Catherine Tucker"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32485",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32485",
+        "url": "https://doi.org/10.3386/w32485",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -57078,6 +58053,24 @@
         "pages": "",
         "doi": "10.3386/w32286",
         "url": "https://doi.org/10.3386/w32286",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "title": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "authors": [
+          "Michael J. Boskin",
+          "Kareem Elnahal",
+          "Adam Zhang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32492",
+        "url": "https://doi.org/10.3386/w32492",
         "verified": true,
         "note": ""
       }
@@ -58007,6 +59000,125 @@
         "pages": "",
         "doi": "10.3386/w32471",
         "url": "https://doi.org/10.3386/w32471",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.62",
+    "title": "执法管理与行政统计调查（Law Enforcement Management and Administrative Statistics，LEMAS）",
+    "links": [
+      {
+        "label": "BJS: LEMAS",
+        "url": "https://bjs.ojp.gov/data-collection/law-enforcement-management-and-administrative-statistics-lemas"
+      }
+    ],
+    "summary": "美国司法统计局（BJS）定期对全国州和地方执法机构开展的调查，记录警员人数与人口构成、预算、薪酬、招聘要求、装备、政策（武力使用、执法记录仪）和社区警务实践，1987 年以来多轮，经 ICPSR 公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "政治数据"
+    ],
+    "introduction": "LEMAS 是美国警察机构组织特征的标准数据。研究常用它分析警队种族构成、警务政策和警察资源对犯罪与警察暴力的影响。",
+    "source": "公开下载（ICPSR）。",
+    "references": [
+      {
+        "raw": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "title": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "authors": [
+          "Robynn J.A. Cox",
+          "Jamein P. Cunningham",
+          "Alberto Ortega"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32502",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32502",
+        "url": "https://doi.org/10.3386/w32502",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.63",
+    "title": "NBER 美国县级普查间人口估计（按年龄、性别、种族、族裔）",
+    "links": [
+      {
+        "label": "NBER: US Intercensal County Population Data",
+        "url": "https://www.nber.org/research/data/us-intercensal-county-population-data-age-sex-race-and-hispanic-origin"
+      }
+    ],
+    "summary": "NBER 整理发布的美国人口普查局县级与州级普查间年度人口估计，1970 年以来按年龄、性别、种族和西班牙裔分组，统一格式后公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是构建县级长时段人口分母的常用来源。研究常用它计算县级死亡率、犯罪率等人均指标和人口结构控制变量。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "What is Newsworthy? Theory and Evidence",
+        "title": "What is Newsworthy? Theory and Evidence",
+        "authors": [
+          "Luis Armona",
+          "Matthew Gentzkow",
+          "Emir Kamenica",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32512",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32512",
+        "url": "https://doi.org/10.3386/w32512",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.64",
+    "title": "USDA ERS 城市影响代码（Urban Influence Codes）",
+    "links": [
+      {
+        "label": "USDA ERS: Urban Influence Codes",
+        "url": "https://www.ers.usda.gov/data-products/urban-influence-codes/"
+      }
+    ],
+    "summary": "美国农业部经济研究局（ERS）基于大都市区规模和与大都市区的邻接关系，将美国各县分为 12 类的城乡分类代码，随每次普查更新（1993、2003、2013、2024），公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "UIC 比城乡连续体代码更细地区分非大都市县。研究常用它划分农村县、控制城市化程度和分析城乡差异。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
         "verified": true,
         "note": ""
       }
@@ -59563,6 +60675,23 @@
         "pages": "",
         "doi": "10.3386/w32398",
         "url": "https://doi.org/10.3386/w32398",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "title": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "authors": [
+          "Kathryn R. Johnson",
+          "Claudia Persico"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32517",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32517",
+        "url": "https://doi.org/10.3386/w32517",
         "verified": true,
         "note": ""
       }
@@ -68496,6 +69625,46 @@
     ]
   },
   {
+    "id": "2.6.80",
+    "title": "美国历史气候网络（U.S. Historical Climatology Network，USHCN）",
+    "links": [
+      {
+        "label": "NOAA NCEI: USHCN",
+        "url": "https://www.ncei.noaa.gov/products/land-based-station/us-historical-climatology-network"
+      }
+    ],
+    "summary": "NOAA 国家环境信息中心（NCEI）维护的美国本土 1200 多个长期气象站数据集，提供 19 世纪末以来经质量控制和均一化处理的逐日与月度气温和降水序列，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "USHCN 站点记录长且经过均一化，适合长期气候分析。研究常用它度量历史和县级降水与温度冲击。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "What is Newsworthy? Theory and Evidence",
+        "title": "What is Newsworthy? Theory and Evidence",
+        "authors": [
+          "Luis Armona",
+          "Matthew Gentzkow",
+          "Emir Kamenica",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32512",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32512",
+        "url": "https://doi.org/10.3386/w32512",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.7.1",
     "title": "USGS 美国大型光伏设施数据库（USPVDB）",
     "links": [
@@ -72393,6 +73562,24 @@
         "url": "https://doi.org/10.3386/w32405",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Risky Oil: It's All in the Tails",
+        "title": "Risky Oil: It's All in the Tails",
+        "authors": [
+          "Christiane Baumeister",
+          "Florian Huber",
+          "Massimiliano Marcellino"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32524",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32524",
+        "url": "https://doi.org/10.3386/w32524",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -72790,6 +73977,24 @@
         "pages": "391–426",
         "doi": "10.1257/aer.20160346",
         "url": "https://doi.org/10.1257/aer.20160346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Risky Oil: It's All in the Tails",
+        "title": "Risky Oil: It's All in the Tails",
+        "authors": [
+          "Christiane Baumeister",
+          "Florian Huber",
+          "Massimiliano Marcellino"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32524",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32524",
+        "url": "https://doi.org/10.3386/w32524",
         "verified": true,
         "note": ""
       }
@@ -76483,6 +77688,41 @@
         "url": "https://doi.org/10.3386/w32346",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "title": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "authors": [
+          "Robynn J.A. Cox",
+          "Jamein P. Cunningham",
+          "Alberto Ortega"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32502",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32502",
+        "url": "https://doi.org/10.3386/w32502",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "title": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "authors": [
+          "Kathryn R. Johnson",
+          "Claudia Persico"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32517",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32517",
+        "url": "https://doi.org/10.3386/w32517",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -77949,6 +79189,24 @@
         "url": "https://doi.org/10.3386/w32443",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -78763,6 +80021,27 @@
         "pages": "",
         "doi": "10.3386/w32460",
         "url": "https://doi.org/10.3386/w32460",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining Adverse Cholesterol Levels and Distinct Gender Patterns in an Indonesian Population Compared with the U.S.",
+        "title": "Explaining Adverse Cholesterol Levels and Distinct Gender Patterns in an Indonesian Population Compared with the U.S.",
+        "authors": [
+          "Ralph I. Lawton",
+          "Elizabeth Frankenberg",
+          "Teresa Seeman",
+          "Arun S. Karlamangla",
+          "Cecep Sumantri",
+          "Duncan Thomas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32489",
+        "url": "https://doi.org/10.3386/w32489",
         "verified": true,
         "note": ""
       }
@@ -82064,6 +83343,24 @@
         "url": "https://doi.org/10.3386/w32148",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Tobacco 21 Laws on Smoking and Vaping: Evidence from Panel Data and Biomarkers",
+        "title": "The Effects of Tobacco 21 Laws on Smoking and Vaping: Evidence from Panel Data and Biomarkers",
+        "authors": [
+          "Chad D. Cotti",
+          "Philip DeCicca",
+          "Erik T. Nesson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32520",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32520",
+        "url": "https://doi.org/10.3386/w32520",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82555,6 +83852,24 @@
         "url": "https://doi.org/10.3386/w32444",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Tobacco 21 Laws on Smoking and Vaping: Evidence from Panel Data and Biomarkers",
+        "title": "The Effects of Tobacco 21 Laws on Smoking and Vaping: Evidence from Panel Data and Biomarkers",
+        "authors": [
+          "Chad D. Cotti",
+          "Philip DeCicca",
+          "Erik T. Nesson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32520",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32520",
+        "url": "https://doi.org/10.3386/w32520",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82593,6 +83908,45 @@
         "pages": "",
         "doi": "10.3386/w32439",
         "url": "https://doi.org/10.3386/w32439",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.78",
+    "title": "Optum Clinformatics 商业保险理赔数据库（Clinformatics Data Mart）",
+    "links": [
+      {
+        "label": "Optum: Claims data",
+        "url": "https://www.optum.com/en/business/life-sciences/real-world-data/claims-data.html"
+      }
+    ],
+    "summary": "Optum 提供的去标识化美国商业保险和 Medicare Advantage 参保人纵向理赔数据库，覆盖数千万人的门诊、住院、处方药理赔、参保与实验室结果，付费授权。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是美国商业医保人群医疗使用研究的主要理赔数据之一。研究常用它分析处方药使用、医疗支出、价格和保险设计。",
+    "source": "付费商业（需授权）。",
+    "references": [
+      {
+        "raw": "School Closures and Parental Mental Health",
+        "title": "School Closures and Parental Mental Health",
+        "authors": [
+          "Sumedha Gupta",
+          "Dario Salcedo",
+          "Kosali I. Simon"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32516",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32516",
+        "url": "https://doi.org/10.3386/w32516",
         "verified": true,
         "note": ""
       }
@@ -82953,6 +84307,24 @@
         "pages": "",
         "doi": "10.3386/w32334",
         "url": "https://doi.org/10.3386/w32334",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School Closures and Parental Mental Health",
+        "title": "School Closures and Parental Mental Health",
+        "authors": [
+          "Sumedha Gupta",
+          "Dario Salcedo",
+          "Kosali I. Simon"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32516",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32516",
+        "url": "https://doi.org/10.3386/w32516",
         "verified": true,
         "note": ""
       }
@@ -84354,6 +85726,46 @@
         "pages": "3394–3426",
         "doi": "10.1093/restud/rdaf104",
         "url": "https://doi.org/10.1093/restud/rdaf104",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.9.19",
+    "title": "货运分析框架（Freight Analysis Framework，FAF）",
+    "links": [
+      {
+        "label": "FAF5",
+        "url": "https://faf.ornl.gov/faf5/"
+      }
+    ],
+    "summary": "美国交通部联邦公路管理局与交通统计局（BTS）基于商品流调查（CFS）等数据构建的全国货运流量数据库，报告 132 个 FAF 区域之间按商品类别和运输方式分列的货运吨数、价值和吨英里，含进出口和未来预测，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据",
+      "贸易数据"
+    ],
+    "introduction": "FAF 提供美国区域间货物流动的完整矩阵。研究常用它分析国内贸易流、运输方式选择、基础设施和港口冲击的传导。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Investment in Infrastructure and Trade: The Case of Ports",
+        "title": "Investment in Infrastructure and Trade: The Case of Ports",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32503",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32503",
+        "url": "https://doi.org/10.3386/w32503",
         "verified": true,
         "note": ""
       }
@@ -88307,6 +89719,23 @@
         "url": "https://doi.org/10.3386/w32314",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "authors": [
+          "Marcella Alsan",
+          "Yousra Neberai"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32484",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32484",
+        "url": "https://doi.org/10.3386/w32484",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -88430,6 +89859,24 @@
         "pages": "157–206",
         "doi": "10.1162/00335530360535171",
         "url": "https://doi.org/10.1162/00335530360535171",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Algorithmic Bias and Historical Injustice: Race and Digital Profiling",
+        "title": "Algorithmic Bias and Historical Injustice: Race and Digital Profiling",
+        "authors": [
+          "Abigail Matthew",
+          "Amalia R. Miller",
+          "Catherine Tucker"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32485",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32485",
+        "url": "https://doi.org/10.3386/w32485",
         "verified": true,
         "note": ""
       }
@@ -88717,6 +90164,25 @@
         "pages": "1085–1133",
         "doi": "10.1086/697202",
         "url": "https://doi.org/10.1086/697202",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What is Newsworthy? Theory and Evidence",
+        "title": "What is Newsworthy? Theory and Evidence",
+        "authors": [
+          "Luis Armona",
+          "Matthew Gentzkow",
+          "Emir Kamenica",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32512",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32512",
+        "url": "https://doi.org/10.3386/w32512",
         "verified": true,
         "note": ""
       }
@@ -90076,6 +91542,64 @@
         "pages": "",
         "doi": "10.3386/w32477",
         "url": "https://doi.org/10.3386/w32477",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "title": "The Impact of Affirmative Action Litigation on Police Killings of Civilians",
+        "authors": [
+          "Robynn J.A. Cox",
+          "Jamein P. Cunningham",
+          "Alberto Ortega"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32502",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32502",
+        "url": "https://doi.org/10.3386/w32502",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.62",
+    "title": "美国国防部伤亡分析系统（Defense Casualty Analysis System，DCAS）",
+    "links": [
+      {
+        "label": "DCAS",
+        "url": "https://dcas.dmdc.osd.mil/dcas/app/home"
+      }
+    ],
+    "summary": "美国国防人力数据中心（DMDC）维护的军人伤亡数据库，记录朝鲜战争、越南战争、伊拉克和阿富汗等冲突中阵亡和受伤军人的军种、军衔、籍贯（州、县）和伤亡日期，公开查询下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "DCAS 提供按籍贯定位的军人伤亡记录。研究常用它度量地方战争伤亡冲击，分析其对选举、舆论、征兵和社区的影响。",
+    "source": "公开查询。",
+    "references": [
+      {
+        "raw": "What is Newsworthy? Theory and Evidence",
+        "title": "What is Newsworthy? Theory and Evidence",
+        "authors": [
+          "Luis Armona",
+          "Matthew Gentzkow",
+          "Emir Kamenica",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32512",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32512",
+        "url": "https://doi.org/10.3386/w32512",
         "verified": true,
         "note": ""
       }
@@ -91894,6 +93418,42 @@
         "url": "https://doi.org/10.3386/w32447",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "title": "The Effect of Inequality on Redistribution: An Econometric Analysis",
+        "authors": [
+          "Michael J. Boskin",
+          "Kareem Elnahal",
+          "Adam Zhang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32492",
+        "url": "https://doi.org/10.3386/w32492",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92806,6 +94366,47 @@
     ]
   },
   {
+    "id": "2.11.24",
+    "title": "HUD 补贴住户概况（Picture of Subsidized Households）",
+    "links": [
+      {
+        "label": "HUD User: Picture of Subsidized Households",
+        "url": "https://www.huduser.gov/portal/datasets/assthsg.html"
+      }
+    ],
+    "summary": "美国住房和城市发展部（HUD）发布的补贴住房统计，按全国、州、县、普查区和项目报告公共住房、住房选择券、基于项目的第 8 条款等项目的单位数、入住率、住户收入、人口特征和等待时间，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "这是美国住房补贴项目分布的标准数据。研究常用它度量地区住房援助规模，分析补贴住房对住户和社区的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Inflation's Impact on American Households",
+        "title": "Inflation's Impact on American Households",
+        "authors": [
+          "David Altig",
+          "Alan J. Auerbach",
+          "Erin F. Eidschun",
+          "Laurence J. Kotlikoff",
+          "Victor Yifan Ye"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32482",
+        "url": "https://doi.org/10.3386/w32482",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.12.1",
     "title": "WRDS 沃顿研究数据服务（Wharton Research Data Services）",
     "links": [
@@ -93076,6 +94677,25 @@
         "pages": "1731–1762",
         "doi": "10.1111/1540-6261.00476",
         "url": "https://doi.org/10.1111/1540-6261.00476",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What is Newsworthy? Theory and Evidence",
+        "title": "What is Newsworthy? Theory and Evidence",
+        "authors": [
+          "Luis Armona",
+          "Matthew Gentzkow",
+          "Emir Kamenica",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32512",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32512",
+        "url": "https://doi.org/10.3386/w32512",
         "verified": true,
         "note": ""
       }
@@ -95158,6 +96778,131 @@
         "url": "https://doi.org/10.3386/w32449",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fiscal Consequences of Central Bank Losses",
+        "title": "Fiscal Consequences of Central Bank Losses",
+        "authors": [
+          "Stephen G. Cecchetti",
+          "Jens Hilscher"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32478",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32478",
+        "url": "https://doi.org/10.3386/w32478",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Returns Heterogeneity and Consumption Inequality Over the Life Cycle",
+        "title": "Returns Heterogeneity and Consumption Inequality Over the Life Cycle",
+        "authors": [
+          "Claudio Daminato",
+          "Luigi Pistaferri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32490",
+        "url": "https://doi.org/10.3386/w32490",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Discount Factors and Monetary Policy: Evidence from Dual-Listed Stocks",
+        "title": "Discount Factors and Monetary Policy: Evidence from Dual-Listed Stocks",
+        "authors": [
+          "Quentin Vandeweyer",
+          "Minghao Yang",
+          "Constantine Yannelis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32499",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32499",
+        "url": "https://doi.org/10.3386/w32499",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Procyclical Stocks Earn Higher Returns",
+        "title": "Procyclical Stocks Earn Higher Returns",
+        "authors": [
+          "William N. Goetzmann",
+          "Akiko Watanabe",
+          "Masahiro Watanabe"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32509",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32509",
+        "url": "https://doi.org/10.3386/w32509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "title": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "authors": [
+          "Paul Beaudry",
+          "Paolo Cavallino",
+          "Tim Willems"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32511",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32511",
+        "url": "https://doi.org/10.3386/w32511",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What is Newsworthy? Theory and Evidence",
+        "title": "What is Newsworthy? Theory and Evidence",
+        "authors": [
+          "Luis Armona",
+          "Matthew Gentzkow",
+          "Emir Kamenica",
+          "Jesse M. Shapiro"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32512",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32512",
+        "url": "https://doi.org/10.3386/w32512",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Risky Oil: It's All in the Tails",
+        "title": "Risky Oil: It's All in the Tails",
+        "authors": [
+          "Christiane Baumeister",
+          "Florian Huber",
+          "Massimiliano Marcellino"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32524",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32524",
+        "url": "https://doi.org/10.3386/w32524",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -95281,6 +97026,24 @@
         "pages": "",
         "doi": "10.3386/w32301",
         "url": "https://doi.org/10.3386/w32301",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Procyclical Stocks Earn Higher Returns",
+        "title": "Procyclical Stocks Earn Higher Returns",
+        "authors": [
+          "William N. Goetzmann",
+          "Akiko Watanabe",
+          "Masahiro Watanabe"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32509",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32509",
+        "url": "https://doi.org/10.3386/w32509",
         "verified": true,
         "note": ""
       }
@@ -97888,6 +99651,62 @@
         "url": "https://doi.org/10.3386/w32449",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Quantile Model of Firm Investment",
+        "title": "A Quantile Model of Firm Investment",
+        "authors": [
+          "Heitor Almeida",
+          "Murillo Campello",
+          "Luciano I. de Castro",
+          "Antonio F. Galvao Jr"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32498",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32498",
+        "url": "https://doi.org/10.3386/w32498",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Procyclical Stocks Earn Higher Returns",
+        "title": "Procyclical Stocks Earn Higher Returns",
+        "authors": [
+          "William N. Goetzmann",
+          "Akiko Watanabe",
+          "Masahiro Watanabe"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32509",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32509",
+        "url": "https://doi.org/10.3386/w32509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reviving Micro Real Rigidities: The Importance of Demand Shocks",
+        "title": "Reviving Micro Real Rigidities: The Importance of Demand Shocks",
+        "authors": [
+          "S. Borağan Aruoba",
+          "Eugene Oue",
+          "Felipe Saffie",
+          "Jonathan Willis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32518",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32518",
+        "url": "https://doi.org/10.3386/w32518",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99052,6 +100871,59 @@
         "pages": "",
         "doi": "10.3386/w32476",
         "url": "https://doi.org/10.3386/w32476",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "There is No Excess Volatility Puzzle",
+        "title": "There is No Excess Volatility Puzzle",
+        "authors": [
+          "Andrew Atkeson",
+          "Jonathan Heathcote",
+          "Fabrizio Perri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32481",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32481",
+        "url": "https://doi.org/10.3386/w32481",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Procyclical Stocks Earn Higher Returns",
+        "title": "Procyclical Stocks Earn Higher Returns",
+        "authors": [
+          "William N. Goetzmann",
+          "Akiko Watanabe",
+          "Masahiro Watanabe"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32509",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32509",
+        "url": "https://doi.org/10.3386/w32509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Law of Small Numbers in Financial Markets: Theory and Evidence",
+        "title": "The Law of Small Numbers in Financial Markets: Theory and Evidence",
+        "authors": [
+          "Lawrence J. Jin",
+          "Cameron Peng"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32519",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32519",
+        "url": "https://doi.org/10.3386/w32519",
         "verified": true,
         "note": ""
       }
@@ -100432,6 +102304,24 @@
         "url": "https://doi.org/10.3386/w32472",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Procyclical Stocks Earn Higher Returns",
+        "title": "Procyclical Stocks Earn Higher Returns",
+        "authors": [
+          "William N. Goetzmann",
+          "Akiko Watanabe",
+          "Masahiro Watanabe"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32509",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32509",
+        "url": "https://doi.org/10.3386/w32509",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -100802,6 +102692,24 @@
         "url": "https://doi.org/10.3386/w32449",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -100910,6 +102818,24 @@
         "pages": "",
         "doi": "10.3386/w32256",
         "url": "https://doi.org/10.3386/w32256",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
         "verified": true,
         "note": ""
       }
@@ -101126,6 +103052,24 @@
         "url": "https://doi.org/10.3386/w32256",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -101180,6 +103124,24 @@
         "pages": "22–43",
         "doi": "10.1016/j.jfineco.2021.12.011",
         "url": "https://doi.org/10.1016/j.jfineco.2021.12.011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "title": "Is the Decline in the Number of Community Banks Detrimental to Community Economic Development?",
+        "authors": [
+          "Bernadette Minton",
+          "Alvaro G. Taboada",
+          "Rohan Williamson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32521",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32521",
+        "url": "https://doi.org/10.3386/w32521",
         "verified": true,
         "note": ""
       }
@@ -102490,6 +104452,24 @@
         "url": "https://doi.org/10.3386/w32472",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "title": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "authors": [
+          "Paul Beaudry",
+          "Paolo Cavallino",
+          "Tim Willems"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32511",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32511",
+        "url": "https://doi.org/10.3386/w32511",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -102815,6 +104795,24 @@
         "pages": "",
         "doi": "10.3386/w32198",
         "url": "https://doi.org/10.3386/w32198",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "title": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "authors": [
+          "Paul Beaudry",
+          "Paolo Cavallino",
+          "Tim Willems"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32511",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32511",
+        "url": "https://doi.org/10.3386/w32511",
         "verified": true,
         "note": ""
       }
@@ -103475,6 +105473,24 @@
         "url": "https://doi.org/10.3982/ECTA19417",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "title": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "authors": [
+          "Paul Beaudry",
+          "Paolo Cavallino",
+          "Tim Willems"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32511",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32511",
+        "url": "https://doi.org/10.3386/w32511",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104092,6 +106108,23 @@
         "url": "https://doi.org/10.3386/w32321",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fiscal Consequences of Central Bank Losses",
+        "title": "Fiscal Consequences of Central Bank Losses",
+        "authors": [
+          "Stephen G. Cecchetti",
+          "Jens Hilscher"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32478",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32478",
+        "url": "https://doi.org/10.3386/w32478",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104640,6 +106673,84 @@
     ]
   },
   {
+    "id": "2.12.77",
+    "title": "Lettau-Ludvigson 消费-财富比（CAY）",
+    "links": [
+      {
+        "label": "Martin Lettau: Data",
+        "url": "https://sites.google.com/view/martinlettau/data"
+      }
+    ],
+    "summary": "Lettau 与 Ludvigson（2001）基于消费、资产财富和劳动收入的协整关系构建的消费-财富比（cay）季度序列，作者网站公开并持续更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "cay 是预测美国股票收益最常用的宏观状态变量之一。研究常用它作为时变风险溢价的代理，检验资产定价模型和收益可预测性。",
+    "source": "公开下载（作者网站）。",
+    "references": [
+      {
+        "raw": "Procyclical Stocks Earn Higher Returns",
+        "title": "Procyclical Stocks Earn Higher Returns",
+        "authors": [
+          "William N. Goetzmann",
+          "Akiko Watanabe",
+          "Masahiro Watanabe"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32509",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32509",
+        "url": "https://doi.org/10.3386/w32509",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.78",
+    "title": "旧金山联储每日新闻情绪指数（Daily News Sentiment Index）",
+    "links": [
+      {
+        "label": "FRBSF: Daily News Sentiment Index",
+        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/daily-news-sentiment-index/"
+      }
+    ],
+    "summary": "Shapiro、Sudhof 与 Wilson 用词典与机器学习方法对 24 家主要美国报纸经济类文章打分构建的每日经济情绪指数，1980 年以来由旧金山联储公开发布并持续更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是高频度量经济情绪的常用公开序列。研究常用它分析情绪冲击对消费、经济活动和资产价格的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "title": "Monetary Policy Along the Yield Curve: Why Can Central Banks Affect Long-Term Real Rates?",
+        "authors": [
+          "Paul Beaudry",
+          "Paolo Cavallino",
+          "Tim Willems"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32511",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32511",
+        "url": "https://doi.org/10.3386/w32511",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.13.1",
     "title": "Nielsen 零售扫描数据",
     "links": [
@@ -105140,6 +107251,24 @@
         "pages": "",
         "doi": "10.3386/w32435",
         "url": "https://doi.org/10.3386/w32435",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School Closures and Parental Mental Health",
+        "title": "School Closures and Parental Mental Health",
+        "authors": [
+          "Sumedha Gupta",
+          "Dario Salcedo",
+          "Kosali I. Simon"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32516",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32516",
+        "url": "https://doi.org/10.3386/w32516",
         "verified": true,
         "note": ""
       }
@@ -107491,6 +109620,23 @@
         "url": "https://doi.org/10.3386/w32257",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "title": "Broadband Internet Access, Economic Growth, and Wellbeing",
+        "authors": [
+          "Kathryn R. Johnson",
+          "Claudia Persico"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32517",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32517",
+        "url": "https://doi.org/10.3386/w32517",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107746,6 +109892,47 @@
         "pages": "",
         "doi": "10.3386/w32466",
         "url": "https://doi.org/10.3386/w32466",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.29",
+    "title": "Facteus 银行卡交易数据",
+    "links": [
+      {
+        "label": "Facteus",
+        "url": "https://www.facteus.com/"
+      }
+    ],
+    "summary": "Facteus 汇集的去标识化美国借记卡和预付卡交易数据，覆盖数千万张卡、按日记录交易金额、商户类别和地区，偏重中低收入持卡人，付费商业。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "金融数据"
+    ],
+    "introduction": "它可高频观察中低收入家庭的支出。研究常用它分析刺激支票、福利发放和冲击对家庭消费的即时影响。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Unemployment Insurance Fraud in the Debit Card Market",
+        "title": "Unemployment Insurance Fraud in the Debit Card Market",
+        "authors": [
+          "Umang Khetan",
+          "Jetson Leder-Luis",
+          "Jialan Wang",
+          "Yunrong Zhou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32527",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32527",
+        "url": "https://doi.org/10.3386/w32527",
         "verified": true,
         "note": ""
       }
@@ -109380,6 +111567,24 @@
         "url": "https://doi.org/10.3386/w32466",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110078,6 +112283,24 @@
         "url": "https://doi.org/10.3386/w32469",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110474,6 +112697,24 @@
         "pages": "",
         "doi": "10.3386/w32386",
         "url": "https://doi.org/10.3386/w32386",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School Closures and Parental Mental Health",
+        "title": "School Closures and Parental Mental Health",
+        "authors": [
+          "Sumedha Gupta",
+          "Dario Salcedo",
+          "Kosali I. Simon"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32516",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32516",
+        "url": "https://doi.org/10.3386/w32516",
         "verified": true,
         "note": ""
       }
@@ -113807,6 +116048,45 @@
     ]
   },
   {
+    "id": "2.16.50",
+    "title": "COVID-19 学校数据中心（COVID-19 School Data Hub）",
+    "links": [
+      {
+        "label": "COVID-19 School Data Hub",
+        "url": "https://www.covidschooldatahub.com/data-resources"
+      }
+    ],
+    "summary": "Emily Oster 等建立的数据平台，收集美国各州和学区在 2020–2021 学年的教学模式（线下、混合、远程）周度数据以及学校病例，按学区公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "这是度量疫情期间美国学校停课和远程教学的主要数据。研究常用它分析学校关闭对学业成绩、家长就业和疫情传播的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "School Closures and Parental Mental Health",
+        "title": "School Closures and Parental Mental Health",
+        "authors": [
+          "Sumedha Gupta",
+          "Dario Salcedo",
+          "Kosali I. Simon"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32516",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32516",
+        "url": "https://doi.org/10.3386/w32516",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -115166,6 +117446,25 @@
         "url": "https://doi.org/10.3386/w32325",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "An Empirical Framework For Matching With Imperfect Competition",
+        "title": "An Empirical Framework For Matching With Imperfect Competition",
+        "authors": [
+          "Mons Chan",
+          "Kory Kroft",
+          "Elena Mattana",
+          "Ismael Mourifié"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32493",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32493",
+        "url": "https://doi.org/10.3386/w32493",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -116170,6 +118469,25 @@
         "pages": "183–219",
         "doi": "10.1257/aer.20230056",
         "url": "https://doi.org/10.1257/aer.20230056",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust, Intangible Assets, and Productivity",
+        "title": "Trust, Intangible Assets, and Productivity",
+        "authors": [
+          "Gilbert Cette",
+          "Jimmy Lopez",
+          "Jacques Mairesse",
+          "Giuseppe Nicoletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32513",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32513",
+        "url": "https://doi.org/10.3386/w32513",
         "verified": true,
         "note": ""
       }
@@ -117926,6 +120244,27 @@
         "url": "https://doi.org/10.3386/w32006",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Household Inflation Expectations: An Overview of Recent Insights for Monetary Policy",
+        "title": "Household Inflation Expectations: An Overview of Recent Insights for Monetary Policy",
+        "authors": [
+          "Francesco D’Acunto",
+          "Evangelos Charalambakis",
+          "Dimitris Georgarakos",
+          "Geoff Kenny",
+          "Justus Meyer",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32488",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32488",
+        "url": "https://doi.org/10.3386/w32488",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -118821,6 +121160,47 @@
         "pages": "",
         "doi": "10.3386/w31996",
         "url": "https://doi.org/10.3386/w31996",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Household Inflation Expectations: An Overview of Recent Insights for Monetary Policy",
+        "title": "Household Inflation Expectations: An Overview of Recent Insights for Monetary Policy",
+        "authors": [
+          "Francesco D’Acunto",
+          "Evangelos Charalambakis",
+          "Dimitris Georgarakos",
+          "Geoff Kenny",
+          "Justus Meyer",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32488",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32488",
+        "url": "https://doi.org/10.3386/w32488",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "SAFE to Update Inflation Expectations? New Survey Evidence on Euro Area Firms",
+        "title": "SAFE to Update Inflation Expectations? New Survey Evidence on Euro Area Firms",
+        "authors": [
+          "Ursel Baumann",
+          "Annalisa Ferrando",
+          "Dimitris Georgarakos",
+          "Yuriy Gorodnichenko",
+          "Timo Reinelt"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32504",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32504",
+        "url": "https://doi.org/10.3386/w32504",
         "verified": true,
         "note": ""
       }
@@ -119842,6 +122222,26 @@
         "pages": "",
         "doi": "10.3386/w32402",
         "url": "https://doi.org/10.3386/w32402",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "SAFE to Update Inflation Expectations? New Survey Evidence on Euro Area Firms",
+        "title": "SAFE to Update Inflation Expectations? New Survey Evidence on Euro Area Firms",
+        "authors": [
+          "Ursel Baumann",
+          "Annalisa Ferrando",
+          "Dimitris Georgarakos",
+          "Yuriy Gorodnichenko",
+          "Timo Reinelt"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32504",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32504",
+        "url": "https://doi.org/10.3386/w32504",
         "verified": true,
         "note": ""
       }
@@ -121734,6 +124134,25 @@
         "pages": "",
         "doi": "10.3386/w32419",
         "url": "https://doi.org/10.3386/w32419",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Further Evidence on the Global Decline in the Mental Health of the Young",
+        "title": "Further Evidence on the Global Decline in the Mental Health of the Young",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Anthony Lepinteur",
+          "Alan Piper"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32500",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32500",
+        "url": "https://doi.org/10.3386/w32500",
         "verified": true,
         "note": ""
       }
@@ -125326,6 +127745,47 @@
     ]
   },
   {
+    "id": "3.8.12",
+    "title": "欧洲健康访谈调查（European Health Interview Survey，EHIS）",
+    "links": [
+      {
+        "label": "Eurostat: EHIS microdata",
+        "url": "https://ec.europa.eu/eurostat/web/microdata/european-health-interview-survey"
+      }
+    ],
+    "summary": "欧盟统计局（Eurostat）协调各成员国每五至六年开展的统一住户健康调查，记录健康状况、慢性病、残疾、医疗服务使用、健康行为（吸烟、饮酒、体力活动）和社会经济特征，汇总统计公开，微观数据经 Eurostat 申请获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "EHIS 提供欧盟各国可比的个体健康数据。研究常用它比较各国健康不平等、医疗服务可及性和健康行为。",
+    "source": "公开汇总；微观数据需向 Eurostat 申请。",
+    "references": [
+      {
+        "raw": "Further Evidence on the Global Decline in the Mental Health of the Young",
+        "title": "Further Evidence on the Global Decline in the Mental Health of the Young",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Anthony Lepinteur",
+          "Alan Piper"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32500",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32500",
+        "url": "https://doi.org/10.3386/w32500",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.9.1",
     "title": "法国全国交通与出行调查（ENTD / EMP）",
     "links": [
@@ -127103,6 +129563,69 @@
     ]
   },
   {
+    "id": "3.12.8",
+    "title": "欧洲央行专业预测者调查（ECB Survey of Professional Forecasters）",
+    "links": [
+      {
+        "label": "ECB SPF",
+        "url": "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/html/index.en.html"
+      }
+    ],
+    "summary": "欧洲央行自 1999 年起每季度对欧元区金融与非金融机构专业预测者开展的调查，收集对欧元区通胀、核心通胀、GDP 增长和失业率在多个期限上的点预测与概率分布，个体匿名微观数据公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是欧元区专业通胀预期的主要来源。研究常用它分析通胀预期锚定、预测分歧与不确定性以及货币政策沟通。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Household Inflation Expectations: An Overview of Recent Insights for Monetary Policy",
+        "title": "Household Inflation Expectations: An Overview of Recent Insights for Monetary Policy",
+        "authors": [
+          "Francesco D’Acunto",
+          "Evangelos Charalambakis",
+          "Dimitris Georgarakos",
+          "Geoff Kenny",
+          "Justus Meyer",
+          "Michael Weber"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32488",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32488",
+        "url": "https://doi.org/10.3386/w32488",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "SAFE to Update Inflation Expectations? New Survey Evidence on Euro Area Firms",
+        "title": "SAFE to Update Inflation Expectations? New Survey Evidence on Euro Area Firms",
+        "authors": [
+          "Ursel Baumann",
+          "Annalisa Ferrando",
+          "Dimitris Georgarakos",
+          "Yuriy Gorodnichenko",
+          "Timo Reinelt"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32504",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32504",
+        "url": "https://doi.org/10.3386/w32504",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.13.1",
     "title": "Kantar 英国家庭快消品购买面板（Kantar Worldpanel / FMCG Purchase Panel）",
     "links": [
@@ -127305,6 +129828,48 @@
         "pages": "183–219",
         "doi": "10.1257/aer.20230056",
         "url": "https://doi.org/10.1257/aer.20230056",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.13.6",
+    "title": "欧洲央行企业融资可得性调查（Survey on the Access to Finance of Enterprises，SAFE）",
+    "links": [
+      {
+        "label": "ECB SAFE",
+        "url": "https://www.ecb.europa.eu/stats/ecb_surveys/safe/html/index.en.html"
+      }
+    ],
+    "summary": "欧洲央行与欧盟委员会合作开展的欧元区中小企业和大企业调查，2009 年起每半年（现为季度），记录企业融资需求、银行贷款可得性与条件、经营状况，近年增加企业通胀与销售预期模块，汇总统计公开，微观数据经申请获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "商业数据",
+      "微观调查数据"
+    ],
+    "introduction": "SAFE 是欧元区企业融资约束的主要调查数据。研究常用它分析中小企业信贷约束、货币政策传导和企业预期。",
+    "source": "公开汇总；微观数据需向欧央行申请。",
+    "references": [
+      {
+        "raw": "SAFE to Update Inflation Expectations? New Survey Evidence on Euro Area Firms",
+        "title": "SAFE to Update Inflation Expectations? New Survey Evidence on Euro Area Firms",
+        "authors": [
+          "Ursel Baumann",
+          "Annalisa Ferrando",
+          "Dimitris Georgarakos",
+          "Yuriy Gorodnichenko",
+          "Timo Reinelt"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32504",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32504",
+        "url": "https://doi.org/10.3386/w32504",
         "verified": true,
         "note": ""
       }
@@ -128429,6 +130994,26 @@
         "pages": "",
         "doi": "10.3386/w32239",
         "url": "https://doi.org/10.3386/w32239",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s Pink Slip Program",
+        "title": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s Pink Slip Program",
+        "authors": [
+          "Yutong Chen",
+          "Kerem Coşar",
+          "Devaki Ghose",
+          "Shirish Mahendru",
+          "Sheetal Sekhri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32508",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32508",
+        "url": "https://doi.org/10.3386/w32508",
         "verified": true,
         "note": ""
       }
@@ -129842,6 +132427,27 @@
         "url": "https://doi.org/10.1086/685299",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Explaining Adverse Cholesterol Levels and Distinct Gender Patterns in an Indonesian Population Compared with the U.S.",
+        "title": "Explaining Adverse Cholesterol Levels and Distinct Gender Patterns in an Indonesian Population Compared with the U.S.",
+        "authors": [
+          "Ralph I. Lawton",
+          "Elizabeth Frankenberg",
+          "Teresa Seeman",
+          "Arun S. Karlamangla",
+          "Cecep Sumantri",
+          "Duncan Thomas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32489",
+        "url": "https://doi.org/10.3386/w32489",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -130283,6 +132889,27 @@
         "pages": "",
         "doi": "10.3386/w32362",
         "url": "https://doi.org/10.3386/w32362",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Explaining Adverse Cholesterol Levels and Distinct Gender Patterns in an Indonesian Population Compared with the U.S.",
+        "title": "Explaining Adverse Cholesterol Levels and Distinct Gender Patterns in an Indonesian Population Compared with the U.S.",
+        "authors": [
+          "Ralph I. Lawton",
+          "Elizabeth Frankenberg",
+          "Teresa Seeman",
+          "Arun S. Karlamangla",
+          "Cecep Sumantri",
+          "Duncan Thomas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32489",
+        "url": "https://doi.org/10.3386/w32489",
         "verified": true,
         "note": ""
       }
@@ -130806,6 +133433,26 @@
         "pages": "",
         "doi": "10.3386/w32171",
         "url": "https://doi.org/10.3386/w32171",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s Pink Slip Program",
+        "title": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s Pink Slip Program",
+        "authors": [
+          "Yutong Chen",
+          "Kerem Coşar",
+          "Devaki Ghose",
+          "Shirish Mahendru",
+          "Sheetal Sekhri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32508",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32508",
+        "url": "https://doi.org/10.3386/w32508",
         "verified": true,
         "note": ""
       }
@@ -136463,6 +139110,24 @@
         "url": "https://doi.org/10.3386/w32126",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -136844,6 +139509,24 @@
         "pages": "",
         "doi": "10.3386/w32203",
         "url": "https://doi.org/10.3386/w32203",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
         "verified": true,
         "note": ""
       }
@@ -137327,6 +140010,24 @@
         "url": "https://doi.org/10.3386/w32440",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -137726,6 +140427,24 @@
         "pages": "",
         "doi": "10.3386/w32175",
         "url": "https://doi.org/10.3386/w32175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Far Can Inclusion Go? The Long-term Impacts of Preferential College Admissions",
+        "title": "How Far Can Inclusion Go? The Long-term Impacts of Preferential College Admissions",
+        "authors": [
+          "Michela Carlana",
+          "Enrico Miglino",
+          "Michela M. Tincani"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32525",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32525",
+        "url": "https://doi.org/10.3386/w32525",
         "verified": true,
         "note": ""
       }
@@ -138332,6 +141051,45 @@
         "pages": "",
         "doi": "10.3386/w32413",
         "url": "https://doi.org/10.3386/w32413",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.4.8",
+    "title": "拉美经委会统计数据库（CEPALSTAT）",
+    "links": [
+      {
+        "label": "CEPALSTAT",
+        "url": "https://statistics.cepal.org/portal/cepalstat/"
+      }
+    ],
+    "summary": "联合国拉丁美洲和加勒比经济委员会（ECLAC/CEPAL）的统计门户，提供拉美与加勒比各国人口、国民账户、劳动、工资、贫困与不平等、社会支出、贸易和环境等标准化指标，公开下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "CEPALSTAT 是拉美跨国比较统计的主要官方来源。研究常用它获取拉美各国工资、贫困、不平等和宏观序列。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
         "verified": true,
         "note": ""
       }
@@ -141270,6 +144028,24 @@
         "pages": "",
         "doi": "10.3386/w32434",
         "url": "https://doi.org/10.3386/w32434",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Far Can Inclusion Go? The Long-term Impacts of Preferential College Admissions",
+        "title": "How Far Can Inclusion Go? The Long-term Impacts of Preferential College Admissions",
+        "authors": [
+          "Michela Carlana",
+          "Enrico Miglino",
+          "Michela M. Tincani"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32525",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32525",
+        "url": "https://doi.org/10.3386/w32525",
         "verified": true,
         "note": ""
       }
@@ -145617,6 +148393,60 @@
         "url": "https://doi.org/10.3386/w32477",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "authors": [
+          "Marcella Alsan",
+          "Yousra Neberai"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32484",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32484",
+        "url": "https://doi.org/10.3386/w32484",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School Equalization in the Shadow of Jim Crow: Causes and Consequences of Resource Disparity in Mississippi circa 1940",
+        "title": "School Equalization in the Shadow of Jim Crow: Causes and Consequences of Resource Disparity in Mississippi circa 1940",
+        "authors": [
+          "David Card",
+          "Leah Clark",
+          "Ciprian Domnisoru",
+          "Lowell Taylor"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32496",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32496",
+        "url": "https://doi.org/10.3386/w32496",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -147583,6 +150413,25 @@
         "url": "https://doi.org/10.3386/w32374",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Further Evidence on the Global Decline in the Mental Health of the Young",
+        "title": "Further Evidence on the Global Decline in the Mental Health of the Young",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Anthony Lepinteur",
+          "Alan Piper"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32500",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32500",
+        "url": "https://doi.org/10.3386/w32500",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -147729,6 +150578,25 @@
         "pages": "",
         "doi": "10.3386/w32204",
         "url": "https://doi.org/10.3386/w32204",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Further Evidence on the Global Decline in the Mental Health of the Young",
+        "title": "Further Evidence on the Global Decline in the Mental Health of the Young",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Anthony Lepinteur",
+          "Alan Piper"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32500",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32500",
+        "url": "https://doi.org/10.3386/w32500",
         "verified": true,
         "note": ""
       }
@@ -148288,6 +151156,25 @@
         "pages": "277–299",
         "doi": "10.1111/jeea.12076",
         "url": "https://doi.org/10.1111/jeea.12076",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust, Intangible Assets, and Productivity",
+        "title": "Trust, Intangible Assets, and Productivity",
+        "authors": [
+          "Gilbert Cette",
+          "Jimmy Lopez",
+          "Jacques Mairesse",
+          "Giuseppe Nicoletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32513",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32513",
+        "url": "https://doi.org/10.3386/w32513",
         "verified": true,
         "note": ""
       }
@@ -151838,6 +154725,76 @@
         "url": "https://doi.org/10.3386/w32468",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Business, Liquidity, and Information Cycles",
+        "title": "Business, Liquidity, and Information Cycles",
+        "authors": [
+          "Gorkem Bostanci",
+          "Guillermo Ordoñez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32501",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32501",
+        "url": "https://doi.org/10.3386/w32501",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy of Industrial Policy",
+        "title": "The Political Economy of Industrial Policy",
+        "authors": [
+          "Réka Juhász",
+          "Nathan J. Lane"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32507",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32507",
+        "url": "https://doi.org/10.3386/w32507",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Exchange Rate as an Industrial Policy",
+        "title": "The Exchange Rate as an Industrial Policy",
+        "authors": [
+          "Pablo Ottonello",
+          "Diego J. Perez",
+          "William Witheridge"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32522",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32522",
+        "url": "https://doi.org/10.3386/w32522",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -153531,6 +156488,24 @@
         "url": "https://doi.org/10.3386/w32450",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -153800,6 +156775,24 @@
         "pages": "",
         "doi": "10.3386/w32382",
         "url": "https://doi.org/10.3386/w32382",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
         "verified": true,
         "note": ""
       }
@@ -155800,6 +158793,24 @@
         "url": "https://doi.org/10.3386/w32465",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -156859,6 +159870,23 @@
         "url": "https://doi.org/10.3386/w32465",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fiscal Consequences of Central Bank Losses",
+        "title": "Fiscal Consequences of Central Bank Losses",
+        "authors": [
+          "Stephen G. Cecchetti",
+          "Jens Hilscher"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32478",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32478",
+        "url": "https://doi.org/10.3386/w32478",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -157715,6 +160743,43 @@
         "pages": "",
         "doi": "10.3386/w32044",
         "url": "https://doi.org/10.3386/w32044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust, Intangible Assets, and Productivity",
+        "title": "Trust, Intangible Assets, and Productivity",
+        "authors": [
+          "Gilbert Cette",
+          "Jimmy Lopez",
+          "Jacques Mairesse",
+          "Giuseppe Nicoletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32513",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32513",
+        "url": "https://doi.org/10.3386/w32513",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
         "verified": true,
         "note": ""
       }
@@ -158992,6 +162057,24 @@
         "url": "https://doi.org/10.1257/aeri.20190536",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -160077,6 +163160,24 @@
         "pages": "",
         "doi": "10.3386/w32203",
         "url": "https://doi.org/10.3386/w32203",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
         "verified": true,
         "note": ""
       }
@@ -161524,6 +164625,24 @@
         "pages": "1–33",
         "doi": "10.3982/ECTA20608",
         "url": "https://doi.org/10.3982/ECTA20608",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment in Infrastructure and Trade: The Case of Ports",
+        "title": "Investment in Infrastructure and Trade: The Case of Ports",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32503",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32503",
+        "url": "https://doi.org/10.3386/w32503",
         "verified": true,
         "note": ""
       }
@@ -163081,6 +166200,24 @@
         "pages": "344–374",
         "doi": "10.1257/pol.20160395",
         "url": "https://doi.org/10.1257/pol.20160395",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment in Infrastructure and Trade: The Case of Ports",
+        "title": "Investment in Infrastructure and Trade: The Case of Ports",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32503",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32503",
+        "url": "https://doi.org/10.3386/w32503",
         "verified": true,
         "note": ""
       }
@@ -170469,6 +173606,24 @@
         "url": "https://doi.org/10.1257/aer.20151569",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Risky Oil: It's All in the Tails",
+        "title": "Risky Oil: It's All in the Tails",
+        "authors": [
+          "Christiane Baumeister",
+          "Florian Huber",
+          "Massimiliano Marcellino"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32524",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32524",
+        "url": "https://doi.org/10.3386/w32524",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -171343,6 +174498,24 @@
         "pages": "",
         "doi": "10.3386/w32178",
         "url": "https://doi.org/10.3386/w32178",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Risky Oil: It's All in the Tails",
+        "title": "Risky Oil: It's All in the Tails",
+        "authors": [
+          "Christiane Baumeister",
+          "Florian Huber",
+          "Massimiliano Marcellino"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32524",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32524",
+        "url": "https://doi.org/10.3386/w32524",
         "verified": true,
         "note": ""
       }
@@ -172357,6 +175530,47 @@
     ]
   },
   {
+    "id": "7.8.17",
+    "title": "Google COVID-19 开放数据集（COVID-19 Open-Data）",
+    "links": [
+      {
+        "label": "GitHub: covid-19-open-data",
+        "url": "https://github.com/GoogleCloudPlatform/covid-19-open-data"
+      }
+    ],
+    "summary": "Google 整合各国官方来源发布的全球新冠数据库，按国家和次国家地区报告每日病例、死亡、检测、住院、疫苗接种、政府应对措施、移动性、天气和人口特征，2020–2022 年持续更新，GitHub 公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "它把全球疫情和相关协变量统一到同一地区编码下。研究常用它做跨国和次国家层面的疫情、疫苗与防控政策分析。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s Pink Slip Program",
+        "title": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s Pink Slip Program",
+        "authors": [
+          "Yutong Chen",
+          "Kerem Coşar",
+          "Devaki Ghose",
+          "Shirish Mahendru",
+          "Sheetal Sekhri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32508",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32508",
+        "url": "https://doi.org/10.3386/w32508",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.9.1",
     "title": "谷歌新冠社区移动报告（Google COVID-19 Community Mobility Reports）",
     "links": [
@@ -172680,6 +175894,46 @@
         "pages": "",
         "doi": "10.3386/w32185",
         "url": "https://doi.org/10.3386/w32185",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.9.6",
+    "title": "AXS Marine 船舶与港口靠泊数据",
+    "links": [
+      {
+        "label": "AXS Marine",
+        "url": "https://www.axsmarine.com"
+      }
+    ],
+    "summary": "AXS Marine 基于 AIS 船舶自动识别信号提供的全球航运数据平台，记录干散货、油轮和集装箱船的港口靠泊、航程、在港时间、货量估计和运费，付费商业。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据",
+      "贸易数据"
+    ],
+    "introduction": "它提供船舶层面的全球港口活动数据。研究常用它度量港口拥堵与效率、航运网络和贸易冲击。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Investment in Infrastructure and Trade: The Case of Ports",
+        "title": "Investment in Infrastructure and Trade: The Case of Ports",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32503",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32503",
+        "url": "https://doi.org/10.3386/w32503",
         "verified": true,
         "note": ""
       }
@@ -174481,6 +177735,23 @@
         "url": "https://doi.org/10.3386/w32465",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Political Economy of Industrial Policy",
+        "title": "The Political Economy of Industrial Policy",
+        "authors": [
+          "Réka Juhász",
+          "Nathan J. Lane"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32507",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32507",
+        "url": "https://doi.org/10.3386/w32507",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -175208,6 +178479,25 @@
         "pages": "1324–1336",
         "doi": "10.1162/rest_a_00304",
         "url": "https://doi.org/10.1162/rest_a_00304",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust, Intangible Assets, and Productivity",
+        "title": "Trust, Intangible Assets, and Productivity",
+        "authors": [
+          "Gilbert Cette",
+          "Jimmy Lopez",
+          "Jacques Mairesse",
+          "Giuseppe Nicoletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32513",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32513",
+        "url": "https://doi.org/10.3386/w32513",
         "verified": true,
         "note": ""
       }
@@ -176652,6 +179942,26 @@
         "pages": "",
         "doi": "10.3386/w32374",
         "url": "https://doi.org/10.3386/w32374",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s Pink Slip Program",
+        "title": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s Pink Slip Program",
+        "authors": [
+          "Yutong Chen",
+          "Kerem Coşar",
+          "Devaki Ghose",
+          "Shirish Mahendru",
+          "Sheetal Sekhri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32508",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32508",
+        "url": "https://doi.org/10.3386/w32508",
         "verified": true,
         "note": ""
       }
@@ -179173,6 +182483,23 @@
         "url": "https://doi.org/10.3386/w32225",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Business, Liquidity, and Information Cycles",
+        "title": "Business, Liquidity, and Information Cycles",
+        "authors": [
+          "Gorkem Bostanci",
+          "Guillermo Ordoñez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32501",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32501",
+        "url": "https://doi.org/10.3386/w32501",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -179653,6 +182980,24 @@
         "pages": "",
         "doi": "10.3386/w32470",
         "url": "https://doi.org/10.3386/w32470",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Risky Oil: It's All in the Tails",
+        "title": "Risky Oil: It's All in the Tails",
+        "authors": [
+          "Christiane Baumeister",
+          "Florian Huber",
+          "Massimiliano Marcellino"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32524",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32524",
+        "url": "https://doi.org/10.3386/w32524",
         "verified": true,
         "note": ""
       }
@@ -180294,6 +183639,24 @@
         "url": "https://doi.org/10.3386/w32454",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Discount Factors and Monetary Policy: Evidence from Dual-Listed Stocks",
+        "title": "Discount Factors and Monetary Policy: Evidence from Dual-Listed Stocks",
+        "authors": [
+          "Quentin Vandeweyer",
+          "Minghao Yang",
+          "Constantine Yannelis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32499",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32499",
+        "url": "https://doi.org/10.3386/w32499",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -180879,6 +184242,23 @@
         "url": "https://doi.org/10.3386/w32301",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Business, Liquidity, and Information Cycles",
+        "title": "Business, Liquidity, and Information Cycles",
+        "authors": [
+          "Gorkem Bostanci",
+          "Guillermo Ordoñez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32501",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32501",
+        "url": "https://doi.org/10.3386/w32501",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -181389,6 +184769,23 @@
         "pages": "",
         "doi": "10.3386/w32275",
         "url": "https://doi.org/10.3386/w32275",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Business, Liquidity, and Information Cycles",
+        "title": "Business, Liquidity, and Information Cycles",
+        "authors": [
+          "Gorkem Bostanci",
+          "Guillermo Ordoñez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32501",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32501",
+        "url": "https://doi.org/10.3386/w32501",
         "verified": true,
         "note": ""
       }
@@ -182489,6 +185886,24 @@
         "url": "https://doi.org/10.3386/w32330",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nominal Devaluations, Inflation and Inequality",
+        "title": "Nominal Devaluations, Inflation and Inequality",
+        "authors": [
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Emilio Zaratiegui"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32494",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32494",
+        "url": "https://doi.org/10.3386/w32494",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -182544,6 +185959,24 @@
         "pages": "",
         "doi": "10.3386/w32387",
         "url": "https://doi.org/10.3386/w32387",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Exchange Rate as an Industrial Policy",
+        "title": "The Exchange Rate as an Industrial Policy",
+        "authors": [
+          "Pablo Ottonello",
+          "Diego J. Perez",
+          "William Witheridge"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32522",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32522",
+        "url": "https://doi.org/10.3386/w32522",
         "verified": true,
         "note": ""
       }
@@ -185501,6 +188934,24 @@
         "url": "https://doi.org/10.3386/w32217",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -186379,6 +189830,24 @@
         "pages": "",
         "doi": "10.3386/w32430",
         "url": "https://doi.org/10.3386/w32430",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
         "verified": true,
         "note": ""
       }
@@ -187316,6 +190785,44 @@
     ]
   },
   {
+    "id": "7.13.36",
+    "title": "GPTs are GPTs 职业 AI 暴露度数据（Eloundou et al.）",
+    "links": [
+      {
+        "label": "GitHub: openai/GPTs-are-GPTs",
+        "url": "https://github.com/openai/GPTs-are-GPTs"
+      }
+    ],
+    "summary": "Eloundou、Manning、Mishkin 与 Rock（2023）基于 O*NET 任务，由人工标注和 GPT-4 评分构建的职业层面大语言模型暴露度指标，经 GitHub 公开下载。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是度量生成式 AI 职业暴露最常用的指标之一。研究常用它分析 AI 对就业、工资和任务结构的潜在影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Simple Macroeconomics of AI",
+        "title": "The Simple Macroeconomics of AI",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32487",
+        "url": "https://doi.org/10.3386/w32487",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.14.1",
     "title": "全球棕榈油厂位置数据（Universal Mill List）",
     "links": [
@@ -187458,6 +190965,24 @@
         "pages": "",
         "doi": "10.3386/w32174",
         "url": "https://doi.org/10.3386/w32174",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment in Infrastructure and Trade: The Case of Ports",
+        "title": "Investment in Infrastructure and Trade: The Case of Ports",
+        "authors": [
+          "Giulia Brancaccio",
+          "Myrto Kalouptsidi",
+          "Theodore Papageorgiou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32503",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32503",
+        "url": "https://doi.org/10.3386/w32503",
         "verified": true,
         "note": ""
       }
@@ -190953,6 +194478,24 @@
         "url": "https://doi.org/10.3386/w32468",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "title": "Measuring and Predicting “New Work” in the United States: The Role of Local Factors and Global Shocks",
+        "authors": [
+          "Gueyon Kim",
+          "Cassandra Merritt",
+          "Giovanni Peri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32526",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32526",
+        "url": "https://doi.org/10.3386/w32526",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -193528,6 +197071,23 @@
         "pages": "",
         "doi": "10.3386/w32308",
         "url": "https://doi.org/10.3386/w32308",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Political Economy of Industrial Policy",
+        "title": "The Political Economy of Industrial Policy",
+        "authors": [
+          "Réka Juhász",
+          "Nathan J. Lane"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32507",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32507",
+        "url": "https://doi.org/10.3386/w32507",
         "verified": true,
         "note": ""
       }
