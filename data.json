@@ -10350,6 +10350,45 @@
     ]
   },
   {
+    "id": "1.10.9",
+    "title": "中国历代人物传记资料库（China Biographical Database，CBDB）",
+    "links": [
+      {
+        "label": "CBDB (Harvard)",
+        "url": "https://projects.iq.harvard.edu/chinesecbdb"
+      }
+    ],
+    "summary": "哈佛大学费正清中国研究中心、中研院史语所与北京大学合作建设的中国历史人物关系型数据库，收录 7 世纪至 19 世纪约 50 余万人的生卒、籍贯、科举、任官、亲属与社会关系和著述信息，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是中国历史精英研究最重要的数据库之一。研究常用它构造科举、官僚任职和士人网络，分析科举制度、国家能力和长期发展。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Knowledge Suppression and Resilience under Censorship: Three-century Book Publications in China",
+        "title": "Knowledge Suppression and Resilience under Censorship: Three-century Book Publications in China",
+        "authors": [
+          "Ying Bai",
+          "Ruixue Jia",
+          "Jiaojiao Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33258",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33258",
+        "url": "https://doi.org/10.3386/w33258",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "1.11.1",
     "title": "房价数据",
     "links": [
@@ -19968,6 +20007,26 @@
         "url": "https://doi.org/10.3386/w33137",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Claiming of Children on U.S. Tax Returns",
+        "title": "The Claiming of Children on U.S. Tax Returns",
+        "authors": [
+          "Geoffrey Gee",
+          "Jacob Goldin",
+          "Joseph Gray-Hancuch",
+          "Ithai Lurie",
+          "Vedant Vohra"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33277",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33277",
+        "url": "https://doi.org/10.3386/w33277",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20227,6 +20286,23 @@
         "pages": "1261–1295",
         "doi": "10.1093/restud/rdaf038",
         "url": "https://doi.org/10.1093/restud/rdaf038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unhooking the Past: Early-life Exposure to Hookworm Eradication and Later-life Longevity",
+        "title": "Unhooking the Past: Early-life Exposure to Hookworm Eradication and Later-life Longevity",
+        "authors": [
+          "Hamid Noghanibehambari",
+          "Jason Fletcher"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33249",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33249",
+        "url": "https://doi.org/10.3386/w33249",
         "verified": true,
         "note": ""
       }
@@ -20683,6 +20759,23 @@
         "pages": "",
         "doi": "10.3386/w33192",
         "url": "https://doi.org/10.3386/w33192",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unhooking the Past: Early-life Exposure to Hookworm Eradication and Later-life Longevity",
+        "title": "Unhooking the Past: Early-life Exposure to Hookworm Eradication and Later-life Longevity",
+        "authors": [
+          "Hamid Noghanibehambari",
+          "Jason Fletcher"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33249",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33249",
+        "url": "https://doi.org/10.3386/w33249",
         "verified": true,
         "note": ""
       }
@@ -25067,6 +25160,121 @@
         "pages": "",
         "doi": "10.3386/w33229",
         "url": "https://doi.org/10.3386/w33229",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "title": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "authors": [
+          "John J. Donohue",
+          "Matthew Benavides",
+          "Amy L. Zhang",
+          "Alex Oktay"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33240",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33240",
+        "url": "https://doi.org/10.3386/w33240",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment",
+        "title": "The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Miller",
+          "Katherine Baicker"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33244",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33244",
+        "url": "https://doi.org/10.3386/w33244",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Inclusion Across the United States",
+        "title": "Financial Inclusion Across the United States",
+        "authors": [
+          "Motohiro Yogo",
+          "Andrew Whitten",
+          "Natalie Cox"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33256",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33256",
+        "url": "https://doi.org/10.3386/w33256",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "College Major Restrictions and Student Stratification",
+        "title": "College Major Restrictions and Student Stratification",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33269",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33269",
+        "url": "https://doi.org/10.3386/w33269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Claiming of Children on U.S. Tax Returns",
+        "title": "The Claiming of Children on U.S. Tax Returns",
+        "authors": [
+          "Geoffrey Gee",
+          "Jacob Goldin",
+          "Joseph Gray-Hancuch",
+          "Ithai Lurie",
+          "Vedant Vohra"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33277",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33277",
+        "url": "https://doi.org/10.3386/w33277",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Benefits and Costs of Paid Family Leave",
+        "title": "The Benefits and Costs of Paid Family Leave",
+        "authors": [
+          "Buyi Wang",
+          "Meredith Slopen",
+          "Irwin Garfinkel",
+          "Elizabeth Ananat",
+          "Sophie M. Collyer",
+          "Robert Paul Hartley",
+          "Anastasia Koutavas",
+          "Christopher Wimer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33279",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33279",
+        "url": "https://doi.org/10.3386/w33279",
         "verified": true,
         "note": ""
       }
@@ -29779,6 +29987,79 @@
         "url": "https://doi.org/10.3386/w33229",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of How Workers Keep Up With Inflation",
+        "title": "A Theory of How Workers Keep Up With Inflation",
+        "authors": [
+          "Hassan Afrouzi",
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Erik Hurst"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33233",
+        "url": "https://doi.org/10.3386/w33233",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Inequality in the Labor Market: Continuing Progress?",
+        "title": "Gender Inequality in the Labor Market: Continuing Progress?",
+        "authors": [
+          "Francine D. Blau"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33266",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33266",
+        "url": "https://doi.org/10.3386/w33266",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Collective Bargaining, Unions, and the Wage Structure: An International Perspective",
+        "title": "Collective Bargaining, Unions, and the Wage Structure: An International Perspective",
+        "authors": [
+          "Simon Jäger",
+          "Suresh Naidu",
+          "Benjamin Schoefer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33267",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33267",
+        "url": "https://doi.org/10.3386/w33267",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Claiming of Children on U.S. Tax Returns",
+        "title": "The Claiming of Children on U.S. Tax Returns",
+        "authors": [
+          "Geoffrey Gee",
+          "Jacob Goldin",
+          "Joseph Gray-Hancuch",
+          "Ithai Lurie",
+          "Vedant Vohra"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33277",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33277",
+        "url": "https://doi.org/10.3386/w33277",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31040,6 +31321,22 @@
         "pages": "",
         "doi": "10.3386/w33122",
         "url": "https://doi.org/10.3386/w33122",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Inequality in the Labor Market: Continuing Progress?",
+        "title": "Gender Inequality in the Labor Market: Continuing Progress?",
+        "authors": [
+          "Francine D. Blau"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33266",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33266",
+        "url": "https://doi.org/10.3386/w33266",
         "verified": true,
         "note": ""
       }
@@ -33239,6 +33536,26 @@
         "url": "https://doi.org/10.3386/w32793",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Claiming of Children on U.S. Tax Returns",
+        "title": "The Claiming of Children on U.S. Tax Returns",
+        "authors": [
+          "Geoffrey Gee",
+          "Jacob Goldin",
+          "Joseph Gray-Hancuch",
+          "Ithai Lurie",
+          "Vedant Vohra"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33277",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33277",
+        "url": "https://doi.org/10.3386/w33277",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34434,6 +34751,24 @@
         "pages": "",
         "doi": "10.3386/w33137",
         "url": "https://doi.org/10.3386/w33137",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Inclusion Across the United States",
+        "title": "Financial Inclusion Across the United States",
+        "authors": [
+          "Motohiro Yogo",
+          "Andrew Whitten",
+          "Natalie Cox"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33256",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33256",
+        "url": "https://doi.org/10.3386/w33256",
         "verified": true,
         "note": ""
       }
@@ -38231,6 +38566,23 @@
         "url": "https://doi.org/10.3386/w32911",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "College Major Restrictions and Student Stratification",
+        "title": "College Major Restrictions and Student Stratification",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33269",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33269",
+        "url": "https://doi.org/10.3386/w33269",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38618,6 +38970,25 @@
         "pages": "",
         "doi": "10.3386/w33095",
         "url": "https://doi.org/10.3386/w33095",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of How Workers Keep Up With Inflation",
+        "title": "A Theory of How Workers Keep Up With Inflation",
+        "authors": [
+          "Hassan Afrouzi",
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Erik Hurst"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33233",
+        "url": "https://doi.org/10.3386/w33233",
         "verified": true,
         "note": ""
       }
@@ -40806,6 +41177,43 @@
         "url": "https://doi.org/10.3386/w33182",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unhooking the Past: Early-life Exposure to Hookworm Eradication and Later-life Longevity",
+        "title": "Unhooking the Past: Early-life Exposure to Hookworm Eradication and Later-life Longevity",
+        "authors": [
+          "Hamid Noghanibehambari",
+          "Jason Fletcher"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33249",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33249",
+        "url": "https://doi.org/10.3386/w33249",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Claiming of Children on U.S. Tax Returns",
+        "title": "The Claiming of Children on U.S. Tax Returns",
+        "authors": [
+          "Geoffrey Gee",
+          "Jacob Goldin",
+          "Joseph Gray-Hancuch",
+          "Ithai Lurie",
+          "Vedant Vohra"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33277",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33277",
+        "url": "https://doi.org/10.3386/w33277",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41611,6 +42019,24 @@
         "url": "https://doi.org/10.3386/w33223",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Hustling From Home? Work From Home Flexibility and Entrepreneurial Entry",
+        "title": "Hustling From Home? Work From Home Flexibility and Entrepreneurial Entry",
+        "authors": [
+          "John M. Barrios",
+          "Yael Hochberg",
+          "Hanyi (Livia) Yi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33237",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33237",
+        "url": "https://doi.org/10.3386/w33237",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -42002,6 +42428,25 @@
         "pages": "",
         "doi": "10.3386/w32386",
         "url": "https://doi.org/10.3386/w32386",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "title": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "authors": [
+          "John J. Donohue",
+          "Matthew Benavides",
+          "Amy L. Zhang",
+          "Alex Oktay"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33240",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33240",
+        "url": "https://doi.org/10.3386/w33240",
         "verified": true,
         "note": ""
       }
@@ -44544,6 +44989,26 @@
         "pages": "",
         "doi": "10.3386/w33224",
         "url": "https://doi.org/10.3386/w33224",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing, Ownership, and Performance: A Novel, Longitudinal Firm-Level Database",
+        "title": "Financing, Ownership, and Performance: A Novel, Longitudinal Firm-Level Database",
+        "authors": [
+          "J. David Brown",
+          "Steven J. Davis",
+          "Lucia S. Foster",
+          "John C. Haltiwanger",
+          "John Sabelhaus"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33254",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33254",
+        "url": "https://doi.org/10.3386/w33254",
         "verified": true,
         "note": ""
       }
@@ -47167,6 +47632,24 @@
         "url": "https://doi.org/10.3386/w32604",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Hustling From Home? Work From Home Flexibility and Entrepreneurial Entry",
+        "title": "Hustling From Home? Work From Home Flexibility and Entrepreneurial Entry",
+        "authors": [
+          "John M. Barrios",
+          "Yael Hochberg",
+          "Hanyi (Livia) Yi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33237",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33237",
+        "url": "https://doi.org/10.3386/w33237",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48411,6 +48894,26 @@
         "pages": "",
         "doi": "10.3386/w33229",
         "url": "https://doi.org/10.3386/w33229",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing, Ownership, and Performance: A Novel, Longitudinal Firm-Level Database",
+        "title": "Financing, Ownership, and Performance: A Novel, Longitudinal Firm-Level Database",
+        "authors": [
+          "J. David Brown",
+          "Steven J. Davis",
+          "Lucia S. Foster",
+          "John C. Haltiwanger",
+          "John Sabelhaus"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33254",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33254",
+        "url": "https://doi.org/10.3386/w33254",
         "verified": true,
         "note": ""
       }
@@ -52759,6 +53262,24 @@
         "url": "https://doi.org/10.3386/w33216",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Halloween, ADHD, and Subjectivity in Medical Diagnosis",
+        "title": "Halloween, ADHD, and Subjectivity in Medical Diagnosis",
+        "authors": [
+          "Christopher Worsham",
+          "Charles Bray",
+          "Anupam Jena"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33232",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33232",
+        "url": "https://doi.org/10.3386/w33232",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54088,6 +54609,24 @@
         "url": "https://doi.org/10.3386/w33188",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-run Effects of Transportation Productivity on the US Economy",
+        "title": "The Long-run Effects of Transportation Productivity on the US Economy",
+        "authors": [
+          "A. Kerem Coşar",
+          "Sophie Osotimehin",
+          "Latchezar Popov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33248",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33248",
+        "url": "https://doi.org/10.3386/w33248",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54774,6 +55313,23 @@
         "pages": "",
         "doi": "10.3386/w33223",
         "url": "https://doi.org/10.3386/w33223",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Assessing Assessors",
+        "title": "Assessing Assessors",
+        "authors": [
+          "Huaizhi Chen",
+          "Lauren Cohen"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33238",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33238",
+        "url": "https://doi.org/10.3386/w33238",
         "verified": true,
         "note": ""
       }
@@ -59086,6 +59642,29 @@
         "url": "https://doi.org/10.3386/w33041",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Benefits and Costs of Paid Family Leave",
+        "title": "The Benefits and Costs of Paid Family Leave",
+        "authors": [
+          "Buyi Wang",
+          "Meredith Slopen",
+          "Irwin Garfinkel",
+          "Elizabeth Ananat",
+          "Sophie M. Collyer",
+          "Robert Paul Hartley",
+          "Anastasia Koutavas",
+          "Christopher Wimer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33279",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33279",
+        "url": "https://doi.org/10.3386/w33279",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -60223,6 +60802,25 @@
         "url": "https://doi.org/10.3386/w33050",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "title": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "authors": [
+          "John J. Donohue",
+          "Matthew Benavides",
+          "Amy L. Zhang",
+          "Alex Oktay"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33240",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33240",
+        "url": "https://doi.org/10.3386/w33240",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -60571,6 +61169,24 @@
         "pages": "",
         "doi": "10.3386/w32872",
         "url": "https://doi.org/10.3386/w32872",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-run Effects of Transportation Productivity on the US Economy",
+        "title": "The Long-run Effects of Transportation Productivity on the US Economy",
+        "authors": [
+          "A. Kerem Coşar",
+          "Sophie Osotimehin",
+          "Latchezar Popov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33248",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33248",
+        "url": "https://doi.org/10.3386/w33248",
         "verified": true,
         "note": ""
       }
@@ -63505,6 +64121,25 @@
         "url": "https://doi.org/10.3386/w33190",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of How Workers Keep Up With Inflation",
+        "title": "A Theory of How Workers Keep Up With Inflation",
+        "authors": [
+          "Hassan Afrouzi",
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Erik Hurst"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33233",
+        "url": "https://doi.org/10.3386/w33233",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -64049,6 +64684,41 @@
         "pages": "",
         "doi": "10.3386/w33213",
         "url": "https://doi.org/10.3386/w33213",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hustling From Home? Work From Home Flexibility and Entrepreneurial Entry",
+        "title": "Hustling From Home? Work From Home Flexibility and Entrepreneurial Entry",
+        "authors": [
+          "John M. Barrios",
+          "Yael Hochberg",
+          "Hanyi (Livia) Yi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33237",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33237",
+        "url": "https://doi.org/10.3386/w33237",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "College Major Restrictions and Student Stratification",
+        "title": "College Major Restrictions and Student Stratification",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33269",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33269",
+        "url": "https://doi.org/10.3386/w33269",
         "verified": true,
         "note": ""
       }
@@ -65201,6 +65871,44 @@
         "url": "https://doi.org/10.3386/w33157",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financial Inclusion Across the United States",
+        "title": "Financial Inclusion Across the United States",
+        "authors": [
+          "Motohiro Yogo",
+          "Andrew Whitten",
+          "Natalie Cox"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33256",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33256",
+        "url": "https://doi.org/10.3386/w33256",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Claiming of Children on U.S. Tax Returns",
+        "title": "The Claiming of Children on U.S. Tax Returns",
+        "authors": [
+          "Geoffrey Gee",
+          "Jacob Goldin",
+          "Joseph Gray-Hancuch",
+          "Ithai Lurie",
+          "Vedant Vohra"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33277",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33277",
+        "url": "https://doi.org/10.3386/w33277",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65818,6 +66526,22 @@
         "pages": "",
         "doi": "10.3386/w33202",
         "url": "https://doi.org/10.3386/w33202",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Inequality in the Labor Market: Continuing Progress?",
+        "title": "Gender Inequality in the Labor Market: Continuing Progress?",
+        "authors": [
+          "Francine D. Blau"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33266",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33266",
+        "url": "https://doi.org/10.3386/w33266",
         "verified": true,
         "note": ""
       }
@@ -68050,6 +68774,24 @@
         "url": "https://doi.org/10.3386/w33022",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financial Inclusion Across the United States",
+        "title": "Financial Inclusion Across the United States",
+        "authors": [
+          "Motohiro Yogo",
+          "Andrew Whitten",
+          "Natalie Cox"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33256",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33256",
+        "url": "https://doi.org/10.3386/w33256",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69837,6 +70579,24 @@
         "url": "https://doi.org/10.3386/w32568",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Decoding FOMC Policy Deliberations",
+        "title": "Rules vs. Discretion: Decoding FOMC Policy Deliberations",
+        "authors": [
+          "Michael D. Bordo",
+          "Klodiana Istrefi",
+          "Humberto Martínez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33262",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33262",
+        "url": "https://doi.org/10.3386/w33262",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69913,6 +70673,24 @@
         "pages": "",
         "doi": "10.3386/w32708",
         "url": "https://doi.org/10.3386/w32708",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Inclusion Across the United States",
+        "title": "Financial Inclusion Across the United States",
+        "authors": [
+          "Motohiro Yogo",
+          "Andrew Whitten",
+          "Natalie Cox"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33256",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33256",
+        "url": "https://doi.org/10.3386/w33256",
         "verified": true,
         "note": ""
       }
@@ -70281,6 +71059,25 @@
         "url": "https://doi.org/10.3386/w33095",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of How Workers Keep Up With Inflation",
+        "title": "A Theory of How Workers Keep Up With Inflation",
+        "authors": [
+          "Hassan Afrouzi",
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Erik Hurst"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33233",
+        "url": "https://doi.org/10.3386/w33233",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -70359,6 +71156,50 @@
         "pages": "",
         "doi": "10.3386/w33137",
         "url": "https://doi.org/10.3386/w33137",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.80",
+    "title": "ADP 薪酬洞察（ADP Pay Insights）与 ADP 就业报告",
+    "links": [
+      {
+        "label": "ADP Pay Insights",
+        "url": "https://payinsights.adp.com/"
+      },
+      {
+        "label": "ADP Research",
+        "url": "https://www.adpresearch.com/"
+      }
+    ],
+    "summary": "ADP 研究院基于约 2500 万名美国在职员工匿名工资单数据发布的月度统计，包括 Pay Insights 中留任者与换工作者的年度工资增长中位数（按行业、地区、企业规模、年龄、性别分组）和 ADP 全国就业报告的私营部门就业变化，汇总序列公开下载，微观数据需与 ADP 合作。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是基于工资单行政记录的高频劳动力市场指标。研究常用它度量工资增长、换工作工资溢价和就业动态。",
+    "source": "汇总序列公开下载；微观数据需与 ADP 合作。",
+    "references": [
+      {
+        "raw": "A Theory of How Workers Keep Up With Inflation",
+        "title": "A Theory of How Workers Keep Up With Inflation",
+        "authors": [
+          "Hassan Afrouzi",
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Erik Hurst"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33233",
+        "url": "https://doi.org/10.3386/w33233",
         "verified": true,
         "note": ""
       }
@@ -73969,6 +74810,24 @@
         "pages": "3003–3037",
         "doi": "10.1257/aer.104.10.3003",
         "url": "https://doi.org/10.1257/aer.104.10.3003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Halloween, ADHD, and Subjectivity in Medical Diagnosis",
+        "title": "Halloween, ADHD, and Subjectivity in Medical Diagnosis",
+        "authors": [
+          "Christopher Worsham",
+          "Charles Bray",
+          "Anupam Jena"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33232",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33232",
+        "url": "https://doi.org/10.3386/w33232",
         "verified": true,
         "note": ""
       }
@@ -90825,6 +91684,29 @@
         "url": "https://doi.org/10.3386/w33175",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Benefits and Costs of Paid Family Leave",
+        "title": "The Benefits and Costs of Paid Family Leave",
+        "authors": [
+          "Buyi Wang",
+          "Meredith Slopen",
+          "Irwin Garfinkel",
+          "Elizabeth Ananat",
+          "Sophie M. Collyer",
+          "Robert Paul Hartley",
+          "Anastasia Koutavas",
+          "Christopher Wimer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33279",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33279",
+        "url": "https://doi.org/10.3386/w33279",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -91371,6 +92253,23 @@
         "url": "https://doi.org/10.3386/w33083",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "title": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "authors": [
+          "Daniel Kessler",
+          "William Wygal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33278",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33278",
+        "url": "https://doi.org/10.3386/w33278",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -91486,6 +92385,24 @@
         "pages": "",
         "doi": "10.3386/w33083",
         "url": "https://doi.org/10.3386/w33083",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Halloween, ADHD, and Subjectivity in Medical Diagnosis",
+        "title": "Halloween, ADHD, and Subjectivity in Medical Diagnosis",
+        "authors": [
+          "Christopher Worsham",
+          "Charles Bray",
+          "Anupam Jena"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33232",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33232",
+        "url": "https://doi.org/10.3386/w33232",
         "verified": true,
         "note": ""
       }
@@ -92708,6 +93625,29 @@
         "pages": "494–533",
         "doi": "10.1257/aer.20201480",
         "url": "https://doi.org/10.1257/aer.20201480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Benefits and Costs of Paid Family Leave",
+        "title": "The Benefits and Costs of Paid Family Leave",
+        "authors": [
+          "Buyi Wang",
+          "Meredith Slopen",
+          "Irwin Garfinkel",
+          "Elizabeth Ananat",
+          "Sophie M. Collyer",
+          "Robert Paul Hartley",
+          "Anastasia Koutavas",
+          "Christopher Wimer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33279",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33279",
+        "url": "https://doi.org/10.3386/w33279",
         "verified": true,
         "note": ""
       }
@@ -94387,6 +95327,23 @@
         "url": "https://doi.org/10.3386/w32840",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "title": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "authors": [
+          "Daniel Kessler",
+          "William Wygal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33278",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33278",
+        "url": "https://doi.org/10.3386/w33278",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -95692,6 +96649,24 @@
         "url": "https://doi.org/10.3386/w32535",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Hustling From Home? Work From Home Flexibility and Entrepreneurial Entry",
+        "title": "Hustling From Home? Work From Home Flexibility and Entrepreneurial Entry",
+        "authors": [
+          "John M. Barrios",
+          "Yael Hochberg",
+          "Hanyi (Livia) Yi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33237",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33237",
+        "url": "https://doi.org/10.3386/w33237",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -96175,6 +97150,23 @@
         "pages": "",
         "doi": "10.3386/w33217",
         "url": "https://doi.org/10.3386/w33217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "title": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "authors": [
+          "Daniel Kessler",
+          "William Wygal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33278",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33278",
+        "url": "https://doi.org/10.3386/w33278",
         "verified": true,
         "note": ""
       }
@@ -96677,6 +97669,25 @@
         "pages": "",
         "doi": "10.3386/w32931",
         "url": "https://doi.org/10.3386/w32931",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "title": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "authors": [
+          "John J. Donohue",
+          "Matthew Benavides",
+          "Amy L. Zhang",
+          "Alex Oktay"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33240",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33240",
+        "url": "https://doi.org/10.3386/w33240",
         "verified": true,
         "note": ""
       }
@@ -97730,6 +98741,24 @@
         "url": "https://doi.org/10.3386/w32425",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment",
+        "title": "The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Miller",
+          "Katherine Baicker"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33244",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33244",
+        "url": "https://doi.org/10.3386/w33244",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -98460,6 +99489,44 @@
     ]
   },
   {
+    "id": "2.8.90",
+    "title": "兰德医院价格透明度研究（RAND Hospital Price Transparency Study）",
+    "links": [
+      {
+        "label": "RAND: Hospital Price Transparency",
+        "url": "https://www.rand.org/health-care/projects/price-transparency/hospital-pricing.html"
+      }
+    ],
+    "summary": "兰德公司基于雇主、医疗计划和全额付款理赔数据开展的多轮医院价格研究，按医院和州报告商业保险支付价格相对 Medicare 价格的比率（住院与门诊），并附医院名称和系统归属，报告与数据公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是公开度量美国医院商业价格差异的主要数据。研究常用它分析医院市场势力、并购和雇主医疗成本。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "title": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "authors": [
+          "Daniel Kessler",
+          "William Wygal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33278",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33278",
+        "url": "https://doi.org/10.3386/w33278",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.9.1",
     "title": "商品流调查（Commodity Flow Survey，CFS）",
     "links": [
@@ -98685,6 +99752,24 @@
         "pages": "",
         "doi": "10.3386/w32953",
         "url": "https://doi.org/10.3386/w32953",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long-run Effects of Transportation Productivity on the US Economy",
+        "title": "The Long-run Effects of Transportation Productivity on the US Economy",
+        "authors": [
+          "A. Kerem Coşar",
+          "Sophie Osotimehin",
+          "Latchezar Popov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33248",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33248",
+        "url": "https://doi.org/10.3386/w33248",
         "verified": true,
         "note": ""
       }
@@ -100438,6 +101523,24 @@
         "url": "https://doi.org/10.3386/w33007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long-run Effects of Transportation Productivity on the US Economy",
+        "title": "The Long-run Effects of Transportation Productivity on the US Economy",
+        "authors": [
+          "A. Kerem Coşar",
+          "Sophie Osotimehin",
+          "Latchezar Popov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33248",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33248",
+        "url": "https://doi.org/10.3386/w33248",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -101286,6 +102389,25 @@
         "url": "https://doi.org/10.3386/w33154",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "title": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "authors": [
+          "John J. Donohue",
+          "Matthew Benavides",
+          "Amy L. Zhang",
+          "Alex Oktay"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33240",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33240",
+        "url": "https://doi.org/10.3386/w33240",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -101665,6 +102787,24 @@
         "pages": "",
         "doi": "10.3386/w32962",
         "url": "https://doi.org/10.3386/w32962",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Power and Market Power",
+        "title": "Political Power and Market Power",
+        "authors": [
+          "Bo Cowgill",
+          "Andrea Prat",
+          "Tommaso Valletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33255",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33255",
+        "url": "https://doi.org/10.3386/w33255",
         "verified": true,
         "note": ""
       }
@@ -103539,6 +104679,24 @@
         "url": "https://doi.org/10.3386/w32792",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Political Power and Market Power",
+        "title": "Political Power and Market Power",
+        "authors": [
+          "Bo Cowgill",
+          "Andrea Prat",
+          "Tommaso Valletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33255",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33255",
+        "url": "https://doi.org/10.3386/w33255",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -105410,6 +106568,24 @@
         "url": "https://doi.org/10.1162/rest_a_01377",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Relationship between Officer Misconduct and Conviction-less Arrests",
+        "title": "The Relationship between Officer Misconduct and Conviction-less Arrests",
+        "authors": [
+          "Bocar A. Ba",
+          "Nayoung Rim",
+          "Roman Rivera"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33276",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33276",
+        "url": "https://doi.org/10.3386/w33276",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -105599,6 +106775,25 @@
         "pages": "",
         "doi": "10.3386/w33078",
         "url": "https://doi.org/10.3386/w33078",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "title": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "authors": [
+          "John J. Donohue",
+          "Matthew Benavides",
+          "Amy L. Zhang",
+          "Alex Oktay"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33240",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33240",
+        "url": "https://doi.org/10.3386/w33240",
         "verified": true,
         "note": ""
       }
@@ -106784,6 +107979,25 @@
         "url": "https://doi.org/10.3386/w32108",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "title": "Beyond Bruen: Can Firearm Training Replace Local Discretion in Concealed Carry Permitting?",
+        "authors": [
+          "John J. Donohue",
+          "Matthew Benavides",
+          "Amy L. Zhang",
+          "Alex Oktay"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33240",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33240",
+        "url": "https://doi.org/10.3386/w33240",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107578,6 +108792,24 @@
         "url": "https://doi.org/10.3386/w32923",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Political Power and Market Power",
+        "title": "Political Power and Market Power",
+        "authors": [
+          "Bo Cowgill",
+          "Andrea Prat",
+          "Tommaso Valletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33255",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33255",
+        "url": "https://doi.org/10.3386/w33255",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107695,6 +108927,45 @@
         "pages": "",
         "doi": "10.3386/w33147",
         "url": "https://doi.org/10.3386/w33147",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.72",
+    "title": "CJARS 司法结果探索器（Justice Outcomes Explorer，JOE）",
+    "links": [
+      {
+        "label": "CJARS Justice Outcomes Explorer",
+        "url": "https://joe.cjars.org"
+      }
+    ],
+    "summary": "密歇根大学刑事司法行政记录系统（CJARS）与人口普查局合作发布的公开统计，将多州逮捕、起诉、判决和监禁记录与人口普查及 IRS 数据链接，按县、州和人口特征报告司法介入者此后的就业、收入、公共福利使用和再犯等结果，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是全国范围司法介入人群经济结果的公开汇总数据。研究常用它分析刑事司法介入对就业和收入的长期影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment",
+        "title": "The Effect of Medicaid on Crime: Evidence from the Oregon Health Insurance Experiment",
+        "authors": [
+          "Amy Finkelstein",
+          "Sarah Miller",
+          "Katherine Baicker"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33244",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33244",
+        "url": "https://doi.org/10.3386/w33244",
         "verified": true,
         "note": ""
       }
@@ -108058,6 +109329,23 @@
         "pages": "",
         "doi": "10.3386/w32815",
         "url": "https://doi.org/10.3386/w32815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Assessing Assessors",
+        "title": "Assessing Assessors",
+        "authors": [
+          "Huaizhi Chen",
+          "Lauren Cohen"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33238",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33238",
+        "url": "https://doi.org/10.3386/w33238",
         "verified": true,
         "note": ""
       }
@@ -114880,6 +116168,60 @@
         "url": "https://doi.org/10.3386/w33211",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of How Workers Keep Up With Inflation",
+        "title": "A Theory of How Workers Keep Up With Inflation",
+        "authors": [
+          "Hassan Afrouzi",
+          "Andrés Blanco",
+          "Andrés Drenik",
+          "Erik Hurst"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33233",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33233",
+        "url": "https://doi.org/10.3386/w33233",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Assessing Assessors",
+        "title": "Assessing Assessors",
+        "authors": [
+          "Huaizhi Chen",
+          "Lauren Cohen"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33238",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33238",
+        "url": "https://doi.org/10.3386/w33238",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -118476,6 +119818,24 @@
         "pages": "",
         "doi": "10.3386/w33211",
         "url": "https://doi.org/10.3386/w33211",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Power and Market Power",
+        "title": "Political Power and Market Power",
+        "authors": [
+          "Bo Cowgill",
+          "Andrea Prat",
+          "Tommaso Valletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33255",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33255",
+        "url": "https://doi.org/10.3386/w33255",
         "verified": true,
         "note": ""
       }
@@ -122562,6 +123922,24 @@
         "url": "https://doi.org/10.3386/w33211",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -123027,6 +124405,24 @@
         "pages": "",
         "doi": "10.3386/w33211",
         "url": "https://doi.org/10.3386/w33211",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Inclusion Across the United States",
+        "title": "Financial Inclusion Across the United States",
+        "authors": [
+          "Motohiro Yogo",
+          "Andrew Whitten",
+          "Natalie Cox"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33256",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33256",
+        "url": "https://doi.org/10.3386/w33256",
         "verified": true,
         "note": ""
       }
@@ -123681,6 +125077,24 @@
         "url": "https://doi.org/10.3386/w33206",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -124022,6 +125436,24 @@
         "pages": "",
         "doi": "10.3386/w32843",
         "url": "https://doi.org/10.3386/w32843",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Inclusion Across the United States",
+        "title": "Financial Inclusion Across the United States",
+        "authors": [
+          "Motohiro Yogo",
+          "Andrew Whitten",
+          "Natalie Cox"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33256",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33256",
+        "url": "https://doi.org/10.3386/w33256",
         "verified": true,
         "note": ""
       }
@@ -125687,6 +127119,24 @@
         "url": "https://doi.org/10.3386/w32623",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Decoding FOMC Policy Deliberations",
+        "title": "Rules vs. Discretion: Decoding FOMC Policy Deliberations",
+        "authors": [
+          "Michael D. Bordo",
+          "Klodiana Istrefi",
+          "Humberto Martínez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33262",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33262",
+        "url": "https://doi.org/10.3386/w33262",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126289,6 +127739,24 @@
         "url": "https://doi.org/10.1257/aer.20180615",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Political Power and Market Power",
+        "title": "Political Power and Market Power",
+        "authors": [
+          "Bo Cowgill",
+          "Andrea Prat",
+          "Tommaso Valletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33255",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33255",
+        "url": "https://doi.org/10.3386/w33255",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126476,6 +127944,24 @@
         "pages": "",
         "doi": "10.3386/w32986",
         "url": "https://doi.org/10.3386/w32986",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
         "verified": true,
         "note": ""
       }
@@ -126988,6 +128474,24 @@
         "url": "https://doi.org/10.3386/w33044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Decoding FOMC Policy Deliberations",
+        "title": "Rules vs. Discretion: Decoding FOMC Policy Deliberations",
+        "authors": [
+          "Michael D. Bordo",
+          "Klodiana Istrefi",
+          "Humberto Martínez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33262",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33262",
+        "url": "https://doi.org/10.3386/w33262",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -127248,6 +128752,24 @@
         "url": "https://doi.org/10.3386/w32324",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -127346,6 +128868,24 @@
         "pages": "",
         "doi": "10.3386/w32324",
         "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
         "verified": true,
         "note": ""
       }
@@ -128245,6 +129785,24 @@
         "url": "https://doi.org/10.3386/w32666",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Decoding FOMC Policy Deliberations",
+        "title": "Rules vs. Discretion: Decoding FOMC Policy Deliberations",
+        "authors": [
+          "Michael D. Bordo",
+          "Klodiana Istrefi",
+          "Humberto Martínez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33262",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33262",
+        "url": "https://doi.org/10.3386/w33262",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -128812,6 +130370,84 @@
         "pages": "",
         "doi": "10.3386/w33199",
         "url": "https://doi.org/10.3386/w33199",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.99",
+    "title": "美联储公开市场账户持仓（SOMA Holdings）",
+    "links": [
+      {
+        "label": "New York Fed: SOMA Holdings",
+        "url": "https://www.newyorkfed.org/markets/soma-holdings"
+      }
+    ],
+    "summary": "纽约联储每周公布的系统公开市场账户（SOMA）逐 CUSIP 持仓，包括美国国债、TIPS、机构债和机构 MBS 的面值和到期结构，2003 年以来的历史持仓公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是度量美联储资产购买和量化宽松的证券级数据。研究常用它分析 QE 对债券收益率、市场流动性和久期供给的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.100",
+    "title": "CRSP 美国国债数据库（CRSP US Treasury Database）",
+    "links": [
+      {
+        "label": "CRSP US Treasury Database",
+        "url": "https://www.crsp.org/research/crsp-us-treasury-database/"
+      }
+    ],
+    "summary": "芝加哥大学证券价格研究中心（CRSP）编制的美国国债数据库，1925 年以来逐只记录美国国债的日度和月度报价、收益率、久期、发行量和票息，并提供固定期限收益率与国债指数，经 WRDS 订阅获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是美国国债历史价格与收益率的标准学术数据。研究常用它构造收益率曲线、国债收益和期限溢价。",
+    "source": "付费订阅（WRDS）。",
+    "references": [
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
         "verified": true,
         "note": ""
       }
@@ -132281,6 +133917,29 @@
         "url": "https://doi.org/10.3386/w32363",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Curvy is the Phillips Curve?",
+        "title": "How Curvy is the Phillips Curve?",
+        "authors": [
+          "Philip Bunn",
+          "Lena Anayi",
+          "Emily Barnes",
+          "Nicholas Bloom",
+          "Aaron Jalca",
+          "Paul Mizen",
+          "Gregory Thwaites",
+          "Ivan Yotzov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33234",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33234",
+        "url": "https://doi.org/10.3386/w33234",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -132439,6 +134098,23 @@
         "pages": "",
         "doi": "10.3386/w32564",
         "url": "https://doi.org/10.3386/w32564",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "title": "Non-Profit Hospital Governance, Conduct, and CEO Pay",
+        "authors": [
+          "Daniel Kessler",
+          "William Wygal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33278",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33278",
+        "url": "https://doi.org/10.3386/w33278",
         "verified": true,
         "note": ""
       }
@@ -132600,6 +134276,131 @@
         "pages": "",
         "doi": "10.3386/w33224",
         "url": "https://doi.org/10.3386/w33224",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.35",
+    "title": "亚特兰大联储企业通胀预期调查（Business Inflation Expectations，BIE）",
+    "links": [
+      {
+        "label": "Atlanta Fed: Business Inflation Expectations",
+        "url": "https://www.atlantafed.org/research-and-data/surveys/business-inflation-expectations"
+      }
+    ],
+    "summary": "亚特兰大联储 2011 年起每月对第六联储区数百家企业开展的调查，询问企业对未来一年单位成本增长的预期及其概率分布、当前销售水平和利润率，季度追加长期通胀预期和价格设定问题，汇总序列公开下载，微观数据需申请。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是美国企业成本与通胀预期的主要调查之一。研究常用它分析企业预期形成、定价行为和货币政策传导。",
+    "source": "汇总数据公开下载；微观数据需申请。",
+    "references": [
+      {
+        "raw": "How Curvy is the Phillips Curve?",
+        "title": "How Curvy is the Phillips Curve?",
+        "authors": [
+          "Philip Bunn",
+          "Lena Anayi",
+          "Emily Barnes",
+          "Nicholas Bloom",
+          "Aaron Jalca",
+          "Paul Mizen",
+          "Gregory Thwaites",
+          "Ivan Yotzov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33234",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33234",
+        "url": "https://doi.org/10.3386/w33234",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.36",
+    "title": "美国年度创业者调查（Annual Survey of Entrepreneurs，ASE）",
+    "links": [
+      {
+        "label": "Census: Annual Survey of Entrepreneurs",
+        "url": "https://www.census.gov/programs-surveys/ase.html"
+      }
+    ],
+    "summary": "美国人口普查局与考夫曼基金会等合作开展的雇主企业及其所有者调查（2014–2016 调查年，后并入 ABS），记录企业主的性别、种族、族裔、退伍军人身份、年龄和教育，以及企业融资来源、创新和经营特征，汇总表公开，微观数据经 FSRDC 申请。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "微观企业数据"
+    ],
+    "introduction": "它填补了企业主普查（SBO）与 ABS 之间的年度空白。研究常用它分析不同群体企业主的融资、创业动机和企业绩效。",
+    "source": "汇总表公开下载；微观数据受限（FSRDC）。",
+    "references": [
+      {
+        "raw": "Financing, Ownership, and Performance: A Novel, Longitudinal Firm-Level Database",
+        "title": "Financing, Ownership, and Performance: A Novel, Longitudinal Firm-Level Database",
+        "authors": [
+          "J. David Brown",
+          "Steven J. Davis",
+          "Lucia S. Foster",
+          "John C. Haltiwanger",
+          "John Sabelhaus"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33254",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33254",
+        "url": "https://doi.org/10.3386/w33254",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.37",
+    "title": "Dominick’s 超市扫描数据（Kilts Center）",
+    "links": [
+      {
+        "label": "Kilts Center: Dominick’s Data",
+        "url": "https://www.chicagobooth.edu/research/kilts/research-data/dominicks"
+      }
+    ],
+    "summary": "芝加哥大学布斯商学院 Kilts 中心发布的芝加哥地区 Dominick’s Finer Foods 连锁超市约 100 家门店 1989–1997 年的周度 UPC 层面销量、价格、促销和利润率数据，附门店人口特征和顾客客流，免费公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是经典的零售扫描数据。研究常用它分析需求估计、价格刚性、促销和零售定价。",
+    "source": "公开下载（免费）。",
+    "references": [
+      {
+        "raw": "Handling Endogenous Marketing Mix Regressors in Correlated Heterogeneous Panels with Copula Augmented Mean Group Estimation",
+        "title": "Handling Endogenous Marketing Mix Regressors in Correlated Heterogeneous Panels with Copula Augmented Mean Group Estimation",
+        "authors": [
+          "Liying Yang",
+          "Yi Qian",
+          "Hui Xie"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33265",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33265",
+        "url": "https://doi.org/10.3386/w33265",
         "verified": true,
         "note": ""
       }
@@ -133465,6 +135266,46 @@
         "pages": "",
         "doi": "10.3386/w32632",
         "url": "https://doi.org/10.3386/w32632",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.14.13",
+    "title": "USDA 食品营养成分数据库（FoodData Central / SR28）",
+    "links": [
+      {
+        "label": "USDA FoodData Central",
+        "url": "https://fdc.nal.usda.gov/"
+      }
+    ],
+    "summary": "美国农业部农业研究局（ARS）维护的食品营养成分数据库，FoodData Central 整合了标准参考数据库（SR Legacy / SR28）、基础食品、品牌食品和膳食调查（FNDDS）数据，提供数十万种食品的热量、宏量和微量营养素含量，公开下载。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "农业数据",
+      "健康数据"
+    ],
+    "introduction": "这是食品营养成分的标准参考来源。研究常用它把食品消费或作物产出换算为热量和营养摄入。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "authors": [
+          "Aneesha Parvathaneni",
+          "Dean Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33246",
+        "url": "https://doi.org/10.3386/w33246",
         "verified": true,
         "note": ""
       }
@@ -135398,6 +137239,23 @@
         "url": "https://doi.org/10.3386/w33216",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "College Major Restrictions and Student Stratification",
+        "title": "College Major Restrictions and Student Stratification",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33269",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33269",
+        "url": "https://doi.org/10.3386/w33269",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -136344,6 +138202,22 @@
         "pages": "",
         "doi": "10.3386/w33212",
         "url": "https://doi.org/10.3386/w33212",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Inequality in the Labor Market: Continuing Progress?",
+        "title": "Gender Inequality in the Labor Market: Continuing Progress?",
+        "authors": [
+          "Francine D. Blau"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33266",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33266",
+        "url": "https://doi.org/10.3386/w33266",
         "verified": true,
         "note": ""
       }
@@ -137295,6 +139169,23 @@
         "pages": "32–63",
         "doi": "10.1257/pol.2.3.32",
         "url": "https://doi.org/10.1257/pol.2.3.32",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "College Major Restrictions and Student Stratification",
+        "title": "College Major Restrictions and Student Stratification",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33269",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33269",
+        "url": "https://doi.org/10.3386/w33269",
         "verified": true,
         "note": ""
       }
@@ -139698,6 +141589,23 @@
         "pages": "",
         "doi": "10.3386/w33164",
         "url": "https://doi.org/10.3386/w33164",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "College Major Restrictions and Student Stratification",
+        "title": "College Major Restrictions and Student Stratification",
+        "authors": [
+          "Zachary Bleemer",
+          "Aashish Mehta"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33269",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33269",
+        "url": "https://doi.org/10.3386/w33269",
         "verified": true,
         "note": ""
       }
@@ -144444,6 +146352,23 @@
         "url": "https://doi.org/10.3386/w33000",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms and Workers Bargain During Dismissals?",
+        "title": "Do Firms and Workers Bargain During Dismissals?",
+        "authors": [
+          "Pauline Carry",
+          "Benjamin Schoefer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33245",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33245",
+        "url": "https://doi.org/10.3386/w33245",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -145650,6 +147575,23 @@
         "url": "https://doi.org/10.3386/w32943",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms and Workers Bargain During Dismissals?",
+        "title": "Do Firms and Workers Bargain During Dismissals?",
+        "authors": [
+          "Pauline Carry",
+          "Benjamin Schoefer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33245",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33245",
+        "url": "https://doi.org/10.3386/w33245",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -146544,6 +148486,45 @@
         "pages": "",
         "doi": "10.3386/w33124",
         "url": "https://doi.org/10.3386/w33124",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.39",
+    "title": "欧盟收入结构调查（Structure of Earnings Survey，SES）",
+    "links": [
+      {
+        "label": "Eurostat: Structure of Earnings Survey microdata",
+        "url": "https://ec.europa.eu/eurostat/web/microdata/structure-of-earnings-survey"
+      }
+    ],
+    "summary": "欧盟统计局协调各成员国每四年开展的雇主-雇员调查（2002、2006、2010、2014、2018 年），按员工记录小时工资和年收入、工作时间、职业、教育、年龄、合同类型和企业规模与行业，科研用微观数据需向 Eurostat 申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是欧盟各国可比的工资结构微观数据。研究常用它分析跨国工资差异、性别工资差距和工资不平等。",
+    "source": "需申请（Eurostat 科研微观数据）。",
+    "references": [
+      {
+        "raw": "Collective Bargaining, Unions, and the Wage Structure: An International Perspective",
+        "title": "Collective Bargaining, Unions, and the Wage Structure: An International Perspective",
+        "authors": [
+          "Simon Jäger",
+          "Suresh Naidu",
+          "Benjamin Schoefer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33267",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33267",
+        "url": "https://doi.org/10.3386/w33267",
         "verified": true,
         "note": ""
       }
@@ -148395,6 +150376,25 @@
         "pages": "1860–1898",
         "doi": "10.1257/aer.20160284",
         "url": "https://doi.org/10.1257/aer.20160284",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Some Angels Better than Others?",
+        "title": "Are Some Angels Better than Others?",
+        "authors": [
+          "Johan Karlsen",
+          "Katja Kisseleva",
+          "Aksel Mjøs",
+          "David T. Robinson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33231",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33231",
+        "url": "https://doi.org/10.3386/w33231",
         "verified": true,
         "note": ""
       }
@@ -155897,6 +157897,26 @@
         "url": "https://doi.org/10.3386/w33079",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "LASH risk and Interest Rates",
+        "title": "LASH risk and Interest Rates",
+        "authors": [
+          "Laura Alfaro",
+          "Saleem A. Bahaj",
+          "Robert Czech",
+          "Jonathon Hazell",
+          "Ioana Neamtu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33241",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33241",
+        "url": "https://doi.org/10.3386/w33241",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -156226,6 +158246,29 @@
         "pages": "",
         "doi": "10.3386/w33081",
         "url": "https://doi.org/10.3386/w33081",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Curvy is the Phillips Curve?",
+        "title": "How Curvy is the Phillips Curve?",
+        "authors": [
+          "Philip Bunn",
+          "Lena Anayi",
+          "Emily Barnes",
+          "Nicholas Bloom",
+          "Aaron Jalca",
+          "Paul Mizen",
+          "Gregory Thwaites",
+          "Ivan Yotzov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33234",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33234",
+        "url": "https://doi.org/10.3386/w33234",
         "verified": true,
         "note": ""
       }
@@ -156813,6 +158856,23 @@
         "pages": "",
         "doi": "10.3386/w32218",
         "url": "https://doi.org/10.3386/w32218",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "authors": [
+          "Aneesha Parvathaneni",
+          "Dean Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33246",
+        "url": "https://doi.org/10.3386/w33246",
         "verified": true,
         "note": ""
       }
@@ -157446,6 +159506,23 @@
         "pages": "",
         "doi": "10.3386/w32946",
         "url": "https://doi.org/10.3386/w32946",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "authors": [
+          "Aneesha Parvathaneni",
+          "Dean Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33246",
+        "url": "https://doi.org/10.3386/w33246",
         "verified": true,
         "note": ""
       }
@@ -160006,6 +162083,25 @@
         "pages": "",
         "doi": "10.3386/w32508",
         "url": "https://doi.org/10.3386/w32508",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Breaking Barriers to Financial Access: Cross-Platform Digital Payments and Credit Markets",
+        "title": "Breaking Barriers to Financial Access: Cross-Platform Digital Payments and Credit Markets",
+        "authors": [
+          "Shashwat Alok",
+          "Pulak Ghosh",
+          "Nirupama Kulkarni",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33259",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33259",
+        "url": "https://doi.org/10.3386/w33259",
         "verified": true,
         "note": ""
       }
@@ -163967,6 +166063,25 @@
         "url": "https://doi.org/10.3386/w33142",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Breaking Barriers to Financial Access: Cross-Platform Digital Payments and Credit Markets",
+        "title": "Breaking Barriers to Financial Access: Cross-Platform Digital Payments and Credit Markets",
+        "authors": [
+          "Shashwat Alok",
+          "Pulak Ghosh",
+          "Nirupama Kulkarni",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33259",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33259",
+        "url": "https://doi.org/10.3386/w33259",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -164049,6 +166164,25 @@
         "pages": "",
         "doi": "10.3386/w32457",
         "url": "https://doi.org/10.3386/w32457",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Breaking Barriers to Financial Access: Cross-Platform Digital Payments and Credit Markets",
+        "title": "Breaking Barriers to Financial Access: Cross-Platform Digital Payments and Credit Markets",
+        "authors": [
+          "Shashwat Alok",
+          "Pulak Ghosh",
+          "Nirupama Kulkarni",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33259",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33259",
+        "url": "https://doi.org/10.3386/w33259",
         "verified": true,
         "note": ""
       }
@@ -167365,6 +169499,42 @@
         "url": "https://doi.org/10.3386/w32608",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "You Can Take Them With You: Recruiting Coworkers to One's Own New Firm",
+        "title": "You Can Take Them With You: Recruiting Coworkers to One's Own New Firm",
+        "authors": [
+          "Marc-Andreas Muendler",
+          "James E. Rauch",
+          "Sergio Mikio Koyama"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33230",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33230",
+        "url": "https://doi.org/10.3386/w33230",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cracks in the Glass Ceiling and Gender Equality: Do Exports Shatter the Glass Ceiling?",
+        "title": "Cracks in the Glass Ceiling and Gender Equality: Do Exports Shatter the Glass Ceiling?",
+        "authors": [
+          "Bruno César Araújo",
+          "Lourenço S. Paz",
+          "James E. West"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33260",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33260",
+        "url": "https://doi.org/10.3386/w33260",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -167739,6 +169909,24 @@
         "pages": "",
         "doi": "10.3386/w32274",
         "url": "https://doi.org/10.3386/w32274",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "You Can Take Them With You: Recruiting Coworkers to One's Own New Firm",
+        "title": "You Can Take Them With You: Recruiting Coworkers to One's Own New Firm",
+        "authors": [
+          "Marc-Andreas Muendler",
+          "James E. Rauch",
+          "Sergio Mikio Koyama"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33230",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33230",
+        "url": "https://doi.org/10.3386/w33230",
         "verified": true,
         "note": ""
       }
@@ -170730,6 +172918,25 @@
         "url": "https://doi.org/10.3386/w32440",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "When Democracy Refuses to Die: Evaluating a Training Program for New Politicians",
+        "title": "When Democracy Refuses to Die: Evaluating a Training Program for New Politicians",
+        "authors": [
+          "Ernesto Dal Bó",
+          "Claudio Ferraz",
+          "Frederico Finan",
+          "Pedro Pessoa"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33251",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33251",
+        "url": "https://doi.org/10.3386/w33251",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172883,6 +175090,24 @@
         "url": "https://doi.org/10.3386/w33200",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Collective Bargaining, Unions, and the Wage Structure: An International Perspective",
+        "title": "Collective Bargaining, Unions, and the Wage Structure: An International Perspective",
+        "authors": [
+          "Simon Jäger",
+          "Suresh Naidu",
+          "Benjamin Schoefer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33267",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33267",
+        "url": "https://doi.org/10.3386/w33267",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -173094,6 +175319,23 @@
         "pages": "",
         "doi": "10.3386/w32226",
         "url": "https://doi.org/10.3386/w32226",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
         "verified": true,
         "note": ""
       }
@@ -173422,6 +175664,82 @@
     ]
   },
   {
+    "id": "6.2.12",
+    "title": "南非国家收入动态研究（National Income Dynamics Study，NIDS）",
+    "links": [
+      {
+        "label": "NIDS",
+        "url": "https://nids.uct.ac.za/"
+      }
+    ],
+    "summary": "开普敦大学 SALDRU 执行的南非全国代表性家户追踪调查，2008–2017 年共五轮，追踪约 2.8 万人的收入、消费、就业、教育、健康、福利领取和迁移，另有 NIDS-CRAM 新冠电话调查，经 DataFirst 注册获取。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是南非唯一的全国性家户面板。研究常用它分析南非的贫困动态、社会补助、劳动力市场和健康。",
+    "source": "公开下载（需注册）。",
+    "references": [
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.2.13",
+    "title": "南非豪登省生活质量调查（GCRO Quality of Life Survey）",
+    "links": [
+      {
+        "label": "DataFirst: GCRO Quality of Life Survey",
+        "url": "https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/GCRO"
+      }
+    ],
+    "summary": "豪登城市区域观测站（GCRO）2009 年起约每两年开展的豪登省大样本住户调查，每轮数万名受访者，记录公共服务满意度、居住条件、就业收入、迁移、政治态度和社会融合，经 DataFirst 公开下载。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是南非城市地区样本量最大的社会调查之一。研究常用它分析城市公共服务、地方治理和社会态度。",
+    "source": "公开下载（DataFirst）。",
+    "references": [
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.3.1",
     "title": "加拿大制造业年度调查（ASM / ASML）",
     "links": [
@@ -173624,6 +175942,25 @@
         "pages": "104587",
         "doi": "10.1016/j.jpubeco.2021.104587",
         "url": "https://doi.org/10.1016/j.jpubeco.2021.104587",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Are Some Angels Better than Others?",
+        "title": "Are Some Angels Better than Others?",
+        "authors": [
+          "Johan Karlsen",
+          "Katja Kisseleva",
+          "Aksel Mjøs",
+          "David T. Robinson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33231",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33231",
+        "url": "https://doi.org/10.3386/w33231",
         "verified": true,
         "note": ""
       }
@@ -177033,6 +179370,23 @@
         "url": "https://doi.org/10.3386/w33220",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unhooking the Past: Early-life Exposure to Hookworm Eradication and Later-life Longevity",
+        "title": "Unhooking the Past: Early-life Exposure to Hookworm Eradication and Later-life Longevity",
+        "authors": [
+          "Hamid Noghanibehambari",
+          "Jason Fletcher"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33249",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33249",
+        "url": "https://doi.org/10.3386/w33249",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -177547,6 +179901,23 @@
         "pages": "",
         "doi": "10.3386/w33163",
         "url": "https://doi.org/10.3386/w33163",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
         "verified": true,
         "note": ""
       }
@@ -179244,6 +181615,23 @@
         "url": "https://doi.org/10.3386/w33163",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -179409,6 +181797,40 @@
         "pages": "",
         "doi": "10.3386/w32500",
         "url": "https://doi.org/10.3386/w32500",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Ideological Bias in Estimates of the Impact of Immigration",
+        "title": "Ideological Bias in Estimates of the Impact of Immigration",
+        "authors": [
+          "George J. Borjas",
+          "Nate Breznau"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33274",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33274",
+        "url": "https://doi.org/10.3386/w33274",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
         "verified": true,
         "note": ""
       }
@@ -179776,6 +182198,23 @@
         "url": "https://doi.org/10.1093/jeea/jvad040",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -179851,6 +182290,45 @@
         "pages": "",
         "doi": "10.3386/w33163",
         "url": "https://doi.org/10.3386/w33163",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.2.16",
+    "title": "联合国儿童基金会多指标类集调查（Multiple Indicator Cluster Surveys，MICS）",
+    "links": [
+      {
+        "label": "UNICEF MICS",
+        "url": "https://mics.unicef.org/"
+      }
+    ],
+    "summary": "联合国儿童基金会（UNICEF）1995 年起支持 100 多个中低收入国家开展的标准化住户调查，已完成七轮 300 多项调查，记录妇女和儿童的健康、营养、免疫、教育、儿童保护、用水与卫生和儿童发展，注册申请后免费下载微观数据。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "健康数据"
+    ],
+    "introduction": "MICS 与 DHS 并列为发展中国家最重要的妇幼健康调查。研究常用它分析儿童健康、教育、童婚和童工。",
+    "source": "公开下载（需注册申请）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
         "verified": true,
         "note": ""
       }
@@ -184215,6 +186693,40 @@
         "url": "https://doi.org/10.3386/w33193",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "authors": [
+          "Aneesha Parvathaneni",
+          "Dean Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33246",
+        "url": "https://doi.org/10.3386/w33246",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -186451,6 +188963,24 @@
         "pages": "",
         "doi": "10.3386/w33061",
         "url": "https://doi.org/10.3386/w33061",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Collective Bargaining, Unions, and the Wage Structure: An International Perspective",
+        "title": "Collective Bargaining, Unions, and the Wage Structure: An International Perspective",
+        "authors": [
+          "Simon Jäger",
+          "Suresh Naidu",
+          "Benjamin Schoefer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33267",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33267",
+        "url": "https://doi.org/10.3386/w33267",
         "verified": true,
         "note": ""
       }
@@ -190066,6 +192596,29 @@
         "url": "https://doi.org/10.3386/w33106",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Curvy is the Phillips Curve?",
+        "title": "How Curvy is the Phillips Curve?",
+        "authors": [
+          "Philip Bunn",
+          "Lena Anayi",
+          "Emily Barnes",
+          "Nicholas Bloom",
+          "Aaron Jalca",
+          "Paul Mizen",
+          "Gregory Thwaites",
+          "Ivan Yotzov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33234",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33234",
+        "url": "https://doi.org/10.3386/w33234",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -191323,6 +193876,23 @@
         "pages": "",
         "doi": "10.3386/w33126",
         "url": "https://doi.org/10.3386/w33126",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "authors": [
+          "Aneesha Parvathaneni",
+          "Dean Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33246",
+        "url": "https://doi.org/10.3386/w33246",
         "verified": true,
         "note": ""
       }
@@ -193990,6 +196560,23 @@
         "url": "https://doi.org/10.1093/restud/rdae108",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -194145,6 +196732,29 @@
         "pages": "",
         "doi": "10.3386/w32308",
         "url": "https://doi.org/10.3386/w32308",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Curvy is the Phillips Curve?",
+        "title": "How Curvy is the Phillips Curve?",
+        "authors": [
+          "Philip Bunn",
+          "Lena Anayi",
+          "Emily Barnes",
+          "Nicholas Bloom",
+          "Aaron Jalca",
+          "Paul Mizen",
+          "Gregory Thwaites",
+          "Ivan Yotzov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33234",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33234",
+        "url": "https://doi.org/10.3386/w33234",
         "verified": true,
         "note": ""
       }
@@ -194531,6 +197141,50 @@
         "pages": "",
         "doi": "10.3386/w33055",
         "url": "https://doi.org/10.3386/w33055",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.68",
+    "title": "OECD 经济展望数据库（OECD Economic Outlook）",
+    "links": [
+      {
+        "label": "OECD Economic Outlook",
+        "url": "https://www.oecd.org/en/publications/oecd-economic-outlook_16097408.html"
+      }
+    ],
+    "summary": "OECD 每年两次发布的《经济展望》配套数据库，提供 OECD 成员和主要经济体的 GDP 及其构成、潜在产出与产出缺口、失业率、通胀、财政余额与政府债务、经常账户等历史数据与两年预测，经 OECD Data Explorer 公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是跨国宏观预测和产出缺口估计的常用来源。研究常用它获取产出缺口、结构性财政余额和预测值。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "How Curvy is the Phillips Curve?",
+        "title": "How Curvy is the Phillips Curve?",
+        "authors": [
+          "Philip Bunn",
+          "Lena Anayi",
+          "Emily Barnes",
+          "Nicholas Bloom",
+          "Aaron Jalca",
+          "Paul Mizen",
+          "Gregory Thwaites",
+          "Ivan Yotzov"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33234",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33234",
+        "url": "https://doi.org/10.3386/w33234",
         "verified": true,
         "note": ""
       }
@@ -198719,6 +201373,50 @@
     ]
   },
   {
+    "id": "7.5.36",
+    "title": "Meta 高分辨率人口密度地图（High Resolution Population Density Maps）",
+    "links": [
+      {
+        "label": "Meta Data for Good",
+        "url": "https://dataforgood.facebook.com/"
+      },
+      {
+        "label": "HDX: Meta datasets",
+        "url": "https://data.humdata.org/organization/meta"
+      }
+    ],
+    "summary": "Meta Data for Good 与哥伦比亚大学 CIESIN 基于卫星影像识别建筑物并结合人口普查数据制作的约 30 米分辨率人口分布图，覆盖全球大多数国家，并按年龄性别分组，CC 许可经 HDX 公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "这是精度最高的全球人口格网之一。研究常用它度量小区域人口和聚落分布，分析基础设施覆盖、灾害暴露和服务可达性。",
+    "source": "公开下载（HDX）。",
+    "references": [
+      {
+        "raw": "Breaking Barriers to Financial Access: Cross-Platform Digital Payments and Credit Markets",
+        "title": "Breaking Barriers to Financial Access: Cross-Platform Digital Payments and Credit Markets",
+        "authors": [
+          "Shashwat Alok",
+          "Pulak Ghosh",
+          "Nirupama Kulkarni",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33259",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33259",
+        "url": "https://doi.org/10.3386/w33259",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.6.1",
     "title": "Global Fishing Watch 全球渔业活动数据",
     "links": [
@@ -199575,6 +202273,25 @@
         "url": "https://doi.org/10.3386/w33143",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Adaptation to Climate Change",
+        "title": "Adaptation to Climate Change",
+        "authors": [
+          "Tamma Carleton",
+          "Esther Duflo",
+          "Kelsey Jack",
+          "Guglielmo Zappalà"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33264",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33264",
+        "url": "https://doi.org/10.3386/w33264",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -200107,6 +202824,23 @@
         "pages": "",
         "doi": "10.3386/w33163",
         "url": "https://doi.org/10.3386/w33163",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "authors": [
+          "Aneesha Parvathaneni",
+          "Dean Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33246",
+        "url": "https://doi.org/10.3386/w33246",
         "verified": true,
         "note": ""
       }
@@ -207940,6 +210674,23 @@
         "url": "https://doi.org/10.3386/w33111",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Africa",
+        "title": "The Mental Health of the Young in Africa",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33280",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33280",
+        "url": "https://doi.org/10.3386/w33280",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -211631,6 +214382,23 @@
         "pages": "",
         "doi": "10.3386/w32858",
         "url": "https://doi.org/10.3386/w32858",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms and Workers Bargain During Dismissals?",
+        "title": "Do Firms and Workers Bargain During Dismissals?",
+        "authors": [
+          "Pauline Carry",
+          "Benjamin Schoefer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33245",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33245",
+        "url": "https://doi.org/10.3386/w33245",
         "verified": true,
         "note": ""
       }
@@ -216271,6 +219039,26 @@
         "url": "https://doi.org/10.3386/w33159",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "LASH risk and Interest Rates",
+        "title": "LASH risk and Interest Rates",
+        "authors": [
+          "Laura Alfaro",
+          "Saleem A. Bahaj",
+          "Robert Czech",
+          "Jonathon Hazell",
+          "Ioana Neamtu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33241",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33241",
+        "url": "https://doi.org/10.3386/w33241",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -217120,6 +219908,24 @@
         "pages": "",
         "doi": "10.3386/w33159",
         "url": "https://doi.org/10.3386/w33159",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Granular Treasury Demand with Arbitrageurs",
+        "title": "Granular Treasury Demand with Arbitrageurs",
+        "authors": [
+          "Kristy A.E. Jansen",
+          "Wenhao Li",
+          "Lukas Schmid"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33243",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33243",
+        "url": "https://doi.org/10.3386/w33243",
         "verified": true,
         "note": ""
       }
@@ -218727,6 +221533,24 @@
         "pages": "",
         "doi": "10.3386/w32770",
         "url": "https://doi.org/10.3386/w32770",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Power and Market Power",
+        "title": "Political Power and Market Power",
+        "authors": [
+          "Bo Cowgill",
+          "Andrea Prat",
+          "Tommaso Valletti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33255",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33255",
+        "url": "https://doi.org/10.3386/w33255",
         "verified": true,
         "note": ""
       }
@@ -227036,6 +229860,23 @@
         "url": "https://doi.org/10.3386/w33150",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dissertation Paths: Advisors and Students in the Economics Research Production Function",
+        "title": "Dissertation Paths: Advisors and Students in the Economics Research Production Function",
+        "authors": [
+          "Joshua Angrist",
+          "Marc Diederichs"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33281",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33281",
+        "url": "https://doi.org/10.3386/w33281",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -229538,6 +232379,23 @@
         "pages": "",
         "doi": "10.3386/w32958",
         "url": "https://doi.org/10.3386/w32958",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "title": "War Mobilization and Economic Development: World War II and Structural Transformation in India",
+        "authors": [
+          "Aneesha Parvathaneni",
+          "Dean Yang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33246",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33246",
+        "url": "https://doi.org/10.3386/w33246",
         "verified": true,
         "note": ""
       }
@@ -235685,6 +238543,24 @@
         "url": "https://doi.org/10.3386/w32667",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Suez",
+        "title": "Suez",
+        "authors": [
+          "David S. Jacks",
+          "Christopher M. Meissner",
+          "Nikolaus Wolf"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33250",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33250",
+        "url": "https://doi.org/10.3386/w33250",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -237131,6 +240007,45 @@
         "pages": "",
         "doi": "10.3386/w33005",
         "url": "https://doi.org/10.3386/w33005",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.20",
+    "title": "ProQuest 全球博硕士论文数据库（ProQuest Dissertations & Theses Global）",
+    "links": [
+      {
+        "label": "ProQuest Dissertations & Theses Global",
+        "url": "https://about.proquest.com/en/products-services/pqdtglobal/"
+      }
+    ],
+    "summary": "ProQuest 维护的全球最大的博硕士学位论文数据库，收录 1743 年以来约 500 万篇以北美为主的学位论文的作者、导师、院校、学科、年份、摘要和全文，机构订阅访问。",
+    "regions": [
+      "全球数据",
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "这是追踪博士培养与学术人才流动的常用来源。研究常用它构造各学科、院校的博士毕业生和导师网络，分析学术市场和科研人才。",
+    "source": "付费订阅（机构）。",
+    "references": [
+      {
+        "raw": "Dissertation Paths: Advisors and Students in the Economics Research Production Function",
+        "title": "Dissertation Paths: Advisors and Students in the Economics Research Production Function",
+        "authors": [
+          "Joshua Angrist",
+          "Marc Diederichs"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 33281",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33281",
+        "url": "https://doi.org/10.3386/w33281",
         "verified": true,
         "note": ""
       }
