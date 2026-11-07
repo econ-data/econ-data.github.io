@@ -4292,6 +4292,24 @@
         "url": "https://doi.org/10.3386/w33515",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "title": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "authors": [
+          "Qiaoyi Chen",
+          "Nicholas Ryan",
+          "Daniel Xu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33636",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33636",
+        "url": "https://doi.org/10.3386/w33636",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -4550,6 +4568,24 @@
         "pages": "151–183",
         "doi": "10.1257/mac.20180227",
         "url": "https://doi.org/10.1257/mac.20180227",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "title": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "authors": [
+          "Qiaoyi Chen",
+          "Nicholas Ryan",
+          "Daniel Xu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33636",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33636",
+        "url": "https://doi.org/10.3386/w33636",
         "verified": true,
         "note": ""
       }
@@ -5452,6 +5488,24 @@
         "pages": "",
         "doi": "10.3386/w32701",
         "url": "https://doi.org/10.3386/w32701",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "title": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "authors": [
+          "Qiaoyi Chen",
+          "Nicholas Ryan",
+          "Daniel Xu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33636",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33636",
+        "url": "https://doi.org/10.3386/w33636",
         "verified": true,
         "note": ""
       }
@@ -9376,6 +9430,45 @@
         "pages": "",
         "doi": "10.3386/w32982",
         "url": "https://doi.org/10.3386/w32982",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.6.8",
+    "title": "中国高分辨率高质量近地表空气污染物数据集（ChinaHighAirPollutants，CHAP）",
+    "links": [
+      {
+        "label": "CHAP data products",
+        "url": "https://weijing-rs.github.io/product.html"
+      }
+    ],
+    "summary": "韦晶等基于卫星遥感、地面监测和机器学习构建的中国近地表空气污染物数据集，提供 2000 年以来 1 公里（部分 10 公里）分辨率的日、月、年 PM2.5、PM10、PM1、O3、NO2、SO2 和 CO 浓度，公开下载。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "这是中国长时段高分辨率空气污染的常用数据。研究常用它度量地面监测之外的城市和县级污染，分析产业政策和环境规制的效果。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "A Geospatial Approach to Measuring Economic Activity",
+        "title": "A Geospatial Approach to Measuring Economic Activity",
+        "authors": [
+          "Anton Yang",
+          "Jianwei Ai",
+          "Costas Arkolakis"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33619",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33619",
+        "url": "https://doi.org/10.3386/w33619",
         "verified": true,
         "note": ""
       }
@@ -16339,6 +16432,42 @@
         "url": "https://doi.org/10.3386/w33578",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21146,6 +21275,23 @@
         "url": "https://doi.org/10.3386/w33538",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "title": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "authors": [
+          "Benjamin Feigenberg",
+          "Conrad Miller"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33629",
+        "url": "https://doi.org/10.3386/w33629",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21651,6 +21797,78 @@
         "pages": "",
         "doi": "10.3386/w33580",
         "url": "https://doi.org/10.3386/w33580",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Impact Investing and Worker Outcomes",
+        "title": "Impact Investing and Worker Outcomes",
+        "authors": [
+          "Josh Lerner",
+          "Markus Lithell",
+          "Gordon M. Phillips"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33611",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33611",
+        "url": "https://doi.org/10.3386/w33611",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
         "verified": true,
         "note": ""
       }
@@ -27155,6 +27373,111 @@
         "url": "https://doi.org/10.3386/w33594",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Dynamics of Labor Market Policies",
+        "title": "The Macroeconomic Dynamics of Labor Market Policies",
+        "authors": [
+          "Erik Hurst",
+          "Patrick J. Kehoe",
+          "Elena Pastorino",
+          "Thomas Winberry"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33614",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33614",
+        "url": "https://doi.org/10.3386/w33614",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise and Fall (and Rise) of the Affordable Care Act: Varying Impacts on Coverage Over Time and Place",
+        "title": "The Rise and Fall (and Rise) of the Affordable Care Act: Varying Impacts on Coverage Over Time and Place",
+        "authors": [
+          "Gabriella Aboulafia",
+          "Jonathan Gruber",
+          "Benjamin D. Sommers"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33615",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33615",
+        "url": "https://doi.org/10.3386/w33615",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "title": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "authors": [
+          "Benjamin Feigenberg",
+          "Conrad Miller"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33629",
+        "url": "https://doi.org/10.3386/w33629",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32219,6 +32542,79 @@
         "url": "https://doi.org/10.3386/w33582",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The U.S. Bureau of Labor Statistics’ Measurement of Telework During and Shortly After the Pandemic—an On-the-Ground Perspective",
+        "title": "The U.S. Bureau of Labor Statistics’ Measurement of Telework During and Shortly After the Pandemic—an On-the-Ground Perspective",
+        "authors": [
+          "Anne Polivka",
+          "Mary Dorinda Allard",
+          "Emy Sok"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33613",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33613",
+        "url": "https://doi.org/10.3386/w33613",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Macroeconomic Dynamics of Labor Market Policies",
+        "title": "The Macroeconomic Dynamics of Labor Market Policies",
+        "authors": [
+          "Erik Hurst",
+          "Patrick J. Kehoe",
+          "Elena Pastorino",
+          "Thomas Winberry"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33614",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33614",
+        "url": "https://doi.org/10.3386/w33614",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Non-Wage Amenities",
+        "title": "Non-Wage Amenities",
+        "authors": [
+          "Alexandre Mas"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33643",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33643",
+        "url": "https://doi.org/10.3386/w33643",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34526,6 +34922,44 @@
         "url": "https://doi.org/10.3386/w33552",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Moral Hazard under Liquidity Constraints",
+        "title": "Moral Hazard under Liquidity Constraints",
+        "authors": [
+          "Keith Marzilli Ericson",
+          "Johannes G. Jaspersen",
+          "Justin R. Sydnor"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33648",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33648",
+        "url": "https://doi.org/10.3386/w33648",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -36023,6 +36457,38 @@
         "url": "https://doi.org/10.3386/w33550",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investing in Children to Address the Child Mental Health Crisis",
+        "title": "Investing in Children to Address the Child Mental Health Crisis",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33632",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33632",
+        "url": "https://doi.org/10.3386/w33632",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Non-Wage Amenities",
+        "title": "Non-Wage Amenities",
+        "authors": [
+          "Alexandre Mas"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33643",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33643",
+        "url": "https://doi.org/10.3386/w33643",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37330,6 +37796,24 @@
         "url": "https://doi.org/10.3386/w33512",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Moral Hazard under Liquidity Constraints",
+        "title": "Moral Hazard under Liquidity Constraints",
+        "authors": [
+          "Keith Marzilli Ericson",
+          "Johannes G. Jaspersen",
+          "Justin R. Sydnor"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33648",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33648",
+        "url": "https://doi.org/10.3386/w33648",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37967,6 +38451,23 @@
         "pages": "",
         "doi": "10.3386/w33552",
         "url": "https://doi.org/10.3386/w33552",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hotelling Meets Keynes: Aggregate Adjustment with Spatial Competition and Nominal Rigidity",
+        "title": "Hotelling Meets Keynes: Aggregate Adjustment with Spatial Competition and Nominal Rigidity",
+        "authors": [
+          "Stephanie Schmitt-Grohé",
+          "Martín Uribe"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33628",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33628",
+        "url": "https://doi.org/10.3386/w33628",
         "verified": true,
         "note": ""
       }
@@ -38922,6 +39423,23 @@
         "pages": "",
         "doi": "10.3386/w33386",
         "url": "https://doi.org/10.3386/w33386",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "title": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "authors": [
+          "Benjamin Feigenberg",
+          "Conrad Miller"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33629",
+        "url": "https://doi.org/10.3386/w33629",
         "verified": true,
         "note": ""
       }
@@ -40251,6 +40769,24 @@
         "pages": "",
         "doi": "10.3386/w33552",
         "url": "https://doi.org/10.3386/w33552",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Correcting Endogeneity via Nonparametric Copula Control Functions",
+        "title": "Correcting Endogeneity via Nonparametric Copula Control Functions",
+        "authors": [
+          "Xixi Hu",
+          "Yi Qian",
+          "Hui Xie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33607",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33607",
+        "url": "https://doi.org/10.3386/w33607",
         "verified": true,
         "note": ""
       }
@@ -43062,6 +43598,26 @@
         "pages": "",
         "doi": "10.3386/w33580",
         "url": "https://doi.org/10.3386/w33580",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
         "verified": true,
         "note": ""
       }
@@ -46343,6 +46899,24 @@
         "url": "https://doi.org/10.3386/w33052",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Moral Hazard under Liquidity Constraints",
+        "title": "Moral Hazard under Liquidity Constraints",
+        "authors": [
+          "Keith Marzilli Ericson",
+          "Johannes G. Jaspersen",
+          "Justin R. Sydnor"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33648",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33648",
+        "url": "https://doi.org/10.3386/w33648",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48677,6 +49251,24 @@
         "url": "https://doi.org/10.3386/w33481",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Impact Investing and Worker Outcomes",
+        "title": "Impact Investing and Worker Outcomes",
+        "authors": [
+          "Josh Lerner",
+          "Markus Lithell",
+          "Gordon M. Phillips"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33611",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33611",
+        "url": "https://doi.org/10.3386/w33611",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -49406,6 +49998,23 @@
         "pages": "",
         "doi": "10.3386/w33463",
         "url": "https://doi.org/10.3386/w33463",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "title": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "authors": [
+          "Benjamin Feigenberg",
+          "Conrad Miller"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33629",
+        "url": "https://doi.org/10.3386/w33629",
         "verified": true,
         "note": ""
       }
@@ -50444,6 +51053,41 @@
         "url": "https://doi.org/10.3386/w33512",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Impact Investing and Worker Outcomes",
+        "title": "Impact Investing and Worker Outcomes",
+        "authors": [
+          "Josh Lerner",
+          "Markus Lithell",
+          "Gordon M. Phillips"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33611",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33611",
+        "url": "https://doi.org/10.3386/w33611",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -51099,6 +51743,26 @@
         "pages": "",
         "doi": "10.3386/w33522",
         "url": "https://doi.org/10.3386/w33522",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Credit Card Entrepreneurs",
+        "title": "Credit Card Entrepreneurs",
+        "authors": [
+          "Ufuk Akcigit",
+          "Raman Singh Chhina",
+          "Seyit M. Cilasun",
+          "Javier Miranda",
+          "Nicolas Serrano-Velarde"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33618",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33618",
+        "url": "https://doi.org/10.3386/w33618",
         "verified": true,
         "note": ""
       }
@@ -53392,6 +54056,47 @@
         "pages": "",
         "doi": "10.3386/w33199",
         "url": "https://doi.org/10.3386/w33199",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.3.24",
+    "title": "工厂产能利用率季度调查（Quarterly Survey of Plant Capacity Utilization，QPC）",
+    "links": [
+      {
+        "label": "Census Bureau: QPC",
+        "url": "https://www.census.gov/programs-surveys/qpc.html"
+      }
+    ],
+    "summary": "美国人口普查局为美联储和国防后勤局开展的制造业和出版业工厂产能利用率季度调查，记录约 7500 家工厂的实际产出、全产能和紧急状态产能、每周工作班次与工时，按行业公布产能利用率，公开下载，微观数据经 FSRDC 申请。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "商业数据"
+    ],
+    "introduction": "这是美国制造业产能利用的官方工厂级调查。研究常用它度量产能利用、班次和工时调整，校准生产函数和劳动需求模型。",
+    "source": "汇总公开；微观数据经 FSRDC 申请。",
+    "references": [
+      {
+        "raw": "The Macroeconomic Dynamics of Labor Market Policies",
+        "title": "The Macroeconomic Dynamics of Labor Market Policies",
+        "authors": [
+          "Erik Hurst",
+          "Patrick J. Kehoe",
+          "Elena Pastorino",
+          "Thomas Winberry"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33614",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33614",
+        "url": "https://doi.org/10.3386/w33614",
         "verified": true,
         "note": ""
       }
@@ -55832,6 +56537,58 @@
         "url": "https://doi.org/10.3386/w33569",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Robots and Crime",
+        "title": "Robots and Crime",
+        "authors": [
+          "Yang Liang",
+          "Joseph J. Sabia",
+          "Dhaval M. Dave"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33603",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33603",
+        "url": "https://doi.org/10.3386/w33603",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -57800,6 +58557,25 @@
         "url": "https://doi.org/10.3386/w33580",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59147,6 +59923,45 @@
         "url": "https://doi.org/10.3386/w33248",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Bullwhip: Time-to-Build and Sectoral Fluctuations",
+        "title": "The Bullwhip: Time-to-Build and Sectoral Fluctuations",
+        "authors": [
+          "Yan Leng",
+          "Ernest Liu",
+          "Yifei Ren",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33638",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33638",
+        "url": "https://doi.org/10.3386/w33638",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59869,6 +60684,23 @@
         "pages": "",
         "doi": "10.3386/w33385",
         "url": "https://doi.org/10.3386/w33385",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
         "verified": true,
         "note": ""
       }
@@ -62431,6 +63263,23 @@
         "url": "https://doi.org/10.3386/w33576",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62669,6 +63518,25 @@
         "pages": "",
         "doi": "10.3386/w33224",
         "url": "https://doi.org/10.3386/w33224",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Bullwhip: Time-to-Build and Sectoral Fluctuations",
+        "title": "The Bullwhip: Time-to-Build and Sectoral Fluctuations",
+        "authors": [
+          "Yan Leng",
+          "Ernest Liu",
+          "Yifei Ren",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33638",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33638",
+        "url": "https://doi.org/10.3386/w33638",
         "verified": true,
         "note": ""
       }
@@ -65646,6 +66514,58 @@
         "url": "https://doi.org/10.3386/w33317",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Robots and Crime",
+        "title": "Robots and Crime",
+        "authors": [
+          "Yang Liang",
+          "Joseph J. Sabia",
+          "Dhaval M. Dave"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33603",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33603",
+        "url": "https://doi.org/10.3386/w33603",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67072,6 +67992,23 @@
         "pages": "",
         "doi": "10.3386/w33522",
         "url": "https://doi.org/10.3386/w33522",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
         "verified": true,
         "note": ""
       }
@@ -69090,6 +70027,23 @@
         "pages": "",
         "doi": "10.3386/w33595",
         "url": "https://doi.org/10.3386/w33595",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Profitability Retrospective: What Have We Learned?",
+        "title": "Profitability Retrospective: What Have We Learned?",
+        "authors": [
+          "Robert Novy-Marx",
+          "Mamdouh Medhat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33601",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33601",
+        "url": "https://doi.org/10.3386/w33601",
         "verified": true,
         "note": ""
       }
@@ -72583,6 +73537,23 @@
         "url": "https://doi.org/10.3386/w33582",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73020,6 +73991,25 @@
         "pages": "",
         "doi": "10.3386/w33499",
         "url": "https://doi.org/10.3386/w33499",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Bullwhip: Time-to-Build and Sectoral Fluctuations",
+        "title": "The Bullwhip: Time-to-Build and Sectoral Fluctuations",
+        "authors": [
+          "Yan Leng",
+          "Ernest Liu",
+          "Yifei Ren",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33638",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33638",
+        "url": "https://doi.org/10.3386/w33638",
         "verified": true,
         "note": ""
       }
@@ -74280,6 +75270,24 @@
         "url": "https://doi.org/10.3386/w33558",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Impact Investing and Worker Outcomes",
+        "title": "Impact Investing and Worker Outcomes",
+        "authors": [
+          "Josh Lerner",
+          "Markus Lithell",
+          "Gordon M. Phillips"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33611",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33611",
+        "url": "https://doi.org/10.3386/w33611",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -74961,6 +75969,23 @@
         "pages": "382–419",
         "doi": "10.1093/restud/rdz003",
         "url": "https://doi.org/10.1093/restud/rdz003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
         "verified": true,
         "note": ""
       }
@@ -76041,6 +77066,24 @@
         "url": "https://doi.org/10.3386/w32502",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Robots and Crime",
+        "title": "Robots and Crime",
+        "authors": [
+          "Yang Liang",
+          "Joseph J. Sabia",
+          "Dhaval M. Dave"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33603",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33603",
+        "url": "https://doi.org/10.3386/w33603",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -76446,6 +77489,22 @@
         "url": "https://doi.org/10.3386/w32751",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Non-Wage Amenities",
+        "title": "Non-Wage Amenities",
+        "authors": [
+          "Alexandre Mas"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33643",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33643",
+        "url": "https://doi.org/10.3386/w33643",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -76502,6 +77561,24 @@
         "pages": "",
         "doi": "10.3386/w33317",
         "url": "https://doi.org/10.3386/w33317",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robots and Crime",
+        "title": "Robots and Crime",
+        "authors": [
+          "Yang Liang",
+          "Joseph J. Sabia",
+          "Dhaval M. Dave"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33603",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33603",
+        "url": "https://doi.org/10.3386/w33603",
         "verified": true,
         "note": ""
       }
@@ -76840,6 +77917,24 @@
         "pages": "",
         "doi": "10.3386/w33425",
         "url": "https://doi.org/10.3386/w33425",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Treasury Markets Add and Subtract?",
+        "title": "Can Treasury Markets Add and Subtract?",
+        "authors": [
+          "Roberto Gomez Cram",
+          "Howard Kung",
+          "Hanno Lustig"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33604",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33604",
+        "url": "https://doi.org/10.3386/w33604",
         "verified": true,
         "note": ""
       }
@@ -77298,6 +78393,103 @@
         "pages": "",
         "doi": "10.3386/w33511",
         "url": "https://doi.org/10.3386/w33511",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.87",
+    "title": "州与地方执法机构普查（Census of State and Local Law Enforcement Agencies，CSLLEA）",
+    "links": [
+      {
+        "label": "BJS: CSLLEA",
+        "url": "https://bjs.ojp.gov/data-collection/census-state-and-local-law-enforcement-agencies-csllea"
+      }
+    ],
+    "summary": "美国司法统计局（BJS）约每四年开展的全国执法机构普查（1992 年以来多轮，最新 2018 年），覆盖约 1.8 万个州、县、市警察局、警长办公室和特殊执法机构，记录机构类型、全职与兼职宣誓警员和文职人员数量及主要职能，经 ICPSR/NACJD 公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "政治数据"
+    ],
+    "introduction": "这是美国全部执法机构的名录和规模基准。研究常用它度量地方警力规模，并作为 LEMAS 等抽样调查的抽样框。",
+    "source": "公开下载（ICPSR/NACJD）。",
+    "references": [
+      {
+        "raw": "Robots and Crime",
+        "title": "Robots and Crime",
+        "authors": [
+          "Yang Liang",
+          "Joseph J. Sabia",
+          "Dhaval M. Dave"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33603",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33603",
+        "url": "https://doi.org/10.3386/w33603",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.88",
+    "title": "美国卫生与公众服务部联邦贫困线指南（HHS Poverty Guidelines）",
+    "links": [
+      {
+        "label": "ASPE: Poverty Guidelines",
+        "url": "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines"
+      }
+    ],
+    "summary": "美国卫生与公众服务部规划与评估助理部长办公室（ASPE）每年发布的联邦贫困线指南，按家庭人数分别给出本土 48 州、阿拉斯加和夏威夷的年收入门槛，1982 年以来，用于确定 Medicaid、ACA 补贴、SNAP 等项目资格，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是美国社会项目资格认定的基准收入线。研究常用它计算家庭收入与贫困线之比，构造项目资格和补贴变量。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Rise and Fall (and Rise) of the Affordable Care Act: Varying Impacts on Coverage Over Time and Place",
+        "title": "The Rise and Fall (and Rise) of the Affordable Care Act: Varying Impacts on Coverage Over Time and Place",
+        "authors": [
+          "Gabriella Aboulafia",
+          "Jonathan Gruber",
+          "Benjamin D. Sommers"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33615",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33615",
+        "url": "https://doi.org/10.3386/w33615",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Moral Hazard under Liquidity Constraints",
+        "title": "Moral Hazard under Liquidity Constraints",
+        "authors": [
+          "Keith Marzilli Ericson",
+          "Johannes G. Jaspersen",
+          "Justin R. Sydnor"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33648",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33648",
+        "url": "https://doi.org/10.3386/w33648",
         "verified": true,
         "note": ""
       }
@@ -78606,6 +79798,23 @@
         "url": "https://doi.org/10.3386/w32384",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -78710,6 +79919,23 @@
         "pages": "3394–3426",
         "doi": "10.1093/restud/rdaf104",
         "url": "https://doi.org/10.1093/restud/rdaf104",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
         "verified": true,
         "note": ""
       }
@@ -78892,6 +80118,24 @@
         "pages": "2065–2102",
         "doi": "10.1257/aer.20180615",
         "url": "https://doi.org/10.1257/aer.20180615",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise and Fall (and Rise) of the Affordable Care Act: Varying Impacts on Coverage Over Time and Place",
+        "title": "The Rise and Fall (and Rise) of the Affordable Care Act: Varying Impacts on Coverage Over Time and Place",
+        "authors": [
+          "Gabriella Aboulafia",
+          "Jonathan Gruber",
+          "Benjamin D. Sommers"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33615",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33615",
+        "url": "https://doi.org/10.3386/w33615",
         "verified": true,
         "note": ""
       }
@@ -79621,6 +80865,45 @@
         "pages": "",
         "doi": "10.3386/w33477",
         "url": "https://doi.org/10.3386/w33477",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.5.27",
+    "title": "美国陆军工程兵团国家建筑物清单（National Structure Inventory，NSI）",
+    "links": [
+      {
+        "label": "USACE HEC: NSI",
+        "url": "https://www.hec.usace.army.mil/confluence/nsi"
+      }
+    ],
+    "summary": "美国陆军工程兵团（USACE）水文工程中心构建的全国建筑物点位数据库，结合地块、人口和建筑轮廓数据，记录约 1 亿多栋建筑的位置、用途、层数、面积、地基高度、建筑与内容物价值和昼夜人口，用于洪水损失评估，公开下载和 API。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "房地产数据"
+    ],
+    "introduction": "这是美国建筑物暴露于灾害风险的标准数据。研究常用它度量洪水和堤防保护区的建筑价值，估计灾害损失。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
         "verified": true,
         "note": ""
       }
@@ -81883,6 +83166,23 @@
         "url": "https://doi.org/10.3386/w33549",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Sorting and Inequality",
+        "title": "Spatial Sorting and Inequality",
+        "authors": [
+          "Rebecca Diamond",
+          "Juan Carlos Suárez Serrato"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33609",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33609",
+        "url": "https://doi.org/10.3386/w33609",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82742,6 +84042,23 @@
         "url": "https://doi.org/10.1086/695474",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82886,6 +84203,23 @@
         "pages": "",
         "doi": "10.2139/ssrn.5433735",
         "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5433735",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
         "verified": true,
         "note": ""
       }
@@ -86511,6 +87845,23 @@
         "url": "https://doi.org/10.3386/w33119",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -87770,6 +89121,23 @@
         "url": "https://doi.org/10.3386/w33119",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -88195,6 +89563,23 @@
         "pages": "719–746",
         "doi": "10.1086/653488",
         "url": "https://doi.org/10.1086/653488",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
         "verified": true,
         "note": ""
       }
@@ -89196,6 +90581,47 @@
         "pages": "",
         "doi": "10.3386/w33564",
         "url": "https://doi.org/10.3386/w33564",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.84",
+    "title": "EPA 美国供应链温室气体排放因子（Supply Chain GHG Emission Factors）",
+    "links": [
+      {
+        "label": "Data.gov: Supply Chain GHG Emission Factors",
+        "url": "https://catalog.data.gov/dataset/supply-chain-greenhouse-gas-emission-factors-v1-3-by-naics-6"
+      }
+    ],
+    "summary": "EPA 基于美国环境扩展投入产出模型（USEEIO）发布的约 1000 个 NAICS 六位数行业的供应链温室气体排放因子，以每美元购买产品或服务的 CO2 当量计，区分有无边际，按年份更新，经 Data.gov 公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "这是计算消费和采购碳足迹的常用排放因子。研究常用它把支出数据换算为隐含排放，分析消费结构与碳排放的关系。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
         "verified": true,
         "note": ""
       }
@@ -92565,6 +93991,26 @@
         "pages": "",
         "doi": "10.3386/w33032",
         "url": "https://doi.org/10.3386/w33032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
         "verified": true,
         "note": ""
       }
@@ -98777,6 +100223,40 @@
         "url": "https://doi.org/10.3386/w33549",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C",
+        "title": "Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C",
+        "authors": [
+          "James M. Flynn",
+          "Bethany I. Lemont",
+          "Barton Willage"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33617",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33617",
+        "url": "https://doi.org/10.3386/w33617",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investing in Children to Address the Child Mental Health Crisis",
+        "title": "Investing in Children to Address the Child Mental Health Crisis",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33632",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33632",
+        "url": "https://doi.org/10.3386/w33632",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99897,6 +101377,23 @@
         "url": "https://doi.org/10.3386/w33217",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -100173,6 +101670,38 @@
         "url": "https://doi.org/10.3386/w32891",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Increased Exposure of Diversity on Suburban Students' Outcomes: An Analysis of the METCO Voluntary Desegregation Program",
+        "title": "The Impact of Increased Exposure of Diversity on Suburban Students' Outcomes: An Analysis of the METCO Voluntary Desegregation Program",
+        "authors": [
+          "Elizabeth Setren"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33623",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33623",
+        "url": "https://doi.org/10.3386/w33623",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investing in Children to Address the Child Mental Health Crisis",
+        "title": "Investing in Children to Address the Child Mental Health Crisis",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33632",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33632",
+        "url": "https://doi.org/10.3386/w33632",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -100309,6 +101838,22 @@
         "pages": "",
         "doi": "10.3386/w33550",
         "url": "https://doi.org/10.3386/w33550",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investing in Children to Address the Child Mental Health Crisis",
+        "title": "Investing in Children to Address the Child Mental Health Crisis",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33632",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33632",
+        "url": "https://doi.org/10.3386/w33632",
         "verified": true,
         "note": ""
       }
@@ -103453,6 +104998,24 @@
         "url": "https://doi.org/10.3386/w32217",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "title": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "authors": [
+          "Pierre Azoulay",
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33627",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33627",
+        "url": "https://doi.org/10.3386/w33627",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104051,6 +105614,24 @@
         "url": "https://doi.org/10.3982/ecta17017",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C",
+        "title": "Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C",
+        "authors": [
+          "James M. Flynn",
+          "Bethany I. Lemont",
+          "Barton Willage"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33617",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33617",
+        "url": "https://doi.org/10.3386/w33617",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104104,6 +105685,24 @@
         "pages": "",
         "doi": "10.3386/w33196",
         "url": "https://doi.org/10.3386/w33196",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C",
+        "title": "Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C",
+        "authors": [
+          "James M. Flynn",
+          "Bethany I. Lemont",
+          "Barton Willage"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33617",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33617",
+        "url": "https://doi.org/10.3386/w33617",
         "verified": true,
         "note": ""
       }
@@ -105066,6 +106665,22 @@
         "pages": "",
         "doi": "10.3386/w33550",
         "url": "https://doi.org/10.3386/w33550",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investing in Children to Address the Child Mental Health Crisis",
+        "title": "Investing in Children to Address the Child Mental Health Crisis",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33632",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33632",
+        "url": "https://doi.org/10.3386/w33632",
         "verified": true,
         "note": ""
       }
@@ -106189,6 +107804,24 @@
         "url": "https://doi.org/10.3386/w33244",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Moral Hazard under Liquidity Constraints",
+        "title": "Moral Hazard under Liquidity Constraints",
+        "authors": [
+          "Keith Marzilli Ericson",
+          "Johannes G. Jaspersen",
+          "Justin R. Sydnor"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33648",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33648",
+        "url": "https://doi.org/10.3386/w33648",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107288,6 +108921,22 @@
         "url": "https://doi.org/10.3386/w33550",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investing in Children to Address the Child Mental Health Crisis",
+        "title": "Investing in Children to Address the Child Mental Health Crisis",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33632",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33632",
+        "url": "https://doi.org/10.3386/w33632",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107366,6 +109015,45 @@
         "pages": "",
         "doi": "10.3386/w33571",
         "url": "https://doi.org/10.3386/w33571",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.100",
+    "title": "CDC NCHHSTP AtlasPlus 传染病监测数据",
+    "links": [
+      {
+        "label": "CDC NCHHSTP AtlasPlus",
+        "url": "https://gis.cdc.gov/grasp/nchhstpatlas/main.html"
+      }
+    ],
+    "summary": "美国疾控中心国家艾滋病、病毒性肝炎、性病和结核病预防中心（NCHHSTP）的交互式监测数据平台，提供 2000 年以来按州、县、年龄、性别和种族的 HIV、病毒性肝炎（甲、乙、丙肝）、性传播疾病和结核病病例数与发病率，公开查询下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是美国主要传染病监测的标准汇总数据。研究常用它度量州县 HIV 和肝炎发病，分析药物定价、医保和公共卫生项目的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C",
+        "title": "Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C",
+        "authors": [
+          "James M. Flynn",
+          "Bethany I. Lemont",
+          "Barton Willage"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33617",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33617",
+        "url": "https://doi.org/10.3386/w33617",
         "verified": true,
         "note": ""
       }
@@ -110581,6 +112269,25 @@
         "url": "https://doi.org/10.3386/w33591",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -112253,6 +113960,25 @@
         "url": "https://doi.org/10.3386/w32792",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -112923,6 +114649,27 @@
         "url": "https://doi.org/10.3386/w33295",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Conflict-of-Interest Discount in the Marketplace of Ideas",
+        "title": "The Conflict-of-Interest Discount in the Marketplace of Ideas",
+        "authors": [
+          "John M. Barrios",
+          "Filippo Lancieri",
+          "Joshua Levy",
+          "Shashank Singh",
+          "Tommaso Valletti",
+          "Luigi Zingales"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33645",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33645",
+        "url": "https://doi.org/10.3386/w33645",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -113350,6 +115097,23 @@
         "pages": "",
         "doi": "10.3386/w33422",
         "url": "https://doi.org/10.3386/w33422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
         "verified": true,
         "note": ""
       }
@@ -115899,6 +117663,25 @@
         "url": "https://doi.org/10.1086/701357",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -115989,6 +117772,25 @@
         "pages": "",
         "doi": "10.3386/w32962",
         "url": "https://doi.org/10.3386/w32962",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
         "verified": true,
         "note": ""
       }
@@ -116950,6 +118752,25 @@
         "url": "https://doi.org/10.3386/w32962",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -117042,6 +118863,25 @@
         "pages": "",
         "doi": "10.3386/w32786",
         "url": "https://doi.org/10.3386/w32786",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
         "verified": true,
         "note": ""
       }
@@ -117538,6 +119378,83 @@
     ]
   },
   {
+    "id": "2.10.76",
+    "title": "州议会选举结果数据库（State Legislative Election Returns，SLERs）",
+    "links": [
+      {
+        "label": "Klarner Politics",
+        "url": "https://www.klarnerpolitics.org/"
+      }
+    ],
+    "summary": "Klarner 等整理的美国州议会选举结果数据，记录 1967 年以来各州上下院每次大选和特别选举的选区、候选人、党派、得票和现任状态，经 Harvard Dataverse 公开下载，Carl Klarner 持续更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是美国州议会选举研究的标准数据。研究常用它度量州议会竞争程度、现任优势和党派控制。",
+    "source": "公开下载（Harvard Dataverse）。",
+    "references": [
+      {
+        "raw": "Revolving Door Laws and Political Selection",
+        "title": "Revolving Door Laws and Political Selection",
+        "authors": [
+          "Raymond Fisman",
+          "Jetson Leder-Luis",
+          "Catherine M. O&#039;Donnell",
+          "Silvia Vannutelli"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33626",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33626",
+        "url": "https://doi.org/10.3386/w33626",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.77",
+    "title": "州枪支法律数据库（State Firearm Laws Database）",
+    "links": [
+      {
+        "label": "State Firearm Laws",
+        "url": "http://statefirearmlaws.org"
+      }
+    ],
+    "summary": "Siegel 等（波士顿大学、塔夫茨大学）编制的美国各州 1991 年以来枪支法律数据库，按 14 类 134 项规定（如背景调查、许可证、禁止持有人群、隐蔽携带、“不退让”法和儿童接触防护）逐年记录各州是否实施，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是美国州枪支法律最常用的编码数据。研究常用它分析枪支管制对枪支死亡、自杀和犯罪的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Investing in Children to Address the Child Mental Health Crisis",
+        "title": "Investing in Children to Address the Child Mental Health Crisis",
+        "authors": [
+          "Janet Currie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33632",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33632",
+        "url": "https://doi.org/10.3386/w33632",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.11.1",
     "title": "Zillow 房地产数据（ZTRAX 交易与评估记录、ZHVI 房价指数）",
     "links": [
@@ -117989,6 +119906,23 @@
         "pages": "",
         "doi": "10.3386/w33582",
         "url": "https://doi.org/10.3386/w33582",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
         "verified": true,
         "note": ""
       }
@@ -118712,6 +120646,23 @@
         "url": "https://doi.org/10.1093/qje/qjac033",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "title": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "authors": [
+          "Benjamin Feigenberg",
+          "Conrad Miller"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33629",
+        "url": "https://doi.org/10.3386/w33629",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -119222,6 +121173,40 @@
         "pages": "",
         "doi": "10.3386/w33297",
         "url": "https://doi.org/10.3386/w33297",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "title": "Class Disparities and Discrimination in Traffic Stops and Searches",
+        "authors": [
+          "Benjamin Feigenberg",
+          "Conrad Miller"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33629",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33629",
+        "url": "https://doi.org/10.3386/w33629",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
         "verified": true,
         "note": ""
       }
@@ -119950,6 +121935,23 @@
         "pages": "",
         "doi": "10.3386/w33437",
         "url": "https://doi.org/10.3386/w33437",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
         "verified": true,
         "note": ""
       }
@@ -125760,6 +127762,26 @@
         "url": "https://doi.org/10.3386/w33585",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126045,6 +128067,23 @@
         "pages": "",
         "doi": "10.3386/w32781",
         "url": "https://doi.org/10.3386/w32781",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "title": "Private Benefits from Public Investment in Climate Adaptation and Resilience",
+        "authors": [
+          "Jacob T. Bradt",
+          "Joseph E. Aldy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33633",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33633",
+        "url": "https://doi.org/10.3386/w33633",
         "verified": true,
         "note": ""
       }
@@ -129742,6 +131781,61 @@
         "url": "https://doi.org/10.3386/w33590",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Profitability Retrospective: What Have We Learned?",
+        "title": "Profitability Retrospective: What Have We Learned?",
+        "authors": [
+          "Robert Novy-Marx",
+          "Mamdouh Medhat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33601",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33601",
+        "url": "https://doi.org/10.3386/w33601",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Bullwhip: Time-to-Build and Sectoral Fluctuations",
+        "title": "The Bullwhip: Time-to-Build and Sectoral Fluctuations",
+        "authors": [
+          "Yan Leng",
+          "Ernest Liu",
+          "Yifei Ren",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33638",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33638",
+        "url": "https://doi.org/10.3386/w33638",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Asset Embeddings",
+        "title": "Asset Embeddings",
+        "authors": [
+          "Xavier Gabaix",
+          "Ralph S. J. Koijen",
+          "Robert J. Richmond",
+          "Motohiro Yogo"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33651",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33651",
+        "url": "https://doi.org/10.3386/w33651",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -131743,6 +133837,59 @@
         "url": "https://doi.org/10.3386/w33590",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Profitability Retrospective: What Have We Learned?",
+        "title": "Profitability Retrospective: What Have We Learned?",
+        "authors": [
+          "Robert Novy-Marx",
+          "Mamdouh Medhat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33601",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33601",
+        "url": "https://doi.org/10.3386/w33601",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Research Behavior of Individual Investors",
+        "title": "The Research Behavior of Individual Investors",
+        "authors": [
+          "Toomas Laarits",
+          "Jeffrey Wurgler"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33625",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33625",
+        "url": "https://doi.org/10.3386/w33625",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Asset Embeddings",
+        "title": "Asset Embeddings",
+        "authors": [
+          "Xavier Gabaix",
+          "Ralph S. J. Koijen",
+          "Robert J. Richmond",
+          "Motohiro Yogo"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33651",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33651",
+        "url": "https://doi.org/10.3386/w33651",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -133740,6 +135887,40 @@
         "url": "https://doi.org/10.3386/w33554",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Profitability Retrospective: What Have We Learned?",
+        "title": "Profitability Retrospective: What Have We Learned?",
+        "authors": [
+          "Robert Novy-Marx",
+          "Mamdouh Medhat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33601",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33601",
+        "url": "https://doi.org/10.3386/w33601",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Research Behavior of Individual Investors",
+        "title": "The Research Behavior of Individual Investors",
+        "authors": [
+          "Toomas Laarits",
+          "Jeffrey Wurgler"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33625",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33625",
+        "url": "https://doi.org/10.3386/w33625",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -134485,6 +136666,26 @@
         "pages": "",
         "doi": "10.3386/w33590",
         "url": "https://doi.org/10.3386/w33590",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Credit Card Entrepreneurs",
+        "title": "Credit Card Entrepreneurs",
+        "authors": [
+          "Ufuk Akcigit",
+          "Raman Singh Chhina",
+          "Seyit M. Cilasun",
+          "Javier Miranda",
+          "Nicolas Serrano-Velarde"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33618",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33618",
+        "url": "https://doi.org/10.3386/w33618",
         "verified": true,
         "note": ""
       }
@@ -137082,6 +139283,25 @@
         "pages": "",
         "doi": "10.3386/w33590",
         "url": "https://doi.org/10.3386/w33590",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers of Climate Policy Shocks",
+        "title": "Global Spillovers of Climate Policy Shocks",
+        "authors": [
+          "Julian di Giovanni",
+          "Galina Hale",
+          "Neel Lahiri",
+          "Anirban Sanyal"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33647",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33647",
+        "url": "https://doi.org/10.3386/w33647",
         "verified": true,
         "note": ""
       }
@@ -139791,6 +142011,23 @@
         "url": "https://doi.org/10.3386/w32746",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Research Behavior of Individual Investors",
+        "title": "The Research Behavior of Individual Investors",
+        "authors": [
+          "Toomas Laarits",
+          "Jeffrey Wurgler"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33625",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33625",
+        "url": "https://doi.org/10.3386/w33625",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -140442,6 +142679,43 @@
         "pages": "",
         "doi": "10.3386/w33195",
         "url": "https://doi.org/10.3386/w33195",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Treasury Markets Add and Subtract?",
+        "title": "Can Treasury Markets Add and Subtract?",
+        "authors": [
+          "Roberto Gomez Cram",
+          "Howard Kung",
+          "Hanno Lustig"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33604",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33604",
+        "url": "https://doi.org/10.3386/w33604",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers of Climate Policy Shocks",
+        "title": "Global Spillovers of Climate Policy Shocks",
+        "authors": [
+          "Julian di Giovanni",
+          "Galina Hale",
+          "Neel Lahiri",
+          "Anirban Sanyal"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33647",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33647",
+        "url": "https://doi.org/10.3386/w33647",
         "verified": true,
         "note": ""
       }
@@ -141579,6 +143853,24 @@
         "url": "https://doi.org/10.3386/w33243",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Can Treasury Markets Add and Subtract?",
+        "title": "Can Treasury Markets Add and Subtract?",
+        "authors": [
+          "Roberto Gomez Cram",
+          "Howard Kung",
+          "Hanno Lustig"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33604",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33604",
+        "url": "https://doi.org/10.3386/w33604",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -141894,6 +144186,127 @@
         "pages": "",
         "doi": "10.3386/w33554",
         "url": "https://doi.org/10.3386/w33554",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.109",
+    "title": "美国财政部公报（Treasury Bulletin）",
+    "links": [
+      {
+        "label": "Treasury Bulletin",
+        "url": "https://fiscal.treasury.gov/reports-statements/treasury-bulletin/"
+      }
+    ],
+    "summary": "美国财政部财政服务局按季度出版的统计公报，提供联邦财政收支、公共债务余额与期限结构（如表 FD-5 可流通国债平均期限）、国债发行与持有人构成、外国持有美国证券和汇率稳定基金等表格，1939 年以来，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是美国国债规模与期限结构的官方历史数据。研究常用它构造国债供给和期限结构变量，分析债务管理和期限溢价。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Can Treasury Markets Add and Subtract?",
+        "title": "Can Treasury Markets Add and Subtract?",
+        "authors": [
+          "Roberto Gomez Cram",
+          "Howard Kung",
+          "Hanno Lustig"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33604",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33604",
+        "url": "https://doi.org/10.3386/w33604",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.110",
+    "title": "RateWatch 银行网点存贷款利率数据",
+    "links": [
+      {
+        "label": "RateWatch",
+        "url": "https://www.ratewatch.com"
+      }
+    ],
+    "summary": "S&P Global 旗下 RateWatch 每周收集的美国银行和信用社网点层面存款、贷款和信用卡利率与费用报价，覆盖数万个网点和数十种产品（定期存款、货币市场账户、房贷、车贷、信用卡 APR），2001 年以来，付费商业授权。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是美国银行产品定价最细的网点级数据。研究常用它分析货币政策向存贷款利率的传导和银行市场势力。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Credit Card Entrepreneurs",
+        "title": "Credit Card Entrepreneurs",
+        "authors": [
+          "Ufuk Akcigit",
+          "Raman Singh Chhina",
+          "Seyit M. Cilasun",
+          "Javier Miranda",
+          "Nicolas Serrano-Velarde"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33618",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33618",
+        "url": "https://doi.org/10.3386/w33618",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.111",
+    "title": "美联储 H.10 外汇汇率统计发布",
+    "links": [
+      {
+        "label": "Federal Reserve: H.10",
+        "url": "https://www.federalreserve.gov/releases/h10/"
+      }
+    ],
+    "summary": "美联储理事会每周发布的 H.10 外汇汇率统计，提供纽约市场中午买入价计算的美元对二十多种主要货币日度汇率，以及名义和实际广义、主要货币、新兴市场贸易加权美元指数，1971 年以来，公开下载（亦经 FRED 提供）。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是美元汇率和美元指数的官方数据。研究常用它度量美元走势，分析美元周期对全球金融和贸易的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Global Spillovers of Climate Policy Shocks",
+        "title": "Global Spillovers of Climate Policy Shocks",
+        "authors": [
+          "Julian di Giovanni",
+          "Galina Hale",
+          "Neel Lahiri",
+          "Anirban Sanyal"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33647",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33647",
+        "url": "https://doi.org/10.3386/w33647",
         "verified": true,
         "note": ""
       }
@@ -143758,6 +146171,24 @@
         "url": "https://doi.org/10.3386/w32994",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Correcting Endogeneity via Nonparametric Copula Control Functions",
+        "title": "Correcting Endogeneity via Nonparametric Copula Control Functions",
+        "authors": [
+          "Xixi Hu",
+          "Yi Qian",
+          "Hui Xie"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33607",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33607",
+        "url": "https://doi.org/10.3386/w33607",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -144513,6 +146944,24 @@
         "url": "https://doi.org/10.3386/w33588",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "title": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "authors": [
+          "Pierre Azoulay",
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33627",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33627",
+        "url": "https://doi.org/10.3386/w33627",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -144655,6 +147104,24 @@
         "pages": "",
         "doi": "10.3386/w33495",
         "url": "https://doi.org/10.3386/w33495",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "title": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "authors": [
+          "Pierre Azoulay",
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33627",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33627",
+        "url": "https://doi.org/10.3386/w33627",
         "verified": true,
         "note": ""
       }
@@ -149521,6 +151988,41 @@
         "url": "https://doi.org/10.3386/w33596",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "title": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "authors": [
+          "Pierre Azoulay",
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33627",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33627",
+        "url": "https://doi.org/10.3386/w33627",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -151214,6 +153716,42 @@
         "url": "https://doi.org/10.3386/w33530",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Putting School Surveys to the Test",
+        "title": "Putting School Surveys to the Test",
+        "authors": [
+          "Joshua Angrist",
+          "Peter Hull",
+          "Russell Legate-Yang",
+          "Parag A. Pathak",
+          "Christopher R. Walters"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33622",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33622",
+        "url": "https://doi.org/10.3386/w33622",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Increased Exposure of Diversity on Suburban Students' Outcomes: An Analysis of the METCO Voluntary Desegregation Program",
+        "title": "The Impact of Increased Exposure of Diversity on Suburban Students' Outcomes: An Analysis of the METCO Voluntary Desegregation Program",
+        "authors": [
+          "Elizabeth Setren"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33623",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33623",
+        "url": "https://doi.org/10.3386/w33623",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -151669,6 +154207,22 @@
         "pages": "",
         "doi": "10.3386/w33073",
         "url": "https://doi.org/10.3386/w33073",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Increased Exposure of Diversity on Suburban Students' Outcomes: An Analysis of the METCO Voluntary Desegregation Program",
+        "title": "The Impact of Increased Exposure of Diversity on Suburban Students' Outcomes: An Analysis of the METCO Voluntary Desegregation Program",
+        "authors": [
+          "Elizabeth Setren"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33623",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33623",
+        "url": "https://doi.org/10.3386/w33623",
         "verified": true,
         "note": ""
       }
@@ -152627,6 +155181,26 @@
         "url": "https://doi.org/10.3386/w32864",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Putting School Surveys to the Test",
+        "title": "Putting School Surveys to the Test",
+        "authors": [
+          "Joshua Angrist",
+          "Peter Hull",
+          "Russell Legate-Yang",
+          "Parag A. Pathak",
+          "Christopher R. Walters"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33622",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33622",
+        "url": "https://doi.org/10.3386/w33622",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -152794,6 +155368,24 @@
         "pages": "",
         "doi": "10.3386/w33005",
         "url": "https://doi.org/10.3386/w33005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "title": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "authors": [
+          "Pierre Azoulay",
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33627",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33627",
+        "url": "https://doi.org/10.3386/w33627",
         "verified": true,
         "note": ""
       }
@@ -155168,6 +157760,25 @@
         "url": "https://doi.org/10.3386/w33581",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Menopause \"Penalty\"",
+        "title": "The Menopause \"Penalty\"",
+        "authors": [
+          "Gabriella Conti",
+          "Rita Ginja",
+          "Petra Persson",
+          "Barton Willage"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33621",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33621",
+        "url": "https://doi.org/10.3386/w33621",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -155751,6 +158362,44 @@
         "pages": "",
         "doi": "10.3386/w33558",
         "url": "https://doi.org/10.3386/w33558",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sources of Generational Persistence in the Effects of Early-Life Health Interventions",
+        "title": "Sources of Generational Persistence in the Effects of Early-Life Health Interventions",
+        "authors": [
+          "Sara Sofie Abrahamsson",
+          "Aline Bütikofer",
+          "Katrine V. Løken",
+          "Marianne E. Page"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33612",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33612",
+        "url": "https://doi.org/10.3386/w33612",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Menopause \"Penalty\"",
+        "title": "The Menopause \"Penalty\"",
+        "authors": [
+          "Gabriella Conti",
+          "Rita Ginja",
+          "Petra Persson",
+          "Barton Willage"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33621",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33621",
+        "url": "https://doi.org/10.3386/w33621",
         "verified": true,
         "note": ""
       }
@@ -167048,6 +169697,43 @@
         "url": "https://doi.org/10.3386/w32937",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "title": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "authors": [
+          "Qiaoyi Chen",
+          "Nicholas Ryan",
+          "Daniel Xu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33636",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33636",
+        "url": "https://doi.org/10.3386/w33636",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers of Climate Policy Shocks",
+        "title": "Global Spillovers of Climate Policy Shocks",
+        "authors": [
+          "Julian di Giovanni",
+          "Galina Hale",
+          "Neel Lahiri",
+          "Anirban Sanyal"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33647",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33647",
+        "url": "https://doi.org/10.3386/w33647",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -167927,6 +170613,47 @@
         "pages": "",
         "doi": "10.3386/w33510",
         "url": "https://doi.org/10.3386/w33510",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.6.19",
+    "title": "Känzig 欧盟碳政策冲击序列（Carbon Policy Shocks）",
+    "links": [
+      {
+        "label": "GitHub: carbonpolicyshocks",
+        "url": "https://github.com/dkaenzig/carbonpolicyshocks"
+      }
+    ],
+    "summary": "Diego Känzig（2023）利用欧盟碳排放交易体系监管公告前后碳期货价格的高频变动识别的碳政策冲击（惊喜）序列，2005 年以来日度和月度，作者在 GitHub 公开下载并更新。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据",
+      "金融数据"
+    ],
+    "introduction": "这是识别碳定价宏观效应最常用的冲击序列。研究常用它作为工具变量，分析碳价对排放、产出、通胀和不平等的影响。",
+    "source": "公开下载（GitHub）。",
+    "references": [
+      {
+        "raw": "Global Spillovers of Climate Policy Shocks",
+        "title": "Global Spillovers of Climate Policy Shocks",
+        "authors": [
+          "Julian di Giovanni",
+          "Galina Hale",
+          "Neel Lahiri",
+          "Anirban Sanyal"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33647",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33647",
+        "url": "https://doi.org/10.3386/w33647",
         "verified": true,
         "note": ""
       }
@@ -169205,6 +171932,25 @@
         "url": "https://doi.org/10.3386/w32445",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Menopause \"Penalty\"",
+        "title": "The Menopause \"Penalty\"",
+        "authors": [
+          "Gabriella Conti",
+          "Rita Ginja",
+          "Petra Persson",
+          "Barton Willage"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33621",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33621",
+        "url": "https://doi.org/10.3386/w33621",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -169316,6 +172062,25 @@
         "pages": "1862–1891",
         "doi": "10.1257/aer.103.5.1862",
         "url": "https://doi.org/10.1257/aer.103.5.1862",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sources of Generational Persistence in the Effects of Early-Life Health Interventions",
+        "title": "Sources of Generational Persistence in the Effects of Early-Life Health Interventions",
+        "authors": [
+          "Sara Sofie Abrahamsson",
+          "Aline Bütikofer",
+          "Katrine V. Løken",
+          "Marianne E. Page"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33612",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33612",
+        "url": "https://doi.org/10.3386/w33612",
         "verified": true,
         "note": ""
       }
@@ -188427,6 +191192,24 @@
         "url": "https://doi.org/10.3386/w33208",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How to Sell Public Debt in Uncertain Times",
+        "title": "How to Sell Public Debt in Uncertain Times",
+        "authors": [
+          "Harold L. Cole",
+          "Daniel Neuhann",
+          "Guillermo Ordoñez"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33616",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33616",
+        "url": "https://doi.org/10.3386/w33616",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -190129,6 +192912,25 @@
         "url": "https://doi.org/10.3386/w33479",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Worker Rights in Collective Bargaining",
+        "title": "Worker Rights in Collective Bargaining",
+        "authors": [
+          "Benjamin W. Arold",
+          "Elliott Ash",
+          "W. Bentley MacLeod",
+          "Suresh Naidu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33605",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33605",
+        "url": "https://doi.org/10.3386/w33605",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -191187,6 +193989,49 @@
         "pages": "2147–2182",
         "doi": "10.1257/aer.102.5.2147",
         "url": "https://doi.org/10.1257/aer.102.5.2147",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.5.2",
+    "title": "IPIS 非洲手工采矿点调查数据",
+    "links": [
+      {
+        "label": "IPIS",
+        "url": "https://ipisresearch.be/"
+      }
+    ],
+    "summary": "比利时国际和平信息服务（IPIS）对刚果（金）东部、中非共和国、坦桑尼亚和津巴布韦等地手工采矿点的实地调查数据，记录矿点位置、矿种（金、锡石、钶钽铁矿等）、工人数量、武装团体和国家机构存在、非法征税和童工情况，在线地图浏览和公开下载。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "这是非洲冲突矿产与手工采矿最详细的地理数据。研究常用它分析矿产价格、武装冲突和尽职调查法规的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
         "verified": true,
         "note": ""
       }
@@ -194811,6 +197656,43 @@
         "url": "https://doi.org/10.3386/w33583",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "title": "Where Have All the Good Jobs Gone? Changes in the Geography of Work in the US, 1980-2021",
+        "authors": [
+          "Gordon H. Hanson",
+          "Enrico Moretti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33631",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33631",
+        "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -196311,6 +199193,24 @@
         "url": "https://doi.org/10.3386/w33505",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Choosing Wisely: Evaluating Latent Factor Models in the Presence of a Contaminated Instrumental Variable with Varying Strength",
+        "title": "Choosing Wisely: Evaluating Latent Factor Models in the Presence of a Contaminated Instrumental Variable with Varying Strength",
+        "authors": [
+          "Souvik Banerjee",
+          "Anirban Basu",
+          "Shubham Das"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33620",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33620",
+        "url": "https://doi.org/10.3386/w33620",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -196913,6 +199813,25 @@
         "pages": "",
         "doi": "10.3386/w33324",
         "url": "https://doi.org/10.3386/w33324",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "title": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "authors": [
+          "Nava Ashraf",
+          "Alexia Delfino",
+          "Edward L. Glaeser",
+          "Irene Solmone"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33608",
+        "url": "https://doi.org/10.3386/w33608",
         "verified": true,
         "note": ""
       }
@@ -198521,6 +201440,25 @@
         "pages": "",
         "doi": "10.3386/w33396",
         "url": "https://doi.org/10.3386/w33396",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Worker Rights in Collective Bargaining",
+        "title": "Worker Rights in Collective Bargaining",
+        "authors": [
+          "Benjamin W. Arold",
+          "Elliott Ash",
+          "W. Bentley MacLeod",
+          "Suresh Naidu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33605",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33605",
+        "url": "https://doi.org/10.3386/w33605",
         "verified": true,
         "note": ""
       }
@@ -202996,6 +205934,26 @@
         "url": "https://doi.org/10.3386/w33577",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -205335,6 +208293,25 @@
         "pages": "",
         "doi": "10.3386/w33311",
         "url": "https://doi.org/10.3386/w33311",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "title": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "authors": [
+          "Nava Ashraf",
+          "Alexia Delfino",
+          "Edward L. Glaeser",
+          "Irene Solmone"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33608",
+        "url": "https://doi.org/10.3386/w33608",
         "verified": true,
         "note": ""
       }
@@ -211581,6 +214558,26 @@
         "url": "https://doi.org/10.3386/w33542",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -214507,6 +217504,47 @@
     ]
   },
   {
+    "id": "7.4.75",
+    "title": "世界银行全球经济监测数据库（Global Economic Monitor，GEM）",
+    "links": [
+      {
+        "label": "World Bank Data Catalog: GEM",
+        "url": "https://datacatalog.worldbank.org/search/dataset/0037798/global-economic-monitor"
+      }
+    ],
+    "summary": "世界银行发布的高频全球宏观数据库，提供各国日度和月度的工业生产、CPI、汇率、股票指数、利率、进出口、外汇储备和大宗商品价格等指标，1990 年代以来，经世界银行数据目录公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "金融数据"
+    ],
+    "introduction": "这是跨国高频宏观指标的便捷来源。研究常用它获取各国月度汇率、通胀和工业产出等宏观控制变量。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "title": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "authors": [
+          "Nava Ashraf",
+          "Alexia Delfino",
+          "Edward L. Glaeser",
+          "Irene Solmone"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33608",
+        "url": "https://doi.org/10.3386/w33608",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.5.1",
     "title": "全球土地变化 1982–2016（Song 等）",
     "links": [],
@@ -216114,6 +219152,28 @@
         "url": "https://doi.org/10.1093/jeea/jvab027",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -217356,6 +220416,28 @@
         "url": "https://doi.org/10.1016/j.jeem.2017.07.008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -217908,6 +220990,28 @@
         "pages": "",
         "doi": "10.3386/w33453",
         "url": "https://doi.org/10.3386/w33453",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
         "verified": true,
         "note": ""
       }
@@ -219208,6 +222312,181 @@
         "pages": "",
         "doi": "10.3386/w33561",
         "url": "https://doi.org/10.3386/w33561",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.41",
+    "title": "全球采矿区多边形数据集（Maus et al. Global Mining Areas）",
+    "links": [
+      {
+        "label": "PANGAEA: Global mining areas",
+        "url": "https://doi.org/10.1594/PANGAEA.910894"
+      }
+    ],
+    "summary": "Maus 等（2020、2022，Scientific Data）基于卫星影像人工解译的全球采矿用地多边形数据集，覆盖约 2.1 万个矿区、约 10 万平方公里的露天矿坑、尾矿库、废石堆和选矿设施，经 PANGAEA 公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "这是全球采矿用地面积最常用的空间数据。研究常用它度量矿业活动范围，分析采矿对森林砍伐、水体和健康的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.42",
+    "title": "NICFI 卫星数据计划 Planet 热带地区影像镶嵌",
+    "links": [
+      {
+        "label": "Planet: NICFI program",
+        "url": "https://www.planet.com/nicfi/"
+      }
+    ],
+    "summary": "挪威国际气候与森林倡议（NICFI）资助、Planet Labs 提供的热带地区约 4.77 米分辨率光学影像镶嵌图，覆盖南北回归线之间约 64 个国家，2015–2020 年半年度、2020 年 9 月起月度更新，注册后免费用于非商业用途。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "这是热带地区高分辨率、高频率的免费卫星影像。研究常用它监测森林砍伐、采矿和土地利用变化。",
+    "source": "注册后免费（非商业用途）。",
+    "references": [
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.43",
+    "title": "NASADEM 全球数字高程模型",
+    "links": [
+      {
+        "label": "NASA LP DAAC: NASADEM",
+        "url": "https://lpdaac.usgs.gov/products/nasadem_hgtv001/"
+      }
+    ],
+    "summary": "NASA 对 2000 年航天飞机雷达地形测绘任务（SRTM）数据重新处理生成的全球约 30 米（1 角秒）分辨率数字高程模型，改进了空洞填补和高程精度，覆盖北纬 60 度至南纬 56 度，经 NASA LP DAAC 免费下载（需 Earthdata 注册）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "这是 SRTM 的改进版全球高程数据。研究常用它计算地形高程、坡度和流域，作为地理控制变量或工具变量。",
+    "source": "公开下载（需 Earthdata 注册）。",
+    "references": [
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.5.44",
+    "title": "全球道路开放数据集（Global Roads Open Access Data Set，gROADS）",
+    "links": [
+      {
+        "label": "NASA SEDAC: gROADS v1",
+        "url": "https://doi.org/10.7927/H4VD6WCT"
+      }
+    ],
+    "summary": "哥伦比亚大学 CIESIN 与信息技术数据委员会整合各国官方及开源道路数据构建的全球道路网络矢量数据（v1，1980–2010），按道路等级记录主要公路和次级道路，经 NASA SEDAC 公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据",
+      "交通数据"
+    ],
+    "introduction": "这是覆盖全球的标准化道路网络数据。研究常用它计算到道路的距离和交通可达性，分析基础设施对发展的影响。",
+    "source": "公开下载（需 Earthdata 注册）。",
+    "references": [
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
         "verified": true,
         "note": ""
       }
@@ -221222,6 +224501,26 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2017.12.009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -222299,6 +225598,26 @@
         "url": "https://doi.org/10.3386/w32794",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -222805,6 +226124,24 @@
         "pages": "140–154",
         "doi": "10.1016/j.jeem.2011.03.003",
         "url": "https://doi.org/10.1016/j.jeem.2011.03.003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "title": "Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism",
+        "authors": [
+          "Qiaoyi Chen",
+          "Nicholas Ryan",
+          "Daniel Xu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33636",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33636",
+        "url": "https://doi.org/10.3386/w33636",
         "verified": true,
         "note": ""
       }
@@ -224463,6 +227800,28 @@
         "pages": "1269–1334",
         "doi": "10.1093/qje/qjag005",
         "url": "https://doi.org/10.1093/qje/qjag005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
         "verified": true,
         "note": ""
       }
@@ -226879,6 +230238,112 @@
         "pages": "",
         "doi": "10.3386/w33561",
         "url": "https://doi.org/10.3386/w33561",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Geospatial Approach to Measuring Economic Activity",
+        "title": "A Geospatial Approach to Measuring Economic Activity",
+        "authors": [
+          "Anton Yang",
+          "Jianwei Ai",
+          "Costas Arkolakis"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33619",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33619",
+        "url": "https://doi.org/10.3386/w33619",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.86",
+    "title": "JRC 全球地表水数据（Global Surface Water Explorer）",
+    "links": [
+      {
+        "label": "Global Surface Water Explorer",
+        "url": "https://global-surface-water.appspot.com/"
+      }
+    ],
+    "summary": "欧盟联合研究中心（JRC）与 Google 基于 1984 年以来全部 Landsat 影像构建的 30 米分辨率全球地表水数据（Pekel 等 2016，Nature），提供水体出现频率、季节性、复发率、变化强度和逐月水体范围，公开下载并可在 Google Earth Engine 使用。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "这是全球长时段地表水变化的标准遥感数据。研究常用它度量湖泊河流扩张萎缩、洪水淹没和水库建设。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.6.87",
+    "title": "全球生物多样性热点区数据（Biodiversity Hotspots）",
+    "links": [
+      {
+        "label": "Zenodo: Biodiversity Hotspots 2016.1",
+        "url": "https://doi.org/10.5281/zenodo.3261807"
+      }
+    ],
+    "summary": "保护国际（Conservation International）与关键生态系统合作基金（CEPF）发布的全球 36 个生物多样性热点区边界多边形（2016.1 版），热点区指特有维管植物超过 1500 种且原生植被损失 70% 以上的地区，经 Zenodo 公开下载。Zenodo 对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "地理数据"
+    ],
+    "introduction": "这是全球保护优先区的标准边界数据。研究常用它识别生态敏感区，分析采矿、农业扩张和保护政策的影响。",
+    "source": "公开下载；Zenodo 对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Estimating the Footprint of Artisanal Mining in Africa",
+        "title": "Estimating the Footprint of Artisanal Mining in Africa",
+        "authors": [
+          "Darin Christensen",
+          "Tamma Carleton",
+          "Esther Rolf",
+          "Cullen Molitor",
+          "Shopnavo Biswas",
+          "Karena Yan",
+          "Graeme Blair"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33646",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33646",
+        "url": "https://doi.org/10.3386/w33646",
         "verified": true,
         "note": ""
       }
@@ -234860,6 +238325,25 @@
         "url": "https://doi.org/10.3386/w32556",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "title": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "authors": [
+          "Nava Ashraf",
+          "Alexia Delfino",
+          "Edward L. Glaeser",
+          "Irene Solmone"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33608",
+        "url": "https://doi.org/10.3386/w33608",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -237322,6 +240806,25 @@
         "url": "https://doi.org/10.3386/w33393",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "title": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "authors": [
+          "Nava Ashraf",
+          "Alexia Delfino",
+          "Edward L. Glaeser",
+          "Irene Solmone"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33608",
+        "url": "https://doi.org/10.3386/w33608",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -237507,6 +241010,47 @@
         "pages": "",
         "doi": "10.3386/w33558",
         "url": "https://doi.org/10.3386/w33558",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.10.54",
+    "title": "世界经济论坛全球性别差距指数（Global Gender Gap Index）",
+    "links": [
+      {
+        "label": "WEF: Global Gender Gap Report",
+        "url": "https://www.weforum.org/publications/series/global-gender-gap-report/"
+      }
+    ],
+    "summary": "世界经济论坛（WEF）自 2006 年起每年发布的全球性别差距报告，从经济参与与机会、受教育程度、健康与生存、政治赋权四个维度衡量约 146 个经济体的性别差距，提供国家得分、分项指标和排名，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据",
+      "区域经济数据"
+    ],
+    "introduction": "这是跨国性别平等程度最常用的指数之一。研究常用它度量各国性别不平等，分析女性劳动参与和创业。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "title": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "authors": [
+          "Nava Ashraf",
+          "Alexia Delfino",
+          "Edward L. Glaeser",
+          "Irene Solmone"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33608",
+        "url": "https://doi.org/10.3386/w33608",
         "verified": true,
         "note": ""
       }
@@ -238564,6 +242108,41 @@
         "url": "https://doi.org/10.3386/w33554",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Profitability Retrospective: What Have We Learned?",
+        "title": "Profitability Retrospective: What Have We Learned?",
+        "authors": [
+          "Robert Novy-Marx",
+          "Mamdouh Medhat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33601",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33601",
+        "url": "https://doi.org/10.3386/w33601",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Treasury Markets Add and Subtract?",
+        "title": "Can Treasury Markets Add and Subtract?",
+        "authors": [
+          "Roberto Gomez Cram",
+          "Howard Kung",
+          "Hanno Lustig"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33604",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33604",
+        "url": "https://doi.org/10.3386/w33604",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -239248,6 +242827,25 @@
         "pages": "",
         "doi": "10.3386/w33217",
         "url": "https://doi.org/10.3386/w33217",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers of Climate Policy Shocks",
+        "title": "Global Spillovers of Climate Policy Shocks",
+        "authors": [
+          "Julian di Giovanni",
+          "Galina Hale",
+          "Neel Lahiri",
+          "Anirban Sanyal"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33647",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33647",
+        "url": "https://doi.org/10.3386/w33647",
         "verified": true,
         "note": ""
       }
@@ -241580,6 +245178,23 @@
         "url": "https://doi.org/10.3386/w33171",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Profitability Retrospective: What Have We Learned?",
+        "title": "Profitability Retrospective: What Have We Learned?",
+        "authors": [
+          "Robert Novy-Marx",
+          "Mamdouh Medhat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33601",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33601",
+        "url": "https://doi.org/10.3386/w33601",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -241638,6 +245253,23 @@
         "pages": "",
         "doi": "10.3386/w32693",
         "url": "https://doi.org/10.3386/w32693",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Research Behavior of Individual Investors",
+        "title": "The Research Behavior of Individual Investors",
+        "authors": [
+          "Toomas Laarits",
+          "Jeffrey Wurgler"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33625",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33625",
+        "url": "https://doi.org/10.3386/w33625",
         "verified": true,
         "note": ""
       }
@@ -241940,6 +245572,25 @@
         "pages": "",
         "doi": "10.3386/w33463",
         "url": "https://doi.org/10.3386/w33463",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Asset Embeddings",
+        "title": "Asset Embeddings",
+        "authors": [
+          "Xavier Gabaix",
+          "Ralph S. J. Koijen",
+          "Robert J. Richmond",
+          "Motohiro Yogo"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33651",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33651",
+        "url": "https://doi.org/10.3386/w33651",
         "verified": true,
         "note": ""
       }
@@ -242668,6 +246319,24 @@
         "pages": "",
         "doi": "10.3386/w33590",
         "url": "https://doi.org/10.3386/w33590",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Interim Valuations, Predictability, and Outcomes in Private Equity",
+        "title": "Interim Valuations, Predictability, and Outcomes in Private Equity",
+        "authors": [
+          "Ege Y. Ercan",
+          "Steven N. Kaplan",
+          "Ilya A. Strebulaev"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33637",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33637",
+        "url": "https://doi.org/10.3386/w33637",
         "verified": true,
         "note": ""
       }
@@ -244490,6 +248159,24 @@
         "url": "https://doi.org/10.3386/w33596",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Impact Investing and Worker Outcomes",
+        "title": "Impact Investing and Worker Outcomes",
+        "authors": [
+          "Josh Lerner",
+          "Markus Lithell",
+          "Gordon M. Phillips"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33611",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33611",
+        "url": "https://doi.org/10.3386/w33611",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -245057,6 +248744,25 @@
         "pages": "",
         "doi": "10.3386/w33565",
         "url": "https://doi.org/10.3386/w33565",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Asset Embeddings",
+        "title": "Asset Embeddings",
+        "authors": [
+          "Xavier Gabaix",
+          "Ralph S. J. Koijen",
+          "Robert J. Richmond",
+          "Motohiro Yogo"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33651",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33651",
+        "url": "https://doi.org/10.3386/w33651",
         "verified": true,
         "note": ""
       }
@@ -245804,6 +249510,24 @@
         "pages": "",
         "doi": "10.3386/w33435",
         "url": "https://doi.org/10.3386/w33435",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Interim Valuations, Predictability, and Outcomes in Private Equity",
+        "title": "Interim Valuations, Predictability, and Outcomes in Private Equity",
+        "authors": [
+          "Ege Y. Ercan",
+          "Steven N. Kaplan",
+          "Ilya A. Strebulaev"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33637",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33637",
+        "url": "https://doi.org/10.3386/w33637",
         "verified": true,
         "note": ""
       }
@@ -247185,6 +250909,145 @@
     ]
   },
   {
+    "id": "7.12.78",
+    "title": "DefiLlama 去中心化金融协议数据",
+    "links": [
+      {
+        "label": "DefiLlama",
+        "url": "https://defillama.com"
+      }
+    ],
+    "summary": "DefiLlama 是开源的 DeFi 数据聚合平台，汇总数百条公链上数千个去中心化金融协议的总锁仓价值（TVL）、交易量、费用与收入、稳定币发行、质押、跨链桥流量和融资轮次，网站和 API 免费获取。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是度量 DeFi 市场规模与协议活动的主要公开数据。研究常用它分析去中心化金融协议的增长、风险和代币估值。",
+    "source": "公开（网站与 API）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Financial and Informational Integration Through Oracle Networks",
+        "title": "Financial and Informational Integration Through Oracle Networks",
+        "authors": [
+          "Lin William Cong",
+          "Eswar S. Prasad",
+          "Daniel Rabetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33639",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33639",
+        "url": "https://doi.org/10.3386/w33639",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.79",
+    "title": "CoinMarketCap 与 CoinGecko 加密资产价格和市值数据",
+    "links": [
+      {
+        "label": "CoinMarketCap",
+        "url": "https://coinmarketcap.com"
+      },
+      {
+        "label": "CoinGecko",
+        "url": "https://www.coingecko.com"
+      }
+    ],
+    "summary": "CoinMarketCap（Binance 旗下）和 CoinGecko 两大加密资产行情聚合平台，汇总数百家交易所上万种加密货币和代币的日度及更高频价格、市值、成交量和流通量，2013 年以来，网站免费浏览，API 部分免费。CoinGecko 官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是加密资产研究最常用的价格和市值来源。研究常用它构造加密货币收益率、市值和流动性变量。",
+    "source": "公开（网站与 API，部分需注册或付费）；CoinGecko 官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Financial and Informational Integration Through Oracle Networks",
+        "title": "Financial and Informational Integration Through Oracle Networks",
+        "authors": [
+          "Lin William Cong",
+          "Eswar S. Prasad",
+          "Daniel Rabetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33639",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33639",
+        "url": "https://doi.org/10.3386/w33639",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Tokenomics of Staking",
+        "title": "The Tokenomics of Staking",
+        "authors": [
+          "Lin William Cong",
+          "Zhiheng He",
+          "Ke Tang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33640",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33640",
+        "url": "https://doi.org/10.3386/w33640",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.80",
+    "title": "Etherscan 以太坊区块链浏览器数据",
+    "links": [
+      {
+        "label": "Etherscan",
+        "url": "https://etherscan.io"
+      }
+    ],
+    "summary": "Etherscan 是以太坊主网的区块浏览器与分析平台，提供每个区块、交易、地址、代币转账、智能合约代码与事件日志以及代币持有人分布的查询，网站免费浏览，API 部分免费。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是获取以太坊链上交易与持仓数据的常用入口。研究常用它追踪代币持有集中度、钱包交易和智能合约活动。",
+    "source": "公开（网站与 API）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Financial and Informational Integration Through Oracle Networks",
+        "title": "Financial and Informational Integration Through Oracle Networks",
+        "authors": [
+          "Lin William Cong",
+          "Eswar S. Prasad",
+          "Daniel Rabetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33639",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33639",
+        "url": "https://doi.org/10.3386/w33639",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.13.1",
     "title": "PatSnap 专利数据库",
     "links": [
@@ -248386,6 +252249,42 @@
         "url": "https://doi.org/10.3386/w33405",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Menopause \"Penalty\"",
+        "title": "The Menopause \"Penalty\"",
+        "authors": [
+          "Gabriella Conti",
+          "Rita Ginja",
+          "Petra Persson",
+          "Barton Willage"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33621",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33621",
+        "url": "https://doi.org/10.3386/w33621",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Research Behavior of Individual Investors",
+        "title": "The Research Behavior of Individual Investors",
+        "authors": [
+          "Toomas Laarits",
+          "Jeffrey Wurgler"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33625",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33625",
+        "url": "https://doi.org/10.3386/w33625",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -249418,6 +253317,26 @@
         "pages": "",
         "doi": "10.3386/w33588",
         "url": "https://doi.org/10.3386/w33588",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "title": "A Theory of Endogenous Degrowth and Environmental Sustainability",
+        "authors": [
+          "Philippe Aghion",
+          "Timo Boppart",
+          "Michael Peters",
+          "Matthew Schwartzman",
+          "Fabrizio Zilibotti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33634",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33634",
+        "url": "https://doi.org/10.3386/w33634",
         "verified": true,
         "note": ""
       }
@@ -250519,6 +254438,24 @@
         "url": "https://doi.org/10.3386/w32872",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Robots and Crime",
+        "title": "Robots and Crime",
+        "authors": [
+          "Yang Liang",
+          "Joseph J. Sabia",
+          "Dhaval M. Dave"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33603",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33603",
+        "url": "https://doi.org/10.3386/w33603",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -251205,6 +255142,24 @@
         "pages": "",
         "doi": "10.3386/w33457",
         "url": "https://doi.org/10.3386/w33457",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "title": "Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform",
+        "authors": [
+          "Pierre Azoulay",
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33627",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33627",
+        "url": "https://doi.org/10.3386/w33627",
         "verified": true,
         "note": ""
       }
@@ -252481,6 +256436,87 @@
         "pages": "",
         "doi": "10.3386/w33598",
         "url": "https://doi.org/10.3386/w33598",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.49",
+    "title": "Statista 统计数据门户",
+    "links": [
+      {
+        "label": "Statista",
+        "url": "https://www.statista.com"
+      }
+    ],
+    "summary": "Statista 是德国公司运营的统计数据门户，汇集市场研究机构、行业协会、政府和自有调查的上百万项统计，涵盖各国消费者行为、行业规模、品牌份额和数字产品使用（如通讯软件和手机品牌渗透率），部分免费浏览，完整数据付费订阅。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是商业与消费统计的便捷汇编来源。研究常用它获取跨国行业规模、产品渗透率等辅助变量。",
+    "source": "付费订阅（部分统计免费浏览）。",
+    "references": [
+      {
+        "raw": "Non-User Externalities and Market Power",
+        "title": "Non-User Externalities and Market Power",
+        "authors": [
+          "Leonardo Bursztyn",
+          "Jan Fasnacht",
+          "Rafael Jiménez-Durán",
+          "Aaron Leonard",
+          "Filip Milojević",
+          "Christopher Roth"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33642",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33642",
+        "url": "https://doi.org/10.3386/w33642",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.50",
+    "title": "Lichess 在线国际象棋对局数据库",
+    "links": [
+      {
+        "label": "Lichess Database",
+        "url": "https://database.lichess.org/"
+      }
+    ],
+    "summary": "开源国际象棋网站 Lichess 按月公开发布的全部对局存档（PGN 格式），2013 年以来累计数十亿盘，记录对局双方等级分、时间控制、每步走法、用时和部分引擎评估，并提供残局题库和评估数据，CC0 许可免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是记录人类决策的超大样本公开数据。研究常用它分析时间压力、认知偏差和 AI 对人类决策质量的影响。",
+    "source": "公开下载（CC0）。",
+    "references": [
+      {
+        "raw": "The Memory Premium",
+        "title": "The Memory Premium",
+        "authors": [
+          "Yuval Salant",
+          "Jorg L. Spenkuch",
+          "David Almog"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33649",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33649",
+        "url": "https://doi.org/10.3386/w33649",
         "verified": true,
         "note": ""
       }
@@ -258487,6 +262523,25 @@
         "url": "https://doi.org/10.3386/w33506",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Global Spillovers of Climate Policy Shocks",
+        "title": "Global Spillovers of Climate Policy Shocks",
+        "authors": [
+          "Julian di Giovanni",
+          "Galina Hale",
+          "Neel Lahiri",
+          "Anirban Sanyal"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33647",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33647",
+        "url": "https://doi.org/10.3386/w33647",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -260812,6 +264867,25 @@
         "pages": "",
         "doi": "10.3386/w33175",
         "url": "https://doi.org/10.3386/w33175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "title": "The Inverted U-Shaped Relationship between Female Entrepreneurship and Economic Development",
+        "authors": [
+          "Nava Ashraf",
+          "Alexia Delfino",
+          "Edward L. Glaeser",
+          "Irene Solmone"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33608",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33608",
+        "url": "https://doi.org/10.3386/w33608",
         "verified": true,
         "note": ""
       }
