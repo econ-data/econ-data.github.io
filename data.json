@@ -5303,6 +5303,25 @@
         "url": "https://doi.org/10.3386/w32811",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "High-Speed Rail and China's Electric Vehicle Adoption Miracle",
+        "title": "High-Speed Rail and China's Electric Vehicle Adoption Miracle",
+        "authors": [
+          "Hanming Fang",
+          "Ming Li",
+          "Long Wang",
+          "Zoe Yang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33489",
+        "url": "https://doi.org/10.3386/w33489",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6131,6 +6150,25 @@
         "pages": "",
         "doi": "10.3386/w32743",
         "url": "https://doi.org/10.3386/w32743",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "High-Speed Rail and China's Electric Vehicle Adoption Miracle",
+        "title": "High-Speed Rail and China's Electric Vehicle Adoption Miracle",
+        "authors": [
+          "Hanming Fang",
+          "Ming Li",
+          "Long Wang",
+          "Zoe Yang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33489",
+        "url": "https://doi.org/10.3386/w33489",
         "verified": true,
         "note": ""
       }
@@ -10903,6 +10941,25 @@
         "url": "https://doi.org/10.3386/w32743",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Policy Interventions and China’s Stock Market in the Early Stages of the COVID-19 Pandemic",
+        "title": "Policy Interventions and China’s Stock Market in the Early Stages of the COVID-19 Pandemic",
+        "authors": [
+          "Steven J. Davis",
+          "Dingqian Liu",
+          "Xuguang Simon Sheng",
+          "Yan Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33485",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33485",
+        "url": "https://doi.org/10.3386/w33485",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11125,6 +11182,51 @@
         "pages": "",
         "doi": "10.3386/w32034",
         "url": "https://doi.org/10.3386/w32034",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.12.8",
+    "title": "国泰安中国经济金融研究数据库（CSMAR）",
+    "links": [
+      {
+        "label": "CSMAR",
+        "url": "https://data.csmar.com/"
+      },
+      {
+        "label": "CSMAR (English)",
+        "url": "https://www.csmar.com/en/"
+      }
+    ],
+    "summary": "深圳希施玛（国泰安）开发的中国经济金融研究数据库，涵盖 A 股上市公司财务报表、股票交易、公司治理、分析师预测、基金、债券、宏观与行业统计等 100 多个子库，1990 年以来，机构付费订阅（亦经 WRDS 提供）。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "CSMAR 是中国金融与公司研究最常用的数据库之一。研究常用它获取上市公司财务、股价和治理数据，分析中国资本市场和企业行为。",
+    "source": "付费订阅（机构）。",
+    "references": [
+      {
+        "raw": "High-Speed Rail and China's Electric Vehicle Adoption Miracle",
+        "title": "High-Speed Rail and China's Electric Vehicle Adoption Miracle",
+        "authors": [
+          "Hanming Fang",
+          "Ming Li",
+          "Long Wang",
+          "Zoe Yang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33489",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33489",
+        "url": "https://doi.org/10.3386/w33489",
         "verified": true,
         "note": ""
       }
@@ -11951,6 +12053,25 @@
         "pages": "",
         "doi": "10.3386/w32803",
         "url": "https://doi.org/10.3386/w32803",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "title": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "authors": [
+          "Jesús Fernández-Villaverde",
+          "Yiliang Li",
+          "Le Xu",
+          "Francesco Zanetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33486",
+        "url": "https://doi.org/10.3386/w33486",
         "verified": true,
         "note": ""
       }
@@ -16043,6 +16164,58 @@
         "url": "https://doi.org/10.3386/w33427",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "title": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "authors": [
+          "Lisa J. Dettling",
+          "Melissa Schettini Kearney"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33446",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33446",
+        "url": "https://doi.org/10.3386/w33446",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "title": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "authors": [
+          "Karen Clay",
+          "Edson R. Severnini",
+          "Xiao Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33447",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33447",
+        "url": "https://doi.org/10.3386/w33447",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Vanguard: Black Veterans and Civil Rights after World War I",
+        "title": "Vanguard: Black Veterans and Civil Rights after World War I",
+        "authors": [
+          "Desmond Ang",
+          "Sahil Chinoy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33460",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33460",
+        "url": "https://doi.org/10.3386/w33460",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18456,6 +18629,23 @@
         "url": "https://doi.org/10.3386/w33418",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Trade Exposure, Labor Market Competition, and the Worker Incidence of Trade Shocks",
+        "title": "Firm Trade Exposure, Labor Market Competition, and the Worker Incidence of Trade Shocks",
+        "authors": [
+          "Jeronimo Carballo",
+          "Richard K. Mansfield"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33481",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33481",
+        "url": "https://doi.org/10.3386/w33481",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19895,6 +20085,23 @@
         "pages": "",
         "doi": "10.3386/w33409",
         "url": "https://doi.org/10.3386/w33409",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Vanguard: Black Veterans and Civil Rights after World War I",
+        "title": "Vanguard: Black Veterans and Civil Rights after World War I",
+        "authors": [
+          "Desmond Ang",
+          "Sahil Chinoy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33460",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33460",
+        "url": "https://doi.org/10.3386/w33460",
         "verified": true,
         "note": ""
       }
@@ -26236,6 +26443,100 @@
         "url": "https://doi.org/10.3386/w33437",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Sex-Based Wage Gaps in Nursing",
+        "title": "Sex-Based Wage Gaps in Nursing",
+        "authors": [
+          "Pablo Estrada",
+          "Sara Markowitz",
+          "Alexia Witthaus"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33461",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33461",
+        "url": "https://doi.org/10.3386/w33461",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Student Loan Forgiveness",
+        "title": "Student Loan Forgiveness",
+        "authors": [
+          "Michael Dinerstein",
+          "Samuel Earnest",
+          "Dmitri K. Koustas",
+          "Constantine Yannelis"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33462",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33462",
+        "url": "https://doi.org/10.3386/w33462",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quick-Fixing: Near-Rationality in Consumption and Savings Behavior",
+        "title": "Quick-Fixing: Near-Rationality in Consumption and Savings Behavior",
+        "authors": [
+          "Peter Andre",
+          "Joel P. Flynn",
+          "Georgios Nikolakoudis",
+          "Karthik Sastry"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33464",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33464",
+        "url": "https://doi.org/10.3386/w33464",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cross-Gender Social Ties Around the World",
+        "title": "Cross-Gender Social Ties Around the World",
+        "authors": [
+          "Michael Bailey",
+          "Drew M. Johnston",
+          "Theresa Kuchler",
+          "Ayush Kumar",
+          "Johannes Stroebel"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33480",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33480",
+        "url": "https://doi.org/10.3386/w33480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Economic Shocks and Healthcare Capital Investments",
+        "title": "Economic Shocks and Healthcare Capital Investments",
+        "authors": [
+          "Michael R. Richards",
+          "Maggie Shi",
+          "Christopher M. Whaley"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33487",
+        "url": "https://doi.org/10.3386/w33487",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -31169,6 +31470,60 @@
         "url": "https://doi.org/10.3386/w33422",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Sex-Based Wage Gaps in Nursing",
+        "title": "Sex-Based Wage Gaps in Nursing",
+        "authors": [
+          "Pablo Estrada",
+          "Sara Markowitz",
+          "Alexia Witthaus"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33461",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33461",
+        "url": "https://doi.org/10.3386/w33461",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Student Loan Forgiveness",
+        "title": "Student Loan Forgiveness",
+        "authors": [
+          "Michael Dinerstein",
+          "Samuel Earnest",
+          "Dmitri K. Koustas",
+          "Constantine Yannelis"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33462",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33462",
+        "url": "https://doi.org/10.3386/w33462",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Under Okun’s Hypothesis",
+        "title": "Monetary Policy Under Okun’s Hypothesis",
+        "authors": [
+          "Felipe Alves",
+          "Giovanni L. Violante"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33488",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33488",
+        "url": "https://doi.org/10.3386/w33488",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32538,6 +32893,25 @@
         "url": "https://doi.org/10.3386/w33407",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "title": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "authors": [
+          "Hanke Heun-Johnson",
+          "Darius Lakdawalla",
+          "Julian Reif",
+          "Bryan Tysinger"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33465",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33465",
+        "url": "https://doi.org/10.3386/w33465",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33422,6 +33796,24 @@
         "url": "https://doi.org/10.3386/w33385",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33973,6 +34365,25 @@
         "url": "https://doi.org/10.3386/w33407",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "title": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "authors": [
+          "Hanke Heun-Johnson",
+          "Darius Lakdawalla",
+          "Julian Reif",
+          "Bryan Tysinger"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33465",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33465",
+        "url": "https://doi.org/10.3386/w33465",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34467,6 +34878,23 @@
         "pages": "",
         "doi": "10.3386/w33415",
         "url": "https://doi.org/10.3386/w33415",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
         "verified": true,
         "note": ""
       }
@@ -36078,6 +36506,25 @@
         "url": "https://doi.org/10.3386/w33399",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quick-Fixing: Near-Rationality in Consumption and Savings Behavior",
+        "title": "Quick-Fixing: Near-Rationality in Consumption and Savings Behavior",
+        "authors": [
+          "Peter Andre",
+          "Joel P. Flynn",
+          "Georgios Nikolakoudis",
+          "Karthik Sastry"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33464",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33464",
+        "url": "https://doi.org/10.3386/w33464",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37130,6 +37577,40 @@
         "pages": "",
         "doi": "10.3386/w33415",
         "url": "https://doi.org/10.3386/w33415",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "title": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33475",
+        "url": "https://doi.org/10.3386/w33475",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
         "verified": true,
         "note": ""
       }
@@ -39561,6 +40042,23 @@
         "url": "https://doi.org/10.3386/w33415",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41467,6 +41965,24 @@
         "url": "https://doi.org/10.3386/w33076",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Childbirth and Firm Performance: Evidence from Norwegian Entrepreneurs",
+        "title": "Childbirth and Firm Performance: Evidence from Norwegian Entrepreneurs",
+        "authors": [
+          "John Bonney",
+          "Luigi Pistaferri",
+          "Alessandra Voena"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33448",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33448",
+        "url": "https://doi.org/10.3386/w33448",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -42917,6 +43433,25 @@
         "pages": "",
         "doi": "10.3386/w33427",
         "url": "https://doi.org/10.3386/w33427",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "title": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "authors": [
+          "Hanke Heun-Johnson",
+          "Darius Lakdawalla",
+          "Julian Reif",
+          "Bryan Tysinger"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33465",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33465",
+        "url": "https://doi.org/10.3386/w33465",
         "verified": true,
         "note": ""
       }
@@ -45141,6 +45676,23 @@
         "url": "https://doi.org/10.3386/w33394",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Vanguard: Black Veterans and Civil Rights after World War I",
+        "title": "Vanguard: Black Veterans and Civil Rights after World War I",
+        "authors": [
+          "Desmond Ang",
+          "Sahil Chinoy"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33460",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33460",
+        "url": "https://doi.org/10.3386/w33460",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -46875,6 +47427,23 @@
         "url": "https://doi.org/10.3386/w33435",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Trade Exposure, Labor Market Competition, and the Worker Incidence of Trade Shocks",
+        "title": "Firm Trade Exposure, Labor Market Competition, and the Worker Incidence of Trade Shocks",
+        "authors": [
+          "Jeronimo Carballo",
+          "Richard K. Mansfield"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33481",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33481",
+        "url": "https://doi.org/10.3386/w33481",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -47512,6 +48081,24 @@
         "pages": "",
         "doi": "10.3386/w33368",
         "url": "https://doi.org/10.3386/w33368",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
         "verified": true,
         "note": ""
       }
@@ -48513,6 +49100,23 @@
         "pages": "",
         "doi": "10.3386/w33427",
         "url": "https://doi.org/10.3386/w33427",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Trade Exposure, Labor Market Competition, and the Worker Incidence of Trade Shocks",
+        "title": "Firm Trade Exposure, Labor Market Competition, and the Worker Incidence of Trade Shocks",
+        "authors": [
+          "Jeronimo Carballo",
+          "Richard K. Mansfield"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33481",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33481",
+        "url": "https://doi.org/10.3386/w33481",
         "verified": true,
         "note": ""
       }
@@ -50670,6 +51274,24 @@
         "pages": "",
         "doi": "10.3386/w33326",
         "url": "https://doi.org/10.3386/w33326",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Economic Shocks and Healthcare Capital Investments",
+        "title": "Economic Shocks and Healthcare Capital Investments",
+        "authors": [
+          "Michael R. Richards",
+          "Maggie Shi",
+          "Christopher M. Whaley"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33487",
+        "url": "https://doi.org/10.3386/w33487",
         "verified": true,
         "note": ""
       }
@@ -55655,6 +56277,23 @@
         "url": "https://doi.org/10.3386/w33437",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "title": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "authors": [
+          "Lisa J. Dettling",
+          "Melissa Schettini Kearney"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33446",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33446",
+        "url": "https://doi.org/10.3386/w33446",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59866,6 +60505,24 @@
         "pages": "",
         "doi": "10.3386/w33385",
         "url": "https://doi.org/10.3386/w33385",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "title": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "authors": [
+          "Andrew Atkeson",
+          "Jonathan Heathcote",
+          "Fabrizio Perri"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33459",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33459",
+        "url": "https://doi.org/10.3386/w33459",
         "verified": true,
         "note": ""
       }
@@ -71010,6 +71667,24 @@
         "url": "https://doi.org/10.3386/w32918",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "title": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "authors": [
+          "Andrew Atkeson",
+          "Jonathan Heathcote",
+          "Fabrizio Perri"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33459",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33459",
+        "url": "https://doi.org/10.3386/w33459",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71733,6 +72408,26 @@
         "pages": "",
         "doi": "10.3386/w32551",
         "url": "https://doi.org/10.3386/w32551",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cross-Gender Social Ties Around the World",
+        "title": "Cross-Gender Social Ties Around the World",
+        "authors": [
+          "Michael Bailey",
+          "Drew M. Johnston",
+          "Theresa Kuchler",
+          "Ayush Kumar",
+          "Johannes Stroebel"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33480",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33480",
+        "url": "https://doi.org/10.3386/w33480",
         "verified": true,
         "note": ""
       }
@@ -73008,6 +73703,25 @@
         "url": "https://doi.org/10.3386/w32476",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "title": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "authors": [
+          "Hanke Heun-Johnson",
+          "Darius Lakdawalla",
+          "Julian Reif",
+          "Bryan Tysinger"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33465",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33465",
+        "url": "https://doi.org/10.3386/w33465",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73158,6 +73872,23 @@
         "pages": "",
         "doi": "10.3386/w33310",
         "url": "https://doi.org/10.3386/w33310",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Under Okun’s Hypothesis",
+        "title": "Monetary Policy Under Okun’s Hypothesis",
+        "authors": [
+          "Felipe Alves",
+          "Giovanni L. Violante"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33488",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33488",
+        "url": "https://doi.org/10.3386/w33488",
         "verified": true,
         "note": ""
       }
@@ -76633,6 +77364,25 @@
         "url": "https://doi.org/10.3386/w33422",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Sleep Disruption and Retail Investor Trading",
+        "title": "Sleep Disruption and Retail Investor Trading",
+        "authors": [
+          "Hee Seo Han",
+          "David Hirshleifer",
+          "Jinfei Sheng",
+          "Zheng Sun"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33477",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33477",
+        "url": "https://doi.org/10.3386/w33477",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -77227,6 +77977,24 @@
         "pages": "",
         "doi": "10.3386/w32985",
         "url": "https://doi.org/10.3386/w32985",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "title": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "authors": [
+          "Karen Clay",
+          "Edson R. Severnini",
+          "Xiao Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33447",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33447",
+        "url": "https://doi.org/10.3386/w33447",
         "verified": true,
         "note": ""
       }
@@ -78107,6 +78875,24 @@
         "url": "https://doi.org/10.3386/w33232",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "title": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "authors": [
+          "Karen Clay",
+          "Edson R. Severnini",
+          "Xiao Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33447",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33447",
+        "url": "https://doi.org/10.3386/w33447",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -78785,6 +79571,24 @@
         "url": "https://doi.org/10.3386/w33412",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "title": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "authors": [
+          "Karen Clay",
+          "Edson R. Severnini",
+          "Xiao Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33447",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33447",
+        "url": "https://doi.org/10.3386/w33447",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -79272,6 +80076,24 @@
         "url": "https://doi.org/10.3386/w32852",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "title": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "authors": [
+          "Karen Clay",
+          "Edson R. Severnini",
+          "Xiao Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33447",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33447",
+        "url": "https://doi.org/10.3386/w33447",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -79715,6 +80537,24 @@
         "pages": "",
         "doi": "10.3386/w32579",
         "url": "https://doi.org/10.3386/w32579",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
         "verified": true,
         "note": ""
       }
@@ -83623,6 +84463,24 @@
         "url": "https://doi.org/10.3386/w32307",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "title": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "authors": [
+          "Karen Clay",
+          "Edson R. Severnini",
+          "Xiao Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33447",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33447",
+        "url": "https://doi.org/10.3386/w33447",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -84184,6 +85042,24 @@
         "pages": "103246",
         "doi": "10.1016/j.jdeveco.2023.103246",
         "url": "https://doi.org/10.1016/j.jdeveco.2023.103246",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hot and Crowded: Temperature, Healthcare Utilization and Patient Outcomes",
+        "title": "Hot and Crowded: Temperature, Healthcare Utilization and Patient Outcomes",
+        "authors": [
+          "Sandra Aguilar-Gomez",
+          "Joshua S. Graff Zivin",
+          "Matthew J. Neidell"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33491",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33491",
+        "url": "https://doi.org/10.3386/w33491",
         "verified": true,
         "note": ""
       }
@@ -90262,6 +91138,25 @@
         "url": "https://doi.org/10.3386/w33156",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "title": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "authors": [
+          "Jesús Fernández-Villaverde",
+          "Yiliang Li",
+          "Le Xu",
+          "Francesco Zanetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33486",
+        "url": "https://doi.org/10.3386/w33486",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -95319,6 +96214,43 @@
         "url": "https://doi.org/10.3386/w33414",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "title": "The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution",
+        "authors": [
+          "Karen Clay",
+          "Edson R. Severnini",
+          "Xiao Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33447",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33447",
+        "url": "https://doi.org/10.3386/w33447",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "title": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "authors": [
+          "Hanke Heun-Johnson",
+          "Darius Lakdawalla",
+          "Julian Reif",
+          "Bryan Tysinger"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33465",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33465",
+        "url": "https://doi.org/10.3386/w33465",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99043,6 +99975,24 @@
         "url": "https://doi.org/10.3386/w33278",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Economic Shocks and Healthcare Capital Investments",
+        "title": "Economic Shocks and Healthcare Capital Investments",
+        "authors": [
+          "Michael R. Richards",
+          "Maggie Shi",
+          "Christopher M. Whaley"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33487",
+        "url": "https://doi.org/10.3386/w33487",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -100886,6 +101836,24 @@
         "url": "https://doi.org/10.3386/w33278",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Economic Shocks and Healthcare Capital Investments",
+        "title": "Economic Shocks and Healthcare Capital Investments",
+        "authors": [
+          "Michael R. Richards",
+          "Maggie Shi",
+          "Christopher M. Whaley"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33487",
+        "url": "https://doi.org/10.3386/w33487",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -102292,6 +103260,24 @@
         "url": "https://doi.org/10.3386/w32249",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Economic Shocks and Healthcare Capital Investments",
+        "title": "Economic Shocks and Healthcare Capital Investments",
+        "authors": [
+          "Michael R. Richards",
+          "Maggie Shi",
+          "Christopher M. Whaley"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33487",
+        "url": "https://doi.org/10.3386/w33487",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -103212,6 +104198,25 @@
         "url": "https://doi.org/10.3386/w33072",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "title": "The Effect of US COVID-19 Excess Mortality on Social Security Outlays",
+        "authors": [
+          "Hanke Heun-Johnson",
+          "Darius Lakdawalla",
+          "Julian Reif",
+          "Bryan Tysinger"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33465",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33465",
+        "url": "https://doi.org/10.3386/w33465",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -103447,6 +104452,85 @@
         "pages": "",
         "doi": "10.3386/w33317",
         "url": "https://doi.org/10.3386/w33317",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.94",
+    "title": "全国注册护士抽样调查（National Sample Survey of Registered Nurses，NSSRN）",
+    "links": [
+      {
+        "label": "HRSA: Nursing Workforce Survey Data",
+        "url": "https://data.hrsa.gov/topics/health-workforce/nursing-workforce-survey-data"
+      }
+    ],
+    "summary": "美国卫生资源与服务管理局（HRSA）开展的全国注册护士及执业护士抽样调查，1977–2008 年约每四年一轮，2018 年和 2022 年重启，记录教育、执照、就业状态、工作场所、工资、工作时间和职业规划，公共使用文件公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是美国护理人力最主要的调查数据。研究常用它分析护士劳动供给、工资和执业范围法规的影响。",
+    "source": "公开下载（HRSA 公共使用文件）。",
+    "references": [
+      {
+        "raw": "Sex-Based Wage Gaps in Nursing",
+        "title": "Sex-Based Wage Gaps in Nursing",
+        "authors": [
+          "Pablo Estrada",
+          "Sara Markowitz",
+          "Alexia Witthaus"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33461",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33461",
+        "url": "https://doi.org/10.3386/w33461",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.95",
+    "title": "HIMSS 医院健康信息技术数据库（HIMSS Analytics LOGIC）",
+    "links": [
+      {
+        "label": "HIMSS",
+        "url": "https://www.himss.org/"
+      }
+    ],
+    "summary": "HIMSS Analytics（现属 Definitive Healthcare 体系）对美国医院和医疗系统开展的年度信息技术调查数据库，记录电子病历系统供应商、各类临床与管理软件的采用时间和数字化成熟度评分，付费商业授权。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是研究美国医院信息技术采用的标准数据。研究常用它分析电子病历采用、互操作性和 HITECH 法案的影响。",
+    "source": "付费商业；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Economic Shocks and Healthcare Capital Investments",
+        "title": "Economic Shocks and Healthcare Capital Investments",
+        "authors": [
+          "Michael R. Richards",
+          "Maggie Shi",
+          "Christopher M. Whaley"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33487",
+        "url": "https://doi.org/10.3386/w33487",
         "verified": true,
         "note": ""
       }
@@ -109715,6 +110799,23 @@
         "url": "https://doi.org/10.3386/w33415",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -113070,6 +114171,24 @@
         "pages": "",
         "doi": "10.3386/w32962",
         "url": "https://doi.org/10.3386/w32962",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Alpha in Affordable Housing?",
+        "title": "An Alpha in Affordable Housing?",
+        "authors": [
+          "Sven Damen",
+          "Matthijs Korevaar",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33470",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33470",
+        "url": "https://doi.org/10.3386/w33470",
         "verified": true,
         "note": ""
       }
@@ -116846,6 +117965,23 @@
         "url": "https://doi.org/10.3386/w32593",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "title": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "authors": [
+          "Lisa J. Dettling",
+          "Melissa Schettini Kearney"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33446",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33446",
+        "url": "https://doi.org/10.3386/w33446",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -117254,6 +118390,50 @@
     ]
   },
   {
+    "id": "2.11.35",
+    "title": "房利美与房地美多户住宅贷款数据（Fannie Mae / Freddie Mac Multifamily Loan Data）",
+    "links": [
+      {
+        "label": "Freddie Mac Multifamily: Investor data",
+        "url": "https://mf.freddiemac.com/investors/data"
+      },
+      {
+        "label": "Fannie Mae Multifamily CRT data",
+        "url": "https://capitalmarkets.fanniemae.com/credit-risk-transfer/multifamily"
+      }
+    ],
+    "summary": "房利美和房地美为信用风险转移和证券化披露发布的多户住宅（公寓）抵押贷款逐笔数据，记录贷款金额、利率、期限、物业类型与位置、单元数、入住率、净运营收入、偿债覆盖率和还款表现，注册后免费下载。房利美官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "房地产数据",
+      "金融数据"
+    ],
+    "introduction": "这是美国多户出租住房融资与物业运营的主要公开数据。研究常用它分析公寓租金、物业运营成本和多户住宅信贷。",
+    "source": "公开下载（需注册）；房利美官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "An Alpha in Affordable Housing?",
+        "title": "An Alpha in Affordable Housing?",
+        "authors": [
+          "Sven Damen",
+          "Matthijs Korevaar",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33470",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33470",
+        "url": "https://doi.org/10.3386/w33470",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.12.1",
     "title": "WRDS 沃顿研究数据服务（Wharton Research Data Services）",
     "links": [
@@ -117580,6 +118760,24 @@
         "pages": "",
         "doi": "10.3386/w33344",
         "url": "https://doi.org/10.3386/w33344",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "title": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "authors": [
+          "Yiming Ma",
+          "Kairong Xiao",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33472",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33472",
+        "url": "https://doi.org/10.3386/w33472",
         "verified": true,
         "note": ""
       }
@@ -121036,6 +122234,76 @@
         "url": "https://doi.org/10.3386/w33441",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "title": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "authors": [
+          "Lisa J. Dettling",
+          "Melissa Schettini Kearney"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33446",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33446",
+        "url": "https://doi.org/10.3386/w33446",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misspecification-Robust Shrinkage and Selection for VAR Forecasts and IRFs",
+        "title": "Misspecification-Robust Shrinkage and Selection for VAR Forecasts and IRFs",
+        "authors": [
+          "Oriol González-Casasús",
+          "Frank Schorfheide"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33474",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33474",
+        "url": "https://doi.org/10.3386/w33474",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "title": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "authors": [
+          "Jesús Fernández-Villaverde",
+          "Yiliang Li",
+          "Le Xu",
+          "Francesco Zanetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33486",
+        "url": "https://doi.org/10.3386/w33486",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy Under Okun’s Hypothesis",
+        "title": "Monetary Policy Under Okun’s Hypothesis",
+        "authors": [
+          "Felipe Alves",
+          "Giovanni L. Violante"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33488",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33488",
+        "url": "https://doi.org/10.3386/w33488",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -121615,6 +122883,25 @@
         "url": "https://doi.org/10.3386/w33059",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Student Loan Forgiveness",
+        "title": "Student Loan Forgiveness",
+        "authors": [
+          "Michael Dinerstein",
+          "Samuel Earnest",
+          "Dmitri K. Koustas",
+          "Constantine Yannelis"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33462",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33462",
+        "url": "https://doi.org/10.3386/w33462",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -121687,6 +122974,24 @@
         "pages": "",
         "doi": "10.3386/w32579",
         "url": "https://doi.org/10.3386/w32579",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers",
+        "title": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers",
+        "authors": [
+          "Abhishek Bhardwaj",
+          "Shan Ge",
+          "Saptarshi Mukherjee"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33449",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33449",
+        "url": "https://doi.org/10.3386/w33449",
         "verified": true,
         "note": ""
       }
@@ -124781,6 +126086,61 @@
         "url": "https://doi.org/10.3386/w33413",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "title": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "authors": [
+          "Andrew Atkeson",
+          "Jonathan Heathcote",
+          "Fabrizio Perri"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33459",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33459",
+        "url": "https://doi.org/10.3386/w33459",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sleep Disruption and Retail Investor Trading",
+        "title": "Sleep Disruption and Retail Investor Trading",
+        "authors": [
+          "Hee Seo Han",
+          "David Hirshleifer",
+          "Jinfei Sheng",
+          "Zheng Sun"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33477",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33477",
+        "url": "https://doi.org/10.3386/w33477",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -126652,6 +128012,61 @@
         "url": "https://doi.org/10.3386/w33421",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "title": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "authors": [
+          "Andrew Atkeson",
+          "Jonathan Heathcote",
+          "Fabrizio Perri"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33459",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33459",
+        "url": "https://doi.org/10.3386/w33459",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sleep Disruption and Retail Investor Trading",
+        "title": "Sleep Disruption and Retail Investor Trading",
+        "authors": [
+          "Hee Seo Han",
+          "David Hirshleifer",
+          "Jinfei Sheng",
+          "Zheng Sun"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33477",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33477",
+        "url": "https://doi.org/10.3386/w33477",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -127901,6 +129316,24 @@
         "url": "https://doi.org/10.3386/w33435",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers",
+        "title": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers",
+        "authors": [
+          "Abhishek Bhardwaj",
+          "Shan Ge",
+          "Saptarshi Mukherjee"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33449",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33449",
+        "url": "https://doi.org/10.3386/w33449",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -128557,6 +129990,25 @@
         "url": "https://doi.org/10.3386/w33363",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Sleep Disruption and Retail Investor Trading",
+        "title": "Sleep Disruption and Retail Investor Trading",
+        "authors": [
+          "Hee Seo Han",
+          "David Hirshleifer",
+          "Jinfei Sheng",
+          "Zheng Sun"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33477",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33477",
+        "url": "https://doi.org/10.3386/w33477",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -128664,6 +130116,24 @@
         "pages": "",
         "doi": "10.3386/w32998",
         "url": "https://doi.org/10.3386/w32998",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
         "verified": true,
         "note": ""
       }
@@ -129195,6 +130665,24 @@
         "url": "https://doi.org/10.3386/w33308",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "title": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "authors": [
+          "Yiming Ma",
+          "Kairong Xiao",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33472",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33472",
+        "url": "https://doi.org/10.3386/w33472",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -129678,6 +131166,23 @@
         "pages": "",
         "doi": "10.3386/w33256",
         "url": "https://doi.org/10.3386/w33256",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "title": "Can Housing Policy Raise Birth Rates? Lessons from Federal Mortgage Programs During the Baby Boom",
+        "authors": [
+          "Lisa J. Dettling",
+          "Melissa Schettini Kearney"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33446",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33446",
+        "url": "https://doi.org/10.3386/w33446",
         "verified": true,
         "note": ""
       }
@@ -130364,6 +131869,24 @@
         "pages": "",
         "doi": "10.3386/w33395",
         "url": "https://doi.org/10.3386/w33395",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "title": "Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present",
+        "authors": [
+          "Andrew Atkeson",
+          "Jonathan Heathcote",
+          "Fabrizio Perri"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33459",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33459",
+        "url": "https://doi.org/10.3386/w33459",
         "verified": true,
         "note": ""
       }
@@ -131736,6 +133259,24 @@
         "pages": "",
         "doi": "10.3386/w32530",
         "url": "https://doi.org/10.3386/w32530",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "title": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "authors": [
+          "Yiming Ma",
+          "Kairong Xiao",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33472",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33472",
+        "url": "https://doi.org/10.3386/w33472",
         "verified": true,
         "note": ""
       }
@@ -133363,6 +134904,42 @@
         "pages": "",
         "doi": "10.3386/w33320",
         "url": "https://doi.org/10.3386/w33320",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "title": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "authors": [
+          "Yiming Ma",
+          "Kairong Xiao",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33472",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33472",
+        "url": "https://doi.org/10.3386/w33472",
         "verified": true,
         "note": ""
       }
@@ -135689,6 +137266,24 @@
         "url": "https://doi.org/10.3386/w32960",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "title": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "authors": [
+          "Yiming Ma",
+          "Kairong Xiao",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33472",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33472",
+        "url": "https://doi.org/10.3386/w33472",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -136102,6 +137697,46 @@
         "pages": "",
         "doi": "10.3386/w33435",
         "url": "https://doi.org/10.3386/w33435",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.106",
+    "title": "Creditflux CLO-i 抵押贷款债券数据库",
+    "links": [
+      {
+        "label": "Creditflux",
+        "url": "https://www.creditflux.com/"
+      }
+    ],
+    "summary": "Creditflux 旗下 CLO-i 提供的全球 CLO（抵押贷款债券）数据库，记录美国和欧洲 CLO 的交易结构、管理人、分层、底层贷款持仓、月度受托人报告和表现，付费商业订阅。",
+    "regions": [
+      "美国数据",
+      "欧洲数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是研究 CLO 与杠杆贷款市场的主要数据。研究常用它分析 CLO 对贷款需求的影响、管理人行为和信用风险传导。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers",
+        "title": "Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers",
+        "authors": [
+          "Abhishek Bhardwaj",
+          "Shan Ge",
+          "Saptarshi Mukherjee"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33449",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33449",
+        "url": "https://doi.org/10.3386/w33449",
         "verified": true,
         "note": ""
       }
@@ -136755,6 +138390,24 @@
         "pages": "",
         "doi": "10.3386/w33399",
         "url": "https://doi.org/10.3386/w33399",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
         "verified": true,
         "note": ""
       }
@@ -139902,6 +141555,24 @@
         "url": "https://doi.org/10.3386/w33278",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Economic Shocks and Healthcare Capital Investments",
+        "title": "Economic Shocks and Healthcare Capital Investments",
+        "authors": [
+          "Michael R. Richards",
+          "Maggie Shi",
+          "Christopher M. Whaley"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33487",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33487",
+        "url": "https://doi.org/10.3386/w33487",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -140225,6 +141896,47 @@
         "pages": "",
         "doi": "10.3386/w33323",
         "url": "https://doi.org/10.3386/w33323",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.39",
+    "title": "Felten-Raj-Seamans 人工智能职业暴露指数（AIOE）",
+    "links": [
+      {
+        "label": "GitHub: AIOE-Data",
+        "url": "https://github.com/AIOE-Data/AIOE"
+      }
+    ],
+    "summary": "Felten、Raj 与 Seamans（2021）基于 EFF AI 进展度量与 O*NET 职业能力构建的人工智能职业暴露指数（AIOE），以及行业和地区层面的 AI 暴露（AIIE、AIGE），并提供语言模型暴露版本，GitHub 公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是度量职业 AI 暴露最常用的指标之一。研究常用它分析 AI 对就业、工资和技能需求的影响。",
+    "source": "公开下载（GitHub）。",
+    "references": [
+      {
+        "raw": "AI and Women's Employment in Europe",
+        "title": "AI and Women's Employment in Europe",
+        "authors": [
+          "Stefania Albanesi",
+          "António Dias da Silva",
+          "Juan F. Jimeno",
+          "Ana Lamo",
+          "Alena Wabitsch"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33451",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33451",
+        "url": "https://doi.org/10.3386/w33451",
         "verified": true,
         "note": ""
       }
@@ -141662,6 +143374,23 @@
         "pages": "",
         "doi": "10.3386/w33312",
         "url": "https://doi.org/10.3386/w33312",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Trade Exposure, Labor Market Competition, and the Worker Incidence of Trade Shocks",
+        "title": "Firm Trade Exposure, Labor Market Competition, and the Worker Incidence of Trade Shocks",
+        "authors": [
+          "Jeronimo Carballo",
+          "Richard K. Mansfield"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33481",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33481",
+        "url": "https://doi.org/10.3386/w33481",
         "verified": true,
         "note": ""
       }
@@ -147711,6 +149440,25 @@
         "url": "https://doi.org/10.3386/w33216",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Student Loan Forgiveness",
+        "title": "Student Loan Forgiveness",
+        "authors": [
+          "Michael Dinerstein",
+          "Samuel Earnest",
+          "Dmitri K. Koustas",
+          "Constantine Yannelis"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33462",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33462",
+        "url": "https://doi.org/10.3386/w33462",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -149014,6 +150762,24 @@
         "url": "https://doi.org/10.3386/w32865",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Childbirth and Firm Performance: Evidence from Norwegian Entrepreneurs",
+        "title": "Childbirth and Firm Performance: Evidence from Norwegian Entrepreneurs",
+        "authors": [
+          "John Bonney",
+          "Luigi Pistaferri",
+          "Alessandra Voena"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33448",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33448",
+        "url": "https://doi.org/10.3386/w33448",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -149861,6 +151627,24 @@
         "pages": "",
         "doi": "10.3386/w32577",
         "url": "https://doi.org/10.3386/w32577",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Alpha in Affordable Housing?",
+        "title": "An Alpha in Affordable Housing?",
+        "authors": [
+          "Sven Damen",
+          "Matthijs Korevaar",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33470",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33470",
+        "url": "https://doi.org/10.3386/w33470",
         "verified": true,
         "note": ""
       }
@@ -151059,6 +152843,26 @@
         "url": "https://doi.org/10.3386/w33135",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Cross-Gender Social Ties Around the World",
+        "title": "Cross-Gender Social Ties Around the World",
+        "authors": [
+          "Michael Bailey",
+          "Drew M. Johnston",
+          "Theresa Kuchler",
+          "Ayush Kumar",
+          "Johannes Stroebel"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33480",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33480",
+        "url": "https://doi.org/10.3386/w33480",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -151509,6 +153313,23 @@
         "pages": "",
         "doi": "10.3386/w33415",
         "url": "https://doi.org/10.3386/w33415",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
         "verified": true,
         "note": ""
       }
@@ -153244,6 +155065,26 @@
         "url": "https://doi.org/10.3386/w33029",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "AI and Women's Employment in Europe",
+        "title": "AI and Women's Employment in Europe",
+        "authors": [
+          "Stefania Albanesi",
+          "António Dias da Silva",
+          "Juan F. Jimeno",
+          "Ana Lamo",
+          "Alena Wabitsch"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33451",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33451",
+        "url": "https://doi.org/10.3386/w33451",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -153518,6 +155359,24 @@
         "pages": "",
         "doi": "10.3386/w32890",
         "url": "https://doi.org/10.3386/w32890",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Alpha in Affordable Housing?",
+        "title": "An Alpha in Affordable Housing?",
+        "authors": [
+          "Sven Damen",
+          "Matthijs Korevaar",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33470",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33470",
+        "url": "https://doi.org/10.3386/w33470",
         "verified": true,
         "note": ""
       }
@@ -154113,6 +155972,30 @@
         "url": "https://doi.org/10.3386/w33014",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Costly Are Business Cycle Volatility and Inflation? A Vox Populi Approach",
+        "title": "How Costly Are Business Cycle Volatility and Inflation? A Vox Populi Approach",
+        "authors": [
+          "Dimitris Georgarakos",
+          "Kwang Hwan Kim",
+          "Olivier Coibion",
+          "Myungkyu Shim",
+          "Myunghwan Andrew Lee",
+          "Yuriy Gorodnichenko",
+          "Geoff Kenny",
+          "Seowoo Han",
+          "Michael Weber"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33476",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33476",
+        "url": "https://doi.org/10.3386/w33476",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -154536,6 +156419,24 @@
         "url": "https://doi.org/10.3386/w33429",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Workers Stay: Pay, Beliefs, and Attachment",
+        "title": "Why Workers Stay: Pay, Beliefs, and Attachment",
+        "authors": [
+          "Sydnee Caldwell",
+          "Ingrid Haegele",
+          "Jörg Heining"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33445",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33445",
+        "url": "https://doi.org/10.3386/w33445",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -154689,6 +156590,23 @@
         "pages": "",
         "doi": "10.3386/w33415",
         "url": "https://doi.org/10.3386/w33415",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
         "verified": true,
         "note": ""
       }
@@ -155700,6 +157618,24 @@
         "url": "https://doi.org/10.3386/w33396",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Why Workers Stay: Pay, Beliefs, and Attachment",
+        "title": "Why Workers Stay: Pay, Beliefs, and Attachment",
+        "authors": [
+          "Sydnee Caldwell",
+          "Ingrid Haegele",
+          "Jörg Heining"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33445",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33445",
+        "url": "https://doi.org/10.3386/w33445",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -156679,6 +158615,25 @@
         "pages": "4328–4368",
         "doi": "10.1257/aer.20220948",
         "url": "https://doi.org/10.1257/aer.20220948",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro and Macro Cost-Price Dynamics in Normal Times and During Inflation Surges",
+        "title": "Micro and Macro Cost-Price Dynamics in Normal Times and During Inflation Surges",
+        "authors": [
+          "Luca Gagliardone",
+          "Mark Gertler",
+          "Simone Lenzu",
+          "Joris Tielens"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33478",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33478",
+        "url": "https://doi.org/10.3386/w33478",
         "verified": true,
         "note": ""
       }
@@ -157898,6 +159853,63 @@
         "url": "https://doi.org/10.3386/w33440",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "AI and Women's Employment in Europe",
+        "title": "AI and Women's Employment in Europe",
+        "authors": [
+          "Stefania Albanesi",
+          "António Dias da Silva",
+          "Juan F. Jimeno",
+          "Ana Lamo",
+          "Alena Wabitsch"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33451",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33451",
+        "url": "https://doi.org/10.3386/w33451",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Alpha in Affordable Housing?",
+        "title": "An Alpha in Affordable Housing?",
+        "authors": [
+          "Sven Damen",
+          "Matthijs Korevaar",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33470",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33470",
+        "url": "https://doi.org/10.3386/w33470",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "title": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "authors": [
+          "Jesús Fernández-Villaverde",
+          "Yiliang Li",
+          "Le Xu",
+          "Francesco Zanetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33486",
+        "url": "https://doi.org/10.3386/w33486",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -158210,6 +160222,25 @@
         "pages": "2137–2172",
         "doi": "10.1257/aer.20161343",
         "url": "https://doi.org/10.1257/aer.20161343",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro and Macro Cost-Price Dynamics in Normal Times and During Inflation Surges",
+        "title": "Micro and Macro Cost-Price Dynamics in Normal Times and During Inflation Surges",
+        "authors": [
+          "Luca Gagliardone",
+          "Mark Gertler",
+          "Simone Lenzu",
+          "Joris Tielens"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33478",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33478",
+        "url": "https://doi.org/10.3386/w33478",
         "verified": true,
         "note": ""
       }
@@ -159108,6 +161139,46 @@
         "pages": "",
         "doi": "10.3386/w33081",
         "url": "https://doi.org/10.3386/w33081",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.23",
+    "title": "波兰统计局地方数据库（Bank Danych Lokalnych，BDL）",
+    "links": [
+      {
+        "label": "Statistics Poland: Local Data Bank",
+        "url": "https://bdl.stat.gov.pl/BDL/start"
+      }
+    ],
+    "summary": "波兰统计局维护的地方统计数据库，按省、县（powiat）和市镇（gmina）提供 1995 年以来人口与迁移、劳动力市场与登记失业、企业、财政、住房、教育、卫生和环境等数千项指标，公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是波兰地区经济研究的主要官方数据。研究常用它构造县级失业率、人口迁移和地方财政变量。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Moral Hazard among the Employed: Evidence from Regression Discontinuity",
+        "title": "Moral Hazard among the Employed: Evidence from Regression Discontinuity",
+        "authors": [
+          "Jonas Jessen",
+          "Robin Jessen",
+          "Andrew C. Johnston",
+          "Ewa Gałecka-Burdziak"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33450",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33450",
+        "url": "https://doi.org/10.3386/w33450",
         "verified": true,
         "note": ""
       }
@@ -162146,6 +164217,47 @@
         "pages": "81–110",
         "doi": "10.1257/pol.20200092",
         "url": "https://doi.org/10.1257/pol.20200092",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.9.2",
+    "title": "巴黎港口国监督备忘录数据（Paris MoU）",
+    "links": [
+      {
+        "label": "Paris MoU",
+        "url": "https://parismou.org/"
+      }
+    ],
+    "summary": "巴黎港口国监督谅解备忘录（Paris MoU）组织 27 个海事当局对靠港外国船舶实施检查的数据，提供船舶检查、缺陷与滞留记录（THETIS）、年度报告和船旗国白、灰、黑名单，公开查询下载。",
+    "regions": [
+      "欧洲数据",
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "这是度量船旗国监管质量的常用来源。研究常用它分析方便旗、航运安全监管和制裁规避船队。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "title": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "authors": [
+          "Jesús Fernández-Villaverde",
+          "Yiliang Li",
+          "Le Xu",
+          "Francesco Zanetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33486",
+        "url": "https://doi.org/10.3386/w33486",
         "verified": true,
         "note": ""
       }
@@ -170235,6 +172347,23 @@
         "pages": "",
         "doi": "10.3386/w33379",
         "url": "https://doi.org/10.3386/w33379",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Labor Market Impact of Digital Technologies",
+        "title": "The Labor Market Impact of Digital Technologies",
+        "authors": [
+          "Sangmin Aum",
+          "Yongseok Shin"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33469",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33469",
+        "url": "https://doi.org/10.3386/w33469",
         "verified": true,
         "note": ""
       }
@@ -178922,6 +181051,24 @@
         "url": "https://doi.org/10.3386/w32806",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Hot and Crowded: Temperature, Healthcare Utilization and Patient Outcomes",
+        "title": "Hot and Crowded: Temperature, Healthcare Utilization and Patient Outcomes",
+        "authors": [
+          "Sandra Aguilar-Gomez",
+          "Joshua S. Graff Zivin",
+          "Matthew J. Neidell"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33491",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33491",
+        "url": "https://doi.org/10.3386/w33491",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -178976,6 +181123,24 @@
         "pages": "271–288",
         "doi": "10.1257/aeri.20210201",
         "url": "https://doi.org/10.1257/aeri.20210201",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hot and Crowded: Temperature, Healthcare Utilization and Patient Outcomes",
+        "title": "Hot and Crowded: Temperature, Healthcare Utilization and Patient Outcomes",
+        "authors": [
+          "Sandra Aguilar-Gomez",
+          "Joshua S. Graff Zivin",
+          "Matthew J. Neidell"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33491",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33491",
+        "url": "https://doi.org/10.3386/w33491",
         "verified": true,
         "note": ""
       }
@@ -181922,6 +184087,25 @@
         "url": "https://doi.org/10.3386/w33267",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Minimum Wage, Turnover, and the Shape of the Wage Distribution",
+        "title": "The Minimum Wage, Turnover, and the Shape of the Wage Distribution",
+        "authors": [
+          "Pierre R. Brochu",
+          "David A. Green",
+          "Thomas Lemieux",
+          "James H. Townsend"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33479",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33479",
+        "url": "https://doi.org/10.3386/w33479",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -182886,6 +185070,25 @@
         "pages": "",
         "doi": "10.3386/w33395",
         "url": "https://doi.org/10.3386/w33395",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Minimum Wage, Turnover, and the Shape of the Wage Distribution",
+        "title": "The Minimum Wage, Turnover, and the Shape of the Wage Distribution",
+        "authors": [
+          "Pierre R. Brochu",
+          "David A. Green",
+          "Thomas Lemieux",
+          "James H. Townsend"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33479",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33479",
+        "url": "https://doi.org/10.3386/w33479",
         "verified": true,
         "note": ""
       }
@@ -186365,6 +188568,24 @@
         "url": "https://doi.org/10.3386/w33409",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Economics for Low- and Middle-Income Countries",
+        "title": "Spatial Economics for Low- and Middle-Income Countries",
+        "authors": [
+          "Gharad T. Bryan",
+          "Kyra Frye",
+          "Melanie Morten"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33453",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33453",
+        "url": "https://doi.org/10.3386/w33453",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -186929,6 +189150,61 @@
         "pages": "",
         "doi": "10.3386/w33356",
         "url": "https://doi.org/10.3386/w33356",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "title": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "authors": [
+          "Magne Mogstad",
+          "Kjell G. Salvanes",
+          "Gaute Torsvik"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33444",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33444",
+        "url": "https://doi.org/10.3386/w33444",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cross-Gender Social Ties Around the World",
+        "title": "Cross-Gender Social Ties Around the World",
+        "authors": [
+          "Michael Bailey",
+          "Drew M. Johnston",
+          "Theresa Kuchler",
+          "Ayush Kumar",
+          "Johannes Stroebel"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33480",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33480",
+        "url": "https://doi.org/10.3386/w33480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
         "verified": true,
         "note": ""
       }
@@ -187963,6 +190239,24 @@
         "url": "https://doi.org/10.1257/aer.20151720",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Economics for Low- and Middle-Income Countries",
+        "title": "Spatial Economics for Low- and Middle-Income Countries",
+        "authors": [
+          "Gharad T. Bryan",
+          "Kyra Frye",
+          "Melanie Morten"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33453",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33453",
+        "url": "https://doi.org/10.3386/w33453",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -188713,6 +191007,40 @@
         "pages": "",
         "doi": "10.3386/w33415",
         "url": "https://doi.org/10.3386/w33415",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "title": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33475",
+        "url": "https://doi.org/10.3386/w33475",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
         "verified": true,
         "note": ""
       }
@@ -189636,6 +191964,40 @@
         "pages": "",
         "doi": "10.3386/w33415",
         "url": "https://doi.org/10.3386/w33415",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "title": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33475",
+        "url": "https://doi.org/10.3386/w33475",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
         "verified": true,
         "note": ""
       }
@@ -194117,6 +196479,64 @@
         "pages": "",
         "doi": "10.3386/w33428",
         "url": "https://doi.org/10.3386/w33428",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutions, Technology and Prosperity",
+        "title": "Institutions, Technology and Prosperity",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33442",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33442",
+        "url": "https://doi.org/10.3386/w33442",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial Economics for Low- and Middle-Income Countries",
+        "title": "Spatial Economics for Low- and Middle-Income Countries",
+        "authors": [
+          "Gharad T. Bryan",
+          "Kyra Frye",
+          "Melanie Morten"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33453",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33453",
+        "url": "https://doi.org/10.3386/w33453",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Costly Are Business Cycle Volatility and Inflation? A Vox Populi Approach",
+        "title": "How Costly Are Business Cycle Volatility and Inflation? A Vox Populi Approach",
+        "authors": [
+          "Dimitris Georgarakos",
+          "Kwang Hwan Kim",
+          "Olivier Coibion",
+          "Myungkyu Shim",
+          "Myunghwan Andrew Lee",
+          "Yuriy Gorodnichenko",
+          "Geoff Kenny",
+          "Seowoo Han",
+          "Michael Weber"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33476",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33476",
+        "url": "https://doi.org/10.3386/w33476",
         "verified": true,
         "note": ""
       }
@@ -198812,6 +201232,27 @@
         "url": "https://doi.org/10.3386/w33441",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Test of Dominant Currency Hypothesis: Evidence From a Non-USD-non-Euro Country",
+        "title": "A Test of Dominant Currency Hypothesis: Evidence From a Non-USD-non-Euro Country",
+        "authors": [
+          "Yushi Yoshida",
+          "Takatoshi Ito",
+          "Junko Shimizu",
+          "Kiyotaka Sato",
+          "Taiyo Yoshimi",
+          "Uraku Yoshimoto"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33454",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33454",
+        "url": "https://doi.org/10.3386/w33454",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -199691,6 +202132,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2022.102922",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Economics for Low- and Middle-Income Countries",
+        "title": "Spatial Economics for Low- and Middle-Income Countries",
+        "authors": [
+          "Gharad T. Bryan",
+          "Kyra Frye",
+          "Melanie Morten"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33453",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33453",
+        "url": "https://doi.org/10.3386/w33453",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -200201,6 +202660,23 @@
         "pages": "",
         "doi": "10.3386/w33234",
         "url": "https://doi.org/10.3386/w33234",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
         "verified": true,
         "note": ""
       }
@@ -201477,6 +203953,23 @@
         "pages": "",
         "doi": "10.3386/w33246",
         "url": "https://doi.org/10.3386/w33246",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
         "verified": true,
         "note": ""
       }
@@ -203438,6 +205931,24 @@
         "url": "https://doi.org/10.1257/aer.20211792",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "title": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "authors": [
+          "Magne Mogstad",
+          "Kjell G. Salvanes",
+          "Gaute Torsvik"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33444",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33444",
+        "url": "https://doi.org/10.3386/w33444",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -204035,6 +206546,24 @@
         "url": "https://doi.org/10.1086/705551",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "title": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "authors": [
+          "Magne Mogstad",
+          "Kjell G. Salvanes",
+          "Gaute Torsvik"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33444",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33444",
+        "url": "https://doi.org/10.3386/w33444",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -204260,6 +206789,43 @@
         "url": "https://doi.org/10.3386/w33280",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "title": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33475",
+        "url": "https://doi.org/10.3386/w33475",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cross-Gender Social Ties Around the World",
+        "title": "Cross-Gender Social Ties Around the World",
+        "authors": [
+          "Michael Bailey",
+          "Drew M. Johnston",
+          "Theresa Kuchler",
+          "Ayush Kumar",
+          "Johannes Stroebel"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33480",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33480",
+        "url": "https://doi.org/10.3386/w33480",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -204375,6 +206941,23 @@
         "pages": "",
         "doi": "10.3386/w32203",
         "url": "https://doi.org/10.3386/w32203",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
         "verified": true,
         "note": ""
       }
@@ -204913,6 +207496,164 @@
     ]
   },
   {
+    "id": "7.4.70",
+    "title": "OECD 美好生活指数（Better Life Index）",
+    "links": [
+      {
+        "label": "OECD Better Life Index",
+        "url": "https://www.oecdbetterlifeindex.org/"
+      }
+    ],
+    "summary": "OECD 编制的成员国及伙伴国福祉指标体系，涵盖住房、收入、就业、社区、教育、环境、公民参与、健康、生活满意度、安全和工作生活平衡 11 个维度的二十余项指标，并按性别和不平等分组，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是跨国福祉比较的常用指标体系。研究常用它度量超越 GDP 的生活质量，分析福祉与移民、政策的关系。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "title": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "authors": [
+          "Magne Mogstad",
+          "Kjell G. Salvanes",
+          "Gaute Torsvik"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33444",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33444",
+        "url": "https://doi.org/10.3386/w33444",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.71",
+    "title": "OECD 税收-福利模型与指标（Tax-Benefit Model / Net Replacement Rates）",
+    "links": [
+      {
+        "label": "OECD Tax-Benefit web calculator",
+        "url": "https://www.oecd.org/en/topics/sub-issues/tax-benefit-web-calculator.html"
+      }
+    ],
+    "summary": "OECD 税收-福利模型计算的各成员国典型家庭在不同收入和就业状态下的税负与福利，包括失业净替代率、就业参与税率、低收入陷阱和最低收入保障水平，2001 年以来，提供网页计算器和指标下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "政治数据"
+    ],
+    "introduction": "这是跨国比较失业保险慷慨度和工作激励的标准指标。研究常用它度量失业福利的替代率，分析福利制度对就业的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Moral Hazard among the Employed: Evidence from Regression Discontinuity",
+        "title": "Moral Hazard among the Employed: Evidence from Regression Discontinuity",
+        "authors": [
+          "Jonas Jessen",
+          "Robin Jessen",
+          "Andrew C. Johnston",
+          "Ewa Gałecka-Burdziak"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33450",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33450",
+        "url": "https://doi.org/10.3386/w33450",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.72",
+    "title": "联合国人居署城市指标数据库（UN-Habitat Urban Indicators Database）",
+    "links": [
+      {
+        "label": "UN-Habitat Urban Indicators Database",
+        "url": "https://data.unhabitat.org/"
+      }
+    ],
+    "summary": "联合国人居署发布的全球城市指标数据，包括可持续发展目标 11 相关指标，如贫民窟人口比例、城市扩张与土地消耗、公共交通可达性、开放公共空间和城市空气质量，按国家和城市提供，公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "房地产数据"
+    ],
+    "introduction": "这是跨国城市化与贫民窟问题的官方数据。研究常用它度量各国城市贫民窟比例和城市化质量。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Spatial Economics for Low- and Middle-Income Countries",
+        "title": "Spatial Economics for Low- and Middle-Income Countries",
+        "authors": [
+          "Gharad T. Bryan",
+          "Kyra Frye",
+          "Melanie Morten"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33453",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33453",
+        "url": "https://doi.org/10.3386/w33453",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.73",
+    "title": "DOSE 全球次国家经济产出数据集",
+    "links": [
+      {
+        "label": "Scientific Data: DOSE",
+        "url": "https://doi.org/10.1038/s41597-023-02323-8"
+      }
+    ],
+    "summary": "Wenz 等（2023，Scientific Data）整合各国统计机构公布的地区 GDP 构建的全球次国家经济产出数据集（DOSE），覆盖 83 个国家约 1660 个一级行政区 1960 年以来的地区总产出及农业、工业和服务业分部门产出，公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是覆盖最广的公开地区 GDP 面板。研究常用它分析气候冲击、灾害和政策对地区经济增长的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.5.1",
     "title": "全球土地变化 1982–2016（Song 等）",
     "links": [],
@@ -205430,6 +208171,44 @@
         "pages": "",
         "doi": "10.3386/w33163",
         "url": "https://doi.org/10.3386/w33163",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cross-Gender Social Ties Around the World",
+        "title": "Cross-Gender Social Ties Around the World",
+        "authors": [
+          "Michael Bailey",
+          "Drew M. Johnston",
+          "Theresa Kuchler",
+          "Ayush Kumar",
+          "Johannes Stroebel"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33480",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33480",
+        "url": "https://doi.org/10.3386/w33480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "title": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "authors": [
+          "Eduardo Montero",
+          "Dean Yang",
+          "Triana Yentzen"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33482",
+        "url": "https://doi.org/10.3386/w33482",
         "verified": true,
         "note": ""
       }
@@ -206315,6 +209094,23 @@
         "url": "https://doi.org/10.3386/w32634",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -206370,6 +209166,24 @@
         "pages": "1091–1144",
         "doi": "10.1086/718372",
         "url": "https://doi.org/10.1086/718372",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "title": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "authors": [
+          "Eduardo Montero",
+          "Dean Yang",
+          "Triana Yentzen"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33482",
+        "url": "https://doi.org/10.3386/w33482",
         "verified": true,
         "note": ""
       }
@@ -208116,6 +210930,24 @@
         "url": "https://doi.org/10.3386/w33377",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial Economics for Low- and Middle-Income Countries",
+        "title": "Spatial Economics for Low- and Middle-Income Countries",
+        "authors": [
+          "Gharad T. Bryan",
+          "Kyra Frye",
+          "Melanie Morten"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33453",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33453",
+        "url": "https://doi.org/10.3386/w33453",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -208634,6 +211466,23 @@
         "pages": "",
         "doi": "10.3386/w32226",
         "url": "https://doi.org/10.3386/w32226",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
         "verified": true,
         "note": ""
       }
@@ -209768,6 +212617,23 @@
         "pages": "",
         "doi": "10.3386/w33131",
         "url": "https://doi.org/10.3386/w33131",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
         "verified": true,
         "note": ""
       }
@@ -211695,6 +214561,23 @@
         "pages": "",
         "doi": "10.3386/w33379",
         "url": "https://doi.org/10.3386/w33379",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
         "verified": true,
         "note": ""
       }
@@ -214070,6 +216953,24 @@
         "pages": "",
         "doi": "10.3386/w32761",
         "url": "https://doi.org/10.3386/w32761",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hot and Crowded: Temperature, Healthcare Utilization and Patient Outcomes",
+        "title": "Hot and Crowded: Temperature, Healthcare Utilization and Patient Outcomes",
+        "authors": [
+          "Sandra Aguilar-Gomez",
+          "Joshua S. Graff Zivin",
+          "Matthew J. Neidell"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33491",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33491",
+        "url": "https://doi.org/10.3386/w33491",
         "verified": true,
         "note": ""
       }
@@ -217607,6 +220508,23 @@
         "url": "https://doi.org/10.1093/restud/rdaf018",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local GDP Estimates Around the World",
+        "title": "Local GDP Estimates Around the World",
+        "authors": [
+          "Esteban Rossi-Hansberg",
+          "Jialing Zhang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33458",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33458",
+        "url": "https://doi.org/10.3386/w33458",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -218757,6 +221675,23 @@
         "url": "https://doi.org/10.3386/w33428",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Therapeutic Consequences of the War: World War II and the 20th-Century Expansion of Biomedicine",
+        "title": "The Therapeutic Consequences of the War: World War II and the 20th-Century Expansion of Biomedicine",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33457",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33457",
+        "url": "https://doi.org/10.3386/w33457",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -219203,6 +222138,40 @@
         "url": "https://doi.org/10.3386/w33415",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "title": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33475",
+        "url": "https://doi.org/10.3386/w33475",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "title": "Declining Life Satisfaction and Happiness Among Young Adults in Six English-speaking Countries",
+        "authors": [
+          "Jean Twenge",
+          "David G. Blanchflower"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33490",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33490",
+        "url": "https://doi.org/10.3386/w33490",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -219501,6 +222470,26 @@
         "pages": "",
         "doi": "10.3386/w33430",
         "url": "https://doi.org/10.3386/w33430",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Understanding the Role of Genetic Heterogeneity in Smoking Interventions: Experimental Evidence from the Lung Health Study",
+        "title": "Understanding the Role of Genetic Heterogeneity in Smoking Interventions: Experimental Evidence from the Lung Health Study",
+        "authors": [
+          "Shubhashrita Basu",
+          "Jason Fletcher",
+          "Qiongshi Lu",
+          "Jiacheng Miao",
+          "Lauren L. Schmitz"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33473",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33473",
+        "url": "https://doi.org/10.3386/w33473",
         "verified": true,
         "note": ""
       }
@@ -220103,6 +223092,47 @@
     ]
   },
   {
+    "id": "7.9.10",
+    "title": "劳氏日报情报（Lloyd’s List Intelligence）船舶与航运数据",
+    "links": [
+      {
+        "label": "Lloyd’s List Intelligence",
+        "url": "https://www.lloydslistintelligence.com/"
+      }
+    ],
+    "summary": "Lloyd’s List Intelligence 基于 AIS 卫星和地面信号及港口报告的全球航运数据平台 Seasearcher，提供商船的身份与所有权、船旗、实时和历史航迹、港口挂靠、货物和制裁风险信息，付费商业。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据",
+      "贸易数据"
+    ],
+    "introduction": "这是追踪全球船舶活动的主要商业数据。研究常用它分析油轮航线、制裁规避、贸易流和港口拥堵。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "title": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "authors": [
+          "Jesús Fernández-Villaverde",
+          "Yiliang Li",
+          "Le Xu",
+          "Francesco Zanetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33486",
+        "url": "https://doi.org/10.3386/w33486",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.10.1",
     "title": "全球治理指标（WGI）",
     "links": [
@@ -220580,6 +223610,22 @@
         "pages": "",
         "doi": "10.3386/w33129",
         "url": "https://doi.org/10.3386/w33129",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutions, Technology and Prosperity",
+        "title": "Institutions, Technology and Prosperity",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33442",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33442",
+        "url": "https://doi.org/10.3386/w33442",
         "verified": true,
         "note": ""
       }
@@ -226803,6 +229849,24 @@
         "url": "https://doi.org/10.3386/w33191",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "title": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "authors": [
+          "Eduardo Montero",
+          "Dean Yang",
+          "Triana Yentzen"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33482",
+        "url": "https://doi.org/10.3386/w33482",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -228732,6 +231796,24 @@
         "pages": "",
         "doi": "10.3386/w33336",
         "url": "https://doi.org/10.3386/w33336",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "title": "Bank Debt, Mutual Fund Equity, and Swing Pricing in Liquidity Provision",
+        "authors": [
+          "Yiming Ma",
+          "Kairong Xiao",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33472",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33472",
+        "url": "https://doi.org/10.3386/w33472",
         "verified": true,
         "note": ""
       }
@@ -231152,6 +234234,24 @@
         "url": "https://doi.org/10.3386/w33340",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -231843,6 +234943,24 @@
         "url": "https://doi.org/10.3386/w33196",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "title": "Market Competition and Shock Propagation: Implications for Margins and Distress",
+        "authors": [
+          "Winston Wei Dou",
+          "Shane A. Johnson",
+          "Wei Wu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33463",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33463",
+        "url": "https://doi.org/10.3386/w33463",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -232335,6 +235453,24 @@
         "pages": "",
         "doi": "10.3386/w33320",
         "url": "https://doi.org/10.3386/w33320",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Alpha in Affordable Housing?",
+        "title": "An Alpha in Affordable Housing?",
+        "authors": [
+          "Sven Damen",
+          "Matthijs Korevaar",
+          "Stijn Van Nieuwerburgh"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33470",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33470",
+        "url": "https://doi.org/10.3386/w33470",
         "verified": true,
         "note": ""
       }
@@ -233524,6 +236660,23 @@
         "url": "https://doi.org/10.3386/w33435",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Venture Capital Start-up Selection",
+        "title": "Venture Capital Start-up Selection",
+        "authors": [
+          "Young Soo Jang",
+          "Steven N. Kaplan"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33483",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33483",
+        "url": "https://doi.org/10.3386/w33483",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -234603,6 +237756,27 @@
         "pages": "",
         "doi": "10.3386/w32877",
         "url": "https://doi.org/10.3386/w32877",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Test of Dominant Currency Hypothesis: Evidence From a Non-USD-non-Euro Country",
+        "title": "A Test of Dominant Currency Hypothesis: Evidence From a Non-USD-non-Euro Country",
+        "authors": [
+          "Yushi Yoshida",
+          "Takatoshi Ito",
+          "Junko Shimizu",
+          "Kiyotaka Sato",
+          "Taiyo Yoshimi",
+          "Uraku Yoshimoto"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33454",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33454",
+        "url": "https://doi.org/10.3386/w33454",
         "verified": true,
         "note": ""
       }
@@ -235846,6 +239020,25 @@
         "url": "https://doi.org/10.3386/w33076",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Policy Interventions and China’s Stock Market in the Early Stages of the COVID-19 Pandemic",
+        "title": "Policy Interventions and China’s Stock Market in the Early Stages of the COVID-19 Pandemic",
+        "authors": [
+          "Steven J. Davis",
+          "Dingqian Liu",
+          "Xuguang Simon Sheng",
+          "Yan Wang"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33485",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33485",
+        "url": "https://doi.org/10.3386/w33485",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -236460,6 +239653,23 @@
         "pages": "",
         "doi": "10.3386/w33378",
         "url": "https://doi.org/10.3386/w33378",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Application Fees on Entry into Patenting",
+        "title": "The Effect of Application Fees on Entry into Patenting",
+        "authors": [
+          "Gaétan de Rassenfosse",
+          "Adam B. Jaffe"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33492",
+        "url": "https://doi.org/10.3386/w33492",
         "verified": true,
         "note": ""
       }
@@ -238080,6 +241290,78 @@
         "pages": "",
         "doi": "10.3386/w33314",
         "url": "https://doi.org/10.3386/w33314",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "AI and Women's Employment in Europe",
+        "title": "AI and Women's Employment in Europe",
+        "authors": [
+          "Stefania Albanesi",
+          "António Dias da Silva",
+          "Juan F. Jimeno",
+          "Ana Lamo",
+          "Alena Wabitsch"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33451",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33451",
+        "url": "https://doi.org/10.3386/w33451",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Therapeutic Consequences of the War: World War II and the 20th-Century Expansion of Biomedicine",
+        "title": "The Therapeutic Consequences of the War: World War II and the 20th-Century Expansion of Biomedicine",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33457",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33457",
+        "url": "https://doi.org/10.3386/w33457",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "If We Build It, We Will Come: Strategies for Developing Academic Institutions and the Evolution of Career Choices by Top Talent During Japan’s Industrialization",
+        "title": "If We Build It, We Will Come: Strategies for Developing Academic Institutions and the Evolution of Career Choices by Top Talent During Japan’s Industrialization",
+        "authors": [
+          "Takuya Hiraiwa",
+          "Serguey Braguinsky",
+          "Rajshree Agarwal"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33471",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33471",
+        "url": "https://doi.org/10.3386/w33471",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Application Fees on Entry into Patenting",
+        "title": "The Effect of Application Fees on Entry into Patenting",
+        "authors": [
+          "Gaétan de Rassenfosse",
+          "Adam B. Jaffe"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33492",
+        "url": "https://doi.org/10.3386/w33492",
         "verified": true,
         "note": ""
       }
@@ -239852,6 +243134,23 @@
         "url": "https://doi.org/10.3386/w33056",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Therapeutic Consequences of the War: World War II and the 20th-Century Expansion of Biomedicine",
+        "title": "The Therapeutic Consequences of the War: World War II and the 20th-Century Expansion of Biomedicine",
+        "authors": [
+          "Daniel P. Gross",
+          "Bhaven N. Sampat"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33457",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33457",
+        "url": "https://doi.org/10.3386/w33457",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -240899,6 +244198,83 @@
         "pages": "",
         "doi": "10.3386/w33410",
         "url": "https://doi.org/10.3386/w33410",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.45",
+    "title": "国际电信联盟 ICT 统计（ITU DataHub）",
+    "links": [
+      {
+        "label": "ITU DataHub",
+        "url": "https://datahub.itu.int/"
+      }
+    ],
+    "summary": "国际电信联盟（ITU）汇编的全球信息通信技术指标，包括互联网使用者比例、固定和移动宽带订阅、移动电话覆盖、ICT 价格和家庭 ICT 接入，覆盖约 200 个经济体 1960 年代以来的年度数据，经 ITU DataHub 公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是跨国数字化程度的官方数据。研究常用它度量互联网和移动通信普及，分析数字化对发展和社会结果的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "title": "The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33475",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33475",
+        "url": "https://doi.org/10.3386/w33475",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.46",
+    "title": "UVA Darden 全球企业专利数据集（Global Corporate Patent Dataset）",
+    "links": [
+      {
+        "label": "UVA Darden Global Corporate Patent Dataset",
+        "url": "https://patents.darden.virginia.edu/"
+      }
+    ],
+    "summary": "弗吉尼亚大学 Darden 商学院整理的公司-专利匹配数据集，将 1980 年以来美国专利商标局授予的专利与全球上市公司（含子公司和名称变更）进行匹配，并提供专利价值与引用指标，公开下载。",
+    "regions": [
+      "全球数据",
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "它解决了专利权人与公司标识符匹配的难题。研究常用它构造企业专利组合，分析企业创新和专利价值。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Effect of Application Fees on Entry into Patenting",
+        "title": "The Effect of Application Fees on Entry into Patenting",
+        "authors": [
+          "Gaétan de Rassenfosse",
+          "Adam B. Jaffe"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33492",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33492",
+        "url": "https://doi.org/10.3386/w33492",
         "verified": true,
         "note": ""
       }
@@ -242027,6 +245403,24 @@
         "url": "https://doi.org/10.3386/w33417",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "title": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "authors": [
+          "Eduardo Montero",
+          "Dean Yang",
+          "Triana Yentzen"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33482",
+        "url": "https://doi.org/10.3386/w33482",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -242438,6 +245832,24 @@
         "pages": "",
         "doi": "10.3386/w32539",
         "url": "https://doi.org/10.3386/w32539",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "title": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+        "authors": [
+          "Eduardo Montero",
+          "Dean Yang",
+          "Triana Yentzen"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33482",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33482",
+        "url": "https://doi.org/10.3386/w33482",
         "verified": true,
         "note": ""
       }
@@ -245002,6 +248414,41 @@
         "pages": "",
         "doi": "10.3386/w33424",
         "url": "https://doi.org/10.3386/w33424",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Institutions, Technology and Prosperity",
+        "title": "Institutions, Technology and Prosperity",
+        "authors": [
+          "Daron Acemoglu"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33442",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33442",
+        "url": "https://doi.org/10.3386/w33442",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "title": "Charting the Uncharted: The (Un)Intended Consequences of Oil Sanctions and Dark Shipping",
+        "authors": [
+          "Jesús Fernández-Villaverde",
+          "Yiliang Li",
+          "Le Xu",
+          "Francesco Zanetti"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33486",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33486",
+        "url": "https://doi.org/10.3386/w33486",
         "verified": true,
         "note": ""
       }
@@ -248629,6 +252076,24 @@
         "url": "https://doi.org/10.3386/w33415",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "title": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "authors": [
+          "Magne Mogstad",
+          "Kjell G. Salvanes",
+          "Gaute Torsvik"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33444",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33444",
+        "url": "https://doi.org/10.3386/w33444",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -249234,6 +252699,24 @@
         "pages": "",
         "doi": "10.3386/w32590",
         "url": "https://doi.org/10.3386/w32590",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "title": "Income Equality in The Nordic Countries: Myths, Facts, and Lessons",
+        "authors": [
+          "Magne Mogstad",
+          "Kjell G. Salvanes",
+          "Gaute Torsvik"
+        ],
+        "year": 2025,
+        "journal": "NBER Working Paper No. 33444",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w33444",
+        "url": "https://doi.org/10.3386/w33444",
         "verified": true,
         "note": ""
       }
