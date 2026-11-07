@@ -2791,6 +2791,25 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2025.103557",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Recovering Overlooked Information in Categorical Variables with LLMs: An Application to Labor Market Mismatch",
+        "title": "Recovering Overlooked Information in Categorical Variables with LLMs: An Application to Labor Market Mismatch",
+        "authors": [
+          "Yi Chen",
+          "Hanming Fang",
+          "Yi Zhao",
+          "Zibo Zhao"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32327",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32327",
+        "url": "https://doi.org/10.3386/w32327",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14577,6 +14596,64 @@
         "url": "https://doi.org/10.3386/w32250",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "title": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "authors": [
+          "Bruce D. Meyer",
+          "Angela Wyse",
+          "Gillian Meyer",
+          "Alexa Grunwaldt",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32323",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32323",
+        "url": "https://doi.org/10.3386/w32323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -17552,6 +17629,25 @@
         "pages": "105186",
         "doi": "10.1016/j.jpubeco.2024.105186",
         "url": "https://doi.org/10.1016/j.jpubeco.2024.105186",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
         "verified": true,
         "note": ""
       }
@@ -21365,6 +21461,83 @@
         "url": "https://doi.org/10.3386/w32312",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "title": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "authors": [
+          "Bruce D. Meyer",
+          "Angela Wyse",
+          "Gillian Meyer",
+          "Alexa Grunwaldt",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32323",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32323",
+        "url": "https://doi.org/10.3386/w32323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mask Mandate Costs",
+        "title": "Mask Mandate Costs",
+        "authors": [
+          "Patrick Carlin",
+          "Shyam Raman",
+          "Kosali I. Simon",
+          "Ryan Sullivan",
+          "Coady Wing"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32349",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32349",
+        "url": "https://doi.org/10.3386/w32349",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Adoption of Public Good Technologies: The Case of PurpleAir",
+        "title": "Private Adoption of Public Good Technologies: The Case of PurpleAir",
+        "authors": [
+          "Joshua S. Graff Zivin",
+          "Benjamin Krebs",
+          "Matthew J. Neidell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32356",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32356",
+        "url": "https://doi.org/10.3386/w32356",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -21465,6 +21638,44 @@
         "pages": "33–53",
         "doi": "10.1016/s0047-2727(97)00087-x",
         "url": "https://doi.org/10.1016/s0047-2727(97)00087-x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
         "verified": true,
         "note": ""
       }
@@ -24746,6 +24957,94 @@
         "url": "https://doi.org/10.3386/w32310",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Return Migration and Human Capital Flows",
+        "title": "Return Migration and Human Capital Flows",
+        "authors": [
+          "Naser Amanzadeh",
+          "Amir Kermani",
+          "Timothy McQuade"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32352",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32352",
+        "url": "https://doi.org/10.3386/w32352",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Macroeconomics of Mental Health",
+        "title": "Macroeconomics of Mental Health",
+        "authors": [
+          "Boaz Abramson",
+          "Job Boerma",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32354",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32354",
+        "url": "https://doi.org/10.3386/w32354",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "After 40 Years, How Representative Are Labor Market Outcomes in the NLSY79?",
+        "title": "After 40 Years, How Representative Are Labor Market Outcomes in the NLSY79?",
+        "authors": [
+          "Alexander Bick",
+          "Adam Blandin",
+          "Richard Rogerson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32361",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32361",
+        "url": "https://doi.org/10.3386/w32361",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "title": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "authors": [
+          "Steven J. Davis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32363",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32363",
+        "url": "https://doi.org/10.3386/w32363",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "title": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "authors": [
+          "Andrew Garin",
+          "Emilie Jackson",
+          "Dmitri K. Koustas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32368",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32368",
+        "url": "https://doi.org/10.3386/w32368",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25770,6 +26069,43 @@
         "pages": "",
         "doi": "10.3386/w32298",
         "url": "https://doi.org/10.3386/w32298",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Macroeconomics of Mental Health",
+        "title": "Macroeconomics of Mental Health",
+        "authors": [
+          "Boaz Abramson",
+          "Job Boerma",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32354",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32354",
+        "url": "https://doi.org/10.3386/w32354",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
         "verified": true,
         "note": ""
       }
@@ -26800,6 +27136,25 @@
         "url": "https://doi.org/10.3386/w32267",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26864,6 +27219,24 @@
         "pages": "",
         "doi": "10.3386/w32148",
         "url": "https://doi.org/10.3386/w32148",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Macroeconomics of Mental Health",
+        "title": "Macroeconomics of Mental Health",
+        "authors": [
+          "Boaz Abramson",
+          "Job Boerma",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32354",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32354",
+        "url": "https://doi.org/10.3386/w32354",
         "verified": true,
         "note": ""
       }
@@ -27132,6 +27505,25 @@
         "pages": "",
         "doi": "10.3386/w32119",
         "url": "https://doi.org/10.3386/w32119",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
         "verified": true,
         "note": ""
       }
@@ -28661,6 +29053,38 @@
         "url": "https://doi.org/10.3386/w32257",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "title": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "authors": [
+          "Steven J. Davis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32363",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32363",
+        "url": "https://doi.org/10.3386/w32363",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28908,6 +29332,43 @@
         "pages": "",
         "doi": "10.3386/w32302",
         "url": "https://doi.org/10.3386/w32302",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "title": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Xiaowei Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32337",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32337",
+        "url": "https://doi.org/10.3386/w32337",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
         "verified": true,
         "note": ""
       }
@@ -29615,6 +30076,24 @@
         "url": "https://doi.org/10.1086/595975",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "After the Storm: How Emergency Liquidity Helps Businesses Following Natural Disasters",
+        "title": "After the Storm: How Emergency Liquidity Helps Businesses Following Natural Disasters",
+        "authors": [
+          "Benjamin L. Collier",
+          "Sabrina T. Howell",
+          "Lea Rendell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32326",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32326",
+        "url": "https://doi.org/10.3386/w32326",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30269,6 +30748,43 @@
         "url": "https://doi.org/10.3386/w32229",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "After 40 Years, How Representative Are Labor Market Outcomes in the NLSY79?",
+        "title": "After 40 Years, How Representative Are Labor Market Outcomes in the NLSY79?",
+        "authors": [
+          "Alexander Bick",
+          "Adam Blandin",
+          "Richard Rogerson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32361",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32361",
+        "url": "https://doi.org/10.3386/w32361",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30428,6 +30944,22 @@
         "pages": "280–316",
         "doi": "10.1086/499414",
         "url": "https://doi.org/10.1086/499414",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
         "verified": true,
         "note": ""
       }
@@ -30763,6 +31295,41 @@
         "url": "https://doi.org/10.3386/w32030",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30889,6 +31456,24 @@
         "pages": "",
         "doi": "10.3386/w32199",
         "url": "https://doi.org/10.3386/w32199",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "title": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "authors": [
+          "Paul Beaudry",
+          "Chenyu Hou",
+          "Franck Portier"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32322",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32322",
+        "url": "https://doi.org/10.3386/w32322",
         "verified": true,
         "note": ""
       }
@@ -31386,6 +31971,39 @@
         "pages": "",
         "doi": "10.3386/w32194",
         "url": "https://doi.org/10.3386/w32194",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Application Flows",
+        "title": "Application Flows",
+        "authors": [
+          "Steven J. Davis",
+          "Brenda Samaniego de la Parra"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32320",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32320",
+        "url": "https://doi.org/10.3386/w32320",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "title": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "authors": [
+          "Steven J. Davis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32363",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32363",
+        "url": "https://doi.org/10.3386/w32363",
         "verified": true,
         "note": ""
       }
@@ -32466,6 +33084,25 @@
         "url": "https://doi.org/10.3386/w32292",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32896,6 +33533,65 @@
         "url": "https://doi.org/10.3386/w32223",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "title": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "authors": [
+          "Bruce D. Meyer",
+          "Angela Wyse",
+          "Gillian Meyer",
+          "Alexa Grunwaldt",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32323",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32323",
+        "url": "https://doi.org/10.3386/w32323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Work Requirements and Child Tax Benefits",
+        "title": "Work Requirements and Child Tax Benefits",
+        "authors": [
+          "Jacob Goldin",
+          "Tatiana Homonoff",
+          "Neel A. Lal",
+          "Ithai Lurie",
+          "Katherine Michelmore",
+          "Matthew Unrath"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32343",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32343",
+        "url": "https://doi.org/10.3386/w32343",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "title": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "authors": [
+          "Andrew Garin",
+          "Emilie Jackson",
+          "Dmitri K. Koustas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32368",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32368",
+        "url": "https://doi.org/10.3386/w32368",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32975,6 +33671,22 @@
         "url": "https://doi.org/10.3386/w32289",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "title": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "authors": [
+          "Steven J. Davis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32363",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32363",
+        "url": "https://doi.org/10.3386/w32363",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -33012,6 +33724,23 @@
         "pages": "104292",
         "doi": "10.1016/j.jfineco.2026.104292",
         "url": "https://doi.org/10.1016/j.jfineco.2026.104292",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Literacy and Financial Education: An Overview",
+        "title": "Financial Literacy and Financial Education: An Overview",
+        "authors": [
+          "Tim Kaiser",
+          "Annamaria Lusardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32355",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32355",
+        "url": "https://doi.org/10.3386/w32355",
         "verified": true,
         "note": ""
       }
@@ -33482,6 +34211,25 @@
         "pages": "72–90",
         "doi": "10.1016/j.jue.2013.03.007",
         "url": "https://doi.org/10.1016/j.jue.2013.03.007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
         "verified": true,
         "note": ""
       }
@@ -34026,6 +34774,24 @@
         "url": "https://doi.org/10.1162/00335530360535171",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "title": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "authors": [
+          "Andrew Garin",
+          "Emilie Jackson",
+          "Dmitri K. Koustas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32368",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32368",
+        "url": "https://doi.org/10.3386/w32368",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34149,6 +34915,25 @@
         "url": "https://doi.org/10.3386/w32148",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34186,6 +34971,104 @@
         "pages": "",
         "doi": "10.3386/w32305",
         "url": "https://doi.org/10.3386/w32305",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Macroeconomics of Mental Health",
+        "title": "Macroeconomics of Mental Health",
+        "authors": [
+          "Boaz Abramson",
+          "Job Boerma",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32354",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32354",
+        "url": "https://doi.org/10.3386/w32354",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.49",
+    "title": "代际职业变迁调查（Occupational Changes in a Generation，OCG I/II）",
+    "links": [
+      {
+        "label": "ICPSR 6162: OCG",
+        "url": "https://www.icpsr.umich.edu/web/ICPSR/studies/6162"
+      }
+    ],
+    "summary": "作为 1962 年和 1973 年 CPS 补充调查开展的代际流动调查，记录男性受访者及其父亲的职业、教育、家庭背景和收入，是 Blau-Duncan 地位获得研究的基础，经 ICPSR 公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "OCG 是美国 20 世纪中期代际职业流动的经典微观数据。研究常用它测度代际职业与教育流动，并与当代数据比较流动性变化。",
+    "source": "公开下载（ICPSR）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.50",
+    "title": "美国黑人全国调查（National Survey of Black Americans，NSBA）",
+    "links": [
+      {
+        "label": "ICPSR 6668: NSBA",
+        "url": "https://www.icpsr.umich.edu/web/ICPSR/studies/6668"
+      }
+    ],
+    "summary": "密歇根大学 1979–1980 年开展、此后多轮追踪的美国黑人成人全国代表性调查，记录家庭、宗教、就业、健康、心理健康、种族认同和政治态度，经 ICPSR 公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "NSBA 是首个全国代表性的美国黑人成人调查。研究常用它分析黑人社区的家庭结构、宗教参与、种族认同和心理健康。",
+    "source": "公开下载（ICPSR）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
         "verified": true,
         "note": ""
       }
@@ -35568,6 +36451,48 @@
         "pages": "",
         "doi": "10.3386/w32138",
         "url": "https://doi.org/10.3386/w32138",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tracking Firm Use of AI in Real Time: A Snapshot from the Business Trends and Outlook Survey",
+        "title": "Tracking Firm Use of AI in Real Time: A Snapshot from the Business Trends and Outlook Survey",
+        "authors": [
+          "Kathryn Bonney",
+          "Cory Breaux",
+          "Cathy Buffington",
+          "Emin Dinlersoz",
+          "Lucia S. Foster",
+          "Nathan Goldschlag",
+          "John C. Haltiwanger",
+          "Zachary Kroff",
+          "Keith Savage"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32319",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32319",
+        "url": "https://doi.org/10.3386/w32319",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "After the Storm: How Emergency Liquidity Helps Businesses Following Natural Disasters",
+        "title": "After the Storm: How Emergency Liquidity Helps Businesses Following Natural Disasters",
+        "authors": [
+          "Benjamin L. Collier",
+          "Sabrina T. Howell",
+          "Lea Rendell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32326",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32326",
+        "url": "https://doi.org/10.3386/w32326",
         "verified": true,
         "note": ""
       }
@@ -37579,6 +38504,30 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2020.104244",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tracking Firm Use of AI in Real Time: A Snapshot from the Business Trends and Outlook Survey",
+        "title": "Tracking Firm Use of AI in Real Time: A Snapshot from the Business Trends and Outlook Survey",
+        "authors": [
+          "Kathryn Bonney",
+          "Cory Breaux",
+          "Cathy Buffington",
+          "Emin Dinlersoz",
+          "Lucia S. Foster",
+          "Nathan Goldschlag",
+          "John C. Haltiwanger",
+          "Zachary Kroff",
+          "Keith Savage"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32319",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32319",
+        "url": "https://doi.org/10.3386/w32319",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38380,6 +39329,30 @@
         "pages": "1005–1038",
         "doi": "10.1086/262011",
         "url": "https://doi.org/10.1086/262011",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tracking Firm Use of AI in Real Time: A Snapshot from the Business Trends and Outlook Survey",
+        "title": "Tracking Firm Use of AI in Real Time: A Snapshot from the Business Trends and Outlook Survey",
+        "authors": [
+          "Kathryn Bonney",
+          "Cory Breaux",
+          "Cathy Buffington",
+          "Emin Dinlersoz",
+          "Lucia S. Foster",
+          "Nathan Goldschlag",
+          "John C. Haltiwanger",
+          "Zachary Kroff",
+          "Keith Savage"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32319",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32319",
+        "url": "https://doi.org/10.3386/w32319",
         "verified": true,
         "note": ""
       }
@@ -45343,6 +46316,42 @@
         "url": "https://doi.org/10.3386/w32248",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "After 40 Years, How Representative Are Labor Market Outcomes in the NLSY79?",
+        "title": "After 40 Years, How Representative Are Labor Market Outcomes in the NLSY79?",
+        "authors": [
+          "Alexander Bick",
+          "Adam Blandin",
+          "Richard Rogerson"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32361",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32361",
+        "url": "https://doi.org/10.3386/w32361",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "title": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "authors": [
+          "Oliver Binz",
+          "John Graham",
+          "Matthew Kubic"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32364",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32364",
+        "url": "https://doi.org/10.3386/w32364",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48234,6 +49243,25 @@
         "url": "https://doi.org/10.3386/w32297",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48792,6 +49820,24 @@
         "pages": "",
         "doi": "10.3386/w32228",
         "url": "https://doi.org/10.3386/w32228",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "title": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "authors": [
+          "Oliver Binz",
+          "John Graham",
+          "Matthew Kubic"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32364",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32364",
+        "url": "https://doi.org/10.3386/w32364",
         "verified": true,
         "note": ""
       }
@@ -50737,6 +51783,42 @@
         "url": "https://doi.org/10.3386/w32300",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "title": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "authors": [
+          "Paul Beaudry",
+          "Chenyu Hou",
+          "Franck Portier"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32322",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32322",
+        "url": "https://doi.org/10.3386/w32322",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "title": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "authors": [
+          "Oliver Binz",
+          "John Graham",
+          "Matthew Kubic"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32364",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32364",
+        "url": "https://doi.org/10.3386/w32364",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -51923,6 +53005,65 @@
         "url": "https://doi.org/10.3386/w32060",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "title": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "authors": [
+          "Bruce D. Meyer",
+          "Angela Wyse",
+          "Gillian Meyer",
+          "Alexa Grunwaldt",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32323",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32323",
+        "url": "https://doi.org/10.3386/w32323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Work Requirements and Child Tax Benefits",
+        "title": "Work Requirements and Child Tax Benefits",
+        "authors": [
+          "Jacob Goldin",
+          "Tatiana Homonoff",
+          "Neel A. Lal",
+          "Ithai Lurie",
+          "Katherine Michelmore",
+          "Matthew Unrath"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32343",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32343",
+        "url": "https://doi.org/10.3386/w32343",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "title": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "authors": [
+          "Andrew Garin",
+          "Emilie Jackson",
+          "Dmitri K. Koustas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32368",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32368",
+        "url": "https://doi.org/10.3386/w32368",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -52967,6 +54108,24 @@
         "url": "https://doi.org/10.3386/w32096",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "title": "New Gig Work or Changes in Reporting? Understanding Self-Employment Trends in Tax Data",
+        "authors": [
+          "Andrew Garin",
+          "Emilie Jackson",
+          "Dmitri K. Koustas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32368",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32368",
+        "url": "https://doi.org/10.3386/w32368",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53674,6 +54833,24 @@
         "url": "https://doi.org/10.3386/w32180",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Bank Failures and Economic Activity: Evidence from the Progressive Era",
+        "title": "Bank Failures and Economic Activity: Evidence from the Progressive Era",
+        "authors": [
+          "Gary Richardson",
+          "Marco Del Angel",
+          "Michael Gou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32345",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32345",
+        "url": "https://doi.org/10.3386/w32345",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54109,6 +55286,22 @@
         "pages": "",
         "doi": "10.3386/w32046",
         "url": "https://doi.org/10.3386/w32046",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
         "verified": true,
         "note": ""
       }
@@ -54810,6 +56003,88 @@
         "pages": "",
         "doi": "10.3386/w32186",
         "url": "https://doi.org/10.3386/w32186",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.54",
+    "title": "HUD 年度无家可归评估报告与时点计数（AHAR / Point-in-Time Count）",
+    "links": [
+      {
+        "label": "HUD User: AHAR / PIT data",
+        "url": "https://www.huduser.gov/portal/datasets/ahar.html"
+      }
+    ],
+    "summary": "美国住房和城市发展部（HUD）向国会提交的年度无家可归评估报告（AHAR）及各持续照护体（CoC）每年 1 月开展的时点计数（PIT），报告无家可归人口数量、庇护与露宿状态、人口特征和住房库存（HIC），2007 年以来按 CoC 和州公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "PIT/AHAR 是美国无家可归规模的官方统计。研究常用它分析住房成本、租金管制和救助项目对无家可归的影响，并作为行政数据样本的外部基准。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "title": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "authors": [
+          "Bruce D. Meyer",
+          "Angela Wyse",
+          "Gillian Meyer",
+          "Alexa Grunwaldt",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32323",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32323",
+        "url": "https://doi.org/10.3386/w32323",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.55",
+    "title": "NBER 宏观历史数据库（NBER Macrohistory Database）",
+    "links": [
+      {
+        "label": "NBER Macrohistory Database",
+        "url": "https://www.nber.org/research/data/nber-macrohistory-database"
+      }
+    ],
+    "summary": "NBER 在两次大战之间整理的美国、英国、法国和德国宏观经济历史时间序列，覆盖约 1860 至 1950 年代的生产、价格、就业、货币、利率、证券市场和建筑等约 3500 条月度、季度和年度序列，公开下载。",
+    "regions": [
+      "美国数据",
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "金融数据"
+    ],
+    "introduction": "这是一战前至二战期间美国高频宏观数据的主要来源。研究常用它分析大萧条、历史经济周期、价格水平和金融恐慌。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Bank Failures and Economic Activity: Evidence from the Progressive Era",
+        "title": "Bank Failures and Economic Activity: Evidence from the Progressive Era",
+        "authors": [
+          "Gary Richardson",
+          "Marco Del Angel",
+          "Michael Gou"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32345",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32345",
+        "url": "https://doi.org/10.3386/w32345",
         "verified": true,
         "note": ""
       }
@@ -57210,6 +58485,24 @@
         "url": "https://doi.org/10.3386/w32244",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Assessing the Costs of Balancing College and Work Activities: The Gig Economy Meets Online Education",
+        "title": "Assessing the Costs of Balancing College and Work Activities: The Gig Economy Meets Online Education",
+        "authors": [
+          "Esteban M. Aucejo",
+          "A. Spencer Perry",
+          "Basit Zafar"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32357",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32357",
+        "url": "https://doi.org/10.3386/w32357",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -58653,6 +59946,43 @@
         "pages": "",
         "doi": "10.3386/w32232",
         "url": "https://doi.org/10.3386/w32232",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Adoption of Public Good Technologies: The Case of PurpleAir",
+        "title": "Private Adoption of Public Good Technologies: The Case of PurpleAir",
+        "authors": [
+          "Joshua S. Graff Zivin",
+          "Benjamin Krebs",
+          "Matthew J. Neidell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32356",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32356",
+        "url": "https://doi.org/10.3386/w32356",
         "verified": true,
         "note": ""
       }
@@ -73104,6 +74434,25 @@
         "url": "https://doi.org/10.3386/w32310",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73502,6 +74851,44 @@
         "pages": "",
         "doi": "10.3386/w32143",
         "url": "https://doi.org/10.3386/w32143",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "title": "Homelessness and the Persistence of Deprivation: Income, Employment, and Safety Net Participation",
+        "authors": [
+          "Bruce D. Meyer",
+          "Angela Wyse",
+          "Gillian Meyer",
+          "Alexa Grunwaldt",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32323",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32323",
+        "url": "https://doi.org/10.3386/w32323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Nothing for Something: Marketing Cancer Drugs to Physicians Increases Prescribing Without Improving Mortality",
+        "title": "Nothing for Something: Marketing Cancer Drugs to Physicians Increases Prescribing Without Improving Mortality",
+        "authors": [
+          "Colleen Carey",
+          "Michael Daly",
+          "Jing Li"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32336",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32336",
+        "url": "https://doi.org/10.3386/w32336",
         "verified": true,
         "note": ""
       }
@@ -73913,6 +75300,25 @@
         "pages": "",
         "doi": "10.3386/w32189",
         "url": "https://doi.org/10.3386/w32189",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
         "verified": true,
         "note": ""
       }
@@ -75012,6 +76418,25 @@
         "url": "https://doi.org/10.1016/j.jhealeco.2017.01.007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -75440,6 +76865,24 @@
         "pages": "",
         "doi": "10.3386/w32014",
         "url": "https://doi.org/10.3386/w32014",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Nothing for Something: Marketing Cancer Drugs to Physicians Increases Prescribing Without Improving Mortality",
+        "title": "Nothing for Something: Marketing Cancer Drugs to Physicians Increases Prescribing Without Improving Mortality",
+        "authors": [
+          "Colleen Carey",
+          "Michael Daly",
+          "Jing Li"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32336",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32336",
+        "url": "https://doi.org/10.3386/w32336",
         "verified": true,
         "note": ""
       }
@@ -76319,6 +77762,25 @@
         "url": "https://doi.org/10.3386/w32249",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -77125,6 +78587,26 @@
         "pages": "",
         "doi": "10.3386/w32289",
         "url": "https://doi.org/10.3386/w32289",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mask Mandate Costs",
+        "title": "Mask Mandate Costs",
+        "authors": [
+          "Patrick Carlin",
+          "Shyam Raman",
+          "Kosali I. Simon",
+          "Ryan Sullivan",
+          "Coady Wing"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32349",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32349",
+        "url": "https://doi.org/10.3386/w32349",
         "verified": true,
         "note": ""
       }
@@ -78574,6 +80056,24 @@
         "url": "https://doi.org/10.3386/w32249",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nothing for Something: Marketing Cancer Drugs to Physicians Increases Prescribing Without Improving Mortality",
+        "title": "Nothing for Something: Marketing Cancer Drugs to Physicians Increases Prescribing Without Improving Mortality",
+        "authors": [
+          "Colleen Carey",
+          "Michael Daly",
+          "Jing Li"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32336",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32336",
+        "url": "https://doi.org/10.3386/w32336",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -78690,6 +80190,47 @@
         "pages": "",
         "doi": "10.3386/w32302",
         "url": "https://doi.org/10.3386/w32302",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.74",
+    "title": "美国人心理健康观调查（Americans View Their Mental Health，1957 / 1976）",
+    "links": [
+      {
+        "label": "ICPSR 7949: Americans View Their Mental Health",
+        "url": "https://www.icpsr.umich.edu/web/ICPSR/studies/7949"
+      }
+    ],
+    "summary": "密歇根大学社会研究所 1957 年和 1976 年开展的全国代表性成人调查，记录幸福感、焦虑与心理困扰、婚姻与工作满意度和求助行为，两轮问卷可比，经 ICPSR 公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是美国战后心理健康和主观幸福感的早期全国数据。研究常用它比较不同时代的心理健康、性别与种族差异和求助行为。",
+    "source": "公开下载（ICPSR）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
         "verified": true,
         "note": ""
       }
@@ -79034,6 +80575,22 @@
         "pages": "",
         "doi": "10.3386/w32251",
         "url": "https://doi.org/10.3386/w32251",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
         "verified": true,
         "note": ""
       }
@@ -81476,6 +83033,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2012.10.003",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82287,6 +83861,23 @@
         "pages": "587–611",
         "doi": "10.1016/j.jpubeco.2010.11.018",
         "url": "https://doi.org/10.1016/j.jpubeco.2010.11.018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
         "verified": true,
         "note": ""
       }
@@ -83227,6 +84818,23 @@
         "url": "https://doi.org/10.3386/w32082",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -83845,6 +85453,39 @@
         "pages": "",
         "doi": "10.3386/w32082",
         "url": "https://doi.org/10.3386/w32082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
         "verified": true,
         "note": ""
       }
@@ -85680,6 +87321,246 @@
         "pages": "",
         "doi": "10.3386/w32243",
         "url": "https://doi.org/10.3386/w32243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.56",
+    "title": "盖洛普社会系列民意调查（Gallup Poll Social Series，GPSS）",
+    "links": [
+      {
+        "label": "Gallup Poll Social Series",
+        "url": "https://news.gallup.com/poll/1627/gallup-poll-social-series.aspx"
+      }
+    ],
+    "summary": "盖洛普每月对约 1000 名美国成年人开展的电话民调，按月轮换主题（经济、治理、宗教、移民、工作等）并长期重复核心问题，主题结果公开发布，微观数据经 Gallup Analytics 或机构订阅获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据",
+      "微观调查数据"
+    ],
+    "introduction": "GPSS 提供长时段、可比的美国民意序列。研究常用它分析政治态度、宗教信仰、社会议题看法和总统支持率的变化。",
+    "source": "付费商业 / 机构订阅（汇总结果公开）。",
+    "references": [
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.57",
+    "title": "众包计数联盟抗议事件数据库（Crowd Counting Consortium，CCC）",
+    "links": [
+      {
+        "label": "Crowd Counting Consortium",
+        "url": "https://ash.harvard.edu/programs/crowd-counting-consortium/"
+      }
+    ],
+    "summary": "哈佛肯尼迪学院与康涅狄格大学合作维护的美国抗议与政治集会事件数据库，2017 年以来逐事件记录日期、地点、议题、组织者、参与人数估计和是否有逮捕或暴力，基于新闻和社交媒体编码，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "CCC 是美国当代抗议活动最全面的公开事件数据。研究常用它分析社会运动的规模与扩散，以及抗议对选举、舆论和政策的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.58",
+    "title": "LocalView 地方政府会议数据库",
+    "links": [
+      {
+        "label": "Harvard Dataverse: LocalView",
+        "url": "https://dataverse.harvard.edu/dataverse/localview"
+      }
+    ],
+    "summary": "Barari 与 Simko 构建的美国地方政府公开会议数据库，收集市议会、县委员会和学区等在 YouTube 发布的会议视频转录文本，2006 年以来覆盖上千个地方政府的十余万场会议，经 Harvard Dataverse 公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "LocalView 让地方政治议程可以大规模文本分析。研究常用它度量地方政府讨论的议题、党派话语和全国性议题向地方的扩散。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.59",
+    "title": "国会议员推文库（congresstweets）",
+    "links": [
+      {
+        "label": "GitHub: alexlitel/congresstweets",
+        "url": "https://github.com/alexlitel/congresstweets"
+      }
+    ],
+    "summary": "Alex Litel 维护的开源项目，每日收集美国国会议员、委员会和党团官方 Twitter 账户的推文，2017 年至 2023 年按日存档为 JSON 并在 GitHub 公开。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是研究美国国会议员社交媒体传播的常用公开数据。研究常用它度量议员关注的议题、党派话语和对社会事件的回应。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.60",
+    "title": "公共宗教研究所美国价值观调查（PRRI American Values Survey）",
+    "links": [
+      {
+        "label": "PRRI: American Values Survey",
+        "url": "https://www.prri.org/research/american-values-survey/"
+      }
+    ],
+    "summary": "公共宗教研究所（PRRI）每年开展的全国代表性调查，记录美国成人的宗教归属、政治态度、社会价值观和对热点议题的看法，报告公开发布，微观数据经 PRRI 或 ARDA 获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据",
+      "微观调查数据"
+    ],
+    "introduction": "AVS 是研究美国宗教与政治态度交叉的常用调查。研究常用它分析宗教群体的政治立场、文化议题态度和党派极化。",
+    "source": "公开下载（报告；微观数据经 PRRI/ARDA）。",
+    "references": [
+      {
+        "raw": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "title": "Religious Worship Attendance in America: Evidence from Cellphone Data",
+        "authors": [
+          "Devin G. Pope"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32334",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32334",
+        "url": "https://doi.org/10.3386/w32334",
         "verified": true,
         "note": ""
       }
@@ -90468,6 +92349,78 @@
         "url": "https://doi.org/10.3386/w32301",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "title": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "authors": [
+          "Paul Beaudry",
+          "Chenyu Hou",
+          "Franck Portier"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32322",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32322",
+        "url": "https://doi.org/10.3386/w32322",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "title": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "authors": [
+          "José Cristi",
+          "Ṣebnem Kalemli-Özcan",
+          "Mariana Sans",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32330",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32330",
+        "url": "https://doi.org/10.3386/w32330",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -93126,6 +95079,24 @@
         "url": "https://doi.org/10.3386/w32316",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "title": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "authors": [
+          "Oliver Binz",
+          "John Graham",
+          "Matthew Kubic"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32364",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32364",
+        "url": "https://doi.org/10.3386/w32364",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94202,6 +96173,61 @@
         "url": "https://doi.org/10.3386/w32283",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "title": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "authors": [
+          "Oliver Binz",
+          "John Graham",
+          "Matthew Kubic"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32364",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32364",
+        "url": "https://doi.org/10.3386/w32364",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "One Factor to Bind the Cross-Section of Returns",
+        "title": "One Factor to Bind the Cross-Section of Returns",
+        "authors": [
+          "Nicola Borri",
+          "Denis Chetverikov",
+          "Yukun Liu",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32365",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32365",
+        "url": "https://doi.org/10.3386/w32365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -95146,6 +97172,22 @@
         "url": "https://doi.org/10.3386/w32278",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Benefits and Costs of Secured Debt",
+        "title": "The Benefits and Costs of Secured Debt",
+        "authors": [
+          "Efraim Benmelech"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32353",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32353",
+        "url": "https://doi.org/10.3386/w32353",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -95510,6 +97552,25 @@
         "url": "https://doi.org/10.3386/w32261",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "One Factor to Bind the Cross-Section of Returns",
+        "title": "One Factor to Bind the Cross-Section of Returns",
+        "authors": [
+          "Nicola Borri",
+          "Denis Chetverikov",
+          "Yukun Liu",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32365",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32365",
+        "url": "https://doi.org/10.3386/w32365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -95841,6 +97902,25 @@
         "pages": "",
         "doi": "10.3386/w32316",
         "url": "https://doi.org/10.3386/w32316",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Weighted Noise: Discretion in Regulation",
+        "title": "Weighted Noise: Discretion in Regulation",
+        "authors": [
+          "Sumit Agarwal",
+          "Bernardo C. Morais",
+          "Amit Seru",
+          "Kelly Shue"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32344",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32344",
+        "url": "https://doi.org/10.3386/w32344",
         "verified": true,
         "note": ""
       }
@@ -96639,6 +98719,42 @@
         "url": "https://doi.org/10.3386/w32316",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "title": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "authors": [
+          "Wenxin Du",
+          "Kristin Forbes",
+          "Matthew N. Luzzetti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32321",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32321",
+        "url": "https://doi.org/10.3386/w32321",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97289,6 +99405,42 @@
         "url": "https://doi.org/10.3386/w32301",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "title": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "authors": [
+          "Paul Beaudry",
+          "Chenyu Hou",
+          "Franck Portier"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32322",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32322",
+        "url": "https://doi.org/10.3386/w32322",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97549,6 +99701,24 @@
         "url": "https://doi.org/10.3386/w32198",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97785,6 +99955,24 @@
         "url": "https://doi.org/10.3386/w32184",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -97912,6 +100100,24 @@
         "pages": "",
         "doi": "10.3386/w32166",
         "url": "https://doi.org/10.3386/w32166",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
         "verified": true,
         "note": ""
       }
@@ -98748,6 +100954,377 @@
         "pages": "",
         "doi": "10.3386/w32303",
         "url": "https://doi.org/10.3386/w32303",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.64",
+    "title": "美联储 H.4.1 资产负债表统计（Factors Affecting Reserve Balances）",
+    "links": [
+      {
+        "label": "Federal Reserve: H.4.1 Factors Affecting Reserve Balances",
+        "url": "https://www.federalreserve.gov/releases/h41/"
+      }
+    ],
+    "summary": "美联储理事会每周发布的 H.4.1 统计，报告联邦储备体系及各地区联储的资产负债表，包括持有的国债、机构 MBS、回购与贷款便利、准备金余额、TGA 和逆回购等项目，1914 年以来历史数据可在官网和 FRED 下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "H.4.1 是衡量美联储资产负债表规模和构成的标准来源。研究常用它度量量化宽松与缩表、准备金供给和央行流动性便利的使用。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "title": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "authors": [
+          "Wenxin Du",
+          "Kristin Forbes",
+          "Matthew N. Luzzetti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32321",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32321",
+        "url": "https://doi.org/10.3386/w32321",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.65",
+    "title": "CFTC 交易者持仓报告（Commitments of Traders，COT）",
+    "links": [
+      {
+        "label": "CFTC: Commitments of Traders",
+        "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+      }
+    ],
+    "summary": "美国商品期货交易委员会（CFTC）每周发布的期货与期权持仓报告，按交易者类别（商业/非商业，或交易商、资产管理人、杠杆基金等）报告各合约的多空未平仓头寸，1986 年以来历史数据公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "COT 是观察期货市场参与者结构与投机头寸的主要公开数据。研究常用它度量对冲基金国债期货基差交易、投机者持仓和商品期货价格压力。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "title": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "authors": [
+          "Wenxin Du",
+          "Kristin Forbes",
+          "Matthew N. Luzzetti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32321",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32321",
+        "url": "https://doi.org/10.3386/w32321",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.66",
+    "title": "Bauer-Swanson 货币政策意外冲击序列（旧金山联储）",
+    "links": [
+      {
+        "label": "FRBSF: Monetary Policy Surprises",
+        "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/monetary-policy-surprises/"
+      }
+    ],
+    "summary": "旧金山联储发布的 Bauer 与 Swanson 高频货币政策意外序列，基于 FOMC 公告及主席讲话前后窄窗口内利率期货等价格变化构建，并剔除对经济新闻的可预测成分，1988 年以来逐事件更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是高频识别货币政策冲击最常用的公开序列之一。研究常用它作为货币政策冲击或工具变量，估计货币政策对资产价格和宏观变量的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.67",
+    "title": "美联储增强金融账户：对冲基金（Enhanced Financial Accounts, Hedge Funds）",
+    "links": [
+      {
+        "label": "Federal Reserve: EFA Hedge Funds",
+        "url": "https://www.federalreserve.gov/releases/efa/efa-hedge-funds.htm"
+      }
+    ],
+    "summary": "美联储理事会基于 SEC Form PF 申报汇总发布的对冲基金部门统计，报告对冲基金的资产负债、杠杆、借款来源、衍生品敞口和按策略分类的持仓，季度公开发布；机构层面 Form PF 数据受限。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是官方口径下美国对冲基金杠杆与持仓的主要公开汇总。研究常用它分析对冲基金国债基差交易、杠杆和金融稳定风险。",
+    "source": "公开下载（汇总）；机构层面 Form PF 受限。",
+    "references": [
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.68",
+    "title": "NYSE TAQ 逐笔成交与报价数据（Trade and Quote）",
+    "links": [
+      {
+        "label": "WRDS: NYSE Trade and Quote (TAQ)",
+        "url": "https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/nyse-trade-and-quote-taq/"
+      }
+    ],
+    "summary": "纽约证券交易所提供的美国上市证券日内逐笔成交和报价数据，覆盖所有美国交易所和场外交易报告设施，精确到毫秒（2015 年后为纳秒），1993 年起，常经 WRDS 付费获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "TAQ 是美国股票市场微观结构研究的标准数据。研究常用它计算日内收益、买卖价差、流动性与价格冲击，以及公告窗口内的高频价格反应。",
+    "source": "付费商业（常经 WRDS）。",
+    "references": [
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.69",
+    "title": "纽约联储一级交易商统计与一级交易商调查（Primary Dealer Statistics / Survey）",
+    "links": [
+      {
+        "label": "NY Fed: Primary Dealer Statistics",
+        "url": "https://www.newyorkfed.org/markets/counterparties/primary-dealers-statistics"
+      },
+      {
+        "label": "NY Fed: Survey of Primary Dealers",
+        "url": "https://www.newyorkfed.org/markets/market-intelligence/survey-of-primary-dealers"
+      }
+    ],
+    "summary": "纽约联储每周汇总发布的一级交易商国债、机构债、公司债等证券持仓、交易量和融资头寸统计，以及每次 FOMC 会议前对一级交易商的政策利率、资产负债表和经济预期调查，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这些数据是观察美国国债市场做市商头寸和市场参与者政策预期的主要官方来源。研究常用它分析交易商资产负债表约束、国债市场流动性和货币政策预期。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.70",
+    "title": "美国财政部国债拍卖数据（TreasuryDirect Auction Query）",
+    "links": [
+      {
+        "label": "TreasuryDirect: Auction Query",
+        "url": "https://www.treasurydirect.gov/auctions/auction-query/"
+      }
+    ],
+    "summary": "美国财政部 TreasuryDirect 发布的国债拍卖结果数据库，记录 1979 年以来各期国库券、中长期国债、TIPS 和 FRN 的发行日期、规模、中标利率、投标倍数和各类投标人分配，公开查询下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是国债一级市场供给与需求的官方逐期数据。研究常用它度量国债供给冲击、拍卖需求强度和投资者结构。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "title": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "authors": [
+          "Wenxin Du",
+          "Kristin Forbes",
+          "Matthew N. Luzzetti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32321",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32321",
+        "url": "https://doi.org/10.3386/w32321",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.71",
+    "title": "He-Kelly-Manela 中介资本比率与风险因子",
+    "links": [
+      {
+        "label": "Manela: Intermediary Capital Risk Factor",
+        "url": "https://asafmanela.github.io/papers/hkm/intermediarycapitalrisk/"
+      }
+    ],
+    "summary": "He、Kelly 与 Manela（2017）基于纽约联储一级交易商母公司市值杠杆构建的中介资本比率及其风险因子，月度与季度序列由作者网站公开下载并持续更新。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是中介资产定价文献的标准因子。研究常用它检验金融中介资本约束对资产收益、风险溢价和汇率的定价作用。",
+    "source": "公开下载（作者网站）。",
+    "references": [
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "One Factor to Bind the Cross-Section of Returns",
+        "title": "One Factor to Bind the Cross-Section of Returns",
+        "authors": [
+          "Nicola Borri",
+          "Denis Chetverikov",
+          "Yukun Liu",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32365",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32365",
+        "url": "https://doi.org/10.3386/w32365",
         "verified": true,
         "note": ""
       }
@@ -101692,6 +104269,84 @@
     ]
   },
   {
+    "id": "2.13.26",
+    "title": "亚特兰大联储企业不确定性调查（Survey of Business Uncertainty，SBU）",
+    "links": [
+      {
+        "label": "Atlanta Fed: Survey of Business Uncertainty",
+        "url": "https://www.atlantafed.org/research/surveys/business-uncertainty"
+      }
+    ],
+    "summary": "亚特兰大联储与芝加哥大学、斯坦福大学合作开展的月度企业调查，询问约 1500 家美国企业高管对未来一年销售、就业、投资和价格的主观概率分布，2014 年以来，汇总序列公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "微观调查数据"
+    ],
+    "introduction": "SBU 提供企业层面的主观预期与不确定性度量。研究常用它分析企业不确定性、远程办公计划、价格预期和冲击对企业计划的影响。",
+    "source": "公开下载（汇总序列）。",
+    "references": [
+      {
+        "raw": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "title": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "authors": [
+          "Steven J. Davis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32363",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32363",
+        "url": "https://doi.org/10.3386/w32363",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.27",
+    "title": "克利夫兰联储企业通胀预期调查（Survey of Firms' Inflation Expectations，SoFIE）",
+    "links": [
+      {
+        "label": "Cleveland Fed: SoFIE",
+        "url": "https://www.clevelandfed.org/indicators-and-data/survey-of-firms-inflation-expectations"
+      }
+    ],
+    "summary": "克利夫兰联储 2018 年起开展的季度企业调查，询问美国企业高管对未来一年整体通胀和自身成本的预期及其主观分布，汇总序列公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "微观调查数据"
+    ],
+    "introduction": "SoFIE 提供美国企业层面的通胀预期度量，可与家庭和专业预测者预期比较。研究常用它分析企业通胀预期的形成及其对定价和工资决策的影响。",
+    "source": "公开下载（汇总序列）。",
+    "references": [
+      {
+        "raw": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "title": "The Dominant Role of Expectations and Broad-Based Supply Shocks in Driving Inflation",
+        "authors": [
+          "Paul Beaudry",
+          "Chenyu Hou",
+          "Franck Portier"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32322",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32322",
+        "url": "https://doi.org/10.3386/w32322",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.14.1",
     "title": "USDA NASS 农业普查与农业统计（Census of Agriculture、Quick Stats）",
     "links": [
@@ -103892,6 +106547,24 @@
         "url": "https://doi.org/10.3386/w32229",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Balancing Federalism: The Impact of Decentralizing School Accountability",
+        "title": "Balancing Federalism: The Impact of Decentralizing School Accountability",
+        "authors": [
+          "Eric A. Hanushek",
+          "Patricia Saenz-Armstrong",
+          "Alejandra Salazar"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32351",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32351",
+        "url": "https://doi.org/10.3386/w32351",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104472,6 +107145,24 @@
         "pages": "151–200",
         "doi": "10.2307/2118326",
         "url": "https://doi.org/10.2307/2118326",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Balancing Federalism: The Impact of Decentralizing School Accountability",
+        "title": "Balancing Federalism: The Impact of Decentralizing School Accountability",
+        "authors": [
+          "Eric A. Hanushek",
+          "Patricia Saenz-Armstrong",
+          "Alejandra Salazar"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32351",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32351",
+        "url": "https://doi.org/10.3386/w32351",
         "verified": true,
         "note": ""
       }
@@ -105105,6 +107796,24 @@
         "pages": "1593–1660",
         "doi": "10.1093/qje/qjr041",
         "url": "https://doi.org/10.1093/qje/qjr041",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heterogeneity and Endogenous Compliance: Implications for Scaling Class Size Interventions",
+        "title": "Heterogeneity and Endogenous Compliance: Implications for Scaling Class Size Interventions",
+        "authors": [
+          "Karun Adusumilli",
+          "Francesco Agostinelli",
+          "Emilio Borghesan"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32338",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32338",
+        "url": "https://doi.org/10.3386/w32338",
         "verified": true,
         "note": ""
       }
@@ -107169,6 +109878,84 @@
     ]
   },
   {
+    "id": "2.16.44",
+    "title": "美国国际教育协会 Open Doors 国际学生数据",
+    "links": [
+      {
+        "label": "IIE Open Doors",
+        "url": "https://opendoorsdata.org/"
+      }
+    ],
+    "summary": "美国国际教育协会（IIE）与美国国务院合作开展的年度调查，报告在美国际学生和美国出国留学学生人数，按来源国、院校、学位层次、专业和资金来源分列，1948/49 学年以来，汇总数据公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "Open Doors 是美国国际学生流动的标准统计。研究常用它分析国际学生的来源国结构、签证与学费政策影响以及高校国际化。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Return Migration and Human Capital Flows",
+        "title": "Return Migration and Human Capital Flows",
+        "authors": [
+          "Naser Amanzadeh",
+          "Amir Kermani",
+          "Timothy McQuade"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32352",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32352",
+        "url": "https://doi.org/10.3386/w32352",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.45",
+    "title": "全美教师质量委员会州教师政策年鉴（NCTQ State Teacher Policy Yearbook）",
+    "links": [
+      {
+        "label": "NCTQ State Teacher Policy Yearbook",
+        "url": "https://www.nctq.org/state-teacher-policy-yearbook"
+      }
+    ],
+    "summary": "全美教师质量委员会（NCTQ）定期发布的各州教师政策数据库，记录各州教师资格认证、培养项目标准、评价、薪酬、终身教职和解聘等政策，按州和年份公开查询。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "这是比较美国各州教师人事政策的主要来源。研究常用它构造州级教师政策变量，分析教师评价、资格要求和薪酬改革的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Balancing Federalism: The Impact of Decentralizing School Accountability",
+        "title": "Balancing Federalism: The Impact of Decentralizing School Accountability",
+        "authors": [
+          "Eric A. Hanushek",
+          "Patricia Saenz-Armstrong",
+          "Alejandra Salazar"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32351",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32351",
+        "url": "https://doi.org/10.3386/w32351",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -108469,6 +111256,26 @@
         "pages": "",
         "doi": "10.3386/w32309",
         "url": "https://doi.org/10.3386/w32309",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Interdependent Values in Matching Markets: Evidence from Medical School Programs in Denmark",
+        "title": "Interdependent Values in Matching Markets: Evidence from Medical School Programs in Denmark",
+        "authors": [
+          "Benjamin Friedrich",
+          "Martin B. Hackmann",
+          "Adam Kapor",
+          "Sofia J. Moroni",
+          "Anne Brink Nandrup"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32325",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32325",
+        "url": "https://doi.org/10.3386/w32325",
         "verified": true,
         "note": ""
       }
@@ -110253,6 +113060,24 @@
         "url": "https://doi.org/10.1016/0047-2727(95)01564-7",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "title": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Xiaowei Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32337",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32337",
+        "url": "https://doi.org/10.3386/w32337",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -111043,6 +113868,23 @@
         "pages": "1643–1675",
         "doi": "10.1111/jeea.12092",
         "url": "https://doi.org/10.1111/jeea.12092",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Countries for Old Men: An Analysis of the Age Pay Gap",
+        "title": "Countries for Old Men: An Analysis of the Age Pay Gap",
+        "authors": [
+          "Nicola Bianchi",
+          "Matteo Paradisi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32340",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32340",
+        "url": "https://doi.org/10.3386/w32340",
         "verified": true,
         "note": ""
       }
@@ -112211,6 +115053,45 @@
         "pages": "",
         "doi": "10.3386/w32210",
         "url": "https://doi.org/10.3386/w32210",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.35",
+    "title": "英国年度人口调查（Annual Population Survey，APS）",
+    "links": [
+      {
+        "label": "ONS: Annual Population Survey QMI",
+        "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/annualpopulationsurveyapsqmi"
+      }
+    ],
+    "summary": "英国国家统计局（ONS）在劳动力调查（LFS）基础上扩充样本形成的年度住户调查，2004 年起每年约 32 万受访者，记录就业、教育、健康、主观幸福感和地区信息，汇总统计经 Nomis 公开，微观数据经 UK Data Service 获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "APS 样本量大，可提供地方层面的劳动市场和幸福感统计。研究常用它分析地区劳动市场、主观幸福感和健康状况。",
+    "source": "公开汇总；微观数据经 UK Data Service（注册/特殊许可）。",
+    "references": [
+      {
+        "raw": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "title": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Xiaowei Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32337",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32337",
+        "url": "https://doi.org/10.3386/w32337",
         "verified": true,
         "note": ""
       }
@@ -115482,6 +118363,23 @@
         "pages": "372–410",
         "doi": "10.1257/pol.20240302",
         "url": "https://doi.org/10.1257/pol.20240302",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Neighborhood Effects: Evidence from Wartime Destruction in London",
+        "title": "Neighborhood Effects: Evidence from Wartime Destruction in London",
+        "authors": [
+          "Stephen J. Redding",
+          "Daniel M. Sturm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32333",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32333",
+        "url": "https://doi.org/10.3386/w32333",
         "verified": true,
         "note": ""
       }
@@ -119618,6 +122516,23 @@
         "url": "https://doi.org/10.1086/732801",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Neighborhood Effects: Evidence from Wartime Destruction in London",
+        "title": "Neighborhood Effects: Evidence from Wartime Destruction in London",
+        "authors": [
+          "Stephen J. Redding",
+          "Daniel M. Sturm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32333",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32333",
+        "url": "https://doi.org/10.3386/w32333",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -122925,6 +125840,24 @@
         "url": "https://doi.org/10.1093/restud/rdag093",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Education and Adult Cognition in a Low-income Setting: Differences among Adult Siblings",
+        "title": "Education and Adult Cognition in a Low-income Setting: Differences among Adult Siblings",
+        "authors": [
+          "Yuan S. Zhang",
+          "Elizabeth Frankenberg",
+          "Duncan Thomas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32362",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32362",
+        "url": "https://doi.org/10.3386/w32362",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -123179,6 +126112,24 @@
         "pages": "1880–1917",
         "doi": "10.1257/aer.20190098",
         "url": "https://doi.org/10.1257/aer.20190098",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Education and Adult Cognition in a Low-income Setting: Differences among Adult Siblings",
+        "title": "Education and Adult Cognition in a Low-income Setting: Differences among Adult Siblings",
+        "authors": [
+          "Yuan S. Zhang",
+          "Elizabeth Frankenberg",
+          "Duncan Thomas"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32362",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32362",
+        "url": "https://doi.org/10.3386/w32362",
         "verified": true,
         "note": ""
       }
@@ -125397,6 +128348,85 @@
     ]
   },
   {
+    "id": "4.4.8",
+    "title": "土耳其央行电子数据传递系统（EVDS）",
+    "links": [
+      {
+        "label": "CBRT EVDS",
+        "url": "https://evds2.tcmb.gov.tr"
+      }
+    ],
+    "summary": "土耳其共和国中央银行（CBRT）的电子数据传递系统，提供利率、汇率、货币与信贷、国际收支、价格、市场参与者调查和企业部门统计等数万条时间序列，免费注册后可下载或经 API 获取。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "金融数据"
+    ],
+    "introduction": "EVDS 是土耳其宏观金融数据的官方集中来源。研究常用它分析土耳其货币政策、通胀预期、汇率危机和信贷。",
+    "source": "公开下载（需注册）。",
+    "references": [
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.4.9",
+    "title": "新加坡统计局 SingStat 统计表（Table Builder）",
+    "links": [
+      {
+        "label": "SingStat Table Builder",
+        "url": "https://tablebuilder.singstat.gov.sg"
+      }
+    ],
+    "summary": "新加坡统计局（SingStat）的统计表平台，提供人口、住户、劳动、价格、国民账户、贸易和住房等官方统计表，可按主题检索、定制和下载，并提供 API。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "SingStat 是新加坡官方宏观与人口统计的集中来源。研究常用它获取住户与住房结构、人口和价格等辅助统计。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "How You Pay Drives What You Choose: Health Savings Accounts versus Cash in Health Insurance Plan Choice",
+        "title": "How You Pay Drives What You Choose: Health Savings Accounts versus Cash in Health Insurance Plan Choice",
+        "authors": [
+          "Jonathan Gruber",
+          "Mengyun M. Lin",
+          "Haoming Liu",
+          "Junjian Yi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32331",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32331",
+        "url": "https://doi.org/10.3386/w32331",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.5.1",
     "title": "SEDAC 印度村级地理空间社会经济数据（1991、2001）",
     "links": [],
@@ -126883,6 +129913,46 @@
         "pages": "233–250",
         "doi": "10.1257/aeri.20200261",
         "url": "https://doi.org/10.1257/aeri.20200261",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.11.1",
+    "title": "新加坡建屋发展局组屋转售价格数据（HDB Resale Flat Prices）",
+    "links": [
+      {
+        "label": "data.gov.sg: HDB Resale Flat Prices",
+        "url": "https://data.gov.sg/collections/189/view"
+      }
+    ],
+    "summary": "新加坡建屋发展局（HDB）经 data.gov.sg 发布的组屋转售交易数据，记录 1990 年以来每笔转售的月份、市镇、街区地址、户型、楼层区间、面积、剩余租期和成交价，公开下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "组屋居住着约八成新加坡人口，这一逐笔交易数据是研究新加坡住房市场的核心来源。研究常用它分析租期衰减、住房政策和家庭住房财富。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "How You Pay Drives What You Choose: Health Savings Accounts versus Cash in Health Insurance Plan Choice",
+        "title": "How You Pay Drives What You Choose: Health Savings Accounts versus Cash in Health Insurance Plan Choice",
+        "authors": [
+          "Jonathan Gruber",
+          "Mengyun M. Lin",
+          "Haoming Liu",
+          "Junjian Yi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32331",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32331",
+        "url": "https://doi.org/10.3386/w32331",
         "verified": true,
         "note": ""
       }
@@ -137683,6 +140753,25 @@
         "url": "https://doi.org/10.3386/w32314",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "title": "The Evolution of Black-White Differences in Occupational Mobility Across Post-Civil War America",
+        "authors": [
+          "Steven N. Durlauf",
+          "Gueyon Kim",
+          "Dohyeon Lee",
+          "Xi Song"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32370",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32370",
+        "url": "https://doi.org/10.3386/w32370",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -139591,6 +142680,24 @@
         "url": "https://doi.org/10.3386/w32006",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "title": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Xiaowei Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32337",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32337",
+        "url": "https://doi.org/10.3386/w32337",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -139967,6 +143074,23 @@
         "pages": "",
         "doi": "10.3386/w32203",
         "url": "https://doi.org/10.3386/w32203",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Countries for Old Men: An Analysis of the Age Pay Gap",
+        "title": "Countries for Old Men: An Analysis of the Age Pay Gap",
+        "authors": [
+          "Nicola Bianchi",
+          "Matteo Paradisi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32340",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32340",
+        "url": "https://doi.org/10.3386/w32340",
         "verified": true,
         "note": ""
       }
@@ -143605,6 +146729,42 @@
         "url": "https://doi.org/10.3386/w32308",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How You Pay Drives What You Choose: Health Savings Accounts versus Cash in Health Insurance Plan Choice",
+        "title": "How You Pay Drives What You Choose: Health Savings Accounts versus Cash in Health Insurance Plan Choice",
+        "authors": [
+          "Jonathan Gruber",
+          "Mengyun M. Lin",
+          "Haoming Liu",
+          "Junjian Yi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32331",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32331",
+        "url": "https://doi.org/10.3386/w32331",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Countries for Old Men: An Analysis of the Age Pay Gap",
+        "title": "Countries for Old Men: An Analysis of the Age Pay Gap",
+        "authors": [
+          "Nicola Bianchi",
+          "Matteo Paradisi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32340",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32340",
+        "url": "https://doi.org/10.3386/w32340",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -145497,6 +148657,24 @@
         "url": "https://doi.org/10.1093/restud/rdae108",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Return Migration and Human Capital Flows",
+        "title": "Return Migration and Human Capital Flows",
+        "authors": [
+          "Naser Amanzadeh",
+          "Amir Kermani",
+          "Timothy McQuade"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32352",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32352",
+        "url": "https://doi.org/10.3386/w32352",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -147314,6 +150492,60 @@
         "url": "https://doi.org/10.3386/w32303",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "title": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "authors": [
+          "Wenxin Du",
+          "Kristin Forbes",
+          "Matthew N. Luzzetti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32321",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32321",
+        "url": "https://doi.org/10.3386/w32321",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "title": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "authors": [
+          "José Cristi",
+          "Ṣebnem Kalemli-Özcan",
+          "Mariana Sans",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32330",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32330",
+        "url": "https://doi.org/10.3386/w32330",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -148263,6 +151495,60 @@
         "url": "https://doi.org/10.3386/w32303",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "title": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "authors": [
+          "José Cristi",
+          "Ṣebnem Kalemli-Özcan",
+          "Mariana Sans",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32330",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32330",
+        "url": "https://doi.org/10.3386/w32330",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Return Migration and Human Capital Flows",
+        "title": "Return Migration and Human Capital Flows",
+        "authors": [
+          "Naser Amanzadeh",
+          "Amir Kermani",
+          "Timothy McQuade"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32352",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32352",
+        "url": "https://doi.org/10.3386/w32352",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -148359,6 +151645,24 @@
         "pages": "1145–1197",
         "doi": "10.1093/jeea/jvab054",
         "url": "https://doi.org/10.1093/jeea/jvab054",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Return Migration and Human Capital Flows",
+        "title": "Return Migration and Human Capital Flows",
+        "authors": [
+          "Naser Amanzadeh",
+          "Amir Kermani",
+          "Timothy McQuade"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32352",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32352",
+        "url": "https://doi.org/10.3386/w32352",
         "verified": true,
         "note": ""
       }
@@ -151664,6 +154968,44 @@
         "pages": "",
         "doi": "10.3386/w32308",
         "url": "https://doi.org/10.3386/w32308",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.60",
+    "title": "OECD《养老金概览》（Pensions at a Glance）",
+    "links": [
+      {
+        "label": "OECD: Pensions at a Glance 2023",
+        "url": "https://www.oecd.org/en/publications/pensions-at-a-glance-2023_678055dd-en.html"
+      }
+    ],
+    "summary": "OECD 每两年发布的养老金制度比较报告及配套数据，覆盖 OECD 和 G20 国家的法定与最低退休年龄、替代率、缴费率、养老金财富、老年收入与贫困等指标，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是跨国比较养老金制度参数的标准来源。研究常用它构造退休年龄、替代率等制度变量，分析养老金改革对退休和劳动供给的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Countries for Old Men: An Analysis of the Age Pay Gap",
+        "title": "Countries for Old Men: An Analysis of the Age Pay Gap",
+        "authors": [
+          "Nicola Bianchi",
+          "Matteo Paradisi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32340",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32340",
+        "url": "https://doi.org/10.3386/w32340",
         "verified": true,
         "note": ""
       }
@@ -158815,6 +162157,43 @@
         "url": "https://doi.org/10.3386/w32307",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "title": "Human Capital Spillovers and Health: Does Living Around College Graduates Lengthen Life?",
+        "authors": [
+          "Jacob H. Bor",
+          "David M. Cutler",
+          "Edward L. Glaeser",
+          "Ljubica Ristovska"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32346",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32346",
+        "url": "https://doi.org/10.3386/w32346",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Adoption of Public Good Technologies: The Case of PurpleAir",
+        "title": "Private Adoption of Public Good Technologies: The Case of PurpleAir",
+        "authors": [
+          "Joshua S. Graff Zivin",
+          "Benjamin Krebs",
+          "Matthew J. Neidell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32356",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32356",
+        "url": "https://doi.org/10.3386/w32356",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -161358,6 +164737,49 @@
     ]
   },
   {
+    "id": "7.6.70",
+    "title": "PurpleAir 低成本空气质量传感器网络数据",
+    "links": [
+      {
+        "label": "PurpleAir",
+        "url": "https://www2.purpleair.com/"
+      },
+      {
+        "label": "PurpleAir Map",
+        "url": "https://map.purpleair.com"
+      }
+    ],
+    "summary": "PurpleAir 公司运营的全球低成本激光颗粒物传感器网络，数万台居民和机构自建的室内外传感器实时报告 PM1、PM2.5、PM10、温度和湿度，实时地图公开，历史数据经 API（需申请密钥）获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "PurpleAir 的空间密度远高于官方监测站，可度量社区尺度和野火烟雾期间的污染暴露。研究常用它分析野火烟雾、局地污染差异和室内空气质量。",
+    "source": "公开（实时地图；API 需申请密钥）。",
+    "references": [
+      {
+        "raw": "Private Adoption of Public Good Technologies: The Case of PurpleAir",
+        "title": "Private Adoption of Public Good Technologies: The Case of PurpleAir",
+        "authors": [
+          "Joshua S. Graff Zivin",
+          "Benjamin Krebs",
+          "Matthew J. Neidell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32356",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32356",
+        "url": "https://doi.org/10.3386/w32356",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.7.1",
     "title": "全球实体经济活动与石油市场研究数据（Kilian、Baumeister）",
     "links": [
@@ -163176,6 +166598,46 @@
         "pages": "",
         "doi": "10.3386/w32059",
         "url": "https://doi.org/10.3386/w32059",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.15",
+    "title": "全球心智项目（Global Mind Project / Mental Health Million）",
+    "links": [
+      {
+        "label": "Sapien Labs: Global Mind Project",
+        "url": "https://sapienlabs.org/global-mind-project/"
+      }
+    ],
+    "summary": "Sapien Labs 自 2020 年起在 70 多个国家在线开展的心理健康调查，以 MHQ 量表测量受访者的心理功能并记录生活方式、智能手机使用年龄和人口特征，累计超过百万受访者，年度报告公开，微观数据经申请获取（非商业研究）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是覆盖国家最多的心理健康在线调查之一。研究常用它比较各国心理健康水平，分析智能手机、饮食和社会关系与心理健康的关系。",
+    "source": "受限（申请获取微观数据；报告公开）。",
+    "references": [
+      {
+        "raw": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "title": "The Declining Mental Health Of The Young And The Global Disappearance Of The Hump Shape In Age In Unhappiness",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "Xiaowei Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32337",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32337",
+        "url": "https://doi.org/10.3386/w32337",
         "verified": true,
         "note": ""
       }
@@ -169555,6 +173017,78 @@
         "url": "https://doi.org/10.3386/w32301",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "title": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "authors": [
+          "Wenxin Du",
+          "Kristin Forbes",
+          "Matthew N. Luzzetti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32321",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32321",
+        "url": "https://doi.org/10.3386/w32321",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy, Segmentation, and the Term Structure",
+        "title": "Monetary Policy, Segmentation, and the Term Structure",
+        "authors": [
+          "Rohan Kekre",
+          "Moritz Lenel",
+          "Federico Mainardi"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32324",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32324",
+        "url": "https://doi.org/10.3386/w32324",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "title": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "authors": [
+          "José Cristi",
+          "Ṣebnem Kalemli-Özcan",
+          "Mariana Sans",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32330",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32330",
+        "url": "https://doi.org/10.3386/w32330",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -170815,6 +174349,42 @@
         "pages": "",
         "doi": "10.3386/w32172",
         "url": "https://doi.org/10.3386/w32172",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "One Factor to Bind the Cross-Section of Returns",
+        "title": "One Factor to Bind the Cross-Section of Returns",
+        "authors": [
+          "Nicola Borri",
+          "Denis Chetverikov",
+          "Yukun Liu",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32365",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32365",
+        "url": "https://doi.org/10.3386/w32365",
         "verified": true,
         "note": ""
       }
@@ -172545,6 +176115,24 @@
         "url": "https://doi.org/10.3386/w32115",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "title": "Does Inflation Affect Earnings Relevance? A Century-Long Analysis",
+        "authors": [
+          "Oliver Binz",
+          "John Graham",
+          "Matthew Kubic"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32364",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32364",
+        "url": "https://doi.org/10.3386/w32364",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172600,6 +176188,42 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.24149/wp2539",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "title": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "authors": [
+          "José Cristi",
+          "Ṣebnem Kalemli-Özcan",
+          "Mariana Sans",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32330",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32330",
+        "url": "https://doi.org/10.3386/w32330",
         "verified": true,
         "note": ""
       }
@@ -172905,6 +176529,42 @@
         "url": "https://doi.org/10.1257/aer.20231167",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "title": "Global Spillovers from FED Hikes and a Strong Dollar: The Risk Channel",
+        "authors": [
+          "José Cristi",
+          "Ṣebnem Kalemli-Özcan",
+          "Mariana Sans",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32330",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32330",
+        "url": "https://doi.org/10.3386/w32330",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172998,6 +176658,23 @@
         "pages": "4561–4586",
         "doi": "10.1093/rfs/hhac018",
         "url": "https://doi.org/10.1093/rfs/hhac018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
         "verified": true,
         "note": ""
       }
@@ -173427,6 +177104,25 @@
         "pages": "",
         "doi": "10.3386/w32004",
         "url": "https://doi.org/10.3386/w32004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "One Factor to Bind the Cross-Section of Returns",
+        "title": "One Factor to Bind the Cross-Section of Returns",
+        "authors": [
+          "Nicola Borri",
+          "Denis Chetverikov",
+          "Yukun Liu",
+          "Aleh Tsyvinski"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32365",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32365",
+        "url": "https://doi.org/10.3386/w32365",
         "verified": true,
         "note": ""
       }
@@ -174035,6 +177731,84 @@
         "pages": "",
         "doi": "10.3386/w32316",
         "url": "https://doi.org/10.3386/w32316",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.54",
+    "title": "Haver Analytics 宏观经济与金融数据库",
+    "links": [
+      {
+        "label": "Haver Analytics",
+        "url": "https://www.haver.com/"
+      }
+    ],
+    "summary": "Haver Analytics 汇编的商业时间序列数据库，收录美国及 100 多个国家官方统计机构、央行和国际组织发布的数百万条宏观经济、金融市场、价格、劳动和贸易序列，统一格式并持续更新，付费订阅。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "区域经济数据"
+    ],
+    "introduction": "Haver 是央行和政策研究中最常用的商业宏观数据平台之一，便于获取跨国、长时段和高频的官方序列。研究常用它构建跨国宏观面板、市场利率与汇率序列和调查预期数据。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "title": "Quantitative Tightening Around the Globe: What Have We Learned?",
+        "authors": [
+          "Wenxin Du",
+          "Kristin Forbes",
+          "Matthew N. Luzzetti"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32321",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32321",
+        "url": "https://doi.org/10.3386/w32321",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.55",
+    "title": "BIS 全球流动性指标（Global Liquidity Indicators，GLI）",
+    "links": [
+      {
+        "label": "BIS: Global Liquidity Indicators",
+        "url": "https://www.bis.org/statistics/gli.htm"
+      }
+    ],
+    "summary": "国际清算银行（BIS）发布的全球流动性指标，按季度报告以美元、欧元和日元计价的对各国非银行借款人的跨境银行贷款和国际债券信用，按借款国和币种分列，2000 年以来公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "GLI 是衡量全球美元信用和跨境融资条件的标准官方数据。研究常用它分析美国货币政策溢出、全球金融周期和新兴市场外币借款。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "title": "Global Transmission of FED Hikes: The Role of Policy Credibility and Balance Sheets",
+        "authors": [
+          "Ṣebnem Kalemli-Özcan",
+          "Filiz D. Unsal"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32329",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32329",
+        "url": "https://doi.org/10.3386/w32329",
         "verified": true,
         "note": ""
       }
@@ -174860,6 +178634,23 @@
         "url": "https://doi.org/10.3386/w32304",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Limited Effects of U.S. Protests",
+        "title": "The Limited Effects of U.S. Protests",
+        "authors": [
+          "Amory Gethin",
+          "Vincent Pons"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32342",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32342",
+        "url": "https://doi.org/10.3386/w32342",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -174932,6 +178723,24 @@
         "pages": "283–334",
         "doi": "10.1093/qje/qjae035",
         "url": "https://doi.org/10.1093/qje/qjae035",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Return Migration and Human Capital Flows",
+        "title": "Return Migration and Human Capital Flows",
+        "authors": [
+          "Naser Amanzadeh",
+          "Amir Kermani",
+          "Timothy McQuade"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32352",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32352",
+        "url": "https://doi.org/10.3386/w32352",
         "verified": true,
         "note": ""
       }
@@ -177052,6 +180861,82 @@
         "pages": "",
         "doi": "10.3386/w32285",
         "url": "https://doi.org/10.3386/w32285",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.33",
+    "title": "Revelio Labs 劳动力数据（基于公开职业档案）",
+    "links": [
+      {
+        "label": "Revelio Labs",
+        "url": "https://www.reveliolabs.com/"
+      }
+    ],
+    "summary": "Revelio Labs 基于领英等公开在线职业档案、招聘信息和员工评价构建的全球劳动力数据库，提供个人层面的教育与职业履历、职位标准化、薪资估计和企业员工流动，付费商业（部分经 WRDS 提供）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "Revelio 让研究者能在全球范围追踪个体职业轨迹和企业人力资本结构。研究常用它分析移民、远程工作、裁员、技能需求和企业人才流动。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Return Migration and Human Capital Flows",
+        "title": "Return Migration and Human Capital Flows",
+        "authors": [
+          "Naser Amanzadeh",
+          "Amir Kermani",
+          "Timothy McQuade"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32352",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32352",
+        "url": "https://doi.org/10.3386/w32352",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.34",
+    "title": "WFHmap 职位发布远程办公份额数据（Hansen et al.）",
+    "links": [
+      {
+        "label": "WFHmap",
+        "url": "https://wfhmap.com/"
+      }
+    ],
+    "summary": "Hansen、Lambert、Bloom、Davis、Sadun 与 Taska 基于 Lightcast 在线招聘信息，用语言模型识别允许远程或混合办公的职位，构建的英、美、加、澳、新西兰等国按月份、职业、行业和城市分列的远程办公职位份额，汇总数据公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是追踪疫情后远程办公需求的主要公开数据。研究常用它分析远程办公的扩散、职业差异和对劳动市场与城市的影响。",
+    "source": "公开下载（汇总）。",
+    "references": [
+      {
+        "raw": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "title": "The Big Shift in Working Arrangements: Eight Ways Unusual",
+        "authors": [
+          "Steven J. Davis"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32363",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32363",
+        "url": "https://doi.org/10.3386/w32363",
         "verified": true,
         "note": ""
       }
