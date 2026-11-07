@@ -32126,6 +32126,22 @@
         "url": "https://www.zirui-wang.com/papers/Zirui_Wang_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mitigating Customer Returns before Checkout: The Role of Selection and Moral Hazard",
+        "title": "Mitigating Customer Returns before Checkout: The Role of Selection and Moral Hazard",
+        "authors": [
+          "Andrew Wooders"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Northwestern Kellogg, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/x01osmoirl23husxy2kao/Wooders_JMP.pdf?dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -46612,6 +46628,22 @@
         "url": "https://doi.org/10.3386/w32551",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -53583,6 +53615,22 @@
         "pages": "",
         "doi": "10.3386/w33742",
         "url": "https://doi.org/10.3386/w33742",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Concerns and Financial Reasoning When Borrowing from Family",
+        "title": "Social Concerns and Financial Reasoning When Borrowing from Family",
+        "authors": [
+          "Nathaniel Posner"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Columbia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://nposner12.github.io/website/jmp.pdf",
         "verified": true,
         "note": ""
       }
@@ -71320,6 +71368,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/cion4ps5i8xlrzqzjicot/Mostrom_JMP_SCRM.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
         "verified": true,
         "note": ""
       }
@@ -135486,6 +135550,22 @@
         "url": "https://doi.org/10.3386/w32342",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -136528,6 +136608,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/sr1rlwv3nz9kdrba3s225/Bracero_10_25.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
         "verified": true,
         "note": ""
       }
@@ -140807,6 +140903,22 @@
         "url": "https://santiago-cantillo.github.io/files/CantilloCleves_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -143332,6 +143444,43 @@
         "pages": "",
         "doi": "",
         "url": "https://ashleyrojas.org/assets/Rojas_JMP.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.88",
+    "title": "美国联邦公报（Federal Register）",
+    "links": [
+      {
+        "label": "FederalRegister.gov",
+        "url": "https://www.federalregister.gov/"
+      }
+    ],
+    "summary": "美国国家档案与文件署联邦公报办公室每个工作日出版的联邦政府官方公报，1936 年以来收录行政机构的拟议规则、最终规则、通知、总统行政令和公告，1994 年以来全文经 FederalRegister.gov 和 GovInfo 公开检索并提供 API 与批量下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是美国联邦监管活动的官方记录。研究常用它度量各机构规则制定的数量和内容，分析监管周期、总统控制和监管不确定性。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
         "verified": true,
         "note": ""
       }
@@ -154193,6 +154342,22 @@
         "url": "https://www.dropbox.com/scl/fi/y41jyetvd13x16jw79tx3/paper12.pdf?rlkey=hj8xp29ahzeesj5qqyongzxp8&dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "title": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "authors": [
+          "Sean Kemsley"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://seankemsley.com/kemsley-firm-slack-fiscal-policy.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -159443,6 +159608,22 @@
         "url": "https://d-jiao.github.io/assets/pdf/Dian_Jiao_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "title": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "authors": [
+          "Sean Kemsley"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://seankemsley.com/kemsley-firm-slack-fiscal-policy.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -161984,6 +162165,22 @@
         "url": "https://d-jiao.github.io/assets/pdf/Dian_Jiao_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "title": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "authors": [
+          "Sean Kemsley"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://seankemsley.com/kemsley-firm-slack-fiscal-policy.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -164498,6 +164695,38 @@
         "pages": "",
         "doi": "",
         "url": "https://d-jiao.github.io/assets/pdf/Dian_Jiao_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "title": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "authors": [
+          "Sean Kemsley"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://seankemsley.com/kemsley-firm-slack-fiscal-policy.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
         "verified": true,
         "note": ""
       }
@@ -289316,6 +289545,22 @@
         "url": "https://doi.org/10.3386/w32768",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -297560,6 +297805,22 @@
         "url": "https://d-jiao.github.io/assets/pdf/Dian_Jiao_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "title": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+        "authors": [
+          "Sean Kemsley"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://seankemsley.com/kemsley-firm-slack-fiscal-policy.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -299620,6 +299881,22 @@
         "pages": "",
         "doi": "",
         "url": "https://yiyuanwang.ywang8420.workers.dev/public/papers/news-narratives-jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+        "authors": [
+          "Jinzhiyang (Scott) Wang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State Smeal, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
         "verified": true,
         "note": ""
       }
@@ -312785,6 +313062,117 @@
         "pages": "",
         "doi": "",
         "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.73",
+    "title": "Pushshift Reddit 数据集",
+    "links": [
+      {
+        "label": "Baumgartner et al. (2020), arXiv:2001.08435",
+        "url": "https://arxiv.org/abs/2001.08435"
+      }
+    ],
+    "summary": "Baumgartner 等（2020）发布的 Reddit 全量帖子与评论存档，2005 年以来收录数十亿条帖子和评论的文本、作者、版块、时间和得分，学术研究中广泛使用，原 API 已于 2023 年受限，历史转储经学术存档获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是研究社交媒体讨论最常用的大规模文本数据之一。研究常用它度量在线讨论的主题和情绪，分析投资者、消费者和政治行为。",
+    "source": "需申请（历史转储经学术存档获取）。",
+    "references": [
+      {
+        "raw": "Social Concerns and Financial Reasoning When Borrowing from Family",
+        "title": "Social Concerns and Financial Reasoning When Borrowing from Family",
+        "authors": [
+          "Nathaniel Posner"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Columbia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://nposner12.github.io/website/jmp.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.74",
+    "title": "Upworthy 研究档案（Upworthy Research Archive）",
+    "links": [
+      {
+        "label": "Upworthy Research Archive",
+        "url": "https://upworthy.natematias.com/"
+      }
+    ],
+    "summary": "Matias 等与 Upworthy 合作发布的新闻标题 A/B 测试档案，2013–2015 年记录约 3.2 万个实验中 15 万余个标题和图片变体的展示量与点击量，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是规模最大的公开在线 A/B 测试数据之一。研究常用它分析标题文本对点击的影响，评估实验设计和语言模型预测。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Reward Modeling for Business Objectives: Navigating the Bias-Variance Tradeoff between Observational and Experimental Data",
+        "title": "Reward Modeling for Business Objectives: Navigating the Bias-Variance Tradeoff between Observational and Experimental Data",
+        "authors": [
+          "Erfan Loghmani"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UW Foster, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://erfanloghmani.github.io/files/JMP.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.75",
+    "title": "Stack Exchange 数据转储（Stack Exchange Data Dump）",
+    "links": [
+      {
+        "label": "Internet Archive: Stack Exchange Data Dump",
+        "url": "https://archive.org/details/stackexchange"
+      }
+    ],
+    "summary": "Stack Exchange 公司定期发布的全部问答站点（Stack Overflow、Academia、Cross Validated 等约 170 个社区）匿名化数据转储，包含问题、回答、评论、投票、标签、用户声望和编辑历史，经互联网档案馆公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是研究在线知识社区的标准数据。研究常用它分析知识分享、声望激励和生成式 AI 对问答活动的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Reward Modeling for Business Objectives: Navigating the Bias-Variance Tradeoff between Observational and Experimental Data",
+        "title": "Reward Modeling for Business Objectives: Navigating the Bias-Variance Tradeoff between Observational and Experimental Data",
+        "authors": [
+          "Erfan Loghmani"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UW Foster, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://erfanloghmani.github.io/files/JMP.pdf",
         "verified": true,
         "note": ""
       }
