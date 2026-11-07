@@ -152774,46 +152774,6 @@
     ]
   },
   {
-    "id": "2.13.43",
-    "title": "Kogan-Papanikolaou-Seru-Stoffman 专利价值与 Kelly 等专利突破性指标",
-    "links": [
-      {
-        "label": "GitHub: KPSS extended data",
-        "url": "https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data"
-      }
-    ],
-    "summary": "Kogan、Papanikolaou、Seru 与 Stoffman（2017，QJE）基于专利授权前后股价反应估计的美国上市公司专利经济价值数据，以及 Kelly、Papanikolaou、Seru 与 Taddy（2021，AER: Insights）基于专利文本相似度构建的 1840 年以来专利新颖性与影响力指标，GitHub 公开下载并更新。",
-    "regions": [
-      "美国数据"
-    ],
-    "topics": [
-      "商业数据"
-    ],
-    "introduction": "这是度量专利质量和创新价值最常用的数据。研究常用它区分突破性与渐进式创新，分析企业研发和技术变革。",
-    "source": "公开下载（GitHub）。",
-    "references": [
-      {
-        "raw": "The Rise of Absorptive Research in Corporate America: 1945-1980",
-        "title": "The Rise of Absorptive Research in Corporate America: 1945-1980",
-        "authors": [
-          "Ashish Arora",
-          "Sharon Belenzon",
-          "Jungkyu Suh",
-          "Hansen Zhang"
-        ],
-        "year": 2025,
-        "journal": "NBER Working Paper No. 33713",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "doi": "10.3386/w33713",
-        "url": "https://doi.org/10.3386/w33713",
-        "verified": true,
-        "note": ""
-      }
-    ]
-  },
-  {
     "id": "2.14.1",
     "title": "USDA NASS 农业普查与农业统计（Census of Agriculture、Quick Stats）",
     "links": [
