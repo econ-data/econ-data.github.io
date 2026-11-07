@@ -305459,6 +305459,43 @@
     ]
   },
   {
+    "id": "7.12.88",
+    "title": "Kiva 小额贷款公开数据快照（Kiva Data Snapshots）",
+    "links": [
+      {
+        "label": "Kiva: Data Snapshots",
+        "url": "https://www.kiva.org/build/data-snapshots"
+      }
+    ],
+    "summary": "非营利小额贷款平台 Kiva 发布的全量贷款数据快照，2005 年以来覆盖约 80 个国家的 200 余万笔贷款，记录借款人性别、国家、行业、用途描述、贷款金额、期限、出借人数、筹款时长、合作机构和还款状态，公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是研究众筹和小额信贷最常用的公开数据之一。研究常用它分析出借人偏好、借款人特征与筹款成功，以及歧视和信息披露。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "",
+        "title": "",
+        "authors": [
+          "Yuan Yuan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (CMU Tepper, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.nber.org/system/files/working_papers/w30633/w30633.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.13.1",
     "title": "PatSnap 专利数据库",
     "links": [
