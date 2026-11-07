@@ -10380,6 +10380,45 @@
     ]
   },
   {
+    "id": "1.9.2",
+    "title": "上海出口集装箱运价指数（SCFI，上海航运交易所）",
+    "links": [
+      {
+        "label": "SSE: SCFI",
+        "url": "https://en.sse.net.cn/indices/scfinew.jsp"
+      }
+    ],
+    "summary": "上海航运交易所自 2009 年起每周发布的上海港出口集装箱即期海运运价指数，覆盖欧洲、地中海、美西、美东、东南亚等十余条主要航线的综合指数和分航线运价，网站公开发布。",
+    "regions": [
+      "中国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据",
+      "贸易数据"
+    ],
+    "introduction": "这是全球集装箱即期运价最常用的指标之一。研究常用它度量海运成本冲击，分析供应链中断、运价波动与贸易和通胀的关系。",
+    "source": "公开查询。",
+    "references": [
+      {
+        "raw": "Alliance Capacity Sharing and Market Congestion in Container Shipping",
+        "title": "Alliance Capacity Sharing and Market Congestion in Container Shipping",
+        "authors": [
+          "Xiaoyan Zhuang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://xiaoyan-zhuang.github.io/papers/Zhuang_JMP_Capacity_Risk.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "1.10.1",
     "title": "中国官员信息数据",
     "links": [],
@@ -17699,6 +17738,54 @@
         "url": "https://hongwangecon.github.io/jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inclusionary Zoning and Access to Opportunity: Evidence from Washington, D.C.",
+        "title": "Inclusionary Zoning and Access to Opportunity: Evidence from Washington, D.C.",
+        "authors": [
+          "So Young Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Rochester, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1LjxaJu0ZgeOnuk73ppro5sS7FpmCOPDp",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misperceived Benefits and Tax-Filing Decisions Among Low-Income Workers",
+        "title": "Misperceived Benefits and Tax-Filing Decisions Among Low-Income Workers",
+        "authors": [
+          "Francisca Alba"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.franciscaalba.com/Alba-JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Racial Wage Gap and Task Segregation",
+        "title": "The Racial Wage Gap and Task Segregation",
+        "authors": [
+          "Jeongmin Ha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://jmha01.github.io/Ha_RacialWageGap.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18907,6 +18994,22 @@
         "pages": "",
         "doi": "",
         "url": "https://santiago-cantillo.github.io/files/CantilloCleves_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Selective Technological Disruption: Evidence from TV Entry and Radio Stations",
+        "title": "Selective Technological Disruption: Evidence from TV Entry and Radio Stations",
+        "authors": [
+          "Shivangi Ambardar"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://shivangiambardar.com/jmp.pdf",
         "verified": true,
         "note": ""
       }
@@ -20367,6 +20470,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1lcD_8dgA9Q4OwsFgaLmdqzSFM8MNHUlZ",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "title": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "authors": [
+          "Lovepreet Singh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/588e30y2sazbwx5kffh3m/Lovepreet_JMP.pdf?rlkey=vkv8ijg2zc1jrx19lhuj6xri2&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20820,6 +20939,22 @@
         "pages": "",
         "doi": "",
         "url": "https://soyounghan.com/papers/health-insurance-fertility.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "title": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "authors": [
+          "Lovepreet Singh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/588e30y2sazbwx5kffh3m/Lovepreet_JMP.pdf?rlkey=vkv8ijg2zc1jrx19lhuj6xri2&dl=1",
         "verified": true,
         "note": ""
       }
@@ -23723,6 +23858,22 @@
         "url": "https://www.dropbox.com/scl/fi/x1hcrdlwas9ekjz2yx7u9/Helen_Burkhardt_JMP.pdf?dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "title": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "authors": [
+          "Lovepreet Singh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/588e30y2sazbwx5kffh3m/Lovepreet_JMP.pdf?rlkey=vkv8ijg2zc1jrx19lhuj6xri2&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24216,6 +24367,22 @@
         "pages": "",
         "doi": "",
         "url": "https://johnjuneau.github.io/files/of-fathers-and-farms.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "title": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "authors": [
+          "Lovepreet Singh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/588e30y2sazbwx5kffh3m/Lovepreet_JMP.pdf?rlkey=vkv8ijg2zc1jrx19lhuj6xri2&dl=1",
         "verified": true,
         "note": ""
       }
@@ -30287,6 +30454,150 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1fXthUbkwBQaO9dXJrzfs8drXEHuOc2fZ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inclusionary Zoning and Access to Opportunity: Evidence from Washington, D.C.",
+        "title": "Inclusionary Zoning and Access to Opportunity: Evidence from Washington, D.C.",
+        "authors": [
+          "So Young Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Rochester, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1LjxaJu0ZgeOnuk73ppro5sS7FpmCOPDp",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Municipal Zoning and the Geography of Mobile Homes",
+        "title": "Municipal Zoning and the Geography of Mobile Homes",
+        "authors": [
+          "Colin Williams"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://colin-williams-research.s3.amazonaws.com/manufactured-bunching/paper.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "title": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "authors": [
+          "Camille Wixon"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://camillewixon.com/files/Wixon_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Misperceived Benefits and Tax-Filing Decisions Among Low-Income Workers",
+        "title": "Misperceived Benefits and Tax-Filing Decisions Among Low-Income Workers",
+        "authors": [
+          "Francisca Alba"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.franciscaalba.com/Alba-JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "title": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "authors": [
+          "Willy Chen"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://willycecon.com/JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Racial Wage Gap and Task Segregation",
+        "title": "The Racial Wage Gap and Task Segregation",
+        "authors": [
+          "Jeongmin Ha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://jmha01.github.io/Ha_RacialWageGap.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mobile Broadband and Consumer Price Response",
+        "title": "Mobile Broadband and Consumer Price Response",
+        "authors": [
+          "John Reaves"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://1johnreaves.github.io/res/Reaves_PriceCheck.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "title": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "authors": [
+          "Lovepreet Singh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/588e30y2sazbwx5kffh3m/Lovepreet_JMP.pdf?rlkey=vkv8ijg2zc1jrx19lhuj6xri2&dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "No Space Like Home? Selection and Efficiency in Hospital-at-Home",
+        "title": "No Space Like Home? Selection and Efficiency in Hospital-at-Home",
+        "authors": [
+          "Andrew Capron"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of North Carolina--Chapel Hill, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://acapron.github.io/files/ACapron_JMP.pdf",
         "verified": true,
         "note": ""
       }
@@ -39635,6 +39946,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1UPfLLOX3rgiSXqar4PN9SOEN-TAOmYpr",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Aggregative Games, Excise Taxes, and Illicit Cannabis - How Legal Regulation Fuels Illegal Markets",
+        "title": "Aggregative Games, Excise Taxes, and Illicit Cannabis - How Legal Regulation Fuels Illegal Markets",
+        "authors": [
+          "Braden Wagner"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://bradenwagner.github.io/files/braden-wagner-jmp.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -47862,6 +48189,22 @@
         "url": "https://torreschainj.github.io/assets/pdfs/Johanna-Torres-Chain-JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "title": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "authors": [
+          "Willy Chen"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://willycecon.com/JMP.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48711,6 +49054,54 @@
         "pages": "",
         "doi": "",
         "url": "https://upmanyu-suryansh.github.io/files/jmp_suryansh_latest.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "title": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "authors": [
+          "Hyun Soo Suh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.hyunsoosuh.com/JMP_Suh.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "title": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "authors": [
+          "Willy Chen"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://willycecon.com/JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Racial Wage Gap and Task Segregation",
+        "title": "The Racial Wage Gap and Task Segregation",
+        "authors": [
+          "Jeongmin Ha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://jmha01.github.io/Ha_RacialWageGap.pdf",
         "verified": true,
         "note": ""
       }
@@ -51023,6 +51414,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.myerarashid.com/papers/Rashid-Myera-GO_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Racial Wage Gap and Task Segregation",
+        "title": "The Racial Wage Gap and Task Segregation",
+        "authors": [
+          "Jeongmin Ha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://jmha01.github.io/Ha_RacialWageGap.pdf",
         "verified": true,
         "note": ""
       }
@@ -56067,6 +56474,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1fXthUbkwBQaO9dXJrzfs8drXEHuOc2fZ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inclusionary Zoning and Access to Opportunity: Evidence from Washington, D.C.",
+        "title": "Inclusionary Zoning and Access to Opportunity: Evidence from Washington, D.C.",
+        "authors": [
+          "So Young Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Rochester, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1LjxaJu0ZgeOnuk73ppro5sS7FpmCOPDp",
         "verified": true,
         "note": ""
       }
@@ -70533,6 +70956,38 @@
         "url": "https://gabriel.cr/assets/papers/Regulatory%20Capture%20via%20Relative%20Prices%20-%20Gabriel%20Ca%C3%B1edo%20Riedel.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers Under Common Shocks In Panel Data: Estimation and Inference",
+        "title": "Spillovers Under Common Shocks In Panel Data: Estimation and Inference",
+        "authors": [
+          "Qiyang Yu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Rochester, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://maxqiyangyu.github.io/assets/JMP_QY_Spill.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -74432,6 +74887,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1UPfLLOX3rgiSXqar4PN9SOEN-TAOmYpr",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Aggregative Games, Excise Taxes, and Illicit Cannabis - How Legal Regulation Fuels Illegal Markets",
+        "title": "Aggregative Games, Excise Taxes, and Illicit Cannabis - How Legal Regulation Fuels Illegal Markets",
+        "authors": [
+          "Braden Wagner"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://bradenwagner.github.io/files/braden-wagner-jmp.pdf",
         "verified": true,
         "note": ""
       }
@@ -78555,6 +79026,38 @@
         "url": "https://suwang-sam.github.io/files/EducQual.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond the Neighborhood: Regional Goods in Equilibrium Sorting Models",
+        "title": "Beyond the Neighborhood: Regional Goods in Equilibrium Sorting Models",
+        "authors": [
+          "Mo Van de Sompel"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://mvdsomp.github.io/jmp-beyond-the-neighborhood.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mobile Broadband and Consumer Price Response",
+        "title": "Mobile Broadband and Consumer Price Response",
+        "authors": [
+          "John Reaves"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://1johnreaves.github.io/res/Reaves_PriceCheck.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -81352,6 +81855,22 @@
         "pages": "",
         "doi": "",
         "url": "https://vafabehnam.github.io/jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "title": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "authors": [
+          "Lovepreet Singh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/588e30y2sazbwx5kffh3m/Lovepreet_JMP.pdf?rlkey=vkv8ijg2zc1jrx19lhuj6xri2&dl=1",
         "verified": true,
         "note": ""
       }
@@ -86894,6 +87413,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1UPfLLOX3rgiSXqar4PN9SOEN-TAOmYpr",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "title": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "authors": [
+          "Madeleine C. Smith"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1gdvl2DqXLdHlznZNEwviOWPFXJqgyuY-",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -87487,6 +88022,22 @@
         "pages": "",
         "doi": "10.3386/w33878",
         "url": "https://doi.org/10.3386/w33878",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fiscal Beliefs and the Transmission of Fiscal Policy under Imperfect Knowledge",
+        "title": "Fiscal Beliefs and the Transmission of Fiscal Policy under Imperfect Knowledge",
+        "authors": [
+          "Makoto Tanaka"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://makototanaka94.github.io/files/FALIE.pdf",
         "verified": true,
         "note": ""
       }
@@ -88366,6 +88917,43 @@
     ]
   },
   {
+    "id": "2.4.96",
+    "title": "美国劳工部 H-1B 劳工条件申请披露数据（LCA Disclosure Data）",
+    "links": [
+      {
+        "label": "DOL OFLC: Performance Data",
+        "url": "https://www.dol.gov/agencies/eta/foreign-labor/performance"
+      }
+    ],
+    "summary": "美国劳工部外国劳工认证办公室（OFLC）发布的劳工条件申请（LCA）及 PERM、H-2A、H-2B 申请的逐案披露数据，记录雇主、职位、SOC 职业代码、工作地点、申报工资、现行工资和审批结果，2000 年代以来按财年公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是研究美国高技能移民雇主与工资最常用的数据。研究常用它度量 H-1B 需求和工资，分析签证政策对企业和劳动市场的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "title": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "authors": [
+          "Willy Chen"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://willycecon.com/JMP.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.5.1",
     "title": "人口普查局 TIGER/Line 地理边界文件",
     "links": [
@@ -88822,6 +89410,22 @@
         "pages": "",
         "doi": "",
         "url": "https://kgilliat.github.io/papers/church_peers_on_politics_Gilliat_Brown.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Municipal Zoning and the Geography of Mobile Homes",
+        "title": "Municipal Zoning and the Geography of Mobile Homes",
+        "authors": [
+          "Colin Williams"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://colin-williams-research.s3.amazonaws.com/manufactured-bunching/paper.pdf",
         "verified": true,
         "note": ""
       }
@@ -89319,6 +89923,22 @@
         "pages": "",
         "doi": "10.3386/w32824",
         "url": "https://doi.org/10.3386/w32824",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Beyond the Neighborhood: Regional Goods in Equilibrium Sorting Models",
+        "title": "Beyond the Neighborhood: Regional Goods in Equilibrium Sorting Models",
+        "authors": [
+          "Mo Van de Sompel"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://mvdsomp.github.io/jmp-beyond-the-neighborhood.pdf",
         "verified": true,
         "note": ""
       }
@@ -90489,6 +91109,22 @@
         "pages": "",
         "doi": "",
         "url": "https://santiago-cantillo.github.io/files/CantilloCleves_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "title": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "authors": [
+          "Lovepreet Singh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/588e30y2sazbwx5kffh3m/Lovepreet_JMP.pdf?rlkey=vkv8ijg2zc1jrx19lhuj6xri2&dl=1",
         "verified": true,
         "note": ""
       }
@@ -112154,6 +112790,22 @@
         "url": "https://ericsanmiguel.github.io/EricSanMiguel_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Early Discharge from Nursing Homes on Patient Health",
+        "title": "The Effects of Early Discharge from Nursing Homes on Patient Health",
+        "authors": [
+          "Elizabeth Kayoon Hur"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/478ao2lsqdj6rhn6q8npd/Hur_JMP_latest.pdf?dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -112319,6 +112971,22 @@
         "pages": "",
         "doi": "",
         "url": "https://ericparolin.github.io/files/Parolin_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "title": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "authors": [
+          "Camille Wixon"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://camillewixon.com/files/Wixon_JMP.pdf",
         "verified": true,
         "note": ""
       }
@@ -116664,6 +117332,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1gi7iFH8Kh1uzGCqH86YmBG04WqdsesKt",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Early Discharge from Nursing Homes on Patient Health",
+        "title": "The Effects of Early Discharge from Nursing Homes on Patient Health",
+        "authors": [
+          "Elizabeth Kayoon Hur"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/478ao2lsqdj6rhn6q8npd/Hur_JMP_latest.pdf?dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -117787,6 +118471,22 @@
         "url": "https://www.dropbox.com/scl/fi/2kiug3ncqjctqha517bl0/Xuyang_Xia_JMP_LATEST.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Organ Availability and Transplant Candidate Behavior",
+        "title": "Organ Availability and Transplant Candidate Behavior",
+        "authors": [
+          "Younghee Son"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://younghee-son.github.io/files/Son_Organ_Availability.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -118501,6 +119201,22 @@
         "pages": "3660–3693",
         "doi": "10.1257/aer.20211218",
         "url": "https://doi.org/10.1257/aer.20211218",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "title": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "authors": [
+          "Madeleine C. Smith"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1gdvl2DqXLdHlznZNEwviOWPFXJqgyuY-",
         "verified": true,
         "note": ""
       }
@@ -120464,6 +121180,22 @@
         "url": "https://doi.org/10.3386/w32439",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "title": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "authors": [
+          "Camille Wixon"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://camillewixon.com/files/Wixon_JMP.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -120867,6 +121599,22 @@
         "pages": "",
         "doi": "",
         "url": "https://jaeminwoo.com/files/woo_jmp_latest.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "title": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "authors": [
+          "Camille Wixon"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://camillewixon.com/files/Wixon_JMP.pdf",
         "verified": true,
         "note": ""
       }
@@ -122031,6 +122779,22 @@
         "pages": "",
         "doi": "",
         "url": "https://chanwoolkim.github.io/documents/pharmacy_location.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "title": "The Price of Permanence: A Study of Household Contraceptive Choice including Sterilization",
+        "authors": [
+          "Camille Wixon"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://camillewixon.com/files/Wixon_JMP.pdf",
         "verified": true,
         "note": ""
       }
@@ -125751,6 +126515,22 @@
         "pages": "",
         "doi": "10.3386/w33849",
         "url": "https://doi.org/10.3386/w33849",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "title": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "authors": [
+          "Madeleine C. Smith"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1gdvl2DqXLdHlznZNEwviOWPFXJqgyuY-",
         "verified": true,
         "note": ""
       }
@@ -135274,6 +136054,38 @@
         "url": "https://michaelfogarty.github.io/files/Fogarty_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond the Neighborhood: Regional Goods in Equilibrium Sorting Models",
+        "title": "Beyond the Neighborhood: Regional Goods in Equilibrium Sorting Models",
+        "authors": [
+          "Mo Van de Sompel"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://mvdsomp.github.io/jmp-beyond-the-neighborhood.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Municipal Zoning and the Geography of Mobile Homes",
+        "title": "Municipal Zoning and the Geography of Mobile Homes",
+        "authors": [
+          "Colin Williams"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://colin-williams-research.s3.amazonaws.com/manufactured-bunching/paper.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -135567,6 +136379,22 @@
         "pages": "",
         "doi": "10.3386/w33188",
         "url": "https://doi.org/10.3386/w33188",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inclusionary Zoning and Access to Opportunity: Evidence from Washington, D.C.",
+        "title": "Inclusionary Zoning and Access to Opportunity: Evidence from Washington, D.C.",
+        "authors": [
+          "So Young Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Rochester, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1LjxaJu0ZgeOnuk73ppro5sS7FpmCOPDp",
         "verified": true,
         "note": ""
       }
@@ -136822,6 +137650,22 @@
         "pages": "",
         "doi": "",
         "url": "https://sites.asit.columbia.edu/econdept/wp-content/uploads/sites/18/2026/09/dellanos_JMP-2.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Municipal Zoning and the Geography of Mobile Homes",
+        "title": "Municipal Zoning and the Geography of Mobile Homes",
+        "authors": [
+          "Colin Williams"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://colin-williams-research.s3.amazonaws.com/manufactured-bunching/paper.pdf",
         "verified": true,
         "note": ""
       }
@@ -143697,6 +144541,38 @@
         "url": "https://www.dropbox.com/scl/fi/05sf7gbpnal94y8qncih5/Pike-Banks-as-Firms-JMP-2026.pdf?dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "title": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "authors": [
+          "Anmol Agarwal"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/na82rsy9icuda2nco077p/Agarwal_JMP_Elasticity.pdf (dl=1)",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -148593,6 +149469,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1fQcrCORresikEu4-iOwKTa-GGn9EAlJ5",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spillovers Under Common Shocks In Panel Data: Estimation and Inference",
+        "title": "Spillovers Under Common Shocks In Panel Data: Estimation and Inference",
+        "authors": [
+          "Qiyang Yu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Rochester, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://maxqiyangyu.github.io/assets/JMP_QY_Spill.pdf",
         "verified": true,
         "note": ""
       }
@@ -155788,6 +156680,22 @@
         "url": "https://sites.asit.columbia.edu/econdept/wp-content/uploads/sites/18/2026/09/dellanos_JMP-2.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -157051,6 +157959,22 @@
         "pages": "",
         "doi": "",
         "url": "https://husang-kim.github.io/files/HSK_PerceivedRule.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fiscal Beliefs and the Transmission of Fiscal Policy under Imperfect Knowledge",
+        "title": "Fiscal Beliefs and the Transmission of Fiscal Policy under Imperfect Knowledge",
+        "authors": [
+          "Makoto Tanaka"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://makototanaka94.github.io/files/FALIE.pdf",
         "verified": true,
         "note": ""
       }
@@ -158396,6 +159320,22 @@
         "url": "https://husang-kim.github.io/files/HSK_PerceivedRule.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Central Bank Announcements Affect Expectations",
+        "title": "How Central Bank Announcements Affect Expectations",
+        "authors": [
+          "Paul Bousquet"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://pbousquet.com/assets/BousquetJMP.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -158626,6 +159566,22 @@
         "pages": "",
         "doi": "",
         "url": "https://ahismail.net/files/ismail-zuniga-welfare.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
         "verified": true,
         "note": ""
       }
@@ -160015,6 +160971,22 @@
         "url": "https://www.rikutoonishi.com/files/fx_disagreement.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Central Bank Announcements Affect Expectations",
+        "title": "How Central Bank Announcements Affect Expectations",
+        "authors": [
+          "Paul Bousquet"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://pbousquet.com/assets/BousquetJMP.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -160301,6 +161273,22 @@
         "pages": "",
         "doi": "",
         "url": "https://ahismail.net/files/ismail-zuniga-welfare.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
         "verified": true,
         "note": ""
       }
@@ -160745,6 +161733,22 @@
         "pages": "",
         "doi": "10.3386/w33243",
         "url": "https://doi.org/10.3386/w33243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Central Bank Announcements Affect Expectations",
+        "title": "How Central Bank Announcements Affect Expectations",
+        "authors": [
+          "Paul Bousquet"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://pbousquet.com/assets/BousquetJMP.pdf",
         "verified": true,
         "note": ""
       }
@@ -161440,6 +162444,22 @@
         "url": "https://sites.asit.columbia.edu/econdept/wp-content/uploads/sites/18/2026/09/dellanos_JMP-2.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -161476,6 +162496,22 @@
         "pages": "",
         "doi": "10.3386/w32572",
         "url": "https://doi.org/10.3386/w32572",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
         "verified": true,
         "note": ""
       }
@@ -161868,6 +162904,22 @@
         "pages": "",
         "doi": "10.3386/w33762",
         "url": "https://doi.org/10.3386/w33762",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Central Bank Announcements Affect Expectations",
+        "title": "How Central Bank Announcements Affect Expectations",
+        "authors": [
+          "Paul Bousquet"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://pbousquet.com/assets/BousquetJMP.pdf",
         "verified": true,
         "note": ""
       }
@@ -162731,6 +163783,22 @@
         "pages": "",
         "doi": "10.3386/w33243",
         "url": "https://doi.org/10.3386/w33243",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
         "verified": true,
         "note": ""
       }
@@ -163769,6 +164837,22 @@
         "url": "https://doi.org/10.3386/w33858",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Central Bank Announcements Affect Expectations",
+        "title": "How Central Bank Announcements Affect Expectations",
+        "authors": [
+          "Paul Bousquet"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://pbousquet.com/assets/BousquetJMP.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -163880,6 +164964,22 @@
         "pages": "",
         "doi": "",
         "url": "https://vjimenezgimpel.com/JimenezGimpel_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Central Bank Announcements Affect Expectations",
+        "title": "How Central Bank Announcements Affect Expectations",
+        "authors": [
+          "Paul Bousquet"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://pbousquet.com/assets/BousquetJMP.pdf",
         "verified": true,
         "note": ""
       }
@@ -164190,6 +165290,47 @@
         "pages": "",
         "doi": "",
         "url": "https://husang-kim.github.io/files/HSK_PerceivedRule.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.131",
+    "title": "美国金融研究办公室货币市场基金与对冲基金监测（OFR MMF Monitor / Hedge Fund Monitor）",
+    "links": [
+      {
+        "label": "OFR: Money Market Fund Monitor",
+        "url": "https://www.financialresearch.gov/money-market-funds/"
+      },
+      {
+        "label": "OFR: Hedge Fund Monitor",
+        "url": "https://www.financialresearch.gov/hedge-fund-monitor/"
+      }
+    ],
+    "summary": "美国财政部金融研究办公室（OFR）基于 SEC Form N-MFP 和 Form PF 等监管报送发布的监测平台，货币市场基金监测提供 2010 年代以来按基金类型、资产类别、对手方和期限汇总的月度持仓，对冲基金监测提供对冲基金规模、杠杆、流动性和融资的汇总统计，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是美国货币市场基金和对冲基金持仓的主要公开汇总数据。研究常用它分析货币基金回购投资、对冲基金杠杆和非银行金融风险。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "title": "How the Financing of Balance-Sheet Policy Shapes Its Effects",
+        "authors": [
+          "Dawis Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://davidkim5707.github.io/website/jmp_dawis.pdf",
         "verified": true,
         "note": ""
       }
@@ -165044,6 +166185,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1lcD_8dgA9Q4OwsFgaLmdqzSFM8MNHUlZ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mobile Broadband and Consumer Price Response",
+        "title": "Mobile Broadband and Consumer Price Response",
+        "authors": [
+          "John Reaves"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://1johnreaves.github.io/res/Reaves_PriceCheck.pdf",
         "verified": true,
         "note": ""
       }
@@ -166736,6 +167893,22 @@
         "url": "https://doi.org/10.3386/w33783",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers Under Common Shocks In Panel Data: Estimation and Inference",
+        "title": "Spillovers Under Common Shocks In Panel Data: Estimation and Inference",
+        "authors": [
+          "Qiyang Yu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Rochester, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://maxqiyangyu.github.io/assets/JMP_QY_Spill.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -168365,6 +169538,22 @@
         "pages": "",
         "doi": "10.3386/w33498",
         "url": "https://doi.org/10.3386/w33498",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mobile Broadband and Consumer Price Response",
+        "title": "Mobile Broadband and Consumer Price Response",
+        "authors": [
+          "John Reaves"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://1johnreaves.github.io/res/Reaves_PriceCheck.pdf",
         "verified": true,
         "note": ""
       }
@@ -173186,6 +174375,38 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1kjLD6iFLJqVY6YPDvreqWd3AlBiSq3Nl",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "title": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "authors": [
+          "Willy Chen"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://willycecon.com/JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "title": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "authors": [
+          "Madeleine C. Smith"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1gdvl2DqXLdHlznZNEwviOWPFXJqgyuY-",
         "verified": true,
         "note": ""
       }
@@ -179313,6 +180534,44 @@
     ]
   },
   {
+    "id": "2.16.65",
+    "title": "美国教育部校园安全与保障数据（Campus Safety and Security，Clery Act 数据）",
+    "links": [
+      {
+        "label": "ED: Campus Safety and Security",
+        "url": "https://ope.ed.gov/campussafety/"
+      }
+    ],
+    "summary": "美国教育部依据《克莱里法案》收集的高校校园犯罪统计，2001 年以来按院校和校区报告校园内、学生宿舍、校外建筑和公共区域的谋杀、性侵、抢劫、盗窃、仇恨犯罪及酒精、毒品、武器违规逮捕和纪律处分，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据",
+      "政治数据"
+    ],
+    "introduction": "这是美国高校校园犯罪的官方统计。研究常用它分析校园安全政策、饮酒文化和高校性侵报告。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "title": "The Effects of Federal Guidance on Sex Crime Reporting",
+        "authors": [
+          "Madeleine C. Smith"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1gdvl2DqXLdHlznZNEwviOWPFXJqgyuY-",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -182583,6 +183842,22 @@
         "url": "https://doi.org/10.3386/w32943",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "title": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "authors": [
+          "Hyun Soo Suh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.hyunsoosuh.com/JMP_Suh.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -184010,6 +185285,22 @@
         "url": "https://doi.org/10.3386/w33577",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "title": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "authors": [
+          "Hyun Soo Suh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.hyunsoosuh.com/JMP_Suh.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -184137,6 +185428,22 @@
         "pages": "",
         "doi": "10.3386/w33558",
         "url": "https://doi.org/10.3386/w33558",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "title": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "authors": [
+          "Hyun Soo Suh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.hyunsoosuh.com/JMP_Suh.pdf",
         "verified": true,
         "note": ""
       }
@@ -187401,6 +188708,80 @@
         "pages": "",
         "doi": "",
         "url": "https://www.jessewedewer.com/Jesse_Wedewer_JMP.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.44",
+    "title": "英国家庭资源调查（Family Resources Survey，FRS）",
+    "links": [
+      {
+        "label": "GOV.UK: Family Resources Survey",
+        "url": "https://www.gov.uk/government/collections/family-resources-survey--2"
+      }
+    ],
+    "summary": "英国工作与养老金部（DWP）自 1992/93 年起每年开展的家庭调查，覆盖约 2 万户家庭，记录收入来源、福利领取、税收、就业、住房、残疾、照护和儿童托育，是英国贫困与收入分布统计的基础，微观数据经英国数据服务中心注册下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是英国家庭收入与福利领取的主要调查。研究常用它构造税收福利模拟样本，分析福利改革和收入分配。",
+    "source": "公开下载（需注册）。",
+    "references": [
+      {
+        "raw": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "title": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "authors": [
+          "Hyun Soo Suh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.hyunsoosuh.com/JMP_Suh.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.45",
+    "title": "英国时间使用调查（UK Time Use Survey，UKTUS）",
+    "links": [
+      {
+        "label": "UK Data Service: UKTUS 2000",
+        "url": "https://datacatalogue.ukdataservice.ac.uk/studies/study/4504"
+      }
+    ],
+    "summary": "英国国家统计局等开展的全国时间使用日记调查，2000–01 年和 2014–15 年两轮，每轮数千户家庭成员记录 10 分钟间隔的活动日记，涵盖有偿工作、家务、育儿、休闲和出行，微观数据经英国数据服务中心注册下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是英国个人时间配置的主要数据。研究常用它分析家庭内部分工、育儿时间和劳动供给。",
+    "source": "公开下载（需注册）。",
+    "references": [
+      {
+        "raw": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "title": "Who Gains from Maternal Employment? Self-Employment, Childcare, and Child Development",
+        "authors": [
+          "Hyun Soo Suh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.hyunsoosuh.com/JMP_Suh.pdf",
         "verified": true,
         "note": ""
       }
@@ -199330,6 +200711,22 @@
         "url": "https://doi.org/10.3386/w33417",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "title": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "authors": [
+          "Aishwarya Kekre"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -200117,6 +201514,22 @@
         "pages": "",
         "doi": "",
         "url": "https://torshachakravorty.github.io/files/Torsha-Chakravorty-JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "title": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "authors": [
+          "Aishwarya Kekre"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
         "verified": true,
         "note": ""
       }
@@ -201416,6 +202829,38 @@
         "url": "https://www.dropbox.com/scl/fi/cdhbe06ab6nzdss0s4psy/OperationFlood_draft_Website.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "title": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "authors": [
+          "Aishwarya Kekre"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Development Policy for Technology Adoption under Financial Frictions",
+        "title": "Optimal Development Policy for Technology Adoption under Financial Frictions",
+        "authors": [
+          "Hiroyuki Nemoto"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1Ae5_stTG-mv94vHsgCy6e-6MqF_YKZQ2",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -202692,6 +204137,22 @@
         "url": "https://ashabharadwaj1.github.io/JMP/Bharadwaj_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "title": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "authors": [
+          "Aishwarya Kekre"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -203805,6 +205266,54 @@
         "url": "https://www.zebangxu.com/climate_allocation.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "title": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "authors": [
+          "Anmol Agarwal"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/na82rsy9icuda2nco077p/Agarwal_JMP_Elasticity.pdf (dl=1)",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "title": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "authors": [
+          "Aishwarya Kekre"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal Development Policy for Technology Adoption under Financial Frictions",
+        "title": "Optimal Development Policy for Technology Adoption under Financial Frictions",
+        "authors": [
+          "Hiroyuki Nemoto"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1Ae5_stTG-mv94vHsgCy6e-6MqF_YKZQ2",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -204051,6 +205560,22 @@
         "pages": "",
         "doi": "",
         "url": "https://mahdiebsim.github.io/docs/jmp_ebsim_final.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "title": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "authors": [
+          "Aishwarya Kekre"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
         "verified": true,
         "note": ""
       }
@@ -204310,6 +205835,22 @@
         "pages": "",
         "doi": "",
         "url": "https://vaiostriantafyllou.github.io/docs/jmp_triantafyllou.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "title": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "authors": [
+          "Anmol Agarwal"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/na82rsy9icuda2nco077p/Agarwal_JMP_Elasticity.pdf (dl=1)",
         "verified": true,
         "note": ""
       }
@@ -208335,6 +209876,22 @@
         "url": "https://www.dropbox.com/scl/fi/cdhbe06ab6nzdss0s4psy/OperationFlood_draft_Website.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "title": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "authors": [
+          "Aishwarya Kekre"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -208512,6 +210069,44 @@
         "pages": "103308",
         "doi": "10.1016/j.jdeveco.2024.103308",
         "url": "https://doi.org/10.1016/j.jdeveco.2024.103308",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.14.7",
+    "title": "印度农业普查（Agriculture Census of India）",
+    "links": [
+      {
+        "label": "Agriculture Census of India",
+        "url": "https://agcensus.da.gov.in/"
+      }
+    ],
+    "summary": "印度农业与农民福利部每五年开展的农业普查，1970/71 年以来，按邦、县和区块报告经营性农户数量与面积、按规模组（边际、小、中、大）的分布、土地利用、灌溉、种植结构和农户社会类别，结果表经农业普查门户公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "农业数据",
+      "普查数据"
+    ],
+    "introduction": "这是印度农地规模分布的官方数据。研究常用它度量农户规模和土地碎片化，分析农业生产率和土地政策。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "title": "Smaller Farms, Larger Frictions: Agricultural Land Fragmentation and Structural Change",
+        "authors": [
+          "Aishwarya Kekre"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
         "verified": true,
         "note": ""
       }
@@ -223876,6 +225471,38 @@
         "url": "https://drive.google.com/uc?export=download&id=1kjLD6iFLJqVY6YPDvreqWd3AlBiSq3Nl",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Selective Technological Disruption: Evidence from TV Entry and Radio Stations",
+        "title": "Selective Technological Disruption: Evidence from TV Entry and Radio Stations",
+        "authors": [
+          "Shivangi Ambardar"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://shivangiambardar.com/jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "title": "Military Procurement and Spatial Development: The Long-Run Effects of the U.S. Civil War",
+        "authors": [
+          "Lovepreet Singh"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Illinois Urbana Champaign, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/588e30y2sazbwx5kffh3m/Lovepreet_JMP.pdf?rlkey=vkv8ijg2zc1jrx19lhuj6xri2&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -232845,6 +234472,22 @@
         "pages": "",
         "doi": "",
         "url": "https://joaquinpaleo.github.io/jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "title": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "authors": [
+          "Anmol Agarwal"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/na82rsy9icuda2nco077p/Agarwal_JMP_Elasticity.pdf (dl=1)",
         "verified": true,
         "note": ""
       }
@@ -251555,6 +253198,22 @@
         "url": "https://www.zebangxu.com/climate_allocation.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Electricity Prices and the Demand for Cooling: Evidence from India",
+        "title": "Electricity Prices and the Demand for Cooling: Evidence from India",
+        "authors": [
+          "Maitri Punjabi"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1_ebQR7Apy0SPVKAcUzXVzqjguGsY2gNd",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -262773,6 +264432,22 @@
         "url": "https://doi.org/10.3386/w33545",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Alliance Capacity Sharing and Market Congestion in Container Shipping",
+        "title": "Alliance Capacity Sharing and Market Congestion in Container Shipping",
+        "authors": [
+          "Xiaoyan Zhuang"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Penn State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://xiaoyan-zhuang.github.io/papers/Zhuang_JMP_Capacity_Risk.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -271936,6 +273611,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.rikutoonishi.com/files/fx_disagreement.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "title": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "authors": [
+          "Anmol Agarwal"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/na82rsy9icuda2nco077p/Agarwal_JMP_Elasticity.pdf (dl=1)",
         "verified": true,
         "note": ""
       }
@@ -282557,6 +284248,22 @@
         "url": "https://www.junhyeokshin.com/assets/files/JMP-Draft_Latest.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Optimal Development Policy for Technology Adoption under Financial Frictions",
+        "title": "Optimal Development Policy for Technology Adoption under Financial Frictions",
+        "authors": [
+          "Hiroyuki Nemoto"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Washington University in St. Louis, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1Ae5_stTG-mv94vHsgCy6e-6MqF_YKZQ2",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -287218,6 +288925,22 @@
         "url": "https://doi.org/10.3386/w32913",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fulfillment by Amazon and Prime: Who Benefits and How?",
+        "title": "Fulfillment by Amazon and Prime: Who Benefits and How?",
+        "authors": [
+          "Yiren Ding"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://dingyiren.github.io/files/jmp-draft.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -288192,6 +289915,22 @@
         "url": "https://doi.org/10.3386/w32466",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "title": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "authors": [
+          "Willy Chen"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://willycecon.com/JMP.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -288943,6 +290682,22 @@
         "url": "https://www.dropbox.com/scl/fi/pczg15rckr4ikehvgl94c/jmp-mme.pdf?rlkey=kb3ijk3l8uecaswetn6mmld78&raw=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "title": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "authors": [
+          "Willy Chen"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://willycecon.com/JMP.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -289146,6 +290901,22 @@
         "pages": "",
         "doi": "",
         "url": "https://genarobasulto.github.io/GenaroBasulto_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fulfillment by Amazon and Prime: Who Benefits and How?",
+        "title": "Fulfillment by Amazon and Prime: Who Benefits and How?",
+        "authors": [
+          "Yiren Ding"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://dingyiren.github.io/files/jmp-draft.pdf",
         "verified": true,
         "note": ""
       }
@@ -293915,6 +295686,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.daihongmin.com/jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "title": "Do Firms Substitute Across Domestic and Foreign Sources? Micro Evidence and Macro Implications",
+        "authors": [
+          "Anmol Agarwal"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (University of Virginia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/na82rsy9icuda2nco077p/Agarwal_JMP_Elasticity.pdf (dl=1)",
         "verified": true,
         "note": ""
       }
@@ -300124,6 +301911,43 @@
         "pages": "",
         "doi": "10.3386/w33791",
         "url": "https://doi.org/10.3386/w33791",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.16.24",
+    "title": "QS 世界大学排名（QS World University Rankings）",
+    "links": [
+      {
+        "label": "QS World University Rankings",
+        "url": "https://www.topuniversities.com/world-university-rankings"
+      }
+    ],
+    "summary": "Quacquarelli Symonds 公司自 2004 年起每年发布的全球大学排名，覆盖约 1500 所大学，基于学术声誉、雇主声誉、师生比、篇均引用、国际师生比例等指标给出总排名和学科排名，公开查询，详细数据付费。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "这是与 THE、ARWU 并列的主要全球大学排名。研究常用它度量院校声望，分析国际学生流动和高校质量回报。",
+    "source": "公开查询（详细数据付费）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "title": "Discounted Degrees: Employer Frictions and the Misallocation of High-Skilled Immigrants",
+        "authors": [
+          "Willy Chen"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Michigan State University, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://willycecon.com/JMP.pdf",
         "verified": true,
         "note": ""
       }
