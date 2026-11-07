@@ -1036,6 +1036,23 @@
         "url": "https://doi.org/10.3386/w32414",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring Bias in Job Recommender Systems: Auditing the Algorithms",
+        "title": "Measuring Bias in Job Recommender Systems: Auditing the Algorithms",
+        "authors": [
+          "Shuo Zhang",
+          "Peter J. Kuhn"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32889",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32889",
+        "url": "https://doi.org/10.3386/w32889",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -7473,6 +7490,23 @@
         "pages": "",
         "doi": "10.3386/w32795",
         "url": "https://doi.org/10.3386/w32795",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages in the 21st Century",
+        "title": "Minimum Wages in the 21st Century",
+        "authors": [
+          "Arindrajit Dube",
+          "Attila S. Lindner"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32878",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32878",
+        "url": "https://doi.org/10.3386/w32878",
         "verified": true,
         "note": ""
       }
@@ -15408,6 +15442,25 @@
         "url": "https://doi.org/10.3386/w32815",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Emergency Financial Assistance on Employment and Earnings",
+        "title": "The Effect of Emergency Financial Assistance on Employment and Earnings",
+        "authors": [
+          "Daniel M. Hungerman",
+          "David C. Phillips",
+          "Kevin Rinz",
+          "James X. Sullivan"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32856",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32856",
+        "url": "https://doi.org/10.3386/w32856",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -18537,6 +18590,44 @@
         "url": "https://doi.org/10.3386/w32771",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mental Health, Substance Use, and Child Maltreatment",
+        "title": "Mental Health, Substance Use, and Child Maltreatment",
+        "authors": [
+          "Mir M. Ali",
+          "Thanh Lu",
+          "Johanna Catherine Maclean",
+          "Angélica Meinhofer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32895",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32895",
+        "url": "https://doi.org/10.3386/w32895",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "title": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "authors": [
+          "Arindrajit Dube",
+          "Michael Reich",
+          "Akash Bhatt",
+          "Denis Sosinskiy"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32902",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32902",
+        "url": "https://doi.org/10.3386/w32902",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19231,6 +19322,24 @@
         "pages": "",
         "doi": "10.3386/w32708",
         "url": "https://doi.org/10.3386/w32708",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "title": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "authors": [
+          "Priyaranjan Jha",
+          "David Neumark",
+          "Antonio Rodriguez-Lopez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32901",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32901",
+        "url": "https://doi.org/10.3386/w32901",
         "verified": true,
         "note": ""
       }
@@ -23682,6 +23791,79 @@
         "url": "https://doi.org/10.3386/w32843",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Emergency Financial Assistance on Employment and Earnings",
+        "title": "The Effect of Emergency Financial Assistance on Employment and Earnings",
+        "authors": [
+          "Daniel M. Hungerman",
+          "David C. Phillips",
+          "Kevin Rinz",
+          "James X. Sullivan"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32856",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32856",
+        "url": "https://doi.org/10.3386/w32856",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Race, Ethnicity, and Measurement Error",
+        "title": "Race, Ethnicity, and Measurement Error",
+        "authors": [
+          "Bruce D. Meyer",
+          "Nikolas Mittag",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32860",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32860",
+        "url": "https://doi.org/10.3386/w32860",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Poverty and Health",
+        "title": "Poverty and Health",
+        "authors": [
+          "Adriana Lleras-Muney",
+          "Hannes Schwandt",
+          "Laura Wherry"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32866",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32866",
+        "url": "https://doi.org/10.3386/w32866",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "title": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "authors": [
+          "Daron Acemoglu",
+          "Fredric Kong",
+          "Pascual Restrepo"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32872",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32872",
+        "url": "https://doi.org/10.3386/w32872",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27764,6 +27946,166 @@
         "url": "https://doi.org/10.3386/w32834",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "title": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "authors": [
+          "David A. Matsa",
+          "Brian T. Melzer",
+          "Michal Zator"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32858",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32858",
+        "url": "https://doi.org/10.3386/w32858",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Race, Ethnicity, and Measurement Error",
+        "title": "Race, Ethnicity, and Measurement Error",
+        "authors": [
+          "Bruce D. Meyer",
+          "Nikolas Mittag",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32860",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32860",
+        "url": "https://doi.org/10.3386/w32860",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "title": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "authors": [
+          "Mary Ann Bronson",
+          "Daniel Haanwinckel",
+          "Maurizio Mazzocco"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32861",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32861",
+        "url": "https://doi.org/10.3386/w32861",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Poverty and Health",
+        "title": "Poverty and Health",
+        "authors": [
+          "Adriana Lleras-Muney",
+          "Hannes Schwandt",
+          "Laura Wherry"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32866",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32866",
+        "url": "https://doi.org/10.3386/w32866",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Potential Long-Run Implications of a Permanently-Expanded Child Tax Credit",
+        "title": "The Potential Long-Run Implications of a Permanently-Expanded Child Tax Credit",
+        "authors": [
+          "Elizabeth Ananat",
+          "Irwin Garfinkel"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32870",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32870",
+        "url": "https://doi.org/10.3386/w32870",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "title": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "authors": [
+          "Daron Acemoglu",
+          "Fredric Kong",
+          "Pascual Restrepo"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32872",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32872",
+        "url": "https://doi.org/10.3386/w32872",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages in the 21st Century",
+        "title": "Minimum Wages in the 21st Century",
+        "authors": [
+          "Arindrajit Dube",
+          "Attila S. Lindner"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32878",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32878",
+        "url": "https://doi.org/10.3386/w32878",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Too Much of a Good Thing? How Narrow Targeting and Policy Interactions Influence Responses to California’s EITC",
+        "title": "Too Much of a Good Thing? How Narrow Targeting and Policy Interactions Influence Responses to California’s EITC",
+        "authors": [
+          "David Neumark",
+          "Zeyu Li"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32883",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32883",
+        "url": "https://doi.org/10.3386/w32883",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "title": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "authors": [
+          "Arindrajit Dube",
+          "Michael Reich",
+          "Akash Bhatt",
+          "Denis Sosinskiy"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32902",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32902",
+        "url": "https://doi.org/10.3386/w32902",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -28972,6 +29314,24 @@
         "url": "https://doi.org/10.3386/w32737",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "title": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "authors": [
+          "Mary Ann Bronson",
+          "Daniel Haanwinckel",
+          "Maurizio Mazzocco"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32861",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32861",
+        "url": "https://doi.org/10.3386/w32861",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29748,6 +30108,42 @@
         "url": "https://doi.org/10.3386/w32784",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Race, Ethnicity, and Measurement Error",
+        "title": "Race, Ethnicity, and Measurement Error",
+        "authors": [
+          "Bruce D. Meyer",
+          "Nikolas Mittag",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32860",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32860",
+        "url": "https://doi.org/10.3386/w32860",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "title": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "authors": [
+          "Mary Ann Bronson",
+          "Daniel Haanwinckel",
+          "Maurizio Mazzocco"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32861",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32861",
+        "url": "https://doi.org/10.3386/w32861",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30310,6 +30706,25 @@
         "url": "https://doi.org/10.3386/w32609",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mental Health, Substance Use, and Child Maltreatment",
+        "title": "Mental Health, Substance Use, and Child Maltreatment",
+        "authors": [
+          "Mir M. Ali",
+          "Thanh Lu",
+          "Johanna Catherine Maclean",
+          "Angélica Meinhofer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32895",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32895",
+        "url": "https://doi.org/10.3386/w32895",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -30613,6 +31028,24 @@
         "pages": "",
         "doi": "10.3386/w32516",
         "url": "https://doi.org/10.3386/w32516",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Poverty and Health",
+        "title": "Poverty and Health",
+        "authors": [
+          "Adriana Lleras-Muney",
+          "Hannes Schwandt",
+          "Laura Wherry"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32866",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32866",
+        "url": "https://doi.org/10.3386/w32866",
         "verified": true,
         "note": ""
       }
@@ -32538,6 +32971,24 @@
         "url": "https://doi.org/10.3386/w32834",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "title": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "authors": [
+          "Mary Ann Bronson",
+          "Daniel Haanwinckel",
+          "Maurizio Mazzocco"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32861",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32861",
+        "url": "https://doi.org/10.3386/w32861",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -32916,6 +33367,24 @@
         "pages": "",
         "doi": "10.3386/w32662",
         "url": "https://doi.org/10.3386/w32662",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
         "verified": true,
         "note": ""
       }
@@ -35531,6 +36000,22 @@
         "url": "https://doi.org/10.3386/w32784",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
+        "title": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
+        "authors": [
+          "Elizabeth Setren"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32864",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32864",
+        "url": "https://doi.org/10.3386/w32864",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -36691,6 +37176,24 @@
         "url": "https://doi.org/10.3386/w32785",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "title": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "authors": [
+          "Daron Acemoglu",
+          "Fredric Kong",
+          "Pascual Restrepo"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32872",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32872",
+        "url": "https://doi.org/10.3386/w32872",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37250,6 +37753,24 @@
         "pages": "",
         "doi": "10.3386/w32793",
         "url": "https://doi.org/10.3386/w32793",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Race, Ethnicity, and Measurement Error",
+        "title": "Race, Ethnicity, and Measurement Error",
+        "authors": [
+          "Bruce D. Meyer",
+          "Nikolas Mittag",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32860",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32860",
+        "url": "https://doi.org/10.3386/w32860",
         "verified": true,
         "note": ""
       }
@@ -37872,6 +38393,43 @@
         "url": "https://doi.org/10.3386/w32817",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Emergency Financial Assistance on Employment and Earnings",
+        "title": "The Effect of Emergency Financial Assistance on Employment and Earnings",
+        "authors": [
+          "Daniel M. Hungerman",
+          "David C. Phillips",
+          "Kevin Rinz",
+          "James X. Sullivan"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32856",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32856",
+        "url": "https://doi.org/10.3386/w32856",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Race, Ethnicity, and Measurement Error",
+        "title": "Race, Ethnicity, and Measurement Error",
+        "authors": [
+          "Bruce D. Meyer",
+          "Nikolas Mittag",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32860",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32860",
+        "url": "https://doi.org/10.3386/w32860",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38400,6 +38958,24 @@
         "pages": "",
         "doi": "10.3386/w32545",
         "url": "https://doi.org/10.3386/w32545",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "title": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "authors": [
+          "Daron Acemoglu",
+          "Fredric Kong",
+          "Pascual Restrepo"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32872",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32872",
+        "url": "https://doi.org/10.3386/w32872",
         "verified": true,
         "note": ""
       }
@@ -43269,6 +43845,60 @@
         "url": "https://doi.org/10.3386/w32726",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Minimum Wages in the 21st Century",
+        "title": "Minimum Wages in the 21st Century",
+        "authors": [
+          "Arindrajit Dube",
+          "Attila S. Lindner"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32878",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32878",
+        "url": "https://doi.org/10.3386/w32878",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "title": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "authors": [
+          "Priyaranjan Jha",
+          "David Neumark",
+          "Antonio Rodriguez-Lopez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32901",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32901",
+        "url": "https://doi.org/10.3386/w32901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "title": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "authors": [
+          "Arindrajit Dube",
+          "Michael Reich",
+          "Akash Bhatt",
+          "Denis Sosinskiy"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32902",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32902",
+        "url": "https://doi.org/10.3386/w32902",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -44545,6 +45175,23 @@
         "pages": "",
         "doi": "10.3386/w32834",
         "url": "https://doi.org/10.3386/w32834",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Too Much of a Good Thing? How Narrow Targeting and Policy Interactions Influence Responses to California’s EITC",
+        "title": "Too Much of a Good Thing? How Narrow Targeting and Policy Interactions Influence Responses to California’s EITC",
+        "authors": [
+          "David Neumark",
+          "Zeyu Li"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32883",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32883",
+        "url": "https://doi.org/10.3386/w32883",
         "verified": true,
         "note": ""
       }
@@ -47240,6 +47887,62 @@
         "url": "https://doi.org/10.3386/w32771",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mental Health, Substance Use, and Child Maltreatment",
+        "title": "Mental Health, Substance Use, and Child Maltreatment",
+        "authors": [
+          "Mir M. Ali",
+          "Thanh Lu",
+          "Johanna Catherine Maclean",
+          "Angélica Meinhofer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32895",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32895",
+        "url": "https://doi.org/10.3386/w32895",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "title": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "authors": [
+          "Priyaranjan Jha",
+          "David Neumark",
+          "Antonio Rodriguez-Lopez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32901",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32901",
+        "url": "https://doi.org/10.3386/w32901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "title": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "authors": [
+          "Arindrajit Dube",
+          "Michael Reich",
+          "Akash Bhatt",
+          "Denis Sosinskiy"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32902",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32902",
+        "url": "https://doi.org/10.3386/w32902",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48850,6 +49553,24 @@
         "pages": "",
         "doi": "10.3386/w32751",
         "url": "https://doi.org/10.3386/w32751",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Politicization of Social Responsibility",
+        "title": "The Politicization of Social Responsibility",
+        "authors": [
+          "Todd A. Gormley",
+          "Manish Jha",
+          "Meng Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32869",
+        "url": "https://doi.org/10.3386/w32869",
         "verified": true,
         "note": ""
       }
@@ -52645,6 +53366,23 @@
         "url": "https://doi.org/10.3386/w32816",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Drivers of Post-Pandemic Inflation",
+        "title": "The Drivers of Post-Pandemic Inflation",
+        "authors": [
+          "Domenico Giannone",
+          "Giorgio Primiceri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32859",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32859",
+        "url": "https://doi.org/10.3386/w32859",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -54755,6 +55493,24 @@
         "url": "https://doi.org/10.3386/w32536",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "title": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "authors": [
+          "Daron Acemoglu",
+          "Fredric Kong",
+          "Pascual Restrepo"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32872",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32872",
+        "url": "https://doi.org/10.3386/w32872",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -55147,6 +55903,26 @@
         "pages": "",
         "doi": "10.3386/w32771",
         "url": "https://doi.org/10.3386/w32771",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Federal Pandemic Relief and Academic Recovery",
+        "title": "Federal Pandemic Relief and Academic Recovery",
+        "authors": [
+          "Dan C. Dewey",
+          "Erin M. Fahle",
+          "Thomas J. Kane",
+          "Sean F. Reardon",
+          "Douglas O. Staiger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32897",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32897",
+        "url": "https://doi.org/10.3386/w32897",
         "verified": true,
         "note": ""
       }
@@ -56142,6 +56918,24 @@
         "url": "https://doi.org/10.3386/w32536",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "title": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "authors": [
+          "Daron Acemoglu",
+          "Fredric Kong",
+          "Pascual Restrepo"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32872",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32872",
+        "url": "https://doi.org/10.3386/w32872",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -57034,6 +57828,43 @@
         "pages": "",
         "doi": "10.3386/w32655",
         "url": "https://doi.org/10.3386/w32655",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "title": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "authors": [
+          "Priyaranjan Jha",
+          "David Neumark",
+          "Antonio Rodriguez-Lopez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32901",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32901",
+        "url": "https://doi.org/10.3386/w32901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "title": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "authors": [
+          "Arindrajit Dube",
+          "Michael Reich",
+          "Akash Bhatt",
+          "Denis Sosinskiy"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32902",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32902",
+        "url": "https://doi.org/10.3386/w32902",
         "verified": true,
         "note": ""
       }
@@ -58728,6 +59559,23 @@
         "url": "https://doi.org/10.3386/w32770",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Drivers of Post-Pandemic Inflation",
+        "title": "The Drivers of Post-Pandemic Inflation",
+        "authors": [
+          "Domenico Giannone",
+          "Giorgio Primiceri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32859",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32859",
+        "url": "https://doi.org/10.3386/w32859",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59325,6 +60173,24 @@
         "pages": "1010–1027",
         "doi": "10.1162/rest_a_00991",
         "url": "https://doi.org/10.1162/rest_a_00991",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Poverty and Health",
+        "title": "Poverty and Health",
+        "authors": [
+          "Adriana Lleras-Muney",
+          "Hannes Schwandt",
+          "Laura Wherry"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32866",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32866",
+        "url": "https://doi.org/10.3386/w32866",
         "verified": true,
         "note": ""
       }
@@ -60238,6 +61104,43 @@
         "pages": "",
         "doi": "10.3386/w32843",
         "url": "https://doi.org/10.3386/w32843",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Emergency Financial Assistance on Employment and Earnings",
+        "title": "The Effect of Emergency Financial Assistance on Employment and Earnings",
+        "authors": [
+          "Daniel M. Hungerman",
+          "David C. Phillips",
+          "Kevin Rinz",
+          "James X. Sullivan"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32856",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32856",
+        "url": "https://doi.org/10.3386/w32856",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Race, Ethnicity, and Measurement Error",
+        "title": "Race, Ethnicity, and Measurement Error",
+        "authors": [
+          "Bruce D. Meyer",
+          "Nikolas Mittag",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32860",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32860",
+        "url": "https://doi.org/10.3386/w32860",
         "verified": true,
         "note": ""
       }
@@ -61486,6 +62389,24 @@
         "url": "https://doi.org/10.3386/w32843",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "title": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "authors": [
+          "Mary Ann Bronson",
+          "Daniel Haanwinckel",
+          "Maurizio Mazzocco"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32861",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32861",
+        "url": "https://doi.org/10.3386/w32861",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -62482,6 +63403,60 @@
         "pages": "",
         "doi": "10.3386/w32546",
         "url": "https://doi.org/10.3386/w32546",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages in the 21st Century",
+        "title": "Minimum Wages in the 21st Century",
+        "authors": [
+          "Arindrajit Dube",
+          "Attila S. Lindner"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32878",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32878",
+        "url": "https://doi.org/10.3386/w32878",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "title": "What’s Across the Border? Re-Evaluating the Cross-Border Evidence on Minimum Wage Effects",
+        "authors": [
+          "Priyaranjan Jha",
+          "David Neumark",
+          "Antonio Rodriguez-Lopez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32901",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32901",
+        "url": "https://doi.org/10.3386/w32901",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "title": "Restaurant Employment, Minimum Wages, and Border Discontinuities",
+        "authors": [
+          "Arindrajit Dube",
+          "Michael Reich",
+          "Akash Bhatt",
+          "Denis Sosinskiy"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32902",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32902",
+        "url": "https://doi.org/10.3386/w32902",
         "verified": true,
         "note": ""
       }
@@ -64618,6 +65593,45 @@
         "pages": "",
         "doi": "10.3386/w32834",
         "url": "https://doi.org/10.3386/w32834",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.74",
+    "title": "康奈尔劳工行动追踪器（Labor Action Tracker）",
+    "links": [
+      {
+        "label": "Labor Action Tracker",
+        "url": "https://striketracker.ilr.cornell.edu"
+      }
+    ],
+    "summary": "康奈尔大学劳资关系学院（ILR）与伊利诺伊大学劳动与就业关系学院维护的美国罢工与劳工抗议数据库，2021 年以来逐事件记录罢工和抗议的时间、地点、雇主、行业、参与人数、持续时间、诉求和是否有工会组织，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是覆盖小规模罢工的美国劳工行动数据，弥补 BLS 只统计千人以上大罢工的不足。研究常用它分析罢工活动、工会组织和劳资冲突。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "title": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "authors": [
+          "Melissa Arnold Lyon",
+          "Matthew A. Kraft",
+          "Matthew P. Steinberg"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32862",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32862",
+        "url": "https://doi.org/10.3386/w32862",
         "verified": true,
         "note": ""
       }
@@ -69188,6 +70202,24 @@
         "url": "https://doi.org/10.3386/w32663",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Direct and Indirect Taxes in Pollution Dynamics",
+        "title": "Direct and Indirect Taxes in Pollution Dynamics",
+        "authors": [
+          "Vladimir Smirnyagin",
+          "Aleh Tsyvinski",
+          "Xi Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32852",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32852",
+        "url": "https://doi.org/10.3386/w32852",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -70456,6 +71488,24 @@
         "pages": "187–213",
         "doi": "10.1086/700419",
         "url": "https://doi.org/10.1086/700419",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Direct and Indirect Taxes in Pollution Dynamics",
+        "title": "Direct and Indirect Taxes in Pollution Dynamics",
+        "authors": [
+          "Vladimir Smirnyagin",
+          "Aleh Tsyvinski",
+          "Xi Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32852",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32852",
+        "url": "https://doi.org/10.3386/w32852",
         "verified": true,
         "note": ""
       }
@@ -73548,6 +74598,24 @@
         "pages": "755–790",
         "doi": "10.1086/740157",
         "url": "https://doi.org/10.1086/740157",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Direct and Indirect Taxes in Pollution Dynamics",
+        "title": "Direct and Indirect Taxes in Pollution Dynamics",
+        "authors": [
+          "Vladimir Smirnyagin",
+          "Aleh Tsyvinski",
+          "Xi Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32852",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32852",
+        "url": "https://doi.org/10.3386/w32852",
         "verified": true,
         "note": ""
       }
@@ -84157,6 +85225,42 @@
         "url": "https://doi.org/10.3386/w32656",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Poverty and Health",
+        "title": "Poverty and Health",
+        "authors": [
+          "Adriana Lleras-Muney",
+          "Hannes Schwandt",
+          "Laura Wherry"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32866",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32866",
+        "url": "https://doi.org/10.3386/w32866",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Drivers of Racial Differences in C-Sections",
+        "title": "Drivers of Racial Differences in C-Sections",
+        "authors": [
+          "Adriana Corredor-Waldron",
+          "Janet Currie",
+          "Molly Schnell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32891",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32891",
+        "url": "https://doi.org/10.3386/w32891",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -84648,6 +85752,24 @@
         "pages": "",
         "doi": "10.3386/w32840",
         "url": "https://doi.org/10.3386/w32840",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Race, Ethnicity, and Measurement Error",
+        "title": "Race, Ethnicity, and Measurement Error",
+        "authors": [
+          "Bruce D. Meyer",
+          "Nikolas Mittag",
+          "Derek Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32860",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32860",
+        "url": "https://doi.org/10.3386/w32860",
         "verified": true,
         "note": ""
       }
@@ -85357,6 +86479,24 @@
         "pages": "3081–3129",
         "doi": "10.1257/aer.20231293",
         "url": "https://doi.org/10.1257/aer.20231293",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Drivers of Racial Differences in C-Sections",
+        "title": "Drivers of Racial Differences in C-Sections",
+        "authors": [
+          "Adriana Corredor-Waldron",
+          "Janet Currie",
+          "Molly Schnell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32891",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32891",
+        "url": "https://doi.org/10.3386/w32891",
         "verified": true,
         "note": ""
       }
@@ -90290,6 +91430,25 @@
         "url": "https://doi.org/10.3386/w32227",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mental Health, Substance Use, and Child Maltreatment",
+        "title": "Mental Health, Substance Use, and Child Maltreatment",
+        "authors": [
+          "Mir M. Ali",
+          "Thanh Lu",
+          "Johanna Catherine Maclean",
+          "Angélica Meinhofer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32895",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32895",
+        "url": "https://doi.org/10.3386/w32895",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -90937,6 +92096,25 @@
         "url": "https://doi.org/10.3386/w32771",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mental Health, Substance Use, and Child Maltreatment",
+        "title": "Mental Health, Substance Use, and Child Maltreatment",
+        "authors": [
+          "Mir M. Ali",
+          "Thanh Lu",
+          "Johanna Catherine Maclean",
+          "Angélica Meinhofer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32895",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32895",
+        "url": "https://doi.org/10.3386/w32895",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -91018,6 +92196,46 @@
         "pages": "",
         "doi": "10.3386/w32735",
         "url": "https://doi.org/10.3386/w32735",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.84",
+    "title": "健康不平等项目数据（Health Inequality Project，Chetty 等 2016）",
+    "links": [
+      {
+        "label": "Health Inequality Project",
+        "url": "https://healthinequality.org/data/"
+      }
+    ],
+    "summary": "Chetty 等（2016，JAMA）基于 IRS 税务记录与 SSA 死亡记录链接构建的美国 40–76 岁人群按收入百分位、性别、州、通勤区和县的预期寿命估计，2001–2014 年，并附地方健康行为与特征变量，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "区域经济数据"
+    ],
+    "introduction": "这是收入与预期寿命关系的权威数据。研究常用它分析健康不平等、地区差异和社会保障的再分配效果。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Poverty and Health",
+        "title": "Poverty and Health",
+        "authors": [
+          "Adriana Lleras-Muney",
+          "Hannes Schwandt",
+          "Laura Wherry"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32866",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32866",
+        "url": "https://doi.org/10.3386/w32866",
         "verified": true,
         "note": ""
       }
@@ -92945,6 +94163,44 @@
         "pages": "",
         "doi": "10.3386/w32652",
         "url": "https://doi.org/10.3386/w32652",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.9.21",
+    "title": "BTS 航空旅客起讫点调查（Airline Origin and Destination Survey，DB1B）",
+    "links": [
+      {
+        "label": "BTS: Airline Origin and Destination Survey (DB1B)",
+        "url": "https://www.transtats.bts.gov/DatabaseInfo.asp?QO_VQ=EFI&Yv0x=D"
+      }
+    ],
+    "summary": "美国交通统计局（BTS）每季度发布的美国国内航空客票 10% 抽样数据，记录每张机票的起讫机场、经停、承运航空公司、票价、舱位和行程类型，1993 年以来，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "DB1B 是研究美国航空票价与市场结构的标准数据。研究常用它分析航空公司竞争、合并、定价和网络结构。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Network Competition in the Airline Industry: An Empirical Framework",
+        "title": "Network Competition in the Airline Industry: An Empirical Framework",
+        "authors": [
+          "Zhe Yuan",
+          "Panle Jia Barwick"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32893",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32893",
+        "url": "https://doi.org/10.3386/w32893",
         "verified": true,
         "note": ""
       }
@@ -96194,6 +97450,24 @@
         "url": "https://doi.org/10.1086/735509",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Politicization of Social Responsibility",
+        "title": "The Politicization of Social Responsibility",
+        "authors": [
+          "Todd A. Gormley",
+          "Manish Jha",
+          "Meng Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32869",
+        "url": "https://doi.org/10.3386/w32869",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -98626,6 +99900,24 @@
         "url": "https://doi.org/10.1093/restud/rdaf070",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Politicization of Social Responsibility",
+        "title": "The Politicization of Social Responsibility",
+        "authors": [
+          "Todd A. Gormley",
+          "Manish Jha",
+          "Meng Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32869",
+        "url": "https://doi.org/10.3386/w32869",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99398,6 +100690,86 @@
         "pages": "",
         "doi": "10.3386/w32786",
         "url": "https://doi.org/10.3386/w32786",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.66",
+    "title": "美国联邦法规汇编电子版（Electronic Code of Federal Regulations，eCFR）",
+    "links": [
+      {
+        "label": "eCFR",
+        "url": "https://www.ecfr.gov"
+      }
+    ],
+    "summary": "美国国家档案馆联邦公报办公室与政府出版局维护的联邦法规汇编（CFR）每日更新电子版，按 50 个主题篇目（如第 40 篇环境保护）收录全部现行联邦行政法规文本，并提供历史版本、XML 批量下载和 API，公开访问。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是美国联邦监管规则文本的官方来源。研究常用它构造行业监管强度、法规复杂度和监管变化的文本度量。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Direct and Indirect Taxes in Pollution Dynamics",
+        "title": "Direct and Indirect Taxes in Pollution Dynamics",
+        "authors": [
+          "Vladimir Smirnyagin",
+          "Aleh Tsyvinski",
+          "Xi Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32852",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32852",
+        "url": "https://doi.org/10.3386/w32852",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.10.67",
+    "title": "RegData 美国监管限制度量数据库（QuantGov / Mercatus）",
+    "links": [
+      {
+        "label": "QuantGov",
+        "url": "https://www.quantgov.org/"
+      }
+    ],
+    "summary": "乔治梅森大学 Mercatus 中心 QuantGov 项目基于联邦法规汇编文本，统计\"shall\"\"must\"等限制性词语并用机器学习判定各法规与行业的相关性，构建 1970 年以来按机构、行业和年份的监管限制数量指标，并扩展到美国各州和其他国家，公开下载。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据",
+      "商业数据"
+    ],
+    "introduction": "RegData 是行业层面监管负担最常用的量化指标。研究常用它分析监管对企业进入、生产率、就业和市场集中度的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Direct and Indirect Taxes in Pollution Dynamics",
+        "title": "Direct and Indirect Taxes in Pollution Dynamics",
+        "authors": [
+          "Vladimir Smirnyagin",
+          "Aleh Tsyvinski",
+          "Xi Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32852",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32852",
+        "url": "https://doi.org/10.3386/w32852",
         "verified": true,
         "note": ""
       }
@@ -103340,6 +104712,24 @@
         "url": "https://doi.org/10.3386/w32767",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Direct and Indirect Taxes in Pollution Dynamics",
+        "title": "Direct and Indirect Taxes in Pollution Dynamics",
+        "authors": [
+          "Vladimir Smirnyagin",
+          "Aleh Tsyvinski",
+          "Xi Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32852",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32852",
+        "url": "https://doi.org/10.3386/w32852",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -103622,6 +105012,25 @@
         "pages": "",
         "doi": "10.3386/w32402",
         "url": "https://doi.org/10.3386/w32402",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Industrial Composition of Syndicated Loans and Banks’ Climate Commitments",
+        "title": "Industrial Composition of Syndicated Loans and Banks’ Climate Commitments",
+        "authors": [
+          "Galina Hale",
+          "Brigid Meisenbacher",
+          "Rami Najjar",
+          "Fernanda Nechio"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32874",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32874",
+        "url": "https://doi.org/10.3386/w32874",
         "verified": true,
         "note": ""
       }
@@ -105611,6 +107020,61 @@
         "pages": "",
         "doi": "10.3386/w32816",
         "url": "https://doi.org/10.3386/w32816",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Drivers of Post-Pandemic Inflation",
+        "title": "The Drivers of Post-Pandemic Inflation",
+        "authors": [
+          "Domenico Giannone",
+          "Giorgio Primiceri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32859",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32859",
+        "url": "https://doi.org/10.3386/w32859",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "title": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "authors": [
+          "Joshua Aizenman",
+          "William Eldén",
+          "Yothin Jinjarak",
+          "Gazi Salah Uddin",
+          "Frida Widholm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32868",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32868",
+        "url": "https://doi.org/10.3386/w32868",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inflation and Treasury Convenience",
+        "title": "Inflation and Treasury Convenience",
+        "authors": [
+          "Anna Cieslak",
+          "Wenhao Li",
+          "Carolin Pflueger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32881",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32881",
+        "url": "https://doi.org/10.3386/w32881",
         "verified": true,
         "note": ""
       }
@@ -108807,6 +110271,79 @@
         "url": "https://doi.org/10.3386/w32787",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Direct and Indirect Taxes in Pollution Dynamics",
+        "title": "Direct and Indirect Taxes in Pollution Dynamics",
+        "authors": [
+          "Vladimir Smirnyagin",
+          "Aleh Tsyvinski",
+          "Xi Wu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32852",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32852",
+        "url": "https://doi.org/10.3386/w32852",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "CBDCs, Payment Firms, and Geopolitics",
+        "title": "CBDCs, Payment Firms, and Geopolitics",
+        "authors": [
+          "Tobias Berg",
+          "Jan Keil",
+          "Felix Martini",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32857",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32857",
+        "url": "https://doi.org/10.3386/w32857",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Politicization of Social Responsibility",
+        "title": "The Politicization of Social Responsibility",
+        "authors": [
+          "Todd A. Gormley",
+          "Manish Jha",
+          "Meng Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32869",
+        "url": "https://doi.org/10.3386/w32869",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade, Innovation and Firm Financing",
+        "title": "Trade, Innovation and Firm Financing",
+        "authors": [
+          "Paul Bergin",
+          "Ling Feng",
+          "Ching-Yi Lin"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32904",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32904",
+        "url": "https://doi.org/10.3386/w32904",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110242,6 +111779,41 @@
         "url": "https://doi.org/10.3386/w32770",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inflation and Treasury Convenience",
+        "title": "Inflation and Treasury Convenience",
+        "authors": [
+          "Anna Cieslak",
+          "Wenhao Li",
+          "Carolin Pflueger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32881",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32881",
+        "url": "https://doi.org/10.3386/w32881",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "title": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "authors": [
+          "Stefan Nagel",
+          "Zhengyang Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32884",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32884",
+        "url": "https://doi.org/10.3386/w32884",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110895,6 +112467,24 @@
         "url": "https://doi.org/10.3386/w32663",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Politicization of Social Responsibility",
+        "title": "The Politicization of Social Responsibility",
+        "authors": [
+          "Todd A. Gormley",
+          "Manish Jha",
+          "Meng Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32869",
+        "url": "https://doi.org/10.3386/w32869",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -111149,6 +112739,24 @@
         "url": "https://doi.org/10.3386/w32663",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Politicization of Social Responsibility",
+        "title": "The Politicization of Social Responsibility",
+        "authors": [
+          "Todd A. Gormley",
+          "Manish Jha",
+          "Meng Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32869",
+        "url": "https://doi.org/10.3386/w32869",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -111379,6 +112987,25 @@
         "pages": "",
         "doi": "10.3386/w32353",
         "url": "https://doi.org/10.3386/w32353",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Industrial Composition of Syndicated Loans and Banks’ Climate Commitments",
+        "title": "Industrial Composition of Syndicated Loans and Banks’ Climate Commitments",
+        "authors": [
+          "Galina Hale",
+          "Brigid Meisenbacher",
+          "Rami Najjar",
+          "Fernanda Nechio"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32874",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32874",
+        "url": "https://doi.org/10.3386/w32874",
         "verified": true,
         "note": ""
       }
@@ -111870,6 +113497,43 @@
         "url": "https://doi.org/10.3386/w32770",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "CBDCs, Payment Firms, and Geopolitics",
+        "title": "CBDCs, Payment Firms, and Geopolitics",
+        "authors": [
+          "Tobias Berg",
+          "Jan Keil",
+          "Felix Martini",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32857",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32857",
+        "url": "https://doi.org/10.3386/w32857",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "title": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "authors": [
+          "Mikhail Chernov",
+          "Magnus Dahlquist",
+          "Lars A. Lochstoer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32900",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32900",
+        "url": "https://doi.org/10.3386/w32900",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -112345,6 +114009,24 @@
         "pages": "",
         "doi": "10.3386/w32770",
         "url": "https://doi.org/10.3386/w32770",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inflation and Treasury Convenience",
+        "title": "Inflation and Treasury Convenience",
+        "authors": [
+          "Anna Cieslak",
+          "Wenhao Li",
+          "Carolin Pflueger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32881",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32881",
+        "url": "https://doi.org/10.3386/w32881",
         "verified": true,
         "note": ""
       }
@@ -114203,6 +115885,41 @@
         "url": "https://doi.org/10.3386/w32666",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Drivers of Post-Pandemic Inflation",
+        "title": "The Drivers of Post-Pandemic Inflation",
+        "authors": [
+          "Domenico Giannone",
+          "Giorgio Primiceri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32859",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32859",
+        "url": "https://doi.org/10.3386/w32859",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inflation and Treasury Convenience",
+        "title": "Inflation and Treasury Convenience",
+        "authors": [
+          "Anna Cieslak",
+          "Wenhao Li",
+          "Carolin Pflueger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32881",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32881",
+        "url": "https://doi.org/10.3386/w32881",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -114781,6 +116498,24 @@
         "pages": "",
         "doi": "10.3386/w32532",
         "url": "https://doi.org/10.3386/w32532",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inflation and Treasury Convenience",
+        "title": "Inflation and Treasury Convenience",
+        "authors": [
+          "Anna Cieslak",
+          "Wenhao Li",
+          "Carolin Pflueger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32881",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32881",
+        "url": "https://doi.org/10.3386/w32881",
         "verified": true,
         "note": ""
       }
@@ -116119,6 +117854,41 @@
         "url": "https://doi.org/10.3386/w32301",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inflation and Treasury Convenience",
+        "title": "Inflation and Treasury Convenience",
+        "authors": [
+          "Anna Cieslak",
+          "Wenhao Li",
+          "Carolin Pflueger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32881",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32881",
+        "url": "https://doi.org/10.3386/w32881",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "title": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "authors": [
+          "Stefan Nagel",
+          "Zhengyang Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32884",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32884",
+        "url": "https://doi.org/10.3386/w32884",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -116363,6 +118133,23 @@
         "pages": "",
         "doi": "10.3386/w32417",
         "url": "https://doi.org/10.3386/w32417",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "title": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "authors": [
+          "Stefan Nagel",
+          "Zhengyang Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32884",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32884",
+        "url": "https://doi.org/10.3386/w32884",
         "verified": true,
         "note": ""
       }
@@ -116774,6 +118561,23 @@
         "url": "https://doi.org/10.3386/w32472",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "title": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "authors": [
+          "Stefan Nagel",
+          "Zhengyang Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32884",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32884",
+        "url": "https://doi.org/10.3386/w32884",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -117140,6 +118944,41 @@
         "pages": "",
         "doi": "10.3386/w32636",
         "url": "https://doi.org/10.3386/w32636",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Inflation and Treasury Convenience",
+        "title": "Inflation and Treasury Convenience",
+        "authors": [
+          "Anna Cieslak",
+          "Wenhao Li",
+          "Carolin Pflueger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32881",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32881",
+        "url": "https://doi.org/10.3386/w32881",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "title": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "authors": [
+          "Stefan Nagel",
+          "Zhengyang Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32884",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32884",
+        "url": "https://doi.org/10.3386/w32884",
         "verified": true,
         "note": ""
       }
@@ -123680,6 +125519,26 @@
         "url": "https://doi.org/10.3386/w32609",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Federal Pandemic Relief and Academic Recovery",
+        "title": "Federal Pandemic Relief and Academic Recovery",
+        "authors": [
+          "Dan C. Dewey",
+          "Erin M. Fahle",
+          "Thomas J. Kane",
+          "Sean F. Reardon",
+          "Douglas O. Staiger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32897",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32897",
+        "url": "https://doi.org/10.3386/w32897",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -124037,6 +125896,24 @@
         "url": "https://doi.org/10.3386/w32732",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "title": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "authors": [
+          "Melissa Arnold Lyon",
+          "Matthew A. Kraft",
+          "Matthew P. Steinberg"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32862",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32862",
+        "url": "https://doi.org/10.3386/w32862",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -124204,6 +126081,44 @@
         "pages": "",
         "doi": "10.3386/w32674",
         "url": "https://doi.org/10.3386/w32674",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "title": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "authors": [
+          "Melissa Arnold Lyon",
+          "Matthew A. Kraft",
+          "Matthew P. Steinberg"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32862",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32862",
+        "url": "https://doi.org/10.3386/w32862",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Federal Pandemic Relief and Academic Recovery",
+        "title": "Federal Pandemic Relief and Academic Recovery",
+        "authors": [
+          "Dan C. Dewey",
+          "Erin M. Fahle",
+          "Thomas J. Kane",
+          "Sean F. Reardon",
+          "Douglas O. Staiger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32897",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32897",
+        "url": "https://doi.org/10.3386/w32897",
         "verified": true,
         "note": ""
       }
@@ -124915,6 +126830,40 @@
         "pages": "",
         "doi": "10.3386/w32791",
         "url": "https://doi.org/10.3386/w32791",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
+        "title": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
+        "authors": [
+          "Elizabeth Setren"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32864",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32864",
+        "url": "https://doi.org/10.3386/w32864",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Can Technical Education in High School Smooth Postsecondary Transitions for Students with Disabilities?",
+        "title": "Can Technical Education in High School Smooth Postsecondary Transitions for Students with Disabilities?",
+        "authors": [
+          "Eric Brunner",
+          "Shaun Dougherty",
+          "Stephen Ross"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32867",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32867",
+        "url": "https://doi.org/10.3386/w32867",
         "verified": true,
         "note": ""
       }
@@ -126186,6 +128135,22 @@
         "pages": "",
         "doi": "10.3386/w32732",
         "url": "https://doi.org/10.3386/w32732",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
+        "title": "Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color",
+        "authors": [
+          "Elizabeth Setren"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32864",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32864",
+        "url": "https://doi.org/10.3386/w32864",
         "verified": true,
         "note": ""
       }
@@ -127567,6 +129532,24 @@
         "url": "https://doi.org/10.3386/w32386",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "title": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "authors": [
+          "Melissa Arnold Lyon",
+          "Matthew A. Kraft",
+          "Matthew P. Steinberg"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32862",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32862",
+        "url": "https://doi.org/10.3386/w32862",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -127683,6 +129666,26 @@
         "url": "https://doi.org/10.3386/w32516",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Federal Pandemic Relief and Academic Recovery",
+        "title": "Federal Pandemic Relief and Academic Recovery",
+        "authors": [
+          "Dan C. Dewey",
+          "Erin M. Fahle",
+          "Thomas J. Kane",
+          "Sean F. Reardon",
+          "Douglas O. Staiger"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32897",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32897",
+        "url": "https://doi.org/10.3386/w32897",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -127722,6 +129725,84 @@
         "pages": "",
         "doi": "10.3386/w32827",
         "url": "https://doi.org/10.3386/w32827",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.52",
+    "title": "城市研究所教育数据门户（Education Data Portal / Explorer）",
+    "links": [
+      {
+        "label": "Urban Institute Education Data Portal",
+        "url": "https://educationdata.urban.org/documentation/"
+      }
+    ],
+    "summary": "城市研究所整合 CCD、IPEDS、SAIPE、民权数据收集（CRDC）、EDFacts、大学记分卡等联邦教育数据集，提供学校、学区和高校层面的统一编码面板，含学区儿童贫困率、财务、招生和成绩，经 API 和网页公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "这是获取美国教育行政数据最便捷的统一入口。研究常用它构造学校和学区面板，分析教育财政、招生和学生结果。",
+    "source": "公开下载（含 API）。",
+    "references": [
+      {
+        "raw": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "title": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+        "authors": [
+          "Melissa Arnold Lyon",
+          "Matthew A. Kraft",
+          "Matthew P. Steinberg"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32862",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32862",
+        "url": "https://doi.org/10.3386/w32862",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.16.53",
+    "title": "NSF 资助项目数据库（NSF Award Search）",
+    "links": [
+      {
+        "label": "NSF Award Search",
+        "url": "https://www.nsf.gov/awardsearch/"
+      }
+    ],
+    "summary": "美国国家科学基金会公开的全部资助项目记录，1959 年以来逐项记录项目编号、标题、摘要、主持人与机构、资助部门和项目类别、金额与起止日期，可在线检索并批量下载 XML。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "这是美国基础科研资助的完整项目级数据。研究常用它分析科研资助对论文、专利、创业和科学家职业的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Gender Diversity in Academic Entrepreneurship: Social Impact Motives and the NSF I-Corps Program",
+        "title": "Gender Diversity in Academic Entrepreneurship: Social Impact Motives and the NSF I-Corps Program",
+        "authors": [
+          "April Burrage",
+          "Nilanjana Dasgupta",
+          "Ina Ganguli"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32885",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32885",
+        "url": "https://doi.org/10.3386/w32885",
         "verified": true,
         "note": ""
       }
@@ -128717,6 +130798,24 @@
         "url": "https://doi.org/10.3386/w32643",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Crypto Tax Evasion",
+        "title": "Crypto Tax Evasion",
+        "authors": [
+          "Tom G. Meling",
+          "Magne Mogstad",
+          "Arnstein Vestre"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32865",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32865",
+        "url": "https://doi.org/10.3386/w32865",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -129251,6 +131350,24 @@
         "url": "https://doi.org/10.1162/rest.a.1618",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pensioners Without Borders",
+        "title": "Pensioners Without Borders",
+        "authors": [
+          "Salla Kalin",
+          "Antoine B. Levy",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32890",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32890",
+        "url": "https://doi.org/10.3386/w32890",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -129564,6 +131681,24 @@
         "pages": "",
         "doi": "10.3386/w32377",
         "url": "https://doi.org/10.3386/w32377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pensioners Without Borders",
+        "title": "Pensioners Without Borders",
+        "authors": [
+          "Salla Kalin",
+          "Antoine B. Levy",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32890",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32890",
+        "url": "https://doi.org/10.3386/w32890",
         "verified": true,
         "note": ""
       }
@@ -130007,6 +132142,24 @@
         "pages": "120–151",
         "doi": "10.1111/j.1542-4774.2011.01049.x",
         "url": "https://doi.org/10.1111/j.1542-4774.2011.01049.x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
         "verified": true,
         "note": ""
       }
@@ -130798,6 +132951,24 @@
         "url": "https://doi.org/10.3386/w32716",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -131342,6 +133513,24 @@
         "url": "https://doi.org/10.3386/w32612",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "title": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "authors": [
+          "David A. Matsa",
+          "Brian T. Melzer",
+          "Michal Zator"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32858",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32858",
+        "url": "https://doi.org/10.3386/w32858",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -131418,6 +133607,24 @@
         "pages": "",
         "doi": "10.3386/w32107",
         "url": "https://doi.org/10.3386/w32107",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "title": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "authors": [
+          "David A. Matsa",
+          "Brian T. Melzer",
+          "Michal Zator"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32858",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32858",
+        "url": "https://doi.org/10.3386/w32858",
         "verified": true,
         "note": ""
       }
@@ -132658,6 +134865,24 @@
         "url": "https://doi.org/10.3386/w32204",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pensioners Without Borders",
+        "title": "Pensioners Without Borders",
+        "authors": [
+          "Salla Kalin",
+          "Antoine B. Levy",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32890",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32890",
+        "url": "https://doi.org/10.3386/w32890",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -133409,6 +135634,24 @@
         "url": "https://doi.org/10.3386/w32838",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "title": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "authors": [
+          "David A. Matsa",
+          "Brian T. Melzer",
+          "Michal Zator"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32858",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32858",
+        "url": "https://doi.org/10.3386/w32858",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -133446,6 +135689,24 @@
         "pages": "",
         "doi": "10.3386/w32337",
         "url": "https://doi.org/10.3386/w32337",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
         "verified": true,
         "note": ""
       }
@@ -136294,6 +138555,41 @@
         "url": "https://doi.org/10.3386/w32750",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Drivers of Post-Pandemic Inflation",
+        "title": "The Drivers of Post-Pandemic Inflation",
+        "authors": [
+          "Domenico Giannone",
+          "Giorgio Primiceri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32859",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32859",
+        "url": "https://doi.org/10.3386/w32859",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pensioners Without Borders",
+        "title": "Pensioners Without Borders",
+        "authors": [
+          "Salla Kalin",
+          "Antoine B. Levy",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32890",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32890",
+        "url": "https://doi.org/10.3386/w32890",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -137235,6 +139531,46 @@
         "pages": "",
         "doi": "10.3386/w32760",
         "url": "https://doi.org/10.3386/w32760",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.4.20",
+    "title": "葡萄牙国家统计局数据（Statistics Portugal，INE）",
+    "links": [
+      {
+        "label": "Statistics Portugal (INE)",
+        "url": "https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_main"
+      }
+    ],
+    "summary": "葡萄牙国家统计局发布的官方统计，包括 2011、2021 年等人口与住房普查以及市镇和教区层面的人口、就业、收入、住房、旅游和企业指标，经统计门户在线查询和下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "普查数据"
+    ],
+    "introduction": "这是葡萄牙地方层面社会经济数据的官方来源。研究常用它构造市镇面板，分析移民、税收激励和住房市场。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Pensioners Without Borders",
+        "title": "Pensioners Without Borders",
+        "authors": [
+          "Salla Kalin",
+          "Antoine B. Levy",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32890",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32890",
+        "url": "https://doi.org/10.3386/w32890",
         "verified": true,
         "note": ""
       }
@@ -140060,6 +142396,46 @@
     ]
   },
   {
+    "id": "3.8.13",
+    "title": "苏格兰健康调查（Scottish Health Survey，SHeS）",
+    "links": [
+      {
+        "label": "Scottish Government: Scottish Health Survey",
+        "url": "https://www.gov.scot/collections/scottish-health-survey/"
+      }
+    ],
+    "summary": "苏格兰政府委托开展的全国代表性家庭健康调查，1995 年起、2008 年起每年实施，记录成人和儿童的健康状况、慢性病、心理健康、吸烟饮酒、饮食运动及身高体重血压等测量，微观数据经 UK Data Service 注册获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是苏格兰人口健康与健康行为的主要调查。研究常用它分析健康不平等、生活方式和健康政策（如最低酒价）的效果。",
+    "source": "需注册（UK Data Service）。",
+    "references": [
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.9.1",
     "title": "法国全国交通与出行调查（ENTD / EMP）",
     "links": [
@@ -141669,6 +144045,23 @@
         "url": "https://doi.org/10.3386/w32396",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Drivers of Post-Pandemic Inflation",
+        "title": "The Drivers of Post-Pandemic Inflation",
+        "authors": [
+          "Domenico Giannone",
+          "Giorgio Primiceri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32859",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32859",
+        "url": "https://doi.org/10.3386/w32859",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -141747,6 +144140,24 @@
         "pages": "105351",
         "doi": "10.1016/j.jpubeco.2025.105351",
         "url": "https://doi.org/10.1016/j.jpubeco.2025.105351",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "title": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "authors": [
+          "David A. Matsa",
+          "Brian T. Melzer",
+          "Michal Zator"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32858",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32858",
+        "url": "https://doi.org/10.3386/w32858",
         "verified": true,
         "note": ""
       }
@@ -142103,6 +144514,24 @@
         "url": "https://doi.org/10.1257/aer.20220110",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Innovation Networks in the Industrial Revolution",
+        "title": "Innovation Networks in the Industrial Revolution",
+        "authors": [
+          "Lukas Rosenberger",
+          "W. Walker Hanlon",
+          "Carl Hallmann"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32875",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32875",
+        "url": "https://doi.org/10.3386/w32875",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -142375,6 +144804,25 @@
         "pages": "1289–1324",
         "doi": "10.1257/aer.103.4.1289",
         "url": "https://doi.org/10.1257/aer.103.4.1289",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Self-, Peer-, and Teacher Perceptions under School Tracking",
+        "title": "Self-, Peer-, and Teacher Perceptions under School Tracking",
+        "authors": [
+          "Ofer Malamud",
+          "Andreea Mitrut",
+          "Cristian Pop-Eleches",
+          "Miguel Urquiola"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32892",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32892",
+        "url": "https://doi.org/10.3386/w32892",
         "verified": true,
         "note": ""
       }
@@ -147861,6 +150309,45 @@
     ]
   },
   {
+    "id": "4.4.11",
+    "title": "台湾\"行政院主计总处\"统计数据（DGBAS）",
+    "links": [
+      {
+        "label": "DGBAS National Statistics",
+        "url": "https://eng.stat.gov.tw/"
+      }
+    ],
+    "summary": "台湾主计总处发布的官方统计，包括国民所得与 GDP、消费者与生产者物价指数、人力资源（就业失业）调查、家庭收支调查和工业及服务业普查，长期时间序列经统计资料库在线查询和下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是台湾宏观经济和物价统计的官方来源。研究常用它获取台湾 CPI、GDP 和劳动力市场序列，用于跨经济体比较。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "title": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "authors": [
+          "Mikhail Chernov",
+          "Magnus Dahlquist",
+          "Lars A. Lochstoer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32900",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32900",
+        "url": "https://doi.org/10.3386/w32900",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.5.1",
     "title": "SEDAC 印度村级地理空间社会经济数据（1991、2001）",
     "links": [],
@@ -151312,6 +153799,23 @@
         "pages": "",
         "doi": "10.3386/w32126",
         "url": "https://doi.org/10.3386/w32126",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages in the 21st Century",
+        "title": "Minimum Wages in the 21st Century",
+        "authors": [
+          "Arindrajit Dube",
+          "Attila S. Lindner"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32878",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32878",
+        "url": "https://doi.org/10.3386/w32878",
         "verified": true,
         "note": ""
       }
@@ -161794,6 +164298,24 @@
         "url": "https://doi.org/10.3386/w32818",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "title": "Taxation and Household Decisions: an Intertemporal Analysis",
+        "authors": [
+          "Mary Ann Bronson",
+          "Daniel Haanwinckel",
+          "Maurizio Mazzocco"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32861",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32861",
+        "url": "https://doi.org/10.3386/w32861",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -163831,6 +166353,24 @@
         "pages": "",
         "doi": "10.3386/w32500",
         "url": "https://doi.org/10.3386/w32500",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
         "verified": true,
         "note": ""
       }
@@ -168417,6 +170957,44 @@
         "url": "https://doi.org/10.3386/w32832",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "title": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "authors": [
+          "Joshua Aizenman",
+          "William Eldén",
+          "Yothin Jinjarak",
+          "Gazi Salah Uddin",
+          "Frida Widholm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32868",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32868",
+        "url": "https://doi.org/10.3386/w32868",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "title": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "authors": [
+          "Roberto Chang",
+          "Andrés Fernández",
+          "Humberto Martinez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32877",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32877",
+        "url": "https://doi.org/10.3386/w32877",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172652,6 +175230,44 @@
         "url": "https://doi.org/10.3386/w32808",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "title": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "authors": [
+          "Joshua Aizenman",
+          "William Eldén",
+          "Yothin Jinjarak",
+          "Gazi Salah Uddin",
+          "Frida Widholm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32868",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32868",
+        "url": "https://doi.org/10.3386/w32868",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "title": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "authors": [
+          "Mikhail Chernov",
+          "Magnus Dahlquist",
+          "Lars A. Lochstoer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32900",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32900",
+        "url": "https://doi.org/10.3386/w32900",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172957,6 +175573,24 @@
         "pages": "",
         "doi": "10.3386/w32769",
         "url": "https://doi.org/10.3386/w32769",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "title": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "authors": [
+          "Mikhail Chernov",
+          "Magnus Dahlquist",
+          "Lars A. Lochstoer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32900",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32900",
+        "url": "https://doi.org/10.3386/w32900",
         "verified": true,
         "note": ""
       }
@@ -173800,6 +176434,44 @@
         "pages": "",
         "doi": "10.3386/w32638",
         "url": "https://doi.org/10.3386/w32638",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "title": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "authors": [
+          "Joshua Aizenman",
+          "William Eldén",
+          "Yothin Jinjarak",
+          "Gazi Salah Uddin",
+          "Frida Widholm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32868",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32868",
+        "url": "https://doi.org/10.3386/w32868",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "title": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "authors": [
+          "Roberto Chang",
+          "Andrés Fernández",
+          "Humberto Martinez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32877",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32877",
+        "url": "https://doi.org/10.3386/w32877",
         "verified": true,
         "note": ""
       }
@@ -177059,6 +179731,24 @@
         "url": "https://doi.org/10.3386/w32832",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pensioners Without Borders",
+        "title": "Pensioners Without Borders",
+        "authors": [
+          "Salla Kalin",
+          "Antoine B. Levy",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32890",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32890",
+        "url": "https://doi.org/10.3386/w32890",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -177673,6 +180363,24 @@
         "url": "https://doi.org/10.3386/w32838",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pensioners Without Borders",
+        "title": "Pensioners Without Borders",
+        "authors": [
+          "Salla Kalin",
+          "Antoine B. Levy",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32890",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32890",
+        "url": "https://doi.org/10.3386/w32890",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -177846,6 +180554,44 @@
         "pages": "",
         "doi": "10.3386/w32672",
         "url": "https://doi.org/10.3386/w32672",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.65",
+    "title": "OECD 最低工资相对中位数/平均工资（Kaitz 指数）",
+    "links": [
+      {
+        "label": "OECD: Minimum wages relative to median wages",
+        "url": "https://www.oecd.org/en/data/datasets/minimum-wages-relative-to-median-wages.html"
+      }
+    ],
+    "summary": "OECD 发布的成员国法定最低工资与全职工人中位数工资、平均工资之比（Kaitz 指数），以及实际和名义最低工资水平，1960 年代以来年度公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是跨国比较最低工资\"咬合度\"的标准指标。研究常用它分析最低工资对就业、工资分布和不平等的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Minimum Wages in the 21st Century",
+        "title": "Minimum Wages in the 21st Century",
+        "authors": [
+          "Arindrajit Dube",
+          "Attila S. Lindner"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32878",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32878",
+        "url": "https://doi.org/10.3386/w32878",
         "verified": true,
         "note": ""
       }
@@ -190431,6 +193177,24 @@
         "url": "https://doi.org/10.3386/w32337",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -190589,6 +193353,24 @@
         "pages": "",
         "doi": "10.3386/w32629",
         "url": "https://doi.org/10.3386/w32629",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
         "verified": true,
         "note": ""
       }
@@ -191093,6 +193875,44 @@
         "pages": "",
         "doi": "10.3386/w32503",
         "url": "https://doi.org/10.3386/w32503",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.9.7",
+    "title": "OAG 全球航班时刻数据（Official Airline Guide）",
+    "links": [
+      {
+        "label": "OAG Schedules Analyser",
+        "url": "https://www.oag.com/schedules-analyser"
+      }
+    ],
+    "summary": "OAG 编制的全球定期航班时刻数据库，覆盖约 900 家航空公司和 4000 多个机场，记录每个航班的航线、起降时间、机型、座位数和频次，历史数据可回溯数十年，付费商业。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据"
+    ],
+    "introduction": "这是全球航空网络和运力的标准商业数据。研究常用它度量城市航空连通性，分析航空网络对贸易、创新和区域经济的影响。",
+    "source": "付费商业。",
+    "references": [
+      {
+        "raw": "Network Competition in the Airline Industry: An Empirical Framework",
+        "title": "Network Competition in the Airline Industry: An Empirical Framework",
+        "authors": [
+          "Zhe Yuan",
+          "Panle Jia Barwick"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32893",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32893",
+        "url": "https://doi.org/10.3386/w32893",
         "verified": true,
         "note": ""
       }
@@ -193728,6 +196548,24 @@
         "pages": "",
         "doi": "10.3386/w32513",
         "url": "https://doi.org/10.3386/w32513",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "title": "Dual Credit Markets: Income Risk, Household Debt, and Consumption",
+        "authors": [
+          "David A. Matsa",
+          "Brian T. Melzer",
+          "Michal Zator"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32858",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32858",
+        "url": "https://doi.org/10.3386/w32858",
         "verified": true,
         "note": ""
       }
@@ -197795,6 +200633,23 @@
         "url": "https://doi.org/10.3386/w32808",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "title": "Movements in Yields, not the Equity Premium: Bernanke-Kuttner Redux",
+        "authors": [
+          "Stefan Nagel",
+          "Zhengyang Xu"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32884",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32884",
+        "url": "https://doi.org/10.3386/w32884",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -198390,6 +201245,25 @@
         "url": "https://doi.org/10.3386/w32746",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "CBDCs, Payment Firms, and Geopolitics",
+        "title": "CBDCs, Payment Firms, and Geopolitics",
+        "authors": [
+          "Tobias Berg",
+          "Jan Keil",
+          "Felix Martini",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32857",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32857",
+        "url": "https://doi.org/10.3386/w32857",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -198926,6 +201800,26 @@
         "pages": "",
         "doi": "10.3386/w32303",
         "url": "https://doi.org/10.3386/w32303",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "title": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "authors": [
+          "Joshua Aizenman",
+          "William Eldén",
+          "Yothin Jinjarak",
+          "Gazi Salah Uddin",
+          "Frida Widholm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32868",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32868",
+        "url": "https://doi.org/10.3386/w32868",
         "verified": true,
         "note": ""
       }
@@ -199506,6 +202400,24 @@
         "pages": "",
         "doi": "10.3386/w32808",
         "url": "https://doi.org/10.3386/w32808",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "title": "Reassessing Sources of Risk Premiums in Currency Markets",
+        "authors": [
+          "Mikhail Chernov",
+          "Magnus Dahlquist",
+          "Lars A. Lochstoer"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32900",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32900",
+        "url": "https://doi.org/10.3386/w32900",
         "verified": true,
         "note": ""
       }
@@ -200469,6 +203381,25 @@
         "url": "https://doi.org/10.3386/w32453",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "CBDCs, Payment Firms, and Geopolitics",
+        "title": "CBDCs, Payment Firms, and Geopolitics",
+        "authors": [
+          "Tobias Berg",
+          "Jan Keil",
+          "Felix Martini",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32857",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32857",
+        "url": "https://doi.org/10.3386/w32857",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -201069,6 +204000,24 @@
         "url": "https://doi.org/10.3386/w32652",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Have CEOs Changed?",
+        "title": "Have CEOs Changed?",
+        "authors": [
+          "Yann Decressin",
+          "Steven N. Kaplan",
+          "Morten Sorensen"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32854",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32854",
+        "url": "https://doi.org/10.3386/w32854",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -201598,6 +204547,24 @@
         "pages": "",
         "doi": "10.3386/w32330",
         "url": "https://doi.org/10.3386/w32330",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "title": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "authors": [
+          "Roberto Chang",
+          "Andrés Fernández",
+          "Humberto Martinez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32877",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32877",
+        "url": "https://doi.org/10.3386/w32877",
         "verified": true,
         "note": ""
       }
@@ -202772,6 +205739,26 @@
         "url": "https://doi.org/10.3386/w32044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "title": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "authors": [
+          "Joshua Aizenman",
+          "William Eldén",
+          "Yothin Jinjarak",
+          "Gazi Salah Uddin",
+          "Frida Widholm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32868",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32868",
+        "url": "https://doi.org/10.3386/w32868",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -203135,6 +206122,24 @@
         "url": "https://doi.org/10.3386/w32638",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "title": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "authors": [
+          "Roberto Chang",
+          "Andrés Fernández",
+          "Humberto Martinez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32877",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32877",
+        "url": "https://doi.org/10.3386/w32877",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -203395,6 +206400,43 @@
         "url": "https://doi.org/10.3386/w32321",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "title": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "authors": [
+          "Joshua Aizenman",
+          "William Eldén",
+          "Yothin Jinjarak",
+          "Gazi Salah Uddin",
+          "Frida Widholm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32868",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32868",
+        "url": "https://doi.org/10.3386/w32868",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Drivers of Post-Pandemic Inflation",
+        "title": "The Drivers of Post-Pandemic Inflation",
+        "authors": [
+          "Domenico Giannone",
+          "Giorgio Primiceri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32859",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32859",
+        "url": "https://doi.org/10.3386/w32859",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -203581,6 +206623,24 @@
         "pages": "",
         "doi": "10.3386/w32417",
         "url": "https://doi.org/10.3386/w32417",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Politicization of Social Responsibility",
+        "title": "The Politicization of Social Responsibility",
+        "authors": [
+          "Todd A. Gormley",
+          "Manish Jha",
+          "Meng Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32869",
+        "url": "https://doi.org/10.3386/w32869",
         "verified": true,
         "note": ""
       }
@@ -203780,6 +206840,26 @@
         "url": "https://doi.org/10.3386/w32599",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "title": "Spillovers of U.S. Fiscal Challenges: The Global Impact of U.S. Fiscal Dominance Concerns on Interest Rates in Emerging and Developed Markets",
+        "authors": [
+          "Joshua Aizenman",
+          "William Eldén",
+          "Yothin Jinjarak",
+          "Gazi Salah Uddin",
+          "Frida Widholm"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32868",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32868",
+        "url": "https://doi.org/10.3386/w32868",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -203817,6 +206897,125 @@
         "pages": "",
         "doi": "10.3386/w32644",
         "url": "https://doi.org/10.3386/w32644",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.65",
+    "title": "BIS 央行官员讲话数据库（Central Bankers Speeches）",
+    "links": [
+      {
+        "label": "BIS: Central bankers speeches",
+        "url": "https://www.bis.org/cbspeeches/index.htm"
+      }
+    ],
+    "summary": "国际清算银行（BIS）收集发布的各国中央银行行长和高级官员公开讲话全文，1997 年以来，按机构、讲话人和日期检索，并提供批量文本下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是央行沟通文本分析的主要语料。研究常用它分析央行沟通、前瞻指引、政策关注点（如数字货币、气候）的跨国差异和市场反应。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "CBDCs, Payment Firms, and Geopolitics",
+        "title": "CBDCs, Payment Firms, and Geopolitics",
+        "authors": [
+          "Tobias Berg",
+          "Jan Keil",
+          "Felix Martini",
+          "Manju Puri"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32857",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32857",
+        "url": "https://doi.org/10.3386/w32857",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.66",
+    "title": "联合国负责任投资原则（PRI）签署机构名录",
+    "links": [
+      {
+        "label": "PRI Signatory Directory",
+        "url": "https://www.unpri.org/signatories/signatory-resources/signatory-directory"
+      }
+    ],
+    "summary": "联合国支持的负责任投资原则组织（PRI）公布的签署机构名录，记录全球 5000 多家资产所有者、资产管理人和服务提供商的名称、类型、总部国家和签署日期，公开查询下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "PRI 签署是机构投资者 ESG 承诺的常用度量。研究常用它分析 ESG 承诺对投资组合、股东参与和被投企业行为的影响，以及\"漂绿\"问题。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Industrial Composition of Syndicated Loans and Banks’ Climate Commitments",
+        "title": "Industrial Composition of Syndicated Loans and Banks’ Climate Commitments",
+        "authors": [
+          "Galina Hale",
+          "Brigid Meisenbacher",
+          "Rami Najjar",
+          "Fernanda Nechio"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32874",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32874",
+        "url": "https://doi.org/10.3386/w32874",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.67",
+    "title": "Laeven–Valencia 系统性银行危机数据库",
+    "links": [
+      {
+        "label": "IMF WP: Systemic Banking Crises Revisited",
+        "url": "https://www.imf.org/en/Publications/WP/Issues/2018/09/14/Systemic-Banking-Crises-Revisited-46232"
+      }
+    ],
+    "summary": "Laeven 与 Valencia 在 IMF 工作论文中构建并更新的 1970 年以来全球系统性银行危机、货币危机和主权债务危机事件数据库，记录危机起止年份、产出损失、财政成本和政策应对，随 IMF 工作论文公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是跨国金融危机研究最常用的危机日期数据之一。研究常用它定义危机事件，分析危机成本、政策干预和危机后的复苏。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "title": "Capital Controls on Outflows: New Evidence and a Theoretical Framework",
+        "authors": [
+          "Roberto Chang",
+          "Andrés Fernández",
+          "Humberto Martinez"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32877",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32877",
+        "url": "https://doi.org/10.3386/w32877",
         "verified": true,
         "note": ""
       }
@@ -204198,6 +207397,24 @@
         "pages": "",
         "doi": "10.3386/w32826",
         "url": "https://doi.org/10.3386/w32826",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation Networks in the Industrial Revolution",
+        "title": "Innovation Networks in the Industrial Revolution",
+        "authors": [
+          "Lukas Rosenberger",
+          "W. Walker Hanlon",
+          "Carl Hallmann"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32875",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32875",
+        "url": "https://doi.org/10.3386/w32875",
         "verified": true,
         "note": ""
       }
@@ -205792,6 +209009,24 @@
         "url": "https://doi.org/10.3386/w32160",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Politicization of Social Responsibility",
+        "title": "The Politicization of Social Responsibility",
+        "authors": [
+          "Todd A. Gormley",
+          "Manish Jha",
+          "Meng Wang"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32869",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32869",
+        "url": "https://doi.org/10.3386/w32869",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -206533,6 +209768,24 @@
         "url": "https://doi.org/10.3386/w32655",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "title": "Tasks At Work: Comparative Advantage, Technology and Labor Demand",
+        "authors": [
+          "Daron Acemoglu",
+          "Fredric Kong",
+          "Pascual Restrepo"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32872",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32872",
+        "url": "https://doi.org/10.3386/w32872",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -206953,6 +210206,24 @@
         "pages": "",
         "doi": "10.3386/w32789",
         "url": "https://doi.org/10.3386/w32789",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Innovation Networks in the Industrial Revolution",
+        "title": "Innovation Networks in the Industrial Revolution",
+        "authors": [
+          "Lukas Rosenberger",
+          "W. Walker Hanlon",
+          "Carl Hallmann"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32875",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32875",
+        "url": "https://doi.org/10.3386/w32875",
         "verified": true,
         "note": ""
       }
@@ -212219,6 +215490,24 @@
         "url": "https://doi.org/10.3386/w32803",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pensioners Without Borders",
+        "title": "Pensioners Without Borders",
+        "authors": [
+          "Salla Kalin",
+          "Antoine B. Levy",
+          "Mathilde Muñoz"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32890",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32890",
+        "url": "https://doi.org/10.3386/w32890",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -213244,6 +216533,25 @@
         "pages": "",
         "doi": "10.3386/w32835",
         "url": "https://doi.org/10.3386/w32835",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Industrial Composition of Syndicated Loans and Banks’ Climate Commitments",
+        "title": "Industrial Composition of Syndicated Loans and Banks’ Climate Commitments",
+        "authors": [
+          "Galina Hale",
+          "Brigid Meisenbacher",
+          "Rami Najjar",
+          "Fernanda Nechio"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32874",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32874",
+        "url": "https://doi.org/10.3386/w32874",
         "verified": true,
         "note": ""
       }
@@ -214845,6 +218153,24 @@
         "pages": "",
         "doi": "10.3386/w32375",
         "url": "https://doi.org/10.3386/w32375",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Declining Mental Health of the Young in the UK",
+        "title": "The Declining Mental Health of the Young in the UK",
+        "authors": [
+          "David G. Blanchflower",
+          "Alex Bryson",
+          "David N.F. Bell"
+        ],
+        "year": 2024,
+        "journal": "NBER Working Paper No. 32879",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3386/w32879",
+        "url": "https://doi.org/10.3386/w32879",
         "verified": true,
         "note": ""
       }
