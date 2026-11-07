@@ -18234,6 +18234,22 @@
         "url": "https://jie-song.github.io/assets/papers/municipal_incorporation_song.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "",
+        "title": "",
+        "authors": [
+          "Md Roknuzzaman"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Florida, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://ageconsearch.umn.edu/record/404558/files/177568_199009_115232_2026AAEA_manuscript_DS.pdf?version=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -20980,6 +20996,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1OY0QZYiLUtQj-EXm9tJLWDwiyBWIxQth",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
         "verified": true,
         "note": ""
       }
@@ -25288,6 +25320,44 @@
         "pages": "",
         "doi": "10.3386/w33716",
         "url": "https://doi.org/10.3386/w33716",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.1.17",
+    "title": "NCHS 种族桥接人口估计（Bridged-Race Population Estimates）",
+    "links": [
+      {
+        "label": "NCHS: Bridged-Race Population Estimates",
+        "url": "https://www.cdc.gov/nchs/nvss/bridged_race.htm"
+      }
+    ],
+    "summary": "美国国家卫生统计中心（NCHS）与普查局合作编制的县级年度人口估计，1990–2020 年将多种族类别桥接为四个单一种族类别，按县、年龄、性别、种族和西班牙裔身份报告人口，用作出生率、死亡率等生命统计的分母，经 CDC WONDER 公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "普查数据",
+      "健康数据"
+    ],
+    "introduction": "这是与美国生命统计口径一致的县级分人群人口数据。研究常用它计算分年龄、分种族的出生率和死亡率。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Artificial Intelligence (AI) and Agricultural Employment",
+        "title": "Artificial Intelligence (AI) and Agricultural Employment",
+        "authors": [
+          "Fernando Brito"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Florida, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://phd-fernando.github.io/AJAE_AI_Emp_SUBMITTED_09.21.25.pdf",
         "verified": true,
         "note": ""
       }
@@ -31976,6 +32046,70 @@
         "url": "https://lucesprabens.github.io/assets/files/main_draft.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "title": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "authors": [
+          "Samyam Shrestha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Georgia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "",
+        "title": "",
+        "authors": [
+          "Md Roknuzzaman"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Florida, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://ageconsearch.umn.edu/record/404558/files/177568_199009_115232_2026AAEA_manuscript_DS.pdf?version=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37864,6 +37998,22 @@
         "url": "https://mtgibson.github.io/publication/job-market_paper/Chapter_1__Harvesting_the_Toll.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Credit Access and Retirement Savings",
+        "title": "Credit Access and Retirement Savings",
+        "authors": [
+          "Minjoo Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/dglsibqgftxxsbpecxyi1/Credit_Access_and_Retirement_Savings.pdf?rlkey=s6qvxqg0o8bm8ei02ia1m0xuy&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39629,6 +39779,22 @@
         "url": "https://waitingsze.github.io/files/sze_waiting_jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40784,6 +40950,22 @@
         "pages": "",
         "doi": "",
         "url": "https://edturri.github.io/pdfs/Turri_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
         "verified": true,
         "note": ""
       }
@@ -44355,6 +44537,38 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/qg2fjco3uhygwmwi99sy9/Salom-_JMP_Draft_Oct26.pdf?dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Credit Access and Retirement Savings",
+        "title": "Credit Access and Retirement Savings",
+        "authors": [
+          "Minjoo Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/dglsibqgftxxsbpecxyi1/Credit_Access_and_Retirement_Savings.pdf?rlkey=s6qvxqg0o8bm8ei02ia1m0xuy&dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
         "verified": true,
         "note": ""
       }
@@ -51392,6 +51606,22 @@
         "url": "https://carlasrebot.github.io/assets/files/JMP_Srebot.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Acquiring to Hire: Team Complementarity and Innovation",
+        "title": "Acquiring to Hire: Team Complementarity and Innovation",
+        "authors": [
+          "Zunda Winston Xu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Stanford GSB, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -52101,6 +52331,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1K-atrPwZNXL223U0gLgVfElQRR1393xN",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+        "title": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+        "authors": [
+          "Qianfan Wu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1ChKbyr2Yiw5aAVMRXxMYSYX9Tbisbtdn",
         "verified": true,
         "note": ""
       }
@@ -58521,6 +58767,54 @@
         "url": "https://edturri.github.io/pdfs/Turri_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "title": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "authors": [
+          "Lauren Mostrom"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Chicago Booth, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/cion4ps5i8xlrzqzjicot/Mostrom_JMP_SCRM.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Acquiring to Hire: Team Complementarity and Innovation",
+        "title": "Acquiring to Hire: Team Complementarity and Innovation",
+        "authors": [
+          "Zunda Winston Xu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Stanford GSB, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -58612,6 +58906,22 @@
         "pages": "498–510",
         "doi": "10.1162/00346530152480144",
         "url": "https://doi.org/10.1162/00346530152480144",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Compliance Spillovers and the Limits of Free-Entry Neutrality",
+        "title": "Compliance Spillovers and the Limits of Free-Entry Neutrality",
+        "authors": [
+          "Vishavdeep Sharma"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://vishavdeepsharma.com/assets/jmp.pdf",
         "verified": true,
         "note": ""
       }
@@ -59001,6 +59311,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1LjxaJu0ZgeOnuk73ppro5sS7FpmCOPDp",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
         "verified": true,
         "note": ""
       }
@@ -60356,6 +60682,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1rru7bbJ1Is6C1eVYrWue-_fEst3ADhYT",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -61309,6 +61651,70 @@
         "pages": "",
         "doi": "",
         "url": "https://mtgibson.github.io/publication/job-market_paper/Chapter_1__Harvesting_the_Toll.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "title": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "authors": [
+          "Samyam Shrestha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Georgia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence (AI) and Agricultural Employment",
+        "title": "Artificial Intelligence (AI) and Agricultural Employment",
+        "authors": [
+          "Fernando Brito"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Florida, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://phd-fernando.github.io/AJAE_AI_Emp_SUBMITTED_09.21.25.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Acquiring to Hire: Team Complementarity and Innovation",
+        "title": "Acquiring to Hire: Team Complementarity and Innovation",
+        "authors": [
+          "Zunda Winston Xu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Stanford GSB, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
         "verified": true,
         "note": ""
       }
@@ -66898,6 +67304,22 @@
         "url": "https://mk90171.github.io/committee-drafts/jmp-draft.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69134,6 +69556,38 @@
         "url": "https://mtgibson.github.io/publication/job-market_paper/Chapter_1__Harvesting_the_Toll.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence (AI) and Agricultural Employment",
+        "title": "Artificial Intelligence (AI) and Agricultural Employment",
+        "authors": [
+          "Fernando Brito"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Florida, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://phd-fernando.github.io/AJAE_AI_Emp_SUBMITTED_09.21.25.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -70772,6 +71226,22 @@
         "url": "https://dizhiwang.github.io/files/JMP_latest.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "title": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "authors": [
+          "Lauren Mostrom"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Chicago Booth, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/cion4ps5i8xlrzqzjicot/Mostrom_JMP_SCRM.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -71543,6 +72013,22 @@
         "pages": "",
         "doi": "",
         "url": "https://jie-song.github.io/assets/papers/municipal_incorporation_song.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Property Tax Protection and Municipal Bond Valuation",
+        "title": "Property Tax Protection and Municipal Bond Valuation",
+        "authors": [
+          "Yunjoo An"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
         "verified": true,
         "note": ""
       }
@@ -89596,6 +90082,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1Em7Ew5UMxJzH1km-8kJisuamjbCuzJfX",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Property Tax Protection and Municipal Bond Valuation",
+        "title": "Property Tax Protection and Municipal Bond Valuation",
+        "authors": [
+          "Yunjoo An"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -91534,6 +92036,22 @@
         "url": "https://www.dropbox.com/scl/fi/zcjmh3i8c9y33iux3thyq/CRE_banking_mortgage.pdf?rlkey=tp0liwj318o1ty0gb6181jdap&dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Acquiring to Hire: Team Complementarity and Innovation",
+        "title": "Acquiring to Hire: Team Complementarity and Innovation",
+        "authors": [
+          "Zunda Winston Xu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Stanford GSB, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92912,6 +93430,22 @@
         "url": "https://econdavidhall.com/papers/Hall_JMP_v1.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "",
+        "title": "",
+        "authors": [
+          "Md Roknuzzaman"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Florida, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://ageconsearch.umn.edu/record/404558/files/177568_199009_115232_2026AAEA_manuscript_DS.pdf?version=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -93093,6 +93627,22 @@
         "pages": "",
         "doi": "",
         "url": "https://kjonesecon.com/files/EEE_property_tax_str_final.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Property Tax Protection and Municipal Bond Valuation",
+        "title": "Property Tax Protection and Municipal Bond Valuation",
+        "authors": [
+          "Yunjoo An"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
         "verified": true,
         "note": ""
       }
@@ -96710,6 +97260,22 @@
         "url": "https://cadewhite.co/papers/jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "title": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "authors": [
+          "Samyam Shrestha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Georgia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99213,6 +99779,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1fQcrCORresikEu4-iOwKTa-GGn9EAlJ5",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Compliance Spillovers and the Limits of Free-Entry Neutrality",
+        "title": "Compliance Spillovers and the Limits of Free-Entry Neutrality",
+        "authors": [
+          "Vishavdeep Sharma"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://vishavdeepsharma.com/assets/jmp.pdf",
         "verified": true,
         "note": ""
       }
@@ -106963,6 +107545,44 @@
         "pages": "",
         "doi": "",
         "url": "https://aponce6.github.io/assets/papers/birds_and_water_draft.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.6.97",
+    "title": "NOAA 国家数据浮标中心观测数据（National Data Buoy Center，NDBC）",
+    "links": [
+      {
+        "label": "NOAA NDBC",
+        "url": "https://www.ndbc.noaa.gov/"
+      }
+    ],
+    "summary": "美国国家海洋和大气管理局（NOAA）国家数据浮标中心运营的海洋浮标与沿岸站网络观测数据，1970 年代以来逐时报告风速风向、浪高、波周期、气压、气温和海表温度，覆盖美国沿海、五大湖和部分远海，历史数据公开下载。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "这是美国沿海海况和海上天气的主要实测数据。研究常用它度量出海天气条件，分析渔业作业、航运和海上风电。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "How Spillovers Erode Participation in Conservation Buybacks: Evidence from the Texas Inshore Shrimp Fishery",
+        "title": "How Spillovers Erode Participation in Conservation Buybacks: Evidence from the Texas Inshore Shrimp Fishery",
+        "authors": [
+          "D. Eric Belleville Jr."
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://ericbelle96.github.io/Job_Market_Paper.pdf",
         "verified": true,
         "note": ""
       }
@@ -119057,6 +119677,22 @@
         "url": "https://camillewixon.com/files/Wixon_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+        "title": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+        "authors": [
+          "Qianfan Wu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1ChKbyr2Yiw5aAVMRXxMYSYX9Tbisbtdn",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -120052,6 +120688,22 @@
         "pages": "",
         "doi": "",
         "url": "https://mk90171.github.io/committee-drafts/jmp-draft.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+        "title": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+        "authors": [
+          "Qianfan Wu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1ChKbyr2Yiw5aAVMRXxMYSYX9Tbisbtdn",
         "verified": true,
         "note": ""
       }
@@ -125495,6 +126147,22 @@
         "url": "https://mtgibson.github.io/publication/job-market_paper/Chapter_1__Harvesting_the_Toll.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+        "title": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+        "authors": [
+          "Qianfan Wu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1ChKbyr2Yiw5aAVMRXxMYSYX9Tbisbtdn",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -130421,6 +131089,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1fQcrCORresikEu4-iOwKTa-GGn9EAlJ5",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -132622,6 +133306,22 @@
         "pages": "",
         "doi": "",
         "url": "https://dizhiwang.github.io/files/JMP_latest.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "title": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "authors": [
+          "Samyam Shrestha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Georgia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf",
         "verified": true,
         "note": ""
       }
@@ -137102,6 +137802,22 @@
         "pages": "",
         "doi": "10.3386/w33904",
         "url": "https://doi.org/10.3386/w33904",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "title": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "authors": [
+          "Samyam Shrestha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Georgia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf",
         "verified": true,
         "note": ""
       }
@@ -143809,6 +144525,22 @@
         "url": "https://davidbryanwilson.com/wp-content/uploads/2026/10/jmp_wilson_david-4.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -143912,6 +144644,22 @@
         "pages": "",
         "doi": "",
         "url": "https://lucesprabens.github.io/assets/files/main_draft.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
         "verified": true,
         "note": ""
       }
@@ -144623,6 +145371,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/zcjmh3i8c9y33iux3thyq/CRE_banking_mortgage.pdf?rlkey=tp0liwj318o1ty0gb6181jdap&dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
         "verified": true,
         "note": ""
       }
@@ -145897,6 +146661,22 @@
         "url": "https://dochoiecon.github.io/Papers/Choi_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -146262,6 +147042,22 @@
         "pages": "",
         "doi": "",
         "url": "https://dochoiecon.github.io/Papers/Choi_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
         "verified": true,
         "note": ""
       }
@@ -149135,6 +149931,22 @@
         "pages": "",
         "doi": "",
         "url": "https://jhaklee.github.io/papers/jmp-latest.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "title": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "authors": [
+          "Lauren Mostrom"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Chicago Booth, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/cion4ps5i8xlrzqzjicot/Mostrom_JMP_SCRM.pdf",
         "verified": true,
         "note": ""
       }
@@ -152893,6 +153705,38 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=11zpMP5TmNGkAPTgpHQSvtRcRhEcAskOW",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Spillovers Erode Participation in Conservation Buybacks: Evidence from the Texas Inshore Shrimp Fishery",
+        "title": "How Spillovers Erode Participation in Conservation Buybacks: Evidence from the Texas Inshore Shrimp Fishery",
+        "authors": [
+          "D. Eric Belleville Jr."
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://ericbelle96.github.io/Job_Market_Paper.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "title": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "authors": [
+          "Lauren Mostrom"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Chicago Booth, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/cion4ps5i8xlrzqzjicot/Mostrom_JMP_SCRM.pdf",
         "verified": true,
         "note": ""
       }
@@ -158001,6 +158845,54 @@
         "url": "https://edturri.github.io/pdfs/Turri_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Compliance Spillovers and the Limits of Free-Entry Neutrality",
+        "title": "Compliance Spillovers and the Limits of Free-Entry Neutrality",
+        "authors": [
+          "Vishavdeep Sharma"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://vishavdeepsharma.com/assets/jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Value of Acquisition Capacity",
+        "title": "The Value of Acquisition Capacity",
+        "authors": [
+          "Benjamin David"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Wharton, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1wSmIro1M7yos-ns2pgdWPdSWgg6IBtg_",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "title": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "authors": [
+          "Lauren Mostrom"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Chicago Booth, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/cion4ps5i8xlrzqzjicot/Mostrom_JMP_SCRM.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -160412,6 +161304,22 @@
         "pages": "",
         "doi": "",
         "url": "https://edturri.github.io/pdfs/Turri_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Value of Acquisition Capacity",
+        "title": "The Value of Acquisition Capacity",
+        "authors": [
+          "Benjamin David"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Wharton, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1wSmIro1M7yos-ns2pgdWPdSWgg6IBtg_",
         "verified": true,
         "note": ""
       }
@@ -163898,6 +164806,22 @@
         "url": "https://www.dropbox.com/scl/fi/yjapo224we7r84d51kqbp/jmp_yilun_allen_shen.pdf?dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -164060,6 +164984,22 @@
         "pages": "",
         "doi": "10.3386/w33773",
         "url": "https://doi.org/10.3386/w33773",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
         "verified": true,
         "note": ""
       }
@@ -164563,6 +165503,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/yjapo224we7r84d51kqbp/jmp_yilun_allen_shen.pdf?dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
         "verified": true,
         "note": ""
       }
@@ -165761,6 +166717,38 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/j2xe1533vejxbl0ln4hzz/Screening_versus_advertising.pdf?dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Credit Access and Retirement Savings",
+        "title": "Credit Access and Retirement Savings",
+        "authors": [
+          "Minjoo Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/dglsibqgftxxsbpecxyi1/Credit_Access_and_Retirement_Savings.pdf?rlkey=s6qvxqg0o8bm8ei02ia1m0xuy&dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Missing Homeowners: Never Entered or Early Exit?",
+        "title": "Missing Homeowners: Never Entered or Early Exit?",
+        "authors": [
+          "Prateek Mahajan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
         "verified": true,
         "note": ""
       }
@@ -168611,6 +169599,22 @@
         "pages": "",
         "doi": "10.3386/w32184",
         "url": "https://doi.org/10.3386/w32184",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "title": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "authors": [
+          "Lauren Mostrom"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Chicago Booth, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/cion4ps5i8xlrzqzjicot/Mostrom_JMP_SCRM.pdf",
         "verified": true,
         "note": ""
       }
@@ -171790,6 +172794,22 @@
         "url": "https://raw.githubusercontent.com/VladislavAbramovTAMU/Research/main/JMP/JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Property Tax Protection and Municipal Bond Valuation",
+        "title": "Property Tax Protection and Municipal Bond Valuation",
+        "authors": [
+          "Yunjoo An"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172711,6 +173731,22 @@
         "url": "https://doi.org/10.3386/w33472",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Property Tax Protection and Municipal Bond Valuation",
+        "title": "Property Tax Protection and Municipal Bond Valuation",
+        "authors": [
+          "Yunjoo An"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -173163,6 +174199,22 @@
         "pages": "",
         "doi": "10.3386/w33413",
         "url": "https://doi.org/10.3386/w33413",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Property Tax Protection and Municipal Bond Valuation",
+        "title": "Property Tax Protection and Municipal Bond Valuation",
+        "authors": [
+          "Yunjoo An"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
         "verified": true,
         "note": ""
       }
@@ -178000,6 +179052,38 @@
         "url": "https://drive.google.com/uc?export=download&id=1-7-UicJ1npoLW9X93H77pHDhGLA49IbT",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Value of Acquisition Capacity",
+        "title": "The Value of Acquisition Capacity",
+        "authors": [
+          "Benjamin David"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Wharton, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1wSmIro1M7yos-ns2pgdWPdSWgg6IBtg_",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Acquiring to Hire: Team Complementarity and Innovation",
+        "title": "Acquiring to Hire: Team Complementarity and Innovation",
+        "authors": [
+          "Zunda Winston Xu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Stanford GSB, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -180291,6 +181375,22 @@
         "url": "https://doi.org/10.3386/w33536",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence (AI) and Agricultural Employment",
+        "title": "Artificial Intelligence (AI) and Agricultural Employment",
+        "authors": [
+          "Fernando Brito"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Florida, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://phd-fernando.github.io/AJAE_AI_Emp_SUBMITTED_09.21.25.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -180661,6 +181761,44 @@
         "pages": "",
         "doi": "",
         "url": "https://maximilianomachado.github.io/jmp_Machado.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.51",
+    "title": "美联储小企业信贷调查（Small Business Credit Survey，SBCS）",
+    "links": [
+      {
+        "label": "Fed Small Business: Small Business Credit Survey",
+        "url": "https://www.fedsmallbusiness.org/survey"
+      }
+    ],
+    "summary": "美国各地区联邦储备银行自 2014 年起联合开展的年度小企业调查，每年约 1 万家员工少于 500 人的企业，记录财务状况、融资需求、贷款申请与审批结果、贷款来源和经营挑战，按企业特征和地区发布报告，汇总数据公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "金融数据"
+    ],
+    "introduction": "这是美国小企业融资状况的主要调查。研究常用它度量小企业信贷可得性，分析银行贷款、疫情冲击和政策援助。",
+    "source": "公开下载（汇总数据）。",
+    "references": [
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
         "verified": true,
         "note": ""
       }
@@ -181232,6 +182370,22 @@
         "pages": "",
         "doi": "",
         "url": "https://mtgibson.github.io/publication/job-market_paper/Chapter_1__Harvesting_the_Toll.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "title": "Trade Effects of Immigration Enforcement: Evidence from U.S. Labor-Intensive Agriculture",
+        "authors": [
+          "Samyam Shrestha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Georgia, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://shsamyam.github.io/files/Trade_Effects_Immigration_Enforcement.pdf",
         "verified": true,
         "note": ""
       }
@@ -185404,6 +186558,22 @@
         "pages": "",
         "doi": "",
         "url": "https://pietro-pellerito.github.io/pellerito_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Property Tax Protection and Municipal Bond Valuation",
+        "title": "Property Tax Protection and Municipal Bond Valuation",
+        "authors": [
+          "Yunjoo An"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
         "verified": true,
         "note": ""
       }
@@ -200975,6 +202145,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1S2AmDuXyz_Mc6lX09ahA1JrmlKBsf-pm",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temporary Liquidity and Firm Investment: The Large Effects of Corporate Loan Moratorium in a Time of Crisis",
+        "title": "Temporary Liquidity and Firm Investment: The Large Effects of Corporate Loan Moratorium in a Time of Crisis",
+        "authors": [
+          "Giuditta Perinelli"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (MIT Sloan, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://gperinelli.github.io/jmp_perinelli.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -211055,6 +212241,22 @@
         "url": "https://marcobellifemine.com/papers/jmp_bellifemine.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temporary Liquidity and Firm Investment: The Large Effects of Corporate Loan Moratorium in a Time of Crisis",
+        "title": "Temporary Liquidity and Firm Investment: The Large Effects of Corporate Loan Moratorium in a Time of Crisis",
+        "authors": [
+          "Giuditta Perinelli"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (MIT Sloan, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://gperinelli.github.io/jmp_perinelli.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -216337,6 +217539,22 @@
         "url": "https://www.dropbox.com/scl/fi/wngam0tfddly3i4670byh/Kekre_JMP.pdf?rlkey=28taues293ckd5za8gbahqlrt&dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Have you ever seen the rain? Effect of rainfall shocks on agricultural wages in India",
+        "title": "Have you ever seen the rain? Effect of rainfall shocks on agricultural wages in India",
+        "authors": [
+          "Roshan Saha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Auburn, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://spaces-cdn.owlstown.com/blobs/968ro2l330tz9la553nk0kuef2ck",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -220357,6 +221575,22 @@
         "url": "https://drive.google.com/file/d/1iDX8D-oc-Q5tuSS7oihSn8OX44aYHxG0/preview",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Have you ever seen the rain? Effect of rainfall shocks on agricultural wages in India",
+        "title": "Have you ever seen the rain? Effect of rainfall shocks on agricultural wages in India",
+        "authors": [
+          "Roshan Saha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Auburn, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://spaces-cdn.owlstown.com/blobs/968ro2l330tz9la553nk0kuef2ck",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -222399,6 +223633,22 @@
         "url": "https://drishanbanerjee.github.io/DrishanBanerjeeJMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Have you ever seen the rain? Effect of rainfall shocks on agricultural wages in India",
+        "title": "Have you ever seen the rain? Effect of rainfall shocks on agricultural wages in India",
+        "authors": [
+          "Roshan Saha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Auburn, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://spaces-cdn.owlstown.com/blobs/968ro2l330tz9la553nk0kuef2ck",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -222801,6 +224051,22 @@
         "pages": "",
         "doi": "",
         "url": "https://ameeksingh.com/papers/learning-by-doing-at-home.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Have you ever seen the rain? Effect of rainfall shocks on agricultural wages in India",
+        "title": "Have you ever seen the rain? Effect of rainfall shocks on agricultural wages in India",
+        "authors": [
+          "Roshan Saha"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Auburn, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://spaces-cdn.owlstown.com/blobs/968ro2l330tz9la553nk0kuef2ck",
         "verified": true,
         "note": ""
       }
@@ -234641,6 +235907,22 @@
         "url": "https://eduardvandermerwe.com/assets/Publications/Van_der_Merwe_JMP_PATC.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "title": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "authors": [
+          "Xufeng Liu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://xufengliu.com/Files/Papers/JMP_Liu_Hu_NigeriaFuelSubsidy_LATEST.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -235826,6 +237108,43 @@
         "pages": "",
         "doi": "",
         "url": "https://xavier-tierney.github.io/files/Tierney_JMP.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "6.4.5",
+    "title": "尼日利亚国家统计局统计数据（含价格监测与 CPI）",
+    "links": [
+      {
+        "label": "Nigeria National Bureau of Statistics",
+        "url": "https://nigerianstat.gov.ng/"
+      }
+    ],
+    "summary": "尼日利亚国家统计局（NBS）发布的官方统计，包括按州和产品报告的月度消费者物价指数（含食品 CPI）、汽油和柴油等燃料价格监测、交通票价监测、劳动力和 GDP 统计，报告和数据表经 NBS 网站公开下载。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是尼日利亚物价和宏观统计的官方来源。研究常用它度量尼日利亚各州燃料与食品价格变化，分析燃料补贴改革的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "title": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "authors": [
+          "Xufeng Liu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://xufengliu.com/Files/Papers/JMP_Liu_Hu_NigeriaFuelSubsidy_LATEST.pdf",
         "verified": true,
         "note": ""
       }
@@ -242089,6 +243408,22 @@
         "url": "https://ameeksingh.com/papers/learning-by-doing-at-home.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "title": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "authors": [
+          "Xufeng Liu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://xufengliu.com/Files/Papers/JMP_Liu_Hu_NigeriaFuelSubsidy_LATEST.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -242324,6 +243659,22 @@
         "pages": "",
         "doi": "",
         "url": "https://hosamibrahim.com/wp-content/uploads/2025/11/ibrahim-job-market-paper.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "title": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "authors": [
+          "Xufeng Liu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://xufengliu.com/Files/Papers/JMP_Liu_Hu_NigeriaFuelSubsidy_LATEST.pdf",
         "verified": true,
         "note": ""
       }
@@ -249715,6 +251066,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1T1HKw18cJ8IRrs9fpLKe6OQ0QwDSQx1B",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "title": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "authors": [
+          "Deepak Kumar"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Virginia Tech, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/ygsdjj2vl7blnndnu6g1h/JobMarketPaper.pdf?rlkey=9zvf57vbkb81vdh8wo8qv347x&st=isnnlrtu&raw=1",
         "verified": true,
         "note": ""
       }
@@ -262547,6 +263914,44 @@
     ]
   },
   {
+    "id": "7.4.83",
+    "title": "NASA Black Marble 夜间灯光产品（VNP46）",
+    "links": [
+      {
+        "label": "NASA Black Marble",
+        "url": "https://blackmarble.gsfc.nasa.gov/"
+      }
+    ],
+    "summary": "NASA 基于 Suomi-NPP 卫星 VIIRS 日夜波段制作的夜间灯光产品系列，2012 年以来提供 15 弧秒（约 500 米）分辨率的逐日（VNP46A1/A2）、逐月（A3）和逐年（A4）灯光辐亮度，经过月光、大气、积雪和云的校正，经 NASA LAADS DAAC 公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "地理数据"
+    ],
+    "introduction": "这是逐日夜间灯光的标准卫星产品。研究常用它度量停电、灾害冲击和高频经济活动变化。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "title": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "authors": [
+          "Deepak Kumar"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Virginia Tech, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/ygsdjj2vl7blnndnu6g1h/JobMarketPaper.pdf?rlkey=9zvf57vbkb81vdh8wo8qv347x&st=isnnlrtu&raw=1",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.5.1",
     "title": "全球土地变化 1982–2016（Song 等）",
     "links": [],
@@ -263216,6 +264621,22 @@
         "pages": "",
         "doi": "",
         "url": "https://github.com/xabajian/JMP/raw/main/JMP_Abajian.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "title": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "authors": [
+          "Deepak Kumar"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Virginia Tech, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/ygsdjj2vl7blnndnu6g1h/JobMarketPaper.pdf?rlkey=9zvf57vbkb81vdh8wo8qv347x&st=isnnlrtu&raw=1",
         "verified": true,
         "note": ""
       }
@@ -272456,6 +273877,22 @@
         "url": "https://doi.org/10.3386/w33126",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "title": "Fueling frictions: how does Nigeria fuel subsidy removal reshape healthcare access",
+        "authors": [
+          "Xufeng Liu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://xufengliu.com/Files/Papers/JMP_Liu_Hu_NigeriaFuelSubsidy_LATEST.pdf",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -274322,6 +275759,22 @@
         "url": "https://doi.org/10.3386/w33106",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "title": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "authors": [
+          "Deepak Kumar"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Virginia Tech, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/ygsdjj2vl7blnndnu6g1h/JobMarketPaper.pdf?rlkey=9zvf57vbkb81vdh8wo8qv347x&st=isnnlrtu&raw=1",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -274602,6 +276055,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1Rf8bCX-R5-0y2Aa-EHJRyiGSCUCdwzLB",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "title": "Weaker Typhoons, Not Weak Effects: Local Economic Impacts of Low-Intensity Storms",
+        "authors": [
+          "Deepak Kumar"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Virginia Tech, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/ygsdjj2vl7blnndnu6g1h/JobMarketPaper.pdf?rlkey=9zvf57vbkb81vdh8wo8qv347x&st=isnnlrtu&raw=1",
         "verified": true,
         "note": ""
       }
@@ -290695,6 +292164,22 @@
         "url": "https://files.paulapatzelt.com/JMP_Patzelt.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Property Tax Protection and Municipal Bond Valuation",
+        "title": "Property Tax Protection and Municipal Bond Valuation",
+        "authors": [
+          "Yunjoo An"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Indiana Kelley, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -291669,6 +293154,22 @@
         "pages": "",
         "doi": "10.3386/w33810",
         "url": "https://doi.org/10.3386/w33810",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Credit Access and Retirement Savings",
+        "title": "Credit Access and Retirement Savings",
+        "authors": [
+          "Minjoo Kim"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (UT Austin McCombs, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/dglsibqgftxxsbpecxyi1/Credit_Access_and_Retirement_Savings.pdf?rlkey=s6qvxqg0o8bm8ei02ia1m0xuy&dl=1",
         "verified": true,
         "note": ""
       }
@@ -293696,6 +295197,22 @@
         "url": "https://daltonzzz.github.io/research-papers/asset-market-channel.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Value of Acquisition Capacity",
+        "title": "The Value of Acquisition Capacity",
+        "authors": [
+          "Benjamin David"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Wharton, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1wSmIro1M7yos-ns2pgdWPdSWgg6IBtg_",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -295033,6 +296550,22 @@
         "pages": "",
         "doi": "",
         "url": "https://sites.harvard.edu/beatrice-ferrario/files/2026/11/JMP_BeatriceFerrario.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Value of Acquisition Capacity",
+        "title": "The Value of Acquisition Capacity",
+        "authors": [
+          "Benjamin David"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Wharton, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1wSmIro1M7yos-ns2pgdWPdSWgg6IBtg_",
         "verified": true,
         "note": ""
       }
@@ -297878,6 +299411,38 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1FMCt-uzbXkQlw2behapl9unKzkJ70VrS",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Value of Acquisition Capacity",
+        "title": "The Value of Acquisition Capacity",
+        "authors": [
+          "Benjamin David"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Wharton, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1wSmIro1M7yos-ns2pgdWPdSWgg6IBtg_",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Acquiring to Hire: Team Complementarity and Innovation",
+        "title": "Acquiring to Hire: Team Complementarity and Innovation",
+        "authors": [
+          "Zunda Winston Xu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Stanford GSB, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
         "verified": true,
         "note": ""
       }
@@ -304306,6 +305871,38 @@
         "url": "https://minahkim-econ.github.io/MinahKim_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Artificial Intelligence (AI) and Agricultural Employment",
+        "title": "Artificial Intelligence (AI) and Agricultural Employment",
+        "authors": [
+          "Fernando Brito"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Florida, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://phd-fernando.github.io/AJAE_AI_Emp_SUBMITTED_09.21.25.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Acquiring to Hire: Team Complementarity and Innovation",
+        "title": "Acquiring to Hire: Team Complementarity and Innovation",
+        "authors": [
+          "Zunda Winston Xu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Stanford GSB, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -307348,6 +308945,38 @@
         "url": "https://saichriszhang.github.io/files/JMP_SaiZhang.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "title": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+        "authors": [
+          "Lauren Mostrom"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Chicago Booth, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://www.dropbox.com/scl/fi/cion4ps5i8xlrzqzjicot/Mostrom_JMP_SCRM.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Acquiring to Hire: Team Complementarity and Innovation",
+        "title": "Acquiring to Hire: Team Complementarity and Innovation",
+        "authors": [
+          "Zunda Winston Xu"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Stanford GSB, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -309107,6 +310736,44 @@
         "pages": "",
         "doi": "",
         "url": "https://forte-papers.forteg100.workers.dev/Forte_JMP_OnlineRatings.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.72",
+    "title": "Conway Projects 企业投资项目数据库",
+    "links": [
+      {
+        "label": "Conway Projects",
+        "url": "https://conway.com/projects"
+      }
+    ],
+    "summary": "Conway 公司（《Site Selection》杂志出版方）维护的企业新建与扩建投资项目数据库，1980 年代以来记录全球公开宣布的工厂、总部、数据中心等设施投资项目的企业、行业、地点、投资额、新增就业和激励措施，经订阅访问。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是追踪企业设施投资选址的主要商业数据。研究常用它度量地方新增企业投资，分析招商激励、补贴和产业政策的效果。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "title": "The Role of Access to Community Bank Capital in Place-Based Policies",
+        "authors": [
+          "Alex Ryan"
+        ],
+        "year": 2026,
+        "journal": "Job Market Paper (Ohio State, 2026–27)",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://alexanderryan.site/Ryan_JMP_Draft.pdf",
         "verified": true,
         "note": ""
       }
