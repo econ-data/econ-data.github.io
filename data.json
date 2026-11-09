@@ -21080,6 +21080,41 @@
         "url": "https://doi.org/10.1162/rest_a_01106",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Urbanization on Air Pollution Damage",
+        "title": "The Effect of Urbanization on Air Pollution Damage",
+        "authors": [
+          "Hao Deng",
+          "Robert Mendelsohn"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXR1WU",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Toxic Truth: Lead and Fertility",
+        "title": "Toxic Truth: Lead and Fertility",
+        "authors": [
+          "Karen Clay",
+          "Margarita Portnykh",
+          "Edson Severnini"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "5",
+        "pages": "975-1012",
+        "doi": "10.1086/714351",
+        "url": "https://doi.org/10.1086/714351",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37490,6 +37525,24 @@
         "url": "https://doi.org/10.1162/rest_a_01083",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local Effects of Large New Apartment Buildings in Low-Income Areas",
+        "title": "Local Effects of Large New Apartment Buildings in Low-Income Areas",
+        "authors": [
+          "Brian J. Asquith",
+          "Evan Mast",
+          "Davin Reed"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "359-375",
+        "doi": "10.1162/rest_a_01055",
+        "url": "https://doi.org/10.1162/rest_a_01055",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -44203,6 +44256,24 @@
         "pages": "1901-1962",
         "doi": "10.1093/qje/qjac005",
         "url": "https://doi.org/10.1093/qje/qjac005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "title": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "authors": [
+          "Benjamin Leard",
+          "Joshua Linn",
+          "Yichen Christy Zhou"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "158-174",
+        "doi": "10.1162/rest_a_01045",
+        "url": "https://doi.org/10.1162/rest_a_01045",
         "verified": true,
         "note": ""
       }
@@ -56837,6 +56908,25 @@
         "url": "https://doi.org/10.1162/rest_a_01196",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Macroeconomic Conditions When Young Shape Job Preferences for Life",
+        "title": "Macroeconomic Conditions When Young Shape Job Preferences for Life",
+        "authors": [
+          "Maria Cotofan",
+          "Lea Cassar",
+          "Robert Dur",
+          "Stephan Meier"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "467-473",
+        "doi": "10.1162/rest_a_01057",
+        "url": "https://doi.org/10.1162/rest_a_01057",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -67895,6 +67985,22 @@
         "pages": "864-871",
         "doi": "10.1162/rest_a_01374",
         "url": "https://doi.org/10.1162/rest_a_01374",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "University Innovation and Local Economic Growth",
+        "title": "University Innovation and Local Economic Growth",
+        "authors": [
+          "Naomi Hausman"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "718-735",
+        "doi": "10.1162/rest_a_01027",
+        "url": "https://doi.org/10.1162/rest_a_01027",
         "verified": true,
         "note": ""
       }
@@ -81870,6 +81976,43 @@
         "url": "https://doi.org/10.1162/rest_a_01083",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Macroeconomic Conditions When Young Shape Job Preferences for Life",
+        "title": "Macroeconomic Conditions When Young Shape Job Preferences for Life",
+        "authors": [
+          "Maria Cotofan",
+          "Lea Cassar",
+          "Robert Dur",
+          "Stephan Meier"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "467-473",
+        "doi": "10.1162/rest_a_01057",
+        "url": "https://doi.org/10.1162/rest_a_01057",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Toxic Truth: Lead and Fertility",
+        "title": "Toxic Truth: Lead and Fertility",
+        "authors": [
+          "Karen Clay",
+          "Margarita Portnykh",
+          "Edson Severnini"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "5",
+        "pages": "975-1012",
+        "doi": "10.1086/714351",
+        "url": "https://doi.org/10.1086/714351",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -87834,6 +87977,23 @@
         "pages": "562-579",
         "doi": "10.1162/rest_a_01083",
         "url": "https://doi.org/10.1162/rest_a_01083",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Model of Endogenous Risk Intolerance and LSAPs: Asset Prices and Aggregate Demand in a \"Covid-19\" Shock?",
+        "title": "A Model of Endogenous Risk Intolerance and LSAPs: Asset Prices and Aggregate Demand in a \"Covid-19\" Shock?",
+        "authors": [
+          "Ricardo J Caballero",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "34",
+        "issue": "11",
+        "pages": "5522-5580",
+        "doi": "10.1093/rfs/hhab036",
+        "url": "https://doi.org/10.1093/rfs/hhab036",
         "verified": true,
         "note": ""
       }
@@ -97715,6 +97875,25 @@
         "pages": "307-343",
         "doi": "10.1086/716765",
         "url": "https://doi.org/10.1086/716765",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Macroeconomic Conditions When Young Shape Job Preferences for Life",
+        "title": "Macroeconomic Conditions When Young Shape Job Preferences for Life",
+        "authors": [
+          "Maria Cotofan",
+          "Lea Cassar",
+          "Robert Dur",
+          "Stephan Meier"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "467-473",
+        "doi": "10.1162/rest_a_01057",
+        "url": "https://doi.org/10.1162/rest_a_01057",
         "verified": true,
         "note": ""
       }
@@ -114151,6 +114330,23 @@
         "url": "https://doi.org/10.1086/742967",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Urbanization on Air Pollution Damage",
+        "title": "The Effect of Urbanization on Air Pollution Damage",
+        "authors": [
+          "Hao Deng",
+          "Robert Mendelsohn"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXR1WU",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -115638,6 +115834,24 @@
         "pages": "1393-1402",
         "doi": "10.1162/rest_a_01239",
         "url": "https://doi.org/10.1162/rest_a_01239",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Toxic Truth: Lead and Fertility",
+        "title": "Toxic Truth: Lead and Fertility",
+        "authors": [
+          "Karen Clay",
+          "Margarita Portnykh",
+          "Edson Severnini"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "5",
+        "pages": "975-1012",
+        "doi": "10.1086/714351",
+        "url": "https://doi.org/10.1086/714351",
         "verified": true,
         "note": ""
       }
@@ -117563,6 +117777,24 @@
         "pages": "447-486",
         "doi": "10.1086/721430",
         "url": "https://doi.org/10.1086/721430",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Toxic Truth: Lead and Fertility",
+        "title": "Toxic Truth: Lead and Fertility",
+        "authors": [
+          "Karen Clay",
+          "Margarita Portnykh",
+          "Edson Severnini"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "5",
+        "pages": "975-1012",
+        "doi": "10.1086/714351",
+        "url": "https://doi.org/10.1086/714351",
         "verified": true,
         "note": ""
       }
@@ -120141,6 +120373,23 @@
         "url": "https://doi.org/10.1086/730868",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Urbanization on Air Pollution Damage",
+        "title": "The Effect of Urbanization on Air Pollution Damage",
+        "authors": [
+          "Hao Deng",
+          "Robert Mendelsohn"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXR1WU",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -121127,6 +121376,25 @@
         "url": "https://doi.org/10.1086/732195",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "title": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "authors": [
+          "Steven Sexton",
+          "A. Justin Kirkpatrick",
+          "Robert I. Harris",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "6",
+        "pages": "1209-1244",
+        "doi": "10.1086/714970",
+        "url": "https://doi.org/10.1086/714970",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -121593,6 +121861,25 @@
         "pages": "307-343",
         "doi": "10.1086/716765",
         "url": "https://doi.org/10.1086/716765",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "title": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "authors": [
+          "Steven Sexton",
+          "A. Justin Kirkpatrick",
+          "Robert I. Harris",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "6",
+        "pages": "1209-1244",
+        "doi": "10.1086/714970",
+        "url": "https://doi.org/10.1086/714970",
         "verified": true,
         "note": ""
       }
@@ -124584,6 +124871,23 @@
         "url": "https://doi.org/10.1086/716700",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pass-Through of Own and Rival Cost Shocks: Evidence from the U.S. Fracking Boom",
+        "title": "Pass-Through of Own and Rival Cost Shocks: Evidence from the U.S. Fracking Boom",
+        "authors": [
+          "Erich Muehlegger",
+          "Richard L. Sweeney"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1361-1369",
+        "doi": "10.1162/rest_a_01052",
+        "url": "https://doi.org/10.1162/rest_a_01052",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -124756,6 +125060,26 @@
         "pages": "3132–3166",
         "doi": "10.1086/737236",
         "url": "https://doi.org/10.1086/737236",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate Change and Long-Run Discount Rates: Evidence from Real Estate",
+        "title": "Climate Change and Long-Run Discount Rates: Evidence from Real Estate",
+        "authors": [
+          "Stefano Giglio",
+          "Matteo Maggiori",
+          "Krishna Rao",
+          "Johannes Stroebel",
+          "Andreas Weber"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "34",
+        "issue": "8",
+        "pages": "3527-3571",
+        "doi": "10.1093/rfs/hhab032",
+        "url": "https://doi.org/10.1093/rfs/hhab032",
         "verified": true,
         "note": ""
       }
@@ -130526,6 +130850,25 @@
         "url": "https://doi.org/10.3386/w32995",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "title": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "authors": [
+          "Steven Sexton",
+          "A. Justin Kirkpatrick",
+          "Robert I. Harris",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "6",
+        "pages": "1209-1244",
+        "doi": "10.1086/714970",
+        "url": "https://doi.org/10.1086/714970",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -132242,6 +132585,24 @@
         "url": "https://doi.org/10.1086/721374",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "title": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "authors": [
+          "Benjamin Leard",
+          "Joshua Linn",
+          "Yichen Christy Zhou"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "158-174",
+        "doi": "10.1162/rest_a_01045",
+        "url": "https://doi.org/10.1162/rest_a_01045",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -133561,6 +133922,58 @@
         "pages": "948-961",
         "doi": "10.1162/rest_a_01118",
         "url": "https://doi.org/10.1162/rest_a_01118",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "title": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "authors": [
+          "Benjamin Leard",
+          "Joshua Linn",
+          "Yichen Christy Zhou"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "158-174",
+        "doi": "10.1162/rest_a_01045",
+        "url": "https://doi.org/10.1162/rest_a_01045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pass-Through of Own and Rival Cost Shocks: Evidence from the U.S. Fracking Boom",
+        "title": "Pass-Through of Own and Rival Cost Shocks: Evidence from the U.S. Fracking Boom",
+        "authors": [
+          "Erich Muehlegger",
+          "Richard L. Sweeney"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1361-1369",
+        "doi": "10.1162/rest_a_01052",
+        "url": "https://doi.org/10.1162/rest_a_01052",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exchange Rate Shocks and Quality Adjustments",
+        "title": "Exchange Rate Shocks and Quality Adjustments",
+        "authors": [
+          "Daniel Goetz",
+          "Alexander Rodnyansky"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "86-100",
+        "doi": "10.1162/rest_a_01030",
+        "url": "https://doi.org/10.1162/rest_a_01030",
         "verified": true,
         "note": ""
       }
@@ -136241,6 +136654,25 @@
         "url": "https://doi.org/10.1086/731514",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "title": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "authors": [
+          "Steven Sexton",
+          "A. Justin Kirkpatrick",
+          "Robert I. Harris",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "6",
+        "pages": "1209-1244",
+        "doi": "10.1086/714970",
+        "url": "https://doi.org/10.1086/714970",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -137491,6 +137923,25 @@
         "url": "https://doi.org/10.1086/731514",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "title": "Heterogeneous Solar Capacity Benefits, Appropriability, and the Costs of Suboptimal Siting",
+        "authors": [
+          "Steven Sexton",
+          "A. Justin Kirkpatrick",
+          "Robert I. Harris",
+          "Nicholas Z. Muller"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "6",
+        "pages": "1209-1244",
+        "doi": "10.1086/714970",
+        "url": "https://doi.org/10.1086/714970",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -138676,6 +139127,44 @@
         "pages": "55-93",
         "doi": "10.1086/720952",
         "url": "https://doi.org/10.1086/720952",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.76",
+    "title": "EIA 炼油厂与石油供应保密调查（EIA-810/820/14/782）",
+    "links": [
+      {
+        "label": "EIA: Surveys",
+        "url": "https://www.eia.gov/survey/"
+      }
+    ],
+    "summary": "美国能源信息署（EIA）石油供应调查体系中的炼油厂层面表格：EIA-810 月度炼油报告（原油投入、产出与库存）、EIA-820 年度炼油报告（产能与原油来源）、EIA-14 炼油商月度成本报告、EIA-782A/C 炼油商成品油销售价格与量。汇总结果公开发布，企业层面数据保密，需经 EIA 合作或授权访问。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "这是美国炼油厂层面产量、成本和价格最细的数据。研究常用它分析炼油利润、原油价差传导、管道约束和燃料标准对炼油厂行为的影响。",
+    "source": "汇总统计公开；企业层面数据经 EIA 授权访问。",
+    "references": [
+      {
+        "raw": "Pass-Through of Own and Rival Cost Shocks: Evidence from the U.S. Fracking Boom",
+        "title": "Pass-Through of Own and Rival Cost Shocks: Evidence from the U.S. Fracking Boom",
+        "authors": [
+          "Erich Muehlegger",
+          "Richard L. Sweeney"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1361-1369",
+        "doi": "10.1162/rest_a_01052",
+        "url": "https://doi.org/10.1162/rest_a_01052",
         "verified": true,
         "note": ""
       }
@@ -140977,6 +141466,24 @@
         "url": "https://doi.org/10.1162/rest_a_01106",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Toxic Truth: Lead and Fertility",
+        "title": "Toxic Truth: Lead and Fertility",
+        "authors": [
+          "Karen Clay",
+          "Margarita Portnykh",
+          "Edson Severnini"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "5",
+        "pages": "975-1012",
+        "doi": "10.1086/714351",
+        "url": "https://doi.org/10.1086/714351",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -142039,6 +142546,23 @@
         "pages": "1557-1610",
         "doi": "10.1093/qje/qjab017",
         "url": "https://doi.org/10.1093/qje/qjab017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Do Consumers Consider before They Choose? Identification from Asymmetric Demand Responses",
+        "title": "What Do Consumers Consider before They Choose? Identification from Asymmetric Demand Responses",
+        "authors": [
+          "Jason Abaluck",
+          "Abi Adams-Prassl"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1611-1663",
+        "doi": "10.1093/qje/qjab008",
+        "url": "https://doi.org/10.1093/qje/qjab008",
         "verified": true,
         "note": ""
       }
@@ -146229,6 +146753,23 @@
         "pages": "1557-1610",
         "doi": "10.1093/qje/qjab017",
         "url": "https://doi.org/10.1093/qje/qjab017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Do Consumers Consider before They Choose? Identification from Asymmetric Demand Responses",
+        "title": "What Do Consumers Consider before They Choose? Identification from Asymmetric Demand Responses",
+        "authors": [
+          "Jason Abaluck",
+          "Abi Adams-Prassl"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1611-1663",
+        "doi": "10.1093/qje/qjab008",
+        "url": "https://doi.org/10.1093/qje/qjab008",
         "verified": true,
         "note": ""
       }
@@ -152748,6 +153289,24 @@
         "url": "https://eviethompson.co.uk/Thompson_Michaels_Money_Time_Children.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Toxic Truth: Lead and Fertility",
+        "title": "Toxic Truth: Lead and Fertility",
+        "authors": [
+          "Karen Clay",
+          "Margarita Portnykh",
+          "Edson Severnini"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "5",
+        "pages": "975-1012",
+        "doi": "10.1086/714351",
+        "url": "https://doi.org/10.1086/714351",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -155509,6 +156068,62 @@
         "url": "https://doi.org/10.1093/qje/qjab017",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Do Consumers Consider before They Choose? Identification from Asymmetric Demand Responses",
+        "title": "What Do Consumers Consider before They Choose? Identification from Asymmetric Demand Responses",
+        "authors": [
+          "Jason Abaluck",
+          "Abi Adams-Prassl"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1611-1663",
+        "doi": "10.1093/qje/qjab008",
+        "url": "https://doi.org/10.1093/qje/qjab008",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.138",
+    "title": "First Databank 药品数据库（FDB MedKnowledge）",
+    "links": [
+      {
+        "label": "First Databank",
+        "url": "https://www.fdbhealth.com/"
+      }
+    ],
+    "summary": "First Databank（FDB）提供的美国药品知识库，按 NDC 给出药品名称、成分、剂型、规格、治疗分类、批发采购价（WAC）与平均批发价（AWP）历史、仿制药等价关系和药物相互作用信息，商业授权获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "商业数据"
+    ],
+    "introduction": "这是美国药品属性与标价数据的主要来源之一。研究常用它为处方和理赔数据匹配药品分类与价格，分析仿制药进入、药价上涨和处方集设计。",
+    "source": "商业授权。",
+    "references": [
+      {
+        "raw": "What Do Consumers Consider before They Choose? Identification from Asymmetric Demand Responses",
+        "title": "What Do Consumers Consider before They Choose? Identification from Asymmetric Demand Responses",
+        "authors": [
+          "Jason Abaluck",
+          "Abi Adams-Prassl"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1611-1663",
+        "doi": "10.1093/qje/qjab008",
+        "url": "https://doi.org/10.1093/qje/qjab008",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -157905,6 +158520,24 @@
         "url": "https://doi.org/10.7910/DVN/QGOGEE",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "title": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "authors": [
+          "Benjamin Leard",
+          "Joshua Linn",
+          "Yichen Christy Zhou"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "158-174",
+        "doi": "10.1162/rest_a_01045",
+        "url": "https://doi.org/10.1162/rest_a_01045",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -158982,6 +159615,24 @@
         "url": "https://doi.org/10.1086/715814",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "title": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "authors": [
+          "Benjamin Leard",
+          "Joshua Linn",
+          "Yichen Christy Zhou"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "158-174",
+        "doi": "10.1162/rest_a_01045",
+        "url": "https://doi.org/10.1162/rest_a_01045",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -159059,6 +159710,46 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/7OYSO3",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.9.31",
+    "title": "Chrome Data 车型规格数据库（Chrome Automotive / J.D. Power）",
+    "links": [
+      {
+        "label": "Chrome Data",
+        "url": "https://www.chromedata.com/"
+      }
+    ],
+    "summary": "Chrome Data（现属 J.D. Power）提供的北美车型配置数据库，按车型年份、品牌、车型和配置给出 VIN 解码、厂商建议零售价、尺寸、马力、油耗、车身类型和选装配置等规格信息，商业授权获取。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据",
+      "商业数据"
+    ],
+    "introduction": "这是汽车需求研究中车型特征的常用来源。研究常用它为登记和销售数据匹配车型属性，估计差异化产品需求模型，分析燃油经济性标准和补贴政策。",
+    "source": "商业授权。官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "title": "How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption",
+        "authors": [
+          "Benjamin Leard",
+          "Joshua Linn",
+          "Yichen Christy Zhou"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "158-174",
+        "doi": "10.1162/rest_a_01045",
+        "url": "https://doi.org/10.1162/rest_a_01045",
         "verified": true,
         "note": ""
       }
@@ -171574,6 +172265,24 @@
         "url": "https://doi.org/10.7910/DVN/3OBVQL",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Local Effects of Large New Apartment Buildings in Low-Income Areas",
+        "title": "Local Effects of Large New Apartment Buildings in Low-Income Areas",
+        "authors": [
+          "Brian J. Asquith",
+          "Evan Mast",
+          "Davin Reed"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "359-375",
+        "doi": "10.1162/rest_a_01055",
+        "url": "https://doi.org/10.1162/rest_a_01055",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -177512,6 +178221,24 @@
         "pages": "",
         "doi": "",
         "url": "https://judyyuehui.github.io/judyyue_jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Effects of Large New Apartment Buildings in Low-Income Areas",
+        "title": "Local Effects of Large New Apartment Buildings in Low-Income Areas",
+        "authors": [
+          "Brian J. Asquith",
+          "Evan Mast",
+          "Davin Reed"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "359-375",
+        "doi": "10.1162/rest_a_01055",
+        "url": "https://doi.org/10.1162/rest_a_01055",
         "verified": true,
         "note": ""
       }
@@ -185554,6 +186281,23 @@
         "pages": "733-743",
         "doi": "10.1162/rest_a_01073",
         "url": "https://doi.org/10.1162/rest_a_01073",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Model of Endogenous Risk Intolerance and LSAPs: Asset Prices and Aggregate Demand in a \"Covid-19\" Shock?",
+        "title": "A Model of Endogenous Risk Intolerance and LSAPs: Asset Prices and Aggregate Demand in a \"Covid-19\" Shock?",
+        "authors": [
+          "Ricardo J Caballero",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "34",
+        "issue": "11",
+        "pages": "5522-5580",
+        "doi": "10.1093/rfs/hhab036",
+        "url": "https://doi.org/10.1093/rfs/hhab036",
         "verified": true,
         "note": ""
       }
@@ -197111,6 +197855,22 @@
         "url": "https://doi.org/10.1093/rfs/hhab086",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Herding and Contrarianism: A Matter of Preference?",
+        "title": "Herding and Contrarianism: A Matter of Preference?",
+        "authors": [
+          "Chad Kendall"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "190-205",
+        "doi": "10.1162/rest_a_01028",
+        "url": "https://doi.org/10.1162/rest_a_01028",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -201218,6 +201978,22 @@
         "url": "https://doi.org/10.1162/rest_a_00693",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Barroso and Saxena \"Lest We Forget: Learn from Out-of-Sample Forecast Errors When Optimizing Portfolios",
+        "title": "Barroso and Saxena \"Lest We Forget: Learn from Out-of-Sample Forecast Errors When Optimizing Portfolios",
+        "authors": [
+          "Pedro Barroso"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/3YV9XZ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -204700,6 +205476,23 @@
         "pages": "1464-1507",
         "doi": "10.1093/rfs/hhac050",
         "url": "https://doi.org/10.1093/rfs/hhac050",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Model of Endogenous Risk Intolerance and LSAPs: Asset Prices and Aggregate Demand in a \"Covid-19\" Shock?",
+        "title": "A Model of Endogenous Risk Intolerance and LSAPs: Asset Prices and Aggregate Demand in a \"Covid-19\" Shock?",
+        "authors": [
+          "Ricardo J Caballero",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "34",
+        "issue": "11",
+        "pages": "5522-5580",
+        "doi": "10.1093/rfs/hhab036",
+        "url": "https://doi.org/10.1093/rfs/hhab036",
         "verified": true,
         "note": ""
       }
@@ -214752,6 +215545,23 @@
         "url": "https://doi.org/10.7910/DVN/GOXYYT",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Model of Endogenous Risk Intolerance and LSAPs: Asset Prices and Aggregate Demand in a \"Covid-19\" Shock?",
+        "title": "A Model of Endogenous Risk Intolerance and LSAPs: Asset Prices and Aggregate Demand in a \"Covid-19\" Shock?",
+        "authors": [
+          "Ricardo J Caballero",
+          "Alp Simsek"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "34",
+        "issue": "11",
+        "pages": "5522-5580",
+        "doi": "10.1093/rfs/hhab036",
+        "url": "https://doi.org/10.1093/rfs/hhab036",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -215193,6 +216003,24 @@
         "pages": "1065-1112",
         "doi": "10.1086/727287",
         "url": "https://doi.org/10.1086/727287",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Indebted Demand",
+        "title": "Indebted Demand",
+        "authors": [
+          "Atif Mian",
+          "Ludwig Straub",
+          "Amir Sufi"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "4",
+        "pages": "2243-2307",
+        "doi": "10.1093/qje/qjab007",
+        "url": "https://doi.org/10.1093/qje/qjab007",
         "verified": true,
         "note": ""
       }
@@ -221190,6 +222018,22 @@
         "url": "https://edturri.github.io/pdfs/Turri_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "University Innovation and Local Economic Growth",
+        "title": "University Innovation and Local Economic Growth",
+        "authors": [
+          "Naomi Hausman"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "718-735",
+        "doi": "10.1162/rest_a_01027",
+        "url": "https://doi.org/10.1162/rest_a_01027",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -222154,6 +222998,23 @@
         "url": "https://doi.org/10.1162/rest_a_01491",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "How Campaign Ads Stimulate Political Interest",
+        "title": "How Campaign Ads Stimulate Political Interest",
+        "authors": [
+          "Nathan Canen",
+          "Gregory J. Martin"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "292-310",
+        "doi": "10.1162/rest_a_01062",
+        "url": "https://doi.org/10.1162/rest_a_01062",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -222819,6 +223680,22 @@
         "pages": "",
         "doi": "",
         "url": "https://maxqiyangyu.github.io/assets/JMP_QY_Spill.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "University Innovation and Local Economic Growth",
+        "title": "University Innovation and Local Economic Growth",
+        "authors": [
+          "Naomi Hausman"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "718-735",
+        "doi": "10.1162/rest_a_01027",
+        "url": "https://doi.org/10.1162/rest_a_01027",
         "verified": true,
         "note": ""
       }
@@ -224303,6 +225180,23 @@
         "pages": "1201-1253",
         "doi": "10.1093/qje/qjad047",
         "url": "https://doi.org/10.1093/qje/qjad047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "How Campaign Ads Stimulate Political Interest",
+        "title": "How Campaign Ads Stimulate Political Interest",
+        "authors": [
+          "Nathan Canen",
+          "Gregory J. Martin"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "292-310",
+        "doi": "10.1162/rest_a_01062",
+        "url": "https://doi.org/10.1162/rest_a_01062",
         "verified": true,
         "note": ""
       }
@@ -226508,6 +227402,24 @@
         "pages": "49-113",
         "doi": "10.1093/qje/qjab018",
         "url": "https://doi.org/10.1093/qje/qjab018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Local Effects of Large New Apartment Buildings in Low-Income Areas",
+        "title": "Local Effects of Large New Apartment Buildings in Low-Income Areas",
+        "authors": [
+          "Brian J. Asquith",
+          "Evan Mast",
+          "Davin Reed"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "359-375",
+        "doi": "10.1162/rest_a_01055",
+        "url": "https://doi.org/10.1162/rest_a_01055",
         "verified": true,
         "note": ""
       }
@@ -240552,6 +241464,25 @@
         "pages": "1411-1425",
         "doi": "10.1162/rest_a_01134",
         "url": "https://doi.org/10.1162/rest_a_01134",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Infant Health, Cognitive Performance and Earnings: Evidence from Inception of the Welfare State in Sweden",
+        "title": "Infant Health, Cognitive Performance and Earnings: Evidence from Inception of the Welfare State in Sweden",
+        "authors": [
+          "Sonia Bhalotra",
+          "Martin Karlsson",
+          "Therese Nilsson",
+          "Nina Schwarz"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1138-1156",
+        "doi": "10.1162/rest_a_01031",
+        "url": "https://doi.org/10.1162/rest_a_01031",
         "verified": true,
         "note": ""
       }
@@ -257630,6 +258561,24 @@
         "url": "https://doi.org/10.1086/738149",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Longer-run economic consequences of pandemics",
+        "title": "Longer-run economic consequences of pandemics",
+        "authors": [
+          "Òscar Jordà",
+          "Sanjay R. Singh",
+          "Alan M. Taylor"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "166-175",
+        "doi": "10.1162/rest_a_01042",
+        "url": "https://doi.org/10.1162/rest_a_01042",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -262356,6 +263305,24 @@
         "url": "https://doi.org/10.1093/restud/rdu045",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Saving Lives by Tying Hands: The Unexpected Effects of Constraining Health Care Providers",
+        "title": "Saving Lives by Tying Hands: The Unexpected Effects of Constraining Health Care Providers",
+        "authors": [
+          "Jonathan Gruber",
+          "Thomas P. Hoe",
+          "George Stoye"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "1-19",
+        "doi": "10.1162/rest_a_01044",
+        "url": "https://doi.org/10.1162/rest_a_01044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -262806,6 +263773,45 @@
         "pages": "1606-1614",
         "doi": "10.1162/rest_a_01130",
         "url": "https://doi.org/10.1162/rest_a_01130",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.8.21",
+    "title": "NHS 英格兰国家支付价格表（National Tariff / NHS Payment Scheme）",
+    "links": [
+      {
+        "label": "NHS England: National Tariff",
+        "url": "https://www.england.nhs.uk/pay-syst/national-tariff/"
+      }
+    ],
+    "summary": "NHS England（原 Monitor 与 NHS Improvement）每年发布的英格兰医院服务全国统一支付价格表，按医疗资源组（HRG）给出住院、门诊和急诊的基准价格、市场力因子和支付规则，历年版本公开下载。官网对自动访问返回 202（未返回页面）。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是英格兰按病种付费（PbR）体系的定价依据。研究常用它度量各类诊疗的支付价格，分析价格调整对医院收治、编码行为和效率的影响。",
+    "source": "公开下载。官网对自动访问返回 202（未返回页面）。",
+    "references": [
+      {
+        "raw": "Saving Lives by Tying Hands: The Unexpected Effects of Constraining Health Care Providers",
+        "title": "Saving Lives by Tying Hands: The Unexpected Effects of Constraining Health Care Providers",
+        "authors": [
+          "Jonathan Gruber",
+          "Thomas P. Hoe",
+          "George Stoye"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "1-19",
+        "doi": "10.1162/rest_a_01044",
+        "url": "https://doi.org/10.1162/rest_a_01044",
         "verified": true,
         "note": ""
       }
@@ -265230,6 +266236,46 @@
     ]
   },
   {
+    "id": "3.11.11",
+    "title": "bulwiengesa 德国房地产市场数据（RIWIS）",
+    "links": [
+      {
+        "label": "bulwiengesa",
+        "url": "https://www.bulwiengesa.de/en"
+      }
+    ],
+    "summary": "德国房地产咨询公司 bulwiengesa 编制的城市层面房地产数据库（RIWIS），覆盖德国 400 余个城市 1975 年以来的住宅与商业地产价格、租金、空置率、新建量和收益率，是德国央行房价指标的数据来源之一，商业授权获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "这是德国城市房地产价格最长的时间序列。研究常用它分析德国房价周期、货币政策和银行信贷对房地产市场的影响。",
+    "source": "商业授权。",
+    "references": [
+      {
+        "raw": "​Capital Flows, Real Estate, and Local Cycles: Evidence from German Cities, Banks and Firms",
+        "title": "​Capital Flows, Real Estate, and Local Cycles: Evidence from German Cities, Banks and Firms",
+        "authors": [
+          "Peter Bednarek",
+          "Daniel Marcel te Kaat",
+          "Chang Ma",
+          "Alessandro Rebucci"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "34",
+        "issue": "10",
+        "pages": "5077-5134",
+        "doi": "10.1093/rfs/hhab017",
+        "url": "https://doi.org/10.1093/rfs/hhab017",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.12.1",
     "title": "欧洲央行数据门户（ECB Data Portal，原统计数据仓库 SDW）",
     "links": [
@@ -267374,6 +268420,47 @@
     ]
   },
   {
+    "id": "3.13.16",
+    "title": "英国通信管理局互联连通数据（Ofcom Connected Nations）",
+    "links": [
+      {
+        "label": "Ofcom: Connected Nations",
+        "url": "https://www.ofcom.org.uk/research-and-data/multi-sector-research/infrastructure-research/connected-nations"
+      }
+    ],
+    "summary": "英国通信管理局（Ofcom）年度 Connected Nations 报告附带的开放数据，按邮编、输出区和地方当局给出固定宽带可用性（超高速、全光纤）、平均下载速度和移动网络覆盖情况，公开下载；更早年份的线路级数据需申请。官网对自动访问返回 403。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "商业数据",
+      "地理数据"
+    ],
+    "introduction": "这是英国宽带覆盖和速度的官方地理数据。研究常用它度量各地互联网接入质量，分析宽带对就业、房价、教育和政治行为的影响。",
+    "source": "公开下载。官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Mums Go Online: Is the Internet Changing the Demand for Healthcare?",
+        "title": "Mums Go Online: Is the Internet Changing the Demand for Healthcare?",
+        "authors": [
+          "Sofia Amaral-Garcia",
+          "Mattia Nardotto",
+          "Carol Propper",
+          "Tommaso Valletti"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "6",
+        "pages": "1157-1173",
+        "doi": "10.1162/rest_a_01033",
+        "url": "https://doi.org/10.1162/rest_a_01033",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.14.1",
     "title": "洛桑试验站长期田间试验（Rothamsted Long-Term Experiments，e-RA）",
     "links": [
@@ -269439,6 +270526,22 @@
         "pages": "102-118",
         "doi": "10.1162/rest_a_01206",
         "url": "https://doi.org/10.1162/rest_a_01206",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Bureaucratic Representation and  State Responsiveness during Times of Crisis: The 1918 Pandemic in  India",
+        "title": "Bureaucratic Representation and  State Responsiveness during Times of Crisis: The 1918 Pandemic in  India",
+        "authors": [
+          "Guo Xu"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "482-491",
+        "doi": "10.1162/rest_a_01060",
+        "url": "https://doi.org/10.1162/rest_a_01060",
         "verified": true,
         "note": ""
       }
@@ -283612,6 +284715,25 @@
         "pages": "",
         "doi": "10.3386/w32494",
         "url": "https://doi.org/10.3386/w32494",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Paying Outsourced Labor: Direct Evidence from Linked Temp Agency-Worker-Client Data",
+        "title": "Paying Outsourced Labor: Direct Evidence from Linked Temp Agency-Worker-Client Data",
+        "authors": [
+          "Andres Drenik",
+          "Simon Jäger",
+          "Pascuel Plotkin",
+          "Benjamin Schoefer"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "206-216",
+        "doi": "10.1162/rest_a_01037",
+        "url": "https://doi.org/10.1162/rest_a_01037",
         "verified": true,
         "note": ""
       }
@@ -313073,6 +314195,23 @@
         "url": "https://doi.org/10.7910/DVN/S5DWHC",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Urbanization on Air Pollution Damage",
+        "title": "The Effect of Urbanization on Air Pollution Damage",
+        "authors": [
+          "Hao Deng",
+          "Robert Mendelsohn"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXR1WU",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -319096,6 +320235,23 @@
         "url": "https://doi.org/10.1093/qje/qjac004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exchange Rate Shocks and Quality Adjustments",
+        "title": "Exchange Rate Shocks and Quality Adjustments",
+        "authors": [
+          "Daniel Goetz",
+          "Alexander Rodnyansky"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "86-100",
+        "doi": "10.1162/rest_a_01030",
+        "url": "https://doi.org/10.1162/rest_a_01030",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -324050,6 +325206,25 @@
         "pages": "",
         "doi": "10.3386/w32626",
         "url": "https://doi.org/10.3386/w32626",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Paying Outsourced Labor: Direct Evidence from Linked Temp Agency-Worker-Client Data",
+        "title": "Paying Outsourced Labor: Direct Evidence from Linked Temp Agency-Worker-Client Data",
+        "authors": [
+          "Andres Drenik",
+          "Simon Jäger",
+          "Pascuel Plotkin",
+          "Benjamin Schoefer"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "206-216",
+        "doi": "10.1162/rest_a_01037",
+        "url": "https://doi.org/10.1162/rest_a_01037",
         "verified": true,
         "note": ""
       }
@@ -376535,6 +377710,24 @@
         "url": "https://doi.org/10.1086/730551",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Longer-run economic consequences of pandemics",
+        "title": "Longer-run economic consequences of pandemics",
+        "authors": [
+          "Òscar Jordà",
+          "Sanjay R. Singh",
+          "Alan M. Taylor"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "166-175",
+        "doi": "10.1162/rest_a_01042",
+        "url": "https://doi.org/10.1162/rest_a_01042",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -391901,6 +393094,23 @@
         "url": "https://doi.org/10.1162/rest_a_01083",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exchange Rate Shocks and Quality Adjustments",
+        "title": "Exchange Rate Shocks and Quality Adjustments",
+        "authors": [
+          "Daniel Goetz",
+          "Alexander Rodnyansky"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "86-100",
+        "doi": "10.1162/rest_a_01030",
+        "url": "https://doi.org/10.1162/rest_a_01030",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -397586,6 +398796,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/5EFJTX",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exchange Rate Shocks and Quality Adjustments",
+        "title": "Exchange Rate Shocks and Quality Adjustments",
+        "authors": [
+          "Daniel Goetz",
+          "Alexander Rodnyansky"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "1",
+        "pages": "86-100",
+        "doi": "10.1162/rest_a_01030",
+        "url": "https://doi.org/10.1162/rest_a_01030",
         "verified": true,
         "note": ""
       }
