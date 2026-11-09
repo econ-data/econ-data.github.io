@@ -1258,6 +1258,24 @@
         "url": "https://doi.org/10.1086/721418",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fertility Restrictions and Life-Cycle Outcomes: Evidence from the One-Child Policy in China",
+        "title": "Fertility Restrictions and Life-Cycle Outcomes: Evidence from the One-Child Policy in China",
+        "authors": [
+          "Wei Huang",
+          "Xiaoyan Lei",
+          "Ang Sun"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-17",
+        "doi": "10.1162/rest_a_00921",
+        "url": "https://doi.org/10.1162/rest_a_00921",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2141,6 +2159,24 @@
         "url": "https://doi.org/10.1086/726007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fertility Restrictions and Life-Cycle Outcomes: Evidence from the One-Child Policy in China",
+        "title": "Fertility Restrictions and Life-Cycle Outcomes: Evidence from the One-Child Policy in China",
+        "authors": [
+          "Wei Huang",
+          "Xiaoyan Lei",
+          "Ang Sun"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-17",
+        "doi": "10.1162/rest_a_00921",
+        "url": "https://doi.org/10.1162/rest_a_00921",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2822,6 +2858,24 @@
         "pages": "1341-1355",
         "doi": "10.1162/rest_a_01332",
         "url": "https://doi.org/10.1162/rest_a_01332",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fertility Restrictions and Life-Cycle Outcomes: Evidence from the One-Child Policy in China",
+        "title": "Fertility Restrictions and Life-Cycle Outcomes: Evidence from the One-Child Policy in China",
+        "authors": [
+          "Wei Huang",
+          "Xiaoyan Lei",
+          "Ang Sun"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-17",
+        "doi": "10.1162/rest_a_00921",
+        "url": "https://doi.org/10.1162/rest_a_00921",
         "verified": true,
         "note": ""
       }
@@ -9402,6 +9456,24 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2013.02.004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fertility Restrictions and Life-Cycle Outcomes: Evidence from the One-Child Policy in China",
+        "title": "Fertility Restrictions and Life-Cycle Outcomes: Evidence from the One-Child Policy in China",
+        "authors": [
+          "Wei Huang",
+          "Xiaoyan Lei",
+          "Ang Sun"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-17",
+        "doi": "10.1162/rest_a_00921",
+        "url": "https://doi.org/10.1162/rest_a_00921",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -14030,6 +14102,47 @@
         "pages": "3113-3140",
         "doi": "10.1017/s0022109026102713",
         "url": "https://doi.org/10.1017/s0022109026102713",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.13.3",
+    "title": "中国钢铁工业协会统计数据与《中国钢铁工业年鉴》",
+    "links": [
+      {
+        "label": "中国钢铁工业协会",
+        "url": "http://www.chinaisa.org.cn/"
+      }
+    ],
+    "summary": "中国钢铁工业协会（CISA）汇编的会员企业统计，包括重点钢铁企业的月度产量、设备（高炉、转炉、电炉）运行、能耗、库存和财务指标，以及年度《中国钢铁工业年鉴》中的企业与设备数据，付费或经协会获取。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "商业数据",
+      "能源数据"
+    ],
+    "introduction": "这是中国钢铁行业企业与设备层面的主要数据。研究常用它分析去产能政策、环保限产、钢铁企业生产率和产能利用。",
+    "source": "付费订阅或经协会获取。",
+    "references": [
+      {
+        "raw": "Ownership and Productivity in Vertically-Integrated Firms: Evidence from the Chinese Steel Industry",
+        "title": "Ownership and Productivity in Vertically-Integrated Firms: Evidence from the Chinese Steel Industry",
+        "authors": [
+          "Loren Brandt",
+          "Feitao Jiang",
+          "Yao Luo",
+          "Yingjun Su"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "101-115",
+        "doi": "10.1162/rest_a_00923",
+        "url": "https://doi.org/10.1162/rest_a_00923",
         "verified": true,
         "note": ""
       }
@@ -21255,6 +21368,22 @@
         "pages": "577-616",
         "doi": "10.1086/711656",
         "url": "https://doi.org/10.1086/711656",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Torn Apart? The Impact of Manufacturing Employment Decline on Black and White Americans",
+        "title": "Torn Apart? The Impact of Manufacturing Employment Decline on Black and White Americans",
+        "authors": [
+          "Eric D. Gould"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-16",
+        "doi": "10.1162/rest_a_00918",
+        "url": "https://doi.org/10.1162/rest_a_00918",
         "verified": true,
         "note": ""
       }
@@ -37807,6 +37936,72 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/YH7WKF",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "title": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "authors": [
+          "Carola Binder",
+          "Christos Makridis"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "293-305",
+        "doi": "10.1162/rest_a_00944",
+        "url": "https://doi.org/10.1162/rest_a_00944",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate risk and beliefs in New York floodplains",
+        "title": "Climate risk and beliefs in New York floodplains",
+        "authors": [
+          "Matthew Gibson",
+          "Jamie T. Mullins"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1069-1111",
+        "doi": "10.1086/710240",
+        "url": "https://doi.org/10.1086/710240",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "title": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "authors": [
+          "Benjamin A. Jones"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1005-1032",
+        "doi": "10.1086/710242",
+        "url": "https://doi.org/10.1086/710242",
         "verified": true,
         "note": ""
       }
@@ -54487,6 +54682,25 @@
         "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Coronavirus Perceptions and Economic Anxiety",
+        "title": "Coronavirus Perceptions and Economic Anxiety",
+        "authors": [
+          "Thiemo Fetzer",
+          "Lukas Hensel",
+          "Johannes Hermle",
+          "Christopher Roth"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "968-978",
+        "doi": "10.1162/rest_a_00946",
+        "url": "https://doi.org/10.1162/rest_a_00946",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65846,6 +66060,40 @@
         "pages": "686-704",
         "doi": "10.1162/rest_a_00974",
         "url": "https://doi.org/10.1162/rest_a_00974",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "title": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "authors": [
+          "Carola Binder",
+          "Christos Makridis"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "293-305",
+        "doi": "10.1162/rest_a_00944",
+        "url": "https://doi.org/10.1162/rest_a_00944",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
         "verified": true,
         "note": ""
       }
@@ -77626,6 +77874,22 @@
         "url": "https://doi.org/10.1093/qje/qjab020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -82516,6 +82780,23 @@
         "pages": "975-1012",
         "doi": "10.1086/714351",
         "url": "https://doi.org/10.1086/714351",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "title": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "authors": [
+          "Carola Binder",
+          "Christos Makridis"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "293-305",
+        "doi": "10.1162/rest_a_00944",
+        "url": "https://doi.org/10.1162/rest_a_00944",
         "verified": true,
         "note": ""
       }
@@ -88536,6 +88817,23 @@
         "url": "https://doi.org/10.1162/rest_a_00974",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92015,6 +92313,22 @@
         "url": "https://doi.org/10.1162/rest_a_01020",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "title": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "authors": [
+          "Benjamin A. Jones"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1005-1032",
+        "doi": "10.1086/710242",
+        "url": "https://doi.org/10.1086/710242",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94185,6 +94499,22 @@
         "pages": "799-815",
         "doi": "10.1162/rest_a_00693",
         "url": "https://doi.org/10.1162/rest_a_00693",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
         "verified": true,
         "note": ""
       }
@@ -103320,6 +103650,23 @@
         "url": "https://doi.org/10.1162/rest_a_01102",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110893,6 +111240,23 @@
         "url": "https://doi.org/10.7910/DVN/5JJ6OE",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -117722,6 +118086,22 @@
         "url": "https://doi.org/10.7910/DVN/YH7WKF",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "title": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "authors": [
+          "Benjamin A. Jones"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1005-1032",
+        "doi": "10.1086/710242",
+        "url": "https://doi.org/10.1086/710242",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -118595,6 +118975,22 @@
         "pages": "975-1012",
         "doi": "10.1086/714351",
         "url": "https://doi.org/10.1086/714351",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "title": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "authors": [
+          "Benjamin A. Jones"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1005-1032",
+        "doi": "10.1086/710242",
+        "url": "https://doi.org/10.1086/710242",
         "verified": true,
         "note": ""
       }
@@ -119903,6 +120299,22 @@
         "pages": "",
         "doi": "10.1093/qje/qjag051",
         "url": "https://doi.org/10.1093/qje/qjag051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "title": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "authors": [
+          "Benjamin A. Jones"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1005-1032",
+        "doi": "10.1086/710242",
+        "url": "https://doi.org/10.1086/710242",
         "verified": true,
         "note": ""
       }
@@ -124733,6 +125145,23 @@
         "url": "https://doi.org/10.1162/rest_a_01319",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Climate risk and beliefs in New York floodplains",
+        "title": "Climate risk and beliefs in New York floodplains",
+        "authors": [
+          "Matthew Gibson",
+          "Jamie T. Mullins"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1069-1111",
+        "doi": "10.1086/710240",
+        "url": "https://doi.org/10.1086/710240",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -124843,6 +125272,26 @@
         "pages": "286–321",
         "doi": "10.1257/pol.20210208",
         "url": "https://doi.org/10.1257/pol.20210208",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Machine learning from schools about energy efficiency",
+        "title": "Machine learning from schools about energy efficiency",
+        "authors": [
+          "Fiona Burlig",
+          "Christopher Knittel",
+          "David Rapson",
+          "Mar Reguant",
+          "Catherine Wolfram"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1181-1217",
+        "doi": "10.1086/710606",
+        "url": "https://doi.org/10.1086/710606",
         "verified": true,
         "note": ""
       }
@@ -126080,6 +126529,22 @@
         "pages": "1243-1275",
         "doi": "10.1086/733369",
         "url": "https://doi.org/10.1086/733369",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "title": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "authors": [
+          "Benjamin A. Jones"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1005-1032",
+        "doi": "10.1086/710242",
+        "url": "https://doi.org/10.1086/710242",
         "verified": true,
         "note": ""
       }
@@ -133075,6 +133540,25 @@
         "url": "https://doi.org/10.1086/744385",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use",
+        "title": "Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use",
+        "authors": [
+          "Katrina Jessoe",
+          "Gabriel E. Lade",
+          "Frank Loge",
+          "Edward Spang"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "2",
+        "pages": "315-346",
+        "doi": "10.1086/711025",
+        "url": "https://doi.org/10.1086/711025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -137632,6 +138116,25 @@
         "pages": "",
         "doi": "10.3386/w32023",
         "url": "https://doi.org/10.3386/w32023",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use",
+        "title": "Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use",
+        "authors": [
+          "Katrina Jessoe",
+          "Gabriel E. Lade",
+          "Frank Loge",
+          "Edward Spang"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "2",
+        "pages": "315-346",
+        "doi": "10.1086/711025",
+        "url": "https://doi.org/10.1086/711025",
         "verified": true,
         "note": ""
       }
@@ -142409,6 +142912,38 @@
         "url": "https://doi.org/10.7910/DVN/3OJ5KA",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Torn Apart? The Impact of Manufacturing Employment Decline on Black and White Americans",
+        "title": "Torn Apart? The Impact of Manufacturing Employment Decline on Black and White Americans",
+        "authors": [
+          "Eric D. Gould"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-16",
+        "doi": "10.1162/rest_a_00918",
+        "url": "https://doi.org/10.1162/rest_a_00918",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "title": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "authors": [
+          "Benjamin A. Jones"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1005-1032",
+        "doi": "10.1086/710242",
+        "url": "https://doi.org/10.1086/710242",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -143488,6 +144023,24 @@
         "pages": "1611-1663",
         "doi": "10.1093/qje/qjab008",
         "url": "https://doi.org/10.1093/qje/qjab008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Physician and Hospital Integration on Medicare Beneficiaries' Health Outcomes",
+        "title": "The Effects of Physician and Hospital Integration on Medicare Beneficiaries' Health Outcomes",
+        "authors": [
+          "Thomas G. Koch",
+          "Brett W. Wendling",
+          "Nathan E. Wilson"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-15",
+        "doi": "10.1162/rest_a_00924",
+        "url": "https://doi.org/10.1162/rest_a_00924",
         "verified": true,
         "note": ""
       }
@@ -149484,6 +150037,24 @@
         "pages": "102569",
         "doi": "10.1016/j.jhealeco.2021.102569",
         "url": "https://doi.org/10.1016/j.jhealeco.2021.102569",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Physician and Hospital Integration on Medicare Beneficiaries' Health Outcomes",
+        "title": "The Effects of Physician and Hospital Integration on Medicare Beneficiaries' Health Outcomes",
+        "authors": [
+          "Thomas G. Koch",
+          "Brett W. Wendling",
+          "Nathan E. Wilson"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-15",
+        "doi": "10.1162/rest_a_00924",
+        "url": "https://doi.org/10.1162/rest_a_00924",
         "verified": true,
         "note": ""
       }
@@ -157275,6 +157846,46 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/RKPFLB",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.142",
+    "title": "Levin Associates 医疗并购报告（The Health Care M&A Report / Levin Report）",
+    "links": [
+      {
+        "label": "Irving Levin Associates",
+        "url": "https://www.levinassociates.com/"
+      }
+    ],
+    "summary": "Irving Levin Associates 编制的美国医疗行业并购交易数据库，记录医院、医师集团、养老院、家庭医疗等领域的并购交易日期、买卖双方、交易金额和交易类型，按季度与年度报告发布，付费订阅。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "商业数据"
+    ],
+    "introduction": "这是美国医疗服务业并购最常用的数据来源。研究常用它识别医院-医师纵向整合和医院合并事件，分析整合对价格、转诊和医疗质量的影响。",
+    "source": "付费订阅。",
+    "references": [
+      {
+        "raw": "The Effects of Physician and Hospital Integration on Medicare Beneficiaries' Health Outcomes",
+        "title": "The Effects of Physician and Hospital Integration on Medicare Beneficiaries' Health Outcomes",
+        "authors": [
+          "Thomas G. Koch",
+          "Brett W. Wendling",
+          "Nathan E. Wilson"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-15",
+        "doi": "10.1162/rest_a_00924",
+        "url": "https://doi.org/10.1162/rest_a_00924",
         "verified": true,
         "note": ""
       }
@@ -171108,6 +171719,22 @@
         "url": "https://doi.org/10.1086/729450",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Contract Enforcement Costs on Value Chains and Aggregate Productivity",
+        "title": "The Impact of Contract Enforcement Costs on Value Chains and Aggregate Productivity",
+        "authors": [
+          "Johannes Boehm"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "34-50",
+        "doi": "10.1162/rest_a_00940",
+        "url": "https://doi.org/10.1162/rest_a_00940",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172698,6 +173325,45 @@
     ]
   },
   {
+    "id": "2.10.103",
+    "title": "盖洛普美国每日跟踪民调（Gallup U.S. Daily Tracking Poll）",
+    "links": [
+      {
+        "label": "Gallup",
+        "url": "https://news.gallup.com/"
+      }
+    ],
+    "summary": "盖洛普 2008–2017 年每日电话访问约 1000 名美国成年人的跟踪调查，累计数百万份样本，记录总统支持率、经济信心、主观幸福感（Gallup-Sharecare Well-Being Index）、健康行为和人口特征，含县级地理信息，经 Gallup 授权获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是美国样本量最大的高频民意与福祉调查。研究常用它度量地方层面的经济感受、政治态度和幸福感，分析经济冲击、党派与政策事件的影响。",
+    "source": "经 Gallup 授权获取。",
+    "references": [
+      {
+        "raw": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "title": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "authors": [
+          "Carola Binder",
+          "Christos Makridis"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "293-305",
+        "doi": "10.1162/rest_a_00944",
+        "url": "https://doi.org/10.1162/rest_a_00944",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.11.1",
     "title": "Zillow 房地产数据（ZTRAX 交易与评估记录、ZHVI 房价指数）",
     "links": [
@@ -173529,6 +174195,22 @@
         "pages": "359-375",
         "doi": "10.1162/rest_a_01055",
         "url": "https://doi.org/10.1162/rest_a_01055",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
         "verified": true,
         "note": ""
       }
@@ -179099,6 +179781,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/3OJ5KA",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate risk and beliefs in New York floodplains",
+        "title": "Climate risk and beliefs in New York floodplains",
+        "authors": [
+          "Matthew Gibson",
+          "Jamie T. Mullins"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1069-1111",
+        "doi": "10.1086/710240",
+        "url": "https://doi.org/10.1086/710240",
         "verified": true,
         "note": ""
       }
@@ -187566,6 +188265,75 @@
         "url": "https://doi.org/10.1093/rfs/hhab036",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wages and the Value of Nonemployment",
+        "title": "Wages and the Value of Nonemployment",
+        "authors": [
+          "Simon Jäger",
+          "Benjamin Schoefer",
+          "Samuel Young",
+          "Josef Zweimüller"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1905-1963",
+        "doi": "10.1093/qje/qjaa016",
+        "url": "https://doi.org/10.1093/qje/qjaa016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "title": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "authors": [
+          "Carola Binder",
+          "Christos Makridis"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "293-305",
+        "doi": "10.1162/rest_a_00944",
+        "url": "https://doi.org/10.1162/rest_a_00944",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -188172,6 +188940,23 @@
         "pages": "347-374",
         "doi": "10.1086/712419",
         "url": "https://doi.org/10.1086/712419",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "title": "Stuck in the Seventies: Gas Prices and Consumer Sentiment",
+        "authors": [
+          "Carola Binder",
+          "Christos Makridis"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "293-305",
+        "doi": "10.1162/rest_a_00944",
+        "url": "https://doi.org/10.1162/rest_a_00944",
         "verified": true,
         "note": ""
       }
@@ -195043,6 +195828,39 @@
         "url": "https://doi.org/10.1093/qje/qjaa030",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Spillovers of Venture Capital",
+        "title": "Measuring the Spillovers of Venture Capital",
+        "authors": [
+          "Monika Schnitzer",
+          "Martin Watzinger"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "276-292",
+        "doi": "10.1162/rest_a_00937",
+        "url": "https://doi.org/10.1162/rest_a_00937",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -199172,6 +199990,23 @@
         "url": "https://doi.org/10.1162/rest_a_01028",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -201499,6 +202334,22 @@
         "url": "https://doi.org/10.7910/DVN/LPE5NO",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -203615,6 +204466,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/Y7OJ9D",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
         "verified": true,
         "note": ""
       }
@@ -210691,6 +211558,23 @@
         "url": "https://doi.org/10.1086/734089",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -211297,6 +212181,23 @@
         "pages": "1191-1206",
         "doi": "10.1162/rest_a_01102",
         "url": "https://doi.org/10.1162/rest_a_01102",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
         "verified": true,
         "note": ""
       }
@@ -217416,6 +218317,39 @@
         "url": "https://doi.org/10.1093/qje/qjab007",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -223136,6 +224070,22 @@
         "url": "https://doi.org/10.1162/rest_a_01235",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -225091,6 +226041,23 @@
         "url": "https://doi.org/10.1162/rest_a_01027",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring the Spillovers of Venture Capital",
+        "title": "Measuring the Spillovers of Venture Capital",
+        "authors": [
+          "Monika Schnitzer",
+          "Martin Watzinger"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "276-292",
+        "doi": "10.1162/rest_a_00937",
+        "url": "https://doi.org/10.1162/rest_a_00937",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -226008,6 +226975,23 @@
         "pages": "1224-1236",
         "doi": "10.1162/rest_a_01104",
         "url": "https://doi.org/10.1162/rest_a_01104",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Patent-Based News Shocks",
+        "title": "Patent-Based News Shocks",
+        "authors": [
+          "Danilo Cascaldi-Garcia",
+          "Marija Vukotić"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "51-66",
+        "doi": "10.1162/rest_a_00943",
+        "url": "https://doi.org/10.1162/rest_a_00943",
         "verified": true,
         "note": ""
       }
@@ -229259,6 +230243,43 @@
         "pages": "1017-1027",
         "doi": "10.1162/rest_a_01108",
         "url": "https://doi.org/10.1162/rest_a_01108",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.13.57",
+    "title": "GS1 US 商品条码数据中心（GS1 US Data Hub）",
+    "links": [
+      {
+        "label": "GS1 US Data Hub",
+        "url": "https://www.gs1us.org/tools/gs1-us-data-hub"
+      }
+    ],
+    "summary": "GS1 US 维护的美国商品条码（GTIN/UPC）注册数据库，记录每个条码所属企业的公司前缀、企业名称、地址和产品属性，可将零售扫描数据中的商品条码匹配到生产企业，经订阅或授权访问。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是零售扫描数据与企业身份链接的关键工具。研究常用它把 Nielsen 等扫描数据中的产品归属到制造商，分析企业产品组合、市场集中度和贸易冲击对消费品企业的影响。",
+    "source": "经订阅或授权访问。",
+    "references": [
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
         "verified": true,
         "note": ""
       }
@@ -242049,6 +243070,26 @@
         "url": "https://doi.org/10.1093/qje/qjad052",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Machine learning from schools about energy efficiency",
+        "title": "Machine learning from schools about energy efficiency",
+        "authors": [
+          "Fiona Burlig",
+          "Christopher Knittel",
+          "David Rapson",
+          "Mar Reguant",
+          "Catherine Wolfram"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1181-1217",
+        "doi": "10.1086/710606",
+        "url": "https://doi.org/10.1086/710606",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -248357,6 +249398,25 @@
         "url": "https://doi.org/10.3386/w33490",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Wages and the Value of Nonemployment",
+        "title": "Wages and the Value of Nonemployment",
+        "authors": [
+          "Simon Jäger",
+          "Benjamin Schoefer",
+          "Samuel Young",
+          "Josef Zweimüller"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1905-1963",
+        "doi": "10.1093/qje/qjaa016",
+        "url": "https://doi.org/10.1093/qje/qjaa016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -250998,6 +252058,23 @@
         "url": "https://doi.org/10.1093/qje/qjac005",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Natural Experiment on Job Insecurity and Fertility in France",
+        "title": "A Natural Experiment on Job Insecurity and Fertility in France",
+        "authors": [
+          "Andrew E. Clark",
+          "Anthony Lepinteur"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "386-398",
+        "doi": "10.1162/rest_a_00964",
+        "url": "https://doi.org/10.1162/rest_a_00964",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -251156,6 +252233,23 @@
         "pages": "",
         "doi": "10.3386/w33245",
         "url": "https://doi.org/10.3386/w33245",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Natural Experiment on Job Insecurity and Fertility in France",
+        "title": "A Natural Experiment on Job Insecurity and Fertility in France",
+        "authors": [
+          "Andrew E. Clark",
+          "Anthony Lepinteur"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "386-398",
+        "doi": "10.1162/rest_a_00964",
+        "url": "https://doi.org/10.1162/rest_a_00964",
         "verified": true,
         "note": ""
       }
@@ -253675,6 +254769,25 @@
         "url": "https://doi.org/10.7910/DVN/FP1Y6A",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Wages and the Value of Nonemployment",
+        "title": "Wages and the Value of Nonemployment",
+        "authors": [
+          "Simon Jäger",
+          "Benjamin Schoefer",
+          "Samuel Young",
+          "Josef Zweimüller"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1905-1963",
+        "doi": "10.1093/qje/qjaa016",
+        "url": "https://doi.org/10.1093/qje/qjaa016",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -253833,6 +254946,44 @@
         "pages": "887-931",
         "doi": "10.1093/qje/qjaa037",
         "url": "https://doi.org/10.1093/qje/qjaa037",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.62",
+    "title": "瑞典 SOM 全国调查（SOM Institute National Survey）",
+    "links": [
+      {
+        "label": "SND: SOM survey",
+        "url": "https://snd.gu.se/en/catalogue/study/snd0905"
+      }
+    ],
+    "summary": "哥德堡大学 SOM 研究所自 1986 年起每年开展的全国邮寄与网络调查，样本数千人，涵盖政治态度、政党支持、媒体使用、信任、移民态度和社会议题，微观数据经瑞典国家数据服务（SND）注册获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "政治数据"
+    ],
+    "introduction": "这是瑞典民意长期趋势研究的主要数据。研究常用它分析媒体使用、移民态度、政治信任和政党支持的变化。",
+    "source": "经 SND 注册申请获取。",
+    "references": [
+      {
+        "raw": "Do People Avoid Morally Relevant Information? Evidence from the Refugee Crisis",
+        "title": "Do People Avoid Morally Relevant Information? Evidence from the Refugee Crisis",
+        "authors": [
+          "Eleonora Freddi"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-16",
+        "doi": "10.1162/rest_a_00934",
+        "url": "https://doi.org/10.1162/rest_a_00934",
         "verified": true,
         "note": ""
       }
@@ -255362,6 +256513,59 @@
         "url": "https://doi.org/10.7910/DVN/67PJF4",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Wages and the Value of Nonemployment",
+        "title": "Wages and the Value of Nonemployment",
+        "authors": [
+          "Simon Jäger",
+          "Benjamin Schoefer",
+          "Samuel Young",
+          "Josef Zweimüller"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "1905-1963",
+        "doi": "10.1093/qje/qjaa016",
+        "url": "https://doi.org/10.1093/qje/qjaa016",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "title": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "authors": [
+          "Federica Coelli",
+          "Andreas Moxnes",
+          "Karen Helene Ulltveit-Moe"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "205-216",
+        "doi": "10.1162/rest_a_00951",
+        "url": "https://doi.org/10.1162/rest_a_00951",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -255833,6 +257037,43 @@
         "pages": "391-433",
         "doi": "10.1086/726235",
         "url": "https://doi.org/10.1086/726235",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quantifying the Gap Between Equilibrium and Optimum Under Monopolistic Competition",
+        "title": "Quantifying the Gap Between Equilibrium and Optimum Under Monopolistic Competition",
+        "authors": [
+          "Kristian Behrens",
+          "Giordano Mion",
+          "Yasusada Murata",
+          "Jens Suedekum"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "2299-2360",
+        "doi": "10.1093/qje/qjaa017",
+        "url": "https://doi.org/10.1093/qje/qjaa017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Product Mix and Firm Productivity Responses to Trade Competition",
+        "title": "Product Mix and Firm Productivity Responses to Trade Competition",
+        "authors": [
+          "Thierry Mayer",
+          "Marc J. Melitz",
+          "Gianmarco I. P. Ottaviano"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "874-891",
+        "doi": "10.1162/rest_a_00952",
+        "url": "https://doi.org/10.1162/rest_a_00952",
         "verified": true,
         "note": ""
       }
@@ -256984,6 +258225,25 @@
         "url": "https://doi.org/10.1162/rest_a_01393",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Quantifying the Gap Between Equilibrium and Optimum Under Monopolistic Competition",
+        "title": "Quantifying the Gap Between Equilibrium and Optimum Under Monopolistic Competition",
+        "authors": [
+          "Kristian Behrens",
+          "Giordano Mion",
+          "Yasusada Murata",
+          "Jens Suedekum"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "2299-2360",
+        "doi": "10.1093/qje/qjaa017",
+        "url": "https://doi.org/10.1093/qje/qjaa017",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -257105,6 +258365,23 @@
         "pages": "3652-3711",
         "doi": "10.1086/737231",
         "url": "https://doi.org/10.1086/737231",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "title": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "authors": [
+          "Marco Le Moglie",
+          "Giuseppe Sorrenti"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "142-156",
+        "doi": "10.1162/rest_a_00942",
+        "url": "https://doi.org/10.1162/rest_a_00942",
         "verified": true,
         "note": ""
       }
@@ -257240,6 +258517,23 @@
         "pages": "",
         "doi": "",
         "url": "https://nicologeneroso.github.io/papers/Generoso_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "title": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "authors": [
+          "Marco Le Moglie",
+          "Giuseppe Sorrenti"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "142-156",
+        "doi": "10.1162/rest_a_00942",
+        "url": "https://doi.org/10.1162/rest_a_00942",
         "verified": true,
         "note": ""
       }
@@ -258844,6 +260138,39 @@
         "pages": "1-32",
         "doi": "10.1086/720903",
         "url": "https://doi.org/10.1086/720903",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "title": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "authors": [
+          "Marco Le Moglie",
+          "Giuseppe Sorrenti"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "142-156",
+        "doi": "10.1162/rest_a_00942",
+        "url": "https://doi.org/10.1162/rest_a_00942",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do People Avoid Morally Relevant Information? Evidence from the Refugee Crisis",
+        "title": "Do People Avoid Morally Relevant Information? Evidence from the Refugee Crisis",
+        "authors": [
+          "Eleonora Freddi"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-16",
+        "doi": "10.1162/rest_a_00934",
+        "url": "https://doi.org/10.1162/rest_a_00934",
         "verified": true,
         "note": ""
       }
@@ -261126,6 +262453,43 @@
     ]
   },
   {
+    "id": "3.4.32",
+    "title": "瑞典移民局庇护与居留统计（Migrationsverket Statistik）",
+    "links": [
+      {
+        "label": "Migrationsverket: Statistik",
+        "url": "https://www.migrationsverket.se/Om-Migrationsverket/Statistik.html"
+      }
+    ],
+    "summary": "瑞典移民局（Migrationsverket）发布的庇护申请、裁决、居留许可和难民安置统计，按国籍、年龄、月份和接收市镇给出申请数、批准数和安置人数，公开下载，更细的数据可申请。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是瑞典难民流入研究的官方数据。研究常用它度量各市镇难民安置规模，分析难民流入对本地选民态度、反移民政党支持和劳动力市场的影响。",
+    "source": "公开下载；细分数据可申请。",
+    "references": [
+      {
+        "raw": "Do People Avoid Morally Relevant Information? Evidence from the Refugee Crisis",
+        "title": "Do People Avoid Morally Relevant Information? Evidence from the Refugee Crisis",
+        "authors": [
+          "Eleonora Freddi"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-16",
+        "doi": "10.1162/rest_a_00934",
+        "url": "https://doi.org/10.1162/rest_a_00934",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.5.1",
     "title": "英国国家统计局开放地理门户（ONS Open Geography Portal）",
     "links": [
@@ -262994,6 +264358,44 @@
         "pages": "1439-1473",
         "doi": "10.1086/725028",
         "url": "https://doi.org/10.1086/725028",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.6.23",
+    "title": "意大利环境保护研究所城市垃圾地籍（ISPRA Catasto Rifiuti）",
+    "links": [
+      {
+        "label": "ISPRA: Catasto Rifiuti",
+        "url": "https://www.catasto-rifiuti.isprambiente.it/"
+      }
+    ],
+    "summary": "意大利环境保护与研究所（ISPRA）发布的城市生活垃圾统计，按市镇、省和大区给出每年的垃圾产生量、人均产生量、分类回收率和处理方式，自 2010 年前后起，公开在线下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "环境数据"
+    ],
+    "introduction": "这是意大利市镇层面垃圾管理最系统的数据。研究常用它度量各地垃圾分类和回收绩效，分析地方治理、社会资本和有组织犯罪对公共服务的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "title": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "authors": [
+          "Marco Le Moglie",
+          "Giuseppe Sorrenti"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "142-156",
+        "doi": "10.1162/rest_a_00942",
+        "url": "https://doi.org/10.1162/rest_a_00942",
         "verified": true,
         "note": ""
       }
@@ -266669,6 +268071,23 @@
         "url": "https://martamorando.com/papers/jmp_morando.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "title": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "authors": [
+          "Marco Le Moglie",
+          "Giuseppe Sorrenti"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "142-156",
+        "doi": "10.1162/rest_a_00942",
+        "url": "https://doi.org/10.1162/rest_a_00942",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -267404,6 +268823,45 @@
         "pages": "998-1007",
         "doi": "10.1162/rest_a_01123",
         "url": "https://doi.org/10.1162/rest_a_01123",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.10.27",
+    "title": "意大利凝聚政策项目数据（OpenCoesione）",
+    "links": [
+      {
+        "label": "OpenCoesione",
+        "url": "https://opencoesione.gov.it/en/"
+      }
+    ],
+    "summary": "意大利政府开放数据平台 OpenCoesione 发布的欧盟结构基金与国家凝聚基金资助项目明细，逐一记录 2007 年以来数十万个项目的主题、资金来源、拨款与支付金额、实施主体、地点和进度，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据",
+      "区域经济数据"
+    ],
+    "introduction": "这是欧盟地区政策在意大利实施的最细数据。研究常用它度量各地获得的凝聚基金，分析地区发展援助的效果、腐败和有组织犯罪对公共资金的侵占。",
+    "source": "公开下载。官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "title": "Revealing 'Mafia Inc.'? Financial Crisis, Organized Crime, and the Birth of New Enterprises",
+        "authors": [
+          "Marco Le Moglie",
+          "Giuseppe Sorrenti"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "142-156",
+        "doi": "10.1162/rest_a_00942",
+        "url": "https://doi.org/10.1162/rest_a_00942",
         "verified": true,
         "note": ""
       }
@@ -272319,6 +273777,22 @@
         "url": "https://doi.org/10.1162/rest_a_00970",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dynamic Electoral Returns of A Large Anti-Poverty Program",
+        "title": "The Dynamic Electoral Returns of A Large Anti-Poverty Program",
+        "authors": [
+          "Laura Zimmermann"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "803-817",
+        "doi": "10.1162/rest_a_00935",
+        "url": "https://doi.org/10.1162/rest_a_00935",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -273851,6 +275325,22 @@
         "pages": "419-475",
         "doi": "10.1093/qje/qjad037",
         "url": "https://doi.org/10.1093/qje/qjad037",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Dynamic Electoral Returns of A Large Anti-Poverty Program",
+        "title": "The Dynamic Electoral Returns of A Large Anti-Poverty Program",
+        "authors": [
+          "Laura Zimmermann"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "803-817",
+        "doi": "10.1162/rest_a_00935",
+        "url": "https://doi.org/10.1162/rest_a_00935",
         "verified": true,
         "note": ""
       }
@@ -279194,6 +280684,40 @@
         "url": "https://doi.org/10.1162/rest_a_00970",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dynamic Electoral Returns of A Large Anti-Poverty Program",
+        "title": "The Dynamic Electoral Returns of A Large Anti-Poverty Program",
+        "authors": [
+          "Laura Zimmermann"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "803-817",
+        "doi": "10.1162/rest_a_00935",
+        "url": "https://doi.org/10.1162/rest_a_00935",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature and Human Capital in India",
+        "title": "Temperature and Human Capital in India",
+        "authors": [
+          "Teevrat Garg",
+          "Maulik Jagnani",
+          "Vis Taraz"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1113-1150",
+        "doi": "10.1086/710066",
+        "url": "https://doi.org/10.1086/710066",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -279319,6 +280843,25 @@
         "pages": "",
         "doi": "",
         "url": "https://eisik.net/files/isik_working_paper_measurement.pdf; https://eisik.net/files/isik_working_paper_distribution_macro.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Interest Rate Pass-Through and Consumption Response: the Deposit Channel",
+        "title": "Interest Rate Pass-Through and Consumption Response: the Deposit Channel",
+        "authors": [
+          "Sumit Agarwal",
+          "Souphala Chomsisengphet",
+          "Yildiray Yildirim",
+          "Jian Zhang"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "922-938",
+        "doi": "10.1162/rest_a_00941",
+        "url": "https://doi.org/10.1162/rest_a_00941",
         "verified": true,
         "note": ""
       }
@@ -281730,6 +283273,22 @@
         "url": "https://doi.org/10.1162/rest_a_01548",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dynamic Electoral Returns of A Large Anti-Poverty Program",
+        "title": "The Dynamic Electoral Returns of A Large Anti-Poverty Program",
+        "authors": [
+          "Laura Zimmermann"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "803-817",
+        "doi": "10.1162/rest_a_00935",
+        "url": "https://doi.org/10.1162/rest_a_00935",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -283262,6 +284821,24 @@
         "url": "https://doi.org/10.1086/739115",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temperature and Human Capital in India",
+        "title": "Temperature and Human Capital in India",
+        "authors": [
+          "Teevrat Garg",
+          "Maulik Jagnani",
+          "Vis Taraz"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1113-1150",
+        "doi": "10.1086/710066",
+        "url": "https://doi.org/10.1086/710066",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -283896,6 +285473,24 @@
         "pages": "",
         "doi": "",
         "url": "https://ameeksingh.com/papers/learning-by-doing-at-home.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Temperature and Human Capital in India",
+        "title": "Temperature and Human Capital in India",
+        "authors": [
+          "Teevrat Garg",
+          "Maulik Jagnani",
+          "Vis Taraz"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1113-1150",
+        "doi": "10.1086/710066",
+        "url": "https://doi.org/10.1086/710066",
         "verified": true,
         "note": ""
       }
@@ -285015,6 +286610,22 @@
         "url": "https://doi.org/10.7910/DVN/GSCELX",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Employment Effects of Lump-Sum and Contingent Job Insurance Policies: Evidence from Brazil",
+        "title": "The Employment Effects of Lump-Sum and Contingent Job Insurance Policies: Evidence from Brazil",
+        "authors": [
+          "Diogo G. C. Britto"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/U5X65H",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -285740,6 +287351,22 @@
         "pages": "1349-1362",
         "doi": "10.1162/rest_a_01470",
         "url": "https://doi.org/10.1162/rest_a_01470",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Employment Effects of Lump-Sum and Contingent Job Insurance Policies: Evidence from Brazil",
+        "title": "The Employment Effects of Lump-Sum and Contingent Job Insurance Policies: Evidence from Brazil",
+        "authors": [
+          "Diogo G. C. Britto"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/U5X65H",
         "verified": true,
         "note": ""
       }
@@ -288430,6 +290057,22 @@
         "url": "https://doi.org/10.1162/rest_a_01311",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Employment Effects of Lump-Sum and Contingent Job Insurance Policies: Evidence from Brazil",
+        "title": "The Employment Effects of Lump-Sum and Contingent Job Insurance Policies: Evidence from Brazil",
+        "authors": [
+          "Diogo G. C. Britto"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/U5X65H",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -289748,6 +291391,23 @@
         "pages": "1635-1666",
         "doi": "10.1086/735824",
         "url": "https://doi.org/10.1086/735824",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Use Forests or Lose Them? Regulated Timber Extraction and Tree Cover Loss in Mexico",
+        "title": "Use Forests or Lose Them? Regulated Timber Extraction and Tree Cover Loss in Mexico",
+        "authors": [
+          "Allen Blackman",
+          "Laura Villalobos"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "1",
+        "pages": "125-163",
+        "doi": "10.1086/710837",
+        "url": "https://doi.org/10.1086/710837",
         "verified": true,
         "note": ""
       }
@@ -295608,6 +297268,45 @@
         "pages": "",
         "doi": "",
         "url": "https://peter-obrien.com/JMP.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.14.7",
+    "title": "墨西哥国家土地登记处数据（Registro Agrario Nacional，RAN / PHINA）",
+    "links": [
+      {
+        "label": "RAN",
+        "url": "https://www.gob.mx/ran"
+      }
+    ],
+    "summary": "墨西哥国家土地登记处（RAN）维护的社会所有土地（ejido 与 comunidad）登记与地籍数据，包括土地核心的边界、面积、成员数、土地用途分区、PROCEDE 土地确权进展和权属变更，PHINA 系统提供各土地核心的登记与历史信息，部分数据和地图公开下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "农业数据",
+      "地理数据"
+    ],
+    "introduction": "这是墨西哥集体土地制度研究的核心数据。研究常用它度量 ejido 的土地确权、规模和权属结构，分析土地改革对农业投资、森林砍伐、移民和冲突的影响。",
+    "source": "部分公开下载；详细登记信息经 RAN 申请。",
+    "references": [
+      {
+        "raw": "Use Forests or Lose Them? Regulated Timber Extraction and Tree Cover Loss in Mexico",
+        "title": "Use Forests or Lose Them? Regulated Timber Extraction and Tree Cover Loss in Mexico",
+        "authors": [
+          "Allen Blackman",
+          "Laura Villalobos"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "1",
+        "pages": "125-163",
+        "doi": "10.1086/710837",
+        "url": "https://doi.org/10.1086/710837",
         "verified": true,
         "note": ""
       }
@@ -309489,6 +311188,24 @@
         "url": "https://doi.org/10.7910/DVN/FLGN9P",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Temperature and Human Capital in India",
+        "title": "Temperature and Human Capital in India",
+        "authors": [
+          "Teevrat Garg",
+          "Maulik Jagnani",
+          "Vis Taraz"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1113-1150",
+        "doi": "10.1086/710066",
+        "url": "https://doi.org/10.1086/710066",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -316241,6 +317958,40 @@
         "pages": "797-823",
         "doi": "10.1086/713147",
         "url": "https://doi.org/10.1086/713147",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "title": "The Effect of the Credit Crunch on Output Price Dynamics: The Corporate Inventory and Liquidity Management Channel",
+        "authors": [
+          "Ryan Kim"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "563-619",
+        "doi": "10.1093/qje/qjaa025",
+        "url": "https://doi.org/10.1093/qje/qjaa025",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "title": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "authors": [
+          "Federica Coelli",
+          "Andreas Moxnes",
+          "Karen Helene Ulltveit-Moe"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "205-216",
+        "doi": "10.1162/rest_a_00951",
+        "url": "https://doi.org/10.1162/rest_a_00951",
         "verified": true,
         "note": ""
       }
@@ -323254,6 +325005,25 @@
         "pages": "1-45",
         "doi": "10.1162/rest.a.1744",
         "url": "https://doi.org/10.1162/rest.a.1744",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quantifying the Gap Between Equilibrium and Optimum Under Monopolistic Competition",
+        "title": "Quantifying the Gap Between Equilibrium and Optimum Under Monopolistic Competition",
+        "authors": [
+          "Kristian Behrens",
+          "Giordano Mion",
+          "Yasusada Murata",
+          "Jens Suedekum"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "135",
+        "issue": "4",
+        "pages": "2299-2360",
+        "doi": "10.1093/qje/qjaa017",
+        "url": "https://doi.org/10.1093/qje/qjaa017",
         "verified": true,
         "note": ""
       }
@@ -343059,6 +344829,22 @@
         "url": "https://doi.org/10.1086/732195",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "title": "After the Dust Settles: The Infant Health Impacts of Dust Storms",
+        "authors": [
+          "Benjamin A. Jones"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1005-1032",
+        "doi": "10.1086/710242",
+        "url": "https://doi.org/10.1086/710242",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -350671,6 +352457,25 @@
         "url": "https://doi.org/10.1162/rest_a_01306",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Coronavirus Perceptions and Economic Anxiety",
+        "title": "Coronavirus Perceptions and Economic Anxiety",
+        "authors": [
+          "Thiemo Fetzer",
+          "Lukas Hensel",
+          "Johannes Hermle",
+          "Christopher Roth"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "968-978",
+        "doi": "10.1162/rest_a_00946",
+        "url": "https://doi.org/10.1162/rest_a_00946",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -352059,6 +353864,25 @@
         "pages": "",
         "doi": "10.3386/w32760",
         "url": "https://doi.org/10.3386/w32760",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Coronavirus Perceptions and Economic Anxiety",
+        "title": "Coronavirus Perceptions and Economic Anxiety",
+        "authors": [
+          "Thiemo Fetzer",
+          "Lukas Hensel",
+          "Johannes Hermle",
+          "Christopher Roth"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "103",
+        "issue": "5",
+        "pages": "968-978",
+        "doi": "10.1162/rest_a_00946",
+        "url": "https://doi.org/10.1162/rest_a_00946",
         "verified": true,
         "note": ""
       }
@@ -357039,6 +358863,23 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=15MOVWw6OM0mIo4vanFIqkfc9qapvNm-T",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Natural Experiment on Job Insecurity and Fertility in France",
+        "title": "A Natural Experiment on Job Insecurity and Fertility in France",
+        "authors": [
+          "Andrew E. Clark",
+          "Anthony Lepinteur"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "386-398",
+        "doi": "10.1162/rest_a_00964",
+        "url": "https://doi.org/10.1162/rest_a_00964",
         "verified": true,
         "note": ""
       }
@@ -368470,6 +370311,24 @@
         "pages": "775-813",
         "doi": "10.1093/rfs/hhac040",
         "url": "https://doi.org/10.1093/rfs/hhac040",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Structural Model for the Coevolution of Networks and Behavior",
+        "title": "A Structural Model for the Coevolution of Networks and Behavior",
+        "authors": [
+          "Chih-Sheng Hsieh",
+          "Michael D. König",
+          "Xiaodong Liu"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "355-367",
+        "doi": "10.1162/rest_a_00958",
+        "url": "https://doi.org/10.1162/rest_a_00958",
         "verified": true,
         "note": ""
       }
@@ -381148,6 +383007,24 @@
         "url": "https://doi.org/10.1162/rest_a_00987",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "title": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "authors": [
+          "Federica Coelli",
+          "Andreas Moxnes",
+          "Karen Helene Ulltveit-Moe"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "205-216",
+        "doi": "10.1162/rest_a_00951",
+        "url": "https://doi.org/10.1162/rest_a_00951",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -382413,6 +384290,39 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/YYNAA8",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do People Avoid Morally Relevant Information? Evidence from the Refugee Crisis",
+        "title": "Do People Avoid Morally Relevant Information? Evidence from the Refugee Crisis",
+        "authors": [
+          "Eleonora Freddi"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-16",
+        "doi": "10.1162/rest_a_00934",
+        "url": "https://doi.org/10.1162/rest_a_00934",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Climate risk and beliefs in New York floodplains",
+        "title": "Climate risk and beliefs in New York floodplains",
+        "authors": [
+          "Matthew Gibson",
+          "Jamie T. Mullins"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "7",
+        "issue": "6",
+        "pages": "1069-1111",
+        "doi": "10.1086/710240",
+        "url": "https://doi.org/10.1086/710240",
         "verified": true,
         "note": ""
       }
@@ -384000,6 +385910,23 @@
         "pages": "1224-1236",
         "doi": "10.1162/rest_a_01104",
         "url": "https://doi.org/10.1162/rest_a_01104",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Measuring the Spillovers of Venture Capital",
+        "title": "Measuring the Spillovers of Venture Capital",
+        "authors": [
+          "Monika Schnitzer",
+          "Martin Watzinger"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "276-292",
+        "doi": "10.1162/rest_a_00937",
+        "url": "https://doi.org/10.1162/rest_a_00937",
         "verified": true,
         "note": ""
       }
@@ -395910,6 +397837,22 @@
         "url": "https://doi.org/10.7910/DVN/ODQWMF",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Contract Enforcement Costs on Value Chains and Aggregate Productivity",
+        "title": "The Impact of Contract Enforcement Costs on Value Chains and Aggregate Productivity",
+        "authors": [
+          "Johannes Boehm"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "34-50",
+        "doi": "10.1162/rest_a_00940",
+        "url": "https://doi.org/10.1162/rest_a_00940",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -396649,6 +398592,24 @@
         "url": "https://doi.org/10.7910/DVN/ODQWMF",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "title": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "authors": [
+          "Federica Coelli",
+          "Andreas Moxnes",
+          "Karen Helene Ulltveit-Moe"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "205-216",
+        "doi": "10.1162/rest_a_00951",
+        "url": "https://doi.org/10.1162/rest_a_00951",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -397348,6 +399309,24 @@
         "pages": "172-187",
         "doi": "10.1162/rest_a_01274",
         "url": "https://doi.org/10.1162/rest_a_01274",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "title": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "authors": [
+          "Federica Coelli",
+          "Andreas Moxnes",
+          "Karen Helene Ulltveit-Moe"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "205-216",
+        "doi": "10.1162/rest_a_00951",
+        "url": "https://doi.org/10.1162/rest_a_00951",
         "verified": true,
         "note": ""
       }
@@ -398624,6 +400603,24 @@
         "pages": "1091-1120",
         "doi": "10.1086/723704",
         "url": "https://doi.org/10.1086/723704",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "title": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "authors": [
+          "Federica Coelli",
+          "Andreas Moxnes",
+          "Karen Helene Ulltveit-Moe"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "205-216",
+        "doi": "10.1162/rest_a_00951",
+        "url": "https://doi.org/10.1162/rest_a_00951",
         "verified": true,
         "note": ""
       }
@@ -400362,6 +402359,24 @@
         "pages": "172-187",
         "doi": "10.1162/rest_a_01274",
         "url": "https://doi.org/10.1162/rest_a_01274",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "title": "Better, Faster, Stronger: Global Innovation and Trade Liberalization",
+        "authors": [
+          "Federica Coelli",
+          "Andreas Moxnes",
+          "Karen Helene Ulltveit-Moe"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "205-216",
+        "doi": "10.1162/rest_a_00951",
+        "url": "https://doi.org/10.1162/rest_a_00951",
         "verified": true,
         "note": ""
       }
