@@ -6126,6 +6126,25 @@
         "url": "https://doi.org/10.3386/w33708",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "title": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "authors": [
+          "Ernest Liu",
+          "Yi Lu",
+          "Wenwei Peng",
+          "Shaoda Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest.a.1820",
+        "url": "https://doi.org/10.1162/rest.a.1820",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -6961,6 +6980,25 @@
         "pages": "71-103",
         "doi": "10.1086/743175",
         "url": "https://doi.org/10.1086/743175",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "title": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "authors": [
+          "Ernest Liu",
+          "Yi Lu",
+          "Wenwei Peng",
+          "Shaoda Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest.a.1820",
+        "url": "https://doi.org/10.1162/rest.a.1820",
         "verified": true,
         "note": ""
       }
@@ -10600,6 +10638,50 @@
     ]
   },
   {
+    "id": "1.8.3",
+    "title": "米内网中国医药数据库（MENET）",
+    "links": [
+      {
+        "label": "米内网",
+        "url": "https://www.menet.com.cn"
+      },
+      {
+        "label": "米内网数据库",
+        "url": "https://db.menet.com.cn"
+      }
+    ],
+    "summary": "米内网（国家工信部中国医药工业信息中心旗下）提供的中国医药市场数据库，包括中国城市公立医院、县级公立医院、零售药店等终端的药品销售额与用量（按通用名、厂家、剂型），以及药品注册、招标采购和一致性评价信息，经订阅获取。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "商业数据"
+    ],
+    "introduction": "这是中国药品市场销售的主要商业数据。研究常用它度量药品价格和销量，评估药品集中带量采购等医药政策。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+        "title": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+        "authors": [
+          "Chenyuan Liu",
+          "Yi Lu",
+          "Wanyu Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1162/rest.a.1829",
+        "url": "https://doi.org/10.1162/rest.a.1829",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "1.9.1",
     "title": "中国人口移动与出行大数据（百度/腾讯迁徙、出租车与网约车轨迹、手机信令、地图 API）",
     "links": [],
@@ -11434,6 +11516,25 @@
         "url": "https://doi.org/10.3386/w32743",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "title": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "authors": [
+          "Ernest Liu",
+          "Yi Lu",
+          "Wenwei Peng",
+          "Shaoda Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest.a.1820",
+        "url": "https://doi.org/10.1162/rest.a.1820",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11525,6 +11626,25 @@
         "pages": "",
         "doi": "",
         "url": "https://pindawang.github.io/files/Wang_Judicial_Oct26.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "title": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "authors": [
+          "Ernest Liu",
+          "Yi Lu",
+          "Wenwei Peng",
+          "Shaoda Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest.a.1820",
+        "url": "https://doi.org/10.1162/rest.a.1820",
         "verified": true,
         "note": ""
       }
@@ -11641,6 +11761,46 @@
         "pages": "",
         "doi": "",
         "url": "https://shengqini.weebly.com/uploads/1/2/0/7/120738660/ni_shengqi_jmp.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.10.11",
+    "title": "信用中国与失信被执行人名单（Credit China / 全国法院失信被执行人名单）",
+    "links": [
+      {
+        "label": "信用中国",
+        "url": "https://www.creditchina.gov.cn"
+      }
+    ],
+    "summary": "国家发展改革委与中国人民银行指导的“信用中国”网站及最高人民法院失信被执行人名单公示，2013 年以来公示被列入失信名单的企业和个人的名称、执行法院、案号、立案时间、失信行为和履行情况，以及行政处罚、行政许可等信用信息，公开查询。官网对自动访问返回 412。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是中国社会信用体系和司法执行的公开记录。研究常用它度量企业和个人失信、司法执行强度，分析信用惩戒的经济后果。",
+    "source": "公开查询；官网对自动访问返回 412。",
+    "references": [
+      {
+        "raw": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "title": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+        "authors": [
+          "Ernest Liu",
+          "Yi Lu",
+          "Wenwei Peng",
+          "Shaoda Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest.a.1820",
+        "url": "https://doi.org/10.1162/rest.a.1820",
         "verified": true,
         "note": ""
       }
@@ -12705,6 +12865,24 @@
         "url": "https://doi.org/10.1017/s0022109026102713",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+        "title": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+        "authors": [
+          "Chenyuan Liu",
+          "Yi Lu",
+          "Wanyu Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1162/rest.a.1829",
+        "url": "https://doi.org/10.1162/rest.a.1829",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12819,6 +12997,46 @@
         "pages": "3626-3657",
         "doi": "10.1017/s002210902610283x",
         "url": "https://doi.org/10.1017/s002210902610283x",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.12.12",
+    "title": "锐思金融研究数据库（RESSET）",
+    "links": [
+      {
+        "label": "RESSET 锐思数据",
+        "url": "https://www.resset.com/index/home"
+      }
+    ],
+    "summary": "北京聚源锐思数据科技有限公司提供的中国金融与经济研究数据库，覆盖股票、债券、基金、期货、上市公司财务与治理、宏观经济、高频交易数据，以及网络招聘信息等特色库，经机构订阅获取。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "这是与 CSMAR、Wind 并列的中国金融研究常用数据库之一。研究常用它获取上市公司和市场交易数据，以及招聘等另类数据。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+        "title": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+        "authors": [
+          "Chenyuan Liu",
+          "Yi Lu",
+          "Wanyu Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1162/rest.a.1829",
+        "url": "https://doi.org/10.1162/rest.a.1829",
         "verified": true,
         "note": ""
       }
@@ -18762,6 +18980,42 @@
         "pages": "1-88",
         "doi": "10.1162/rest.a.1871",
         "url": "https://doi.org/10.1162/rest.a.1871",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
+        "title": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
+        "authors": [
+          "Sonia Bhalotra",
+          "Damian Clarke",
+          "Atheendar Venkataramani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/743898",
+        "url": "https://doi.org/10.1086/743898",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Prior Residents Benefit from Energy Booms?",
+        "title": "Do Prior Residents Benefit from Energy Booms?",
+        "authors": [
+          "Luyi Han",
+          "John V. Winters",
+          "Michael R. Betz"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742967",
+        "url": "https://doi.org/10.1086/742967",
         "verified": true,
         "note": ""
       }
@@ -33126,6 +33380,116 @@
         "url": "https://doi.org/10.1086/743349",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "authors": [
+          "John J Conlon",
+          "Dev Patel"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2875-2923",
+        "doi": "10.1093/qje/qjag031",
+        "url": "https://doi.org/10.1093/qje/qjag031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "College Majors and Earnings Growth",
+        "title": "College Majors and Earnings Growth",
+        "authors": [
+          "Woosuk Choi",
+          "Josh Kinsler",
+          "Alexis Orellana",
+          "Ronni Pavan"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742937",
+        "url": "https://doi.org/10.1086/742937",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Effect of State and Local Sexual Orientation Anti-Discrimination Laws on Labor Market Differentials",
+        "title": "Effect of State and Local Sexual Orientation Anti-Discrimination Laws on Labor Market Differentials",
+        "authors": [
+          "Scott Delhommer",
+          "Domonkos Vamossy"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744668",
+        "url": "https://doi.org/10.1086/744668",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Prior Residents Benefit from Energy Booms?",
+        "title": "Do Prior Residents Benefit from Energy Booms?",
+        "authors": [
+          "Luyi Han",
+          "John V. Winters",
+          "Michael R. Betz"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742967",
+        "url": "https://doi.org/10.1086/742967",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "title": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "authors": [
+          "Shawn Cole",
+          "Leslie Jeng",
+          "Josh Lerner",
+          "Natalia Rigol",
+          "Benjamin N Roth"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/4BWWOE",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39085,6 +39449,42 @@
         "pages": "3181-3210",
         "doi": "10.1017/s0022109026102750",
         "url": "https://doi.org/10.1017/s0022109026102750",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "authors": [
+          "John J Conlon",
+          "Dev Patel"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2875-2923",
+        "doi": "10.1093/qje/qjag031",
+        "url": "https://doi.org/10.1093/qje/qjag031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Matching Function Equilibria with Partial Assignment: Existence, Uniqueness and Estimation",
+        "title": "Matching Function Equilibria with Partial Assignment: Existence, Uniqueness and Estimation",
+        "authors": [
+          "Liang Chen",
+          "Eugene Choo",
+          "Alfred Galichon",
+          "Simon Weber"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744671",
+        "url": "https://doi.org/10.1086/744671",
         "verified": true,
         "note": ""
       }
@@ -49556,6 +49956,23 @@
         "url": "https://doi.org/10.1162/rest.a.1872",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Effect of State and Local Sexual Orientation Anti-Discrimination Laws on Labor Market Differentials",
+        "title": "Effect of State and Local Sexual Orientation Anti-Discrimination Laws on Labor Market Differentials",
+        "authors": [
+          "Scott Delhommer",
+          "Domonkos Vamossy"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744668",
+        "url": "https://doi.org/10.1086/744668",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -50570,6 +50987,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/qg2fjco3uhygwmwi99sy9/Salom-_JMP_Draft_Oct26.pdf?dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "authors": [
+          "John J Conlon",
+          "Dev Patel"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2875-2923",
+        "doi": "10.1093/qje/qjag031",
+        "url": "https://doi.org/10.1093/qje/qjag031",
         "verified": true,
         "note": ""
       }
@@ -54667,6 +55101,24 @@
         "url": "https://nikh-rao.github.io/site_files/misdemeanors/Misdemeanors.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Prior Residents Benefit from Energy Booms?",
+        "title": "Do Prior Residents Benefit from Energy Booms?",
+        "authors": [
+          "Luyi Han",
+          "John V. Winters",
+          "Michael R. Betz"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742967",
+        "url": "https://doi.org/10.1086/742967",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -56108,6 +56560,25 @@
         "url": "https://doi.org/10.3386/w33317",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -56602,6 +57073,23 @@
         "pages": "",
         "doi": "10.3386/w33648",
         "url": "https://doi.org/10.3386/w33648",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "authors": [
+          "John J Conlon",
+          "Dev Patel"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2875-2923",
+        "doi": "10.1093/qje/qjag031",
+        "url": "https://doi.org/10.1093/qje/qjag031",
         "verified": true,
         "note": ""
       }
@@ -57201,6 +57689,25 @@
         "pages": "",
         "doi": "10.3386/w33851",
         "url": "https://doi.org/10.3386/w33851",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "title": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "authors": [
+          "Laura Ketter",
+          "Todd Morris",
+          "Todd Morris",
+          "Lizi Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/QTCQWP",
         "verified": true,
         "note": ""
       }
@@ -62315,6 +62822,25 @@
         "url": "https://doi.org/10.1162/rest.a.1871",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "College Majors and Earnings Growth",
+        "title": "College Majors and Earnings Growth",
+        "authors": [
+          "Woosuk Choi",
+          "Josh Kinsler",
+          "Alexis Orellana",
+          "Ronni Pavan"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742937",
+        "url": "https://doi.org/10.1086/742937",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65553,6 +66079,42 @@
         "url": "https://doi.org/10.7910/DVN/DOO1CH",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66006,6 +66568,24 @@
         "pages": "",
         "doi": "10.3386/w33254",
         "url": "https://doi.org/10.3386/w33254",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -71628,6 +72208,42 @@
         "url": "https://doi.org/10.7910/DVN/DOO1CH",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
+        "title": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities",
+        "authors": [
+          "Sonia Bhalotra",
+          "Damian Clarke",
+          "Atheendar Venkataramani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/743898",
+        "url": "https://doi.org/10.1086/743898",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -74227,6 +74843,24 @@
         "pages": "3261-3329",
         "doi": "10.1093/qje/qjag038",
         "url": "https://doi.org/10.1093/qje/qjag038",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
         "verified": true,
         "note": ""
       }
@@ -76952,6 +77586,24 @@
         "url": "https://doi.org/10.1162/rest_a_01351",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Energy Efficiency Dynamics and Climate Policy",
+        "title": "Energy Efficiency Dynamics and Climate Policy",
+        "authors": [
+          "Gregory Casey",
+          "Yang Gao",
+          "Peter K. Kruse-Andersen"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "6",
+        "pages": "1543-1574",
+        "doi": "10.1086/742586",
+        "url": "https://doi.org/10.1086/742586",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -77726,6 +78378,24 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1wAj4dHcFKDVhtzGAhHCnBM8Momlg9uf7",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -79576,6 +80246,42 @@
         "url": "https://doi.org/10.1017/s0022109026102610",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Prior Residents Benefit from Energy Booms?",
+        "title": "Do Prior Residents Benefit from Energy Booms?",
+        "authors": [
+          "Luyi Han",
+          "John V. Winters",
+          "Michael R. Betz"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742967",
+        "url": "https://doi.org/10.1086/742967",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Efficiency Dynamics and Climate Policy",
+        "title": "Energy Efficiency Dynamics and Climate Policy",
+        "authors": [
+          "Gregory Casey",
+          "Yang Gao",
+          "Peter K. Kruse-Andersen"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "6",
+        "pages": "1543-1574",
+        "doi": "10.1086/742586",
+        "url": "https://doi.org/10.1086/742586",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -81291,6 +81997,26 @@
         "pages": "",
         "doi": "10.3386/w33904",
         "url": "https://doi.org/10.3386/w33904",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "title": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "authors": [
+          "Shawn Cole",
+          "Leslie Jeng",
+          "Josh Lerner",
+          "Natalia Rigol",
+          "Benjamin N Roth"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/4BWWOE",
         "verified": true,
         "note": ""
       }
@@ -83212,6 +83938,24 @@
         "pages": "2656-2687",
         "doi": "10.1017/s0022109025102536",
         "url": "https://doi.org/10.1017/s0022109025102536",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -85730,6 +86474,42 @@
         "pages": "1841-1880",
         "doi": "10.1017/s0022109025102287",
         "url": "https://doi.org/10.1017/s0022109025102287",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -94649,6 +95429,25 @@
         "url": "https://drive.google.com/uc?export=download&id=1gdvl2DqXLdHlznZNEwviOWPFXJqgyuY-",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94881,6 +95680,25 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1dOfXgr32uaYWtVeDMy-FJiiQ8nycYn8v",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "title": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "authors": [
+          "Dean R. Lillard",
+          "Joseph J. Sabia",
+          "Zihao Sheng",
+          "Casey Warman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "S1",
+        "pages": "",
+        "doi": "10.1086/742942",
+        "url": "https://doi.org/10.1086/742942",
         "verified": true,
         "note": ""
       }
@@ -98747,6 +99565,26 @@
         "url": "https://doi.org/10.7910/DVN/TJUAXW",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "title": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "authors": [
+          "Shawn Cole",
+          "Leslie Jeng",
+          "Josh Lerner",
+          "Natalia Rigol",
+          "Benjamin N Roth"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/4BWWOE",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99547,6 +100385,24 @@
         "url": "https://doi.org/10.7910/DVN/GJOBOS",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Prior Residents Benefit from Energy Booms?",
+        "title": "Do Prior Residents Benefit from Energy Booms?",
+        "authors": [
+          "Luyi Han",
+          "John V. Winters",
+          "Michael R. Betz"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742967",
+        "url": "https://doi.org/10.1086/742967",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99668,6 +100524,24 @@
         "url": "https://thomas-yu.com/files/yu_thomas_jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Prior Residents Benefit from Energy Booms?",
+        "title": "Do Prior Residents Benefit from Energy Booms?",
+        "authors": [
+          "Luyi Han",
+          "John V. Winters",
+          "Michael R. Betz"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742967",
+        "url": "https://doi.org/10.1086/742967",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99703,6 +100577,41 @@
         "pages": "",
         "doi": "",
         "url": "https://acontrerasm.github.io/assets/documents/papers/contreras-branch-closures-spatial-competition-jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Prior Residents Benefit from Energy Booms?",
+        "title": "Do Prior Residents Benefit from Energy Booms?",
+        "authors": [
+          "Luyi Han",
+          "John V. Winters",
+          "Michael R. Betz"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742967",
+        "url": "https://doi.org/10.1086/742967",
         "verified": true,
         "note": ""
       }
@@ -100611,6 +101520,24 @@
         "pages": "1-37",
         "doi": "10.1162/rest_a_01564",
         "url": "https://doi.org/10.1162/rest_a_01564",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Parameter Recovery Using Remotely Sensed Variables",
+        "title": "Parameter Recovery Using Remotely Sensed Variables",
+        "authors": [
+          "Jonathan Proctor",
+          "Tamma Carleton",
+          "Sandy Sum"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742595",
+        "url": "https://doi.org/10.1086/742595",
         "verified": true,
         "note": ""
       }
@@ -102326,6 +103253,42 @@
         "url": "https://doi.org/10.1093/rfs/hhag073",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Parameter Recovery Using Remotely Sensed Variables",
+        "title": "Parameter Recovery Using Remotely Sensed Variables",
+        "authors": [
+          "Jonathan Proctor",
+          "Tamma Carleton",
+          "Sandy Sum"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742595",
+        "url": "https://doi.org/10.1086/742595",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -103224,6 +104187,24 @@
         "pages": "",
         "doi": "10.1086/743349",
         "url": "https://doi.org/10.1086/743349",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
         "verified": true,
         "note": ""
       }
@@ -104152,6 +105133,24 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1fQcrCORresikEu4-iOwKTa-GGn9EAlJ5",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
         "verified": true,
         "note": ""
       }
@@ -105462,6 +106461,24 @@
         "pages": "1-40",
         "doi": "10.1017/s0022109026103159",
         "url": "https://doi.org/10.1017/s0022109026103159",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
         "verified": true,
         "note": ""
       }
@@ -112736,6 +113753,24 @@
         "url": "https://doi.org/10.1093/rfs/hhag073",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -113985,6 +115020,24 @@
         "url": "https://doi.org/10.1086/743935",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Prior Residents Benefit from Energy Booms?",
+        "title": "Do Prior Residents Benefit from Energy Booms?",
+        "authors": [
+          "Luyi Han",
+          "John V. Winters",
+          "Michael R. Betz"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742967",
+        "url": "https://doi.org/10.1086/742967",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -114471,6 +115524,24 @@
         "pages": "",
         "doi": "",
         "url": "https://sonakshiagrawal.com/assets/Sonakshi_Agrawal_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
         "verified": true,
         "note": ""
       }
@@ -115699,6 +116770,24 @@
         "url": "https://doi.org/10.1086/743935",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Energy Efficiency Dynamics and Climate Policy",
+        "title": "Energy Efficiency Dynamics and Climate Policy",
+        "authors": [
+          "Gregory Casey",
+          "Yang Gao",
+          "Peter K. Kruse-Andersen"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "6",
+        "pages": "1543-1574",
+        "doi": "10.1086/742586",
+        "url": "https://doi.org/10.1086/742586",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -116475,6 +117564,24 @@
         "pages": "",
         "doi": "10.1086/743935",
         "url": "https://doi.org/10.1086/743935",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Efficiency Dynamics and Climate Policy",
+        "title": "Energy Efficiency Dynamics and Climate Policy",
+        "authors": [
+          "Gregory Casey",
+          "Yang Gao",
+          "Peter K. Kruse-Andersen"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "6",
+        "pages": "1543-1574",
+        "doi": "10.1086/742586",
+        "url": "https://doi.org/10.1086/742586",
         "verified": true,
         "note": ""
       }
@@ -118549,6 +119656,24 @@
         "pages": "",
         "doi": "10.1086/743935",
         "url": "https://doi.org/10.1086/743935",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
         "verified": true,
         "note": ""
       }
@@ -122831,6 +123956,45 @@
         "pages": "1-37",
         "doi": "10.1162/rest_a_01564",
         "url": "https://doi.org/10.1162/rest_a_01564",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Matching Function Equilibria with Partial Assignment: Existence, Uniqueness and Estimation",
+        "title": "Matching Function Equilibria with Partial Assignment: Existence, Uniqueness and Estimation",
+        "authors": [
+          "Liang Chen",
+          "Eugene Choo",
+          "Alfred Galichon",
+          "Simon Weber"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744671",
+        "url": "https://doi.org/10.1086/744671",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "title": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "authors": [
+          "Shawn Cole",
+          "Leslie Jeng",
+          "Josh Lerner",
+          "Natalia Rigol",
+          "Benjamin N Roth"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/4BWWOE",
         "verified": true,
         "note": ""
       }
@@ -137925,6 +139089,51 @@
     ]
   },
   {
+    "id": "2.9.26",
+    "title": "Advan 手机定位人流量数据（Advan Foot Traffic / Weekly Patterns）",
+    "links": [
+      {
+        "label": "Advan Research",
+        "url": "https://www.advan.us"
+      },
+      {
+        "label": "Dewey Data",
+        "url": "https://www.deweydata.io/"
+      }
+    ],
+    "summary": "Advan Research 基于手机定位数据提供的美国兴趣点人流量数据，2018 年以来按门店或场所逐周、逐日报告到访人次、到访者来源地（普查区块组）、停留时长和距离，覆盖数百万个零售、餐饮和其他场所；2022 年后接替 SafeGraph Patterns，经 Dewey 等平台订阅获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "交通数据",
+      "商业数据"
+    ],
+    "introduction": "这是 SafeGraph 之后美国场所人流量研究的主要商业数据。研究常用它度量消费者到访和人员流动，分析疫情、政策和天气对经济活动的影响。",
+    "source": "付费商业数据（经 Dewey 等平台）。",
+    "references": [
+      {
+        "raw": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "title": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "authors": [
+          "Dean R. Lillard",
+          "Joseph J. Sabia",
+          "Zihao Sheng",
+          "Casey Warman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "S1",
+        "pages": "",
+        "doi": "10.1086/742942",
+        "url": "https://doi.org/10.1086/742942",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.10.1",
     "title": "L2 政治数据",
     "links": [
@@ -138966,6 +140175,60 @@
         "pages": "",
         "doi": "10.1093/qje/qjag051",
         "url": "https://doi.org/10.1093/qje/qjag051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -140232,6 +141495,24 @@
         "pages": "48–59",
         "doi": "10.1162/rest_a_00897",
         "url": "https://doi.org/10.1162/rest_a_00897",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "title": "When the Regulator Goes Home: The Effectiveness of Environmental Inspections and Enforcement",
+        "authors": [
+          "Zach Raff",
+          "Jason M. Walter",
+          "Dietrich Earnhart"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742583",
+        "url": "https://doi.org/10.1086/742583",
         "verified": true,
         "note": ""
       }
@@ -141940,6 +143221,25 @@
         "pages": "1-34",
         "doi": "10.1017/s0022109026103299",
         "url": "https://doi.org/10.1017/s0022109026103299",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "title": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "authors": [
+          "Ke Na",
+          "Terry Shevlin",
+          "Youan Wang",
+          "Zigan Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-39",
+        "doi": "10.1017/s0022109026103202",
+        "url": "https://doi.org/10.1017/s0022109026103202",
         "verified": true,
         "note": ""
       }
@@ -147021,6 +148321,25 @@
         "url": "https://doi.org/10.1162/rest.a.1834",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -147934,6 +149253,47 @@
     ]
   },
   {
+    "id": "2.10.91",
+    "title": "民主基金选民研究组调查（Democracy Fund Voter Study Group：VOTER Survey / Nationscape）",
+    "links": [
+      {
+        "label": "Democracy Fund Voter Study Group",
+        "url": "https://www.voterstudygroup.org"
+      }
+    ],
+    "summary": "民主基金选民研究组 2016 年起开展的美国选民调查，包括由 YouGov 执行、跟踪同一批约 8000 名选民的 VOTER 面板调查和 2019–2021 年每周约 6000 人的 Nationscape 调查，记录政党认同、投票选择、政策态度和社会价值观，注册后公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是追踪美国选民态度变化的重要公开调查数据。研究常用它度量个人政治态度和极化，分析社会事件对选民观念的影响。",
+    "source": "注册后下载。",
+    "references": [
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.11.1",
     "title": "Zillow 房地产数据（ZTRAX 交易与评估记录、ZHVI 房价指数）",
     "links": [
@@ -148520,6 +149880,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -151315,6 +152693,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/DOO1CH",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -155248,6 +156644,23 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag086",
         "url": "https://doi.org/10.1093/rfs/hhag086",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
         "verified": true,
         "note": ""
       }
@@ -159438,6 +160851,80 @@
         "pages": "1-46",
         "doi": "10.1017/s0022109026103305",
         "url": "https://doi.org/10.1017/s0022109026103305",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "College Majors and Earnings Growth",
+        "title": "College Majors and Earnings Growth",
+        "authors": [
+          "Woosuk Choi",
+          "Josh Kinsler",
+          "Alexis Orellana",
+          "Ronni Pavan"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742937",
+        "url": "https://doi.org/10.1086/742937",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Energy Efficiency Dynamics and Climate Policy",
+        "title": "Energy Efficiency Dynamics and Climate Policy",
+        "authors": [
+          "Gregory Casey",
+          "Yang Gao",
+          "Peter K. Kruse-Andersen"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "6",
+        "pages": "1543-1574",
+        "doi": "10.1086/742586",
+        "url": "https://doi.org/10.1086/742586",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Bond Multipliers: Substitutes Matter",
+        "title": "Corporate Bond Multipliers: Substitutes Matter",
+        "authors": [
+          "Manav Chaudhary",
+          "Julie Zhiyu Fu",
+          "Jian Li"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag082",
+        "url": "https://doi.org/10.1093/rfs/hhag082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "title": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "authors": [
+          "Ke Na",
+          "Terry Shevlin",
+          "Youan Wang",
+          "Zigan Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-39",
+        "doi": "10.1017/s0022109026103202",
+        "url": "https://doi.org/10.1017/s0022109026103202",
         "verified": true,
         "note": ""
       }
@@ -165396,6 +166883,98 @@
         "url": "https://doi.org/10.1017/s0022109026102610",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "title": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "authors": [
+          "Shawn Cole",
+          "Leslie Jeng",
+          "Josh Lerner",
+          "Natalia Rigol",
+          "Benjamin N Roth"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/4BWWOE",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Green Pledges",
+        "title": "Corporate Green Pledges",
+        "authors": [
+          "Michael Bauer",
+          "Daniel Huber",
+          "Eric Offner",
+          "Ole Wilms"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "9",
+        "pages": "2729-2768",
+        "doi": "10.1093/rfs/hhag063",
+        "url": "https://doi.org/10.1093/rfs/hhag063",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Common Idiosyncratic Quantile Factors and Asset Prices",
+        "title": "Common Idiosyncratic Quantile Factors and Asset Prices",
+        "authors": [
+          "Jozef Baruník",
+          "Matěj Nevrla"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-42",
+        "doi": "10.1017/s002210902610307x",
+        "url": "https://doi.org/10.1017/s002210902610307x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "title": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "authors": [
+          "Ke Na",
+          "Terry Shevlin",
+          "Youan Wang",
+          "Zigan Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-39",
+        "doi": "10.1017/s0022109026103202",
+        "url": "https://doi.org/10.1017/s0022109026103202",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -168529,6 +170108,42 @@
         "url": "https://doi.org/10.1017/s0022109026102610",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Corporate Green Pledges",
+        "title": "Corporate Green Pledges",
+        "authors": [
+          "Michael Bauer",
+          "Daniel Huber",
+          "Eric Offner",
+          "Ole Wilms"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "9",
+        "pages": "2729-2768",
+        "doi": "10.1093/rfs/hhag063",
+        "url": "https://doi.org/10.1093/rfs/hhag063",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Common Idiosyncratic Quantile Factors and Asset Prices",
+        "title": "Common Idiosyncratic Quantile Factors and Asset Prices",
+        "authors": [
+          "Jozef Baruník",
+          "Matěj Nevrla"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-42",
+        "doi": "10.1017/s002210902610307x",
+        "url": "https://doi.org/10.1017/s002210902610307x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -168900,6 +170515,23 @@
         "pages": "3017-3048",
         "doi": "10.1017/s002210902510255x",
         "url": "https://doi.org/10.1017/s002210902510255x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
         "verified": true,
         "note": ""
       }
@@ -169646,6 +171278,23 @@
         "pages": "1-26",
         "doi": "10.1017/s002210902610324x",
         "url": "https://doi.org/10.1017/s002210902610324x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
         "verified": true,
         "note": ""
       }
@@ -170545,6 +172194,25 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag078",
         "url": "https://doi.org/10.1093/rfs/hhag078",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "title": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "authors": [
+          "Ke Na",
+          "Terry Shevlin",
+          "Youan Wang",
+          "Zigan Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-39",
+        "doi": "10.1017/s0022109026103202",
+        "url": "https://doi.org/10.1017/s0022109026103202",
         "verified": true,
         "note": ""
       }
@@ -171731,6 +173399,60 @@
         "url": "https://doi.org/10.1017/s0022109026102610",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Bond Multipliers: Substitutes Matter",
+        "title": "Corporate Bond Multipliers: Substitutes Matter",
+        "authors": [
+          "Manav Chaudhary",
+          "Julie Zhiyu Fu",
+          "Jian Li"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag082",
+        "url": "https://doi.org/10.1093/rfs/hhag082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Green Pledges",
+        "title": "Corporate Green Pledges",
+        "authors": [
+          "Michael Bauer",
+          "Daniel Huber",
+          "Eric Offner",
+          "Ole Wilms"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "9",
+        "pages": "2729-2768",
+        "doi": "10.1093/rfs/hhag063",
+        "url": "https://doi.org/10.1093/rfs/hhag063",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -171922,6 +173644,43 @@
         "pages": "",
         "doi": "",
         "url": "https://robinlenoir.com/public/papers/price_spillovers.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Bond Multipliers: Substitutes Matter",
+        "title": "Corporate Bond Multipliers: Substitutes Matter",
+        "authors": [
+          "Manav Chaudhary",
+          "Julie Zhiyu Fu",
+          "Jian Li"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag082",
+        "url": "https://doi.org/10.1093/rfs/hhag082",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "title": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "authors": [
+          "Ke Na",
+          "Terry Shevlin",
+          "Youan Wang",
+          "Zigan Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-39",
+        "doi": "10.1017/s0022109026103202",
+        "url": "https://doi.org/10.1017/s0022109026103202",
         "verified": true,
         "note": ""
       }
@@ -175048,6 +176807,24 @@
         "url": "https://doi.org/10.7910/DVN/XV7VYC",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -175528,6 +177305,25 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag073",
         "url": "https://doi.org/10.1093/rfs/hhag073",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "title": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "authors": [
+          "Ke Na",
+          "Terry Shevlin",
+          "Youan Wang",
+          "Zigan Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-39",
+        "doi": "10.1017/s0022109026103202",
+        "url": "https://doi.org/10.1017/s0022109026103202",
         "verified": true,
         "note": ""
       }
@@ -179838,6 +181634,25 @@
         "url": "https://doi.org/10.1017/s0022109026102610",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "title": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "authors": [
+          "Ke Na",
+          "Terry Shevlin",
+          "Youan Wang",
+          "Zigan Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-39",
+        "doi": "10.1017/s0022109026103202",
+        "url": "https://doi.org/10.1017/s0022109026103202",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -183509,6 +185324,24 @@
         "url": "https://www.dropbox.com/scl/fi/y41jyetvd13x16jw79tx3/paper12.pdf?rlkey=hj8xp29ahzeesj5qqyongzxp8&dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Corporate Bond Multipliers: Substitutes Matter",
+        "title": "Corporate Bond Multipliers: Substitutes Matter",
+        "authors": [
+          "Manav Chaudhary",
+          "Julie Zhiyu Fu",
+          "Jian Li"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag082",
+        "url": "https://doi.org/10.1093/rfs/hhag082",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -184126,6 +185959,24 @@
         "pages": "1-28",
         "doi": "10.1017/s0022109026102907",
         "url": "https://doi.org/10.1017/s0022109026102907",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -185991,6 +187842,45 @@
         "pages": "2169-2204",
         "doi": "10.1017/s002210902510238x",
         "url": "https://doi.org/10.1017/s002210902510238x",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.147",
+    "title": "WRDS 公司债收益率数据库（WRDS Bond Returns）",
+    "links": [
+      {
+        "label": "WRDS: Bond Returns",
+        "url": "https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-bond-returns/"
+      }
+    ],
+    "summary": "沃顿研究数据服务（WRDS）基于 TRACE 增强版成交记录与 FISD 债券特征整理的美国公司债月度数据，2002 年以来按债券报告月末价格、收益率、月度收益率、信用评级、期限、久期、息票和发行量，可与 CRSP/Compustat 链接，经 WRDS 订阅获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是研究美国公司债定价最常用的现成月度收益数据。研究常用它构造债券收益和因子，分析信用风险溢价和债券市场异象。",
+    "source": "付费数据（WRDS 订阅）。",
+    "references": [
+      {
+        "raw": "Corporate Bond Multipliers: Substitutes Matter",
+        "title": "Corporate Bond Multipliers: Substitutes Matter",
+        "authors": [
+          "Manav Chaudhary",
+          "Julie Zhiyu Fu",
+          "Jian Li"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag082",
+        "url": "https://doi.org/10.1093/rfs/hhag082",
         "verified": true,
         "note": ""
       }
@@ -188019,6 +189909,29 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Concentration & Job Design: The Case of Schedule Flexible Work Arrangements",
+        "title": "Firm Concentration & Job Design: The Case of Schedule Flexible Work Arrangements",
+        "authors": [
+          "Abi Adams",
+          "Abi Adams",
+          "Maria Balgova",
+          "Maria Balgova",
+          "Matthias Qian",
+          "Matthias Qian",
+          "Tom Waters",
+          "Tom Waters"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/XHM6OT",
         "verified": true,
         "note": ""
       }
@@ -191346,6 +193259,24 @@
         "pages": "",
         "doi": "10.3386/w32766",
         "url": "https://doi.org/10.3386/w32766",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Personal Bankruptcy Protection and Household Debt",
+        "title": "Personal Bankruptcy Protection and Household Debt",
+        "authors": [
+          "Felipe Severino",
+          "Meta Brown",
+          "Rajashri Chakrabarti"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag076",
+        "url": "https://doi.org/10.1093/rfs/hhag076",
         "verified": true,
         "note": ""
       }
@@ -201835,6 +203766,42 @@
         "url": "https://doi.org/10.3386/w32641",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "authors": [
+          "John J Conlon",
+          "Dev Patel"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2875-2923",
+        "doi": "10.1093/qje/qjag031",
+        "url": "https://doi.org/10.1093/qje/qjag031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "College Majors and Earnings Growth",
+        "title": "College Majors and Earnings Growth",
+        "authors": [
+          "Woosuk Choi",
+          "Josh Kinsler",
+          "Alexis Orellana",
+          "Ronni Pavan"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742937",
+        "url": "https://doi.org/10.1086/742937",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -202263,6 +204230,23 @@
         "pages": "",
         "doi": "10.3386/w33269",
         "url": "https://doi.org/10.3386/w33269",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "title": "What Jobs Come to Mind? Stereotypes About Fields of Study",
+        "authors": [
+          "John J Conlon",
+          "Dev Patel"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2875-2923",
+        "doi": "10.1093/qje/qjag031",
+        "url": "https://doi.org/10.1093/qje/qjag031",
         "verified": true,
         "note": ""
       }
@@ -204771,6 +206755,24 @@
         "url": "https://doi.org/10.7910/DVN/XQMIAQ",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Pays for Unions?",
+        "title": "Who Pays for Unions?",
+        "authors": [
+          "Samuel Dodini",
+          "Anna Stansbury",
+          "Alexander Willén"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3095-3159",
+        "doi": "10.1093/qje/qjag034",
+        "url": "https://doi.org/10.1093/qje/qjag034",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -206280,6 +208282,24 @@
         "pages": "",
         "doi": "10.3386/w33779",
         "url": "https://doi.org/10.3386/w33779",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Success and Failure of a Zero-Interest Green Loan program: Evidence from France",
+        "title": "Success and Failure of a Zero-Interest Green Loan program: Evidence from France",
+        "authors": [
+          "Ilya Eryzhenskiy",
+          "Louis-Gaëtan Giraudet",
+          "Mariona Segu"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742585",
+        "url": "https://doi.org/10.1086/742585",
         "verified": true,
         "note": ""
       }
@@ -216446,6 +218466,44 @@
         "url": "https://doi.org/10.1017/s0022109026102762",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pension Liquidity Risk\" by Jansen, Klingler, Ranaldo, and Duijm",
+        "title": "Pension Liquidity Risk\" by Jansen, Klingler, Ranaldo, and Duijm",
+        "authors": [
+          "Kristy Jansen",
+          "Sven Klingler",
+          "Angelo Ranaldo",
+          "Patty Duijm"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/PUSRUR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -224658,6 +226716,45 @@
     ]
   },
   {
+    "id": "3.12.15",
+    "title": "法国银行 Webstat 统计数据库（Banque de France Webstat）",
+    "links": [
+      {
+        "label": "Banque de France: Webstat",
+        "url": "https://webstat.banque-france.fr/en/"
+      }
+    ],
+    "summary": "法兰西银行（Banque de France）的统计数据门户，提供法国货币与信贷、利率（新发放贷款与存款利率）、银行资产负债、国际收支、企业融资和金融账户等时间序列，大多为月度或季度，公开下载（含 API）。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是法国金融统计的官方来源。研究常用它度量法国贷款利率、信贷总量和家庭企业融资，分析货币政策传导。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Success and Failure of a Zero-Interest Green Loan program: Evidence from France",
+        "title": "Success and Failure of a Zero-Interest Green Loan program: Evidence from France",
+        "authors": [
+          "Ilya Eryzhenskiy",
+          "Louis-Gaëtan Giraudet",
+          "Mariona Segu"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742585",
+        "url": "https://doi.org/10.1086/742585",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.13.1",
     "title": "Kantar 英国家庭快消品购买面板（Kantar Worldpanel / FMCG Purchase Panel）",
     "links": [
@@ -230172,6 +232269,23 @@
         "url": "https://thideyuki.netlify.app/Matching_treatment.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Childbirth and Welfare Inequality: The Role of Bargaining Power and Intrahousehold Allocation",
+        "title": "Childbirth and Welfare Inequality: The Role of Bargaining Power and Intrahousehold Allocation",
+        "authors": [
+          "Naijia Guo",
+          "Anning Xie"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744672",
+        "url": "https://doi.org/10.1086/744672",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -232860,6 +234974,22 @@
         "url": "https://doi.org/10.1093/qje/qjag041",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does a Food Waste Tax Work? Evidence from Quasi-Experiments in South Korea",
+        "title": "Does a Food Waste Tax Work? Evidence from Quasi-Experiments in South Korea",
+        "authors": [
+          "Seunghoon Lee"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1839",
+        "url": "https://doi.org/10.1162/rest.a.1839",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -235201,6 +237331,44 @@
     ]
   },
   {
+    "id": "4.8.9",
+    "title": "韩国国民健康营养调查（Korea National Health and Nutrition Examination Survey，KNHANES）",
+    "links": [
+      {
+        "label": "KNHANES",
+        "url": "https://knhanes.kdca.go.kr"
+      }
+    ],
+    "summary": "韩国疾病管理厅（KDCA）1998 年起开展的全国代表性健康调查（2007 年起年度连续），每年约 1 万人，结合健康访谈、体检和营养（24 小时膳食回顾）调查，记录慢性病、健康行为、生物指标和食物摄入，注册后公开下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是韩国国民健康与营养状况最权威的调查数据。研究常用它度量膳食、肥胖和慢性病，分析健康政策和食品政策效果。",
+    "source": "注册后下载。",
+    "references": [
+      {
+        "raw": "Does a Food Waste Tax Work? Evidence from Quasi-Experiments in South Korea",
+        "title": "Does a Food Waste Tax Work? Evidence from Quasi-Experiments in South Korea",
+        "authors": [
+          "Seunghoon Lee"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1839",
+        "url": "https://doi.org/10.1162/rest.a.1839",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.9.1",
     "title": "台湾运输资料流通服务平台（TDX）交通数据",
     "links": [
@@ -236875,6 +239043,43 @@
         "pages": "681-695",
         "doi": "10.1162/rest_a_01458",
         "url": "https://doi.org/10.1162/rest_a_01458",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.14.9",
+    "title": "韩国农水产食品流通公社农产品价格信息（KAMIS）",
+    "links": [
+      {
+        "label": "KAMIS",
+        "url": "https://www.kamis.or.kr"
+      }
+    ],
+    "summary": "韩国农水产食品流通公社（aT）运营的农产品流通信息系统（KAMIS），1990 年代以来按日报告全国主要城市批发市场和零售市场的农产品、畜产品和水产品价格，按品种、等级和地区提供，公开查询与下载（含开放 API）。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "农业数据"
+    ],
+    "introduction": "这是韩国农产品价格的官方高频数据。研究常用它度量食品价格变化，分析农业冲击、流通政策和通胀。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Does a Food Waste Tax Work? Evidence from Quasi-Experiments in South Korea",
+        "title": "Does a Food Waste Tax Work? Evidence from Quasi-Experiments in South Korea",
+        "authors": [
+          "Seunghoon Lee"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1839",
+        "url": "https://doi.org/10.1162/rest.a.1839",
         "verified": true,
         "note": ""
       }
@@ -243699,6 +245904,24 @@
         "url": "https://annapede.github.io/files/pede_jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Parameter Recovery Using Remotely Sensed Variables",
+        "title": "Parameter Recovery Using Remotely Sensed Variables",
+        "authors": [
+          "Jonathan Proctor",
+          "Tamma Carleton",
+          "Sandy Sum"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742595",
+        "url": "https://doi.org/10.1086/742595",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -248104,6 +250327,25 @@
         "url": "https://billyferguson.github.io/JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "title": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "authors": [
+          "Laura Ketter",
+          "Todd Morris",
+          "Todd Morris",
+          "Lizi Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/QTCQWP",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -248626,6 +250868,25 @@
         "url": "https://doi.org/10.3386/w33740",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "title": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "authors": [
+          "Dean R. Lillard",
+          "Joseph J. Sabia",
+          "Zihao Sheng",
+          "Casey Warman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "S1",
+        "pages": "",
+        "doi": "10.1086/742942",
+        "url": "https://doi.org/10.1086/742942",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -249056,6 +251317,44 @@
         "url": "https://doi.org/10.1017/s0022109026102920",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "title": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "authors": [
+          "Laura Ketter",
+          "Todd Morris",
+          "Todd Morris",
+          "Lizi Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/QTCQWP",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of School Disruptions during the COVID-19 Pandemic on Parental Labor Supply and Earnings in Australia",
+        "title": "The Impact of School Disruptions during the COVID-19 Pandemic on Parental Labor Supply and Earnings in Australia",
+        "authors": [
+          "Nicolás Salamanca",
+          "Tanya Gupta",
+          "Irma Mooi-Reci",
+          "Mark Wooden"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "S1",
+        "pages": "",
+        "doi": "10.1086/742927",
+        "url": "https://doi.org/10.1086/742927",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -249092,6 +251391,24 @@
         "pages": "102947",
         "doi": "10.1016/j.jdeveco.2022.102947",
         "url": "https://doi.org/10.1016/j.jdeveco.2022.102947",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Demand for Mobility: Evidence from an Experiment with Uber Riders",
+        "title": "The Demand for Mobility: Evidence from an Experiment with Uber Riders",
+        "authors": [
+          "Peter Christensen",
+          "Gustavo Nino",
+          "Adam Osman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "000-000",
+        "doi": "10.1086/743387",
+        "url": "https://doi.org/10.1086/743387",
         "verified": true,
         "note": ""
       }
@@ -249200,6 +251517,25 @@
         "pages": "",
         "doi": "10.3386/w33069",
         "url": "https://doi.org/10.3386/w33069",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "title": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "authors": [
+          "Dean R. Lillard",
+          "Joseph J. Sabia",
+          "Zihao Sheng",
+          "Casey Warman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "S1",
+        "pages": "",
+        "doi": "10.1086/742942",
+        "url": "https://doi.org/10.1086/742942",
         "verified": true,
         "note": ""
       }
@@ -249870,6 +252206,24 @@
         "url": "https://doi.org/10.7910/DVN/XQMIAQ",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Pays for Unions?",
+        "title": "Who Pays for Unions?",
+        "authors": [
+          "Samuel Dodini",
+          "Anna Stansbury",
+          "Alexander Willén"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3095-3159",
+        "doi": "10.1093/qje/qjag034",
+        "url": "https://doi.org/10.1093/qje/qjag034",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -250117,6 +252471,25 @@
         "url": "https://doi.org/10.1093/qje/qjag041",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "title": "The Effect of School Disruptions on Parental Labor Supply: Evidence from Canadian Panel Data",
+        "authors": [
+          "Dean R. Lillard",
+          "Joseph J. Sabia",
+          "Zihao Sheng",
+          "Casey Warman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "S1",
+        "pages": "",
+        "doi": "10.1086/742942",
+        "url": "https://doi.org/10.1086/742942",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -250220,6 +252593,62 @@
         "pages": "3447-3503",
         "doi": "10.1093/qje/qjag041",
         "url": "https://doi.org/10.1093/qje/qjag041",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Robust Design and Evaluation of Predictive Algorithms under Unobserved Confounding",
+        "title": "Robust Design and Evaluation of Predictive Algorithms under Unobserved Confounding",
+        "authors": [
+          "Ashesh Rambachan",
+          "Amanda Coston",
+          "Edward H. Kennedy"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-40",
+        "doi": "10.1162/rest.a.1815",
+        "url": "https://doi.org/10.1162/rest.a.1815",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "title": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "authors": [
+          "Laura Ketter",
+          "Todd Morris",
+          "Todd Morris",
+          "Lizi Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/QTCQWP",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of School Disruptions during the COVID-19 Pandemic on Parental Labor Supply and Earnings in Australia",
+        "title": "The Impact of School Disruptions during the COVID-19 Pandemic on Parental Labor Supply and Earnings in Australia",
+        "authors": [
+          "Nicolás Salamanca",
+          "Tanya Gupta",
+          "Irma Mooi-Reci",
+          "Mark Wooden"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "S1",
+        "pages": "",
+        "doi": "10.1086/742927",
+        "url": "https://doi.org/10.1086/742927",
         "verified": true,
         "note": ""
       }
@@ -255570,6 +257999,25 @@
         "url": "https://doi.org/10.1093/qje/qjag044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -256661,6 +259109,24 @@
         "pages": "1-31",
         "doi": "10.1162/rest.a.1873",
         "url": "https://doi.org/10.1162/rest.a.1873",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Parameter Recovery Using Remotely Sensed Variables",
+        "title": "Parameter Recovery Using Remotely Sensed Variables",
+        "authors": [
+          "Jonathan Proctor",
+          "Tamma Carleton",
+          "Sandy Sum"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742595",
+        "url": "https://doi.org/10.1086/742595",
         "verified": true,
         "note": ""
       }
@@ -264586,6 +267052,45 @@
         "pages": "1-46",
         "doi": "10.1017/s0022109026103305",
         "url": "https://doi.org/10.1017/s0022109026103305",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "title": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "authors": [
+          "Shawn Cole",
+          "Leslie Jeng",
+          "Josh Lerner",
+          "Natalia Rigol",
+          "Benjamin N Roth"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/4BWWOE",
         "verified": true,
         "note": ""
       }
@@ -273475,6 +275980,25 @@
         "url": "https://doi.org/10.3386/w33426",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "title": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "authors": [
+          "Laura Ketter",
+          "Todd Morris",
+          "Todd Morris",
+          "Lizi Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/QTCQWP",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -277850,6 +280374,46 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/ygsdjj2vl7blnndnu6g1h/JobMarketPaper.pdf?rlkey=9zvf57vbkb81vdh8wo8qv347x&st=isnnlrtu&raw=1",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.4.84",
+    "title": "联合国可持续发展目标全球数据库（UN SDG Global Database）",
+    "links": [
+      {
+        "label": "UN SDG Global Database",
+        "url": "https://unstats.un.org/sdgs/dataportal"
+      }
+    ],
+    "summary": "联合国统计司维护的可持续发展目标（SDG）指标全球数据库，2000 年以来按国家和地区汇编 231 个 SDG 指标的官方数据，涵盖贫困、健康、教育、性别平等、暴力与司法、环境和基础设施，注明数据来源与性质，公开下载（含 API）。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是跨国可持续发展指标的官方汇编。研究常用它获取暴力受害、出生登记等难以获得的跨国指标，比较各国发展进程。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
         "verified": true,
         "note": ""
       }
@@ -282281,6 +284845,25 @@
         "pages": "",
         "doi": "10.3386/w33542",
         "url": "https://doi.org/10.3386/w33542",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
         "verified": true,
         "note": ""
       }
@@ -288354,6 +290937,24 @@
         "url": "https://doi.org/10.1086/743348",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Parameter Recovery Using Remotely Sensed Variables",
+        "title": "Parameter Recovery Using Remotely Sensed Variables",
+        "authors": [
+          "Jonathan Proctor",
+          "Tamma Carleton",
+          "Sandy Sum"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742595",
+        "url": "https://doi.org/10.1086/742595",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -291359,6 +293960,25 @@
         "url": "https://doi.org/10.7910/DVN/M2JP8V",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Corporate Green Pledges",
+        "title": "Corporate Green Pledges",
+        "authors": [
+          "Michael Bauer",
+          "Daniel Huber",
+          "Eric Offner",
+          "Ole Wilms"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "9",
+        "pages": "2729-2768",
+        "doi": "10.1093/rfs/hhag063",
+        "url": "https://doi.org/10.1093/rfs/hhag063",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -291986,6 +294606,25 @@
         "pages": "",
         "doi": "10.3386/w33750",
         "url": "https://doi.org/10.3386/w33750",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Green Pledges",
+        "title": "Corporate Green Pledges",
+        "authors": [
+          "Michael Bauer",
+          "Daniel Huber",
+          "Eric Offner",
+          "Ole Wilms"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "9",
+        "pages": "2729-2768",
+        "doi": "10.1093/rfs/hhag063",
+        "url": "https://doi.org/10.1093/rfs/hhag063",
         "verified": true,
         "note": ""
       }
@@ -294303,6 +296942,22 @@
         "pages": "",
         "doi": "",
         "url": "https://liorshabtai.com/papers/shabtai_jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Impulse Response Analysis of Structural Nonlinear Time Series Models",
+        "title": "Impulse Response Analysis of Structural Nonlinear Time Series Models",
+        "authors": [
+          "Giovanni Ballarin"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1822",
+        "url": "https://doi.org/10.1162/rest.a.1822",
         "verified": true,
         "note": ""
       }
@@ -296643,6 +299298,45 @@
     ]
   },
   {
+    "id": "7.8.31",
+    "title": "WHO 解剖学治疗学化学分类与限定日剂量索引（ATC/DDD Index）",
+    "links": [
+      {
+        "label": "WHOCC: ATC/DDD Index",
+        "url": "https://atcddd.fhi.no/atc_ddd_index/"
+      }
+    ],
+    "summary": "世界卫生组织药物统计方法学合作中心（挪威公共卫生研究所）维护的药品分类系统，按解剖部位、治疗学、药理学和化学成分五级划分药品（ATC 编码），并给出每种药物的限定日剂量（DDD），每年更新，公开查询。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是国际通用的药品分类与用量标准。研究常用它将药品归类到治疗类别，并按限定日剂量折算药品使用量。",
+    "source": "公开查询。",
+    "references": [
+      {
+        "raw": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+        "title": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+        "authors": [
+          "Chenyuan Liu",
+          "Yi Lu",
+          "Wanyu Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1162/rest.a.1829",
+        "url": "https://doi.org/10.1162/rest.a.1829",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.9.1",
     "title": "谷歌新冠社区移动报告（Google COVID-19 Community Mobility Reports）",
     "links": [
@@ -296770,6 +299464,25 @@
         "pages": "",
         "doi": "10.3386/w33561",
         "url": "https://doi.org/10.3386/w33561",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "title": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "authors": [
+          "Laura Ketter",
+          "Todd Morris",
+          "Todd Morris",
+          "Lizi Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/QTCQWP",
         "verified": true,
         "note": ""
       }
@@ -303207,6 +305920,25 @@
         "url": "https://doi.org/10.3386/w32993",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -306760,6 +309492,25 @@
         "url": "https://doi.org/10.1093/rfs/hhag080",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pension Liquidity Risk\" by Jansen, Klingler, Ranaldo, and Duijm",
+        "title": "Pension Liquidity Risk\" by Jansen, Klingler, Ranaldo, and Duijm",
+        "authors": [
+          "Kristy Jansen",
+          "Sven Klingler",
+          "Angelo Ranaldo",
+          "Patty Duijm"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/PUSRUR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -307605,6 +310356,25 @@
         "url": "https://doi.org/10.1017/s0022109026102841",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pension Liquidity Risk\" by Jansen, Klingler, Ranaldo, and Duijm",
+        "title": "Pension Liquidity Risk\" by Jansen, Klingler, Ranaldo, and Duijm",
+        "authors": [
+          "Kristy Jansen",
+          "Sven Klingler",
+          "Angelo Ranaldo",
+          "Patty Duijm"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/PUSRUR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -307907,6 +310677,24 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag080",
         "url": "https://doi.org/10.1093/rfs/hhag080",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Bond Multipliers: Substitutes Matter",
+        "title": "Corporate Bond Multipliers: Substitutes Matter",
+        "authors": [
+          "Manav Chaudhary",
+          "Julie Zhiyu Fu",
+          "Jian Li"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag082",
+        "url": "https://doi.org/10.1093/rfs/hhag082",
         "verified": true,
         "note": ""
       }
@@ -310224,6 +313012,42 @@
         "url": "https://doi.org/10.1017/s002210902510255x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "title": "Political Connections, Financial Constraints, and Corporate Taxation",
+        "authors": [
+          "Ke Na",
+          "Terry Shevlin",
+          "Youan Wang",
+          "Zigan Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-39",
+        "doi": "10.1017/s0022109026103202",
+        "url": "https://doi.org/10.1017/s0022109026103202",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -310902,6 +313726,25 @@
         "pages": "2809-2841",
         "doi": "10.1017/s0022109026102610",
         "url": "https://doi.org/10.1017/s0022109026102610",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Green Pledges",
+        "title": "Corporate Green Pledges",
+        "authors": [
+          "Michael Bauer",
+          "Daniel Huber",
+          "Eric Offner",
+          "Ole Wilms"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "9",
+        "pages": "2729-2768",
+        "doi": "10.1093/rfs/hhag063",
+        "url": "https://doi.org/10.1093/rfs/hhag063",
         "verified": true,
         "note": ""
       }
@@ -312003,6 +314846,23 @@
         "pages": "2075-2105",
         "doi": "10.1017/s0022109025102354",
         "url": "https://doi.org/10.1017/s0022109025102354",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Underrepresentation of Women CEOs",
+        "title": "Underrepresentation of Women CEOs",
+        "authors": [
+          "Li He",
+          "Toni M Whited"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag077",
+        "url": "https://doi.org/10.1093/rfs/hhag077",
         "verified": true,
         "note": ""
       }
@@ -315205,6 +318065,26 @@
         "url": "https://doi.org/10.1017/s0022109025102354",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "title": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "authors": [
+          "Shawn Cole",
+          "Leslie Jeng",
+          "Josh Lerner",
+          "Natalia Rigol",
+          "Benjamin N Roth"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/4BWWOE",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -315404,6 +318284,26 @@
         "pages": "2238-2273",
         "doi": "10.1017/s0022109025102330",
         "url": "https://doi.org/10.1017/s0022109025102330",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "title": "Replication Code and Pseudo-Data for \"What do Impact Investors Do Differently",
+        "authors": [
+          "Shawn Cole",
+          "Leslie Jeng",
+          "Josh Lerner",
+          "Natalia Rigol",
+          "Benjamin N Roth"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/4BWWOE",
         "verified": true,
         "note": ""
       }
@@ -321055,6 +323955,44 @@
         "url": "https://doi.org/10.1017/s002210902510238x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effect of Social Movements: Evidence from #MeToo",
+        "title": "The Effect of Social Movements: Evidence from #MeToo",
+        "authors": [
+          "Ro'ee Levy",
+          "Roee Levy",
+          "Martin Mattsson",
+          "Martin Mattsson"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "title": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "authors": [
+          "Laura Ketter",
+          "Todd Morris",
+          "Todd Morris",
+          "Lizi Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/QTCQWP",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -325652,6 +328590,25 @@
         "pages": "",
         "doi": "10.3386/w32943",
         "url": "https://doi.org/10.3386/w32943",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "title": "A New Equilibrium: COVID-19 Lockdowns and WFH Persistence",
+        "authors": [
+          "Laura Ketter",
+          "Todd Morris",
+          "Todd Morris",
+          "Lizi Yu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/QTCQWP",
         "verified": true,
         "note": ""
       }
@@ -332446,6 +335403,24 @@
         "url": "https://doi.org/10.1162/rest.a.1833",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who Pays for Unions?",
+        "title": "Who Pays for Unions?",
+        "authors": [
+          "Samuel Dodini",
+          "Anna Stansbury",
+          "Alexander Willén"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3095-3159",
+        "doi": "10.1093/qje/qjag034",
+        "url": "https://doi.org/10.1093/qje/qjag034",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -337127,6 +340102,24 @@
         "pages": "",
         "doi": "",
         "url": "https://edward-wiles.com/storage/papers/relationship_dynamics.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Who Pays for Unions?",
+        "title": "Who Pays for Unions?",
+        "authors": [
+          "Samuel Dodini",
+          "Anna Stansbury",
+          "Alexander Willén"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3095-3159",
+        "doi": "10.1093/qje/qjag034",
+        "url": "https://doi.org/10.1093/qje/qjag034",
         "verified": true,
         "note": ""
       }
