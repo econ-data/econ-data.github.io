@@ -1171,6 +1171,24 @@
         "url": "https://drive.google.com/uc?export=download&id=1JD2pR_LKRFN-EVKZeMrIYRmaqREs9XQn",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "title": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "authors": [
+          "Zhihui Gu",
+          "Hao Liang",
+          "Hanyu Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3626-3657",
+        "doi": "10.1017/s002210902610283x",
+        "url": "https://doi.org/10.1017/s002210902610283x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -1963,6 +1981,43 @@
         "url": "https://drive.google.com/uc?export=download&id=1JD2pR_LKRFN-EVKZeMrIYRmaqREs9XQn",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "title": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "authors": [
+          "Zhihui Gu",
+          "Hao Liang",
+          "Hanyu Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3626-3657",
+        "doi": "10.1017/s002210902610283x",
+        "url": "https://doi.org/10.1017/s002210902610283x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "title": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "authors": [
+          "Geng Niu",
+          "Xuefeng Xiang",
+          "Liuming Yang",
+          "Yang Zhou"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3113-3140",
+        "doi": "10.1017/s0022109026102713",
+        "url": "https://doi.org/10.1017/s0022109026102713",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2089,6 +2144,25 @@
         "pages": "",
         "doi": "",
         "url": "https://econ.washington.edu/sites/econ/files/documents/job-papers/zhang_jmpaper%20-%20Jinwei%20%E2%80%9CWill%E2%80%9D%20Zhang.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "title": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "authors": [
+          "Geng Niu",
+          "Xuefeng Xiang",
+          "Liuming Yang",
+          "Yang Zhou"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3113-3140",
+        "doi": "10.1017/s0022109026102713",
+        "url": "https://doi.org/10.1017/s0022109026102713",
         "verified": true,
         "note": ""
       }
@@ -8619,6 +8693,24 @@
         "url": "https://doi.org/10.1016/j.jdeveco.2024.103353",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "title": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "authors": [
+          "Zhihui Gu",
+          "Hao Liang",
+          "Hanyu Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3626-3657",
+        "doi": "10.1017/s002210902610283x",
+        "url": "https://doi.org/10.1017/s002210902610283x",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11813,6 +11905,46 @@
     ]
   },
   {
+    "id": "1.11.3",
+    "title": "CityRE 中国房价行情数据（城市房地产数据）",
+    "links": [
+      {
+        "label": "CityRE",
+        "url": "https://www.cityre.cn/"
+      }
+    ],
+    "summary": "CityRE（中国房价行情网）提供的中国城市房地产市场数据，2000 年代以来按城市、区县和小区报告新建与二手住房挂牌价格、租金、成交量和供应信息，经订阅获取。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "这是中国城市和小区层面房价的常用商业数据。研究常用它度量城市房价和租金变化，分析住房政策与家庭财富。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "title": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "authors": [
+          "Geng Niu",
+          "Xuefeng Xiang",
+          "Liuming Yang",
+          "Yang Zhou"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3113-3140",
+        "doi": "10.1017/s0022109026102713",
+        "url": "https://doi.org/10.1017/s0022109026102713",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "1.12.1",
     "title": "银联银行卡交易数据",
     "links": [],
@@ -12056,6 +12188,43 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/BGWEE4",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "title": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "authors": [
+          "Zhihui Gu",
+          "Hao Liang",
+          "Hanyu Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3626-3657",
+        "doi": "10.1017/s002210902610283x",
+        "url": "https://doi.org/10.1017/s002210902610283x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "title": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "authors": [
+          "Geng Niu",
+          "Xuefeng Xiang",
+          "Liuming Yang",
+          "Yang Zhou"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3113-3140",
+        "doi": "10.1017/s0022109026102713",
+        "url": "https://doi.org/10.1017/s0022109026102713",
         "verified": true,
         "note": ""
       }
@@ -12399,6 +12568,43 @@
         "url": "https://doi.org/10.7910/DVN/BGWEE4",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "title": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "authors": [
+          "Zhihui Gu",
+          "Hao Liang",
+          "Hanyu Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3626-3657",
+        "doi": "10.1017/s002210902610283x",
+        "url": "https://doi.org/10.1017/s002210902610283x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "title": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "authors": [
+          "Geng Niu",
+          "Xuefeng Xiang",
+          "Liuming Yang",
+          "Yang Zhou"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3113-3140",
+        "doi": "10.1017/s0022109026102713",
+        "url": "https://doi.org/10.1017/s0022109026102713",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -12473,6 +12679,46 @@
         "pages": "",
         "doi": "",
         "url": "https://www.daihongmin.com/jmp.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.12.11",
+    "title": "中国研究数据服务平台（CNRDS）",
+    "links": [
+      {
+        "label": "CNRDS",
+        "url": "https://www.cnrds.com"
+      }
+    ],
+    "summary": "中国研究数据服务平台（CNRDS）提供的中国上市公司与经济金融研究数据库，包括企业创新专利、ESG 与社会责任、高管特征、股吧与新闻舆情、分析师、绿色专利、地区经济等数十个特色子库，经机构订阅获取。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观企业数据"
+    ],
+    "introduction": "这是中国上市公司研究的常用商业数据库之一。研究常用它度量企业创新、ESG 表现和媒体关注。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "title": "Shaped by Confucius: The Cultural Origin of Corporate Behavior",
+        "authors": [
+          "Zhihui Gu",
+          "Hao Liang",
+          "Hanyu Zhang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3626-3657",
+        "doi": "10.1017/s002210902610283x",
+        "url": "https://doi.org/10.1017/s002210902610283x",
         "verified": true,
         "note": ""
       }
@@ -12625,6 +12871,25 @@
         "pages": "1721–1771",
         "doi": "10.1093/jeea/jvad007",
         "url": "https://doi.org/10.1093/jeea/jvad007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "title": "Housing Speculation and Investment in Children’s Education: Evidence from House Purchase Restrictions in China",
+        "authors": [
+          "Geng Niu",
+          "Xuefeng Xiang",
+          "Liuming Yang",
+          "Yang Zhou"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3113-3140",
+        "doi": "10.1017/s0022109026102713",
+        "url": "https://doi.org/10.1017/s0022109026102713",
         "verified": true,
         "note": ""
       }
@@ -18331,6 +18596,22 @@
         "url": "https://doi.org/10.7910/DVN/GJOBOS",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Closing Ranks: Organized Labor and Immigration",
+        "title": "Closing Ranks: Organized Labor and Immigration",
+        "authors": [
+          "Carlo Medici"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744504",
+        "url": "https://doi.org/10.1086/744504",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -19628,6 +19909,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/GJOBOS",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Closing Ranks: Organized Labor and Immigration",
+        "title": "Closing Ranks: Organized Labor and Immigration",
+        "authors": [
+          "Carlo Medici"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744504",
+        "url": "https://doi.org/10.1086/744504",
         "verified": true,
         "note": ""
       }
@@ -23815,6 +24112,25 @@
         "url": "https://doi.org/10.1017/s0022109026102907",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -24936,6 +25252,22 @@
         "pages": "",
         "doi": "10.1086/743935",
         "url": "https://doi.org/10.1086/743935",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Closing Ranks: Organized Labor and Immigration",
+        "title": "Closing Ranks: Organized Labor and Immigration",
+        "authors": [
+          "Carlo Medici"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744504",
+        "url": "https://doi.org/10.1086/744504",
         "verified": true,
         "note": ""
       }
@@ -32517,6 +32849,23 @@
         "url": "https://doi.org/10.1017/s0022109026102907",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "title": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "authors": [
+          "Sebastian Doerr",
+          "Andreas Fuster"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag087",
+        "url": "https://doi.org/10.1093/rfs/hhag087",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -38439,6 +38788,43 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/AISRFH",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Careers in Finance",
+        "title": "Careers in Finance",
+        "authors": [
+          "Andrew Ellul",
+          "Marco Pagano",
+          "Annalisa Scognamiglio"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3181-3210",
+        "doi": "10.1017/s0022109026102750",
+        "url": "https://doi.org/10.1017/s0022109026102750",
         "verified": true,
         "note": ""
       }
@@ -48822,6 +49208,42 @@
         "url": "https://forte-papers.forteg100.workers.dev/Forte_JMP_OnlineRatings.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "title": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "authors": [
+          "Xuanyu Bai",
+          "Youchang Wu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-40",
+        "doi": "10.1017/s0022109026103159",
+        "url": "https://doi.org/10.1017/s0022109026103159",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Losing Political Representation",
+        "title": "Losing Political Representation",
+        "authors": [
+          "Timo Wochner",
+          "Aaron Günther",
+          "Niklas Potrafke",
+          "Felix Rösel"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-32",
+        "doi": "10.1162/rest.a.1872",
+        "url": "https://doi.org/10.1162/rest.a.1872",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -49415,6 +49837,23 @@
         "pages": "",
         "doi": "",
         "url": "https://jaeminwoo.com/files/woo_jmp_latest.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "title": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "authors": [
+          "Quentin Dupont",
+          "Kayla M. Freeman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026102944",
+        "url": "https://doi.org/10.1017/s0022109026102944",
         "verified": true,
         "note": ""
       }
@@ -51178,6 +51617,25 @@
         "pages": "",
         "doi": "",
         "url": "https://willycecon.com/JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
         "verified": true,
         "note": ""
       }
@@ -57405,6 +57863,25 @@
         "url": "https://drive.google.com/uc?export=download&id=1TudlLntEr0iNyL0M-4IarYgU_2ScDV_m",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -59436,6 +59913,60 @@
         "pages": "",
         "doi": "10.1093/qje/qjag052",
         "url": "https://doi.org/10.1093/qje/qjag052",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
         "verified": true,
         "note": ""
       }
@@ -62479,6 +63010,25 @@
         "url": "https://doi.org/10.1086/743935",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -64716,6 +65266,23 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag096",
         "url": "https://doi.org/10.1093/rfs/hhag096",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "title": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "authors": [
+          "Pamela Giustinelli",
+          "Stefano Rossi"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag086",
+        "url": "https://doi.org/10.1093/rfs/hhag086",
         "verified": true,
         "note": ""
       }
@@ -70554,6 +71121,60 @@
         "url": "https://doi.org/10.1017/s0022109026102907",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -70800,6 +71421,25 @@
         "pages": "",
         "doi": "10.1086/743935",
         "url": "https://doi.org/10.1086/743935",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
         "verified": true,
         "note": ""
       }
@@ -76225,6 +76865,23 @@
         "url": "https://doi.org/10.3386/w33876",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "title": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "authors": [
+          "Sebastian Doerr",
+          "Andreas Fuster"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag087",
+        "url": "https://doi.org/10.1093/rfs/hhag087",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -79873,6 +80530,22 @@
         "url": "https://www.jstor.org/stable/1814529",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Closing Ranks: Organized Labor and Immigration",
+        "title": "Closing Ranks: Organized Labor and Immigration",
+        "authors": [
+          "Carlo Medici"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744504",
+        "url": "https://doi.org/10.1086/744504",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -80307,6 +80980,23 @@
         "pages": "",
         "doi": "",
         "url": "https://docs.nicoloceneri.com/jmp_ceneri.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "title": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "authors": [
+          "Pamela Giustinelli",
+          "Stefano Rossi"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag086",
+        "url": "https://doi.org/10.1093/rfs/hhag086",
         "verified": true,
         "note": ""
       }
@@ -81912,6 +82602,25 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/XV7VYC",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
         "verified": true,
         "note": ""
       }
@@ -84412,6 +85121,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/BGWEE4",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Insiders' information advantage: Evidence from competition with short sellers",
+        "title": "Insiders' information advantage: Evidence from competition with short sellers",
+        "authors": [
+          "Harold Contreras",
+          "Jana P. Fidrmuc",
+          "Roman Kozhan"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1841-1880",
+        "doi": "10.1017/s0022109025102287",
+        "url": "https://doi.org/10.1017/s0022109025102287",
         "verified": true,
         "note": ""
       }
@@ -89215,6 +89942,25 @@
         "url": "https://doi.org/10.7910/DVN/0YAYDY",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -90246,6 +90992,24 @@
         "url": "https://letian-yin.github.io/share/research/JMP_Yin_credit_access.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
+        "title": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
+        "authors": [
+          "Barbara Biasi",
+          "Chao Fu",
+          "John Stromme"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744049",
+        "url": "https://doi.org/10.1086/744049",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -90480,6 +91244,23 @@
         "pages": "",
         "doi": "",
         "url": "https://hongwangecon.github.io/jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "title": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "authors": [
+          "Quentin Dupont",
+          "Kayla M. Freeman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026102944",
+        "url": "https://doi.org/10.1017/s0022109026102944",
         "verified": true,
         "note": ""
       }
@@ -91029,6 +91810,26 @@
         "pages": "",
         "doi": "10.3386/w33631",
         "url": "https://doi.org/10.3386/w33631",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "title": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "authors": [
+          "Jarrad Harford",
+          "Xing Li",
+          "Jiaren Pang",
+          "Haibin Wu",
+          "Liu Zheng"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1017/s0022109026102798",
+        "url": "https://doi.org/10.1017/s0022109026102798",
         "verified": true,
         "note": ""
       }
@@ -92835,6 +93636,42 @@
         "pages": "",
         "doi": "10.3386/w33262",
         "url": "https://doi.org/10.3386/w33262",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "title": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "authors": [
+          "Patrick Schwarz",
+          "Dominik Walter",
+          "Patrick Weiss"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3243-3279",
+        "doi": "10.1017/s0022109026102774",
+        "url": "https://doi.org/10.1017/s0022109026102774",
         "verified": true,
         "note": ""
       }
@@ -95052,6 +95889,45 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/XV7VYC",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.101",
+    "title": "USDA ERS 县类型代码（County Typology Codes）",
+    "links": [
+      {
+        "label": "USDA ERS: County Typology Codes",
+        "url": "https://www.ers.usda.gov/data-products/county-typology-codes/"
+      }
+    ],
+    "summary": "美国农业部经济研究局（ERS）按经济依赖类型（农业、采矿、制造、联邦/州政府、娱乐、非专业化）和政策类型（低教育、低就业、人口流失、持续贫困、退休目的地等）划分的县级分类代码，1979 年以来多个版本（最新 2015、2025），公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "农业数据"
+    ],
+    "introduction": "这是区分美国县经济结构和政策特征的常用分类。研究常用它识别农业、采矿和持续贫困县，作为异质性分组变量。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "title": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "authors": [
+          "Sebastian Doerr",
+          "Andreas Fuster"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag087",
+        "url": "https://doi.org/10.1093/rfs/hhag087",
         "verified": true,
         "note": ""
       }
@@ -97570,6 +98446,59 @@
         "url": "https://doi.org/10.1093/qje/qjag051",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "title": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "authors": [
+          "Sebastian Doerr",
+          "Andreas Fuster"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag087",
+        "url": "https://doi.org/10.1093/rfs/hhag087",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "title": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "authors": [
+          "Quentin Dupont",
+          "Kayla M. Freeman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026102944",
+        "url": "https://doi.org/10.1017/s0022109026102944",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -98978,6 +99907,25 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/2KFJTW",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
         "verified": true,
         "note": ""
       }
@@ -101821,6 +102769,25 @@
         "url": "https://drive.google.com/uc?export=download&id=1Rf8bCX-R5-0y2Aa-EHJRyiGSCUCdwzLB",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -103701,6 +104668,23 @@
         "pages": "",
         "doi": "10.1086/743935",
         "url": "https://doi.org/10.1086/743935",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "title": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "authors": [
+          "Xuanyu Bai",
+          "Youchang Wu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-40",
+        "doi": "10.1017/s0022109026103159",
+        "url": "https://doi.org/10.1017/s0022109026103159",
         "verified": true,
         "note": ""
       }
@@ -108831,6 +109815,25 @@
         "url": "https://taniadiazbazan.com/paper/diazbazan_jmp_oct2026.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110842,6 +111845,23 @@
         "pages": "",
         "doi": "",
         "url": "https://sonakshiagrawal.com/assets/Sonakshi_Agrawal_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "title": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "authors": [
+          "Xuanyu Bai",
+          "Youchang Wu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-40",
+        "doi": "10.1017/s0022109026103159",
+        "url": "https://doi.org/10.1017/s0022109026103159",
         "verified": true,
         "note": ""
       }
@@ -120889,6 +121909,22 @@
         "pages": "",
         "doi": "",
         "url": "https://mtgibson.github.io/publication/job-market_paper/Chapter_1__Harvesting_the_Toll.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Optimal retirement saving and dissaving",
+        "title": "Optimal retirement saving and dissaving",
+        "authors": [
+          "Claus Munk"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3594-3625",
+        "doi": "10.1017/s0022109026102968",
+        "url": "https://doi.org/10.1017/s0022109026102968",
         "verified": true,
         "note": ""
       }
@@ -133020,6 +134056,47 @@
     ]
   },
   {
+    "id": "2.8.126",
+    "title": "美国职业安全与健康管理局执法数据（OSHA Enforcement Data）",
+    "links": [
+      {
+        "label": "DOL Enforcement Data",
+        "url": "https://enforcedata.dol.gov/views/data_summary.php"
+      }
+    ],
+    "summary": "美国劳工部职业安全与健康管理局（OSHA）的执法数据，1970 年代以来记录对工作场所的每次检查、违规引用、罚款、事故调查和伤亡情况，包括机构名称、地址、行业代码和员工人数，经劳工部执法数据门户公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据",
+      "微观企业数据"
+    ],
+    "introduction": "这是美国工作场所安全监管的机构层面数据。研究常用它度量企业安全违规和检查强度，分析监管执法对工伤的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.9.1",
     "title": "商品流调查（Commodity Flow Survey，CFS）",
     "links": [
@@ -137985,6 +139062,25 @@
         "url": "https://doi.org/10.3386/w32733",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -139776,6 +140872,24 @@
         "pages": "1-28",
         "doi": "10.1017/s0022109026102907",
         "url": "https://doi.org/10.1017/s0022109026102907",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "title": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "authors": [
+          "Mancy Luo",
+          "Alberto Manconi",
+          "Massimo Massa"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3211-3242",
+        "doi": "10.1017/s002210902610297x",
+        "url": "https://doi.org/10.1017/s002210902610297x",
         "verified": true,
         "note": ""
       }
@@ -145641,6 +146755,43 @@
     ]
   },
   {
+    "id": "2.10.90",
+    "title": "美国历史选举结果（ICPSR 1：United States Historical Election Returns，1788–1990）",
+    "links": [
+      {
+        "label": "ICPSR 1: U.S. Historical Election Returns",
+        "url": "https://www.icpsr.umich.edu/web/ICPSR/studies/1"
+      }
+    ],
+    "summary": "校际政治与社会研究联合会（ICPSR）最早编制的历史选举数据集（研究编号 1），按县报告 1788–1990 年美国总统、国会、州长和参议员选举中各候选人与政党的得票数，经 ICPSR 公开下载（部分需机构会员）。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是美国历史县级选举结果的标准数据。研究常用它度量长期政党得票和政治竞争，分析历史政治经济问题。",
+    "source": "公开下载（部分需 ICPSR 会员）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Closing Ranks: Organized Labor and Immigration",
+        "title": "Closing Ranks: Organized Labor and Immigration",
+        "authors": [
+          "Carlo Medici"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744504",
+        "url": "https://doi.org/10.1086/744504",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.11.1",
     "title": "Zillow 房地产数据（ZTRAX 交易与评估记录、ZHVI 房价指数）",
     "links": [
@@ -146208,6 +147359,25 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/TJUAXW",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
         "verified": true,
         "note": ""
       }
@@ -148049,6 +149219,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/TJUAXW",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "title": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "authors": [
+          "Sebastian Doerr",
+          "Andreas Fuster"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag087",
+        "url": "https://doi.org/10.1093/rfs/hhag087",
         "verified": true,
         "note": ""
       }
@@ -152847,6 +154034,23 @@
         "url": "https://www.dropbox.com/scl/fi/y41jyetvd13x16jw79tx3/paper12.pdf?rlkey=hj8xp29ahzeesj5qqyongzxp8&dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "title": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "authors": [
+          "Pamela Giustinelli",
+          "Stefano Rossi"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag086",
+        "url": "https://doi.org/10.1093/rfs/hhag086",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -153202,6 +154406,23 @@
         "pages": "",
         "doi": "10.3386/w33770",
         "url": "https://doi.org/10.3386/w33770",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Emissions and the Bank Lending Channel",
+        "title": "Carbon Emissions and the Bank Lending Channel",
+        "authors": [
+          "Marcin Kacperczyk",
+          "José-Luis Peydró"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag078",
+        "url": "https://doi.org/10.1093/rfs/hhag078",
         "verified": true,
         "note": ""
       }
@@ -156880,6 +158101,57 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag096",
         "url": "https://doi.org/10.1093/rfs/hhag096",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "title": "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes",
+        "authors": [
+          "Sebastian Doerr",
+          "Andreas Fuster"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag087",
+        "url": "https://doi.org/10.1093/rfs/hhag087",
         "verified": true,
         "note": ""
       }
@@ -162381,6 +163653,272 @@
         "url": "https://doi.org/10.1017/s0022109025102330",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "title": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "authors": [
+          "Ricardo Delao",
+          "Xiao Han",
+          "Sean Myers"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag095",
+        "url": "https://doi.org/10.1093/rfs/hhag095",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Central Bank Economic Transparency and Managerial Learning",
+        "title": "Central Bank Economic Transparency and Managerial Learning",
+        "authors": [
+          "Oliver Binz",
+          "Elia Ferracuti",
+          "Gary Lind"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag089",
+        "url": "https://doi.org/10.1093/rfs/hhag089",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "title": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "authors": [
+          "Pamela Giustinelli",
+          "Stefano Rossi"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag086",
+        "url": "https://doi.org/10.1093/rfs/hhag086",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Emissions and the Bank Lending Channel",
+        "title": "Carbon Emissions and the Bank Lending Channel",
+        "authors": [
+          "Marcin Kacperczyk",
+          "José-Luis Peydró"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag078",
+        "url": "https://doi.org/10.1093/rfs/hhag078",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "title": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "authors": [
+          "Patrick Schwarz",
+          "Dominik Walter",
+          "Patrick Weiss"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3243-3279",
+        "doi": "10.1017/s0022109026102774",
+        "url": "https://doi.org/10.1017/s0022109026102774",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "title": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "authors": [
+          "Quentin Dupont",
+          "Kayla M. Freeman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026102944",
+        "url": "https://doi.org/10.1017/s0022109026102944",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Appointing Charity Directors in Response ot ESG Incidents",
+        "title": "Appointing Charity Directors in Response ot ESG Incidents",
+        "authors": [
+          "Yuyang Zhang",
+          "Marina Gertsberg",
+          "Hae Won Jung"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/2EMHF4",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "title": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "authors": [
+          "Mancy Luo",
+          "Alberto Manconi",
+          "Massimo Massa"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3211-3242",
+        "doi": "10.1017/s002210902610297x",
+        "url": "https://doi.org/10.1017/s002210902610297x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Insiders' information advantage: Evidence from competition with short sellers",
+        "title": "Insiders' information advantage: Evidence from competition with short sellers",
+        "authors": [
+          "Harold Contreras",
+          "Jana P. Fidrmuc",
+          "Roman Kozhan"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1841-1880",
+        "doi": "10.1017/s0022109025102287",
+        "url": "https://doi.org/10.1017/s0022109025102287",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "title": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "authors": [
+          "John Chalmers",
+          "Arash Dayani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/XJQNA8",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "title": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "authors": [
+          "Jarrad Harford",
+          "Xing Li",
+          "Jiaren Pang",
+          "Haibin Wu",
+          "Liu Zheng"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1017/s0022109026102798",
+        "url": "https://doi.org/10.1017/s0022109026102798",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -165144,6 +166682,218 @@
         "url": "https://doi.org/10.1017/s0022109025102330",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "title": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "authors": [
+          "Ricardo Delao",
+          "Xiao Han",
+          "Sean Myers"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag095",
+        "url": "https://doi.org/10.1093/rfs/hhag095",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "title": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "authors": [
+          "Pamela Giustinelli",
+          "Stefano Rossi"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag086",
+        "url": "https://doi.org/10.1093/rfs/hhag086",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "title": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "authors": [
+          "Patrick Schwarz",
+          "Dominik Walter",
+          "Patrick Weiss"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3243-3279",
+        "doi": "10.1017/s0022109026102774",
+        "url": "https://doi.org/10.1017/s0022109026102774",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Appointing Charity Directors in Response ot ESG Incidents",
+        "title": "Appointing Charity Directors in Response ot ESG Incidents",
+        "authors": [
+          "Yuyang Zhang",
+          "Marina Gertsberg",
+          "Hae Won Jung"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/2EMHF4",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "title": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "authors": [
+          "Mancy Luo",
+          "Alberto Manconi",
+          "Massimo Massa"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3211-3242",
+        "doi": "10.1017/s002210902610297x",
+        "url": "https://doi.org/10.1017/s002210902610297x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When is the Price of Analysts' Disagreement Risk Positive",
+        "title": "When is the Price of Analysts' Disagreement Risk Positive",
+        "authors": [
+          "Alexander David",
+          "Amel Farhat"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-44",
+        "doi": "10.1017/s0022109026102956",
+        "url": "https://doi.org/10.1017/s0022109026102956",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "title": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "authors": [
+          "John Chalmers",
+          "Arash Dayani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/XJQNA8",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "title": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "authors": [
+          "Jarrad Harford",
+          "Xing Li",
+          "Jiaren Pang",
+          "Haibin Wu",
+          "Liu Zheng"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1017/s0022109026102798",
+        "url": "https://doi.org/10.1017/s0022109026102798",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -165481,6 +167231,23 @@
         "pages": "",
         "doi": "",
         "url": "https://marcoolivari.github.io/papers/firm-planning-horizon.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "title": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "authors": [
+          "Pamela Giustinelli",
+          "Stefano Rossi"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag086",
+        "url": "https://doi.org/10.1093/rfs/hhag086",
         "verified": true,
         "note": ""
       }
@@ -166090,6 +167857,58 @@
         "pages": "2238-2273",
         "doi": "10.1017/s0022109025102330",
         "url": "https://doi.org/10.1017/s0022109025102330",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Emissions and the Bank Lending Channel",
+        "title": "Carbon Emissions and the Bank Lending Channel",
+        "authors": [
+          "Marcin Kacperczyk",
+          "José-Luis Peydró"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag078",
+        "url": "https://doi.org/10.1093/rfs/hhag078",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
         "verified": true,
         "note": ""
       }
@@ -166904,6 +168723,39 @@
         "pages": "1-28",
         "doi": "10.1017/s0022109026102907",
         "url": "https://doi.org/10.1017/s0022109026102907",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+        "title": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+        "authors": [
+          "Eric Richert"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744119",
+        "url": "https://doi.org/10.1086/744119",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Emissions and the Bank Lending Channel",
+        "title": "Carbon Emissions and the Bank Lending Channel",
+        "authors": [
+          "Marcin Kacperczyk",
+          "José-Luis Peydró"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag078",
+        "url": "https://doi.org/10.1093/rfs/hhag078",
         "verified": true,
         "note": ""
       }
@@ -167893,6 +169745,130 @@
         "pages": "1695-1722",
         "doi": "10.1017/s0022109025102226",
         "url": "https://doi.org/10.1017/s0022109025102226",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "title": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "authors": [
+          "Ricardo Delao",
+          "Xiao Han",
+          "Sean Myers"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag095",
+        "url": "https://doi.org/10.1093/rfs/hhag095",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "title": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "authors": [
+          "Patrick Schwarz",
+          "Dominik Walter",
+          "Patrick Weiss"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3243-3279",
+        "doi": "10.1017/s0022109026102774",
+        "url": "https://doi.org/10.1017/s0022109026102774",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Insiders' information advantage: Evidence from competition with short sellers",
+        "title": "Insiders' information advantage: Evidence from competition with short sellers",
+        "authors": [
+          "Harold Contreras",
+          "Jana P. Fidrmuc",
+          "Roman Kozhan"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1841-1880",
+        "doi": "10.1017/s0022109025102287",
+        "url": "https://doi.org/10.1017/s0022109025102287",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "title": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "authors": [
+          "John Chalmers",
+          "Arash Dayani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/XJQNA8",
         "verified": true,
         "note": ""
       }
@@ -169071,6 +171047,24 @@
         "url": "https://jarahman.com/files/Rahman_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -169265,6 +171259,25 @@
         "pages": "1-28",
         "doi": "10.1017/s0022109026102907",
         "url": "https://doi.org/10.1017/s0022109026102907",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
         "verified": true,
         "note": ""
       }
@@ -169800,6 +171813,25 @@
         "pages": "1-28",
         "doi": "10.1017/s0022109026102907",
         "url": "https://doi.org/10.1017/s0022109026102907",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
         "verified": true,
         "note": ""
       }
@@ -170751,6 +172783,22 @@
         "url": "https://jarahman.com/files/Rahman_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -171531,6 +173579,23 @@
         "pages": "3225–3268",
         "doi": "10.1093/rfs/hhv044",
         "url": "https://doi.org/10.1093/rfs/hhv044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "title": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "authors": [
+          "Quentin Dupont",
+          "Kayla M. Freeman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026102944",
+        "url": "https://doi.org/10.1017/s0022109026102944",
         "verified": true,
         "note": ""
       }
@@ -172649,6 +174714,23 @@
         "url": "https://doi.org/10.1093/rfs/hhag096",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "title": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "authors": [
+          "Daniele Bianchi",
+          "Teng Jiao"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026103329",
+        "url": "https://doi.org/10.1017/s0022109026103329",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172774,6 +174856,39 @@
         "url": "https://robinlenoir.com/public/papers/price_spillovers.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "title": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "authors": [
+          "John Chalmers",
+          "Arash Dayani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/XJQNA8",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172864,6 +174979,24 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/xum7jiv64qsn18zlf8pwd/Latest_draft.pdf?dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "title": "Rewriting CRSP's History: Impact of Altered Monthly Returns on Asset Pricing",
+        "authors": [
+          "Patrick Schwarz",
+          "Dominik Walter",
+          "Patrick Weiss"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3243-3279",
+        "doi": "10.1017/s0022109026102774",
+        "url": "https://doi.org/10.1017/s0022109026102774",
         "verified": true,
         "note": ""
       }
@@ -174144,6 +176277,25 @@
         "url": "https://doi.org/10.1017/s0022109025102330",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -174289,6 +176441,23 @@
         "url": "https://doi.org/10.7910/DVN/AAWUT1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "title": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "authors": [
+          "John Chalmers",
+          "Arash Dayani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/XJQNA8",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -174345,6 +176514,22 @@
         "pages": "",
         "doi": "10.3386/w32101",
         "url": "https://doi.org/10.3386/w32101",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
         "verified": true,
         "note": ""
       }
@@ -174633,6 +176818,39 @@
         "url": "https://doi.org/10.7910/DVN/AAWUT1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "title": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "authors": [
+          "John Chalmers",
+          "Arash Dayani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/XJQNA8",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -174703,6 +176921,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/xum7jiv64qsn18zlf8pwd/Latest_draft.pdf?dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
         "verified": true,
         "note": ""
       }
@@ -175004,6 +177238,22 @@
         "pages": "",
         "doi": "",
         "url": "https://robinlenoir.com/public/papers/price_spillovers.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+        "title": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+        "authors": [
+          "Eric Richert"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744119",
+        "url": "https://doi.org/10.1086/744119",
         "verified": true,
         "note": ""
       }
@@ -175495,6 +177745,26 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/CUUFFM",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "title": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "authors": [
+          "Jarrad Harford",
+          "Xing Li",
+          "Jiaren Pang",
+          "Haibin Wu",
+          "Liu Zheng"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1017/s0022109026102798",
+        "url": "https://doi.org/10.1017/s0022109026102798",
         "verified": true,
         "note": ""
       }
@@ -176302,6 +178572,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/yjapo224we7r84d51kqbp/jmp_yilun_allen_shen.pdf?dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating the Term Premium: Sample Periods Matter",
+        "title": "Estimating the Term Premium: Sample Periods Matter",
+        "authors": [
+          "Zehao Li"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-33",
+        "doi": "10.1017/s0022109026103263",
+        "url": "https://doi.org/10.1017/s0022109026103263",
         "verified": true,
         "note": ""
       }
@@ -177428,6 +179714,24 @@
         "url": "https://doi.org/10.3386/w32611",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "title": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "authors": [
+          "Ricardo Delao",
+          "Xiao Han",
+          "Sean Myers"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag095",
+        "url": "https://doi.org/10.1093/rfs/hhag095",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -178005,6 +180309,24 @@
         "url": "https://doi.org/10.3386/w33308",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -178058,6 +180380,24 @@
         "pages": "",
         "doi": "",
         "url": "https://jarahman.com/files/Rahman_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
         "verified": true,
         "note": ""
       }
@@ -178398,6 +180738,22 @@
         "pages": "",
         "doi": "",
         "url": "https://elatulippe.github.io/files/jmp.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
         "verified": true,
         "note": ""
       }
@@ -181094,6 +183450,22 @@
         "url": "https://www.mingjunsun.com/files/What%20Do%20Public%20Firms%20Reveal%20About%20Firms%20Going%20Public%3F.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -181212,6 +183584,108 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/DTUHAN",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.142",
+    "title": "圣母大学软件仓库与 EDGAR 10-X 文件数据（SRAF：Loughran-McDonald 10-X Data）",
+    "links": [
+      {
+        "label": "SRAF: 10-X Header Data",
+        "url": "https://sraf.nd.edu/sec-edgar-data/10-x-header-data/"
+      },
+      {
+        "label": "SRAF: Data",
+        "url": "https://sraf.nd.edu/data/"
+      }
+    ],
+    "summary": "圣母大学 Loughran 和 McDonald 维护的 SEC EDGAR 年报与季报（10-K、10-Q 等，统称 10-X）研究数据，1993 年以来提供清洗后的文件文本、头部信息（企业地址、行业代码、审计师等）、文本特征统计和文件元数据，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是研究美国上市公司年报文本最常用的整理数据。研究常用它获取公司历史地址和行业，构造文本可读性和情绪指标。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "title": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "authors": [
+          "Quentin Dupont",
+          "Kayla M. Freeman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026102944",
+        "url": "https://doi.org/10.1017/s0022109026102944",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "title": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "authors": [
+          "Jarrad Harford",
+          "Xing Li",
+          "Jiaren Pang",
+          "Haibin Wu",
+          "Liu Zheng"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1017/s0022109026102798",
+        "url": "https://doi.org/10.1017/s0022109026102798",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.143",
+    "title": "S&P Global（原 IHS Markit）证券借贷数据（Securities Finance）",
+    "links": [
+      {
+        "label": "S&P Global: Securities Finance",
+        "url": "https://www.spglobal.com/market-intelligence/en/solutions/securities-finance"
+      }
+    ],
+    "summary": "S&P Global Market Intelligence（原 Markit Securities Finance / Data Explorers）汇集主要托管行和经纪商报告的全球证券借贷数据，2002 年以来按证券每日提供可借出数量、借出数量、利用率、借贷费率和费率分档，经订阅获取。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是度量卖空约束和借券成本的主要商业数据。研究常用它度量卖空需求和借贷费用，分析卖空限制与股票定价。",
+    "source": "付费商业数据；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Insiders' information advantage: Evidence from competition with short sellers",
+        "title": "Insiders' information advantage: Evidence from competition with short sellers",
+        "authors": [
+          "Harold Contreras",
+          "Jana P. Fidrmuc",
+          "Roman Kozhan"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "4",
+        "pages": "1841-1880",
+        "doi": "10.1017/s0022109025102287",
+        "url": "https://doi.org/10.1017/s0022109025102287",
         "verified": true,
         "note": ""
       }
@@ -183223,6 +185697,25 @@
         "url": "https://doi.org/10.1093/rfs/hhag090",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "title": "Do Firms Mitigate Climate Impact on Employment? Evidence from US Heat Shocks",
+        "authors": [
+          "Viral Acharya",
+          "Viral Acharya",
+          "Abhishek Bhardwaj",
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -184641,6 +187134,26 @@
         "pages": "1695-1722",
         "doi": "10.1017/s0022109025102226",
         "url": "https://doi.org/10.1017/s0022109025102226",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "title": "Social Capital and the Boundary of the Firm: Evidence from Relationship-Specific Investments",
+        "authors": [
+          "Jarrad Harford",
+          "Xing Li",
+          "Jiaren Pang",
+          "Haibin Wu",
+          "Liu Zheng"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-30",
+        "doi": "10.1017/s0022109026102798",
+        "url": "https://doi.org/10.1017/s0022109026102798",
         "verified": true,
         "note": ""
       }
@@ -196094,6 +198607,24 @@
         "url": "https://doi.org/10.1093/qje/qjag050",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
+        "title": "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage",
+        "authors": [
+          "Barbara Biasi",
+          "Chao Fu",
+          "John Stromme"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744049",
+        "url": "https://doi.org/10.1086/744049",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -202421,6 +204952,25 @@
         "pages": "",
         "doi": "10.3386/w33480",
         "url": "https://doi.org/10.3386/w33480",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fairness Across the World",
+        "title": "Fairness Across the World",
+        "authors": [
+          "Ingvild Almås",
+          "Alexander W Cappelen",
+          "Erik Ø Sørensen",
+          "Bertil Tungodden"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2979-3035",
+        "doi": "10.1093/qje/qjag044",
+        "url": "https://doi.org/10.1093/qje/qjag044",
         "verified": true,
         "note": ""
       }
@@ -211392,6 +213942,22 @@
         "url": "https://benediktkagerer.github.io/JobMarket/JMP_BK_SanctionIntensity.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financial Consequences of the Belt and Road Initiative",
+        "title": "Financial Consequences of the Belt and Road Initiative",
+        "authors": [
+          "Mehmet Ihsan Canayaz"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3354-3390",
+        "doi": "10.1017/s0022109026102762",
+        "url": "https://doi.org/10.1017/s0022109026102762",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -215025,6 +217591,23 @@
         "url": "https://doi.org/10.1016/j.jeem.2023.102845",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+        "title": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+        "authors": [
+          "Melita Van Steenberghe",
+          "Marten Ovaere"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/743936",
+        "url": "https://doi.org/10.1086/743936",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -215185,6 +217768,23 @@
         "pages": "",
         "doi": "",
         "url": "https://files.paulapatzelt.com/JMP_Patzelt.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+        "title": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+        "authors": [
+          "Melita Van Steenberghe",
+          "Marten Ovaere"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/743936",
+        "url": "https://doi.org/10.1086/743936",
         "verified": true,
         "note": ""
       }
@@ -215695,6 +218295,82 @@
         "pages": "",
         "doi": "",
         "url": "https://kgao33.github.io/files/Gao_JMP.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.22",
+    "title": "英国国家能源系统运营商历史电力需求数据（NESO Historic Demand Data）",
+    "links": [
+      {
+        "label": "NESO: Historic Demand Data",
+        "url": "https://www.neso.energy/data-portal/historic-demand-data"
+      }
+    ],
+    "summary": "英国国家能源系统运营商（NESO，原 National Grid ESO）数据门户发布的大不列颠电力需求数据，2009 年以来按半小时报告全国输电需求、嵌入式风电与光伏发电估计、抽水蓄能和跨境联络线流量，公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "这是英国电力需求的官方高频数据。研究常用它度量电力需求和可再生能源出力，分析电力市场与能源政策。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+        "title": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+        "authors": [
+          "Melita Van Steenberghe",
+          "Marten Ovaere"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/743936",
+        "url": "https://doi.org/10.1086/743936",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.23",
+    "title": "英国低碳合约公司差价合约数据（LCCC Contracts for Difference Data Portal）",
+    "links": [
+      {
+        "label": "LCCC Data Portal",
+        "url": "https://dp.lowcarboncontracts.uk/dataset/cfd-contract-portfolio-status"
+      }
+    ],
+    "summary": "英国低碳合约公司（LCCC）发布的可再生能源差价合约（CfD）数据，2015 年以来记录每份合约的项目、技术、容量、执行价格、分配轮次、状态，以及逐日发电量、参考价格和支付金额，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "这是英国可再生能源拍卖与补贴支付的官方数据。研究常用它度量差价合约执行价格和补贴成本，分析可再生能源拍卖设计。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+        "title": "Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain",
+        "authors": [
+          "Melita Van Steenberghe",
+          "Marten Ovaere"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/743936",
+        "url": "https://doi.org/10.1086/743936",
         "verified": true,
         "note": ""
       }
@@ -216937,6 +219613,25 @@
         "url": "https://doi.org/10.3386/w32615",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Losing Political Representation",
+        "title": "Losing Political Representation",
+        "authors": [
+          "Timo Wochner",
+          "Aaron Günther",
+          "Niklas Potrafke",
+          "Felix Rösel"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-32",
+        "doi": "10.1162/rest.a.1872",
+        "url": "https://doi.org/10.1162/rest.a.1872",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -218040,6 +220735,47 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/XJGHYW",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.10.23",
+    "title": "德国纵向选举研究（German Longitudinal Election Study，GLES）",
+    "links": [
+      {
+        "label": "GLES",
+        "url": "https://gles.eu/"
+      }
+    ],
+    "summary": "GESIS 莱布尼茨社会科学研究所等机构 2009 年起开展的德国联邦选举研究，包括选前选后横截面调查、滚动横截面竞选调查、长期面板和候选人调查，记录投票意向与选择、政党评价、议题态度和媒体使用，经 GESIS 数据档案注册下载。官网对自动访问返回 403。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "政治数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是研究德国选民行为的核心调查数据。研究常用它分析竞选事件、媒体和移民议题对投票的影响。",
+    "source": "需注册（GESIS，学术免费）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Losing Political Representation",
+        "title": "Losing Political Representation",
+        "authors": [
+          "Timo Wochner",
+          "Aaron Günther",
+          "Niklas Potrafke",
+          "Felix Rösel"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-32",
+        "doi": "10.1162/rest.a.1872",
+        "url": "https://doi.org/10.1162/rest.a.1872",
         "verified": true,
         "note": ""
       }
@@ -219189,6 +221925,22 @@
         "pages": "",
         "doi": "10.3386/w33241",
         "url": "https://doi.org/10.3386/w33241",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating the Term Premium: Sample Periods Matter",
+        "title": "Estimating the Term Premium: Sample Periods Matter",
+        "authors": [
+          "Zehao Li"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-33",
+        "doi": "10.1017/s0022109026103263",
+        "url": "https://doi.org/10.1017/s0022109026103263",
         "verified": true,
         "note": ""
       }
@@ -249947,6 +252699,25 @@
         "url": "https://drive.google.com/uc?export=download&id=1T1HKw18cJ8IRrs9fpLKe6OQ0QwDSQx1B",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fairness Across the World",
+        "title": "Fairness Across the World",
+        "authors": [
+          "Ingvild Almås",
+          "Alexander W Cappelen",
+          "Erik Ø Sørensen",
+          "Bertil Tungodden"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2979-3035",
+        "doi": "10.1093/qje/qjag044",
+        "url": "https://doi.org/10.1093/qje/qjag044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -252200,6 +254971,25 @@
         "url": "https://doi.org/10.3386/w33742",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fairness Across the World",
+        "title": "Fairness Across the World",
+        "authors": [
+          "Ingvild Almås",
+          "Alexander W Cappelen",
+          "Erik Ø Sørensen",
+          "Bertil Tungodden"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2979-3035",
+        "doi": "10.1093/qje/qjag044",
+        "url": "https://doi.org/10.1093/qje/qjag044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -252437,6 +255227,25 @@
         "url": "https://doi.org/10.1093/qje/qjag046",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fairness Across the World",
+        "title": "Fairness Across the World",
+        "authors": [
+          "Ingvild Almås",
+          "Alexander W Cappelen",
+          "Erik Ø Sørensen",
+          "Bertil Tungodden"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2979-3035",
+        "doi": "10.1093/qje/qjag044",
+        "url": "https://doi.org/10.1093/qje/qjag044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -252532,6 +255341,25 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1GyhjZFsPVx8KzTvnMWOUs4fXUjSj5wPl",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fairness Across the World",
+        "title": "Fairness Across the World",
+        "authors": [
+          "Ingvild Almås",
+          "Alexander W Cappelen",
+          "Erik Ø Sørensen",
+          "Bertil Tungodden"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2979-3035",
+        "doi": "10.1093/qje/qjag044",
+        "url": "https://doi.org/10.1093/qje/qjag044",
         "verified": true,
         "note": ""
       }
@@ -258855,6 +261683,41 @@
         "url": "https://doi.org/10.7910/DVN/DNOELZ",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fairness Across the World",
+        "title": "Fairness Across the World",
+        "authors": [
+          "Ingvild Almås",
+          "Alexander W Cappelen",
+          "Erik Ø Sørensen",
+          "Bertil Tungodden"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2979-3035",
+        "doi": "10.1093/qje/qjag044",
+        "url": "https://doi.org/10.1093/qje/qjag044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Consequences of the Belt and Road Initiative",
+        "title": "Financial Consequences of the Belt and Road Initiative",
+        "authors": [
+          "Mehmet Ihsan Canayaz"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3354-3390",
+        "doi": "10.1017/s0022109026102762",
+        "url": "https://doi.org/10.1017/s0022109026102762",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -263226,6 +266089,25 @@
         "url": "https://eisik.net/files/isik_working_paper_measurement.pdf; https://eisik.net/files/isik_working_paper_distribution_macro.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fairness Across the World",
+        "title": "Fairness Across the World",
+        "authors": [
+          "Ingvild Almås",
+          "Alexander W Cappelen",
+          "Erik Ø Sørensen",
+          "Bertil Tungodden"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2979-3035",
+        "doi": "10.1093/qje/qjag044",
+        "url": "https://doi.org/10.1093/qje/qjag044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -266386,6 +269268,22 @@
         "pages": "",
         "doi": "",
         "url": "https://eduardvandermerwe.com/assets/Publications/Van_der_Merwe_JMP_PATC.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Consequences of the Belt and Road Initiative",
+        "title": "Financial Consequences of the Belt and Road Initiative",
+        "authors": [
+          "Mehmet Ihsan Canayaz"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3354-3390",
+        "doi": "10.1017/s0022109026102762",
+        "url": "https://doi.org/10.1017/s0022109026102762",
         "verified": true,
         "note": ""
       }
@@ -271403,6 +274301,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/DNOELZ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "title": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "authors": [
+          "Daniele Bianchi",
+          "Teng Jiao"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026103329",
+        "url": "https://doi.org/10.1017/s0022109026103329",
         "verified": true,
         "note": ""
       }
@@ -281619,6 +284534,23 @@
         "url": "https://doi.org/10.3386/w33723",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Stimulating Climate Action through the EU's Carbon Border Adjustment Mechanism",
+        "title": "Stimulating Climate Action through the EU's Carbon Border Adjustment Mechanism",
+        "authors": [
+          "Kenneth Bicol Dy",
+          "Han Yang"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/743601",
+        "url": "https://doi.org/10.1086/743601",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -285366,6 +288298,23 @@
         "url": "https://doi.org/10.1017/s0022109025102226",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Carbon Emissions and the Bank Lending Channel",
+        "title": "Carbon Emissions and the Bank Lending Channel",
+        "authors": [
+          "Marcin Kacperczyk",
+          "José-Luis Peydró"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag078",
+        "url": "https://doi.org/10.1093/rfs/hhag078",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -286960,6 +289909,49 @@
     ]
   },
   {
+    "id": "7.6.100",
+    "title": "Germanwatch 气候变化绩效指数与气候风险指数（CCPI、CRI）",
+    "links": [
+      {
+        "label": "CCPI",
+        "url": "https://ccpi.org"
+      },
+      {
+        "label": "Germanwatch: Climate Risk Index",
+        "url": "https://www.germanwatch.org/en/cri"
+      }
+    ],
+    "summary": "德国非政府组织 Germanwatch 发布的两项年度国家指数：气候变化绩效指数（CCPI，2005 年起，评估约 60 个国家在排放、可再生能源、能源使用和气候政策上的表现）和全球气候风险指数（CRI，按极端天气造成的死亡和损失对国家排名），公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "环境数据",
+      "政治数据"
+    ],
+    "introduction": "这是比较各国气候政策与气候风险的常用指数。研究常用它度量国家气候政策力度和极端天气暴露，分析气候风险定价。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Carbon Emissions and the Bank Lending Channel",
+        "title": "Carbon Emissions and the Bank Lending Channel",
+        "authors": [
+          "Marcin Kacperczyk",
+          "José-Luis Peydró"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag078",
+        "url": "https://doi.org/10.1093/rfs/hhag078",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.7.1",
     "title": "全球实体经济活动与石油市场研究数据（Kilian、Baumeister）",
     "links": [
@@ -287067,6 +290059,23 @@
         "pages": "",
         "doi": "",
         "url": "https://xilinyuan.net/files/wage_price_spirals.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "title": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "authors": [
+          "Daniele Bianchi",
+          "Teng Jiao"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026103329",
+        "url": "https://doi.org/10.1017/s0022109026103329",
         "verified": true,
         "note": ""
       }
@@ -299068,6 +302077,46 @@
     ]
   },
   {
+    "id": "7.10.65",
+    "title": "经济学人智库民主指数（EIU Democracy Index）",
+    "links": [
+      {
+        "label": "EIU: Democracy Index",
+        "url": "https://www.eiu.com/n/campaigns/democracy-index-2024/"
+      }
+    ],
+    "summary": "经济学人智库（EIU）2006 年起发布的民主指数，按选举过程与多元化、政府运作、政治参与、政治文化和公民自由五个维度对约 165 个国家打分，并划分完全民主、部分民主、混合政体和威权政体，报告公开发布。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是比较各国民主程度的常用指数之一。研究常用它度量政体类型和民主质量，作为跨国分析的控制变量。",
+    "source": "公开下载（报告）。",
+    "references": [
+      {
+        "raw": "Fairness Across the World",
+        "title": "Fairness Across the World",
+        "authors": [
+          "Ingvild Almås",
+          "Alexander W Cappelen",
+          "Erik Ø Sørensen",
+          "Bertil Tungodden"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2979-3035",
+        "doi": "10.1093/qje/qjag044",
+        "url": "https://doi.org/10.1093/qje/qjag044",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.11.1",
     "title": "Inside Airbnb 房源数据",
     "links": [
@@ -300580,6 +303629,39 @@
         "url": "https://doi.org/10.7910/DVN/DNOELZ",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "title": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "authors": [
+          "Daniele Bianchi",
+          "Teng Jiao"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026103329",
+        "url": "https://doi.org/10.1017/s0022109026103329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating the Term Premium: Sample Periods Matter",
+        "title": "Estimating the Term Premium: Sample Periods Matter",
+        "authors": [
+          "Zehao Li"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-33",
+        "doi": "10.1017/s0022109026103263",
+        "url": "https://doi.org/10.1017/s0022109026103263",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -301354,6 +304436,22 @@
         "url": "https://doi.org/10.1017/s0022109025102226",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financial Consequences of the Belt and Road Initiative",
+        "title": "Financial Consequences of the Belt and Road Initiative",
+        "authors": [
+          "Mehmet Ihsan Canayaz"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3354-3390",
+        "doi": "10.1017/s0022109026102762",
+        "url": "https://doi.org/10.1017/s0022109026102762",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -301606,6 +304704,39 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/dglsibqgftxxsbpecxyi1/Credit_Access_and_Retirement_Savings.pdf?rlkey=s6qvxqg0o8bm8ei02ia1m0xuy&dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Correlated Demand Shocks and Asset Pricing",
+        "title": "Correlated Demand Shocks and Asset Pricing",
+        "authors": [
+          "Byungwook Kim"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag094",
+        "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "title": "The Replication Package for \"Mutual Fund Strategy: Swing for the Fences or Bat for Average",
+        "authors": [
+          "John Chalmers",
+          "Arash Dayani"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/XJQNA8",
         "verified": true,
         "note": ""
       }
@@ -302097,6 +305228,22 @@
         "pages": "",
         "doi": "10.3386/w33061",
         "url": "https://doi.org/10.3386/w33061",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Consequences of the Belt and Road Initiative",
+        "title": "Financial Consequences of the Belt and Road Initiative",
+        "authors": [
+          "Mehmet Ihsan Canayaz"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3354-3390",
+        "doi": "10.1017/s0022109026102762",
+        "url": "https://doi.org/10.1017/s0022109026102762",
         "verified": true,
         "note": ""
       }
@@ -303138,6 +306285,24 @@
         "url": "https://doi.org/10.7910/DVN/BGWEE4",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -303818,6 +306983,25 @@
         "url": "https://doi.org/10.1093/rfs/hhag090",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Agglomeration Effects in Initial Public Offerings",
+        "title": "Agglomeration Effects in Initial Public Offerings",
+        "authors": [
+          "Shahram Amini",
+          "Andrew MacKinlay",
+          "Johan Sulaeman",
+          "Chishen Wei"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2656-2687",
+        "doi": "10.1017/s0022109025102536",
+        "url": "https://doi.org/10.1017/s0022109025102536",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -304392,6 +307576,77 @@
         "url": "https://doi.org/10.1017/s0022109025102330",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "title": "The Cross-section of Subjective Expectations: Understanding Prices and Anomalies",
+        "authors": [
+          "Ricardo Delao",
+          "Xiao Han",
+          "Sean Myers"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag095",
+        "url": "https://doi.org/10.1093/rfs/hhag095",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Central Bank Economic Transparency and Managerial Learning",
+        "title": "Central Bank Economic Transparency and Managerial Learning",
+        "authors": [
+          "Oliver Binz",
+          "Elia Ferracuti",
+          "Gary Lind"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag089",
+        "url": "https://doi.org/10.1093/rfs/hhag089",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "title": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "authors": [
+          "Mancy Luo",
+          "Alberto Manconi",
+          "Massimo Massa"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3211-3242",
+        "doi": "10.1017/s002210902610297x",
+        "url": "https://doi.org/10.1017/s002210902610297x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When is the Price of Analysts' Disagreement Risk Positive",
+        "title": "When is the Price of Analysts' Disagreement Risk Positive",
+        "authors": [
+          "Alexander David",
+          "Amel Farhat"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-44",
+        "doi": "10.1017/s0022109026102956",
+        "url": "https://doi.org/10.1017/s0022109026102956",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -304467,6 +307722,24 @@
         "pages": "",
         "doi": "10.3386/w33625",
         "url": "https://doi.org/10.3386/w33625",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "title": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "authors": [
+          "Mancy Luo",
+          "Alberto Manconi",
+          "Massimo Massa"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3211-3242",
+        "doi": "10.1017/s002210902610297x",
+        "url": "https://doi.org/10.1017/s002210902610297x",
         "verified": true,
         "note": ""
       }
@@ -305156,6 +308429,38 @@
         "url": "https://doi.org/10.3386/w33771",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financial Consequences of the Belt and Road Initiative",
+        "title": "Financial Consequences of the Belt and Road Initiative",
+        "authors": [
+          "Mehmet Ihsan Canayaz"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3354-3390",
+        "doi": "10.1017/s0022109026102762",
+        "url": "https://doi.org/10.1017/s0022109026102762",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -305351,6 +308656,41 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag090",
         "url": "https://doi.org/10.1093/rfs/hhag090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "title": "The Coherence Side of Rationality: Theory and Evidence from Firm Plans",
+        "authors": [
+          "Pamela Giustinelli",
+          "Stefano Rossi"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag086",
+        "url": "https://doi.org/10.1093/rfs/hhag086",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Appointing Charity Directors in Response ot ESG Incidents",
+        "title": "Appointing Charity Directors in Response ot ESG Incidents",
+        "authors": [
+          "Yuyang Zhang",
+          "Marina Gertsberg",
+          "Hae Won Jung"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/2EMHF4",
         "verified": true,
         "note": ""
       }
@@ -305898,6 +309238,57 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/CUUFFM",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Carbon Emissions and the Bank Lending Channel",
+        "title": "Carbon Emissions and the Bank Lending Channel",
+        "authors": [
+          "Marcin Kacperczyk",
+          "José-Luis Peydró"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag078",
+        "url": "https://doi.org/10.1093/rfs/hhag078",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "title": "Trust in Cultural Institutions and Interfirm Cooperation: Evidence from Religious Scandals\" (accepted in 2026)",
+        "authors": [
+          "Quentin Dupont",
+          "Kayla M. Freeman"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026102944",
+        "url": "https://doi.org/10.1017/s0022109026102944",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "title": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "authors": [
+          "Xuanyu Bai",
+          "Youchang Wu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-40",
+        "doi": "10.1017/s0022109026103159",
+        "url": "https://doi.org/10.1017/s0022109026103159",
         "verified": true,
         "note": ""
       }
@@ -306542,6 +309933,23 @@
         "pages": "",
         "doi": "",
         "url": "https://scottjwang.github.io/papers/Paper%201.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "title": "Macroeconomic Fundamentals and the Shape of Sovereign Credit Risk",
+        "authors": [
+          "Daniele Bianchi",
+          "Teng Jiao"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1017/s0022109026103329",
+        "url": "https://doi.org/10.1017/s0022109026103329",
         "verified": true,
         "note": ""
       }
@@ -308394,6 +311802,23 @@
         "url": "https://doi.org/10.7910/DVN/MS3C3T",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "title": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+        "authors": [
+          "Xuanyu Bai",
+          "Youchang Wu"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-40",
+        "doi": "10.1017/s0022109026103159",
+        "url": "https://doi.org/10.1017/s0022109026103159",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -310072,6 +313497,24 @@
         "url": "https://doi.org/10.3386/w32316",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "United They Fall: Bank Risk After the Financial Crisis",
+        "title": "United They Fall: Bank Risk After the Financial Crisis",
+        "authors": [
+          "Priyank Gandhi",
+          "Amiyatosh Purnanandam",
+          "Amiyatosh Purnanandam"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GOXYYT",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -311667,6 +315110,38 @@
         "url": "https://qiushi-hua.github.io/jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "authors": [
+          "Priit Jeenas"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating the Term Premium: Sample Periods Matter",
+        "title": "Estimating the Term Premium: Sample Periods Matter",
+        "authors": [
+          "Zehao Li"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "1-33",
+        "doi": "10.1017/s0022109026103263",
+        "url": "https://doi.org/10.1017/s0022109026103263",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -312192,6 +315667,24 @@
         "url": "https://doi.org/10.3386/w33825",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Central Bank Economic Transparency and Managerial Learning",
+        "title": "Central Bank Economic Transparency and Managerial Learning",
+        "authors": [
+          "Oliver Binz",
+          "Elia Ferracuti",
+          "Gary Lind"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag089",
+        "url": "https://doi.org/10.1093/rfs/hhag089",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -312442,6 +315935,123 @@
         "pages": "1695-1722",
         "doi": "10.1017/s0022109025102226",
         "url": "https://doi.org/10.1017/s0022109025102226",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.91",
+    "title": "CDS 信用事件拍卖结果（Creditex / IHS Markit Credit Fixings）",
+    "links": [
+      {
+        "label": "Credit Fixings",
+        "url": "https://www.creditfixings.com"
+      }
+    ],
+    "summary": "Creditex 与 IHS Markit（现 S&P Global）为国际掉期与衍生工具协会（ISDA）管理的信用违约互换信用事件拍卖结果，2005 年以来记录每次拍卖的参考实体、可交割债券、交易商提交的报价、净未平仓量和最终回收价格，公开查询。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是信用违约互换结算回收率的权威记录。研究常用它度量违约回收率和拍卖机制，分析 CDS 市场的定价效率。",
+    "source": "公开查询。",
+    "references": [
+      {
+        "raw": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+        "title": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+        "authors": [
+          "Eric Richert"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/744119",
+        "url": "https://doi.org/10.1086/744119",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.92",
+    "title": "RepRisk ESG 风险事件数据库",
+    "links": [
+      {
+        "label": "RepRisk",
+        "url": "https://www.reprisk.com/"
+      }
+    ],
+    "summary": "瑞士 RepRisk 公司基于媒体、监管文件和非政府组织报告筛选的企业 ESG 负面事件数据库，2007 年以来覆盖全球约 30 万家公司和项目，按事件记录环境、社会和治理问题类型、严重性、影响范围，并提供 RepRisk 风险指数（RRI），经订阅获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "商业数据"
+    ],
+    "introduction": "这是度量企业 ESG 负面事件最常用的商业数据。研究常用它度量企业环境和社会丑闻，分析声誉风险和投资者反应。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "Appointing Charity Directors in Response ot ESG Incidents",
+        "title": "Appointing Charity Directors in Response ot ESG Incidents",
+        "authors": [
+          "Yuyang Zhang",
+          "Marina Gertsberg",
+          "Hae Won Jung"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/2EMHF4",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.93",
+    "title": "世界银行全球普惠金融数据库（Global Findex）",
+    "links": [
+      {
+        "label": "World Bank: Global Findex",
+        "url": "https://www.worldbank.org/en/publication/globalfindex"
+      }
+    ],
+    "summary": "世界银行与盖洛普合作的全球普惠金融调查，2011、2014、2017、2021、2025 年各一轮，在约 140 个经济体对约 15 万名成年人调查银行账户、数字支付、储蓄、借贷和金融韧性，国家指标和个人微观数据公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是跨国普惠金融最权威的调查数据。研究常用它度量账户拥有率和数字支付使用，分析金融包容与发展。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "When Transparency Fails: Financial Incentives for Local Banking Agents in Indonesia",
+        "title": "When Transparency Fails: Financial Incentives for Local Banking Agents in Indonesia",
+        "authors": [
+          "Erika Deserranno",
+          "Gianmarco León-Ciliotta",
+          "Firman Witoelar"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "107",
+        "issue": "6",
+        "pages": "1537-1552",
+        "doi": "10.1162/rest_a_01359",
+        "url": "https://doi.org/10.1162/rest_a_01359",
         "verified": true,
         "note": ""
       }
@@ -313874,6 +317484,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/DTUHAN",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Central Bank Economic Transparency and Managerial Learning",
+        "title": "Central Bank Economic Transparency and Managerial Learning",
+        "authors": [
+          "Oliver Binz",
+          "Elia Ferracuti",
+          "Gary Lind"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag089",
+        "url": "https://doi.org/10.1093/rfs/hhag089",
         "verified": true,
         "note": ""
       }
@@ -315570,6 +319198,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/O6NRGK",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "title": "Political Affiliation and Media Distrust: Evidence from Stock Market Investors",
+        "authors": [
+          "Mancy Luo",
+          "Alberto Manconi",
+          "Massimo Massa"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "7",
+        "pages": "3211-3242",
+        "doi": "10.1017/s002210902610297x",
+        "url": "https://doi.org/10.1017/s002210902610297x",
         "verified": true,
         "note": ""
       }
@@ -319296,6 +322942,24 @@
         "url": "https://willycecon.com/JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Return to Office and the Tenure Distribution",
+        "title": "Return to Office and the Tenure Distribution",
+        "authors": [
+          "David Van Dijcke",
+          "Florian Gunsilius",
+          "Austin Wright"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1866",
+        "url": "https://doi.org/10.1162/rest.a.1866",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -320276,6 +323940,46 @@
         "pages": "",
         "doi": "",
         "url": "https://erfanloghmani.github.io/files/JMP.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.76",
+    "title": "layoffs.fyi 科技行业裁员追踪数据",
+    "links": [
+      {
+        "label": "layoffs.fyi",
+        "url": "https://layoffs.fyi"
+      }
+    ],
+    "summary": "Roger Lee 创建的科技公司裁员追踪网站，2020 年以来根据新闻报道和公司公告逐条记录科技企业和初创公司的裁员日期、人数、比例、所在地、行业和融资阶段，公开查询与下载。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是追踪科技行业裁员最常用的公开数据。研究常用它度量科技企业裁员潮，分析远程办公、利率和 AI 对科技就业的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Return to Office and the Tenure Distribution",
+        "title": "Return to Office and the Tenure Distribution",
+        "authors": [
+          "David Van Dijcke",
+          "Florian Gunsilius",
+          "Austin Wright"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1866",
+        "url": "https://doi.org/10.1162/rest.a.1866",
         "verified": true,
         "note": ""
       }
@@ -327433,6 +331137,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/LIQBZB",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stimulating Climate Action through the EU's Carbon Border Adjustment Mechanism",
+        "title": "Stimulating Climate Action through the EU's Carbon Border Adjustment Mechanism",
+        "authors": [
+          "Kenneth Bicol Dy",
+          "Han Yang"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/743601",
+        "url": "https://doi.org/10.1086/743601",
         "verified": true,
         "note": ""
       }
