@@ -5149,6 +5149,23 @@
         "url": "https://doi.org/10.1086/719021",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "On the Estimation of Cross-Firm Productivity Spillovers with an Application to FDI",
+        "title": "On the Estimation of Cross-Firm Productivity Spillovers with an Application to FDI",
+        "authors": [
+          "Emir Malikov",
+          "Shunan Zhao"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "5",
+        "pages": "1207-1223",
+        "doi": "10.1162/rest_a_01080",
+        "url": "https://doi.org/10.1162/rest_a_01080",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27165,6 +27182,23 @@
         "url": "https://doi.org/10.1162/rest_a_01250",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -37400,6 +37434,60 @@
         "pages": "49-113",
         "doi": "10.1093/qje/qjab018",
         "url": "https://doi.org/10.1093/qje/qjab018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "title": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "authors": [
+          "Jason Abaluck",
+          "Mauricio Caceres Bravo",
+          "Peter Hull",
+          "Amanda Starc"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1557-1610",
+        "doi": "10.1093/qje/qjab017",
+        "url": "https://doi.org/10.1093/qje/qjab017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Medicaid and Mortality: New Evidence from Linked Survey and Administrative Data",
+        "title": "Medicaid and Mortality: New Evidence from Linked Survey and Administrative Data",
+        "authors": [
+          "Sarah Miller",
+          "Norman Johnson",
+          "Laura R Wherry"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1783-1829",
+        "doi": "10.1093/qje/qjab004",
+        "url": "https://doi.org/10.1093/qje/qjab004",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
         "verified": true,
         "note": ""
       }
@@ -48458,6 +48546,24 @@
         "pages": "748-761",
         "doi": "10.1162/rest_a_01196",
         "url": "https://doi.org/10.1162/rest_a_01196",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Medicaid and Mortality: New Evidence from Linked Survey and Administrative Data",
+        "title": "Medicaid and Mortality: New Evidence from Linked Survey and Administrative Data",
+        "authors": [
+          "Sarah Miller",
+          "Norman Johnson",
+          "Laura R Wherry"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1783-1829",
+        "doi": "10.1093/qje/qjab004",
+        "url": "https://doi.org/10.1093/qje/qjab004",
         "verified": true,
         "note": ""
       }
@@ -61976,6 +62082,24 @@
         "url": "https://doi.org/10.1162/rest_a_01386",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Medicaid and Mortality: New Evidence from Linked Survey and Administrative Data",
+        "title": "Medicaid and Mortality: New Evidence from Linked Survey and Administrative Data",
+        "authors": [
+          "Sarah Miller",
+          "Norman Johnson",
+          "Laura R Wherry"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1783-1829",
+        "doi": "10.1093/qje/qjab004",
+        "url": "https://doi.org/10.1093/qje/qjab004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65241,6 +65365,24 @@
         "url": "https://doi.org/10.1162/rest_a_01241",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inflation Expectations and the Pass-Through of Oil Prices",
+        "title": "Inflation Expectations and the Pass-Through of Oil Prices",
+        "authors": [
+          "Knut Are Aastveit",
+          "Hilde C. Bjørnland",
+          "Jamie L. Cross"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "733-743",
+        "doi": "10.1162/rest_a_01073",
+        "url": "https://doi.org/10.1162/rest_a_01073",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65767,6 +65909,23 @@
         "pages": "307-343",
         "doi": "10.1086/716765",
         "url": "https://doi.org/10.1086/716765",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
         "verified": true,
         "note": ""
       }
@@ -72050,6 +72209,22 @@
         "url": "https://doi.org/10.1086/716765",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of State Business Taxes on Multi-Establishment Firms: Evidence from Unemployment Insurance Taxation",
+        "title": "The Effects of State Business Taxes on Multi-Establishment Firms: Evidence from Unemployment Insurance Taxation",
+        "authors": [
+          "Audrey Guo"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/AK4IBY",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -75160,6 +75335,22 @@
         "url": "https://doi.org/10.1016/j.jpubeco.2007.06.011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of State Business Taxes on Multi-Establishment Firms: Evidence from Unemployment Insurance Taxation",
+        "title": "The Effects of State Business Taxes on Multi-Establishment Firms: Evidence from Unemployment Insurance Taxation",
+        "authors": [
+          "Audrey Guo"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/AK4IBY",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -75652,6 +75843,44 @@
         "pages": "1055-1072",
         "doi": "10.1162/rest_a_01174",
         "url": "https://doi.org/10.1162/rest_a_01174",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.3.31",
+    "title": "BLS 企业就业动态统计（Business Employment Dynamics，BED）",
+    "links": [
+      {
+        "label": "BLS: Business Employment Dynamics",
+        "url": "https://www.bls.gov/bdm/"
+      }
+    ],
+    "summary": "美国劳工统计局（BLS）基于 QCEW 机构层面纵向链接生成的季度统计，按州、行业（NAICS 三位数）和企业规模给出新设、扩张、收缩和关闭机构带来的就业创造与毁灭，以及机构出生和死亡数，自 1992 年起，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "区域经济数据"
+    ],
+    "introduction": "这是美国季度层面就业流量的官方数据。研究常用它度量各行业和州的就业创造与毁灭，分析商业周期、政策冲击和创业动态。",
+    "source": "公开下载。官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Effects of State Business Taxes on Multi-Establishment Firms: Evidence from Unemployment Insurance Taxation",
+        "title": "The Effects of State Business Taxes on Multi-Establishment Firms: Evidence from Unemployment Insurance Taxation",
+        "authors": [
+          "Audrey Guo"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/AK4IBY",
         "verified": true,
         "note": ""
       }
@@ -76767,6 +76996,23 @@
         "pages": "1224-1236",
         "doi": "10.1162/rest_a_01104",
         "url": "https://doi.org/10.1162/rest_a_01104",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Investment Network, Sectoral Comovement, and the Changing U.S. Business Cycle",
+        "title": "The Investment Network, Sectoral Comovement, and the Changing U.S. Business Cycle",
+        "authors": [
+          "Christian vom Lehn",
+          "Thomas Winberry"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "387-433",
+        "doi": "10.1093/qje/qjab020",
+        "url": "https://doi.org/10.1093/qje/qjab020",
         "verified": true,
         "note": ""
       }
@@ -78733,6 +78979,23 @@
         "pages": "621-638",
         "doi": "10.1162/rest_a_01323",
         "url": "https://doi.org/10.1162/rest_a_01323",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
         "verified": true,
         "note": ""
       }
@@ -81590,6 +81853,23 @@
         "url": "https://doi.org/10.1162/rest_a_01133",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -83592,6 +83872,23 @@
         "pages": "307-343",
         "doi": "10.1086/716765",
         "url": "https://doi.org/10.1086/716765",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Investment Network, Sectoral Comovement, and the Changing U.S. Business Cycle",
+        "title": "The Investment Network, Sectoral Comovement, and the Changing U.S. Business Cycle",
+        "authors": [
+          "Christian vom Lehn",
+          "Thomas Winberry"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "387-433",
+        "doi": "10.1093/qje/qjab020",
+        "url": "https://doi.org/10.1093/qje/qjab020",
         "verified": true,
         "note": ""
       }
@@ -87503,6 +87800,40 @@
         "pages": "1224-1236",
         "doi": "10.1162/rest_a_01104",
         "url": "https://doi.org/10.1162/rest_a_01104",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Investment Network, Sectoral Comovement, and the Changing U.S. Business Cycle",
+        "title": "The Investment Network, Sectoral Comovement, and the Changing U.S. Business Cycle",
+        "authors": [
+          "Christian vom Lehn",
+          "Thomas Winberry"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "1",
+        "pages": "387-433",
+        "doi": "10.1093/qje/qjab020",
+        "url": "https://doi.org/10.1093/qje/qjab020",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
         "verified": true,
         "note": ""
       }
@@ -98146,6 +98477,23 @@
         "url": "https://doi.org/10.1162/rest_a_01427",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Capital and Labor: The Factor Income Composition of Top Incomes in the United States, 1962-2006",
+        "title": "Capital and Labor: The Factor Income Composition of Top Incomes in the United States, 1962-2006",
+        "authors": [
+          "Anthony B. Atkinson",
+          "Christoph Lakner"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-13",
+        "doi": "10.1162/rest_a_01063",
+        "url": "https://doi.org/10.1162/rest_a_01063",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -99614,6 +99962,23 @@
         "pages": "2363-2418",
         "doi": "10.1093/qje/qjac026",
         "url": "https://doi.org/10.1093/qje/qjac026",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Foreign Multinationals on Workers and Firms in the United States",
+        "title": "The Effects of Foreign Multinationals on Workers and Firms in the United States",
+        "authors": [
+          "Bradley Setzler",
+          "Felix Tintelnot"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1943-1991",
+        "doi": "10.1093/qje/qjab015",
+        "url": "https://doi.org/10.1093/qje/qjab015",
         "verified": true,
         "note": ""
       }
@@ -109869,6 +110234,43 @@
         "pages": "1017-1027",
         "doi": "10.1162/rest_a_01108",
         "url": "https://doi.org/10.1162/rest_a_01108",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.111",
+    "title": "美国劳工部州最低工资历史表（DOL State Minimum Wage History）",
+    "links": [
+      {
+        "label": "DOL WHD: State minimum wage history",
+        "url": "https://www.dol.gov/agencies/whd/state/minimum-wage/history"
+      }
+    ],
+    "summary": "美国劳工部工资与工时司（WHD）整理的 1968 年以来各州法定最低工资变化历史表，按州和年份列出基本最低工资水平及适用范围说明，与联邦最低工资对照，公开在线提供。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是州最低工资变动的官方汇编。研究常用它构造州层面最低工资变量，分析最低工资对就业、工资分布、物价和企业行为的影响。",
+    "source": "公开在线获取。官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Effects of State Business Taxes on Multi-Establishment Firms: Evidence from Unemployment Insurance Taxation",
+        "title": "The Effects of State Business Taxes on Multi-Establishment Firms: Evidence from Unemployment Insurance Taxation",
+        "authors": [
+          "Audrey Guo"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/AK4IBY",
         "verified": true,
         "note": ""
       }
@@ -128953,6 +129355,22 @@
         "url": "https://doi.org/10.7910/DVN/MZNN8X",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Regulatory Induced Risk Aversion in Coal Contracting at U.S. Power Plants: Implications for Environmental Policy",
+        "title": "Regulatory Induced Risk Aversion in Coal Contracting at U.S. Power Plants: Implications for Environmental Policy",
+        "authors": [
+          "Akshaya Jha"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "1",
+        "pages": "51-78",
+        "doi": "10.1086/715885",
+        "url": "https://doi.org/10.1086/715885",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -133859,6 +134277,24 @@
         "pages": "1011-1049",
         "doi": "10.1086/740879",
         "url": "https://doi.org/10.1086/740879",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Learning in the Oil Futures Markets: Evidence and Macroeconomic Implications",
+        "title": "Learning in the Oil Futures Markets: Evidence and Macroeconomic Implications",
+        "authors": [
+          "Sylvain Leduc",
+          "Kevin Moran",
+          "Robert J. Vigfusson"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "2",
+        "pages": "392-407",
+        "doi": "10.1162/rest_a_01065",
+        "url": "https://doi.org/10.1162/rest_a_01065",
         "verified": true,
         "note": ""
       }
@@ -141586,6 +142022,25 @@
         "url": "https://doi.org/10.1162/rest_a_01092",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "title": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "authors": [
+          "Jason Abaluck",
+          "Mauricio Caceres Bravo",
+          "Peter Hull",
+          "Amanda Starc"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1557-1610",
+        "doi": "10.1093/qje/qjab017",
+        "url": "https://doi.org/10.1093/qje/qjab017",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -143314,6 +143769,25 @@
         "pages": "1580-1610",
         "doi": "10.1093/rfs/hhae035",
         "url": "https://doi.org/10.1093/rfs/hhae035",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "title": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "authors": [
+          "Jason Abaluck",
+          "Mauricio Caceres Bravo",
+          "Peter Hull",
+          "Amanda Starc"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1557-1610",
+        "doi": "10.1093/qje/qjab017",
+        "url": "https://doi.org/10.1093/qje/qjab017",
         "verified": true,
         "note": ""
       }
@@ -145487,6 +145961,25 @@
         "url": "https://doi.org/10.1162/rest.a.1615",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "title": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "authors": [
+          "Jason Abaluck",
+          "Mauricio Caceres Bravo",
+          "Peter Hull",
+          "Amanda Starc"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1557-1610",
+        "doi": "10.1093/qje/qjab017",
+        "url": "https://doi.org/10.1093/qje/qjab017",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -145717,6 +146210,25 @@
         "pages": "1-46",
         "doi": "10.1162/rest.a.1864",
         "url": "https://doi.org/10.1162/rest.a.1864",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "title": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "authors": [
+          "Jason Abaluck",
+          "Mauricio Caceres Bravo",
+          "Peter Hull",
+          "Amanda Starc"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1557-1610",
+        "doi": "10.1093/qje/qjab017",
+        "url": "https://doi.org/10.1093/qje/qjab017",
         "verified": true,
         "note": ""
       }
@@ -152696,6 +153208,24 @@
         "url": "https://savannahellison.github.io/files/Ellison_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Medicaid and Mortality: New Evidence from Linked Survey and Administrative Data",
+        "title": "Medicaid and Mortality: New Evidence from Linked Survey and Administrative Data",
+        "authors": [
+          "Sarah Miller",
+          "Norman Johnson",
+          "Laura R Wherry"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1783-1829",
+        "doi": "10.1093/qje/qjab004",
+        "url": "https://doi.org/10.1093/qje/qjab004",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -154937,6 +155467,46 @@
         "pages": "368-385",
         "doi": "10.1162/rest_a_01107",
         "url": "https://doi.org/10.1162/rest_a_01107",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.137",
+    "title": "CMS Medicare Advantage 与 Part D 星级评分（Part C and D Performance Data）",
+    "links": [
+      {
+        "label": "CMS: Part C and D Performance Data",
+        "url": "https://www.cms.gov/medicare/health-drug-plans/part-c-d-performance-data"
+      }
+    ],
+    "summary": "美国 CMS 每年发布的 Medicare Advantage（Part C）和处方药计划（Part D）合同层面质量评级，给出 1–5 星总评及数十项分项指标（预防保健、慢病管理、患者体验、投诉与申诉、药物安全），并公布切分点和技术说明，自 2008 年起公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是 Medicare 私营计划质量与奖金支付的依据。研究常用它利用星级阈值和四舍五入断点，分析质量评级对参保选择、计划定价、质量奖金和保险公司行为的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "title": "Mortality Effects and Choice across Private Health Insurance Plans",
+        "authors": [
+          "Jason Abaluck",
+          "Mauricio Caceres Bravo",
+          "Peter Hull",
+          "Amanda Starc"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "3",
+        "pages": "1557-1610",
+        "doi": "10.1093/qje/qjab017",
+        "url": "https://doi.org/10.1093/qje/qjab017",
         "verified": true,
         "note": ""
       }
@@ -158394,6 +158964,22 @@
         "pages": "717-751",
         "doi": "10.1086/722577",
         "url": "https://doi.org/10.1086/722577",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Estimating Consumer Substitution between New and Used Passenger Vehicles",
+        "title": "Estimating Consumer Substitution between New and Used Passenger Vehicles",
+        "authors": [
+          "Benjamin Leard"
+        ],
+        "year": 2022,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "9",
+        "issue": "1",
+        "pages": "27-49",
+        "doi": "10.1086/715814",
+        "url": "https://doi.org/10.1086/715814",
         "verified": true,
         "note": ""
       }
@@ -184952,6 +185538,24 @@
         "url": "https://doi.org/10.1162/rest_a_01094",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inflation Expectations and the Pass-Through of Oil Prices",
+        "title": "Inflation Expectations and the Pass-Through of Oil Prices",
+        "authors": [
+          "Knut Are Aastveit",
+          "Hilde C. Bjørnland",
+          "Jamie L. Cross"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "733-743",
+        "doi": "10.1162/rest_a_01073",
+        "url": "https://doi.org/10.1162/rest_a_01073",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -192356,6 +192960,44 @@
         "url": "https://doi.org/10.1093/rfs/hhab113",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Bond Liquidity during the COVID-19 Crisis",
+        "title": "Corporate Bond Liquidity during the COVID-19 Crisis",
+        "authors": [
+          "Mahyar Kargar",
+          "Benjamin Lester",
+          "David Lindsay",
+          "Shuo Liu",
+          "Pierre-Olivier Weill",
+          "Diego Zuniga"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/Y7OJ9D",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -196450,6 +197092,23 @@
         "pages": "2879-2927",
         "doi": "10.1093/rfs/hhab113",
         "url": "https://doi.org/10.1093/rfs/hhab113",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Asset Pricing with Fading Memory",
+        "title": "Asset Pricing with Fading Memory",
+        "authors": [
+          "Stefan Nagel",
+          "Zhengyang Xu"
+        ],
+        "year": 2022,
+        "journal": "Review of Financial Studies",
+        "volume": "35",
+        "issue": "5",
+        "pages": "2190-2245",
+        "doi": "10.1093/rfs/hhab086",
+        "url": "https://doi.org/10.1093/rfs/hhab086",
         "verified": true,
         "note": ""
       }
@@ -200858,6 +201517,27 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/RIFTUJ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Bond Liquidity during the COVID-19 Crisis",
+        "title": "Corporate Bond Liquidity during the COVID-19 Crisis",
+        "authors": [
+          "Mahyar Kargar",
+          "Benjamin Lester",
+          "David Lindsay",
+          "Shuo Liu",
+          "Pierre-Olivier Weill",
+          "Diego Zuniga"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/Y7OJ9D",
         "verified": true,
         "note": ""
       }
@@ -209972,6 +210652,27 @@
         "pages": "2275-2325",
         "doi": "10.1093/rfs/hhaf017",
         "url": "https://doi.org/10.1093/rfs/hhaf017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Corporate Bond Liquidity during the COVID-19 Crisis",
+        "title": "Corporate Bond Liquidity during the COVID-19 Crisis",
+        "authors": [
+          "Mahyar Kargar",
+          "Benjamin Lester",
+          "David Lindsay",
+          "Shuo Liu",
+          "Pierre-Olivier Weill",
+          "Diego Zuniga"
+        ],
+        "year": 2021,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/Y7OJ9D",
         "verified": true,
         "note": ""
       }
@@ -240722,6 +241423,23 @@
         "pages": "306-323",
         "doi": "10.1162/rest_a_01256",
         "url": "https://doi.org/10.1162/rest_a_01256",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tax Progressivity and Self-employment Dynamics",
+        "title": "Tax Progressivity and Self-employment Dynamics",
+        "authors": [
+          "Wiji Arulampalam",
+          "Andrea Papini"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/MONEID",
         "verified": true,
         "note": ""
       }
@@ -274361,6 +275079,25 @@
         "url": "https://doi.org/10.1086/727196",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Democracy and Firm Productivity: Evidence from Indonesia",
+        "title": "Democracy and Firm Productivity: Evidence from Indonesia",
+        "authors": [
+          "Ama Baafra Abeberese",
+          "Prabhat Barnwal",
+          "Ritam Chaurey",
+          "Priya Mukherjee"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-10",
+        "doi": "10.1162/rest_a_01077",
+        "url": "https://doi.org/10.1162/rest_a_01077",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -277774,6 +278511,88 @@
     ]
   },
   {
+    "id": "4.8.10",
+    "title": "韩国新冠病例与活动路线数据集（Data Science for COVID-19，DS4C）",
+    "links": [
+      {
+        "label": "Kaggle: DS4C Coronavirus Dataset",
+        "url": "https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset"
+      }
+    ],
+    "summary": "根据韩国疾病管理本部（KCDC）和各地政府公开通报整理的新冠疫情数据集，包含确诊病例特征、感染路径、病例活动路线（时间与地点）、各地区每日确诊、检测和政策时间线，以及首尔人流和搜索趋势，在 Kaggle 公开下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "健康数据",
+      "地理数据"
+    ],
+    "introduction": "这是少有的包含个体活动轨迹的公开新冠数据。研究常用它分析传播网络、公开通报对出行和消费的影响，以及接触追踪政策的效果。",
+    "source": "在 Kaggle 公开下载。",
+    "references": [
+      {
+        "raw": "The Cost of Privacy: Welfare Effects of the Disclosure of COVID-19 Cases",
+        "title": "The Cost of Privacy: Welfare Effects of the Disclosure of COVID-19 Cases",
+        "authors": [
+          "David Argente",
+          "Chang-Tai Hsieh",
+          "Munseob Lee"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "176-186",
+        "doi": "10.1162/rest_a_01095",
+        "url": "https://doi.org/10.1162/rest_a_01095",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.8.11",
+    "title": "以色列 Clalit 健康服务行政与电子病历数据（Clalit Health Services）",
+    "links": [
+      {
+        "label": "Clalit Research",
+        "url": "https://www.clalit.co.il/he/research/Pages/default.aspx"
+      }
+    ],
+    "summary": "以色列最大的健康维护组织 Clalit 覆盖全国过半人口，其整合的数据仓库包含会员人口特征、门诊与住院就诊、诊断、处方配药、检验结果和费用，自 2000 年代起纵向可追踪，经 Clalit 研究所伦理审批和合作协议在其研究环境内使用。官网对自动访问返回 403。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是全球少数覆盖全国大部分人口的整合电子病历数据。研究常用它分析疫苗效果、医生行为、药物使用和医疗服务利用，被新冠疫苗真实世界研究广泛使用。",
+    "source": "经 Clalit 研究所审批与合作协议在其研究环境内使用。官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Why is End-of-Life Spending so High? Evidence from Cancer Patients",
+        "title": "Why is End-of-Life Spending so High? Evidence from Cancer Patients",
+        "authors": [
+          "Dan Zeltzer",
+          "Liran Einav",
+          "Amy Finkelstein",
+          "Tzvi Shir",
+          "Salomon M. Stemmer",
+          "Ran D. Balicer"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "511-527",
+        "doi": "10.1162/rest_a_01066",
+        "url": "https://doi.org/10.1162/rest_a_01066",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.9.1",
     "title": "台湾运输资料流通服务平台（TDX）交通数据",
     "links": [
@@ -278305,6 +279124,47 @@
         "pages": "1-45",
         "doi": "10.1162/rest.a.1683",
         "url": "https://doi.org/10.1162/rest.a.1683",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.10.11",
+    "title": "KPPOD 印尼地方经济治理评估与地方法规数据",
+    "links": [
+      {
+        "label": "KPPOD",
+        "url": "https://www.kppod.org/"
+      }
+    ],
+    "summary": "印尼地方自治实施监测委员会（KPPOD）开展的地方经济治理（TKED）企业调查与地方法规审查，覆盖数百个县市的营商许可、土地获取、地方税费、基础设施和政企互动等指标，并汇编地方税费条例及其评估，部分报告公开，微观数据需向 KPPOD 申请。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "政治数据",
+      "商业数据"
+    ],
+    "introduction": "这是印尼分权背景下地方营商环境的主要数据。研究常用它度量地方政府治理质量和法规负担，分析地方领导人、选举和分权改革对企业经营的影响。",
+    "source": "报告公开；微观数据向 KPPOD 申请。",
+    "references": [
+      {
+        "raw": "Democracy and Firm Productivity: Evidence from Indonesia",
+        "title": "Democracy and Firm Productivity: Evidence from Indonesia",
+        "authors": [
+          "Ama Baafra Abeberese",
+          "Prabhat Barnwal",
+          "Ritam Chaurey",
+          "Priya Mukherjee"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-10",
+        "doi": "10.1162/rest_a_01077",
+        "url": "https://doi.org/10.1162/rest_a_01077",
         "verified": true,
         "note": ""
       }
@@ -295533,6 +296393,23 @@
         "pages": "145-180",
         "doi": "10.1086/730590",
         "url": "https://doi.org/10.1086/730590",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tax Progressivity and Self-employment Dynamics",
+        "title": "Tax Progressivity and Self-employment Dynamics",
+        "authors": [
+          "Wiji Arulampalam",
+          "Andrea Papini"
+        ],
+        "year": 2021,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/MONEID",
         "verified": true,
         "note": ""
       }
@@ -364961,6 +365838,23 @@
         "url": "https://doi.org/10.1093/qje/qjad009",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Asset Pricing with Fading Memory",
+        "title": "Asset Pricing with Fading Memory",
+        "authors": [
+          "Stefan Nagel",
+          "Zhengyang Xu"
+        ],
+        "year": 2022,
+        "journal": "Review of Financial Studies",
+        "volume": "35",
+        "issue": "5",
+        "pages": "2190-2245",
+        "doi": "10.1093/rfs/hhab086",
+        "url": "https://doi.org/10.1093/rfs/hhab086",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -380728,6 +381622,23 @@
         "url": "https://doi.org/10.7910/DVN/OTMTVU",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -390971,6 +391882,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/67PJF4",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "title": "Benign Effects of Automation: New Evidence From Patent Texts",
+        "authors": [
+          "Katja Mann",
+          "Lukas Püttmann"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "562-579",
+        "doi": "10.1162/rest_a_01083",
+        "url": "https://doi.org/10.1162/rest_a_01083",
         "verified": true,
         "note": ""
       }
