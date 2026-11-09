@@ -36126,6 +36126,43 @@
         "url": "https://doi.org/10.1162/rest_a_01386",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Spatial microsimulation of carbon tax incidence: An application to Washington State",
+        "title": "Spatial microsimulation of carbon tax incidence: An application to Washington State",
+        "authors": [
+          "Susan S. Sayre",
+          "Nathan W. Chan"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/MPAOOR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -46054,6 +46091,23 @@
         "url": "https://doi.org/10.1162/rest_a_01387",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spatial microsimulation of carbon tax incidence: An application to Washington State",
+        "title": "Spatial microsimulation of carbon tax incidence: An application to Washington State",
+        "authors": [
+          "Susan S. Sayre",
+          "Nathan W. Chan"
+        ],
+        "year": 2023,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/MPAOOR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -48225,6 +48279,26 @@
         "pages": "3298-3333",
         "doi": "10.1086/730383",
         "url": "https://doi.org/10.1086/730383",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
         "verified": true,
         "note": ""
       }
@@ -51506,6 +51580,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1v3V7L_w0s2d2lY4qxaKRnpTJ3VWKAg4J",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reconciling Seemingly Contradictory Results from the Oregon Health Insurance Experiment and the Massachusetts Health Reform",
+        "title": "Reconciling Seemingly Contradictory Results from the Oregon Health Insurance Experiment and the Massachusetts Health Reform",
+        "authors": [
+          "Amanda E. Kowalski"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "646-664",
+        "doi": "10.1162/rest_a_01069",
+        "url": "https://doi.org/10.1162/rest_a_01069",
         "verified": true,
         "note": ""
       }
@@ -63219,6 +63309,46 @@
         "pages": "1581-1631",
         "doi": "10.1093/qje/qjaf007",
         "url": "https://doi.org/10.1093/qje/qjaf007",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.62",
+    "title": "搬往机会住房实验数据（Moving to Opportunity，MTO）",
+    "links": [
+      {
+        "label": "ICPSR 34860: MTO Final Impacts Evaluation",
+        "url": "https://www.icpsr.umich.edu/web/ICPSR/studies/34860"
+      }
+    ],
+    "summary": "美国住房与城市发展部（HUD）1994–1998 年在巴尔的摩、波士顿、芝加哥、洛杉矶和纽约开展的随机住房券实验，约 4600 户公共住房家庭被随机分配到低贫困街区住房券、常规住房券或对照组，中期和长期（10–15 年）调查记录住房、就业、收入、健康和子女教育结果，受限版本经 ICPSR 申请使用。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据",
+      "房地产数据"
+    ],
+    "introduction": "这是研究街区效应最有影响的随机实验数据。研究常用它识别搬到低贫困街区对成人和儿童经济与健康结果的因果影响。",
+    "source": "需申请（ICPSR 受限数据）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Estimating Endogenous Effects on Ordinal Outcomes",
+        "title": "Estimating Endogenous Effects on Ordinal Outcomes",
+        "authors": [
+          "Andrew Chesher",
+          "Adam M. Rosen",
+          "Zahra Siddique"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "107",
+        "issue": "6",
+        "pages": "1667-1683",
+        "doi": "10.1162/rest_a_01348",
+        "url": "https://doi.org/10.1162/rest_a_01348",
         "verified": true,
         "note": ""
       }
@@ -96610,6 +96740,22 @@
         "url": "https://doi.org/10.1093/qje/qjad053",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Taxing Business Owners Affect Employees? Evidence from a Change in the Top Marginal Tax Rate",
+        "title": "Does Taxing Business Owners Affect Employees? Evidence from a Change in the Top Marginal Tax Rate",
+        "authors": [
+          "Max Risch"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "637-692",
+        "doi": "10.1093/qje/qjad040",
+        "url": "https://doi.org/10.1093/qje/qjad040",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -108825,6 +108971,43 @@
         "url": "https://doi.org/10.1162/rest_a_01532",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "title": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/KXAVHB",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110175,6 +110358,23 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag090",
         "url": "https://doi.org/10.1093/rfs/hhag090",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "title": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/KXAVHB",
         "verified": true,
         "note": ""
       }
@@ -139523,6 +139723,26 @@
         "url": "https://doi.org/10.1093/qje/qjad049",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -139630,6 +139850,26 @@
         "pages": "",
         "doi": "10.3386/w32656",
         "url": "https://doi.org/10.3386/w32656",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
         "verified": true,
         "note": ""
       }
@@ -139888,6 +140128,23 @@
         "url": "https://doi.org/10.1086/738249",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "title": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/KXAVHB",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -139977,6 +140234,23 @@
         "pages": "590–607",
         "doi": "10.1257/aer.100.1.590",
         "url": "https://doi.org/10.1257/aer.100.1.590",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "title": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/KXAVHB",
         "verified": true,
         "note": ""
       }
@@ -140263,6 +140537,43 @@
         "pages": "1-44",
         "doi": "10.1162/rest.a.1813",
         "url": "https://doi.org/10.1162/rest.a.1813",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "title": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/KXAVHB",
         "verified": true,
         "note": ""
       }
@@ -141338,6 +141649,26 @@
         "pages": "272-281",
         "doi": "10.1162/rest_a_01384",
         "url": "https://doi.org/10.1162/rest_a_01384",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
         "verified": true,
         "note": ""
       }
@@ -143695,6 +144026,43 @@
         "url": "https://doi.org/10.1086/730383",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "title": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/KXAVHB",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -144081,6 +144449,26 @@
         "url": "https://doi.org/10.1162/rest_a_01384",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -144430,6 +144818,26 @@
         "pages": "3298-3333",
         "doi": "10.1086/730383",
         "url": "https://doi.org/10.1086/730383",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
         "verified": true,
         "note": ""
       }
@@ -146273,6 +146681,22 @@
         "pages": "1-11",
         "doi": "10.1162/rest_a_01462",
         "url": "https://doi.org/10.1162/rest_a_01462",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Reconciling Seemingly Contradictory Results from the Oregon Health Insurance Experiment and the Massachusetts Health Reform",
+        "title": "Reconciling Seemingly Contradictory Results from the Oregon Health Insurance Experiment and the Massachusetts Health Reform",
+        "authors": [
+          "Amanda E. Kowalski"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "105",
+        "issue": "3",
+        "pages": "646-664",
+        "doi": "10.1162/rest_a_01069",
+        "url": "https://doi.org/10.1162/rest_a_01069",
         "verified": true,
         "note": ""
       }
@@ -149216,6 +149640,85 @@
         "pages": "1-45",
         "doi": "10.1162/rest.a.1615",
         "url": "https://doi.org/10.1162/rest.a.1615",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.130",
+    "title": "FDA 药物试验快照（Drug Trials Snapshots）",
+    "links": [
+      {
+        "label": "FDA: Drug Trials Snapshots",
+        "url": "https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots"
+      }
+    ],
+    "summary": "美国食品药品监督管理局（FDA）2015 年起为每种新批准药物发布的临床试验参与者概况，报告关键试验参与者按性别、种族、民族和年龄的构成及各亚组的疗效与安全性差异，公开查询下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是美国新药临床试验人群代表性的官方数据。研究常用它度量少数族裔和女性在临床试验中的参与，分析试验多样性与药物可及性。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.131",
+    "title": "Medi-Span 药品数据库（Wolters Kluwer）",
+    "links": [
+      {
+        "label": "Wolters Kluwer: Medi-Span",
+        "url": "https://www.wolterskluwer.com/en/solutions/medi-span"
+      }
+    ],
+    "summary": "Wolters Kluwer 旗下 Medi-Span 的药品主数据，覆盖美国处方药和非处方药的 NDC 代码、通用名与品牌、治疗分类（GPI）、剂型规格、生产商和批发采购价（AWP/WAC）等价格历史，经商业授权获取。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是美国药品理赔数据分析常用的药品分类与价格参考库。研究常用它将理赔记录映射到药物类别和价格，分析药价和处方行为。",
+    "source": "付费商业数据；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "title": "Rules vs. Discretion: Treatment of Mental Illness in U.S. Adolescents",
+        "authors": [
+          "Emily Cuddy",
+          "Janet Currie"
+        ],
+        "year": 2023,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/KXAVHB",
         "verified": true,
         "note": ""
       }
@@ -177632,6 +178135,24 @@
         "url": "https://doi.org/10.7910/DVN/Y9M1SZ",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Rise of Star Firms: Intangible Capital and Competition",
+        "title": "The Rise of Star Firms: Intangible Capital and Competition",
+        "authors": [
+          "Meghana Ayyagari",
+          "Asli Demirgüç-Kunt",
+          "Vojislav Maksimovic"
+        ],
+        "year": 2024,
+        "journal": "Review of Financial Studies",
+        "volume": "37",
+        "issue": "3",
+        "pages": "882-949",
+        "doi": "10.1093/rfs/hhad065",
+        "url": "https://doi.org/10.1093/rfs/hhad065",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -184716,6 +185237,40 @@
         "url": "https://doi.org/10.1086/727287",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Rise of Star Firms: Intangible Capital and Competition",
+        "title": "The Rise of Star Firms: Intangible Capital and Competition",
+        "authors": [
+          "Meghana Ayyagari",
+          "Asli Demirgüç-Kunt",
+          "Vojislav Maksimovic"
+        ],
+        "year": 2024,
+        "journal": "Review of Financial Studies",
+        "volume": "37",
+        "issue": "3",
+        "pages": "882-949",
+        "doi": "10.1093/rfs/hhad065",
+        "url": "https://doi.org/10.1093/rfs/hhad065",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Factor Momentum\" by Arnott, Kalesnik, and Linnainmaa, 2023, Review of Financial Studies, forthcoming",
+        "title": "Factor Momentum\" by Arnott, Kalesnik, and Linnainmaa, 2023, Review of Financial Studies, forthcoming",
+        "authors": [
+          "Juhani Linnainmaa"
+        ],
+        "year": 2023,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/M8XUF0",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -188597,6 +189152,22 @@
         "pages": "1409-1459",
         "doi": "10.1093/rfs/hhad098",
         "url": "https://doi.org/10.1093/rfs/hhad098",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Factor Momentum\" by Arnott, Kalesnik, and Linnainmaa, 2023, Review of Financial Studies, forthcoming",
+        "title": "Factor Momentum\" by Arnott, Kalesnik, and Linnainmaa, 2023, Review of Financial Studies, forthcoming",
+        "authors": [
+          "Juhani Linnainmaa"
+        ],
+        "year": 2023,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/M8XUF0",
         "verified": true,
         "note": ""
       }
@@ -192559,6 +193130,22 @@
         "pages": "3188-3215",
         "doi": "10.1093/rfs/hhae002",
         "url": "https://doi.org/10.1093/rfs/hhae002",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Factor Momentum\" by Arnott, Kalesnik, and Linnainmaa, 2023, Review of Financial Studies, forthcoming",
+        "title": "Factor Momentum\" by Arnott, Kalesnik, and Linnainmaa, 2023, Review of Financial Studies, forthcoming",
+        "authors": [
+          "Juhani Linnainmaa"
+        ],
+        "year": 2023,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/M8XUF0",
         "verified": true,
         "note": ""
       }
@@ -201148,6 +201735,24 @@
         "url": "https://doi.org/10.1086/727287",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Rise of Star Firms: Intangible Capital and Competition",
+        "title": "The Rise of Star Firms: Intangible Capital and Competition",
+        "authors": [
+          "Meghana Ayyagari",
+          "Asli Demirgüç-Kunt",
+          "Vojislav Maksimovic"
+        ],
+        "year": 2024,
+        "journal": "Review of Financial Studies",
+        "volume": "37",
+        "issue": "3",
+        "pages": "882-949",
+        "doi": "10.1093/rfs/hhad065",
+        "url": "https://doi.org/10.1093/rfs/hhad065",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -203529,6 +204134,24 @@
         "pages": "661-711",
         "doi": "10.1093/rfs/hhad074",
         "url": "https://doi.org/10.1093/rfs/hhad074",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Theory of Stock Exchange Competition and Innovation: Will the Market Fix the Market?",
+        "title": "A Theory of Stock Exchange Competition and Innovation: Will the Market Fix the Market?",
+        "authors": [
+          "Eric Budish",
+          "Robin S. Lee",
+          "John J. Shim"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1209-1246",
+        "doi": "10.1086/727284",
+        "url": "https://doi.org/10.1086/727284",
         "verified": true,
         "note": ""
       }
@@ -214225,6 +214848,24 @@
         "url": "https://doi.org/10.1086/734845",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Rise of Star Firms: Intangible Capital and Competition",
+        "title": "The Rise of Star Firms: Intangible Capital and Competition",
+        "authors": [
+          "Meghana Ayyagari",
+          "Asli Demirgüç-Kunt",
+          "Vojislav Maksimovic"
+        ],
+        "year": 2024,
+        "journal": "Review of Financial Studies",
+        "volume": "37",
+        "issue": "3",
+        "pages": "882-949",
+        "doi": "10.1093/rfs/hhad065",
+        "url": "https://doi.org/10.1093/rfs/hhad065",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -221211,6 +221852,24 @@
         "pages": "1399-1465",
         "doi": "10.1093/qje/qjae008",
         "url": "https://doi.org/10.1093/qje/qjae008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Rise of Star Firms: Intangible Capital and Competition",
+        "title": "The Rise of Star Firms: Intangible Capital and Competition",
+        "authors": [
+          "Meghana Ayyagari",
+          "Asli Demirgüç-Kunt",
+          "Vojislav Maksimovic"
+        ],
+        "year": 2024,
+        "journal": "Review of Financial Studies",
+        "volume": "37",
+        "issue": "3",
+        "pages": "882-949",
+        "doi": "10.1093/rfs/hhad065",
+        "url": "https://doi.org/10.1093/rfs/hhad065",
         "verified": true,
         "note": ""
       }
@@ -230293,6 +230952,22 @@
         "url": "https://doi.org/10.7910/DVN/ZXNDJM",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Replication code package for “Do Robots Increase Wealth Dispersion?” by Gomes, Jansson, and Karabulut",
+        "title": "Replication code package for “Do Robots Increase Wealth Dispersion?” by Gomes, Jansson, and Karabulut",
+        "authors": [
+          "Yigitcan Karabulut"
+        ],
+        "year": 2023,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/OTMTVU",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -237535,6 +238210,24 @@
         "pages": "",
         "doi": "10.1086/739196",
         "url": "https://doi.org/10.1086/739196",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "High-Pressure, High-Paying Jobs?",
+        "title": "High-Pressure, High-Paying Jobs?",
+        "authors": [
+          "Markus Nagler",
+          "Johannes Rincke",
+          "Erwin Winkler"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "107",
+        "issue": "6",
+        "pages": "1471-1484",
+        "doi": "10.1162/rest_a_01362",
+        "url": "https://doi.org/10.1162/rest_a_01362",
         "verified": true,
         "note": ""
       }
@@ -252888,6 +253581,25 @@
         "url": "https://doi.org/10.1162/rest.a.258",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Macroprudential Policy, Mortgage Cycles, and Distributional Effects: Evidence from the United Kingdom",
+        "title": "Macroprudential Policy, Mortgage Cycles, and Distributional Effects: Evidence from the United Kingdom",
+        "authors": [
+          "Jagdish Tripathy",
+          "Jose-Luis Peydro",
+          "Francesc Rodriguez-Tous",
+          "Arzu Uluc"
+        ],
+        "year": 2023,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/E8JQZT",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -254360,6 +255072,47 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/DMDCHM",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.12.18",
+    "title": "英国金融行为监管局产品销售数据（FCA Product Sales Data，PSD）",
+    "links": [
+      {
+        "label": "FCA: Product sales data",
+        "url": "https://www.fca.org.uk/data/product-sales-data"
+      }
+    ],
+    "summary": "英国金融行为监管局（FCA）要求贷款机构报告的受监管住房抵押贷款逐笔发放数据（PSD001）及贷款存量表现数据（PSD007），2005 年起记录贷款金额、利率、期限、贷款价值比、收入倍数、借款人特征和房产地点，汇总统计公开，微观数据经监管机构合作或申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "金融数据",
+      "房地产数据"
+    ],
+    "introduction": "这是英国住房抵押贷款最详细的贷款级数据。研究常用它度量抵押贷款条件和借款人杠杆，分析宏观审慎政策与利率传导。",
+    "source": "汇总统计公开；微观数据需申请。",
+    "references": [
+      {
+        "raw": "Macroprudential Policy, Mortgage Cycles, and Distributional Effects: Evidence from the United Kingdom",
+        "title": "Macroprudential Policy, Mortgage Cycles, and Distributional Effects: Evidence from the United Kingdom",
+        "authors": [
+          "Jagdish Tripathy",
+          "Jose-Luis Peydro",
+          "Francesc Rodriguez-Tous",
+          "Arzu Uluc"
+        ],
+        "year": 2023,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/E8JQZT",
         "verified": true,
         "note": ""
       }
@@ -258540,6 +259293,25 @@
         "url": "https://doi.org/10.1086/739115",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Measuring Welfare and Inequality with Incomplete Price Information",
+        "title": "Measuring Welfare and Inequality with Incomplete Price Information",
+        "authors": [
+          "David Atkin",
+          "Benjamin Faber",
+          "Thibault Fally",
+          "Marco Gonzalez-Navarro"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "419-475",
+        "doi": "10.1093/qje/qjad037",
+        "url": "https://doi.org/10.1093/qje/qjad037",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -262519,6 +263291,24 @@
         "url": "https://doi.org/10.1093/qje/qjae017",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillovers to manufacturing plants from multi-million dollar plantations: Evidence from the Indonesian palm oil boom",
+        "title": "Spillovers to manufacturing plants from multi-million dollar plantations: Evidence from the Indonesian palm oil boom",
+        "authors": [
+          "Sebastian Kraus",
+          "Robert Heilmayr",
+          "Nicolas Koch"
+        ],
+        "year": 2024,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "11",
+        "issue": "3",
+        "pages": "613-656",
+        "doi": "10.1086/727196",
+        "url": "https://doi.org/10.1086/727196",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -264211,6 +265001,47 @@
         "pages": "1819-1857",
         "doi": "10.1086/735534",
         "url": "https://doi.org/10.1086/735534",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.4.17",
+    "title": "印度劳工局农业与农村劳动者消费价格指数（CPI-AL / CPI-RL）",
+    "links": [
+      {
+        "label": "Labour Bureau, Government of India",
+        "url": "https://labourbureau.gov.in"
+      }
+    ],
+    "summary": "印度劳工与就业部劳工局（Labour Bureau）编制的农业劳动者和农村劳动者消费价格指数，按月分邦报告指数及食品、燃料、衣着等分项，CPI-AL 可追溯至 1960 年代，年度报告与月度数据公开发布。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "农业数据"
+    ],
+    "introduction": "这是印度农村生活成本的官方价格指数。研究常用它平减农村工资与消费，度量各邦农村通胀，分析贫困和实际收入变化。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Measuring Welfare and Inequality with Incomplete Price Information",
+        "title": "Measuring Welfare and Inequality with Incomplete Price Information",
+        "authors": [
+          "David Atkin",
+          "Benjamin Faber",
+          "Thibault Fally",
+          "Marco Gonzalez-Navarro"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "419-475",
+        "doi": "10.1093/qje/qjad037",
+        "url": "https://doi.org/10.1093/qje/qjad037",
         "verified": true,
         "note": ""
       }
@@ -269109,6 +269940,22 @@
         "url": "https://doi.org/10.1162/rest_a_01470",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Road Endpoints and City Sizes",
+        "title": "Road Endpoints and City Sizes",
+        "authors": [
+          "Bruno Barsanetti"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GSCELX",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -272588,6 +273435,25 @@
         "url": "https://jibinjose-econ.github.io/files/jibin_jose_jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The ABCs of Firm Heterogeneity when Firms Sort into Markets: The Case of Exporters",
+        "title": "The ABCs of Firm Heterogeneity when Firms Sort into Markets: The Case of Exporters",
+        "authors": [
+          "Bernardo S. Blum",
+          "Sebastian Claro",
+          "Ignatius Horstmann",
+          "David A. Rivers"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1162-1208",
+        "doi": "10.1086/727289",
+        "url": "https://doi.org/10.1086/727289",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -273429,6 +274295,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/SP1LA1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Road Endpoints and City Sizes",
+        "title": "Road Endpoints and City Sizes",
+        "authors": [
+          "Bruno Barsanetti"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GSCELX",
         "verified": true,
         "note": ""
       }
@@ -274861,6 +275743,22 @@
         "url": "https://doi.org/10.1086/735825",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Road Endpoints and City Sizes",
+        "title": "Road Endpoints and City Sizes",
+        "authors": [
+          "Bruno Barsanetti"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GSCELX",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -275041,6 +275939,44 @@
         "pages": "1635-1666",
         "doi": "10.1086/735824",
         "url": "https://doi.org/10.1086/735824",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.5.7",
+    "title": "巴西农业研究公司土壤图（Embrapa Mapa de Solos do Brasil）",
+    "links": [
+      {
+        "label": "Embrapa Solos",
+        "url": "https://www.embrapa.br/solos"
+      }
+    ],
+    "summary": "巴西农业研究公司（Embrapa）土壤研究中心编制的全国土壤分类图（2011 年版等，1:5,000,000），按巴西土壤分类体系标示土壤类型分布，并提供土壤剖面与性质数据，公开下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "地理数据",
+      "农业数据"
+    ],
+    "introduction": "这是巴西全国土壤分布的官方地图。研究常用它度量市镇层面的土壤质量和农业适宜性，分析农业扩张和土地利用。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Road Endpoints and City Sizes",
+        "title": "Road Endpoints and City Sizes",
+        "authors": [
+          "Bruno Barsanetti"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GSCELX",
         "verified": true,
         "note": ""
       }
@@ -277447,6 +278383,22 @@
         "url": "https://doi.org/10.1086/731080",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Road Endpoints and City Sizes",
+        "title": "Road Endpoints and City Sizes",
+        "authors": [
+          "Bruno Barsanetti"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GSCELX",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -279089,6 +280041,46 @@
         "pages": "1-32",
         "doi": "10.1162/rest.a.1707",
         "url": "https://doi.org/10.1162/rest.a.1707",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.15.2",
+    "title": "智利海关进出口报关数据（Servicio Nacional de Aduanas）",
+    "links": [
+      {
+        "label": "Aduana de Chile: Estadísticas",
+        "url": "https://www.aduana.cl/aduana/site/edic/base/port/estadisticas.html"
+      }
+    ],
+    "summary": "智利国家海关局的进出口报关记录，按交易报告申报日期、商品税号（HS 8 位）、金额、数量、原产国或目的国、运输方式和口岸，部分年份含进出口商税号，汇总统计和部分交易级数据经开放数据平台公开，含企业标识的数据需申请。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "这是智利对外贸易最细的官方数据。研究常用它度量企业层面的进出口和贸易伙伴，分析贸易冲击、汇率传导和企业国际化。",
+    "source": "汇总与部分交易数据公开；含企业标识数据需申请。",
+    "references": [
+      {
+        "raw": "The ABCs of Firm Heterogeneity when Firms Sort into Markets: The Case of Exporters",
+        "title": "The ABCs of Firm Heterogeneity when Firms Sort into Markets: The Case of Exporters",
+        "authors": [
+          "Bernardo S. Blum",
+          "Sebastian Claro",
+          "Ignatius Horstmann",
+          "David A. Rivers"
+        ],
+        "year": 2024,
+        "journal": "Journal of Political Economy",
+        "volume": "132",
+        "issue": "4",
+        "pages": "1162-1208",
+        "doi": "10.1086/727289",
+        "url": "https://doi.org/10.1086/727289",
         "verified": true,
         "note": ""
       }
@@ -317602,6 +318594,22 @@
         "url": "https://doi.org/10.3386/w33586",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Road Endpoints and City Sizes",
+        "title": "Road Endpoints and City Sizes",
+        "authors": [
+          "Bruno Barsanetti"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GSCELX",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -333971,6 +334979,22 @@
         "url": "https://idagri.github.io/files/Grigoryeva_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Road Endpoints and City Sizes",
+        "title": "Road Endpoints and City Sizes",
+        "authors": [
+          "Bruno Barsanetti"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GSCELX",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -334121,6 +335145,48 @@
         "pages": "1111-1185",
         "doi": "10.1093/qje/qjaf010",
         "url": "https://doi.org/10.1093/qje/qjaf010",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.8.33",
+    "title": "医学主题词表（Medical Subject Headings，MeSH）",
+    "links": [
+      {
+        "label": "NLM: MeSH",
+        "url": "https://www.nlm.nih.gov/mesh/meshhome.html"
+      }
+    ],
+    "summary": "美国国家医学图书馆（NLM）维护的生物医学受控词表，约 3 万个按树状层级组织的主题词及其树编号，用于标引 MEDLINE/PubMed 文献，年度版本公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "健康数据",
+      "教育数据"
+    ],
+    "introduction": "这是生物医学文献分类的标准词表。研究常用它将论文、临床试验和药物映射到疾病与研究领域，度量科研方向和医学创新。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
         "verified": true,
         "note": ""
       }
@@ -358645,6 +359711,26 @@
         "url": "https://doi.org/10.1162/rest_a_01464",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "title": "Representation and Extrapolation: Evidence from Clinical Trials",
+        "authors": [
+          "Marcella Alsan",
+          "Maya Durvasula",
+          "Harsh Gupta",
+          "Joshua Schwartzstein",
+          "Heidi Williams"
+        ],
+        "year": 2024,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "139",
+        "issue": "1",
+        "pages": "575-635",
+        "doi": "10.1093/qje/qjad036",
+        "url": "https://doi.org/10.1093/qje/qjad036",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -364080,6 +365166,23 @@
         "url": "https://doi.org/10.1093/qje/qjae008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Demand Shocks, Procurement Policies, and the Nature of Medical Innovation: Evidence from Wartime Prosthetic Device Patents",
+        "title": "Demand Shocks, Procurement Policies, and the Nature of Medical Innovation: Evidence from Wartime Prosthetic Device Patents",
+        "authors": [
+          "Jeffrey Clemens",
+          "Parker Rogers"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "108",
+        "issue": "1",
+        "pages": "75-89",
+        "doi": "10.1162/rest_a_01365",
+        "url": "https://doi.org/10.1162/rest_a_01365",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -365409,6 +366512,22 @@
         "pages": "",
         "doi": "10.3386/w33603",
         "url": "https://doi.org/10.3386/w33603",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication code package for “Do Robots Increase Wealth Dispersion?” by Gomes, Jansson, and Karabulut",
+        "title": "Replication code package for “Do Robots Increase Wealth Dispersion?” by Gomes, Jansson, and Karabulut",
+        "authors": [
+          "Yigitcan Karabulut"
+        ],
+        "year": 2023,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/OTMTVU",
         "verified": true,
         "note": ""
       }
@@ -371137,6 +372256,22 @@
         "pages": "1518-1536",
         "doi": "10.1162/rest_a_01375",
         "url": "https://doi.org/10.1162/rest_a_01375",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Road Endpoints and City Sizes",
+        "title": "Road Endpoints and City Sizes",
+        "authors": [
+          "Bruno Barsanetti"
+        ],
+        "year": 2023,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/GSCELX",
         "verified": true,
         "note": ""
       }
