@@ -19,3 +19,11 @@
 ## 本地预览
 
 `python -m http.server 8080` 后打开 http://localhost:8080 。
+
+## 文献目录（papers.html）
+
+与数据目录平行的文献界面，按“领域—主题—问题”排版。数据由 `work/papers/parse_papers.py`（解析 Reading Notes PDF 的书签目录与标题/作者链接）和 `work/papers/build_papers.py` 生成：
+
+- `papers/index.json`: 领域—主题—问题树及文献数量。编号 = 领域.主题.问题，文献 id = 领域.主题.问题.序号（问题号 0 表示直接挂在主题下的综合文献）。
+- `papers/f<N>.json`: 第 N 个领域的文献，字段 id/q/key/venue/year/title/url/authors[name,aff,url]/abstract。
+- `papers/summaries.json`: 论文总结，按 `key`（标题+年份）存放 `{question, method, data, conclusion}`（研究问题、研究方法、研究数据、研究结论）。只收录已写总结的文献；未收录的在网页上显示“待补充”。同一论文出现在多个问题下时共享同一份总结，重新生成文献时总结不会丢失。
