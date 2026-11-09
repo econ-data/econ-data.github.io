@@ -21222,6 +21222,41 @@
         "url": "https://doi.org/10.1086/713113",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "School Desegregation and Black Teacher Employment",
+        "title": "School Desegregation and Black Teacher Employment",
+        "authors": [
+          "Owen Thompson"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "5",
+        "pages": "962-980",
+        "doi": "10.1162/rest_a_00984",
+        "url": "https://doi.org/10.1162/rest_a_00984",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Community Pressure and the Spatial Redistribution of Pollution: The Relocation of Toxic Releasing Facilities",
+        "title": "Community Pressure and the Spatial Redistribution of Pollution: The Relocation of Toxic Releasing Facilities",
+        "authors": [
+          "Xiao Wang",
+          "George Deltas",
+          "Madhu Khanna",
+          "Xiang Bi"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "3",
+        "pages": "577-616",
+        "doi": "10.1086/711656",
+        "url": "https://doi.org/10.1086/711656",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25716,6 +25751,22 @@
         "url": "https://doi.org/10.1086/738344",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Social Networks on EITC Claiming Behavior",
+        "title": "The Impact of Social Networks on EITC Claiming Behavior",
+        "authors": [
+          "Riley Wilson"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YYNAA8",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -27357,6 +27408,25 @@
         "pages": "877-889",
         "doi": "10.1162/rest_a_01018",
         "url": "https://doi.org/10.1162/rest_a_01018",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
         "verified": true,
         "note": ""
       }
@@ -37685,6 +37755,58 @@
         "pages": "1341-1350",
         "doi": "10.1162/rest_a_01012",
         "url": "https://doi.org/10.1162/rest_a_01012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Social Networks on EITC Claiming Behavior",
+        "title": "The Impact of Social Networks on EITC Claiming Behavior",
+        "authors": [
+          "Riley Wilson"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YYNAA8",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Discrimination and the Toxics Exposure Gap in the United States: Evidence from the Rental Market",
+        "title": "Housing Discrimination and the Toxics Exposure Gap in the United States: Evidence from the Rental Market",
+        "authors": [
+          "Peter Christensen",
+          "Ignacio Sarmiento-Barbieri",
+          "Christopher Timmins"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "807-818",
+        "doi": "10.1162/rest_a_00992",
+        "url": "https://doi.org/10.1162/rest_a_00992",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Building Codes Do Save Energy: Evidence from Hourly Smart-Meter Data",
+        "title": "Building Codes Do Save Energy: Evidence from Hourly Smart-Meter Data",
+        "authors": [
+          "Kevin Novan",
+          "Aaron Smith",
+          "Tianxia Zhou"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YH7WKF",
         "verified": true,
         "note": ""
       }
@@ -64028,6 +64150,24 @@
         "url": "https://doi.org/10.7910/DVN/FXUJIQ",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "title": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "authors": [
+          "Janet Currie",
+          "Michael Mueller-Smith",
+          "Maya Rossin-Slater"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/3OJ5KA",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65490,6 +65630,24 @@
         "url": "https://dannyturkson.github.io/assets/JMP_DannyTurkson.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "title": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "authors": [
+          "Janet Currie",
+          "Michael Mueller-Smith",
+          "Maya Rossin-Slater"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/3OJ5KA",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65669,6 +65827,25 @@
         "pages": "733-743",
         "doi": "10.1162/rest_a_01073",
         "url": "https://doi.org/10.1162/rest_a_01073",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
         "verified": true,
         "note": ""
       }
@@ -67047,6 +67224,25 @@
         "pages": "119-132",
         "doi": "10.1162/rest_a_01154",
         "url": "https://doi.org/10.1162/rest_a_01154",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Community Pressure and the Spatial Redistribution of Pollution: The Relocation of Toxic Releasing Facilities",
+        "title": "Community Pressure and the Spatial Redistribution of Pollution: The Relocation of Toxic Releasing Facilities",
+        "authors": [
+          "Xiao Wang",
+          "George Deltas",
+          "Madhu Khanna",
+          "Xiang Bi"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "3",
+        "pages": "577-616",
+        "doi": "10.1086/711656",
+        "url": "https://doi.org/10.1086/711656",
         "verified": true,
         "note": ""
       }
@@ -72547,6 +72743,25 @@
         "url": "https://doi.org/10.7910/DVN/AK4IBY",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -75047,6 +75262,25 @@
         "url": "https://doi.org/10.1162/rest_a_01019",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -75873,6 +76107,25 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/XV7VYC",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
         "verified": true,
         "note": ""
       }
@@ -82584,6 +82837,22 @@
         "url": "https://doi.org/10.1162/rest_a_01133",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Social Networks on EITC Claiming Behavior",
+        "title": "The Impact of Social Networks on EITC Claiming Behavior",
+        "authors": [
+          "Riley Wilson"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YYNAA8",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -88248,6 +88517,25 @@
         "url": "https://doi.org/10.1093/rfs/hhab036",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -91047,6 +91335,25 @@
         "pages": "1761-1822",
         "doi": "10.1093/qje/qjaf056",
         "url": "https://doi.org/10.1093/qje/qjaf056",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
         "verified": true,
         "note": ""
       }
@@ -94890,6 +95197,25 @@
         "url": "https://doi.org/10.1093/rfs/hhaf062",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -98166,6 +98492,25 @@
         "url": "https://doi.org/10.1162/rest_a_01057",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -100562,6 +100907,22 @@
         "url": "https://www.dropbox.com/scl/fi/z5phkm6fibb6zucbx5ugf/YChen_JMP.pdf?dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Social Networks on EITC Claiming Behavior",
+        "title": "The Impact of Social Networks on EITC Claiming Behavior",
+        "authors": [
+          "Riley Wilson"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YYNAA8",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -100700,6 +101061,25 @@
         "pages": "2331-2375",
         "doi": "10.1093/qje/qjae019",
         "url": "https://doi.org/10.1093/qje/qjae019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
         "verified": true,
         "note": ""
       }
@@ -108403,6 +108783,25 @@
         "url": "https://doi.org/10.1093/qje/qjag027",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -108898,6 +109297,25 @@
         "pages": "1191-1206",
         "doi": "10.1162/rest_a_01102",
         "url": "https://doi.org/10.1162/rest_a_01102",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
         "verified": true,
         "note": ""
       }
@@ -117286,6 +117704,24 @@
         "url": "https://doi.org/10.1162/rest_a_01218",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Building Codes Do Save Energy: Evidence from Hourly Smart-Meter Data",
+        "title": "Building Codes Do Save Energy: Evidence from Hourly Smart-Meter Data",
+        "authors": [
+          "Kevin Novan",
+          "Aaron Smith",
+          "Tianxia Zhou"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YH7WKF",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -118886,6 +119322,43 @@
         "pages": "663-699",
         "doi": "10.1086/731788",
         "url": "https://doi.org/10.1086/731788",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Discrimination and the Toxics Exposure Gap in the United States: Evidence from the Rental Market",
+        "title": "Housing Discrimination and the Toxics Exposure Gap in the United States: Evidence from the Rental Market",
+        "authors": [
+          "Peter Christensen",
+          "Ignacio Sarmiento-Barbieri",
+          "Christopher Timmins"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "807-818",
+        "doi": "10.1162/rest_a_00992",
+        "url": "https://doi.org/10.1162/rest_a_00992",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Community Pressure and the Spatial Redistribution of Pollution: The Relocation of Toxic Releasing Facilities",
+        "title": "Community Pressure and the Spatial Redistribution of Pollution: The Relocation of Toxic Releasing Facilities",
+        "authors": [
+          "Xiao Wang",
+          "George Deltas",
+          "Madhu Khanna",
+          "Xiang Bi"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "3",
+        "pages": "577-616",
+        "doi": "10.1086/711656",
+        "url": "https://doi.org/10.1086/711656",
         "verified": true,
         "note": ""
       }
@@ -124914,6 +125387,24 @@
         "pages": "2517-2548",
         "doi": "10.1093/rfs/hhag006",
         "url": "https://doi.org/10.1093/rfs/hhag006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Housing Discrimination and the Toxics Exposure Gap in the United States: Evidence from the Rental Market",
+        "title": "Housing Discrimination and the Toxics Exposure Gap in the United States: Evidence from the Rental Market",
+        "authors": [
+          "Peter Christensen",
+          "Ignacio Sarmiento-Barbieri",
+          "Christopher Timmins"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "807-818",
+        "doi": "10.1162/rest_a_00992",
+        "url": "https://doi.org/10.1162/rest_a_00992",
         "verified": true,
         "note": ""
       }
@@ -134864,6 +135355,25 @@
         "url": "https://doi.org/10.1093/restud/rdx042",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Party Affliation, Lobbying and Electoral Incentives in Decentralized U.S. State Support of the Environment",
+        "title": "The Role of Party Affliation, Lobbying and Electoral Incentives in Decentralized U.S. State Support of the Environment",
+        "authors": [
+          "Daniele Curzi",
+          "Alessandro",
+          "Gordon",
+          "Pacca"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/WRKLJZ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -141881,6 +142391,24 @@
         "url": "https://doi.org/10.1086/714351",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "title": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "authors": [
+          "Janet Currie",
+          "Michael Mueller-Smith",
+          "Maya Rossin-Slater"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/3OJ5KA",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -144109,6 +144637,24 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=18BohQgFf4yH1Lx-IST0bPMjWMdVJH_VT",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "title": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "authors": [
+          "Janet Currie",
+          "Michael Mueller-Smith",
+          "Maya Rossin-Slater"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/3OJ5KA",
         "verified": true,
         "note": ""
       }
@@ -149849,6 +150395,25 @@
         "url": "https://doi.org/10.1162/rest_a_01187",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -155539,6 +156104,24 @@
         "url": "https://lhexuan426.github.io/postpartum-medicaid-spending/Li_Kiser_PPMed.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "title": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "authors": [
+          "Janet Currie",
+          "Michael Mueller-Smith",
+          "Maya Rossin-Slater"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/3OJ5KA",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -156652,6 +157235,46 @@
         "pages": "1351-1360",
         "doi": "10.1162/rest_a_01020",
         "url": "https://doi.org/10.1162/rest_a_01020",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.141",
+    "title": "CDC 新冠相关超额死亡数据（NCHS Excess Deaths Associated with COVID-19）",
+    "links": [
+      {
+        "label": "CDC NCHS: Excess Deaths",
+        "url": "https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm"
+      }
+    ],
+    "summary": "美国国家卫生统计中心（NCHS）基于全国生命统计系统周度死亡数据发布的超额死亡估计，按州、周、年龄组、种族与死因给出观测死亡数、预期死亡数（Farrington 方法）及超额死亡，覆盖 2017 年起，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是度量新冠疫情真实死亡负担的官方数据。研究常用它比较各州超额死亡，分析封控、疫苗接种、医疗资源与社会经济因素对疫情死亡的影响。",
+    "source": "公开下载。官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
         "verified": true,
         "note": ""
       }
@@ -169909,6 +170532,25 @@
         "url": "https://doi.org/10.3386/w33626",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Role of Party Affliation, Lobbying and Electoral Incentives in Decentralized U.S. State Support of the Environment",
+        "title": "The Role of Party Affliation, Lobbying and Electoral Incentives in Decentralized U.S. State Support of the Environment",
+        "authors": [
+          "Daniele Curzi",
+          "Alessandro",
+          "Gordon",
+          "Pacca"
+        ],
+        "year": 2020,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/WRKLJZ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -178439,6 +179081,24 @@
         "pages": "119-132",
         "doi": "10.1162/rest_a_01154",
         "url": "https://doi.org/10.1162/rest_a_01154",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "title": "Violence While in Utero: The Impacts of Assaults During Pregnancy on Birth outcomes",
+        "authors": [
+          "Janet Currie",
+          "Michael Mueller-Smith",
+          "Maya Rossin-Slater"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/3OJ5KA",
         "verified": true,
         "note": ""
       }
@@ -194366,6 +195026,23 @@
         "url": "https://doi.org/10.7910/DVN/Y7OJ9D",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Anatomy of Corporate Borrowing Constraints",
+        "title": "Anatomy of Corporate Borrowing Constraints",
+        "authors": [
+          "Chen Lian",
+          "Yueran Ma"
+        ],
+        "year": 2020,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "1",
+        "pages": "229-291",
+        "doi": "10.1093/qje/qjaa030",
+        "url": "https://doi.org/10.1093/qje/qjaa030",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -208076,6 +208753,25 @@
         "url": "https://doi.org/10.1162/rest_a_01255",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -210179,6 +210875,25 @@
         "pages": "1191-1206",
         "doi": "10.1162/rest_a_01102",
         "url": "https://doi.org/10.1162/rest_a_01102",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
         "verified": true,
         "note": ""
       }
@@ -226533,6 +227248,22 @@
         "url": "https://1johnreaves.github.io/res/Reaves_PriceCheck.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Impact of Social Networks on EITC Claiming Behavior",
+        "title": "The Impact of Social Networks on EITC Claiming Behavior",
+        "authors": [
+          "Riley Wilson"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YYNAA8",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -238799,6 +239530,24 @@
         "url": "https://doi.org/10.1093/qje/qjaa046",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Evaluation Change Teacher Effort and Performance? Quasi-experimental Evidence from a Policy of Retesting Students",
+        "title": "Does Evaluation Change Teacher Effort and Performance? Quasi-experimental Evidence from a Policy of Retesting Students",
+        "authors": [
+          "Esteban Aucejo",
+          "Teresa Romano",
+          "Eric S. Taylor"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "3",
+        "pages": "417-430",
+        "doi": "10.1162/rest_a_00962",
+        "url": "https://doi.org/10.1162/rest_a_00962",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -239653,6 +240402,22 @@
         "pages": "",
         "doi": "10.3386/w32972",
         "url": "https://doi.org/10.3386/w32972",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "School Desegregation and Black Teacher Employment",
+        "title": "School Desegregation and Black Teacher Employment",
+        "authors": [
+          "Owen Thompson"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "5",
+        "pages": "962-980",
+        "doi": "10.1162/rest_a_00984",
+        "url": "https://doi.org/10.1162/rest_a_00984",
         "verified": true,
         "note": ""
       }
@@ -244312,6 +245077,25 @@
         "url": "https://doi.org/10.1162/rest_a_01004",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Spillover Effects of Early-Life Medical Interventions",
+        "title": "Spillover Effects of Early-Life Medical Interventions",
+        "authors": [
+          "N. Meltem Daysal",
+          "Marianne Simonsen",
+          "Mircea Trandafir",
+          "Sanni Breining"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "1",
+        "pages": "1-16",
+        "doi": "10.1162/rest_a_00982",
+        "url": "https://doi.org/10.1162/rest_a_00982",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -245447,6 +246231,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/ote1i169tlxe8dcy1ytmd/Praninskas_How_enfranchisement_led_to_representation_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "[Multinomial Choice with Social Interactions: Occupations in Victorian London",
+        "title": "[Multinomial Choice with Social Interactions: Occupations in Victorian London",
+        "authors": [
+          "José-Alberto Guerra",
+          "Myra Mohnen"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "736-747",
+        "doi": "10.1162/rest_a_00979",
+        "url": "https://doi.org/10.1162/rest_a_00979",
         "verified": true,
         "note": ""
       }
@@ -251823,6 +252624,24 @@
         "url": "https://doi.org/10.1093/qje/qjab028",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Labor in the Boardroom",
+        "title": "Labor in the Boardroom",
+        "authors": [
+          "Simon Jäger",
+          "Benjamin Schoefer",
+          "Jörg Heining"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "669-725",
+        "doi": "10.1093/qje/qjaa038",
+        "url": "https://doi.org/10.1093/qje/qjaa038",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -252972,6 +253791,48 @@
         "pages": "1304-1313",
         "doi": "10.1162/rest_a_01094",
         "url": "https://doi.org/10.1162/rest_a_01094",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.61",
+    "title": "法国就业局求职者与职位空缺行政数据（Pôle Emploi / France Travail）",
+    "links": [
+      {
+        "label": "CASD",
+        "url": "https://www.casd.eu/en/"
+      },
+      {
+        "label": "France Travail: Open data",
+        "url": "https://www.francetravail.org/opendata/"
+      }
+    ],
+    "summary": "法国公共就业服务机构 Pôle Emploi（2024 年起更名 France Travail）的行政数据，包括求职者历史档案（FH，登记、失业保险领取、培训与退出）、在线求职申请和职位空缺记录，可与 DADS 等链接，经法国安全数据访问中心（CASD）申请使用；部分汇总统计在开放数据平台公开。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是法国失业与求职行为研究的核心行政数据。研究常用它分析失业保险设计、求职强度、职位匹配和积极劳动力市场政策的效果。",
+    "source": "经 CASD 申请；汇总统计公开下载。",
+    "references": [
+      {
+        "raw": "Unemployment Insurance and Job Search Behavior",
+        "title": "Unemployment Insurance and Job Search Behavior",
+        "authors": [
+          "Ioana Marinescu",
+          "Daphné Skandalis"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "887-931",
+        "doi": "10.1093/qje/qjaa037",
+        "url": "https://doi.org/10.1093/qje/qjaa037",
         "verified": true,
         "note": ""
       }
@@ -256244,6 +257105,45 @@
         "pages": "3652-3711",
         "doi": "10.1086/737231",
         "url": "https://doi.org/10.1086/737231",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.18",
+    "title": "曼海姆企业面板（Mannheim Enterprise Panel，MUP）",
+    "links": [
+      {
+        "label": "ZEW: Mannheimer Unternehmenspanel",
+        "url": "https://www.zew.de/forschung/mannheimer-unternehmenspanel"
+      }
+    ],
+    "summary": "欧洲经济研究中心（ZEW）与德国最大信用信息机构 Creditreform 合作建立的德国企业面板，覆盖 1990 年代以来几乎全部德国经济活跃企业，记录成立与关闭时间、行业、地址、雇员、销售、法律形式、股东与管理层及信用评级，经 ZEW 研究数据中心申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "这是德国企业人口和创业动态最全面的数据之一。研究常用它分析企业进入退出、创业融资、董事会构成和地区产业政策。",
+    "source": "经 ZEW 研究数据中心申请，在现场或合作框架下使用。",
+    "references": [
+      {
+        "raw": "Labor in the Boardroom",
+        "title": "Labor in the Boardroom",
+        "authors": [
+          "Simon Jäger",
+          "Benjamin Schoefer",
+          "Jörg Heining"
+        ],
+        "year": 2021,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "136",
+        "issue": "2",
+        "pages": "669-725",
+        "doi": "10.1093/qje/qjaa038",
+        "url": "https://doi.org/10.1093/qje/qjaa038",
         "verified": true,
         "note": ""
       }
@@ -271403,6 +272303,22 @@
         "url": "https://doi.org/10.1162/rest_a_01039",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Election by Community Consensus: Effects on Political Selection and Governance",
+        "title": "Election by Community Consensus: Effects on Political Selection and Governance",
+        "authors": [
+          "Ashna Arora"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "321-335",
+        "doi": "10.1162/rest_a_00970",
+        "url": "https://doi.org/10.1162/rest_a_00970",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -278262,6 +279178,22 @@
         "url": "https://ashish-adhikari.com/assets/papers/jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Election by Community Consensus: Effects on Political Selection and Governance",
+        "title": "Election by Community Consensus: Effects on Political Selection and Governance",
+        "authors": [
+          "Ashna Arora"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "321-335",
+        "doi": "10.1162/rest_a_00970",
+        "url": "https://doi.org/10.1162/rest_a_00970",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -279055,6 +279987,44 @@
         "pages": "1-46",
         "doi": "10.1162/rest_a_01559",
         "url": "https://doi.org/10.1162/rest_a_01559",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.5.3",
+    "title": "印度地方政府名录（Local Government Directory，LGD）",
+    "links": [
+      {
+        "label": "Local Government Directory",
+        "url": "https://lgdirectory.gov.in/"
+      }
+    ],
+    "summary": "印度潘查亚特事务部维护的全国地方政府与行政区划编码目录，为邦、县、区（tehsil/block）、村潘查亚特、村庄和城市地方机构分配统一代码，记录行政区划的设立、合并与更名历史，并与人口普查村代码对照，公开查询下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "地理数据",
+      "政治数据"
+    ],
+    "introduction": "这是印度行政单元编码与区划变更的官方来源。研究常用它把选举、财政和项目数据匹配到村和潘查亚特，处理行政区划调整。",
+    "source": "公开查询下载。",
+    "references": [
+      {
+        "raw": "Election by Community Consensus: Effects on Political Selection and Governance",
+        "title": "Election by Community Consensus: Effects on Political Selection and Governance",
+        "authors": [
+          "Ashna Arora"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "2",
+        "pages": "321-335",
+        "doi": "10.1162/rest_a_00970",
+        "url": "https://doi.org/10.1162/rest_a_00970",
         "verified": true,
         "note": ""
       }
@@ -304104,6 +305074,45 @@
     ]
   },
   {
+    "id": "7.1.2",
+    "title": "北大西洋人口项目历史普查微观数据（North Atlantic Population Project，NAPP）",
+    "links": [
+      {
+        "label": "NAPP",
+        "url": "https://www.nappdata.org/napp/"
+      }
+    ],
+    "summary": "由 IPUMS 与欧美多国机构合作的历史普查全样本整合项目，提供英国（1851、1881、1911）、加拿大、美国、挪威、瑞典、冰岛、德国等国 19 至 20 世纪初普查的个人层面全数微观数据，统一编码职业（HISCO）、家庭关系和地理，注册后免费下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "普查数据",
+      "微观调查数据"
+    ],
+    "introduction": "这是跨国历史人口与职业研究的主要数据。研究常用它分析工业化时期的职业流动、移民、城市化和代际传递，并支持跨普查个人链接。",
+    "source": "注册后免费下载。",
+    "references": [
+      {
+        "raw": "[Multinomial Choice with Social Interactions: Occupations in Victorian London",
+        "title": "[Multinomial Choice with Social Interactions: Occupations in Victorian London",
+        "authors": [
+          "José-Alberto Guerra",
+          "Myra Mohnen"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "736-747",
+        "doi": "10.1162/rest_a_00979",
+        "url": "https://doi.org/10.1162/rest_a_00979",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.2.1",
     "title": "世界价值观调查（WVS）",
     "links": [
@@ -310411,6 +311420,23 @@
         "pages": "375-409",
         "doi": "10.1086/712800",
         "url": "https://doi.org/10.1086/712800",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Aggregate Effects from Public Works: Evidence from India",
+        "title": "Aggregate Effects from Public Works: Evidence from India",
+        "authors": [
+          "C. Justin Cook",
+          "Manisha Shah"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "797-806",
+        "doi": "10.1162/rest_a_00993",
+        "url": "https://doi.org/10.1162/rest_a_00993",
         "verified": true,
         "note": ""
       }
@@ -317532,6 +318558,24 @@
         "pages": "2427-2474",
         "doi": "10.1093/qje/qjae017",
         "url": "https://doi.org/10.1093/qje/qjae017",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Econometric Model of International Growth Dynamics for Long-horizon Forecasting",
+        "title": "An Econometric Model of International Growth Dynamics for Long-horizon Forecasting",
+        "authors": [
+          "Ulrich K. Müller",
+          "James H. Stock",
+          "Mark W. Watson"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "5",
+        "pages": "857-876",
+        "doi": "10.1162/rest_a_00997",
+        "url": "https://doi.org/10.1162/rest_a_00997",
         "verified": true,
         "note": ""
       }
@@ -325778,6 +326822,24 @@
         "url": "https://doi.org/10.1093/qje/qjad001",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "An Econometric Model of International Growth Dynamics for Long-horizon Forecasting",
+        "title": "An Econometric Model of International Growth Dynamics for Long-horizon Forecasting",
+        "authors": [
+          "Ulrich K. Müller",
+          "James H. Stock",
+          "Mark W. Watson"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "5",
+        "pages": "857-876",
+        "doi": "10.1162/rest_a_00997",
+        "url": "https://doi.org/10.1162/rest_a_00997",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -327856,6 +328918,22 @@
         "pages": "413-463",
         "doi": "10.1093/qje/qjac037",
         "url": "https://doi.org/10.1093/qje/qjac037",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Social Networks on EITC Claiming Behavior",
+        "title": "The Impact of Social Networks on EITC Claiming Behavior",
+        "authors": [
+          "Riley Wilson"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YYNAA8",
         "verified": true,
         "note": ""
       }
@@ -347483,6 +348561,25 @@
         "url": "https://doi.org/10.1086/734981",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -351687,6 +352784,23 @@
         "url": "https://doi.org/10.1162/rest_a_01159",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Patents, Data Exclusivity and the Development of New Drugs",
+        "title": "Patents, Data Exclusivity and the Development of New Drugs",
+        "authors": [
+          "Fabian Gaessler",
+          "Stefan Wagner"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "3",
+        "pages": "571-586",
+        "doi": "10.1162/rest_a_00987",
+        "url": "https://doi.org/10.1162/rest_a_00987",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -351910,6 +353024,25 @@
         "pages": "368-385",
         "doi": "10.1162/rest_a_01107",
         "url": "https://doi.org/10.1162/rest_a_01107",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "title": "Unemployment Effects of Stay-at-Home Orders: Evidence from High Frequency Claims Data",
+        "authors": [
+          "ChaeWon Baek",
+          "Peter McCrory",
+          "Todd Messer",
+          "Preston Mui"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RKPFLB",
         "verified": true,
         "note": ""
       }
@@ -352578,6 +353711,47 @@
         "pages": "383-424",
         "doi": "10.1086/717585",
         "url": "https://doi.org/10.1086/717585",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.9.12",
+    "title": "波罗的海干散货运价指数（Baltic Dry Index，BDI）",
+    "links": [
+      {
+        "label": "Baltic Exchange",
+        "url": "https://www.balticexchange.com/en/index.html"
+      }
+    ],
+    "summary": "伦敦波罗的海交易所每日发布的干散货海运运价综合指数，由海岬型、巴拿马型和超灵便型等船型主要航线的期租与程租运价加权编制，始于 1985 年，可经交易所订阅或 Bloomberg 等金融终端获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "交通数据",
+      "贸易数据"
+    ],
+    "introduction": "这是全球大宗商品海运需求的高频指标。研究常用它度量全球贸易和实体需求冲击，识别油价与大宗商品价格的需求驱动成分，分析运价对贸易流的影响。",
+    "source": "经波罗的海交易所订阅或金融终端获取。",
+    "references": [
+      {
+        "raw": "A Model of the Fed’s View on Inflation",
+        "title": "A Model of the Fed’s View on Inflation",
+        "authors": [
+          "Thomas Hasenzagl",
+          "Filippo Pellegrino",
+          "Lucrezia Reichlin",
+          "Giovanni Ricco"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "686-704",
+        "doi": "10.1162/rest_a_00974",
+        "url": "https://doi.org/10.1162/rest_a_00974",
         "verified": true,
         "note": ""
       }
@@ -364417,6 +365591,25 @@
         "pages": "1887-1928",
         "doi": "10.1093/rfs/hhae008",
         "url": "https://doi.org/10.1093/rfs/hhae008",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exchange Rate Reconnect",
+        "title": "Exchange Rate Reconnect",
+        "authors": [
+          "Andrew Lilley",
+          "Matteo Maggiori",
+          "Brent Neiman",
+          "Jesse Schreger"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "4",
+        "pages": "845-855",
+        "doi": "10.1162/rest_a_00978",
+        "url": "https://doi.org/10.1162/rest_a_00978",
         "verified": true,
         "note": ""
       }
@@ -379938,6 +381131,23 @@
         "url": "https://doi.org/10.7910/DVN/PFSRVT",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Patents, Data Exclusivity and the Development of New Drugs",
+        "title": "Patents, Data Exclusivity and the Development of New Drugs",
+        "authors": [
+          "Fabian Gaessler",
+          "Stefan Wagner"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "3",
+        "pages": "571-586",
+        "doi": "10.1162/rest_a_00987",
+        "url": "https://doi.org/10.1162/rest_a_00987",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -381187,6 +382397,22 @@
         "pages": "1121-1137",
         "doi": "10.1162/rest_a_01032",
         "url": "https://doi.org/10.1162/rest_a_01032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Impact of Social Networks on EITC Claiming Behavior",
+        "title": "The Impact of Social Networks on EITC Claiming Behavior",
+        "authors": [
+          "Riley Wilson"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YYNAA8",
         "verified": true,
         "note": ""
       }
@@ -388920,6 +390146,44 @@
     ]
   },
   {
+    "id": "7.13.88",
+    "title": "欧洲专利登记簿（European Patent Register）",
+    "links": [
+      {
+        "label": "EPO: European Patent Register",
+        "url": "https://www.epo.org/en/searching-for-patents/legal/register"
+      }
+    ],
+    "summary": "欧洲专利局（EPO）维护的欧洲专利申请程序状态数据库，记录每件申请的审查进程、授权、驳回、撤回、异议程序及结果、上诉、费用缴纳和指定国生效情况，可在线查询并通过 EPO 批量数据服务获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是欧洲专利法律状态和异议程序最权威的数据。研究常用它分析专利异议与无效、审查质量、专利价值和竞争对手对专利的挑战。",
+    "source": "在线查询；批量数据经 EPO 数据服务获取。",
+    "references": [
+      {
+        "raw": "Patents, Data Exclusivity and the Development of New Drugs",
+        "title": "Patents, Data Exclusivity and the Development of New Drugs",
+        "authors": [
+          "Fabian Gaessler",
+          "Stefan Wagner"
+        ],
+        "year": 2022,
+        "journal": "Review of Economics and Statistics",
+        "volume": "104",
+        "issue": "3",
+        "pages": "571-586",
+        "doi": "10.1162/rest_a_00987",
+        "url": "https://doi.org/10.1162/rest_a_00987",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.14.1",
     "title": "全球棕榈油厂位置数据（Universal Mill List）",
     "links": [
@@ -392422,6 +393686,26 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1_wYkBM0BRR7rPlid-igyT5N5rkQQv6xT",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "An Age-structured Backward-bending Supply of Fish: Implications for Conservation of Bluefin Tuna",
+        "title": "An Age-structured Backward-bending Supply of Fish: Implications for Conservation of Bluefin Tuna",
+        "authors": [
+          "Qingran Li",
+          "Julia Bronnmann",
+          "Rachel Karasik",
+          "Martin F. Quaas",
+          "Martin D. Smith"
+        ],
+        "year": 2021,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "8",
+        "issue": "1",
+        "pages": "165-192",
+        "doi": "10.1086/711225",
+        "url": "https://doi.org/10.1086/711225",
         "verified": true,
         "note": ""
       }
