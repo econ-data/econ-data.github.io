@@ -19565,6 +19565,40 @@
         "url": "https://doi.org/10.1162/rest_a_01231",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Local Impact of Natural Disasters",
+        "title": "The Local Impact of Natural Disasters",
+        "authors": [
+          "Daniel Wilson",
+          "Brigitte Roth Tran"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/HNNUTX",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
+        "title": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
+        "authors": [
+          "Moritz Drechsel-Grau",
+          "Fabian Greimel"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "2",
+        "pages": "459-517",
+        "doi": "10.1093/rfs/hhaf062",
+        "url": "https://doi.org/10.1093/rfs/hhaf062",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -34595,6 +34629,23 @@
         "url": "https://doi.org/10.1162/rest_a_01231",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who heeds the call to conserve in an energy emergency?  Evidence from smart thermostat data",
+        "title": "Who heeds the call to conserve in an energy emergency?  Evidence from smart thermostat data",
+        "authors": [
+          "Dylan Brewer",
+          "Jim Crozier"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1747-1789",
+        "doi": "10.1086/735535",
+        "url": "https://doi.org/10.1086/735535",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40871,6 +40922,59 @@
         "url": "https://doi.org/10.1162/rest.a.260",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Optimal Taxation of Couples",
+        "title": "The Optimal Taxation of Couples",
+        "authors": [
+          "Mikhail Golosov",
+          "Ilia Krasikov"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "2163-2211",
+        "doi": "10.1093/qje/qjaf021",
+        "url": "https://doi.org/10.1093/qje/qjaf021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "title": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "authors": [
+          "Fatih Karahan",
+          "Kurt Mitman",
+          "Brendan Moore"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FHB4BK",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Minimum Wages and Poverty: New Evidence from Dynamic Difference-in-Differences Estimates",
+        "title": "Minimum Wages and Poverty: New Evidence from Dynamic Difference-in-Differences Estimates",
+        "authors": [
+          "Richard V. Burkhauser",
+          "Drew McNichols",
+          "Joseph J. Sabia"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-53",
+        "doi": "10.1162/rest_a_01590",
+        "url": "https://doi.org/10.1162/rest_a_01590",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -44023,6 +44127,23 @@
         "url": "https://doi.org/10.1093/qje/qjaf028",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
+        "title": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
+        "authors": [
+          "Moritz Drechsel-Grau",
+          "Fabian Greimel"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "2",
+        "pages": "459-517",
+        "doi": "10.1093/rfs/hhaf062",
+        "url": "https://doi.org/10.1093/rfs/hhaf062",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -44855,6 +44976,23 @@
         "pages": "1714-1774",
         "doi": "10.1086/739831",
         "url": "https://doi.org/10.1086/739831",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Codes for: \"Disability Insurance: Error Rates and Gender Differences",
+        "title": "Replication Codes for: \"Disability Insurance: Error Rates and Gender Differences",
+        "authors": [
+          "Luigi Pistaferri",
+          "Hamish Low"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/SDDSES",
         "verified": true,
         "note": ""
       }
@@ -52884,6 +53022,24 @@
         "url": "https://doi.org/10.1093/qje/qjag031",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Understanding Rationality and Disagreement in House Price Expectations",
+        "title": "Understanding Rationality and Disagreement in House Price Expectations",
+        "authors": [
+          "Zigang Li",
+          "Stijn Van Nieuwerburgh",
+          "Wang Renxuan"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "2",
+        "pages": "297-342",
+        "doi": "10.1093/rfs/hhaf073",
+        "url": "https://doi.org/10.1093/rfs/hhaf073",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -60303,6 +60459,44 @@
         "url": "https://www.dropbox.com/scl/fi/qg2fjco3uhygwmwi99sy9/Salom-_JMP_Draft_Oct26.pdf?dl=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Understanding Rationality and Disagreement in House Price Expectations",
+        "title": "Understanding Rationality and Disagreement in House Price Expectations",
+        "authors": [
+          "Zigang Li",
+          "Stijn Van Nieuwerburgh",
+          "Wang Renxuan"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "2",
+        "pages": "297-342",
+        "doi": "10.1093/rfs/hhaf073",
+        "url": "https://doi.org/10.1093/rfs/hhaf073",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -61437,6 +61631,23 @@
         "pages": "2517-2548",
         "doi": "10.1093/rfs/hhag006",
         "url": "https://doi.org/10.1093/rfs/hhag006",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Better Safe than Sorry? Toxic Waste Management after Union Elections",
+        "title": "Better Safe than Sorry? Toxic Waste Management after Union Elections",
+        "authors": [
+          "Magnus Schauf",
+          "Eline Schoonjans"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/737995",
+        "url": "https://doi.org/10.1086/737995",
         "verified": true,
         "note": ""
       }
@@ -65230,6 +65441,24 @@
         "url": "https://doi.org/10.1162/rest.a.1633",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "title": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "authors": [
+          "Fatih Karahan",
+          "Kurt Mitman",
+          "Brendan Moore"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FHB4BK",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -68727,6 +68956,24 @@
         "url": "https://doi.org/10.1086/738344",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "title": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "authors": [
+          "Fatih Karahan",
+          "Kurt Mitman",
+          "Brendan Moore"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FHB4BK",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -69621,6 +69868,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/XV7VYC",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "title": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "authors": [
+          "Fatih Karahan",
+          "Kurt Mitman",
+          "Brendan Moore"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FHB4BK",
         "verified": true,
         "note": ""
       }
@@ -87102,6 +87367,23 @@
         "url": "https://doi.org/10.1086/739204",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
+        "title": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
+        "authors": [
+          "Moritz Drechsel-Grau",
+          "Fabian Greimel"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "2",
+        "pages": "459-517",
+        "doi": "10.1093/rfs/hhaf062",
+        "url": "https://doi.org/10.1093/rfs/hhaf062",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -93171,6 +93453,26 @@
         "url": "https://doi.org/10.3386/w33340",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -94452,6 +94754,26 @@
         "pages": "2685-2747",
         "doi": "10.1093/qje/qjaf028",
         "url": "https://doi.org/10.1093/qje/qjaf028",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
       }
@@ -101343,6 +101665,47 @@
         "pages": "",
         "doi": "10.1093/rfs/hhaf093",
         "url": "https://doi.org/10.1093/rfs/hhaf093",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.103",
+    "title": "世界大型企业联合会消费者信心指数（Conference Board Consumer Confidence Index）",
+    "links": [
+      {
+        "label": "The Conference Board: Consumer Confidence",
+        "url": "https://www.conference-board.org/topics/consumer-confidence"
+      }
+    ],
+    "summary": "世界大型企业联合会（The Conference Board）1967 年起按月发布的美国消费者信心指数，基于约 3000 户的调查，包括总指数、现状指数和预期指数，以及对就业、收入和商业状况的评价和通胀预期，标题指数公开发布，完整序列需会员订阅。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是与密歇根消费者调查并列的美国消费者信心指标。研究常用它度量消费者情绪和预期，分析情绪对消费和资产价格的影响。",
+    "source": "标题数据公开；完整序列需订阅。",
+    "references": [
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
       }
@@ -108393,6 +108756,23 @@
         "pages": "495-531",
         "doi": "10.1086/739287",
         "url": "https://doi.org/10.1086/739287",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Better Safe than Sorry? Toxic Waste Management after Union Elections",
+        "title": "Better Safe than Sorry? Toxic Waste Management after Union Elections",
+        "authors": [
+          "Magnus Schauf",
+          "Eline Schoonjans"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/737995",
+        "url": "https://doi.org/10.1086/737995",
         "verified": true,
         "note": ""
       }
@@ -126826,6 +127206,45 @@
         "pages": "1468-1505",
         "doi": "10.1086/739827",
         "url": "https://doi.org/10.1086/739827",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.7.69",
+    "title": "ecobee 智能温控器“捐赠你的数据”（Donate Your Data）",
+    "links": [
+      {
+        "label": "ecobee Donate Your Data",
+        "url": "https://www.ecobee.com/en-us/donate-your-data/"
+      }
+    ],
+    "summary": "智能温控器厂商 ecobee 2015 年起由用户自愿共享的匿名温控器数据，覆盖北美约 10 万户以上家庭，按 5 分钟记录室内温度与湿度、温度设定点、制热制冷运行时长、占用传感器和所在地区，经与 ecobee 签订研究协议获取。",
+    "regions": [
+      "美国数据",
+      "全球数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "这是研究家庭供暖制冷行为最大规模的高频设备数据。研究常用它度量室温设定和空调使用，分析电价、需求响应和极端天气下的能源消费。",
+    "source": "需申请（研究协议）。",
+    "references": [
+      {
+        "raw": "Who heeds the call to conserve in an energy emergency?  Evidence from smart thermostat data",
+        "title": "Who heeds the call to conserve in an energy emergency?  Evidence from smart thermostat data",
+        "authors": [
+          "Dylan Brewer",
+          "Jim Crozier"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1747-1789",
+        "doi": "10.1086/735535",
+        "url": "https://doi.org/10.1086/735535",
         "verified": true,
         "note": ""
       }
@@ -145791,6 +146210,24 @@
         "url": "https://doi.org/10.1162/rest.a.260",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "title": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "authors": [
+          "Fatih Karahan",
+          "Kurt Mitman",
+          "Brendan Moore"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FHB4BK",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -151970,6 +152407,23 @@
         "url": "https://doi.org/10.3386/w33801",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Who heeds the call to conserve in an energy emergency?  Evidence from smart thermostat data",
+        "title": "Who heeds the call to conserve in an energy emergency?  Evidence from smart thermostat data",
+        "authors": [
+          "Dylan Brewer",
+          "Jim Crozier"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1747-1789",
+        "doi": "10.1086/735535",
+        "url": "https://doi.org/10.1086/735535",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -154647,6 +155101,23 @@
         "url": "https://doi.org/10.1086/742712",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Better Safe than Sorry? Toxic Waste Management after Union Elections",
+        "title": "Better Safe than Sorry? Toxic Waste Management after Union Elections",
+        "authors": [
+          "Magnus Schauf",
+          "Eline Schoonjans"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/737995",
+        "url": "https://doi.org/10.1086/737995",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -154906,6 +155377,24 @@
         "pages": "3090-3137",
         "doi": "10.1086/742712",
         "url": "https://doi.org/10.1086/742712",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "title": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "authors": [
+          "Fatih Karahan",
+          "Kurt Mitman",
+          "Brendan Moore"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FHB4BK",
         "verified": true,
         "note": ""
       }
@@ -155913,6 +156402,24 @@
         "pages": "2317-2357",
         "doi": "10.1093/rfs/hhag030",
         "url": "https://doi.org/10.1093/rfs/hhag030",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Understanding Rationality and Disagreement in House Price Expectations",
+        "title": "Understanding Rationality and Disagreement in House Price Expectations",
+        "authors": [
+          "Zigang Li",
+          "Stijn Van Nieuwerburgh",
+          "Wang Renxuan"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "2",
+        "pages": "297-342",
+        "doi": "10.1093/rfs/hhaf073",
+        "url": "https://doi.org/10.1093/rfs/hhaf073",
         "verified": true,
         "note": ""
       }
@@ -159013,6 +159520,23 @@
         "pages": "2358-2420",
         "doi": "10.1093/rfs/hhag031",
         "url": "https://doi.org/10.1093/rfs/hhag031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
+        "title": "Falling Behind: Has Rising Inequality Fueled the American Debt Boom?",
+        "authors": [
+          "Moritz Drechsel-Grau",
+          "Fabian Greimel"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "2",
+        "pages": "459-517",
+        "doi": "10.1093/rfs/hhaf062",
+        "url": "https://doi.org/10.1093/rfs/hhaf062",
         "verified": true,
         "note": ""
       }
@@ -162461,6 +162985,23 @@
         "pages": "253-296",
         "doi": "10.1093/rfs/hhaf081",
         "url": "https://doi.org/10.1093/rfs/hhaf081",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Identifying Price Informativeness",
+        "title": "Identifying Price Informativeness",
+        "authors": [
+          "Eduardo Dávila",
+          "Cecilia Parlatore"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "5",
+        "pages": "1267-1309",
+        "doi": "10.1093/rfs/hhaf051",
+        "url": "https://doi.org/10.1093/rfs/hhaf051",
         "verified": true,
         "note": ""
       }
@@ -168295,6 +168836,61 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/Z8QHOQ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "title": "Micro and Macro Effects of UI Policies: Evidence from Missouri",
+        "authors": [
+          "Fatih Karahan",
+          "Kurt Mitman",
+          "Brendan Moore"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/FHB4BK",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Identifying Price Informativeness",
+        "title": "Identifying Price Informativeness",
+        "authors": [
+          "Eduardo Dávila",
+          "Cecilia Parlatore"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "5",
+        "pages": "1267-1309",
+        "doi": "10.1093/rfs/hhaf051",
+        "url": "https://doi.org/10.1093/rfs/hhaf051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
       }
@@ -174889,6 +175485,44 @@
         "url": "https://doi.org/10.1017/s0022109025102342",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "title": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "authors": [
+          "William Grieser",
+          "Ioannis Spyridopoulos",
+          "Morad Zekhnini"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "1",
+        "pages": "281-314",
+        "doi": "10.1017/s0022109025000171",
+        "url": "https://doi.org/10.1017/s0022109025000171",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -178492,6 +179126,42 @@
         "url": "https://doi.org/10.1093/qje/qjaf028",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Failure to Share Natural Disaster Risk",
+        "title": "Failure to Share Natural Disaster Risk",
+        "authors": [
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "3",
+        "pages": "661-701",
+        "doi": "10.1093/rfs/hhaf055",
+        "url": "https://doi.org/10.1093/rfs/hhaf055",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -180654,6 +181324,24 @@
         "url": "https://doi.org/10.1017/s0022109026102701",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "title": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "authors": [
+          "William Grieser",
+          "Ioannis Spyridopoulos",
+          "Morad Zekhnini"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "1",
+        "pages": "281-314",
+        "doi": "10.1017/s0022109025000171",
+        "url": "https://doi.org/10.1017/s0022109025000171",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -182205,6 +182893,26 @@
         "pages": "1-1",
         "doi": "10.1017/s0022109025102342",
         "url": "https://doi.org/10.1017/s0022109025102342",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
       }
@@ -187962,6 +188670,26 @@
         "url": "https://doi.org/10.7910/DVN/ZK04TR",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -190177,6 +190905,26 @@
         "url": "https://doi.org/10.7910/DVN/ZK04TR",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -190689,6 +191437,22 @@
         "pages": "3308-3353",
         "doi": "10.1017/s0022109026102701",
         "url": "https://doi.org/10.1017/s0022109026102701",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Failure to Share Natural Disaster Risk",
+        "title": "Failure to Share Natural Disaster Risk",
+        "authors": [
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "3",
+        "pages": "661-701",
+        "doi": "10.1093/rfs/hhaf055",
+        "url": "https://doi.org/10.1093/rfs/hhaf055",
         "verified": true,
         "note": ""
       }
@@ -191327,6 +192091,24 @@
         "pages": "158-197",
         "doi": "10.1093/rfs/hhaf048",
         "url": "https://doi.org/10.1093/rfs/hhaf048",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "title": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "authors": [
+          "William Grieser",
+          "Ioannis Spyridopoulos",
+          "Morad Zekhnini"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "1",
+        "pages": "281-314",
+        "doi": "10.1017/s0022109025000171",
+        "url": "https://doi.org/10.1017/s0022109025000171",
         "verified": true,
         "note": ""
       }
@@ -193070,6 +193852,26 @@
         "pages": "",
         "doi": "10.3386/w32509",
         "url": "https://doi.org/10.3386/w32509",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
       }
@@ -195524,6 +196326,26 @@
         "pages": "1-1",
         "doi": "10.1017/s0022109025102342",
         "url": "https://doi.org/10.1017/s0022109025102342",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
       }
@@ -198017,6 +198839,26 @@
         "url": "https://doi.org/10.1017/s0022109025102342",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -198303,6 +199145,47 @@
         "pages": "4065-4090",
         "doi": "10.1017/s0022109025000110",
         "url": "https://doi.org/10.1017/s0022109025000110",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.153",
+    "title": "美国个人投资者协会投资者情绪调查（AAII Sentiment Survey）",
+    "links": [
+      {
+        "label": "AAII Sentiment Survey",
+        "url": "https://www.aaii.com/sentimentsurvey"
+      }
+    ],
+    "summary": "美国个人投资者协会（AAII）1987 年起每周对会员开展的投资者情绪调查，报告对未来六个月股市持看涨、中性和看跌态度的会员比例，历史序列可从网站下载（完整历史需会员）。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是度量美国散户投资者情绪最常用的高频调查指标之一。研究常用它分析投资者情绪与股票收益和交易行为的关系。",
+    "source": "部分公开；完整历史需会员；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
       }
@@ -216479,6 +217362,45 @@
     ]
   },
   {
+    "id": "2.16.71",
+    "title": "密歇根教育数据中心（Michigan Education Data Center，MEDC）",
+    "links": [
+      {
+        "label": "Michigan Education Data Center",
+        "url": "https://medc.miedresearch.org/"
+      }
+    ],
+    "summary": "密歇根大学教育政策研究所（Michigan Education Research Institute）运营的安全数据中心，链接密歇根州教育部和 CEPI 的学生行政记录，1990 年代末以来覆盖州内全部公立学校学生的入学、考试成绩、学区与学校流动、特殊教育、高中毕业和大学入学，经申请在安全环境使用。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "这是美国州级学生纵向行政数据的典型来源。研究常用它追踪学生学业轨迹，分析学校选择、教师和教育政策的影响。",
+    "source": "需申请（MERI 安全数据环境）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Using Multiple Outcomes to Improve the Synthetic Control Method",
+        "title": "Using Multiple Outcomes to Improve the Synthetic Control Method",
+        "authors": [
+          "Liyang Sun",
+          "Eli Ben-Michael",
+          "Avi Feller"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-29",
+        "doi": "10.1162/rest_a_01592",
+        "url": "https://doi.org/10.1162/rest_a_01592",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.1.1",
     "title": "瑞典统计局登记微观数据（人口、教育与劳动力市场登记）",
     "links": [
@@ -220081,6 +221003,24 @@
         "pages": "1-46",
         "doi": "10.1162/rest.a.1876",
         "url": "https://doi.org/10.1162/rest.a.1876",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Subsidizing Business Entry in Competitive Credit Markets",
+        "title": "Subsidizing Business Entry in Competitive Credit Markets",
+        "authors": [
+          "Vincenzo Cuciniello",
+          "Claudio Michelacci",
+          "Luigi Paciello"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "11",
+        "pages": "3652-3711",
+        "doi": "10.1086/737231",
+        "url": "https://doi.org/10.1086/737231",
         "verified": true,
         "note": ""
       }
@@ -228528,6 +229468,24 @@
         "url": "https://www.rfberlin.com/wp-content/uploads/2026/08/26211.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Subsidizing Business Entry in Competitive Credit Markets",
+        "title": "Subsidizing Business Entry in Competitive Credit Markets",
+        "authors": [
+          "Vincenzo Cuciniello",
+          "Claudio Michelacci",
+          "Luigi Paciello"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "11",
+        "pages": "3652-3711",
+        "doi": "10.1086/737231",
+        "url": "https://doi.org/10.1086/737231",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -229054,6 +230012,23 @@
         "url": "https://mattnibloe.com/files/Nibloe_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "title": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "authors": [
+          "Hector Blanco",
+          "Lorenzo Neri"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.258",
+        "url": "https://doi.org/10.1162/rest.a.258",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -229093,6 +230068,88 @@
         "pages": "",
         "doi": "10.1086/739202",
         "url": "https://doi.org/10.1086/739202",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.16",
+    "title": "意大利央行工业与服务业企业调查（INVIND）",
+    "links": [
+      {
+        "label": "Banca d'Italia: Survey of Industrial and Service Firms",
+        "url": "https://www.bancaditalia.it/pubblicazioni/indagine-imprese/"
+      }
+    ],
+    "summary": "意大利银行（Banca d'Italia）1972 年起每年开展的企业调查（Indagine sui Mercati Finanziari e sulle Imprese Industriali e dei Servizi），样本约 4000 家 20 人以上的工业和非金融服务业企业，记录投资、营业额、就业、工资、价格、产能利用和融资计划，微观数据经央行远程访问系统申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "这是意大利企业投资与经营的权威微观调查。研究常用它度量企业投资计划与实现、价格预期和融资约束，分析货币政策和不确定性的影响。",
+    "source": "需申请（意大利银行 BIRD 远程访问）。",
+    "references": [
+      {
+        "raw": "Subsidizing Business Entry in Competitive Credit Markets",
+        "title": "Subsidizing Business Entry in Competitive Credit Markets",
+        "authors": [
+          "Vincenzo Cuciniello",
+          "Claudio Michelacci",
+          "Luigi Paciello"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "11",
+        "pages": "3652-3711",
+        "doi": "10.1086/737231",
+        "url": "https://doi.org/10.1086/737231",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.3.17",
+    "title": "意大利商会企业登记（Registro Imprese / InfoCamere）",
+    "links": [
+      {
+        "label": "Registro Imprese",
+        "url": "https://www.registroimprese.it/"
+      },
+      {
+        "label": "InfoCamere",
+        "url": "https://www.infocamere.it/"
+      }
+    ],
+    "summary": "意大利各地商会依法维护、由商会信息公司 InfoCamere 运营的全国企业登记，覆盖约 600 万家在册企业，记录企业设立与注销日期、法律形式、行业（ATECO）、注册地址、股东与董事、资本和年度财务报表，经付费查询或研究协议获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观企业数据"
+    ],
+    "introduction": "这是意大利企业人口与所有权的官方登记。研究常用它度量企业进入退出、股东和董事网络，分析创业政策和企业治理。",
+    "source": "付费查询或研究协议。",
+    "references": [
+      {
+        "raw": "Subsidizing Business Entry in Competitive Credit Markets",
+        "title": "Subsidizing Business Entry in Competitive Credit Markets",
+        "authors": [
+          "Vincenzo Cuciniello",
+          "Claudio Michelacci",
+          "Luigi Paciello"
+        ],
+        "year": 2025,
+        "journal": "Journal of Political Economy",
+        "volume": "133",
+        "issue": "11",
+        "pages": "3652-3711",
+        "doi": "10.1086/737231",
+        "url": "https://doi.org/10.1086/737231",
         "verified": true,
         "note": ""
       }
@@ -231526,6 +232583,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.thomaslazarowicz.com/assets/pdf/LazarowiczJMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "title": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "authors": [
+          "Hector Blanco",
+          "Lorenzo Neri"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.258",
+        "url": "https://doi.org/10.1162/rest.a.258",
         "verified": true,
         "note": ""
       }
@@ -238288,6 +239362,23 @@
         "url": "https://doi.org/10.3386/w32333",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "title": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "authors": [
+          "Hector Blanco",
+          "Lorenzo Neri"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.258",
+        "url": "https://doi.org/10.1162/rest.a.258",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -238500,6 +239591,23 @@
         "url": "https://doi.org/10.3386/w33036",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "title": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "authors": [
+          "Hector Blanco",
+          "Lorenzo Neri"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.258",
+        "url": "https://doi.org/10.1162/rest.a.258",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -238538,6 +239646,44 @@
         "pages": "2824-2870",
         "doi": "10.1086/742435",
         "url": "https://doi.org/10.1086/742435",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.11.9",
+    "title": "Rightmove 英国房产挂牌数据",
+    "links": [
+      {
+        "label": "Rightmove",
+        "url": "https://www.rightmove.co.uk"
+      }
+    ],
+    "summary": "英国最大房产门户网站 Rightmove 的挂牌房源数据，2000 年代以来覆盖英国大部分在售和出租住房，记录房源地址与邮编、要价或租金、户型、卧室数、物业类型、挂牌和下架时间以及价格调整，研究用数据需与 Rightmove 签订协议或经商业数据商获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "这是研究英国住房挂牌和租赁市场的主要商业数据。研究常用它度量要价、租金和挂牌时长，分析住房政策、学区和地方冲击对房价和租金的影响。",
+    "source": "付费商业数据或经协议获取。",
+    "references": [
+      {
+        "raw": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "title": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "authors": [
+          "Hector Blanco",
+          "Lorenzo Neri"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.258",
+        "url": "https://doi.org/10.1162/rest.a.258",
         "verified": true,
         "note": ""
       }
@@ -240534,6 +241680,23 @@
         "url": "https://doi.org/10.7910/DVN/3SSJOZ",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "title": "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations",
+        "authors": [
+          "Hector Blanco",
+          "Lorenzo Neri"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.258",
+        "url": "https://doi.org/10.1162/rest.a.258",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -240845,6 +242008,46 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/3SSJOZ",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.16.10",
+    "title": "西班牙大学综合信息系统统计（SIIU / Estadística de Universidades）",
+    "links": [
+      {
+        "label": "Ministerio de Universidades: Estadística de Universidades",
+        "url": "https://www.universidades.gob.es/estadistica-de-universidades/"
+      }
+    ],
+    "summary": "西班牙科学、创新与大学部基于大学综合信息系统（SIIU）发布的高等教育统计，按大学、学位项目和学年报告新生入学、在读与毕业人数、录取最低分、学业表现、教职员和毕业生就业等指标，公开查询下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "教育数据"
+    ],
+    "introduction": "这是西班牙高等教育的官方统计。研究常用它度量各大学和专业的招生、毕业规模与录取门槛，分析高等教育供给和专业选择。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Gender Gaps in Access to Medical Intern Positions: The Role of Competition",
+        "title": "Gender Gaps in Access to Medical Intern Positions: The Role of Competition",
+        "authors": [
+          "Marina Díez-Rituerto",
+          "Javier Gardeazabal",
+          "Nagore Iriberri",
+          "Pedro Rey-Biel"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "4",
+        "pages": "1089-1116",
+        "doi": "10.1086/736551",
+        "url": "https://doi.org/10.1086/736551",
         "verified": true,
         "note": ""
       }
@@ -245461,6 +246664,24 @@
         "url": "https://drive.google.com/uc?export=download&id=1X7SDyB3_BH2jqGgDpzSlYqtl5uqMb3pL",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Tax Policy Transmission and Household Expenditures (No. 27892)",
+        "title": "Tax Policy Transmission and Household Expenditures (No. 27892)",
+        "authors": [
+          "Sumit Agarwal",
+          "Ghosh Pulak",
+          "Zhang Jian"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/0SLRWA",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -248987,6 +250208,46 @@
         "pages": "372-389",
         "doi": "10.1162/rest_a_01493",
         "url": "https://doi.org/10.1162/rest_a_01493",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "4.4.16",
+    "title": "蒙古国国家统计局统计数据库（NSO Mongolia，1212.mn）",
+    "links": [
+      {
+        "label": "NSO Mongolia: 1212.mn",
+        "url": "https://www.1212.mn/en"
+      }
+    ],
+    "summary": "蒙古国国家统计局在 1212.mn 平台发布的官方统计数据，涵盖人口、劳动、价格、国民账户、对外贸易和年度牲畜普查（按省和苏木报告各类牲畜头数与死亡数）等月度和年度指标，公开查询下载。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "区域经济数据",
+      "农业数据"
+    ],
+    "introduction": "这是蒙古国宏观和地区统计的官方来源。研究常用它的牲畜普查度量牧区资产与灾害（白灾）损失，分析气候冲击对牧民生计的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Anticipatory cash transfers  in the context of weather disasters",
+        "title": "Anticipatory cash transfers  in the context of weather disasters",
+        "authors": [
+          "Lukas Mogge",
+          "Julian Roeckert",
+          "Kati Kraehnert"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1819-1857",
+        "doi": "10.1086/735534",
+        "url": "https://doi.org/10.1086/735534",
         "verified": true,
         "note": ""
       }
@@ -253202,6 +254463,22 @@
         "url": "https://drive.google.com/uc?export=download&id=1HVAOqOVPlOlfP93vKelfkIs_cXcciY-i",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -253663,6 +254940,23 @@
         "pages": "1-42",
         "doi": "10.1162/rest.a.286",
         "url": "https://doi.org/10.1162/rest.a.286",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "title": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Sophie M. Mathes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1791-1817",
+        "doi": "10.1086/735825",
+        "url": "https://doi.org/10.1086/735825",
         "verified": true,
         "note": ""
       }
@@ -256780,6 +258074,23 @@
         "url": "https://doi.org/10.1086/736752",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "title": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Sophie M. Mathes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1791-1817",
+        "doi": "10.1086/735825",
+        "url": "https://doi.org/10.1086/735825",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -257948,6 +259259,22 @@
         "url": "https://doi.org/10.3386/w33527",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -258104,6 +259431,23 @@
         "pages": "",
         "doi": "10.3386/w32440",
         "url": "https://doi.org/10.3386/w32440",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "title": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Sophie M. Mathes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1791-1817",
+        "doi": "10.1086/735825",
+        "url": "https://doi.org/10.1086/735825",
         "verified": true,
         "note": ""
       }
@@ -258481,6 +259825,23 @@
         "url": "https://doi.org/10.1162/rest.a.1689",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "title": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Sophie M. Mathes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1791-1817",
+        "doi": "10.1086/735825",
+        "url": "https://doi.org/10.1086/735825",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -258554,6 +259915,97 @@
         "pages": "1-45",
         "doi": "10.1162/rest.a.1738",
         "url": "https://doi.org/10.1162/rest.a.1738",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.4.14",
+    "title": "巴西市镇生产总值（PIB dos Municípios，IBGE）",
+    "links": [
+      {
+        "label": "IBGE: Produto Interno Bruto dos Municípios",
+        "url": "https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html"
+      }
+    ],
+    "summary": "巴西地理与统计研究所（IBGE）与各州统计机构合作编制的市镇国内生产总值，2002 年以来按年报告约 5570 个市镇的名义 GDP、人均 GDP 及农业、工业、服务业和公共管理增加值，公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是巴西市镇层面经济产出的官方来源。研究常用它度量地方经济规模和产业结构，作为区域政策评估的结果或控制变量。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "title": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Sophie M. Mathes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1791-1817",
+        "doi": "10.1086/735825",
+        "url": "https://doi.org/10.1086/735825",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.4.15",
+    "title": "墨西哥社会保障局参保就业数据（IMSS 信息查询立方体）",
+    "links": [
+      {
+        "label": "IMSS: Consulta Dinámica (cubos)",
+        "url": "https://www.imss.gob.mx/conoce-al-imss/cubos"
+      }
+    ],
+    "summary": "墨西哥社会保障局（IMSS）发布的正规就业登记统计，1997 年以来按月报告各州、市镇、行业、企业规模、性别和年龄的参保职工人数、参保雇主数量和平均申报工资，经 IMSS 动态查询立方体和开放数据公开获取。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是墨西哥正规就业最及时的行政数据。研究常用它度量市镇和行业层面的正规就业与工资，分析贸易、最低工资和地方冲击的劳动市场效应。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
         "verified": true,
         "note": ""
       }
@@ -258910,6 +260362,23 @@
         "url": "https://doi.org/10.1162/rest.a.1707",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "title": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Sophie M. Mathes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1791-1817",
+        "doi": "10.1086/735825",
+        "url": "https://doi.org/10.1086/735825",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -259053,6 +260522,43 @@
         "pages": "",
         "doi": "",
         "url": "https://annapede.github.io/files/pede_jmp.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.5.6",
+    "title": "墨西哥统一地理统计区划代码目录（INEGI AGEEML）",
+    "links": [
+      {
+        "label": "INEGI: AGEEML",
+        "url": "https://www.inegi.org.mx/app/ageeml/"
+      }
+    ],
+    "summary": "墨西哥国家统计和地理研究所（INEGI）维护的州、市镇和居民点地理统计区划统一代码目录（Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades），记录各级行政区划代码、名称、坐标、设立与撤销等历史变更，公开查询下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "地理数据"
+    ],
+    "introduction": "这是墨西哥行政区划代码的标准参照。研究常用它统一不同来源数据的市镇和居民点代码，处理区划调整。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
         "verified": true,
         "note": ""
       }
@@ -259947,6 +261453,61 @@
         "pages": "",
         "doi": "",
         "url": "https://www.smhssalehi.com/documents/job-market-paper.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "title": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Sophie M. Mathes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1791-1817",
+        "doi": "10.1086/735825",
+        "url": "https://doi.org/10.1086/735825",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.7.6",
+    "title": "巴西电力监管局发电设施信息系统（ANEEL SIGA）",
+    "links": [
+      {
+        "label": "ANEEL Dados Abertos: SIGA",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel"
+      }
+    ],
+    "summary": "巴西国家电力监管局（ANEEL）的发电信息系统（Sistema de Informações de Geração），登记巴西全部发电设施（水电、火电、风电、光伏、生物质等）的位置、所属市镇、装机容量、燃料与技术类型、所有者、运营阶段和投运日期，经 ANEEL 开放数据平台公开下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "这是巴西发电设施的官方登记数据。研究常用它度量市镇层面的发电装机和新建项目，分析可再生能源扩张对地方就业和财政的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "title": "The Effects of Renewable Energy Projects on Employment - Evidence from Brazil",
+        "authors": [
+          "Danae Hernandez-Cortes",
+          "Sophie M. Mathes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1791-1817",
+        "doi": "10.1086/735825",
+        "url": "https://doi.org/10.1086/735825",
         "verified": true,
         "note": ""
       }
@@ -260851,6 +262412,22 @@
         "url": "https://doi.org/10.7910/DVN/72LGLH",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -261602,6 +263179,23 @@
         "url": "https://doi.org/10.3386/w33011",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Jam-barrel Politics",
+        "title": "Jam-barrel Politics",
+        "authors": [
+          "Leonardo Bonilla-Mejía",
+          "Juan S. Morales"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "1",
+        "pages": "167-183",
+        "doi": "10.1162/rest_a_01142",
+        "url": "https://doi.org/10.1162/rest_a_01142",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -261637,6 +263231,83 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1HVAOqOVPlOlfP93vKelfkIs_cXcciY-i",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.10.8",
+    "title": "哥伦比亚公共采购电子系统（SECOP）",
+    "links": [
+      {
+        "label": "Colombia Compra Eficiente: SECOP II",
+        "url": "https://www.colombiacompra.gov.co/secop/secop-ii"
+      }
+    ],
+    "summary": "哥伦比亚政府采购署（Colombia Compra Eficiente）运营的公共采购电子系统，SECOP I（2011 年起）和 SECOP II（2015 年起）记录各级公共实体的招标公告、投标、合同金额、承包商、签约方式和合同执行信息，经网站和国家开放数据门户公开下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "政治数据",
+      "商业数据"
+    ],
+    "introduction": "这是哥伦比亚政府合同的官方明细数据。研究常用它度量公共采购规模、直接签约和竞争程度，分析腐败、政治关联和采购改革。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Jam-barrel Politics",
+        "title": "Jam-barrel Politics",
+        "authors": [
+          "Leonardo Bonilla-Mejía",
+          "Juan S. Morales"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "1",
+        "pages": "167-183",
+        "doi": "10.1162/rest_a_01142",
+        "url": "https://doi.org/10.1162/rest_a_01142",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.10.9",
+    "title": "哥伦比亚国会透明数据（Congreso Visible）",
+    "links": [
+      {
+        "label": "Congreso Visible",
+        "url": "https://congresovisible.uniandes.edu.co/"
+      }
+    ],
+    "summary": "安第斯大学 Congreso Visible 项目维护的哥伦比亚国会数据库，1998 年以来记录参众议员的党派、选区、任期、提出与审议的法案、记名投票和委员会成员等信息，公开查询。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是研究哥伦比亚立法行为最常用的数据。研究常用它度量议员投票和立法活动，分析政党、选举激励与政府分配之间的关系。",
+    "source": "公开查询。",
+    "references": [
+      {
+        "raw": "Jam-barrel Politics",
+        "title": "Jam-barrel Politics",
+        "authors": [
+          "Leonardo Bonilla-Mejía",
+          "Juan S. Morales"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "1",
+        "pages": "167-183",
+        "doi": "10.1162/rest_a_01142",
+        "url": "https://doi.org/10.1162/rest_a_01142",
         "verified": true,
         "note": ""
       }
@@ -263344,6 +265015,23 @@
         "pages": "2119-2165",
         "doi": "10.1086/740226",
         "url": "https://doi.org/10.1086/740226",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Jam-barrel Politics",
+        "title": "Jam-barrel Politics",
+        "authors": [
+          "Leonardo Bonilla-Mejía",
+          "Juan S. Morales"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "1",
+        "pages": "167-183",
+        "doi": "10.1162/rest_a_01142",
+        "url": "https://doi.org/10.1162/rest_a_01142",
         "verified": true,
         "note": ""
       }
@@ -292925,6 +294613,22 @@
         "url": "https://doi.org/10.1093/rfs/hhaf114",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Failure to Share Natural Disaster Risk",
+        "title": "Failure to Share Natural Disaster Risk",
+        "authors": [
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "3",
+        "pages": "661-701",
+        "doi": "10.1093/rfs/hhaf055",
+        "url": "https://doi.org/10.1093/rfs/hhaf055",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -303229,6 +304933,24 @@
         "url": "https://doi.org/10.1086/739115",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Anticipatory cash transfers  in the context of weather disasters",
+        "title": "Anticipatory cash transfers  in the context of weather disasters",
+        "authors": [
+          "Lukas Mogge",
+          "Julian Roeckert",
+          "Kati Kraehnert"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1819-1857",
+        "doi": "10.1086/735534",
+        "url": "https://doi.org/10.1086/735534",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -306595,6 +308317,22 @@
         "url": "https://xufengliu.com/Files/Papers/JMP_Liu_Hu_NigeriaFuelSubsidy_LATEST.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -306996,6 +308734,22 @@
         "url": "https://doi.org/10.1086/742595",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -307108,6 +308862,22 @@
         "pages": "",
         "doi": "10.3386/w33829",
         "url": "https://doi.org/10.3386/w33829",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
         "verified": true,
         "note": ""
       }
@@ -308613,6 +310383,22 @@
         "url": "https://doi.org/10.1093/rfs/hhag030",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Failure to Share Natural Disaster Risk",
+        "title": "Failure to Share Natural Disaster Risk",
+        "authors": [
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "3",
+        "pages": "661-701",
+        "doi": "10.1093/rfs/hhaf055",
+        "url": "https://doi.org/10.1093/rfs/hhaf055",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -309015,6 +310801,22 @@
         "pages": "657–691",
         "doi": "10.3982/ecta15455",
         "url": "https://doi.org/10.3982/ecta15455",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Distributional Consequences of Incomplete Regulation",
+        "title": "The Distributional Consequences of Incomplete Regulation",
+        "authors": [
+          "Danae Hernandez-Cortes"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1635-1666",
+        "doi": "10.1086/735824",
+        "url": "https://doi.org/10.1086/735824",
         "verified": true,
         "note": ""
       }
@@ -312061,6 +313863,23 @@
         "pages": "1-46",
         "doi": "10.1017/s0022109026103329",
         "url": "https://doi.org/10.1017/s0022109026103329",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When Is the Use of Gaussian-inverse Wishart-Haar Priors Appropriate?",
+        "title": "When Is the Use of Gaussian-inverse Wishart-Haar Priors Appropriate?",
+        "authors": [
+          "Atsushi Inoue",
+          "Lutz Kilian"
+        ],
+        "year": 2026,
+        "journal": "Journal of Political Economy",
+        "volume": "134",
+        "issue": "2",
+        "pages": "773-794",
+        "doi": "10.1086/738339",
+        "url": "https://doi.org/10.1086/738339",
         "verified": true,
         "note": ""
       }
@@ -327801,6 +329620,42 @@
         "url": "https://doi.org/10.1017/s0022109025101270",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "title": "Investor Sentiment and the Pricing of Characteristics-Based Factors",
+        "authors": [
+          "Zhuo Chen",
+          "Bibo Liu",
+          "Huijun Wang",
+          "Zhengwei Wang",
+          "Jianfeng Yu"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "12",
+        "pages": "3580-3625",
+        "doi": "10.1093/rfs/hhaf053",
+        "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Failure to Share Natural Disaster Risk",
+        "title": "Failure to Share Natural Disaster Risk",
+        "authors": [
+          "Tuomas Tomunen"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "3",
+        "pages": "661-701",
+        "doi": "10.1093/rfs/hhaf055",
+        "url": "https://doi.org/10.1093/rfs/hhaf055",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -330307,6 +332162,24 @@
         "url": "https://doi.org/10.1017/s0022109025101877",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "title": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "authors": [
+          "William Grieser",
+          "Ioannis Spyridopoulos",
+          "Morad Zekhnini"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "1",
+        "pages": "281-314",
+        "doi": "10.1017/s0022109025000171",
+        "url": "https://doi.org/10.1017/s0022109025000171",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -331792,6 +333665,24 @@
         "pages": "1459-1491",
         "doi": "10.1017/s0022109025101877",
         "url": "https://doi.org/10.1017/s0022109025101877",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "title": "The Epidemiology of Financial Constraints and Corporate Investment",
+        "authors": [
+          "William Grieser",
+          "Ioannis Spyridopoulos",
+          "Morad Zekhnini"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "1",
+        "pages": "281-314",
+        "doi": "10.1017/s0022109025000171",
+        "url": "https://doi.org/10.1017/s0022109025000171",
         "verified": true,
         "note": ""
       }
@@ -342607,6 +344498,41 @@
         "url": "https://doi.org/10.1093/qje/qjaf008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Jam-barrel Politics",
+        "title": "Jam-barrel Politics",
+        "authors": [
+          "Leonardo Bonilla-Mejía",
+          "Juan S. Morales"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "1",
+        "pages": "167-183",
+        "doi": "10.1162/rest_a_01142",
+        "url": "https://doi.org/10.1162/rest_a_01142",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tax Policy Transmission and Household Expenditures (No. 27892)",
+        "title": "Tax Policy Transmission and Household Expenditures (No. 27892)",
+        "authors": [
+          "Sumit Agarwal",
+          "Ghosh Pulak",
+          "Zhang Jian"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/0SLRWA",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -344463,6 +346389,24 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/8XIVBY",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Tax Policy Transmission and Household Expenditures (No. 27892)",
+        "title": "Tax Policy Transmission and Household Expenditures (No. 27892)",
+        "authors": [
+          "Sumit Agarwal",
+          "Ghosh Pulak",
+          "Zhang Jian"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/0SLRWA",
         "verified": true,
         "note": ""
       }
@@ -348357,6 +350301,23 @@
         "url": "https://doi.org/10.3386/w33810",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Jam-barrel Politics",
+        "title": "Jam-barrel Politics",
+        "authors": [
+          "Leonardo Bonilla-Mejía",
+          "Juan S. Morales"
+        ],
+        "year": 2024,
+        "journal": "Review of Economics and Statistics",
+        "volume": "106",
+        "issue": "1",
+        "pages": "167-183",
+        "doi": "10.1162/rest_a_01142",
+        "url": "https://doi.org/10.1162/rest_a_01142",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -349436,6 +351397,45 @@
         "pages": "1111-1185",
         "doi": "10.1093/qje/qjaf010",
         "url": "https://doi.org/10.1093/qje/qjaf010",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.79",
+    "title": "欧睿国际 Passport 全球市场数据库（Euromonitor Passport）",
+    "links": [
+      {
+        "label": "Euromonitor Passport",
+        "url": "https://www.euromonitor.com/our-expertise/passport"
+      }
+    ],
+    "summary": "欧睿国际（Euromonitor International）的 Passport 市场研究数据库，覆盖约 100 个国家、数百个消费品和服务行业，提供市场规模、品牌与企业份额、零售渠道与门店数量、价格和消费者特征等年度数据及预测，经机构订阅获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是跨国消费品市场结构最常用的商业数据。研究常用它度量品牌市场份额和零售业态，分析市场集中度、跨国企业进入和消费结构。",
+    "source": "付费商业数据（机构订阅）。",
+    "references": [
+      {
+        "raw": "Tax Policy Transmission and Household Expenditures (No. 27892)",
+        "title": "Tax Policy Transmission and Household Expenditures (No. 27892)",
+        "authors": [
+          "Sumit Agarwal",
+          "Ghosh Pulak",
+          "Zhang Jian"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/0SLRWA",
         "verified": true,
         "note": ""
       }
