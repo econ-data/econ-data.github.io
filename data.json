@@ -1189,6 +1189,22 @@
         "url": "https://doi.org/10.1017/s002210902610283x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "State Employment as a Strategy of Autocratic Control in China",
+        "title": "State Employment as a Strategy of Autocratic Control in China",
+        "authors": [
+          "Jaya Y. Wen"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01567",
+        "url": "https://doi.org/10.1162/rest_a_01567",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -2627,6 +2643,22 @@
         "pages": "1220–1261",
         "doi": "10.1086/378532",
         "url": "https://doi.org/10.1086/378532",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "State Employment as a Strategy of Autocratic Control in China",
+        "title": "State Employment as a Strategy of Autocratic Control in China",
+        "authors": [
+          "Jaya Y. Wen"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01567",
+        "url": "https://doi.org/10.1162/rest_a_01567",
         "verified": true,
         "note": ""
       }
@@ -4795,6 +4827,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/1KBSHK",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "State Employment as a Strategy of Autocratic Control in China",
+        "title": "State Employment as a Strategy of Autocratic Control in China",
+        "authors": [
+          "Jaya Y. Wen"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01567",
+        "url": "https://doi.org/10.1162/rest_a_01567",
         "verified": true,
         "note": ""
       }
@@ -8631,6 +8679,22 @@
         "url": "https://doi.org/10.3386/w33832",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "State Employment as a Strategy of Autocratic Control in China",
+        "title": "State Employment as a Strategy of Autocratic Control in China",
+        "authors": [
+          "Jaya Y. Wen"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01567",
+        "url": "https://doi.org/10.1162/rest_a_01567",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -11947,6 +12011,43 @@
         "pages": "1-46",
         "doi": "10.1162/rest.a.1820",
         "url": "https://doi.org/10.1162/rest.a.1820",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "1.10.12",
+    "title": "美国国会及行政当局中国委员会政治犯数据库（CECC Political Prisoner Database）",
+    "links": [
+      {
+        "label": "CECC Political Prisoner Database",
+        "url": "https://www.cecc.gov/resources/political-prisoner-database"
+      }
+    ],
+    "summary": "美国国会及行政当局中国委员会（CECC）维护的中国政治与宗教犯数据库，2004 年起持续更新，记录约 1 万名以上被拘押者的姓名、民族、宗教、拘押地点与省份、拘押日期、罪名、刑期和当前状态，公开查询。",
+    "regions": [
+      "中国数据"
+    ],
+    "topics": [
+      "政治数据"
+    ],
+    "introduction": "这是度量中国政治拘押最系统的公开个案数据。研究常用它按省份和年份统计政治犯数量，分析威权政府的镇压与控制策略。",
+    "source": "公开查询。",
+    "references": [
+      {
+        "raw": "State Employment as a Strategy of Autocratic Control in China",
+        "title": "State Employment as a Strategy of Autocratic Control in China",
+        "authors": [
+          "Jaya Y. Wen"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01567",
+        "url": "https://doi.org/10.1162/rest_a_01567",
         "verified": true,
         "note": ""
       }
@@ -19599,6 +19700,38 @@
         "url": "https://doi.org/10.1093/rfs/hhaf062",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exploitation Through Racialization",
+        "title": "Exploitation Through Racialization",
+        "authors": [
+          "Dan McGee"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1581-1631",
+        "doi": "10.1093/qje/qjaf007",
+        "url": "https://doi.org/10.1093/qje/qjaf007",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "title": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "authors": [
+          "Seung Ryul Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/VYGD8T",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26519,6 +26652,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/KPPV4O",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exploitation Through Racialization",
+        "title": "Exploitation Through Racialization",
+        "authors": [
+          "Dan McGee"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1581-1631",
+        "doi": "10.1093/qje/qjaf007",
+        "url": "https://doi.org/10.1093/qje/qjaf007",
         "verified": true,
         "note": ""
       }
@@ -34646,6 +34795,57 @@
         "url": "https://doi.org/10.1086/735535",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Stigma in Welfare Programs",
+        "title": "Stigma in Welfare Programs",
+        "authors": [
+          "Pablo Celhay",
+          "Bruce D. Meyer",
+          "Nikolas Mittag"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-37",
+        "doi": "10.1162/rest_a_01556",
+        "url": "https://doi.org/10.1162/rest_a_01556",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Heterogeneous Effects of Large and Small Minimum Wage Changes: Evidence Using a Partially Pre-Committed Analysis Plan",
+        "title": "The Heterogeneous Effects of Large and Small Minimum Wage Changes: Evidence Using a Partially Pre-Committed Analysis Plan",
+        "authors": [
+          "Jeffrey Clemens",
+          "Michael R. Strain"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/CCRESS",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models",
+        "title": "Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models",
+        "authors": [
+          "Jacob T. Bradt"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1563-1600",
+        "doi": "10.1086/734981",
+        "url": "https://doi.org/10.1086/734981",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -40975,6 +41175,57 @@
         "url": "https://doi.org/10.1162/rest_a_01590",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "International trade and labor reallocation: misclassification errors, mobility, and switching costs",
+        "title": "International trade and labor reallocation: misclassification errors, mobility, and switching costs",
+        "authors": [
+          "Maximiliano Dvorkin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01577",
+        "url": "https://doi.org/10.1162/rest_a_01577",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Stigma in Welfare Programs",
+        "title": "Stigma in Welfare Programs",
+        "authors": [
+          "Pablo Celhay",
+          "Bruce D. Meyer",
+          "Nikolas Mittag"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-37",
+        "doi": "10.1162/rest_a_01556",
+        "url": "https://doi.org/10.1162/rest_a_01556",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Heterogeneous Effects of Large and Small Minimum Wage Changes: Evidence Using a Partially Pre-Committed Analysis Plan",
+        "title": "The Heterogeneous Effects of Large and Small Minimum Wage Changes: Evidence Using a Partially Pre-Committed Analysis Plan",
+        "authors": [
+          "Jeffrey Clemens",
+          "Michael R. Strain"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/CCRESS",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -42894,6 +43145,22 @@
         "pages": "210-284",
         "doi": "10.1086/738481",
         "url": "https://doi.org/10.1086/738481",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "International trade and labor reallocation: misclassification errors, mobility, and switching costs",
+        "title": "International trade and labor reallocation: misclassification errors, mobility, and switching costs",
+        "authors": [
+          "Maximiliano Dvorkin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01577",
+        "url": "https://doi.org/10.1162/rest_a_01577",
         "verified": true,
         "note": ""
       }
@@ -53040,6 +53307,22 @@
         "url": "https://doi.org/10.1093/rfs/hhaf073",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Response of Wages to Rejected Offers",
+        "title": "The Response of Wages to Rejected Offers",
+        "authors": [
+          "Junjie Guo"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest_a_01579",
+        "url": "https://doi.org/10.1162/rest_a_01579",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -60495,6 +60778,43 @@
         "pages": "3580-3625",
         "doi": "10.1093/rfs/hhaf053",
         "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.2.61",
+    "title": "城市不平等多城市研究（Multi-City Study of Urban Inequality，MCSUI）",
+    "links": [
+      {
+        "label": "ICPSR: MCSUI 1992-1994",
+        "url": "https://www.icpsr.umich.edu/web/ICPSR/studies/2535"
+      }
+    ],
+    "summary": "1992–1994 年在亚特兰大、波士顿、底特律和洛杉矶开展的家庭与雇主调查，住户部分访问约 8900 名成年人，记录就业、求职、通勤、居住隔离、种族态度和社会网络，并配套雇主调查，经 ICPSR 公开或注册下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是研究美国城市种族隔离与劳动市场的经典调查。研究常用它度量种族态度、居住偏好和空间错配，分析城市不平等的成因。",
+    "source": "公开或注册下载（ICPSR）；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Exploitation Through Racialization",
+        "title": "Exploitation Through Racialization",
+        "authors": [
+          "Dan McGee"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1581-1631",
+        "doi": "10.1093/qje/qjaf007",
+        "url": "https://doi.org/10.1093/qje/qjaf007",
         "verified": true,
         "note": ""
       }
@@ -68974,6 +69294,22 @@
         "url": "https://doi.org/10.7910/DVN/FHB4BK",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "title": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "authors": [
+          "Seung Ryul Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/VYGD8T",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -75464,6 +75800,39 @@
         "pages": "1-46",
         "doi": "10.1162/rest.a.273",
         "url": "https://doi.org/10.1162/rest.a.273",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "title": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "authors": [
+          "Seung Ryul Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/VYGD8T",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Heterogeneous Effects of Large and Small Minimum Wage Changes: Evidence Using a Partially Pre-Committed Analysis Plan",
+        "title": "The Heterogeneous Effects of Large and Small Minimum Wage Changes: Evidence Using a Partially Pre-Committed Analysis Plan",
+        "authors": [
+          "Jeffrey Clemens",
+          "Michael R. Strain"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/CCRESS",
         "verified": true,
         "note": ""
       }
@@ -104088,6 +104457,22 @@
         "url": "https://doi.org/10.1162/rest.a.1626",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models",
+        "title": "Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models",
+        "authors": [
+          "Jacob T. Bradt"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1563-1600",
+        "doi": "10.1086/734981",
+        "url": "https://doi.org/10.1086/734981",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -104974,6 +105359,22 @@
         "pages": "1-44",
         "doi": "10.1162/rest.a.1813",
         "url": "https://doi.org/10.1162/rest.a.1813",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "title": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "authors": [
+          "Seung Ryul Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/VYGD8T",
         "verified": true,
         "note": ""
       }
@@ -122779,6 +123180,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/QGOGEE",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models",
+        "title": "Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models",
+        "authors": [
+          "Jacob T. Bradt"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1563-1600",
+        "doi": "10.1086/734981",
+        "url": "https://doi.org/10.1086/734981",
         "verified": true,
         "note": ""
       }
@@ -159539,6 +159956,23 @@
         "url": "https://doi.org/10.1093/rfs/hhaf062",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Heterogeneous Effects of Large and Small Minimum Wage Changes: Evidence Using a Partially Pre-Committed Analysis Plan",
+        "title": "The Heterogeneous Effects of Large and Small Minimum Wage Changes: Evidence Using a Partially Pre-Committed Analysis Plan",
+        "authors": [
+          "Jeffrey Clemens",
+          "Michael R. Strain"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/CCRESS",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -168893,6 +169327,42 @@
         "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Constructing Fan Charts from the Ragged Edge of SPF Forecasts",
+        "title": "Constructing Fan Charts from the Ragged Edge of SPF Forecasts",
+        "authors": [
+          "Todd E. Clark",
+          "Gergely Ganics",
+          "Elmar Mertens"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01565",
+        "url": "https://doi.org/10.1162/rest_a_01565",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -175523,6 +175993,22 @@
         "url": "https://doi.org/10.1017/s0022109025000171",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "title": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "authors": [
+          "Hongye Guo"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "6",
+        "pages": "1730-1782",
+        "doi": "10.1093/rfs/hhaf020",
+        "url": "https://doi.org/10.1093/rfs/hhaf020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -179160,6 +179646,38 @@
         "pages": "661-701",
         "doi": "10.1093/rfs/hhaf055",
         "url": "https://doi.org/10.1093/rfs/hhaf055",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Pi-CAPM: The Classical CAPM with Probability Weighting and Skewed Assets\", Driessen, Ebert and Koëter (2025)",
+        "title": "Pi-CAPM: The Classical CAPM with Probability Weighting and Skewed Assets\", Driessen, Ebert and Koëter (2025)",
+        "authors": [
+          "Joren Koëter"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/SXCNUN",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "title": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "authors": [
+          "Hongye Guo"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "6",
+        "pages": "1730-1782",
+        "doi": "10.1093/rfs/hhaf020",
+        "url": "https://doi.org/10.1093/rfs/hhaf020",
         "verified": true,
         "note": ""
       }
@@ -182915,6 +183433,42 @@
         "url": "https://doi.org/10.1093/rfs/hhaf053",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pi-CAPM: The Classical CAPM with Probability Weighting and Skewed Assets\", Driessen, Ebert and Koëter (2025)",
+        "title": "Pi-CAPM: The Classical CAPM with Probability Weighting and Skewed Assets\", Driessen, Ebert and Koëter (2025)",
+        "authors": [
+          "Joren Koëter"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/SXCNUN",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Trend Factor for the Cross-Section of Cryptocurrency Returns",
+        "title": "A Trend Factor for the Cross-Section of Cryptocurrency Returns",
+        "authors": [
+          "Christian Fieberg",
+          "Gerrit Liedtke",
+          "Thorsten Poddig",
+          "Thomas Walker",
+          "Adam Zaremba"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "60",
+        "issue": "7",
+        "pages": "3116-3153",
+        "doi": "10.1017/s0022109024000747",
+        "url": "https://doi.org/10.1017/s0022109024000747",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -183195,6 +183749,25 @@
         "pages": "3718-3768",
         "doi": "10.1093/rfs/hhag027",
         "url": "https://doi.org/10.1093/rfs/hhag027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for: Steering a Ship in Illiquid Waters: Active Management of Passive Funds",
+        "title": "Replication Code and Pseudo-Data for: Steering a Ship in Illiquid Waters: Active Management of Passive Funds",
+        "authors": [
+          "Naz Koont",
+          "Yiming Ma",
+          "Lubos Pastor",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RIFTUJ",
         "verified": true,
         "note": ""
       }
@@ -186956,6 +187529,22 @@
         "url": "https://doi.org/10.1093/rfs/hhaf060",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Pi-CAPM: The Classical CAPM with Probability Weighting and Skewed Assets\", Driessen, Ebert and Koëter (2025)",
+        "title": "Pi-CAPM: The Classical CAPM with Probability Weighting and Skewed Assets\", Driessen, Ebert and Koëter (2025)",
+        "authors": [
+          "Joren Koëter"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/SXCNUN",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -187764,6 +188353,24 @@
         "pages": "",
         "doi": "10.1093/rfs/hhaf093",
         "url": "https://doi.org/10.1093/rfs/hhaf093",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Constructing Fan Charts from the Ragged Edge of SPF Forecasts",
+        "title": "Constructing Fan Charts from the Ragged Edge of SPF Forecasts",
+        "authors": [
+          "Todd E. Clark",
+          "Gergely Ganics",
+          "Elmar Mertens"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01565",
+        "url": "https://doi.org/10.1162/rest_a_01565",
         "verified": true,
         "note": ""
       }
@@ -191455,6 +192062,25 @@
         "url": "https://doi.org/10.1093/rfs/hhaf055",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for: Steering a Ship in Illiquid Waters: Active Management of Passive Funds",
+        "title": "Replication Code and Pseudo-Data for: Steering a Ship in Illiquid Waters: Active Management of Passive Funds",
+        "authors": [
+          "Naz Koont",
+          "Yiming Ma",
+          "Lubos Pastor",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RIFTUJ",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -192726,6 +193352,23 @@
         "pages": "",
         "doi": "",
         "url": "https://www.rikutoonishi.com/files/fx_disagreement.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Speculating on Higher Order Beliefs",
+        "title": "Speculating on Higher Order Beliefs",
+        "authors": [
+          "Paul Schmidt-Engelbertz",
+          "Kaushik Vasudevan"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "8",
+        "pages": "2434-2466",
+        "doi": "10.1093/rfs/hhaf019",
+        "url": "https://doi.org/10.1093/rfs/hhaf019",
         "verified": true,
         "note": ""
       }
@@ -197903,6 +198546,24 @@
         "url": "https://doi.org/10.1093/rfs/hhag096",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Replication Code and Pseudo-Data for: Option Auctions",
+        "title": "Replication Code and Pseudo-Data for: Option Auctions",
+        "authors": [
+          "Saad Khan",
+          "Terrence Hendershott",
+          "Ryan Riordan"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/LMB13N",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -197974,6 +198635,24 @@
         "pages": "3768-3790",
         "doi": "10.1093/rfs/hhaf066",
         "url": "https://doi.org/10.1093/rfs/hhaf066",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Constructing Fan Charts from the Ragged Edge of SPF Forecasts",
+        "title": "Constructing Fan Charts from the Ragged Edge of SPF Forecasts",
+        "authors": [
+          "Todd E. Clark",
+          "Gergely Ganics",
+          "Elmar Mertens"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01565",
+        "url": "https://doi.org/10.1162/rest_a_01565",
         "verified": true,
         "note": ""
       }
@@ -199186,6 +199865,46 @@
         "pages": "3580-3625",
         "doi": "10.1093/rfs/hhaf053",
         "url": "https://doi.org/10.1093/rfs/hhaf053",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.154",
+    "title": "ETF Global ETF 分类与基金数据",
+    "links": [
+      {
+        "label": "ETF Global",
+        "url": "https://www.etfglobal.com"
+      }
+    ],
+    "summary": "ETF Global 提供的美国上市交易所交易基金数据，覆盖约 3000 只 ETF，记录发行人、基准指数、资产类别、投资主题与风格分类、费率、资产规模、资金流和每日持仓构成，经订阅或 WRDS 获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是 ETF 分类与持仓研究常用的商业数据。研究常用它识别 ETF 的投资主题和指数，分析 ETF 资金流对标的证券定价的影响。",
+    "source": "付费商业数据（含 WRDS）。",
+    "references": [
+      {
+        "raw": "Replication Code and Pseudo-Data for: Steering a Ship in Illiquid Waters: Active Management of Passive Funds",
+        "title": "Replication Code and Pseudo-Data for: Steering a Ship in Illiquid Waters: Active Management of Passive Funds",
+        "authors": [
+          "Naz Koont",
+          "Yiming Ma",
+          "Lubos Pastor",
+          "Yao Zeng"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/RIFTUJ",
         "verified": true,
         "note": ""
       }
@@ -203576,6 +204295,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1IAaK16QqKh0TFzQlQihK__4To4ufyUpv",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "State Employment as a Strategy of Autocratic Control in China",
+        "title": "State Employment as a Strategy of Autocratic Control in China",
+        "authors": [
+          "Jaya Y. Wen"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01567",
+        "url": "https://doi.org/10.1162/rest_a_01567",
         "verified": true,
         "note": ""
       }
@@ -211193,6 +211928,22 @@
         "url": "https://doi.org/10.1086/743935",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Finitely Heterogeneous Treatment Effect in Event-study",
+        "title": "Finitely Heterogeneous Treatment Effect in Event-study",
+        "authors": [
+          "Myungkou Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest_a_01553",
+        "url": "https://doi.org/10.1162/rest_a_01553",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -217397,6 +218148,22 @@
         "url": "https://doi.org/10.1162/rest_a_01592",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "College Counseling in the Classroom: Randomized Evaluation of a Teacher-Based Approach to College Advising",
+        "title": "College Counseling in the Classroom: Randomized Evaluation of a Teacher-Based Approach to College Advising",
+        "authors": [
+          "Joshua Hyman"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/736154",
+        "url": "https://doi.org/10.1086/736154",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -218077,6 +218844,23 @@
         "pages": "3846-3902",
         "doi": "10.1086/738045",
         "url": "https://doi.org/10.1086/738045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Sexual Harassment and Gender Inequality in the Labor Market",
+        "title": "Sexual Harassment and Gender Inequality in the Labor Market",
+        "authors": [
+          "Olle Folke",
+          "Johanna Rickne"
+        ],
+        "year": 2022,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "137",
+        "issue": "4",
+        "pages": "2163-2212",
+        "doi": "10.1093/qje/qjac018",
+        "url": "https://doi.org/10.1093/qje/qjac018",
         "verified": true,
         "note": ""
       }
@@ -220827,6 +221611,22 @@
         "url": "https://doi.org/10.1086/700760",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Recruiters Penalize Men Who Prefer Low Hours? Evidence from Online Labor Market Data",
+        "title": "Do Recruiters Penalize Men Who Prefer Low Hours? Evidence from Online Labor Market Data",
+        "authors": [
+          "Daniel Kopp"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/736153",
+        "url": "https://doi.org/10.1086/736153",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -221518,6 +222318,22 @@
         "pages": "1335-1382",
         "doi": "10.1093/qje/qjag003",
         "url": "https://doi.org/10.1093/qje/qjag003",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recruiters Penalize Men Who Prefer Low Hours? Evidence from Online Labor Market Data",
+        "title": "Do Recruiters Penalize Men Who Prefer Low Hours? Evidence from Online Labor Market Data",
+        "authors": [
+          "Daniel Kopp"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/736153",
+        "url": "https://doi.org/10.1086/736153",
         "verified": true,
         "note": ""
       }
@@ -227212,6 +228028,23 @@
         "url": "https://doi.org/10.1093/rfs/hhag034",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Work Meaning and the Flexibility Puzzle",
+        "title": "Work Meaning and the Flexibility Puzzle",
+        "authors": [
+          "Iris Kesternich",
+          "Thimo De Schouwer"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/739081",
+        "url": "https://doi.org/10.1086/739081",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -227249,6 +228082,43 @@
         "pages": "1-45",
         "doi": "10.1162/rest.a.283",
         "url": "https://doi.org/10.1162/rest.a.283",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.2.51",
+    "title": "瑞士工资结构调查（Swiss Earnings Structure Survey，LSE）",
+    "links": [
+      {
+        "label": "BFS: Swiss Earnings Structure Survey",
+        "url": "https://www.bfs.admin.ch/bfs/en/home/statistics/work-income/surveys/ess.html"
+      }
+    ],
+    "summary": "瑞士联邦统计局（BFS）1994 年起每两年开展的企业工资调查（Lohnstrukturerhebung），样本约 3.5 万家企业、170 万名员工，按员工记录月薪构成、工作时间、职位、教育、年龄、性别、国籍和企业行业与规模，微观数据经 BFS 合同申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是瑞士工资水平与结构的权威雇主雇员数据。研究常用它度量工资分布和性别工资差距，分析移民、最低工资和劳动市场政策。",
+    "source": "需申请（BFS 数据合同）。",
+    "references": [
+      {
+        "raw": "Do Recruiters Penalize Men Who Prefer Low Hours? Evidence from Online Labor Market Data",
+        "title": "Do Recruiters Penalize Men Who Prefer Low Hours? Evidence from Online Labor Market Data",
+        "authors": [
+          "Daniel Kopp"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/736153",
+        "url": "https://doi.org/10.1086/736153",
         "verified": true,
         "note": ""
       }
@@ -232903,6 +233773,24 @@
         "pages": "",
         "doi": "10.3386/w33306",
         "url": "https://doi.org/10.3386/w33306",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870",
+        "title": "When Did Growth Begin? New Estimates of Productivity Growth in England from 1250 to 1870",
+        "authors": [
+          "Paul Bouscasse",
+          "Emi Nakamura",
+          "Jón Steinsson"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "835-888",
+        "doi": "10.1093/qje/qjae046",
+        "url": "https://doi.org/10.1093/qje/qjae046",
         "verified": true,
         "note": ""
       }
@@ -241348,6 +242236,45 @@
     ]
   },
   {
+    "id": "3.13.13",
+    "title": "Adzuna 英国在线招聘广告数据",
+    "links": [
+      {
+        "label": "Adzuna Intelligence",
+        "url": "https://www.adzuna.co.uk/adzuna-intelligence/contact"
+      }
+    ],
+    "summary": "招聘搜索引擎 Adzuna 汇集的英国在线职位广告数据，2010 年代以来覆盖英国大部分在线招聘广告，记录职位名称、雇主、行业、职业分类、地点、薪资和发布日期，英国统计局（ONS）也用其编制在线职位指标，研究用数据经 Adzuna Intelligence 商业授权获取。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "商业数据"
+    ],
+    "introduction": "这是研究英国劳动需求的主要在线招聘数据。研究常用它度量岗位空缺、薪资公告和技能需求，分析劳动市场紧张程度和政策冲击。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "Vacancy Duration and Wages",
+        "title": "Vacancy Duration and Wages",
+        "authors": [
+          "Ihsaan Bassier",
+          "Alan Manning",
+          "Barbara Petrongolo"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-28",
+        "doi": "10.1162/rest_a_01580",
+        "url": "https://doi.org/10.1162/rest_a_01580",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.14.1",
     "title": "洛桑试验站长期田间试验（Rothamsted Long-Term Experiments，e-RA）",
     "links": [
@@ -241695,6 +242622,22 @@
         "pages": "1-45",
         "doi": "10.1162/rest.a.258",
         "url": "https://doi.org/10.1162/rest.a.258",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Parents Know Better: Sorting on Match Effects in Primary School",
+        "title": "Parents Know Better: Sorting on Match Effects in Primary School",
+        "authors": [
+          "Marco Ovidi"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-94",
+        "doi": "10.1162/rest_a_01574",
+        "url": "https://doi.org/10.1162/rest_a_01574",
         "verified": true,
         "note": ""
       }
@@ -243273,6 +244216,23 @@
         "pages": "372-392",
         "doi": "10.1162/rest_a_01296",
         "url": "https://doi.org/10.1162/rest_a_01296",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Adopting a Value Added Tax on Firms",
+        "title": "The Effects of Adopting a Value Added Tax on Firms",
+        "authors": [
+          "David R. Agrawal",
+          "Laura V. Zimmermann"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest_a_01548",
+        "url": "https://doi.org/10.1162/rest_a_01548",
         "verified": true,
         "note": ""
       }
@@ -247867,6 +248827,23 @@
         "url": "https://drive.google.com/uc?export=download&id=1Ae5_stTG-mv94vHsgCy6e-6MqF_YKZQ2",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Adopting a Value Added Tax on Firms",
+        "title": "The Effects of Adopting a Value Added Tax on Firms",
+        "authors": [
+          "David R. Agrawal",
+          "Laura V. Zimmermann"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest_a_01548",
+        "url": "https://doi.org/10.1162/rest_a_01548",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -251962,6 +252939,23 @@
         "url": "https://doi.org/10.3386/w32158",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Effects of Adopting a Value Added Tax on Firms",
+        "title": "The Effects of Adopting a Value Added Tax on Firms",
+        "authors": [
+          "David R. Agrawal",
+          "Laura V. Zimmermann"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest_a_01548",
+        "url": "https://doi.org/10.1162/rest_a_01548",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -251999,6 +252993,22 @@
         "pages": "1936–1979",
         "doi": "10.1093/jeea/jvaa047",
         "url": "https://doi.org/10.1093/jeea/jvaa047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "authors": [
+          "Raahil Madhok"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1705-1745",
+        "doi": "10.1086/735284",
+        "url": "https://doi.org/10.1086/735284",
         "verified": true,
         "note": ""
       }
@@ -252757,6 +253767,23 @@
         "pages": "",
         "doi": "",
         "url": "https://ammulavanya.github.io/files/JMP_Latest_Lavanya.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Effects of Adopting a Value Added Tax on Firms",
+        "title": "The Effects of Adopting a Value Added Tax on Firms",
+        "authors": [
+          "David R. Agrawal",
+          "Laura V. Zimmermann"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest_a_01548",
+        "url": "https://doi.org/10.1162/rest_a_01548",
         "verified": true,
         "note": ""
       }
@@ -254959,6 +255986,22 @@
         "url": "https://doi.org/10.1086/735825",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exploitation Through Racialization",
+        "title": "Exploitation Through Racialization",
+        "authors": [
+          "Dan McGee"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1581-1631",
+        "doi": "10.1093/qje/qjaf007",
+        "url": "https://doi.org/10.1093/qje/qjaf007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -256837,6 +257880,22 @@
         "url": "https://doi.org/10.1093/qje/qjaf056",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Exploitation Through Racialization",
+        "title": "Exploitation Through Racialization",
+        "authors": [
+          "Dan McGee"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1581-1631",
+        "doi": "10.1093/qje/qjaf007",
+        "url": "https://doi.org/10.1093/qje/qjaf007",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -257240,6 +258299,43 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1HVAOqOVPlOlfP93vKelfkIs_cXcciY-i",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "5.2.21",
+    "title": "拉丁美洲族裔与种族项目调查（Project on Ethnicity and Race in Latin America，PERLA）",
+    "links": [
+      {
+        "label": "PERLA project data",
+        "url": "https://www.edwardtelles.com/perla-project-data"
+      }
+    ],
+    "summary": "普林斯顿大学 Edward Telles 主持的拉美族裔与种族调查，2010 年在巴西、哥伦比亚、墨西哥和秘鲁访问约 6000 名受访者，由访员按标准色卡记录肤色，并调查自我认同族裔、教育、职业、收入、歧视经历和种族态度，公开下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是研究拉美肤色分层最常用的调查数据。研究常用它度量肤色与教育、收入的关系，分析拉美的种族不平等与身份认同。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Exploitation Through Racialization",
+        "title": "Exploitation Through Racialization",
+        "authors": [
+          "Dan McGee"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "1581-1631",
+        "doi": "10.1093/qje/qjaf007",
+        "url": "https://doi.org/10.1093/qje/qjaf007",
         "verified": true,
         "note": ""
       }
@@ -258089,6 +259185,24 @@
         "pages": "1791-1817",
         "doi": "10.1086/735825",
         "url": "https://doi.org/10.1086/735825",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Exam Reward Structure, Gender Performance Gaps, and Labor Market Outcomes",
+        "title": "Exam Reward Structure, Gender Performance Gaps, and Labor Market Outcomes",
+        "authors": [
+          "Bruna Borges",
+          "Fernanda Estevan",
+          "Louis-Philippe Morin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "44",
+        "issue": "4",
+        "pages": "1149-1184",
+        "doi": "10.1086/737992",
+        "url": "https://doi.org/10.1086/737992",
         "verified": true,
         "note": ""
       }
@@ -259747,6 +260861,24 @@
         "pages": "",
         "doi": "",
         "url": "https://tcaravello.github.io/Papers/CaravelloJMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
         "verified": true,
         "note": ""
       }
@@ -267672,6 +268804,46 @@
     ]
   },
   {
+    "id": "6.3.4",
+    "title": "Scott's 加拿大企业名录（Scott's Directories）",
+    "links": [
+      {
+        "label": "Scott's Directories",
+        "url": "https://www.scottsdirectories.com"
+      }
+    ],
+    "summary": "加拿大商业信息公司 Scott's Directories 编制的企业名录，覆盖加拿大约 40 万个以上制造、批发和服务业企业及机构，记录名称、地址与坐标、行业代码、雇员人数、销售额区间、成立年份和主要管理人员，历年版本经订阅获取。",
+    "regions": [
+      "其他国家数据"
+    ],
+    "topics": [
+      "微观企业数据",
+      "商业数据"
+    ],
+    "introduction": "这是加拿大企业位置与规模最常用的商业名录。研究常用它度量企业在地理上的分布和集聚，分析产业集聚与地方经济。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "How densely do manufacturing establishments occupy land?",
+        "title": "How densely do manufacturing establishments occupy land?",
+        "authors": [
+          "Kristian Behrens",
+          "Florian Mayneris",
+          "Théophile Ndjanmou Biéda"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest_a_01571",
+        "url": "https://doi.org/10.1162/rest_a_01571",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "6.4.1",
     "title": "挪威统计局统计数据库（Statistics Norway StatBank）",
     "links": [
@@ -275098,6 +276270,22 @@
         "url": "https://doi.org/10.1086/739115",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "authors": [
+          "Raahil Madhok"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1705-1745",
+        "doi": "10.1086/735284",
+        "url": "https://doi.org/10.1086/735284",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -276619,6 +277807,23 @@
         "url": "https://doi.org/10.1086/700760",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Work Meaning and the Flexibility Puzzle",
+        "title": "Work Meaning and the Flexibility Puzzle",
+        "authors": [
+          "Iris Kesternich",
+          "Thimo De Schouwer"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/739081",
+        "url": "https://doi.org/10.1086/739081",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -277331,6 +278536,22 @@
         "pages": "",
         "doi": "10.3386/w33311",
         "url": "https://doi.org/10.3386/w33311",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Do Recruiters Penalize Men Who Prefer Low Hours? Evidence from Online Labor Market Data",
+        "title": "Do Recruiters Penalize Men Who Prefer Low Hours? Evidence from Online Labor Market Data",
+        "authors": [
+          "Daniel Kopp"
+        ],
+        "year": 2025,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/736153",
+        "url": "https://doi.org/10.1086/736153",
         "verified": true,
         "note": ""
       }
@@ -283557,6 +284778,24 @@
         "url": "https://doi.org/10.1162/rest.a.268",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -286307,6 +287546,24 @@
         "pages": "626-664",
         "doi": "10.1086/738344",
         "url": "https://doi.org/10.1086/738344",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
         "verified": true,
         "note": ""
       }
@@ -289323,6 +290580,24 @@
         "url": "https://doi.org/10.1086/741624",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -291037,6 +292312,24 @@
         "url": "https://doi.org/10.1093/rfs/hhaf096",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -292551,6 +293844,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1X7SDyB3_BH2jqGgDpzSlYqtl5uqMb3pL",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "authors": [
+          "Raahil Madhok"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1705-1745",
+        "doi": "10.1086/735284",
+        "url": "https://doi.org/10.1086/735284",
         "verified": true,
         "note": ""
       }
@@ -297127,6 +298436,24 @@
         "pages": "1635-1703",
         "doi": "10.1093/qje/qjag012",
         "url": "https://doi.org/10.1093/qje/qjag012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
         "verified": true,
         "note": ""
       }
@@ -304951,6 +306278,22 @@
         "url": "https://doi.org/10.1086/735534",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "authors": [
+          "Raahil Madhok"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1705-1745",
+        "doi": "10.1086/735284",
+        "url": "https://doi.org/10.1086/735284",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -307588,6 +308931,22 @@
         "pages": "",
         "doi": "10.3386/w33377",
         "url": "https://doi.org/10.3386/w33377",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "authors": [
+          "Raahil Madhok"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1705-1745",
+        "doi": "10.1086/735284",
+        "url": "https://doi.org/10.1086/735284",
         "verified": true,
         "note": ""
       }
@@ -310945,6 +312304,22 @@
         "url": "https://polsimpson.github.io/files/JalalSimpson_floods.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "authors": [
+          "Raahil Madhok"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1705-1745",
+        "doi": "10.1086/735284",
+        "url": "https://doi.org/10.1086/735284",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -311124,6 +312499,22 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1JPCKEbO_rsfOPc2vhPRiUuff9FlHHO_r",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "authors": [
+          "Raahil Madhok"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1705-1745",
+        "doi": "10.1086/735284",
+        "url": "https://doi.org/10.1086/735284",
         "verified": true,
         "note": ""
       }
@@ -313880,6 +315271,22 @@
         "pages": "773-794",
         "doi": "10.1086/738339",
         "url": "https://doi.org/10.1086/738339",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models",
+        "title": "Hotelling Meets Wright: Spatial Sorting and Measurement Error in Recreation Demand Models",
+        "authors": [
+          "Jacob T. Bradt"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1563-1600",
+        "doi": "10.1086/734981",
+        "url": "https://doi.org/10.1086/734981",
         "verified": true,
         "note": ""
       }
@@ -320997,6 +322404,22 @@
         "pages": "",
         "doi": "",
         "url": "https://nicopolasek.com/files/NP_JMP_Draft.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "title": "Infrastructure, Institutions, and the Conservation of Biodiversity in India",
+        "authors": [
+          "Raahil Madhok"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "6",
+        "pages": "1705-1745",
+        "doi": "10.1086/735284",
+        "url": "https://doi.org/10.1086/735284",
         "verified": true,
         "note": ""
       }
@@ -330032,6 +331455,22 @@
         "url": "https://doi.org/10.1093/rfs/hhag025",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "title": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "authors": [
+          "Hongye Guo"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "6",
+        "pages": "1730-1782",
+        "doi": "10.1093/rfs/hhaf020",
+        "url": "https://doi.org/10.1093/rfs/hhaf020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -332180,6 +333619,22 @@
         "url": "https://doi.org/10.1017/s0022109025000171",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "title": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "authors": [
+          "Seung Ryul Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/VYGD8T",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -333132,6 +334587,22 @@
         "url": "https://doi.org/10.1017/s0022109025102342",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "title": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "authors": [
+          "Hongye Guo"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "6",
+        "pages": "1730-1782",
+        "doi": "10.1093/rfs/hhaf020",
+        "url": "https://doi.org/10.1093/rfs/hhaf020",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -334013,6 +335484,22 @@
         "pages": "3354-3390",
         "doi": "10.1017/s0022109026102762",
         "url": "https://doi.org/10.1017/s0022109026102762",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "title": "Earnings Extrapolation and Predictable Stock Market Returns",
+        "authors": [
+          "Hongye Guo"
+        ],
+        "year": 2025,
+        "journal": "Review of Financial Studies",
+        "volume": "38",
+        "issue": "6",
+        "pages": "1730-1782",
+        "doi": "10.1093/rfs/hhaf020",
+        "url": "https://doi.org/10.1093/rfs/hhaf020",
         "verified": true,
         "note": ""
       }
@@ -336168,6 +337655,22 @@
         "url": "https://doi.org/10.1093/rfs/hhaf078",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "title": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "authors": [
+          "Seung Ryul Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/VYGD8T",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -337074,6 +338577,24 @@
         "url": "https://doi.org/10.1093/rfs/hhag018",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -337835,6 +339356,22 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag092",
         "url": "https://doi.org/10.1093/rfs/hhag092",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "title": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "authors": [
+          "Seung Ryul Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/VYGD8T",
         "verified": true,
         "note": ""
       }
@@ -341746,6 +343283,26 @@
         "url": "https://doi.org/10.3386/w33640",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Trend Factor for the Cross-Section of Cryptocurrency Returns",
+        "title": "A Trend Factor for the Cross-Section of Cryptocurrency Returns",
+        "authors": [
+          "Christian Fieberg",
+          "Gerrit Liedtke",
+          "Thorsten Poddig",
+          "Thomas Walker",
+          "Adam Zaremba"
+        ],
+        "year": 2025,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "60",
+        "issue": "7",
+        "pages": "3116-3153",
+        "doi": "10.1017/s0022109024000747",
+        "url": "https://doi.org/10.1017/s0022109024000747",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -342055,6 +343612,24 @@
         "pages": "1635-1703",
         "doi": "10.1093/qje/qjag012",
         "url": "https://doi.org/10.1093/qje/qjag012",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
         "verified": true,
         "note": ""
       }
@@ -344533,6 +346108,23 @@
         "url": "https://doi.org/10.7910/DVN/0SLRWA",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Monetary-Fiscal Theory of Sudden Inflations",
+        "title": "A Monetary-Fiscal Theory of Sudden Inflations",
+        "authors": [
+          "Marco Bassetto",
+          "David S Miller"
+        ],
+        "year": 2025,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "140",
+        "issue": "3",
+        "pages": "1959-2000",
+        "doi": "10.1093/qje/qjaf012",
+        "url": "https://doi.org/10.1093/qje/qjaf012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -345997,6 +347589,22 @@
         "pages": "3722-3752",
         "doi": "10.1017/s0022109025000213",
         "url": "https://doi.org/10.1017/s0022109025000213",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "title": "Startups, Unicorns, and the Local Inflow of Inventors",
+        "authors": [
+          "Seung Ryul Shin"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/VYGD8T",
         "verified": true,
         "note": ""
       }
@@ -348809,6 +350417,24 @@
         "url": "https://papers.nicklangston.com/Langston_USC_jmp.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Beyond Citations: Measuring Novel Scientific Ideas and their Impact in Publication Text",
+        "title": "Beyond Citations: Measuring Novel Scientific Ideas and their Impact in Publication Text",
+        "authors": [
+          "Sam Arts",
+          "Nicola Melluso",
+          "Reinhilde Veugelers"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-33",
+        "doi": "10.1162/rest_a_01561",
+        "url": "https://doi.org/10.1162/rest_a_01561",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -351436,6 +353062,50 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/0SLRWA",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.13.80",
+    "title": "SciSciNet 科学学大规模数据湖",
+    "links": [
+      {
+        "label": "SciSciNet (GitHub)",
+        "url": "https://github.com/kellogg-cssi/SciSciNet"
+      },
+      {
+        "label": "Scientific Data article",
+        "url": "https://doi.org/10.1038/s41597-023-02198-9"
+      }
+    ],
+    "summary": "西北大学 Kellogg 科学学与创新研究中心（Lin、Yin、Liu、Wang，2023，Scientific Data）基于 Microsoft Academic Graph 构建的开放科学数据湖，覆盖约 1.3 亿篇论文及作者、机构、期刊、领域，并链接 NIH 和 NSF 资助、专利引用、临床试验、新闻和推特提及，提供颠覆性指数等预计算指标，公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "商业数据",
+      "教育数据"
+    ],
+    "introduction": "这是科学学研究最常用的开放论文与引用数据之一。研究常用它度量论文影响、颠覆性和科研资助，分析科学生产与创新的规律。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Beyond Citations: Measuring Novel Scientific Ideas and their Impact in Publication Text",
+        "title": "Beyond Citations: Measuring Novel Scientific Ideas and their Impact in Publication Text",
+        "authors": [
+          "Sam Arts",
+          "Nicola Melluso",
+          "Reinhilde Veugelers"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-33",
+        "doi": "10.1162/rest_a_01561",
+        "url": "https://doi.org/10.1162/rest_a_01561",
         "verified": true,
         "note": ""
       }
@@ -355006,6 +356676,46 @@
     ]
   },
   {
+    "id": "7.14.29",
+    "title": "IMF 初级商品价格数据（Primary Commodity Price System，PCPS）",
+    "links": [
+      {
+        "label": "IMF: Primary Commodity Prices",
+        "url": "https://www.imf.org/en/Research/commodity-prices"
+      }
+    ],
+    "summary": "国际货币基金组织（IMF）研究部维护的初级商品价格数据库，1980 年以来按月报告约 70 种能源、金属、农产品和饮料原料的国际基准价格及分类价格指数，并配套各国商品贸易条件指数（Commodity Terms of Trade），公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "农业数据",
+      "能源数据"
+    ],
+    "introduction": "这是与世界银行 Pink Sheet 并列的国际大宗商品价格来源。研究常用它度量商品价格冲击和各国贸易条件，分析资源出口国的宏观波动。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "The Dynamics of Large Inflation Surges",
+        "title": "The Dynamics of Large Inflation Surges",
+        "authors": [
+          "Andrés Blanco",
+          "Pablo Ottonello",
+          "Tereza Ranošová"
+        ],
+        "year": 2025,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-31",
+        "doi": "10.1162/rest_a_01568",
+        "url": "https://doi.org/10.1162/rest_a_01568",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.15.1",
     "title": "联合国商品贸易统计数据库（UN Comtrade）",
     "links": [
@@ -357344,6 +359054,23 @@
         "pages": "1-46",
         "doi": "10.1162/rest.a.1680",
         "url": "https://doi.org/10.1162/rest.a.1680",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental, Redistributive and Revenue Effects of Policies Promoting Fuel Efficient and Electric Vehicles",
+        "title": "Environmental, Redistributive and Revenue Effects of Policies Promoting Fuel Efficient and Electric Vehicles",
+        "authors": [
+          "Patrick Bigler",
+          "Doina Radulescu"
+        ],
+        "year": 2025,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "12",
+        "issue": "5",
+        "pages": "1059-1096",
+        "doi": "10.1086/734563",
+        "url": "https://doi.org/10.1086/734563",
         "verified": true,
         "note": ""
       }
