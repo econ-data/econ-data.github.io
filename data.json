@@ -21474,6 +21474,41 @@
         "url": "https://doi.org/10.1162/rest_a_00842",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Evidence of Neighborhood Effects from Moving to Opportunity:  LATEs of Neighborhood Quality",
+        "title": "Evidence of Neighborhood Effects from Moving to Opportunity:  LATEs of Neighborhood Quality",
+        "authors": [
+          "Dionissi Aliprantis",
+          "Francisca G.-C. Richter"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YG3VTR",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Metropolitan Land Values",
+        "title": "Metropolitan Land Values",
+        "authors": [
+          "David Albouy",
+          "Gabriel Ehrlich",
+          "Minchul Shin"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "3",
+        "pages": "454-466",
+        "doi": "10.1162/rest_a_00710",
+        "url": "https://doi.org/10.1162/rest_a_00710",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26037,6 +26072,25 @@
         "url": "https://doi.org/10.7910/DVN/YYNAA8",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "title": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "authors": [
+          "Laura R. Wherry",
+          "Sarah Miller",
+          "Robert Kaestner",
+          "Bruce D. Meyer"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "2",
+        "pages": "287-302",
+        "doi": "10.1162/rest_a_00677",
+        "url": "https://doi.org/10.1162/rest_a_00677",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -29276,6 +29330,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/CZQWBG",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Vestiges of Transit: Urban Persistence at a Microscale",
+        "title": "Vestiges of Transit: Urban Persistence at a Microscale",
+        "authors": [
+          "Leah Brooks",
+          "Byron Lutz"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "101",
+        "issue": "3",
+        "pages": "385-399",
+        "doi": "10.1162/rest_a_00817",
+        "url": "https://doi.org/10.1162/rest_a_00817",
         "verified": true,
         "note": ""
       }
@@ -38228,6 +38299,43 @@
         "url": "https://doi.org/10.1086/707039",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "title": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "authors": [
+          "Alicia Sasser Modestino",
+          "Daniel Shoag",
+          "Joshua Ballance"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "793-805",
+        "doi": "10.1162/rest_a_00835",
+        "url": "https://doi.org/10.1162/rest_a_00835",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "title": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "authors": [
+          "Laura R. Wherry",
+          "Sarah Miller",
+          "Robert Kaestner",
+          "Bruce D. Meyer"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "2",
+        "pages": "287-302",
+        "doi": "10.1162/rest_a_00677",
+        "url": "https://doi.org/10.1162/rest_a_00677",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -45051,6 +45159,60 @@
         "url": "https://doi.org/10.1162/rest_a_00867",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Job Polarization and Jobless Recoveries",
+        "title": "Job Polarization and Jobless Recoveries",
+        "authors": [
+          "Nir Jaimovich",
+          "Henry E. Siu"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "1",
+        "pages": "129-147",
+        "doi": "10.1162/rest_a_00875",
+        "url": "https://doi.org/10.1162/rest_a_00875",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "title": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "authors": [
+          "Alicia Sasser Modestino",
+          "Daniel Shoag",
+          "Joshua Ballance"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "793-805",
+        "doi": "10.1162/rest_a_00835",
+        "url": "https://doi.org/10.1162/rest_a_00835",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "title": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "authors": [
+          "Laura R. Wherry",
+          "Sarah Miller",
+          "Robert Kaestner",
+          "Bruce D. Meyer"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "2",
+        "pages": "287-302",
+        "doi": "10.1162/rest_a_00677",
+        "url": "https://doi.org/10.1162/rest_a_00677",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -47110,6 +47272,25 @@
         "pages": "1-14",
         "doi": "10.1162/rest_a_00914",
         "url": "https://doi.org/10.1162/rest_a_00914",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Marital Matching, Economies of Scale and Intrahousehold Allocations",
+        "title": "Marital Matching, Economies of Scale and Intrahousehold Allocations",
+        "authors": [
+          "Frederic Vermeulen",
+          "Bram De Rock",
+          "Khushboo Surana",
+          "Laurens Cherchye"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/6AXHGT",
         "verified": true,
         "note": ""
       }
@@ -50207,6 +50388,25 @@
         "url": "https://doi.org/10.1162/rest_a_01467",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "title": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "authors": [
+          "Laura R. Wherry",
+          "Sarah Miller",
+          "Robert Kaestner",
+          "Bruce D. Meyer"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "2",
+        "pages": "287-302",
+        "doi": "10.1162/rest_a_00677",
+        "url": "https://doi.org/10.1162/rest_a_00677",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -50768,6 +50968,25 @@
         "pages": "1606-1614",
         "doi": "10.1162/rest_a_01130",
         "url": "https://doi.org/10.1162/rest_a_01130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The More We Die, the More We Sell? A Simple Test of the Home-Market Effect",
+        "title": "The More We Die, the More We Sell? A Simple Test of the Home-Market Effect",
+        "authors": [
+          "Arnaud Costinot",
+          "Dave Donaldson",
+          "Margaret Kyle",
+          "Heidi Williams"
+        ],
+        "year": 2019,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "2",
+        "pages": "843-894",
+        "doi": "10.1093/qje/qjz003",
+        "url": "https://doi.org/10.1093/qje/qjz003",
         "verified": true,
         "note": ""
       }
@@ -59875,6 +60094,24 @@
         "url": "https://doi.org/10.1093/qje/qjac022",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "title": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "authors": [
+          "Alicia Sasser Modestino",
+          "Daniel Shoag",
+          "Joshua Ballance"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "793-805",
+        "doi": "10.1162/rest_a_00835",
+        "url": "https://doi.org/10.1162/rest_a_00835",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -65110,6 +65347,24 @@
         "url": "https://drive.google.com/uc?export=download&id=1Wm3iUuHYuFmWfFaWUVzD7cnHUQzjK1wA",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Universal Cash and Crime",
+        "title": "Universal Cash and Crime",
+        "authors": [
+          "Brett Watson",
+          "Mouhcine Guettabi",
+          "Matthew Reimer"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "678-689",
+        "doi": "10.1162/rest_a_00834",
+        "url": "https://doi.org/10.1162/rest_a_00834",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -66553,6 +66808,23 @@
         "pages": "1667-1683",
         "doi": "10.1162/rest_a_01348",
         "url": "https://doi.org/10.1162/rest_a_01348",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Evidence of Neighborhood Effects from Moving to Opportunity:  LATEs of Neighborhood Quality",
+        "title": "Evidence of Neighborhood Effects from Moving to Opportunity:  LATEs of Neighborhood Quality",
+        "authors": [
+          "Dionissi Aliprantis",
+          "Francisca G.-C. Richter"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YG3VTR",
         "verified": true,
         "note": ""
       }
@@ -76001,6 +76273,24 @@
         "url": "https://doi.org/10.1162/rest_a_00867",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "title": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "authors": [
+          "Alicia Sasser Modestino",
+          "Daniel Shoag",
+          "Joshua Ballance"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "793-805",
+        "doi": "10.1162/rest_a_00835",
+        "url": "https://doi.org/10.1162/rest_a_00835",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -76986,6 +77276,24 @@
         "pages": "997-1009",
         "doi": "10.1162/rest_a_01019",
         "url": "https://doi.org/10.1162/rest_a_01019",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "title": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "authors": [
+          "Alicia Sasser Modestino",
+          "Daniel Shoag",
+          "Joshua Ballance"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "793-805",
+        "doi": "10.1162/rest_a_00835",
+        "url": "https://doi.org/10.1162/rest_a_00835",
         "verified": true,
         "note": ""
       }
@@ -99420,6 +99728,24 @@
         "url": "https://doi.org/10.7910/DVN/6JSH69",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Universal Cash and Crime",
+        "title": "Universal Cash and Crime",
+        "authors": [
+          "Brett Watson",
+          "Mouhcine Guettabi",
+          "Matthew Reimer"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "678-689",
+        "doi": "10.1162/rest_a_00834",
+        "url": "https://doi.org/10.1162/rest_a_00834",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -107805,6 +108131,22 @@
         "url": "https://doi.org/10.1162/rest_a_00899",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Contractionary Devaluation Risk: Evidence from the Free Silver Movement, 1878-1900",
+        "title": "Contractionary Devaluation Risk: Evidence from the Free Silver Movement, 1878-1900",
+        "authors": [
+          "Colin Weiss"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "705-720",
+        "doi": "10.1162/rest_a_00841",
+        "url": "https://doi.org/10.1162/rest_a_00841",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -110332,6 +110674,23 @@
         "url": "https://doi.org/10.1162/rest_a_00974",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fiscal Forecasts at the FOMC: Evidence from the Greenbooks",
+        "title": "Fiscal Forecasts at the FOMC: Evidence from the Greenbooks",
+        "authors": [
+          "Dean Croushore",
+          "Simon van Norden"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "933-945",
+        "doi": "10.1162/rest_a_00664",
+        "url": "https://doi.org/10.1162/rest_a_00664",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -112262,6 +112621,45 @@
         "pages": "1065-1104",
         "doi": "10.1086/705593",
         "url": "https://doi.org/10.1086/705593",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.4.113",
+    "title": "阿拉斯加永久基金分红年报（Alaska Permanent Fund Dividend Annual Reports）",
+    "links": [
+      {
+        "label": "PFD Annual Reports",
+        "url": "https://pfd.alaska.gov/Division-Info/Annual-Reports"
+      }
+    ],
+    "summary": "阿拉斯加州税务局永久基金分红处（PFD Division）发布的年度报告，记录 1982 年以来每年的分红金额、发放日期、申请和领取人数、按地区的发放统计，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "区域经济数据"
+    ],
+    "introduction": "这是研究普遍性无条件现金转移的经典数据。研究常用它利用分红金额与发放时点的变化，分析现金转移对劳动供给、消费、健康、犯罪和儿童结果的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Universal Cash and Crime",
+        "title": "Universal Cash and Crime",
+        "authors": [
+          "Brett Watson",
+          "Mouhcine Guettabi",
+          "Matthew Reimer"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "678-689",
+        "doi": "10.1162/rest_a_00834",
+        "url": "https://doi.org/10.1162/rest_a_00834",
         "verified": true,
         "note": ""
       }
@@ -118857,6 +119255,24 @@
         "pages": "310-325",
         "doi": "10.1162/rest_a_00757",
         "url": "https://doi.org/10.1162/rest_a_00757",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Universal Cash and Crime",
+        "title": "Universal Cash and Crime",
+        "authors": [
+          "Brett Watson",
+          "Mouhcine Guettabi",
+          "Matthew Reimer"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "678-689",
+        "doi": "10.1162/rest_a_00834",
+        "url": "https://doi.org/10.1162/rest_a_00834",
         "verified": true,
         "note": ""
       }
@@ -145175,6 +145591,23 @@
         "url": "https://doi.org/10.1162/rest_a_01159",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Industry Input in Policy Making: Evidence from Medicare",
+        "title": "Industry Input in Policy Making: Evidence from Medicare",
+        "authors": [
+          "David C Chan",
+          "Michael J Dickstein"
+        ],
+        "year": 2019,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1299-1342",
+        "doi": "10.1093/qje/qjz005",
+        "url": "https://doi.org/10.1093/qje/qjz005",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -145368,6 +145801,25 @@
         "pages": "1-32",
         "doi": "10.1162/rest.a.1633",
         "url": "https://doi.org/10.1162/rest.a.1633",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "title": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "authors": [
+          "Laura R. Wherry",
+          "Sarah Miller",
+          "Robert Kaestner",
+          "Bruce D. Meyer"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "2",
+        "pages": "287-302",
+        "doi": "10.1162/rest_a_00677",
+        "url": "https://doi.org/10.1162/rest_a_00677",
         "verified": true,
         "note": ""
       }
@@ -146296,6 +146748,25 @@
         "url": "https://doi.org/10.1162/rest_a_01179",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "title": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "authors": [
+          "Laura R. Wherry",
+          "Sarah Miller",
+          "Robert Kaestner",
+          "Bruce D. Meyer"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "2",
+        "pages": "287-302",
+        "doi": "10.1162/rest_a_00677",
+        "url": "https://doi.org/10.1162/rest_a_00677",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -146728,6 +147199,25 @@
         "pages": "103198",
         "doi": "10.1016/j.jeem.2025.103198",
         "url": "https://doi.org/10.1016/j.jeem.2025.103198",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "title": "Childhood Medicaid Coverage and Later Life Health Care Utilization",
+        "authors": [
+          "Laura R. Wherry",
+          "Sarah Miller",
+          "Robert Kaestner",
+          "Bruce D. Meyer"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "2",
+        "pages": "287-302",
+        "doi": "10.1162/rest_a_00677",
+        "url": "https://doi.org/10.1162/rest_a_00677",
         "verified": true,
         "note": ""
       }
@@ -148210,6 +148700,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/KXAVHB",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "title": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "authors": [
+          "David Ridley",
+          "Chung-Ying Lee"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/574HZE",
         "verified": true,
         "note": ""
       }
@@ -152360,6 +152867,23 @@
         "pages": "1606-1614",
         "doi": "10.1162/rest_a_01130",
         "url": "https://doi.org/10.1162/rest_a_01130",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "title": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "authors": [
+          "David Ridley",
+          "Chung-Ying Lee"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/574HZE",
         "verified": true,
         "note": ""
       }
@@ -158611,6 +159135,23 @@
         "url": "https://doi.org/10.1093/qje/qjab008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "title": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "authors": [
+          "David Ridley",
+          "Chung-Ying Lee"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/574HZE",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -158768,6 +159309,44 @@
         "pages": "1-15",
         "doi": "10.1162/rest_a_00924",
         "url": "https://doi.org/10.1162/rest_a_00924",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.8.143",
+    "title": "CMS Medicare Part B 药品平均销售价格文件（ASP Pricing Files）",
+    "links": [
+      {
+        "label": "CMS ASP Pricing Files",
+        "url": "https://www.cms.gov/medicare/payment/part-b-drugs/asp-pricing-files"
+      }
+    ],
+    "summary": "美国联邦医疗保险和医疗补助服务中心（CMS）每季度发布的 Medicare Part B 药品平均销售价格（ASP）支付限额文件，按 HCPCS 编码列出医生办公室和门诊注射类药品的支付额度、剂量单位及 NDC—HCPCS 对照表，自 2005 年起公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是研究美国 Part B 药品定价与报销的核心数据。研究常用它度量药品支付价格和 ASP+6% 报销激励，分析医生处方行为、生物类似药竞争和药价政策的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "title": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "authors": [
+          "David Ridley",
+          "Chung-Ying Lee"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/574HZE",
         "verified": true,
         "note": ""
       }
@@ -176769,6 +177348,24 @@
         "url": "https://doi.org/10.1162/rest.a.1732",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Metropolitan Land Values",
+        "title": "Metropolitan Land Values",
+        "authors": [
+          "David Albouy",
+          "Gabriel Ehrlich",
+          "Minchul Shin"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "3",
+        "pages": "454-466",
+        "doi": "10.1162/rest_a_00710",
+        "url": "https://doi.org/10.1162/rest_a_00710",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -178867,6 +179464,24 @@
         "url": "https://doi.org/10.1162/rest_a_01323",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Metropolitan Land Values",
+        "title": "Metropolitan Land Values",
+        "authors": [
+          "David Albouy",
+          "Gabriel Ehrlich",
+          "Minchul Shin"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "3",
+        "pages": "454-466",
+        "doi": "10.1162/rest_a_00710",
+        "url": "https://doi.org/10.1162/rest_a_00710",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -179956,6 +180571,24 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/i4g6dtztkkwlbcd7lsgyy/Hoxie_JMP_Draft_20261021.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Metropolitan Land Values",
+        "title": "Metropolitan Land Values",
+        "authors": [
+          "David Albouy",
+          "Gabriel Ehrlich",
+          "Minchul Shin"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "3",
+        "pages": "454-466",
+        "doi": "10.1162/rest_a_00710",
+        "url": "https://doi.org/10.1162/rest_a_00710",
         "verified": true,
         "note": ""
       }
@@ -189266,6 +189899,57 @@
         "pages": "51-66",
         "doi": "10.1162/rest_a_00943",
         "url": "https://doi.org/10.1162/rest_a_00943",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Job Polarization and Jobless Recoveries",
+        "title": "Job Polarization and Jobless Recoveries",
+        "authors": [
+          "Nir Jaimovich",
+          "Henry E. Siu"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "1",
+        "pages": "129-147",
+        "doi": "10.1162/rest_a_00875",
+        "url": "https://doi.org/10.1162/rest_a_00875",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "title": "Does Medicare Reimbursement Drive Up Drug Launch Prices?",
+        "authors": [
+          "David Ridley",
+          "Chung-Ying Lee"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/574HZE",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fiscal Forecasts at the FOMC: Evidence from the Greenbooks",
+        "title": "Fiscal Forecasts at the FOMC: Evidence from the Greenbooks",
+        "authors": [
+          "Dean Croushore",
+          "Simon van Norden"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "933-945",
+        "doi": "10.1162/rest_a_00664",
+        "url": "https://doi.org/10.1162/rest_a_00664",
         "verified": true,
         "note": ""
       }
@@ -212891,6 +213575,23 @@
         "url": "https://doi.org/10.1162/rest_a_00974",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Fiscal Forecasts at the FOMC: Evidence from the Greenbooks",
+        "title": "Fiscal Forecasts at the FOMC: Evidence from the Greenbooks",
+        "authors": [
+          "Dean Croushore",
+          "Simon van Norden"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "933-945",
+        "doi": "10.1162/rest_a_00664",
+        "url": "https://doi.org/10.1162/rest_a_00664",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -215809,6 +216510,22 @@
         "pages": "2227-2278",
         "doi": "10.1093/qje/qjae021",
         "url": "https://doi.org/10.1093/qje/qjae021",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Time-Varying Effect of Monetary Policy on Asset Prices",
+        "title": "The Time-Varying Effect of Monetary Policy on Asset Prices",
+        "authors": [
+          "Pascal Paul"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "690-704",
+        "doi": "10.1162/rest_a_00840",
+        "url": "https://doi.org/10.1162/rest_a_00840",
         "verified": true,
         "note": ""
       }
@@ -221093,6 +221810,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.rikutoonishi.com/files/fx_disagreement.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Government Involvement in the Corporate Governance of Banks",
+        "title": "Government Involvement in the Corporate Governance of Banks",
+        "authors": [
+          "Linus Siming"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "3",
+        "pages": "477-488",
+        "doi": "10.1162/rest_a_00702",
+        "url": "https://doi.org/10.1162/rest_a_00702",
         "verified": true,
         "note": ""
       }
@@ -226488,6 +227221,24 @@
         "url": "https://doi.org/10.1086/739204",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "title": "Upskilling: Do Employers Demand Greater Skill When Workers Are Plentiful",
+        "authors": [
+          "Alicia Sasser Modestino",
+          "Daniel Shoag",
+          "Joshua Ballance"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "793-805",
+        "doi": "10.1162/rest_a_00835",
+        "url": "https://doi.org/10.1162/rest_a_00835",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -228976,6 +229727,23 @@
         "url": "https://doi.org/10.1162/rest_a_01567",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Benefits of Commitment to a Currency Peg: Aggregate Lessons from the Regional Effects of the 1896 U.S. Presidential Election",
+        "title": "The Benefits of Commitment to a Currency Peg: Aggregate Lessons from the Regional Effects of the 1896 U.S. Presidential Election",
+        "authors": [
+          "Scott L. Fulford",
+          "Felipe Schwartzman"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "3",
+        "pages": "600-616",
+        "doi": "10.1162/rest_a_00833",
+        "url": "https://doi.org/10.1162/rest_a_00833",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -231199,6 +231967,24 @@
         "pages": "778-793",
         "doi": "10.1162/rest_a_01184",
         "url": "https://doi.org/10.1162/rest_a_01184",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Expectation Formation Following Large Unexpected Shocks",
+        "title": "Expectation Formation Following Large Unexpected Shocks",
+        "authors": [
+          "Scott R. Baker",
+          "Tucker S. McElroy",
+          "Xuguang S. Sheng"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "2",
+        "pages": "287-303",
+        "doi": "10.1162/rest_a_00826",
+        "url": "https://doi.org/10.1162/rest_a_00826",
         "verified": true,
         "note": ""
       }
@@ -240245,6 +241031,24 @@
         "url": "https://jacobhukill.github.io/Hukill_JMP.pdf",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Teacher Expectations Matter",
+        "title": "Teacher Expectations Matter",
+        "authors": [
+          "Nicholas W. Papageorge",
+          "Seth Gershenson",
+          "Kyung Min Kang"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "2",
+        "pages": "234-251",
+        "doi": "10.1162/rest_a_00838",
+        "url": "https://doi.org/10.1162/rest_a_00838",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -247520,6 +248324,24 @@
         "url": "https://doi.org/10.1162/rest_a_00861",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Do Lower Minimum Wages for Young Workers Raise their Employment? Evidence from a Danish Discontinuity",
+        "title": "Do Lower Minimum Wages for Young Workers Raise their Employment? Evidence from a Danish Discontinuity",
+        "authors": [
+          "Claus Thustrup Kreiner",
+          "Daniel Reck",
+          "Peer Ebbesen Skov"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "2",
+        "pages": "339-354",
+        "doi": "10.1162/rest_a_00825",
+        "url": "https://doi.org/10.1162/rest_a_00825",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -250584,6 +251406,23 @@
         "pages": "748-761",
         "doi": "10.1162/rest_a_01196",
         "url": "https://doi.org/10.1162/rest_a_01196",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Social Cohesion, Religious Beliefs, and the Effect of Protestantism on Suicide",
+        "title": "Social Cohesion, Religious Beliefs, and the Effect of Protestantism on Suicide",
+        "authors": [
+          "Sascha O. Becker",
+          "Ludger Woessmann"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "3",
+        "pages": "377-391",
+        "doi": "10.1162/rest_a_00708",
+        "url": "https://doi.org/10.1162/rest_a_00708",
         "verified": true,
         "note": ""
       }
@@ -268684,6 +269523,44 @@
     ]
   },
   {
+    "id": "3.8.22",
+    "title": "德国死因统计（Todesursachenstatistik）",
+    "links": [
+      {
+        "label": "FDZ Todesursachenstatistik",
+        "url": "https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen"
+      }
+    ],
+    "summary": "德国联邦及各州统计局基于死亡证明编制的全国死因统计，逐例记录死者的根本死因（ICD 编码）、年龄、性别、居住地和死亡日期，汇总数据经 GENESIS 公开，微观数据经研究数据中心（FDZ）申请使用。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "健康数据"
+    ],
+    "introduction": "这是德国死亡率与健康研究的基础官方数据。研究常用它构建地区和人群层面的死因别死亡率，分析经济冲击、环境污染、医疗政策和历史事件对健康的影响。",
+    "source": "汇总数据公开；微观数据受限，经研究数据中心（FDZ）申请。",
+    "references": [
+      {
+        "raw": "Social Cohesion, Religious Beliefs, and the Effect of Protestantism on Suicide",
+        "title": "Social Cohesion, Religious Beliefs, and the Effect of Protestantism on Suicide",
+        "authors": [
+          "Sascha O. Becker",
+          "Ludger Woessmann"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "3",
+        "pages": "377-391",
+        "doi": "10.1162/rest_a_00708",
+        "url": "https://doi.org/10.1162/rest_a_00708",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.9.1",
     "title": "法国全国交通与出行调查（ENTD / EMP）",
     "links": [
@@ -279989,6 +280866,44 @@
     ]
   },
   {
+    "id": "4.2.34",
+    "title": "土耳其家庭劳动力调查（Household Labour Force Survey，HLFS）",
+    "links": [
+      {
+        "label": "TurkStat 就业统计",
+        "url": "https://data.tuik.gov.tr/Kategori/GetKategori?p=Istihdam,-Issizlik-ve-Ucret-108"
+      }
+    ],
+    "summary": "土耳其统计局（TurkStat）开展的全国家庭劳动力调查，按月滚动抽样，记录个人的就业状态、职业、行业、工时、工资、求职行为、教育和家庭特征，汇总数据公开，微观数据经 TurkStat 申请获取。",
+    "regions": [
+      "亚洲数据"
+    ],
+    "topics": [
+      "微观调查数据"
+    ],
+    "introduction": "这是土耳其劳动力市场研究的核心微观数据。研究常用它度量就业、失业与非正规就业，分析难民流入、最低工资、女性劳动参与和教育改革的影响。",
+    "source": "汇总数据公开；微观数据经 TurkStat 申请。",
+    "references": [
+      {
+        "raw": "Breaking the Cycle? Education and the Intergenerational Transmission of Violence",
+        "title": "Breaking the Cycle? Education and the Intergenerational Transmission of Violence",
+        "authors": [
+          "Pinar Keskin",
+          "Bilge Erten"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YUI2BC",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "4.3.1",
     "title": "印度年度工业调查（ASI）",
     "links": [
@@ -281297,6 +282212,24 @@
         "pages": "1-10",
         "doi": "10.1162/rest_a_01077",
         "url": "https://doi.org/10.1162/rest_a_01077",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Dutch Disease Resistance: Evidence from Indonesian Firms",
+        "title": "Dutch Disease Resistance: Evidence from Indonesian Firms",
+        "authors": [
+          "James Cust",
+          "Torfinn Harding",
+          "Pierre-Louis Vézina"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "6",
+        "pages": "1205-1237",
+        "doi": "10.1086/705547",
+        "url": "https://doi.org/10.1086/705547",
         "verified": true,
         "note": ""
       }
@@ -292387,6 +293320,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/BNOUBY",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Is Murder Bad for Business? Evidence From Colombia",
+        "title": "Is Murder Bad for Business? Evidence From Colombia",
+        "authors": [
+          "Sandra V. Rozo"
+        ],
+        "year": 2018,
+        "journal": "Review of Economics and Statistics",
+        "volume": "100",
+        "issue": "5",
+        "pages": "769-782",
+        "doi": "10.1162/rest_a_00735",
+        "url": "https://doi.org/10.1162/rest_a_00735",
         "verified": true,
         "note": ""
       }
@@ -305565,6 +306514,27 @@
         "url": "https://doi.org/10.1162/rest.a.1786",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Inputs, Incentives, and Complementarities in Education: Experimental Evidence from Tanzania",
+        "title": "Inputs, Incentives, and Complementarities in Education: Experimental Evidence from Tanzania",
+        "authors": [
+          "Isaac Mbiti",
+          "Karthik Muralidharan",
+          "Mauricio Romero",
+          "Youdi Schipper",
+          "Constantine Manda",
+          "Rakesh Rajani"
+        ],
+        "year": 2019,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "3",
+        "pages": "1627-1673",
+        "doi": "10.1093/qje/qjz010",
+        "url": "https://doi.org/10.1093/qje/qjz010",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -310990,6 +311960,23 @@
         "url": "https://doi.org/10.7910/DVN/FLGN9P",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Breaking the Cycle? Education and the Intergenerational Transmission of Violence",
+        "title": "Breaking the Cycle? Education and the Intergenerational Transmission of Violence",
+        "authors": [
+          "Pinar Keskin",
+          "Bilge Erten"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/YUI2BC",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -314011,6 +314998,25 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/7QQ6GK",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Healthy Business? Managerial Education and Management in Healthcare",
+        "title": "Healthy Business? Managerial Education and Management in Healthcare",
+        "authors": [
+          "Nicholas Bloom",
+          "Renata Lemos",
+          "Raffaella Sadun",
+          "John Van Reenen"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "3",
+        "pages": "506-517",
+        "doi": "10.1162/rest_a_00847",
+        "url": "https://doi.org/10.1162/rest_a_00847",
         "verified": true,
         "note": ""
       }
@@ -354206,6 +355212,24 @@
         "url": "https://doi.org/10.3386/w33723",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Dutch Disease Resistance: Evidence from Indonesian Firms",
+        "title": "Dutch Disease Resistance: Evidence from Indonesian Firms",
+        "authors": [
+          "James Cust",
+          "Torfinn Harding",
+          "Pierre-Louis Vézina"
+        ],
+        "year": 2019,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "6",
+        "issue": "6",
+        "pages": "1205-1237",
+        "doi": "10.1086/705547",
+        "url": "https://doi.org/10.1086/705547",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -354473,6 +355497,25 @@
         "pages": "",
         "doi": "10.3386/w33518",
         "url": "https://doi.org/10.3386/w33518",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The More We Die, the More We Sell? A Simple Test of the Home-Market Effect",
+        "title": "The More We Die, the More We Sell? A Simple Test of the Home-Market Effect",
+        "authors": [
+          "Arnaud Costinot",
+          "Dave Donaldson",
+          "Margaret Kyle",
+          "Heidi Williams"
+        ],
+        "year": 2019,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "2",
+        "pages": "843-894",
+        "doi": "10.1093/qje/qjz003",
+        "url": "https://doi.org/10.1093/qje/qjz003",
         "verified": true,
         "note": ""
       }
@@ -356907,6 +357950,25 @@
         "pages": "1529-1541",
         "doi": "10.1162/rest_a_01253",
         "url": "https://doi.org/10.1162/rest_a_01253",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The More We Die, the More We Sell? A Simple Test of the Home-Market Effect",
+        "title": "The More We Die, the More We Sell? A Simple Test of the Home-Market Effect",
+        "authors": [
+          "Arnaud Costinot",
+          "Dave Donaldson",
+          "Margaret Kyle",
+          "Heidi Williams"
+        ],
+        "year": 2019,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "134",
+        "issue": "2",
+        "pages": "843-894",
+        "doi": "10.1093/qje/qjz003",
+        "url": "https://doi.org/10.1093/qje/qjz003",
         "verified": true,
         "note": ""
       }
@@ -361990,6 +363052,24 @@
         "pages": "3067-3131",
         "doi": "10.1093/qje/qjaf031",
         "url": "https://doi.org/10.1093/qje/qjaf031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Does Austerity Pay Off?",
+        "title": "Does Austerity Pay Off?",
+        "authors": [
+          "Benjamin Born",
+          "Gernot J. Müller",
+          "Johannes Pfeifer"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "2",
+        "pages": "323-338",
+        "doi": "10.1162/rest_a_00844",
+        "url": "https://doi.org/10.1162/rest_a_00844",
         "verified": true,
         "note": ""
       }
@@ -370386,6 +371466,23 @@
         "url": "https://doi.org/10.1093/qje/qjaa008",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Benefits of Commitment to a Currency Peg: Aggregate Lessons from the Regional Effects of the 1896 U.S. Presidential Election",
+        "title": "The Benefits of Commitment to a Currency Peg: Aggregate Lessons from the Regional Effects of the 1896 U.S. Presidential Election",
+        "authors": [
+          "Scott L. Fulford",
+          "Felipe Schwartzman"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "3",
+        "pages": "600-616",
+        "doi": "10.1162/rest_a_00833",
+        "url": "https://doi.org/10.1162/rest_a_00833",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -378154,6 +379251,24 @@
         "url": "https://doi.org/10.1093/rfs/hhab135",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Expectation Formation Following Large Unexpected Shocks",
+        "title": "Expectation Formation Following Large Unexpected Shocks",
+        "authors": [
+          "Scott R. Baker",
+          "Tucker S. McElroy",
+          "Xuguang S. Sheng"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "2",
+        "pages": "287-303",
+        "doi": "10.1162/rest_a_00826",
+        "url": "https://doi.org/10.1162/rest_a_00826",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -384629,6 +385744,22 @@
         "pages": "1947-1993",
         "doi": "10.1086/728453",
         "url": "https://doi.org/10.1086/728453",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Time-Varying Effect of Monetary Policy on Asset Prices",
+        "title": "The Time-Varying Effect of Monetary Policy on Asset Prices",
+        "authors": [
+          "Pascal Paul"
+        ],
+        "year": 2020,
+        "journal": "Review of Economics and Statistics",
+        "volume": "102",
+        "issue": "4",
+        "pages": "690-704",
+        "doi": "10.1162/rest_a_00840",
+        "url": "https://doi.org/10.1162/rest_a_00840",
         "verified": true,
         "note": ""
       }
