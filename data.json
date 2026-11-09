@@ -12983,6 +12983,24 @@
         "url": "https://doi.org/10.1162/rest.a.1829",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Nowcasting Firms’ Operating Activities from Satellite Data on Thermal Infrared Radiation",
+        "title": "Nowcasting Firms’ Operating Activities from Satellite Data on Thermal Infrared Radiation",
+        "authors": [
+          "Yuan Xue",
+          "Bohui Zhang",
+          "Xiaofeng Zhao"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "3",
+        "pages": "1073-1111",
+        "doi": "10.1017/s0022109025102147",
+        "url": "https://doi.org/10.1017/s0022109025102147",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -13097,6 +13115,24 @@
         "pages": "3626-3657",
         "doi": "10.1017/s002210902610283x",
         "url": "https://doi.org/10.1017/s002210902610283x",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Nowcasting Firms’ Operating Activities from Satellite Data on Thermal Infrared Radiation",
+        "title": "Nowcasting Firms’ Operating Activities from Satellite Data on Thermal Infrared Radiation",
+        "authors": [
+          "Yuan Xue",
+          "Bohui Zhang",
+          "Xiaofeng Zhao"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "3",
+        "pages": "1073-1111",
+        "doi": "10.1017/s0022109025102147",
+        "url": "https://doi.org/10.1017/s0022109025102147",
         "verified": true,
         "note": ""
       }
@@ -25091,6 +25127,25 @@
         "url": "https://doi.org/10.3386/w33629",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -25972,6 +26027,23 @@
         "url": "https://doi.org/10.1086/744504",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Environmental Liability, Insurance, and Market Structure in Coal Mining",
+        "title": "Environmental Liability, Insurance, and Market Structure in Coal Mining",
+        "authors": [
+          "Tom Eisenberg",
+          "Joshua Macey"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1115-1151",
+        "doi": "10.1086/740953",
+        "url": "https://doi.org/10.1086/740953",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -26668,6 +26740,46 @@
         "pages": "",
         "doi": "",
         "url": "https://phd-fernando.github.io/AJAE_AI_Emp_SUBMITTED_09.21.25.pdf",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.1.18",
+    "title": "Tzioumis 美国名字人口特征数据（Demographic Aspects of First Names）",
+    "links": [
+      {
+        "label": "Harvard Dataverse: Data for Demographic aspects of first names",
+        "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TYJKEZ"
+      }
+    ],
+    "summary": "Tzioumis（2018）基于三个专有抵押贷款申请数据库（HMDA 关联）构建的美国名字种族与族裔分布数据，覆盖 4250 个名字和约 267 万条记录，按名字给出白人、黑人、西班牙裔、亚裔等类别的比例，经哈佛 Dataverse 公开下载。官网对自动访问返回 202（未返回页面）。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "普查数据"
+    ],
+    "introduction": "这是按名字推断种族族裔最常用的公开数据，常与普查局姓氏数据合用。研究常用它为个人记录推断种族，分析歧视和多样性。",
+    "source": "公开下载；官网对自动访问返回 202（未返回页面）。",
+    "references": [
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
         "verified": true,
         "note": ""
       }
@@ -33818,6 +33930,75 @@
         "url": "https://doi.org/10.1093/rfs/hhag040",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "title": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "authors": [
+          "Amrita Kulka",
+          "Aradhya Sood",
+          "Nicholas Chiumenti"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1736",
+        "url": "https://doi.org/10.1162/rest.a.1736",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Quantitative Theory of Domestic Outsourcing: The Role of Wage-Proportional Staffing Fees",
+        "title": "A Quantitative Theory of Domestic Outsourcing: The Role of Wage-Proportional Staffing Fees",
+        "authors": [
+          "Rosemary Kaiser"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/741126",
+        "url": "https://doi.org/10.1086/741126",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "title": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "authors": [
+          "James Archsmith",
+          "Simon Levin"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1011-1049",
+        "doi": "10.1086/740879",
+        "url": "https://doi.org/10.1086/740879",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -39868,6 +40049,39 @@
         "url": "https://doi.org/10.1093/rfs/hhag047",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Word of WARN-ing: Advance Notice of Layoffs and Labor Market Outcomes",
+        "title": "A Word of WARN-ing: Advance Notice of Layoffs and Labor Market Outcomes",
+        "authors": [
+          "Sara Malik",
+          "MaryJane Rabier"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/742940",
+        "url": "https://doi.org/10.1086/742940",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Quantitative Theory of Domestic Outsourcing: The Role of Wage-Proportional Staffing Fees",
+        "title": "A Quantitative Theory of Domestic Outsourcing: The Role of Wage-Proportional Staffing Fees",
+        "authors": [
+          "Rosemary Kaiser"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/741126",
+        "url": "https://doi.org/10.1086/741126",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -41717,6 +41931,22 @@
         "pages": "2557-2601",
         "doi": "10.1086/742422",
         "url": "https://doi.org/10.1086/742422",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Insurance and Consumption Risk",
+        "title": "Health Insurance and Consumption Risk",
+        "authors": [
+          "Lee M. Lockwood"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest.a.1704",
+        "url": "https://doi.org/10.1162/rest.a.1704",
         "verified": true,
         "note": ""
       }
@@ -44909,6 +45139,22 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag047",
         "url": "https://doi.org/10.1093/rfs/hhag047",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Health Insurance and Consumption Risk",
+        "title": "Health Insurance and Consumption Risk",
+        "authors": [
+          "Lee M. Lockwood"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-46",
+        "doi": "10.1162/rest.a.1704",
+        "url": "https://doi.org/10.1162/rest.a.1704",
         "verified": true,
         "note": ""
       }
@@ -54764,6 +55010,24 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=1ChKbyr2Yiw5aAVMRXxMYSYX9Tbisbtdn",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
         "verified": true,
         "note": ""
       }
@@ -66901,6 +67165,41 @@
         "url": "https://doi.org/10.1162/rest_a_01544",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judge Ideology and Corporate Tax Planning",
+        "title": "Judge Ideology and Corporate Tax Planning",
+        "authors": [
+          "Travis Chow",
+          "Allen H. Huang",
+          "Kai Wai Hui",
+          "Terry Shevlin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3049-3083",
+        "doi": "10.1017/s0022109026102622",
+        "url": "https://doi.org/10.1017/s0022109026102622",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -73147,6 +73446,41 @@
         "pages": "935-973",
         "doi": "10.1086/741141",
         "url": "https://doi.org/10.1086/741141",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judge Ideology and Corporate Tax Planning",
+        "title": "Judge Ideology and Corporate Tax Planning",
+        "authors": [
+          "Travis Chow",
+          "Allen H. Huang",
+          "Kai Wai Hui",
+          "Terry Shevlin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3049-3083",
+        "doi": "10.1017/s0022109026102622",
+        "url": "https://doi.org/10.1017/s0022109026102622",
         "verified": true,
         "note": ""
       }
@@ -87562,6 +87896,24 @@
         "url": "https://doi.org/10.1162/rest.a.1770",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "title": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "authors": [
+          "Amrita Kulka",
+          "Aradhya Sood",
+          "Nicholas Chiumenti"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1736",
+        "url": "https://doi.org/10.1162/rest.a.1736",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92104,6 +92456,23 @@
         "url": "https://drive.google.com/uc?export=download&id=1wAj4dHcFKDVhtzGAhHCnBM8Momlg9uf7",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financing Multinationals",
+        "title": "Financing Multinationals",
+        "authors": [
+          "Jingting Fan",
+          "Wenlan Luo"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1701",
+        "url": "https://doi.org/10.1162/rest.a.1701",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -92673,6 +93042,25 @@
         "pages": "",
         "doi": "",
         "url": "https://jafhall.github.io/jmp_live.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judge Ideology and Corporate Tax Planning",
+        "title": "Judge Ideology and Corporate Tax Planning",
+        "authors": [
+          "Travis Chow",
+          "Allen H. Huang",
+          "Kai Wai Hui",
+          "Terry Shevlin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3049-3083",
+        "doi": "10.1017/s0022109026102622",
+        "url": "https://doi.org/10.1017/s0022109026102622",
         "verified": true,
         "note": ""
       }
@@ -100770,6 +101158,22 @@
         "url": "https://doi.org/10.7910/DVN/4BWWOE",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -102059,6 +102463,46 @@
         "pages": "935-973",
         "doi": "10.1086/741141",
         "url": "https://doi.org/10.1086/741141",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.5.36",
+    "title": "EPA 智能区位数据库与全国步行指数（Smart Location Database / National Walkability Index）",
+    "links": [
+      {
+        "label": "EPA: Smart Location Mapping",
+        "url": "https://www.epa.gov/smartgrowth/smart-location-mapping"
+      }
+    ],
+    "summary": "美国环保署（EPA）发布的普查区块组层面建成环境数据，包括智能区位数据库（约 90 个指标：人口与就业密度、土地利用混合度、路网设计、公共交通可达性、到目的地的可达性）和据此构建的全国步行指数，公开下载。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "地理数据",
+      "交通数据"
+    ],
+    "introduction": "这是美国社区建成环境和步行友好度的标准指标。研究常用它度量街区密度和交通可达性，分析城市形态与出行、住房和健康。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "title": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "authors": [
+          "Amrita Kulka",
+          "Aradhya Sood",
+          "Nicholas Chiumenti"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1736",
+        "url": "https://doi.org/10.1162/rest.a.1736",
         "verified": true,
         "note": ""
       }
@@ -110101,6 +110545,22 @@
         "pages": "",
         "doi": "10.1093/qje/qjag051",
         "url": "https://doi.org/10.1093/qje/qjag051",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
         "verified": true,
         "note": ""
       }
@@ -118964,6 +119424,23 @@
         "url": "https://doi.org/10.1086/742586",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "title": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "authors": [
+          "James Archsmith",
+          "Simon Levin"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1011-1049",
+        "doi": "10.1086/740879",
+        "url": "https://doi.org/10.1086/740879",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -119661,6 +120138,23 @@
         "pages": "",
         "doi": "10.3386/w32405",
         "url": "https://doi.org/10.3386/w32405",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "title": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "authors": [
+          "James Archsmith",
+          "Simon Levin"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1011-1049",
+        "doi": "10.1086/740879",
+        "url": "https://doi.org/10.1086/740879",
         "verified": true,
         "note": ""
       }
@@ -139266,6 +139760,23 @@
         "url": "https://doi.org/10.1086/744324",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "title": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "authors": [
+          "James Archsmith",
+          "Simon Levin"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1011-1049",
+        "doi": "10.1086/740879",
+        "url": "https://doi.org/10.1086/740879",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -139589,6 +140100,23 @@
         "url": "https://drive.google.com/uc?export=download&id=1LBqsXqOlBCR4Phqn4vAaDLgZz_KP3tCh",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "title": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "authors": [
+          "James Archsmith",
+          "Simon Levin"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1011-1049",
+        "doi": "10.1086/740879",
+        "url": "https://doi.org/10.1086/740879",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -139815,6 +140343,23 @@
         "pages": "779–795",
         "doi": "10.1162/rest_a_00419",
         "url": "https://doi.org/10.1162/rest_a_00419",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "title": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "authors": [
+          "James Archsmith",
+          "Simon Levin"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1011-1049",
+        "doi": "10.1086/740879",
+        "url": "https://doi.org/10.1086/740879",
         "verified": true,
         "note": ""
       }
@@ -142896,6 +143441,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/1IGK4A",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
         "verified": true,
         "note": ""
       }
@@ -146417,6 +146978,25 @@
         "pages": "",
         "doi": "10.3386/w32920",
         "url": "https://doi.org/10.3386/w32920",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judge Ideology and Corporate Tax Planning",
+        "title": "Judge Ideology and Corporate Tax Planning",
+        "authors": [
+          "Travis Chow",
+          "Allen H. Huang",
+          "Kai Wai Hui",
+          "Terry Shevlin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3049-3083",
+        "doi": "10.1017/s0022109026102622",
+        "url": "https://doi.org/10.1017/s0022109026102622",
         "verified": true,
         "note": ""
       }
@@ -152645,6 +153225,22 @@
         "url": "https://doi.org/10.1093/rfs/hhag040",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Returns to Political Contributions in Local Housing Markets",
+        "title": "Returns to Political Contributions in Local Housing Markets",
+        "authors": [
+          "Rui Yu"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-44",
+        "doi": "10.1162/rest.a.1732",
+        "url": "https://doi.org/10.1162/rest.a.1732",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -152764,6 +153360,22 @@
         "pages": "",
         "doi": "",
         "url": "https://www.dropbox.com/scl/fi/i8j30y3ibcjy3ks5x309d/Prateek_Mahajan_JMP.pdf?rlkey=x0bay6ptsfea8bzg9mdpz35lu&dl=1",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
         "verified": true,
         "note": ""
       }
@@ -153034,6 +153646,40 @@
         "pages": "",
         "doi": "",
         "url": "https://www.seattle.gov/documents/departments/housing/programsinitiatives/mftereauthorization/uw_mfte_finalreport_112224.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "title": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "authors": [
+          "Amrita Kulka",
+          "Aradhya Sood",
+          "Nicholas Chiumenti"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1736",
+        "url": "https://doi.org/10.1162/rest.a.1736",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Returns to Political Contributions in Local Housing Markets",
+        "title": "Returns to Political Contributions in Local Housing Markets",
+        "authors": [
+          "Rui Yu"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-44",
+        "doi": "10.1162/rest.a.1732",
+        "url": "https://doi.org/10.1162/rest.a.1732",
         "verified": true,
         "note": ""
       }
@@ -153578,6 +154224,22 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/DOO1CH",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
         "verified": true,
         "note": ""
       }
@@ -154550,6 +155212,22 @@
         "url": "https://doi.org/10.1093/rfs/hhag040",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -155286,6 +155964,24 @@
         "pages": "577–599",
         "doi": "10.1162/003355399556070",
         "url": "https://doi.org/10.1162/003355399556070",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "title": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "authors": [
+          "Amrita Kulka",
+          "Aradhya Sood",
+          "Nicholas Chiumenti"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1736",
+        "url": "https://doi.org/10.1162/rest.a.1736",
         "verified": true,
         "note": ""
       }
@@ -157244,6 +157940,45 @@
     ]
   },
   {
+    "id": "2.11.47",
+    "title": "美国国家住房保护数据库（National Housing Preservation Database，NHPD）",
+    "links": [
+      {
+        "label": "NHPD",
+        "url": "https://preservationdatabase.org/"
+      }
+    ],
+    "summary": "公共与印第安住房管理局协会（PAHRC）与国家低收入住房联盟（NLIHC）维护的美国联邦补贴租赁住房数据库，整合 HUD 第 8 条款、低收入住房税收抵免（LIHTC）、USDA 农村住房、公共住房等十余个项目，按物业记录地址、补贴单元数、补贴类型和补贴到期日期，注册后公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "房地产数据"
+    ],
+    "introduction": "这是美国补贴住房存量最完整的物业级数据。研究常用它度量补贴住房分布和补贴到期风险，分析可负担住房政策与社区变化。",
+    "source": "注册后公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "title": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "authors": [
+          "Amrita Kulka",
+          "Aradhya Sood",
+          "Nicholas Chiumenti"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1736",
+        "url": "https://doi.org/10.1162/rest.a.1736",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "2.12.1",
     "title": "WRDS 沃顿研究数据服务（Wharton Research Data Services）",
     "links": [
@@ -158581,6 +159316,25 @@
         "pages": "3330-3377",
         "doi": "10.1093/rfs/hhag032",
         "url": "https://doi.org/10.1093/rfs/hhag032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
         "verified": true,
         "note": ""
       }
@@ -163090,6 +163844,74 @@
         "pages": "3330-3377",
         "doi": "10.1093/rfs/hhag032",
         "url": "https://doi.org/10.1093/rfs/hhag032",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Quantitative Theory of Domestic Outsourcing: The Role of Wage-Proportional Staffing Fees",
+        "title": "A Quantitative Theory of Domestic Outsourcing: The Role of Wage-Proportional Staffing Fees",
+        "authors": [
+          "Rosemary Kaiser"
+        ],
+        "year": 2026,
+        "journal": "Journal of Labor Economics",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1086/741126",
+        "url": "https://doi.org/10.1086/741126",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "title": "A Hedge Fund in Your Garage: Automobile purchases under gasoline price uncertainty",
+        "authors": [
+          "James Archsmith",
+          "Simon Levin"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1011-1049",
+        "doi": "10.1086/740879",
+        "url": "https://doi.org/10.1086/740879",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Environmental Liability, Insurance, and Market Structure in Coal Mining",
+        "title": "Environmental Liability, Insurance, and Market Structure in Coal Mining",
+        "authors": [
+          "Tom Eisenberg",
+          "Joshua Macey"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "1115-1151",
+        "doi": "10.1086/740953",
+        "url": "https://doi.org/10.1086/740953",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Covenant-Defeasance Option in Corporate Bonds",
+        "title": "The Covenant-Defeasance Option in Corporate Bonds",
+        "authors": [
+          "Carsten Bienz",
+          "Zsuzsanna Fluck",
+          "Karin S Thorburn"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "11",
+        "pages": "3718-3768",
+        "doi": "10.1093/rfs/hhag027",
+        "url": "https://doi.org/10.1093/rfs/hhag027",
         "verified": true,
         "note": ""
       }
@@ -169338,6 +170160,155 @@
         "url": "https://doi.org/10.1093/rfs/hhag032",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Too Good to Be True: Look-ahead Bias in Empirical Options Research",
+        "title": "Too Good to Be True: Look-ahead Bias in Empirical Options Research",
+        "authors": [
+          "Jefferson Duarte",
+          "Christopher S Jones",
+          "Mehdi Khorram",
+          "Haitao Mo",
+          "Junbo L Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag061",
+        "url": "https://doi.org/10.1093/rfs/hhag061",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Covenant-Defeasance Option in Corporate Bonds",
+        "title": "The Covenant-Defeasance Option in Corporate Bonds",
+        "authors": [
+          "Carsten Bienz",
+          "Zsuzsanna Fluck",
+          "Karin S Thorburn"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "11",
+        "pages": "3718-3768",
+        "doi": "10.1093/rfs/hhag027",
+        "url": "https://doi.org/10.1093/rfs/hhag027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Remotely Productive: The Efficacy of Remote Work for Executives",
+        "title": "Remotely Productive: The Efficacy of Remote Work for Executives",
+        "authors": [
+          "Ran Duchin",
+          "Denis Sosyura"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag005",
+        "url": "https://doi.org/10.1093/rfs/hhag005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Catering Theory of Earnings Guidance: Empirical Evidence and Stock Market Implications",
+        "title": "A Catering Theory of Earnings Guidance: Empirical Evidence and Stock Market Implications",
+        "authors": [
+          "Nils Lohmeier",
+          "Hannes Mohrschladt"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2912-2944",
+        "doi": "10.1017/s0022109026102580",
+        "url": "https://doi.org/10.1017/s0022109026102580",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Judge Ideology and Corporate Tax Planning",
+        "title": "Judge Ideology and Corporate Tax Planning",
+        "authors": [
+          "Travis Chow",
+          "Allen H. Huang",
+          "Kai Wai Hui",
+          "Terry Shevlin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3049-3083",
+        "doi": "10.1017/s0022109026102622",
+        "url": "https://doi.org/10.1017/s0022109026102622",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment Functions with q in the Presence of Unobserved Persistent Shocks",
+        "title": "Investment Functions with q in the Presence of Unobserved Persistent Shocks",
+        "authors": [
+          "Suyong Song",
+          "Suyong Song",
+          "Kyoo il Kim",
+          "Kyoo il Kim",
+          "Jiawei (Brooke) Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/WBWRN6",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -172616,6 +173587,116 @@
         "url": "https://doi.org/10.1093/rfs/hhag032",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Too Good to Be True: Look-ahead Bias in Empirical Options Research",
+        "title": "Too Good to Be True: Look-ahead Bias in Empirical Options Research",
+        "authors": [
+          "Jefferson Duarte",
+          "Christopher S Jones",
+          "Mehdi Khorram",
+          "Haitao Mo",
+          "Junbo L Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag061",
+        "url": "https://doi.org/10.1093/rfs/hhag061",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Remotely Productive: The Efficacy of Remote Work for Executives",
+        "title": "Remotely Productive: The Efficacy of Remote Work for Executives",
+        "authors": [
+          "Ran Duchin",
+          "Denis Sosyura"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag005",
+        "url": "https://doi.org/10.1093/rfs/hhag005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Catering Theory of Earnings Guidance: Empirical Evidence and Stock Market Implications",
+        "title": "A Catering Theory of Earnings Guidance: Empirical Evidence and Stock Market Implications",
+        "authors": [
+          "Nils Lohmeier",
+          "Hannes Mohrschladt"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2912-2944",
+        "doi": "10.1017/s0022109026102580",
+        "url": "https://doi.org/10.1017/s0022109026102580",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -173004,6 +174085,25 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag077",
         "url": "https://doi.org/10.1093/rfs/hhag077",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
         "verified": true,
         "note": ""
       }
@@ -176070,6 +177170,82 @@
         "url": "https://doi.org/10.1017/s0022109025102329",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Too Good to Be True: Look-ahead Bias in Empirical Options Research",
+        "title": "Too Good to Be True: Look-ahead Bias in Empirical Options Research",
+        "authors": [
+          "Jefferson Duarte",
+          "Christopher S Jones",
+          "Mehdi Khorram",
+          "Haitao Mo",
+          "Junbo L Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag061",
+        "url": "https://doi.org/10.1093/rfs/hhag061",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -176332,6 +177508,24 @@
         "pages": "3308-3353",
         "doi": "10.1017/s0022109026102701",
         "url": "https://doi.org/10.1017/s0022109026102701",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Covenant-Defeasance Option in Corporate Bonds",
+        "title": "The Covenant-Defeasance Option in Corporate Bonds",
+        "authors": [
+          "Carsten Bienz",
+          "Zsuzsanna Fluck",
+          "Karin S Thorburn"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "11",
+        "pages": "3718-3768",
+        "doi": "10.1093/rfs/hhag027",
+        "url": "https://doi.org/10.1093/rfs/hhag027",
         "verified": true,
         "note": ""
       }
@@ -178141,6 +179335,22 @@
         "url": "https://doi.org/10.1017/s0022109025102536",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "title": "The Response of Mortgage Supply to Expected Flood Insurance Lapses",
+        "authors": [
+          "Zhongchen Hu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "8",
+        "pages": "2358-2420",
+        "doi": "10.1093/rfs/hhag031",
+        "url": "https://doi.org/10.1093/rfs/hhag031",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -179643,6 +180853,24 @@
         "url": "https://doi.org/10.3386/w33256",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -179913,6 +181141,26 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag057",
         "url": "https://doi.org/10.1093/rfs/hhag057",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Too Good to Be True: Look-ahead Bias in Empirical Options Research",
+        "title": "Too Good to Be True: Look-ahead Bias in Empirical Options Research",
+        "authors": [
+          "Jefferson Duarte",
+          "Christopher S Jones",
+          "Mehdi Khorram",
+          "Haitao Mo",
+          "Junbo L Wang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag061",
+        "url": "https://doi.org/10.1093/rfs/hhag061",
         "verified": true,
         "note": ""
       }
@@ -181199,6 +182447,25 @@
         "url": "https://doi.org/10.1017/s0022109026102737",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -181465,6 +182732,43 @@
         "url": "https://doi.org/10.1093/rfs/hhag032",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -181573,6 +182877,25 @@
         "pages": "3243-3279",
         "doi": "10.1017/s0022109026102774",
         "url": "https://doi.org/10.1017/s0022109026102774",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
         "verified": true,
         "note": ""
       }
@@ -183533,6 +184856,25 @@
         "url": "https://doi.org/10.1093/rfs/hhag032",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -183619,6 +184961,44 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag094",
         "url": "https://doi.org/10.1093/rfs/hhag094",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Covenant-Defeasance Option in Corporate Bonds",
+        "title": "The Covenant-Defeasance Option in Corporate Bonds",
+        "authors": [
+          "Carsten Bienz",
+          "Zsuzsanna Fluck",
+          "Karin S Thorburn"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "11",
+        "pages": "3718-3768",
+        "doi": "10.1093/rfs/hhag027",
+        "url": "https://doi.org/10.1093/rfs/hhag027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Investment Functions with q in the Presence of Unobserved Persistent Shocks",
+        "title": "Investment Functions with q in the Presence of Unobserved Persistent Shocks",
+        "authors": [
+          "Suyong Song",
+          "Suyong Song",
+          "Kyoo il Kim",
+          "Kyoo il Kim",
+          "Jiawei (Brooke) Wang"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/WBWRN6",
         "verified": true,
         "note": ""
       }
@@ -186847,6 +188227,24 @@
         "url": "https://drive.google.com/uc?export=download&id=1XEFXumS7WYCiphe1DPsEU1-F7RE5B6sb",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Covenant-Defeasance Option in Corporate Bonds",
+        "title": "The Covenant-Defeasance Option in Corporate Bonds",
+        "authors": [
+          "Carsten Bienz",
+          "Zsuzsanna Fluck",
+          "Karin S Thorburn"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "11",
+        "pages": "3718-3768",
+        "doi": "10.1093/rfs/hhag027",
+        "url": "https://doi.org/10.1093/rfs/hhag027",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -188136,6 +189534,25 @@
         "pages": "",
         "doi": "",
         "url": "https://xilinyuan.net/files/wage_price_spirals.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
         "verified": true,
         "note": ""
       }
@@ -190628,6 +192045,22 @@
         "url": "https://doi.org/10.1093/rfs/hhag032",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Product Market Effects of Index Inclusion",
+        "title": "The Product Market Effects of Index Inclusion",
+        "authors": [
+          "Varun Sharma"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag028",
+        "url": "https://doi.org/10.1093/rfs/hhag028",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -190828,6 +192261,25 @@
         "url": "https://doi.org/10.1093/rfs/hhag049",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Judge Ideology and Corporate Tax Planning",
+        "title": "Judge Ideology and Corporate Tax Planning",
+        "authors": [
+          "Travis Chow",
+          "Allen H. Huang",
+          "Kai Wai Hui",
+          "Terry Shevlin"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "3049-3083",
+        "doi": "10.1017/s0022109026102622",
+        "url": "https://doi.org/10.1017/s0022109026102622",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -190980,6 +192432,25 @@
         "url": "https://doi.org/10.1017/s002210902510238x",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -191125,6 +192596,45 @@
         "pages": "3032-3089",
         "doi": "10.1086/742725",
         "url": "https://doi.org/10.1086/742725",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "2.12.150",
+    "title": "BrightScope 401(k) 计划数据",
+    "links": [
+      {
+        "label": "BrightScope",
+        "url": "https://www.brightscope.com"
+      }
+    ],
+    "summary": "BrightScope（现属 ISS Market Intelligence）基于美国劳工部 Form 5500 申报和计划审计报告整理的固定缴款养老金计划数据，覆盖约 6 万个 401(k) 等计划，记录计划资产、参与人数、投资菜单与各基金持有额、管理费用、雇主匹配和计划评分，经授权获取。",
+    "regions": [
+      "美国数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是研究美国 401(k) 计划投资菜单和费用的主要数据。研究常用它度量计划菜单中的基金选择和费用，分析雇主计划设计与关联基金偏向。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
         "verified": true,
         "note": ""
       }
@@ -192172,6 +193682,39 @@
         "pages": "1-44",
         "doi": "10.1162/rest.a.1771",
         "url": "https://doi.org/10.1162/rest.a.1771",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Identification of Semiparametric Panel Multinomial Choice Models with Infinite-Dimensional Fixed Effects",
+        "title": "Identification of Semiparametric Panel Multinomial Choice Models with Infinite-Dimensional Fixed Effects",
+        "authors": [
+          "Wayne Yuan Gao",
+          "Ming Li"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1708",
+        "url": "https://doi.org/10.1162/rest.a.1708",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Product Market Effects of Index Inclusion",
+        "title": "The Product Market Effects of Index Inclusion",
+        "authors": [
+          "Varun Sharma"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag028",
+        "url": "https://doi.org/10.1093/rfs/hhag028",
         "verified": true,
         "note": ""
       }
@@ -206431,6 +207974,24 @@
         "url": "https://doi.org/10.1086/744049",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "title": "Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations",
+        "authors": [
+          "Amrita Kulka",
+          "Aradhya Sood",
+          "Nicholas Chiumenti"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1736",
+        "url": "https://doi.org/10.1162/rest.a.1736",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -211211,6 +212772,29 @@
         "url": "https://doi.org/10.7910/DVN/RL3LTT",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Household Responses to Phantom Riches",
+        "title": "Household Responses to Phantom Riches",
+        "authors": [
+          "Samuli Knüpfer",
+          "Samuli Knüpfer",
+          "Ville Rantala",
+          "Ville Rantala",
+          "Petra Vokata",
+          "Petra Vokata",
+          "Erkki Vihriälä",
+          "Erkki Vihriälä"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/TIF16I",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -211986,6 +213570,23 @@
         "url": "https://doi.org/10.1162/rest.a.1780",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Culture and Taxes",
+        "title": "Culture and Taxes",
+        "authors": [
+          "Beatrix Eugster",
+          "Raphaël Parchet"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "1",
+        "pages": "296-337",
+        "doi": "10.1086/700760",
+        "url": "https://doi.org/10.1086/700760",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -212622,6 +214223,25 @@
         "pages": "976–1012",
         "doi": "10.1257/aer.20181779",
         "url": "https://doi.org/10.1257/aer.20181779",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "(Not) Thinking About the Future: Financial Information and Maternal Labor Supply",
+        "title": "(Not) Thinking About the Future: Financial Information and Maternal Labor Supply",
+        "authors": [
+          "Ana Costa-Ramón",
+          "Michaela Slotwinski",
+          "Ursina Schaede",
+          "Anne Ardila Brenøe"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "1335-1382",
+        "doi": "10.1093/qje/qjag003",
+        "url": "https://doi.org/10.1093/qje/qjag003",
         "verified": true,
         "note": ""
       }
@@ -219305,6 +220925,23 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag045",
         "url": "https://doi.org/10.1093/rfs/hhag045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing Multinationals",
+        "title": "Financing Multinationals",
+        "authors": [
+          "Jingting Fan",
+          "Wenlan Luo"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1701",
+        "url": "https://doi.org/10.1162/rest.a.1701",
         "verified": true,
         "note": ""
       }
@@ -226712,6 +228349,89 @@
     ]
   },
   {
+    "id": "3.7.24",
+    "title": "Tankerkönig 德国加油站燃油价格数据",
+    "links": [
+      {
+        "label": "Tankerkönig",
+        "url": "https://creativecommons.tankerkoenig.de/"
+      },
+      {
+        "label": "Tankerkönig data repository",
+        "url": "https://dev.azure.com/tankerkoenig/tankerkoenig-data/"
+      }
+    ],
+    "summary": "基于德国联邦卡特尔局市场透明度单位（MTS-K）强制报告的燃油价格数据，2014 年以来记录德国约 1.5 万个加油站每次价格变化的时间和超级汽油（E5、E10）与柴油价格，以及加油站位置和品牌，由 Tankerkönig 以知识共享许可公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据"
+    ],
+    "introduction": "这是全球最详细的加油站级燃油价格数据之一。研究常用它分析零售燃油定价、价格周期、算法定价和燃油税减免的传导。",
+    "source": "公开下载（CC BY-NC-SA）。",
+    "references": [
+      {
+        "raw": "Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage",
+        "title": "Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage",
+        "authors": [
+          "Laura Grigolon",
+          "Eunseong Park",
+          "Kevin Remmy"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "3",
+        "pages": "681-711",
+        "doi": "10.1086/739663",
+        "url": "https://doi.org/10.1086/739663",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "3.7.25",
+    "title": "德国联邦网络局公共充电桩登记（Bundesnetzagentur Ladesäulenregister）",
+    "links": [
+      {
+        "label": "Bundesnetzagentur: Ladesäulenkarte",
+        "url": "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html"
+      }
+    ],
+    "summary": "德国联邦网络局（Bundesnetzagentur）根据充电桩条例公布的公共电动汽车充电基础设施登记，记录每个公共充电站的运营商、地址与经纬度、投入运营日期、充电点数、充电类型（交流/直流快充）和功率，定期更新，公开下载。",
+    "regions": [
+      "欧洲数据"
+    ],
+    "topics": [
+      "能源数据",
+      "交通数据"
+    ],
+    "introduction": "这是德国公共充电基础设施的官方数据。研究常用它度量地区充电桩可得性，分析充电网络对电动汽车采纳的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage",
+        "title": "Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage",
+        "authors": [
+          "Laura Grigolon",
+          "Eunseong Park",
+          "Kevin Remmy"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "3",
+        "pages": "681-711",
+        "doi": "10.1086/739663",
+        "url": "https://doi.org/10.1086/739663",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "3.8.1",
     "title": "德国出生统计微观数据（联邦及各州统计局研究数据中心）",
     "links": [
@@ -227673,6 +229393,24 @@
         "pages": "",
         "doi": "",
         "url": "https://johnfrancishiggins.com/Higgins_JMP.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage",
+        "title": "Fueling Electrification: The Impact of Gas Prices on Hybrid Car Usage",
+        "authors": [
+          "Laura Grigolon",
+          "Eunseong Park",
+          "Kevin Remmy"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "3",
+        "pages": "681-711",
+        "doi": "10.1086/739663",
+        "url": "https://doi.org/10.1086/739663",
         "verified": true,
         "note": ""
       }
@@ -228801,6 +230539,24 @@
         "pages": "68–106",
         "doi": "10.1257/app.20200456",
         "url": "https://doi.org/10.1257/app.20200456",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Code and Data for \"Bowling for Fascism: Social Capital and the Rise of the Nazi Party",
+        "title": "Code and Data for \"Bowling for Fascism: Social Capital and the Rise of the Nazi Party",
+        "authors": [
+          "Shanker Satyanath",
+          "Nico Voigtländer",
+          "Hans-Joachim Voth"
+        ],
+        "year": 2017,
+        "journal": "Journal of Political Economy",
+        "volume": "125",
+        "issue": "2",
+        "pages": "478-526",
+        "doi": "10.1086/690949",
+        "url": "https://doi.org/10.1086/690949",
         "verified": true,
         "note": ""
       }
@@ -236414,6 +238170,23 @@
         "pages": "1–29",
         "doi": "10.1257/app.20130472",
         "url": "https://doi.org/10.1257/app.20130472",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "title": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "authors": [
+          "Quynh Huynh",
+          "Hyejin Ku"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1740",
+        "url": "https://doi.org/10.1162/rest.a.1740",
         "verified": true,
         "note": ""
       }
@@ -249374,6 +251147,22 @@
         "url": "https://doi.org/10.3386/w32413",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Foreign Currency as a Barrier to International Trade: Evidence from Brazil",
+        "title": "Foreign Currency as a Barrier to International Trade: Evidence from Brazil",
+        "authors": [
+          "Todd Messer"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-32",
+        "doi": "10.1162/rest.a.1707",
+        "url": "https://doi.org/10.1162/rest.a.1707",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -252681,6 +254470,43 @@
     ]
   },
   {
+    "id": "5.12.11",
+    "title": "巴西央行金融机构数据（BCB IF.data）",
+    "links": [
+      {
+        "label": "BCB: IF.data",
+        "url": "https://www3.bcb.gov.br/ifdata/"
+      }
+    ],
+    "summary": "巴西中央银行（BCB）IF.data 平台发布的金融机构季度数据，2000 年以来按银行和金融集团报告资产负债表、损益、资本充足率、按客户类型与行业的信贷组合、外汇头寸和分支机构信息，公开查询与下载。",
+    "regions": [
+      "拉美数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是巴西银行层面财务数据的官方来源。研究常用它度量银行资产负债结构和信贷投放，分析货币政策和金融冲击对巴西银行的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Foreign Currency as a Barrier to International Trade: Evidence from Brazil",
+        "title": "Foreign Currency as a Barrier to International Trade: Evidence from Brazil",
+        "authors": [
+          "Todd Messer"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-32",
+        "doi": "10.1162/rest.a.1707",
+        "url": "https://doi.org/10.1162/rest.a.1707",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "5.13.1",
     "title": "阿根廷电子价格系统零售价格数据（SEPA）",
     "links": [
@@ -253122,6 +254948,22 @@
         "pages": "",
         "doi": "10.3386/w33143",
         "url": "https://doi.org/10.3386/w33143",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Foreign Currency as a Barrier to International Trade: Evidence from Brazil",
+        "title": "Foreign Currency as a Barrier to International Trade: Evidence from Brazil",
+        "authors": [
+          "Todd Messer"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-32",
+        "doi": "10.1162/rest.a.1707",
+        "url": "https://doi.org/10.1162/rest.a.1707",
         "verified": true,
         "note": ""
       }
@@ -261556,6 +263398,23 @@
         "url": "https://doi.org/10.1162/rest.a.1738",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "title": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "authors": [
+          "Quynh Huynh",
+          "Hyejin Ku"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1740",
+        "url": "https://doi.org/10.1162/rest.a.1740",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -262293,6 +264152,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/FXUJIQ",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "title": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "authors": [
+          "Quynh Huynh",
+          "Hyejin Ku"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1740",
+        "url": "https://doi.org/10.1162/rest.a.1740",
         "verified": true,
         "note": ""
       }
@@ -264858,6 +266734,23 @@
         "url": "https://doi.org/10.1093/qje/qjag044",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Culture and Taxes",
+        "title": "Culture and Taxes",
+        "authors": [
+          "Beatrix Eugster",
+          "Raphaël Parchet"
+        ],
+        "year": 2019,
+        "journal": "Journal of Political Economy",
+        "volume": "127",
+        "issue": "1",
+        "pages": "296-337",
+        "doi": "10.1086/700760",
+        "url": "https://doi.org/10.1086/700760",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -267194,6 +269087,23 @@
         "pages": "372-389",
         "doi": "10.1162/rest_a_01493",
         "url": "https://doi.org/10.1162/rest_a_01493",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
         "verified": true,
         "note": ""
       }
@@ -271457,6 +273367,23 @@
         "url": "https://doi.org/10.1093/rfs/hhaf079",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financing Multinationals",
+        "title": "Financing Multinationals",
+        "authors": [
+          "Jingting Fan",
+          "Wenlan Luo"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1701",
+        "url": "https://doi.org/10.1162/rest.a.1701",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -273703,6 +275630,23 @@
         "pages": "",
         "doi": "10.1086/743899",
         "url": "https://doi.org/10.1086/743899",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Financing Multinationals",
+        "title": "Financing Multinationals",
+        "authors": [
+          "Jingting Fan",
+          "Wenlan Luo"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1701",
+        "url": "https://doi.org/10.1162/rest.a.1701",
         "verified": true,
         "note": ""
       }
@@ -277006,6 +278950,24 @@
         "pages": "1-46",
         "doi": "10.1017/s0022109026103305",
         "url": "https://doi.org/10.1017/s0022109026103305",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "title": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel Mihalache"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "1635-1703",
+        "doi": "10.1093/qje/qjag012",
+        "url": "https://doi.org/10.1093/qje/qjag012",
         "verified": true,
         "note": ""
       }
@@ -282669,6 +284631,25 @@
         "url": "https://doi.org/10.3386/w33311",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "The Limits and Consequences of Population Policy: Evidence from China's Wan Xi Shao Campaign",
+        "title": "The Limits and Consequences of Population Policy: Evidence from China's Wan Xi Shao Campaign",
+        "authors": [
+          "Kimberly Singer Babiarz",
+          "Paul Ma",
+          "Shige Song",
+          "Grant Miller"
+        ],
+        "year": 2019,
+        "journal": "Review of Economics and Statistics",
+        "volume": "40",
+        "issue": "",
+        "pages": "319-358",
+        "doi": "10.4054/demres.2019.40.13",
+        "url": "https://doi.org/10.4054/demres.2019.40.13",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -284567,6 +286548,24 @@
         "url": "https://doi.org/10.3386/w33608",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "title": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel Mihalache"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "1635-1703",
+        "doi": "10.1093/qje/qjag012",
+        "url": "https://doi.org/10.1093/qje/qjag012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -285657,6 +287656,23 @@
         "url": "https://www.dropbox.com/scl/fi/ygsdjj2vl7blnndnu6g1h/JobMarketPaper.pdf?rlkey=9zvf57vbkb81vdh8wo8qv347x&st=isnnlrtu&raw=1",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -286326,6 +288342,23 @@
         "pages": "",
         "doi": "",
         "url": "https://drive.google.com/uc?export=download&id=19Sl263BdKI6AbiWaw7qDU47wsfqCjJoq",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
         "verified": true,
         "note": ""
       }
@@ -287356,6 +289389,23 @@
         "pages": "",
         "doi": "10.3386/w32634",
         "url": "https://doi.org/10.3386/w32634",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
         "verified": true,
         "note": ""
       }
@@ -289883,6 +291933,23 @@
         "url": "https://doi.org/10.3386/w33838",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -290745,6 +292812,49 @@
     ]
   },
   {
+    "id": "7.5.47",
+    "title": "全球水库与大坝数据库（Global Reservoir and Dam Database，GRanD）",
+    "links": [
+      {
+        "label": "NASA SEDAC: GRanD v1.01",
+        "url": "https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-dams-1.01"
+      },
+      {
+        "label": "Global Dam Watch: GRanD",
+        "url": "https://www.globaldamwatch.org/grand"
+      }
+    ],
+    "summary": "全球水系统项目（GWSP）等机构编制的全球大型水库与大坝数据库，v1.01 收录约 7300 座库容大于 0.1 立方千米的大坝及其水库，记录位置、建成年份、坝高、库容、主要用途（灌溉、水电、供水、防洪）和水库多边形，经 NASA SEDAC 与 Global Dam Watch 公开下载。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "地理数据",
+      "环境数据"
+    ],
+    "introduction": "这是全球大坝研究最常用的标准数据。研究常用它度量大坝建设和灌溉水源，分析大坝对农业、健康和下游地区的影响。",
+    "source": "公开下载。",
+    "references": [
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
     "id": "7.6.1",
     "title": "Global Fishing Watch 全球渔业活动数据",
     "links": [
@@ -291339,6 +293449,23 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/F2WAYW",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
         "verified": true,
         "note": ""
       }
@@ -292833,6 +294960,23 @@
         "pages": "",
         "doi": "",
         "url": "https://gl-bdrx.github.io/files/Boudreaux_JMP_1021.pdf",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
         "verified": true,
         "note": ""
       }
@@ -296860,6 +299004,23 @@
         "pages": "201–244",
         "doi": "10.1111/ecoj.12042",
         "url": "https://doi.org/10.1111/ecoj.12042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
         "verified": true,
         "note": ""
       }
@@ -301408,6 +303569,23 @@
         "pages": "",
         "doi": "10.3386/w33458",
         "url": "https://doi.org/10.3386/w33458",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
         "verified": true,
         "note": ""
       }
@@ -315659,6 +317837,62 @@
         "url": "https://doi.org/10.1093/rfs/hhag048",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Remeasuring Scale in Active Management",
+        "title": "Remeasuring Scale in Active Management",
+        "authors": [
+          "Shiyang Huang",
+          "Xu Lu",
+          "Yang Song",
+          "Hong Xiang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag037",
+        "url": "https://doi.org/10.1093/rfs/hhag037",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "title": "Replication Data/Code for: The True Colors of Money: Racial Representation and Asset Management",
+        "authors": [
+          "Lina Han",
+          "Xing Huang",
+          "Ohad Kadan",
+          "Jimmy Wu"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "https://doi.org/10.7910/DVN/ZK04TR",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -317472,6 +319706,24 @@
         "url": "https://doi.org/10.3386/w33725",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "title": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel Mihalache"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "1635-1703",
+        "doi": "10.1093/qje/qjag012",
+        "url": "https://doi.org/10.1093/qje/qjag012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -318849,6 +321101,95 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag057",
         "url": "https://doi.org/10.1093/rfs/hhag057",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "title": "What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences",
+        "authors": [
+          "Mark Egan",
+          "Alexander MacKay",
+          "Hanbin Yang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "10",
+        "pages": "3276-3329",
+        "doi": "10.1093/rfs/hhag044",
+        "url": "https://doi.org/10.1093/rfs/hhag044",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "The Covenant-Defeasance Option in Corporate Bonds",
+        "title": "The Covenant-Defeasance Option in Corporate Bonds",
+        "authors": [
+          "Carsten Bienz",
+          "Zsuzsanna Fluck",
+          "Karin S Thorburn"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "39",
+        "issue": "11",
+        "pages": "3718-3768",
+        "doi": "10.1093/rfs/hhag027",
+        "url": "https://doi.org/10.1093/rfs/hhag027",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Remotely Productive: The Efficacy of Remote Work for Executives",
+        "title": "Remotely Productive: The Efficacy of Remote Work for Executives",
+        "authors": [
+          "Ran Duchin",
+          "Denis Sosyura"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag005",
+        "url": "https://doi.org/10.1093/rfs/hhag005",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "A Catering Theory of Earnings Guidance: Empirical Evidence and Stock Market Implications",
+        "title": "A Catering Theory of Earnings Guidance: Empirical Evidence and Stock Market Implications",
+        "authors": [
+          "Nils Lohmeier",
+          "Hannes Mohrschladt"
+        ],
+        "year": 2026,
+        "journal": "Journal of Financial and Quantitative Analysis",
+        "volume": "61",
+        "issue": "6",
+        "pages": "2912-2944",
+        "doi": "10.1017/s0022109026102580",
+        "url": "https://doi.org/10.1017/s0022109026102580",
         "verified": true,
         "note": ""
       }
@@ -322690,6 +325031,24 @@
         "url": "https://doi.org/10.3386/w33816",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "title": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel Mihalache"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "1635-1703",
+        "doi": "10.1093/qje/qjag012",
+        "url": "https://doi.org/10.1093/qje/qjag012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -323986,6 +326345,25 @@
         "pages": "",
         "doi": "",
         "url": "https://doi.org/10.7910/DVN/EDHF9S",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Machine Forecast Disagreement",
+        "title": "Machine Forecast Disagreement",
+        "authors": [
+          "Turan G Bali",
+          "Bryan T Kelly",
+          "Mathis Mörke",
+          "Jamil Rahman"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag042",
+        "url": "https://doi.org/10.1093/rfs/hhag042",
         "verified": true,
         "note": ""
       }
@@ -327246,6 +329624,24 @@
         "url": "https://doi.org/10.1093/rfs/hhag089",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "title": "Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)",
+        "authors": [
+          "Cristina Arellano",
+          "Yan Bai",
+          "Gabriel Mihalache"
+        ],
+        "year": 2026,
+        "journal": "Quarterly Journal of Economics",
+        "volume": "141",
+        "issue": "2",
+        "pages": "1635-1703",
+        "doi": "10.1093/qje/qjag012",
+        "url": "https://doi.org/10.1093/qje/qjag012",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -327847,6 +330243,46 @@
         "pages": "2106-2132",
         "doi": "10.1017/s0022109025102329",
         "url": "https://doi.org/10.1017/s0022109025102329",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.12.99",
+    "title": "eVestment 机构资产管理数据库",
+    "links": [
+      {
+        "label": "eVestment",
+        "url": "https://www.evestment.com"
+      }
+    ],
+    "summary": "eVestment（现属纳斯达克）汇集的机构资产管理产品数据库，覆盖全球数千家资产管理公司约 3 万个机构投资策略和产品，记录资产规模、业绩收益、费率、持仓特征、投资团队和机构客户与投资顾问信息，经订阅获取。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "金融数据"
+    ],
+    "introduction": "这是研究机构资产管理市场的主要商业数据。研究常用它度量机构产品业绩与资金流，分析投资顾问推荐和养老金资产配置。",
+    "source": "付费商业数据。",
+    "references": [
+      {
+        "raw": "Remeasuring Scale in Active Management",
+        "title": "Remeasuring Scale in Active Management",
+        "authors": [
+          "Shiyang Huang",
+          "Xu Lu",
+          "Yang Song",
+          "Hong Xiang"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag037",
+        "url": "https://doi.org/10.1093/rfs/hhag037",
         "verified": true,
         "note": ""
       }
@@ -329637,6 +332073,23 @@
         "pages": "1-35",
         "doi": "10.1162/rest_a_01544",
         "url": "https://doi.org/10.1162/rest_a_01544",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Remotely Productive: The Efficacy of Remote Work for Executives",
+        "title": "Remotely Productive: The Efficacy of Remote Work for Executives",
+        "authors": [
+          "Ran Duchin",
+          "Denis Sosyura"
+        ],
+        "year": 2026,
+        "journal": "Review of Financial Studies",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1093/rfs/hhag005",
+        "url": "https://doi.org/10.1093/rfs/hhag005",
         "verified": true,
         "note": ""
       }
@@ -339520,6 +341973,23 @@
         "url": "https://doi.org/10.1086/741141",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "title": "Droughts and Economic Activity: Do Dams and Groundwater Mediate the Impact?",
+        "authors": [
+          "Sheila M. Olmstead",
+          "Hilary Sigman"
+        ],
+        "year": 2026,
+        "journal": "Journal of the Association of Environmental and Resource Economists",
+        "volume": "13",
+        "issue": "4",
+        "pages": "975-1010",
+        "doi": "10.1086/740567",
+        "url": "https://doi.org/10.1086/740567",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -341011,6 +343481,23 @@
         "pages": "",
         "doi": "10.1093/rfs/hhag045",
         "url": "https://doi.org/10.1093/rfs/hhag045",
+        "verified": true,
+        "note": ""
+      },
+      {
+        "raw": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "title": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "authors": [
+          "Quynh Huynh",
+          "Hyejin Ku"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1740",
+        "url": "https://doi.org/10.1162/rest.a.1740",
         "verified": true,
         "note": ""
       }
@@ -344979,6 +347466,23 @@
         "url": "https://doi.org/10.1162/rest.a.1816",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "title": "Gender Norms and Female Labor Supply: Evidence from Export Shocks in Vietnam",
+        "authors": [
+          "Quynh Huynh",
+          "Hyejin Ku"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1740",
+        "url": "https://doi.org/10.1162/rest.a.1740",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -346057,6 +348561,23 @@
         "url": "https://doi.org/10.1162/rest.a.1785",
         "verified": true,
         "note": ""
+      },
+      {
+        "raw": "Financing Multinationals",
+        "title": "Financing Multinationals",
+        "authors": [
+          "Jingting Fan",
+          "Wenlan Luo"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1701",
+        "url": "https://doi.org/10.1162/rest.a.1701",
+        "verified": true,
+        "note": ""
       }
     ]
   },
@@ -346093,6 +348614,44 @@
         "pages": "1-45",
         "doi": "10.1162/rest.a.1816",
         "url": "https://doi.org/10.1162/rest.a.1816",
+        "verified": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "7.15.34",
+    "title": "OECD 外国直接投资监管限制指数（FDI Regulatory Restrictiveness Index）",
+    "links": [
+      {
+        "label": "OECD: FDI Regulatory Restrictiveness Index",
+        "url": "https://www.oecd.org/en/topics/sub-issues/fdi-qualities/fdi-regulatory-restrictiveness-index.html"
+      }
+    ],
+    "summary": "经合组织（OECD）编制的外国直接投资监管限制指数，1997 年以来覆盖约 80 个国家和 22 个行业，按外资股权限制、审查与批准要求、关键人员限制和其他经营限制四类措施打分（0 为开放、1 为封闭），经 OECD 数据库公开下载。官网对自动访问返回 403。",
+    "regions": [
+      "全球数据"
+    ],
+    "topics": [
+      "贸易数据"
+    ],
+    "introduction": "这是比较各国外资准入政策的标准指数。研究常用它度量东道国和行业的外资限制，分析 FDI 政策对跨国公司投资的影响。",
+    "source": "公开下载；官网对自动访问返回 403。",
+    "references": [
+      {
+        "raw": "Financing Multinationals",
+        "title": "Financing Multinationals",
+        "authors": [
+          "Jingting Fan",
+          "Wenlan Luo"
+        ],
+        "year": 2026,
+        "journal": "Review of Economics and Statistics",
+        "volume": "",
+        "issue": "",
+        "pages": "1-45",
+        "doi": "10.1162/rest.a.1701",
+        "url": "https://doi.org/10.1162/rest.a.1701",
         "verified": true,
         "note": ""
       }
