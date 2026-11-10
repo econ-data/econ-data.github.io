@@ -129,7 +129,7 @@ document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].in
 window.addEventListener('hashchange',route);
 Promise.all([
   fetch(`papers/index.json?${V}`).then(r=>{if(!r.ok)throw Error('index');return r.json()}),
-  fetch(`papers/summaries.json?${V}`).then(r=>r.ok?r.json():{}).catch(()=>({}))
+  fetch(`papers/summaries.json`,{cache:"no-cache"}).then(r=>r.ok?r.json():{}).catch(()=>({}))
 ]).then(([idx,sm])=>{
   index=idx; summaries=sm;
   $('#s-total').textContent=idx.total; $('#s-fields').textContent=idx.fields.length;
