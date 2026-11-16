@@ -114,5 +114,38 @@
 "abstract": "房产税收入是地方政府最大的可自由支配收入来源，然而其调整节奏与美国房产价值的变动并不一致。本文表明，这种收入平滑行为可能根植于市政府的政治经济学逻辑。地方预算压力指标与房产价值的上调评估呈正相关关系。此外，市政府在房市上行期显著更倾向于重新评估，而非在下行期——这与最大化税基和税收征收的动机相一致。利用伊利诺伊州（Illinois）学区公投中微观层面的勉强通过数据，本文发现这些对市政负债的冲击导致房产评估值显著上升，而相应的市场价值或交易量并未增加。在过去三年内通过公投，使某一房产被上调评估的概率提高了23%。这种灵活的收入平滑形式为个人寻租创造了空间。本文发现，地方税务评估员：1）其自有房产的税务评估值显著低于邻近房产；2）其自有房产的税务评估值增速也显著慢于邻近房产——从而降低了其自身的税款。本文进一步记录了税务评估员自有房产低评现象与其所在辖区中被记录的最大化税收评估缺口之间的显著关联。"
 },
 "summary": {}
+},
+{
+"id": "16.5.2.1",
+"added": "2026-11-15T22:25:57",
+"field": "公共问题",
+"topic": "美国税制专题",
+"question": "房产税如何征收？",
+"paper": {
+"venue": "Journal of Policy Analysis and Management",
+"year": "2025",
+"title": "Assessment frequency and equity of the property tax: Latest evidence from Philadelphia",
+"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.22555",
+"authors": [
+{
+"name": "Yilin Hou",
+"aff": "Professor @ Syracuse Maxwell",
+"url": "https://www.maxwell.syr.edu/directory/yilin-hou"
+},
+{
+"name": "Lei Ding"
+},
+{
+"name": "David J. Schwegman",
+"aff": "Associate Professor @ American University Public Policy",
+"url": "https://www.american.edu/spa/faculty/schwegma.cfm"
+},
+{
+"name": "Alaina G. Barca"
+}
+],
+"abstract": "费城于2013年通过的实际估值计划（Actual Valuation Initiative）为本文提供了一个独特的机会，用以检验在较短间隔内将房产重新评估至真实市场价值的做法是否能够改善房产税的公平性。本文基于双重差分（difference-in-differences）框架，利用费城及15个可比城市的地块级数据与交易记录进行匹配，发现定期重新评估对公平性结果具有积极影响。2014年后，房产评估质量大幅提升，但改善程度因社区不同而存在差异。跨城市比较进一步证实，费城在采纳该计划后，房产评估的质量与公平性均有所提高。上述结果凸显了在房产价值快速上涨地区定期重新评估的重要性，同时也揭示了重新评估在不同房产价值水平以及不同社区收入、种族和绅士化（gentrification）状态之间所产生的差异性影响。本文论证指出，若设计得当，房产税可以成为一种公平的税收工具。"
+},
+"summary": {}
 }
 ]
