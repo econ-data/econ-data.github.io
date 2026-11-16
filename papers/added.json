@@ -1,1 +1,27 @@
-[]
+[
+{
+"id": "22.12.3.1",
+"added": "2026-11-15T22:06:06",
+"field": "城市问题",
+"topic": "基础设施专题",
+"question": "基建为何困难？",
+"paper": {
+"venue": "AEJ:AE",
+"year": "2023",
+"title": "Infrastructure Costs",
+"url": "https://www.aeaweb.org/articles?id=10.1257/app.20200398",
+"authors": [
+{
+"name": "Leah Brooks",
+"url": "https://www.leahbrooks.org/"
+},
+{
+"name": "Zachary Liscow",
+"url": "https://law.yale.edu/zachary-liscow"
+}
+],
+"abstract": "尽管基础设施对美国经济至关重要，但关于其成本随时间变化轨迹的证据却十分匮乏。本文记录了州际公路系统（Interstate Highway System）建设史上每新增一英里的实际支出情况。我们发现，每英里支出从20世纪60年代到80年代增长了三倍以上。即便在控制了预先存在的可观测地理成本决定因素后，这一增长依然显著。我们随后就其原因提供了若干启示性证据：投入品价格对上述增长的解释力有限；从统计角度看，收入与住房价格的变化可解释约一半的支出增长。此外，我们发现初步证据表明，公民声音（citizen voice）在政府决策中的兴起提高了每英里支出。"
+},
+"summary": {}
+}
+]
