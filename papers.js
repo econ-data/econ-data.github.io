@@ -10,7 +10,7 @@ function themeLabel(){ $('#theme span').textContent = document.documentElement.d
 themeLabel();
 $('#theme').onclick = () => { const d=document.documentElement; d.dataset.theme = d.dataset.theme==='dark'?'light':'dark'; try{localStorage.setItem('econ-theme',d.dataset.theme)}catch{} themeLabel(); };
 
-const loadField = code => cache[code] ? Promise.resolve(cache[code]) : fetch(`papers/f${code}.json?${V}`).then(r=>{if(!r.ok)throw Error(code);return r.json()}).then(rows=>(cache[code]=rows));
+const loadField = code => cache[code] ? Promise.resolve(cache[code]) : fetch(`papers/f${code}.json`,{cache:"no-cache"}).then(r=>{if(!r.ok)throw Error(code);return r.json()}).then(rows=>(cache[code]=rows));
 const loadAll = () => Promise.all(index.fields.map(f=>loadField(f.code))).then(()=>{allLoaded=true});
 const fieldOf = code => index.fields.find(f=>f.code===code);
 const topicOf = code => { const f=fieldOf(code.split('.')[0]); return f && f.topics.find(t=>t.code===code); };
@@ -128,7 +128,7 @@ $('#reset').onclick=()=>{$('#search').value='';$('#summarized').checked=false;pa
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();$('#search').focus()}});
 window.addEventListener('hashchange',route);
 Promise.all([
-  fetch(`papers/index.json?${V}`).then(r=>{if(!r.ok)throw Error('index');return r.json()}),
+  fetch(`papers/index.json`,{cache:"no-cache"}).then(r=>{if(!r.ok)throw Error('index');return r.json()}),
   fetch(`papers/summaries.json`,{cache:"no-cache"}).then(r=>r.ok?r.json():{}).catch(()=>({}))
 ]).then(([idx,sm])=>{
   index=idx; summaries=sm;
