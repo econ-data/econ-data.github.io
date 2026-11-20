@@ -147,5 +147,37 @@
 "abstract": "费城于2013年通过的实际估值计划（Actual Valuation Initiative）为本文提供了一个独特的机会，用以检验在较短间隔内将房产重新评估至真实市场价值的做法是否能够改善房产税的公平性。本文基于双重差分（difference-in-differences）框架，利用费城及15个可比城市的地块级数据与交易记录进行匹配，发现定期重新评估对公平性结果具有积极影响。2014年后，房产评估质量大幅提升，但改善程度因社区不同而存在差异。跨城市比较进一步证实，费城在采纳该计划后，房产评估的质量与公平性均有所提高。上述结果凸显了在房产价值快速上涨地区定期重新评估的重要性，同时也揭示了重新评估在不同房产价值水平以及不同社区收入、种族和绅士化（gentrification）状态之间所产生的差异性影响。本文论证指出，若设计得当，房产税可以成为一种公平的税收工具。"
 },
 "summary": {}
+},
+{
+"id": "22.12.3.4",
+"added": "2026-11-19T22:31:05",
+"field": "城市问题",
+"topic": "基础设施专题",
+"question": "基建为何困难？",
+"paper": {
+"venue": "NBER",
+"year": "2026",
+"title": "Federal Eminent Domain and Interstate Energy Infrastructure: Evidence from History",
+"url": "https://www.nber.org/papers/w36027",
+"authors": [
+{
+"name": "Zachary Liscow",
+"aff": "Professor @ Yale Law",
+"url": "https://law.yale.edu/zachary-liscow"
+},
+{
+"name": "Joseph Shapiro",
+"aff": "Associate Professor @ UC Berkeley ARE",
+"url": "https://joseph-s-shapiro.com/"
+},
+{
+"name": "Heidi Williams",
+"aff": "Professor @ Dartmouth Econ",
+"url": "https://sites.google.com/view/heidi-l-williams/home"
+}
+],
+"abstract": "本文通过分析一段历史事件，就联邦征用权（eminent domain authority）如何影响能源运输基础设施建设提供实证证据。1947年《天然气法》（Natural Gas Act）修正案赋予经联邦批准的跨州天然气管道在与土地所有者谈判破裂时，通过征用权获取管道通行权的权力。我们利用新数字化的历史政府档案和行业媒体记录，将跨州天然气管道的建设情况与石油管道及州内天然气管道的建设情况进行比较，后两者均未直接受到该改革影响。1947年后，跨州天然气管道年新增里程增长近六倍，而石油管道增长保持平稳；跨州管道里程的增量也约为州内管道增量的五倍。两项比较均表明，该修正案显著促进了跨州天然气管道的建设。本文最后就这一历史证据对当前国会关于赋予跨州输电线路联邦征用权立法提案的启示进行了讨论。"
+},
+"summary": {}
 }
 ]
