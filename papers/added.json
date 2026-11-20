@@ -179,5 +179,37 @@
 "abstract": "本文通过分析一段历史事件，就联邦征用权（eminent domain authority）如何影响能源运输基础设施建设提供实证证据。1947年《天然气法》（Natural Gas Act）修正案赋予经联邦批准的跨州天然气管道在与土地所有者谈判破裂时，通过征用权获取管道通行权的权力。我们利用新数字化的历史政府档案和行业媒体记录，将跨州天然气管道的建设情况与石油管道及州内天然气管道的建设情况进行比较，后两者均未直接受到该改革影响。1947年后，跨州天然气管道年新增里程增长近六倍，而石油管道增长保持平稳；跨州管道里程的增量也约为州内管道增量的五倍。两项比较均表明，该修正案显著促进了跨州天然气管道的建设。本文最后就这一历史证据对当前国会关于赋予跨州输电线路联邦征用权立法提案的启示进行了讨论。"
 },
 "summary": {}
+},
+{
+"id": "19.8.1.10",
+"added": "2026-11-19T22:54:32",
+"field": "环境问题I：事实、影响与治理",
+"topic": "气候变化专题I：影响",
+"question": "综述：气候变化的影响",
+"paper": {
+"venue": "NBER",
+"year": "2026",
+"title": "The Impact of Climate Change on Fisheries",
+"url": "https://www.nber.org/papers/w35994",
+"authors": [
+{
+"name": "Fabio Cevenini",
+"aff": "Postdoc @ University of Trento",
+"url": "https://cevefabio.github.io/"
+},
+{
+"name": "Christopher Costello",
+"aff": "Professor @ UCSB Bren",
+"url": "https://www.christopherjcostello.com/"
+},
+{
+"name": "Carlo Fezzi",
+"aff": "Associate Professor @ @ University of Trento",
+"url": "https://sites.google.com/view/carlofezzi/home"
+}
+],
+"abstract": "本文首次对海洋温度变化对捕鱼收入的影响提供了因果估计。我们建立了一个简单的理论模型，以支撑基于实证的研究设定，该设定基于2013年至2022年间所有欧洲渔船共250万条空间显式捕鱼收入观测数据进行估计。识别策略利用了一项新颖指标——海洋度日数（Marine Degree Days），该指标基于生物学确定的热耐受区间，量化特定物种所受的温度暴露程度。在此框架内，我们应对了关键的识别挑战，包括空间选择性问题以及物种间的生态相互依赖性问题。我们发现，物种实际温度偏离其热偏好会导致捕鱼收入显著损失，其中热暴露造成的影响最为突出。这些效应受到物种垂直移动能力及生态特征的调节。基于不同气候情景的预测表明，到2100年捕鱼收入将出现广泛下滑，在最暖情景下年损失将高达5.6亿欧元，但影响在空间上呈现出高度异质性。收入较低的赤道地区预计受损最为严重，而部分较寒冷地区则将有所受益。"
+},
+"summary": {}
 }
 ]
