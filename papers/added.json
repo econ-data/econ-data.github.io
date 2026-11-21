@@ -566,5 +566,27 @@
 "abstract": "本文研究精英权力如何在明清鼎革之际于华中地区得以延续。我们利用夫妻及其后代的族谱微观数据，并结合地方精英影响力的衡量指标，估计明朝覆灭（1368—1644年）对家族（个体）与地区（地点）两个层面的影响。家族世系层面的处理组与对照组分析表明，精英阶层虽经历了影响力的即时衰落，但其后代在清朝统治下得以复兴并巩固了精英地位。与之形成对比的是，地区层面的研究设计显示，受明朝覆灭破坏程度更深的地区遭受了持久的不利后果。职业选择方面的证据与创伤诱发的向科举仕途转型相吻合，在受破坏程度更深的家族中，以科举为导向的规范呈现出更强的代际传递性。研究结果记录了精英家族在政权更迭下的适应性延续与地区层面的持久创伤并存这一现象，并揭示了文化传承在精英地位延续中所发挥的重要作用。"
 },
 "summary": {}
+},
+{
+"id": "11.6.2.6",
+"added": "2026-11-20T20:05:31",
+"field": "劳动问题：政策",
+"topic": "社会资本与代际流动专题",
+"question": "代际流动性受什么影响？",
+"paper": {
+"venue": "JEH",
+"year": "2025",
+"title": "Social Mobility in the Long Run: An Analysis of Tongcheng, China, 1300 to 1900",
+"url": "https://www.cambridge.org/core/journals/journal-of-economic-history/article/social-mobility-in-the-long-run-an-analysis-of-tongcheng-china-1300-to-1900/6ACF959FC27EC0534A5D86B9B7D60BFC",
+"authors": [
+{
+"name": "Carol H. Shiue",
+"aff": "Professor @ HKUST Econ",
+"url": "https://sites.google.com/view/carol-h-shiue/home"
+}
+],
+"abstract": "本文利用来自桐城县七个宗族的独特家谱数据，考察中国六个世纪以来的代际流动性，研究对象为父子配对样本，涵盖18代约四万名个体，分析范围涵盖从普通民众到进士（jinshi degree holders）的广泛社会阶层。研究发现，尽管社会流动性的变化较为迟缓，但流动性在十七世纪经历了一次显著提升。这一趋势的时间节点与若干影响平民及受过高等教育精英阶层流动性的关键变革相互印证。研究结果还表明，代际流动性与不平等程度在时间序列上呈负相关关系，这一规律此前已在横截面研究中得到观察，通常被称为\"了不起的盖茨比曲线\"（Great Gatsby curve）。"
+},
+"summary": {}
 }
 ]
