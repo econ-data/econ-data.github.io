@@ -588,5 +588,32 @@
 "abstract": "本文利用来自桐城县七个宗族的独特家谱数据，考察中国六个世纪以来的代际流动性，研究对象为父子配对样本，涵盖18代约四万名个体，分析范围涵盖从普通民众到进士（jinshi degree holders）的广泛社会阶层。研究发现，尽管社会流动性的变化较为迟缓，但流动性在十七世纪经历了一次显著提升。这一趋势的时间节点与若干影响平民及受过高等教育精英阶层流动性的关键变革相互印证。研究结果还表明，代际流动性与不平等程度在时间序列上呈负相关关系，这一规律此前已在横截面研究中得到观察，通常被称为\"了不起的盖茨比曲线\"（Great Gatsby curve）。"
 },
 "summary": {}
+},
+{
+"id": "15.3.6.5",
+"added": "2026-11-20T20:13:35",
+"field": "政经问题II：选举与政策",
+"topic": "政治需求专题",
+"question": "选举设计影响投票吗？",
+"paper": {
+"venue": "Science Advances",
+"year": "2020",
+"title": "The participatory and partisan impacts of mandatory vote-by-mail",
+"url": "https://www.science.org/doi/10.1126/sciadv.abc7685",
+"authors": [
+{
+"name": "Michael Barber",
+"aff": "Professor @ BYU Political Science",
+"url": "http://michaeljaybarber.com/"
+},
+{
+"name": "John B. Holbein",
+"aff": "Associate Professor @ UoV Public Policy",
+"url": "https://johnholbein.org/"
+}
+],
+"abstract": "近年来，强制邮寄投票（mandatory vote-by-mail）作为美国选举管理的一种方式受到广泛关注，然而政策制定者对这一方式的优劣存在分歧。这些争论的核心在于强制邮寄投票是否会使某一政党相对于另一政党获得优势。本文利用涵盖过去三十年的独特县级历史数据，以及来自两个采用渐进式强制邮寄投票推广方案的州（华盛顿州与犹他州）逾四千万条投票记录，采用多种因果推断方法进行分析，发现强制邮寄投票略微提高了选民投票率，但对各级政府的选举结果没有影响。我们的研究结论对当前有关强制邮寄投票优劣的论争具有重要意义——强制邮寄投票在保障公民拥有安全投票渠道的同时，并不会使任何一个政党获得相对优势。"
+},
+"summary": {}
 }
 ]
