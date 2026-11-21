@@ -507,5 +507,37 @@
 "abstract": "消除财富与教育不平等的努力能否根除社会经济地位的代际传递？中国共产主义革命与文化大革命（Cultural Revolution）正是以此为目标。本文利用新近数字化的档案记录以及当代人口普查和住户调查数据，表明这两场革命在短期内有效地实现了人口经济层面的同质化。然而，革命前一代所呈现的不平等格局在当今重新浮现。在革命结束近半个世纪后，祖辈属于革命前精英阶层（pre-revolution elite）的个体，其收入比非精英家庭出身者高出16%，受教育年限也多出逾11%。我们发现，人力资本（human capital，如知识、技能与价值观）在家庭内部得以传承，而根植于亲属网络中的社会资本（social capital）也在革命中存续下来。正是这些渠道使革命前精英阶层在革命后得以复苏，其社会经济地位得以延续，即便这已是历史上最为激进的消除人口差异的尝试之一。"
 },
 "summary": {}
+},
+{
+"id": "11.6.2.4",
+"added": "2026-11-20T20:02:09",
+"field": "劳动问题：政策",
+"topic": "社会资本与代际流动专题",
+"question": "代际流动性受什么影响？",
+"paper": {
+"venue": "AER",
+"year": "2021",
+"title": "The Intergenerational Effects of a Large Wealth Shock: White Southerners after the Civil War",
+"url": "https://www.aeaweb.org/articles?id=10.1257/aer.20191422",
+"authors": [
+{
+"name": "Philipp Ager",
+"aff": "Professor @ University of Mannheim Econ",
+"url": "https://www.philippager.com/cv"
+},
+{
+"name": "Leah Boustan",
+"aff": "Professor @ Yale Econ",
+"url": "https://lboustan.scholar.princeton.edu/home"
+},
+{
+"name": "Katherine Eriksson",
+"aff": "Associate Professor @ UC Davis Econ",
+"url": "https://kaerikss.faculty.ucdavis.edu/"
+}
+],
+"abstract": "美国内战（1861—1865年）后奴隶财富的废除，是历史上规模最大的财富压缩事件之一。本文记录了这样一个现象：在1860年拥有更多奴隶的南方白人家庭，相较于战前同等财富水平的南方家庭，到1870年损失了大量更多的财富。然而，这些家庭的儿子一代在1900年时几乎完全从这一财富冲击中恢复，其孙子一代则于1940年彻底实现了财富收敛。婚姻网络以及与其他精英家庭的社会联系可能有助于财富的恢复，而企业家精神与技能的代际传递则似乎并非核心因素。"
+},
+"summary": {}
 }
 ]
