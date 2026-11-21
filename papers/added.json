@@ -307,5 +307,37 @@
 "abstract": "家庭能源使用约占美国排放总量的三分之一。本文以一项新调查为基础，构建了一个量化模型，其中家庭在收入水平和减少排放意愿方面存在异质性。本文对电动汽车、热泵等清洁设备及居民太阳能（residential solar）的成本最小化补贴进行分析，得出三点发现。第一，太阳能获得最高补贴率，并贡献了超过三分之一的减排量，这反映了其与清洁设备之间的互补性。第二，将补贴资格限定于低收入家庭仅能带来微小的成本节约。第三，若不存在环保偏好，家庭排放量将高出15%以上。"
 },
 "summary": {}
+},
+{
+"id": "19.6.2.5",
+"added": "2026-11-20T19:17:50",
+"field": "环境问题I：事实、影响与治理",
+"topic": "水资源与水污染专题",
+"question": "如何使用水资源？",
+"paper": {
+"venue": "NBER",
+"year": "2026",
+"title": "Are We Consuming Too Much Groundwater?",
+"url": "https://www.nber.org/papers/w35904",
+"authors": [
+{
+"name": "Brian Greaney",
+"aff": "Economist @ FRB Dallas",
+"url": "https://sites.google.com/view/briangreaney"
+},
+{
+"name": "Joseph Shapiro",
+"aff": "Associate Professor @ UC Berkeley ARE",
+"url": "https://joseph-s-shapiro.com/"
+},
+{
+"name": "Katherine Wagner",
+"aff": "AP @ UBC Econ",
+"url": "https://www.krhwagner.com/"
+}
+],
+"abstract": "本文研究全球3,400个含水层（aquifer）中人类地下水开采的最优性问题，其中制度失灵或市场失灵可能导致非最优的开采决策。我们利用遥感数据与经济数据，对每个含水层构建地下水开采动态模型，还原使观测到的地下水开采行为合理化的贴现因子（discount factor），并将其与拉姆齐（Ramsey）基准和市场基准进行比较。我们发现，五分之三至五分之四的含水层开采速度超过最优水平，导致含水层现值下降若干个百分点，并造成数万亿美元的现值福利损失。通过补贴或优先占用权（prior appropriation）向用户永久保证固定供水量的政策，以及完全忽视未来开采价值的政策规则，会产生更大的福利损失。由于大多数含水层蓄水量已处于低效偏低的水平，永久维持当前蓄水量的可持续开采路径所带来的福利显著低于最优开采路径。"
+},
+"summary": {}
 }
 ]
