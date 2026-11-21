@@ -425,5 +425,47 @@
 "abstract": "本文研究页岩革命（shale revolution）及美国从石油进口国转变为净出口国如何改变了石油冲击的宏观经济效应。利用从欧佩克（OPEC）公告中识别出的石油供给新闻冲击，一个时变美国宏观经济模型表明，石油冲击的紧缩效应随时间推移逐渐减弱，并最终转变为扩张效应。状态依存局部投影（state-dependent local projections）将这一变化与美国石油贸易收支相联系。这一改善超越了简单的净出口机制效应：随着贸易条件（terms-of-trade）反应趋于有利，消费、股票估值和经济活动在各行业和地区普遍增强，表明存在一般均衡（general-equilibrium）层面的收入效应与财富效应。对2022年油价飙升的反事实分析表明，在页岩繁荣前与2020年代初期两种不同传导机制下，美国经济活动、价格水平和货币政策将呈现出截然不同的演变路径。"
 },
 "summary": {}
+},
+{
+"id": "19.4.2.10",
+"added": "2026-11-20T19:26:30",
+"field": "环境问题I：事实、影响与治理",
+"topic": "空气污染专题I：影响",
+"question": "空气污染影响发病率吗？",
+"paper": {
+"venue": "NBER",
+"year": "2026",
+"title": "The Effects of Long-Term Exposure to Pollution on Health",
+"url": "https://www.nber.org/papers/w35871",
+"authors": [
+{
+"name": "Joshua Graff Zivin",
+"aff": "Professor @ UCSD Econ",
+"url": "https://www.joshgraffzivin.com/"
+},
+{
+"name": "Johnny Huynh",
+"aff": "AP @ Dartmouth Medicine",
+"url": "https://sites.google.com/view/shjhuynh/home"
+},
+{
+"name": "Timothy Frank Justicz",
+"aff": "Major @ United States Army",
+"url": "https://oema.army.mil/wp-content/uploads/2021/03/Justicz_CV.pdf"
+},
+{
+"name": "Adriana Lleras-Muney",
+"aff": "Professor @ UCLA Econ",
+"url": "https://adriana-llerasmuney.squarespace.com/"
+},
+{
+"name": "Matthew Neidell",
+"aff": "Professor @ Columbia Public Health",
+"url": "https://www.columbia.edu/~mn2191/"
+}
+],
+"abstract": "本文首次提供了因果证据，揭示长期暴露于当代环境水平的细颗粒物（PM2.5）如何促进一个年轻、初始健康人群慢性疾病的发展。我们的分析将约15万名美国陆军士兵的详细人事档案与高分辨率年度PM2.5测量数据相关联。由于士兵入伍时健康状况极佳，且享有统一的医疗保障，新确诊病例反映的是污染对生理的实际影响，而非既有病症或差异化医疗获取的结果。士兵还须根据军队需要进行驻地调动，这为我们提供了初始驻地分配上的准随机变异，我们以此作为工具变量来衡量士兵职业生涯中的年均污染暴露水平。我们发现，持续的PM2.5暴露会显著增加循环系统疾病风险，尤其是高血压，而对呼吸系统疾病的影响证据不一，且对模型设定较为敏感。相比之下，较短时间的暴露几乎没有可检测到的影响，这一规律与污染健康负担的累积性特征相吻合。上述发现表明，即便是中等程度的长期空气污染暴露，也能以仅聚焦于短期变动或死亡率的研究所无法察觉的方式侵蚀健康资本，同时也凸显了将慢性暴露风险纳入监管标准的重要性。"
+},
+"summary": {}
 }
 ]
