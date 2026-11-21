@@ -275,5 +275,37 @@
 "abstract": "本文使用大型语言模型（LLMs）作为合成调查受访者，从480个零售投资者身份和60个机构投资者身份中获取绿色偏好、回报预期、投资组合配置及投资动机。与零售投资者相比，机构投资者报告的绿色偏好较弱，但投资组合的绿色倾斜程度更高，其原因在于外部压力。因此，更强的绿色倾斜未必反映更强的绿色偏好。零售投资者的偏好主要取决于政治立场，机构投资者的偏好则主要取决于机构类型和地理位置。信念在ESG（环境、社会与治理）三个维度上存在差异，其中高治理水平的投资组合被预期将取得超额回报。本文利用经日期屏蔽处理、跨年度随机排列的信息模块，在2014至2025年的信息环境下重构了调查回应。结果显示，偏好随时间变化甚微，但关于绿色投资组合的信念在2020年后趋于悲观。两个重构序列与不同的现实数据相关：偏好与绿色需求指标相关，信念则与关注度指标相关。"
 },
 "summary": {}
+},
+{
+"id": "21.12.1.12",
+"added": "2026-11-20T19:16:16",
+"field": "能源问题",
+"topic": "能源转型专题IV：政策设计",
+"question": "如何设计新能源补贴？",
+"paper": {
+"venue": "NBER",
+"year": "2026",
+"title": "Homework in Climate Economics: Household Production, Environmental Preferences, and Climate Policy",
+"url": "https://www.nber.org/papers/w35945",
+"authors": [
+{
+"name": "Stephie Fried",
+"aff": "Economist @ FEB San Francisco",
+"url": "https://sites.google.com/site/stephiedfried/"
+},
+{
+"name": "David Lagakos",
+"aff": "Professor @ BU Econ",
+"url": "https://davidlagakos.io/"
+},
+{
+"name": "Hannah Rhodenhiser",
+"aff": "AP @ Hamilton College Econ",
+"url": "https://sites.google.com/view/hannahrhodenhiser"
+}
+],
+"abstract": "家庭能源使用约占美国排放总量的三分之一。本文以一项新调查为基础，构建了一个量化模型，其中家庭在收入水平和减少排放意愿方面存在异质性。本文对电动汽车、热泵等清洁设备及居民太阳能（residential solar）的成本最小化补贴进行分析，得出三点发现。第一，太阳能获得最高补贴率，并贡献了超过三分之一的减排量，这反映了其与清洁设备之间的互补性。第二，将补贴资格限定于低收入家庭仅能带来微小的成本节约。第三，若不存在环保偏好，家庭排放量将高出15%以上。"
+},
+"summary": {}
 }
 ]
