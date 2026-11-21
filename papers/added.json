@@ -211,5 +211,42 @@
 "abstract": "本文首次对海洋温度变化对捕鱼收入的影响提供了因果估计。我们建立了一个简单的理论模型，以支撑基于实证的研究设定，该设定基于2013年至2022年间所有欧洲渔船共250万条空间显式捕鱼收入观测数据进行估计。识别策略利用了一项新颖指标——海洋度日数（Marine Degree Days），该指标基于生物学确定的热耐受区间，量化特定物种所受的温度暴露程度。在此框架内，我们应对了关键的识别挑战，包括空间选择性问题以及物种间的生态相互依赖性问题。我们发现，物种实际温度偏离其热偏好会导致捕鱼收入显著损失，其中热暴露造成的影响最为突出。这些效应受到物种垂直移动能力及生态特征的调节。基于不同气候情景的预测表明，到2100年捕鱼收入将出现广泛下滑，在最暖情景下年损失将高达5.6亿欧元，但影响在空间上呈现出高度异质性。收入较低的赤道地区预计受损最为严重，而部分较寒冷地区则将有所受益。"
 },
 "summary": {}
+},
+{
+"id": "19.16.5.5",
+"added": "2026-11-20T18:56:01",
+"field": "环境问题I：事实、影响与治理",
+"topic": "环境治理专题V：其它",
+"question": "环境信息披露是否有用？",
+"paper": {
+"venue": "NBER",
+"year": "2026",
+"title": "Pollution Monitoring and the Pricing of Environmental Risk in Firms",
+"url": "https://www.nber.org/papers/w35969",
+"authors": [
+{
+"name": "Namrata Kala",
+"aff": "Associate Professor @ MIT Sloan",
+"url": "https://namratakala.com/"
+},
+{
+"name": "Jalal Sani",
+"aff": "Assistant Professor @ UIUC Gies",
+"url": "https://giesbusiness.illinois.edu/profile/jalal-sani"
+},
+{
+"name": "Nemit Shroff",
+"aff": "Professor @ MIT Sloan",
+"url": "https://mitsloan.mit.edu/faculty/directory/nemit-shroff"
+},
+{
+"name": "Pengdong Zhang",
+"aff": "Associate Professor @ SYSU Business",
+"url": "https://bus.sysu.edu.cn/en/teacher/6318"
+}
+],
+"abstract": "本文的核心议题在于对企业环境风险的定价，这对于确保资本的有效配置至关重要。我们考察了污染信息显著性（salience）的提升是否会影响金融领域专业人士——即证券分析师——对其所跟踪企业所面临环境风险的信念与估值判断。利用中国环境空气质量监测项目的错序推出（staggered rollout），我们发现，当某城市引入空气质量监测后，驻扎于该城市的分析师在研究报告中讨论大气污染的频率显著上升。这种关注度的变化进一步反映在股票价格中：由受处理分析师（treated analysts）发布的报告，对\"棕色企业\"（brown firms，即高污染企业）引发了更为显著的负向市场反应，对\"绿色企业\"（green firms）则引发了更为显著的正向反应，而对环境中性企业的影响甚微。上述价格反应事后并未发生逆转。受处理分析师还通过企业实地调研加强了信息获取，并对棕色企业给出了更为悲观的评级，对绿色企业给出了更为乐观的评级。本文的研究结论表明，环境空气质量监测能够通过提升环境风险的显著性、促进市场对其企业价值含义的信息生产，进而对资产价格产生实质性影响。"
+},
+"summary": {}
 }
 ]
