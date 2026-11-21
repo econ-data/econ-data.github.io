@@ -467,5 +467,45 @@
 "abstract": "本文首次提供了因果证据，揭示长期暴露于当代环境水平的细颗粒物（PM2.5）如何促进一个年轻、初始健康人群慢性疾病的发展。我们的分析将约15万名美国陆军士兵的详细人事档案与高分辨率年度PM2.5测量数据相关联。由于士兵入伍时健康状况极佳，且享有统一的医疗保障，新确诊病例反映的是污染对生理的实际影响，而非既有病症或差异化医疗获取的结果。士兵还须根据军队需要进行驻地调动，这为我们提供了初始驻地分配上的准随机变异，我们以此作为工具变量来衡量士兵职业生涯中的年均污染暴露水平。我们发现，持续的PM2.5暴露会显著增加循环系统疾病风险，尤其是高血压，而对呼吸系统疾病的影响证据不一，且对模型设定较为敏感。相比之下，较短时间的暴露几乎没有可检测到的影响，这一规律与污染健康负担的累积性特征相吻合。上述发现表明，即便是中等程度的长期空气污染暴露，也能以仅聚焦于短期变动或死亡率的研究所无法察觉的方式侵蚀健康资本，同时也凸显了将慢性暴露风险纳入监管标准的重要性。"
 },
 "summary": {}
+},
+{
+"id": "11.6.2.3",
+"added": "2026-11-20T20:00:47",
+"field": "劳动问题：政策",
+"topic": "社会资本与代际流动专题",
+"question": "代际流动性受什么影响？",
+"paper": {
+"venue": "NBER",
+"year": "2020",
+"title": "Persistence Despite Revolutions",
+"url": "https://www.nber.org/papers/w27053",
+"authors": [
+{
+"name": "Alberto Alesina",
+"aff": "Former Professor @ Harvard Econ",
+"url": "https://en.wikipedia.org/wiki/Alberto_Alesina"
+},
+{
+"name": "Marlon Seror",
+"aff": "Associate Professor @ Université du Québec à Montréal",
+"url": "https://marlonseror.github.io/"
+},
+{
+"name": "David Yang",
+"aff": "Professor @ Harvard Econ",
+"url": "https://davidyyang.com/"
+},
+{
+"name": "Yang You",
+"aff": "AP @ HKU Econ",
+"url": "http://yangyou1.weebly.com/"
+},
+{
+"name": "Weihong Zeng"
+}
+],
+"abstract": "消除财富与教育不平等的努力能否根除社会经济地位的代际传递？中国共产主义革命与文化大革命（Cultural Revolution）正是以此为目标。本文利用新近数字化的档案记录以及当代人口普查和住户调查数据，表明这两场革命在短期内有效地实现了人口经济层面的同质化。然而，革命前一代所呈现的不平等格局在当今重新浮现。在革命结束近半个世纪后，祖辈属于革命前精英阶层（pre-revolution elite）的个体，其收入比非精英家庭出身者高出16%，受教育年限也多出逾11%。我们发现，人力资本（human capital，如知识、技能与价值观）在家庭内部得以传承，而根植于亲属网络中的社会资本（social capital）也在革命中存续下来。正是这些渠道使革命前精英阶层在革命后得以复苏，其社会经济地位得以延续，即便这已是历史上最为激进的消除人口差异的尝试之一。"
+},
+"summary": {}
 }
 ]
